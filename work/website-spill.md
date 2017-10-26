@@ -1,0 +1,99 @@
+# Old list for review & delete
+
+## website process
+
+editorconfig
+linting rules (php, eslint, css)
+
+testing:
+
+pingdom
+webpagetest
+https://www.webpagetest.org/
+check out lighthouse and add it to travis ci
+
+static:
+
+pelican
+jekyll
+
+
+
+
+
+Competitive benchmark three top competitors
+Query & speed improvments same competitors
+query & speed assement of current site
+other test to assess current site (should match final tests)
+Keyword research, target top 10 opportunities
+Optimize page titles
+Meta descriptions
+SEO copywriting / text optimization
+Image optimization
+Google XML
+Robots.txt
+Optimize up to 3 locations' Google Locale, Bing, CitySearch & Yelp profiles; one round of review & revisions for each profile
+Access log retrieval
+AWS should have an entry for turning on access permissions and demoing logs
+Analyticsd training & modules in a document
+Look at AAWARDS necesities for our build
+Analytics in general
+Schéma
+WP engine report tools
+Other reports
+Webmaster tools
+Website clients ?
+Maintenance tasks
+Security Audits
+hosting
+schema.org / OpenGraph
+Analytics
+marketing
+Security (ithemes, bulletproof,sucuri)
+Forms
+Module validation
+SEO & Schema setup (plugins?)
+Performance testing
+Dev list of tasks from wordpress install
+What to do on new projects
+Disable attachment pages?
+Yoast kill redirects
+Grab useful tweaks from foundation
+Make a list of all custom functions and tweaks and gist them shakti/standard/vsf
+Test out pantheon for staging / testing
+Move and combine wordpres helpful functions with helpful functions I followed on github
+Move cheat sheet notes to a repo and make everything a commen
+Find an issue tracker I can use for free (http://www.redmine.org/ vs jira)
+prose.io
+
+## LINKS
+
+https://torquemag.io/2017/07/developers-checklist-redesigning-websites/
+[Website pre & post launch checklist](https://humaan.com/checklist/)
+[client questionaire](https://business.tutsplus.com/articles/how-to-extract-the-facts-with-a-web-design-client-questionnaire--fsw-1830)
+https://github.com/jonathantneal/website-checklist
+https://weblaunchchecklist.com/
+http://bradymower.com/rates-as-a-wordpresser-and-web-designer/
+http://chrislema.com/why-i-never-charge-hourly-for-wordpress-work/
+https://poststatus.com/wordpress-website-cost/
+https://wpml.org/2013/11/drupal-developers-make-x10-wordpress-developers/
+https://build.codepoet.com/2012/05/11/getting-pricing-right/
+http://andyadams.org/wp-talent-shortage/
+http://andyadams.org/you-can-charge-more/
+https://poststatus.com/wordpress-website-cost/
+https://codeable.io/words-hire-remote-wordpress-developers/
+https://wpshout.com/long-building-wordpress-site-take/
+https://jamstack.org/best-practices/
+http://danbahrami.io/articles/building-a-production-website-with-hugo-and-gulp-js/
+https://business.tutsplus.com/articles/how-to-extract-the-facts-with-a-web-design-client-questionnaire--fsw-1830
+http://www.traceygrady.com/graphic-design/design-checklist-what-clients-should-provide-their-designer
+https://lorelle.wordpress.com/2005/10/17/step-by-step-website-development-check-list/
+https://www.smashingmagazine.com/2009/04/15-essential-checks-before-launching-your-website/
+https://www.smashingmagazine.com/2010/07/what-is-the-last-thing-you-do-before-you-launch-a-website/
+http://webdevchecklist.com/
+https://www.orbitmedia.com/blog/website-launch-checklist/
+https://gist.github.com/smutnyleszek/9972074
+https://github.com/jonathantneal/website-checklist
+https://gist.github.com/midorikocak/efe44e1f7a1931983e7f
+https://github.com/ligershark/webdevchecklist.com
+https://www.boxuk.com/insight/blog-posts/the-ultimate-website-launch-checklist

@@ -1,0 +1,18 @@
+# Cheat sheet : Windows
+
+## Run a system file check (SFC) both before and after DISM
+
+Run cmd as Administrator, then either
+
+    sfc /scannow # verify and repair the OS
+    sfc /verifyonly # verify only (dry-run)
+
+## Deployment Image Servicing and Management (DISM)
+
+This command line tool services a Windows image or prepares a Windows Preinstallation Environment (Windows PE) image.
+
+Run cmd as Administrator, then
+
+    DISM /Online /Cleanup-Image /CheckHealth # checks for flags of corrupted
+    DISM /Online /Cleanup-Image /ScanHealth # Scans health (doesnt fix)
+    DISM /Online /Cleanup-Image /RestoreHealth # Scans & repairs (recommended) - takes 15 to 30 mins
