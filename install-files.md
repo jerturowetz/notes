@@ -144,3 +144,7 @@ Run `regedit` and find the following key:
     HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
 
 Right click and delete the whole folder
+
+## Steam games start menu folder fix
+
+    mklink /J "%USERPROFILE%\Start Menu\Programs\Steam" "%USERPROFILE%\Start Menu\Programs\Games\Steam"
