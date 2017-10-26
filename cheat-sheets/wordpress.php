@@ -49,6 +49,27 @@ endif;
 
 
 
+WP engine server rule
+We're using this on standardnet to redirect non-logged-in users to the login page if they're trying to access an image
+
+set $is_image 0;
+if ( $uri ~* "^/wp-content/uploads/.+" ) {
+  set $is_image 1;
+}
+
+set $logged_in 0;
+if ( $http_cookie ~* "wordpress_logged_in" ) {
+  set $logged_in 1;
+}
+
+set $got_both_cookie_vars "$is_image:$logged_in";
+if ( $got_both_cookie_vars = "1:0" ) {
+  rewrite ^/(.*) https://secure.standardpro.com/wp-login.php?redirect_to=https://secure.standardpro.com/$1&reauth=1;
+}
+
+
+
+
 ## Disable Editing in Dashboard
 define('DISALLOW_FILE_EDIT', true);
 
