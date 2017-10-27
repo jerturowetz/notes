@@ -18,6 +18,23 @@ pelican
 jekyll
 
 
+Set up ssl
+
+### Analytics & SEO
+
+pick preferred domain (i like www)
+301 redirect other versions (http to https non-www to www) of website to the 1 
+
+Add sites to search console:
+- set preffered domain
+- set country
+- invite users
+- add sitemap
+- Wordpress yoast sitemaps are https://www.codycaissie.com/sitemap_index.xml
+
+
+
+
 
 
 
