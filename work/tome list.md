@@ -10,6 +10,15 @@
 - Navbar something?
 - Get other project logos?
 
+## Ref for grid
+
+[An equal height grid using Flexbox](http://www.lottejackson.com/learning/an-equal-height-grid-using-flexbox)
+[Creating Pure CSS Equal-height Columns](http://w3bits.com/equal-height-css-columns/)
+[RESPONSIVE EQUAL HEIGHT GRID COLUMNS](https://www.tenpixelsleft.com/responsive-equal-height-grid-columns/)
+[Flexbox Equal Height Columns](https://davidwalsh.name/flexbox-column)
+[How To Approach CSS layouts in 2017 — and beyond.](https://medium.com/flexbox-and-grids/css-flexbox-grid-layout-how-to-approach-css-layouts-in-2017-and-beyond-685deef03e6c)
+[Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+
 ## Projects
 
 [One Lands/Ghost Love](https://www.youtube.com/watch?v=HjlrUU3jYLU)
