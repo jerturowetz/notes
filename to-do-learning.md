@@ -4,6 +4,10 @@
 [Explore Netlify](https://www.netlify.com/)
 [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 [Understanding Yaml](https://docs.saltstack.com/en/latest/topics/yaml/)
+[How To Install Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04)
+[How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04)
+[How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
+[DELTACOPY - Rsync for windows](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp)
 
 ## Planning a path
 
