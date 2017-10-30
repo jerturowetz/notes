@@ -17,6 +17,10 @@ echo ~1
 cp ~1/filename.ext .
 mv ~1/filename.ext newname.ext
 
+## Get all folders
+
+ls -ald .*/ */
+
 ## Command history
 
 history 		# show command history
