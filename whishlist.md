@@ -63,6 +63,17 @@ Danceland
 
 ## workshop & soldering station
 
+
+
+need more balanced 1/4 to xlr adaptors cables
+Short balanced cables
+usb c hub thing (dvid / vga)
+tons of xlrs
+make a bunch of 50ft cables 
+trs male connectors
+xlr male & female connectors 
+
+
 - small flashlight
 - gaffer tape
 - Vise, panavise and/or helping hands
@@ -95,12 +106,16 @@ Danceland
 
 - Reason, Cubase, Live
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- Mixer & case
 - 2 stands for guit & bass mics, amp clips
 - k&m 23323 for snare bottom
 - k&m 21021 for overheads & weight
+
+
 - radial j48 x2
 - Passive DI
 - Keys DI
 - room mic for drums
 - Some type of OHs
+laptop stand
+radial key largo
+stereo DI
