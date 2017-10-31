@@ -6,17 +6,17 @@
 
 ## Ingredients
 
-1 pound dry spaghettini or thin spaghetti
-1 1/2 pounds peeled and deveined uncooked medium shrimp
-Kosher salt
-Freshly ground black pepper
-2 tablespoons olive oil
-1/2 cup dry white wine
-6 cloves garlic, minced
-1/4 teaspoon red pepper flakes
-3 tablespoons cold, unsalted butter, cut into small cubes
-1/4 cup coarsely chopped fresh flat-leaf parsley
-Juice from 1/2 a medium lemon
+- 1 pound dry spaghettini or thin spaghetti
+- 1 1/2 pounds peeled and deveined uncooked medium shrimp
+- Kosher salt
+- Freshly ground black pepper
+- 2 tablespoons olive oil
+- 1/2 cup dry white wine
+- 6 cloves garlic, minced
+- 1/4 teaspoon red pepper flakes
+- 3 tablespoons cold, unsalted butter, cut into small cubes
+- 1/4 cup coarsely chopped fresh flat-leaf parsley
+- Juice from 1/2 a medium lemon
 
 ## Instructions
 
