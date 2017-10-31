@@ -10,8 +10,8 @@
 
 - aa roaul notes
 - Retire mu-plugins on standard
-- clean up gists
 - Add gforms s3 fix to gists
+- clean up gists
 - wordpress snippets to files
 - go through new plugins
 - review developer plugins
