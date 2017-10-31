@@ -17,9 +17,11 @@ echo ~1
 cp ~1/filename.ext .
 mv ~1/filename.ext newname.ext
 
-## Get all folders
-
+## list all folders hidden and otherwise
 ls -ald .*/ */
+
+## rsync some stuff
+rsync -avr --exclude 'client_area*' codycaissie@67.205.172.59:public_html_redirect/ .
 
 ## Command history
 
