@@ -1,5 +1,22 @@
 # Jer's To-Do List
 
+need more balanced 1/4 to xlr adaptors cables
+Short balanced cables
+usb c hub thing (dvid / vga)
+test with current hub thibg both vga and usb 
+laptop stand
+tons of xlrs
+powered monitor
+radial key largo
+stereo DI
+make a bunch of 50ft cables 
+
+trs male connectors
+xlr male & female connectors 
+
+
+
+
 ## BKDSN
 
 - Finish website plan
