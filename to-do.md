@@ -8,6 +8,7 @@
 
 ## Personal
 
+- Unlock pink phone 1-866-558-2273
 - aa roaul notes
 - Retire mu-plugins on standard
 - Add gforms s3 fix to gists
