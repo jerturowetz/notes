@@ -8,6 +8,7 @@
 
 ## Personal
 
+- pick up cables by erin
 - aa roaul notes
 - Retire mu-plugins on standard
 - Add gforms s3 fix to gists
