@@ -9,7 +9,12 @@
 ## Personal
 
 - pick up cables by erin
-- Unlock pink phone 1-866-558-2273
+- Unlock pink phone  3
+
+3566-0808-524-1891
+
+
+
 - aa roaul notes
 - Retire mu-plugins on standard
 - Add gforms s3 fix to gists
