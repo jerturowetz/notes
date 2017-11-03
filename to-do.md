@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+## Psych help
+
+- [IUSMM Research](http://www.iusmm.ca/research.html)
+- [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
+- [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
+- [Douglas?](http://www.douglas.qc.ca/?locale=en)
+
 ## Groceries
 
 - dish soap
@@ -26,8 +33,6 @@
 - wordpress snippets to files
 - go through new plugins
 - review developer plugins
-- iusmm.ca
-- ocd resources for psychiatrist
 - Warn shakti of email changes
 - Shut down rackspace
 - Dad buy new phone for telus
