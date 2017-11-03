@@ -1,14 +1,11 @@
-dish soap
-pockled aggplant
-eggs
-enlish muffins
-bananAs
-bread
+## Groceries
 
-large ziplock vags
-clr vathroom fleanrr 
-mosr
-
-
-
-
+- dish soap
+- pickled eggplant
+- eggs
+- bacon
+- english muffins
+- bread
+- bananas
+- large & medium ziplock bags
+- CLR bathroom cleaner

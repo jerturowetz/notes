@@ -1,5 +1,17 @@
 # Jer's To-Do List
 
+## Groceries
+
+- dish soap
+- pickled eggplant
+- eggs
+- bacon
+- english muffins
+- bread
+- bananas
+- large & medium ziplock bags
+- CLR bathroom cleaner
+
 ## BKDSN
 
 - Finish website plan
@@ -9,15 +21,7 @@
 ## Personal
 
 - pick up cables by erin
-- Unlock pink phone  3
-
-3566-0808-524-1891
-
-
-
 - aa roaul notes
-- Retire mu-plugins on standard
-- Add gforms s3 fix to gists
 - clean up gists
 - wordpress snippets to files
 - go through new plugins
