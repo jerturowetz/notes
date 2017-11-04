@@ -1,5 +1,8 @@
 # To do : Code School
 
+[The Events Calendar Themer guide](https://theeventscalendar.com/knowledgebase/themers-guide/?utm_medium=plugin-tec&utm_source=generaltab&utm_campaign=in-app)
+[WPML Dev guide](https://wpml.org/documentation/support/)
+
 [Servers for hackers](https://serversforhackers.com/)
 [Explore Netlify](https://www.netlify.com/)
 [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)

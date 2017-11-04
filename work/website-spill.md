@@ -21,7 +21,7 @@ jekyll
 Set up ssl
 
 
-
+set wp-config memory limits & auto-update rules
 
 
 if https 
