@@ -106,3 +106,4 @@ Nicer Shoes (Steve Madden - size 10)
 - Keys DI (stereo passive DI)
 - radial key largo/mixer
 - room mic for drums
+- Rack drawer for laptop
