@@ -2,10 +2,6 @@
 
 Headphone ext
 Stereo mic attachment bar (for the studio project c4)
-USB C hub (vga, usbs)
-Mouse, Keyboard, stand
-XLRs (4 each 3', 10', 35', 50')
-TRS cable (4 x 3')
 
 ## Groceries
 
