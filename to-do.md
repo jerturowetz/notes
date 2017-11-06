@@ -1,23 +1,40 @@
 # Jer's To-Do List
 
+headhone ext - make em ?
+xlrs (4x10, 4x35, 4x50)
+scissors
+3ft cables (xlr, trs)
+
+rode nt1
+shure pe588
+studio project c4
+
+multithing for the arudio projexts c4
+
+usb c hub (vga, usb)
+mouse, keys, stand
+
+https://drive.google.com/folderview?id=1b2rGBiRoUaPBZPZo3DonttOvgYrjCLs_
+
+
+## Groceries
+
+KD
+Basil
+Bathroom cleaner
+tinfoil
+ziplocks
+fine salt
+honey
+tea
+
+
 ## Psych help
 
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
-
-## Groceries
-
-- dish soap
-- pickled eggplant
-- eggs
-- bacon
-- english muffins
-- bread
-- bananas
-- large & medium ziplock bags
-- CLR bathroom cleaner
 
 ## BKDSN
 
