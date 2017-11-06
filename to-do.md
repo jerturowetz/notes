@@ -16,18 +16,16 @@ mouse, keys, stand
 
 https://drive.google.com/folderview?id=1b2rGBiRoUaPBZPZo3DonttOvgYrjCLs_
 
-
 ## Groceries
 
-KD
-Basil
-Bathroom cleaner
-tinfoil
-ziplocks
-fine salt
-honey
-tea
-
+- KD
+- Basil
+- Bathroom cleaner
+- tinfoil
+- ziplocks
+- fine salt
+- honey
+- tea
 
 ## Psych help
 
