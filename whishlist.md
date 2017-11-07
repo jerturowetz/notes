@@ -95,13 +95,16 @@ Nicer Shoes (Steve Madden - size 10)
 
 ## Music gear
 
+- K&M 23550 adjustable dual microphone bar
+- Mic stands for guit & bass mics, amp clips
+- K&M 21021 for overheads & weight
+- K&M 23323 for snare bottom
+- K&M 210/8 Mic stand x2 (chrome, for vox)
+- Atlas or K&M 21430 stand for OH
 - usb c hub thing (USB for fireface, keyboard, mouse, dvid/vga for monitor)
 - laptop/electornics stand
 - Reason, Cubase, Live
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- 2 stands for guit & bass mics, amp clips
-- k&m 23323 for snare bottom
-- k&m 21021 for overheads & weight
 - radial j48 x2
 - Keys DI (stereo passive DI)
 - radial key largo/mixer
