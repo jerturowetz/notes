@@ -23,6 +23,15 @@ Nicer Shoes (Steve Madden - size 10)
 - $80 XtraTuf 6 In. Ankle Boot (Gray-yellow)
 - $125 LaCrosse Hampton {small rain boot}
 
+## Kate Xmas
+
+- [$40 - Cuisinart CPM-100C Popcorn maker](https://www.amazon.ca/Cuisinart-CPM-100C-Easypop-Popcorn-Maker/dp/B008MH9TXW/)
+- Dredge for popcorn salt
+- [$30 - West elm glass terrariums](https://www.westelm.com/products/faceted-glass-terrariums-iridescent-d4902/)
+- [$38 - Cherry Bombe: The Cookbook](https://www.amazon.ca/Cherry-Bombe-Cookbook-Kerry-Diamond/dp/055345952X/)
+- [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
+- [$28 - Cabin Porn book](https://www.amazon.ca/Cabin-Porn-Inspiration-Quiet-Somewhere/dp/0316378216/)
+
 ## Mandolin
 
 - $50 OXO Good Grips V-Blade mandoline

@@ -5,9 +5,6 @@
 K&M 23550 adjustable dual microphone bar
 Hardcore Boom mic stand
 Room Mic stand
-
-
-
 Headphone ext
 Stereo mic attachment bar (for the studio project c4)
 
@@ -38,6 +35,7 @@ Stereo mic attachment bar (for the studio project c4)
 
 ## Personal
 
+- Boots via [The Last Hunt](https://www.thelasthunt.com)
 - pick up cables by erin
 - aa roaul notes
 - clean up gists
