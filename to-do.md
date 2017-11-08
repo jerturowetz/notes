@@ -12,7 +12,8 @@ logtexh universal usb
 
 dream rig
 mixer
-patxh panel
+patxh panel for behribger
+patch panel for mixer
 other pres
 portavle rack case
 rack case with wheels and eq & gate & side mounted panels
