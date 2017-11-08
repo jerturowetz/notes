@@ -1,41 +1,5 @@
 # Jer's To-Do List
 
-## For recording
-
-K&M 23550 adjustable dual microphone bar
-Hardcore Boom mic stand
-Room Mic stand
-Headphone ext
-Stereo mic attachment bar (for the studio project c4)
-
-
-USB C hub (vga, usbs)
-Mouse, Keyboard, stand
-XLRs (4 each 3', 10', 35', 50')
-TRS cable (4 x 3')
-logtexh universal usb
-
-dream rig
-mixer
-patxh panel for behribger
-patch panel for mixer
-other pres
-portavle rack case
-rack case with wheels and eq & gate & side mounted panels
-
-
-
-
-## Groceries
-
-- KD
-- Basil
-- Bathroom cleaner
-- ziplocks
-- fine salt
-- honey
-- tea
-
 ## Psych help
 
 - [IUSMM Research](http://www.iusmm.ca/research.html)
@@ -43,12 +7,6 @@ rack case with wheels and eq & gate & side mounted panels
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
 - Foundation TOC:: 514-727-0012
-
-## BKDSN
-
-- Finish website plan
-- Finish CULT Mtl quote & send Bart big email for review
-- CULT Mtl go through current site & get endpoints / modules
 
 ## Personal
 

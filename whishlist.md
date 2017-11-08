@@ -72,8 +72,11 @@ Nicer Shoes (Steve Madden - size 10)
 
 ## Priority cables
 
-- Short balanced 1/4 to xlr adaptor cables (length of snake?)
-- Short balanced TRS (length of snake?)
+- 3' TRS to XLR male
+- 3' TRS to XLR female
+- 3' TRS
+- 3' XLR
+- 10' XLR
 - 35' XLRs
 - 50' XLRs
 
@@ -104,6 +107,7 @@ Nicer Shoes (Steve Madden - size 10)
 
 ## Music gear
 
+- Headphone ext
 - K&M 23550 adjustable dual microphone bar
 - Mic stands for guit & bass mics, amp clips
 - K&M 21021 for overheads & weight
