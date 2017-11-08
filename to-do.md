@@ -1,20 +1,15 @@
 # Jer's To-Do List
 
-headhone ext - make em ?
-xlrs (4x10, 4x35, 4x50)
-scissors
-3ft cables (xlr, trs)
+## For recording
 
-rode nt1
-shure pe588
-studio project c4
+K&M 23550 adjustable dual microphone bar
+Hardcore Boom mic stand
+Room Mic stand
 
-multithing for the arudio projexts c4
 
-usb c hub (vga, usb)
-mouse, keys, stand
 
-https://drive.google.com/folderview?id=1b2rGBiRoUaPBZPZo3DonttOvgYrjCLs_
+Headphone ext
+Stereo mic attachment bar (for the studio project c4)
 
 ## Groceries
 
@@ -33,6 +28,7 @@ https://drive.google.com/folderview?id=1b2rGBiRoUaPBZPZo3DonttOvgYrjCLs_
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
+- Foundation TOC:: 514-727-0012
 
 ## BKDSN
 
@@ -71,10 +67,6 @@ https://drive.google.com/folderview?id=1b2rGBiRoUaPBZPZo3DonttOvgYrjCLs_
 - $?? Dad phone
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-
-## Trades
-
-- Kyla's Keys
 
 ## Musician's Insurance
 
