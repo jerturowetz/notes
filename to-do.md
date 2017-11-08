@@ -2,17 +2,29 @@
 
 Headphone ext
 Stereo mic attachment bar (for the studio project c4)
+
+
 USB C hub (vga, usbs)
 Mouse, Keyboard, stand
 XLRs (4 each 3', 10', 35', 50')
 TRS cable (4 x 3')
+logtexh universal usb
+
+dream rig
+mixer
+patxh panel
+other pres
+portavle rack case
+rack case with wheels and eq & gate & side mounted panels
+
+
+
 
 ## Groceries
 
 - KD
 - Basil
 - Bathroom cleaner
-- tinfoil
 - ziplocks
 - fine salt
 - honey
