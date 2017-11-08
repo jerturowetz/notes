@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+## For recording
+
+K&M 23550 adjustable dual microphone bar
+Hardcore Boom mic stand
+Room Mic stand
+
+
+
 Headphone ext
 Stereo mic attachment bar (for the studio project c4)
 
