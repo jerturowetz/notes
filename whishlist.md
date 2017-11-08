@@ -82,6 +82,8 @@ Nicer Shoes (Steve Madden - size 10)
 
 ## Workshop & soldering station
 
+Lots of gear from [Mouser](https://ca.mouser.com)
+
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
 - desoldering plunger & wick

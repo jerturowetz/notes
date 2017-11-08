@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+[Should we have a baby?](http://objectif-couple.com)
+[Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
+
 ## Psych help
 
 - [IUSMM Research](http://www.iusmm.ca/research.html)
