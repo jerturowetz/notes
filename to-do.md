@@ -14,6 +14,7 @@ Cathy x-mas present??
 
 ## Personal
 
+- Choose a Guitar Amp simulator & Pirate
 - clean up gists
 - wordpress snippets to files
 - go through new plugins

@@ -141,3 +141,14 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - radial key largo/mixer
 - room mic for drums
 - Rack drawer for laptop
+- AKG D112 (Kick)
+- Seenheiser 421 (Kick)
+- Old deep snare drum
+- Ludwig Supraphonic
+- Drum kit to mess with
+- Controller keyboard
+- tama granstar - Nevermind Kit (can prob get this for cheap)
+- 80's Bell Brass snare
+- That sound darren king, neon library
+- Neumann U 87 (Kick)
+- clamps with rubber ends for clipping blankets to drums
