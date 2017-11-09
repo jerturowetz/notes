@@ -109,7 +109,26 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+
+Behringer Powerplay Pro-8 HA8000
+ART HeadAmp6 Pro
+Presonus HP60
+rane ha6s
+rolls ra62c
+
+
+
+
+
+
 - Headphone ext
+
+behringer pm1
+Fisher amps mini bodypack 2
+Elite Core Body Pack 
+rolls hv6
+
+
 - K&M 23550 adjustable dual microphone bar
 - Mic stands for guit & bass mics, amp clips
 - K&M 21021 for overheads & weight
