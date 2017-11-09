@@ -23,7 +23,7 @@ Nicer Shoes (Steve Madden - size 10)
 - $80 XtraTuf 6 In. Ankle Boot (Gray-yellow)
 - $125 LaCrosse Hampton {small rain boot}
 
-## Kate Xmas
+## Kate & Cathy Xmas
 
 - [$40 - Cuisinart CPM-100C Popcorn maker](https://www.amazon.ca/Cuisinart-CPM-100C-Easypop-Popcorn-Maker/dp/B008MH9TXW/)
 - Dredge for popcorn salt
@@ -109,25 +109,22 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+### Headphone ext
 
-Behringer Powerplay Pro-8 HA8000
-ART HeadAmp6 Pro
-Presonus HP60
-rane ha6s
-rolls ra62c
+- behringer pm1
+- Fisher amps mini bodypack 2
+- Elite Core Body Pack
+- rolls hv6
 
+### Headphone amp
 
+- Behringer Powerplay Pro-8 HA8000
+- ART HeadAmp6 Pro
+- Presonus HP60
+- rane ha6s
+- rolls ra62c
 
-
-
-
-- Headphone ext
-
-behringer pm1
-Fisher amps mini bodypack 2
-Elite Core Body Pack 
-rolls hv6
-
+### Other
 
 - K&M 23550 adjustable dual microphone bar
 - Mic stands for guit & bass mics, amp clips

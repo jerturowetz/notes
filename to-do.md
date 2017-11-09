@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+Cathy x-mas present??
 [Should we have a baby?](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
@@ -13,15 +14,15 @@
 
 ## Personal
 
-- Boots via [The Last Hunt](https://www.thelasthunt.com)
-- pick up cables by erin
-- aa roaul notes
 - clean up gists
 - wordpress snippets to files
 - go through new plugins
 - review developer plugins
 - Warn shakti of email changes
 - Shut down rackspace
+- Boots via [The Last Hunt](https://www.thelasthunt.com)
+- pick up cables by erin
+- aa roaul notes
 - Dad buy new phone for telus
 - Move to Videotron plan
 - Apply to school
