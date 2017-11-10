@@ -1,5 +1,14 @@
 # EQ Guide
 
+Time adjuster
+
+Phase issues
+
+How to approach phase
+
+
+
+
 ## Drums
 
 ### Kick
@@ -24,6 +33,11 @@ smack/tone is between 930-1.4k
 
 ### Toms
 
+might wanna pull the bleed down in between
+dont wanna gate it out necess - just pull it down
+put the toms back in phase with the OH
+
+
 Filter 40hz & below
 Cut mids 500hz for clarity
 
@@ -31,11 +45,11 @@ Cut mids 500hz for clarity
 
 Filter out 200hz & below
 
-
 ### Overheads
 
-Filter 40hz and below
-Check your phaze
+Filter 40hz and below - maybe 60, 90 a bit higher
+this is a big deal when setting up phaze with the snare
+but you wanna ull out the kick to avoid awkward phase issues
 Around 100HZ is body and snare ooomph
 Cut mids depending on style
 
