@@ -1,5 +1,21 @@
 # Jer's To-Do List
 
+logitech universal
+studio project c4 mic clips
+35ft xlr x4
+wall monitor moubt
+travis headphone ext
+hosa balanced cables bundle 
+
+57 & 421 mic guards
+little bits of acoustic foam to isolate mics 
+
+elastic bands
+wire wraps
+
+
+
+
 Cathy x-mas present??
 [Should we have a baby?](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)

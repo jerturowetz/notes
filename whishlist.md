@@ -126,7 +126,10 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ### Other
 
-- K&M 23550 adjustable dual microphone bar
+string
+usb c hub
+with 2+ usb, vga (or dvid) 
+rack drawer
 - Mic stands for guit & bass mics, amp clips
 - K&M 21021 for overheads & weight
 - K&M 23323 for snare bottom
