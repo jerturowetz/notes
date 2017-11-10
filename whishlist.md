@@ -119,10 +119,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 ### Headphone amp
 
 - Behringer Powerplay Pro-8 HA8000
-- ART HeadAmp6 Pro
-- Presonus HP60
-- rane ha6s
-- rolls ra62c
+- Tascam MH-8
 
 ### Other
 
