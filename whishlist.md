@@ -111,6 +111,9 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+granelli 57
+
+
 - [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
 - little bits of acoustic foam to isolate mics 
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
@@ -129,11 +132,26 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - Primacoustic CrashGuard 421 x2
 - Primacoustic Kickstand
 - Radial Key Largo
+acoustic pannels
+
+
+mobitor moubt for rack case
+headphone ext for travis
+hosa balanced cables bundle
+
 
 ### Drums
 
+supraphonic (both 5 & 6.5)
+yamaha recording custom
+
+pearl sensitone
+another rode m3
+
+
 - 80's Bell Brass snare or Tama Granstar Snare or Yamaha? 80s
 - Ludwig Supraphonic Snare
+- Yamaha recording custom
 - Vintage deep snare drum
-- Tama granstar 80s (Nevermind Kit)
+- Tama granstar 80s (Nevermind Kit) just kick ?
 - Some small kit to tape up (1969 Ludwig 3 piece)

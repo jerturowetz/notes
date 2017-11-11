@@ -13,12 +13,8 @@ Try on the following boots:
 - North Face Back-to-berkley
 
 logitech universal receiver
-studio project c4 mic clips
 wall monitor mount
-headphone ext for travis
-hosa balanced cables bundle
-Anker PowerLine+ Micro USB (10ft)
-Anker PowerPort 4
+
 
 
 Cathy x-mas present?
@@ -56,6 +52,7 @@ Cathy x-mas present?
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - Schedule a talk at TD with a people / Get a TD CC?
 - [Capitol One Card](http://bit.ly/28Os44b), $60/yr
+- ask Paul about acoustic panel builds and drums
 
 ## Outstanding Bills
 
