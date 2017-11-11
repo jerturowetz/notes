@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+try on boots
+merell
+aorel
+lowa
+baffin
+
+
+
 logitech universal
 studio project c4 mic clips
 35ft xlr x4
