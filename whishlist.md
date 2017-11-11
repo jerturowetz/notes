@@ -134,6 +134,11 @@ granelli 57
 - Radial Key Largo
 acoustic pannels
 
+better case for kates guitar
+
+guitar cleanr and other cleaners at workshop 
+
+
 
 mobitor moubt for rack case
 headphone ext for travis
