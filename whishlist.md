@@ -8,9 +8,7 @@ Nicer Shoes (Steve Madden - size 10)
 ### Winter boots
 
 - $200 Sorel Caribou Wool Boot
-- $150 Bogs Classic Ultra Mid
 - $200 Vasque Snowburban Ultradry (OGL #1)
-- $200 Merrell Chameleon Thermo 8 / Fraxion Shell 8
 - $200 Merell Men's Turku Trek Waterproof
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
 - $300 Lowa Men's Oslo GTX
@@ -106,49 +104,36 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
 - TRS connectors (20)
 - XLR connectors (15 ea male & female)
+- String
+- clamps with rubber ends for clipping blankets to drums
+- elastic bands
+- wire wraps
 
 ## Music gear
 
-### Headphone ext
-
-- behringer pm1
-- Fisher amps mini bodypack 2
-- Elite Core Body Pack
-- rolls hv6
-
-### Headphone amp
-
-- Behringer Powerplay Pro-8 HA8000
+- [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
+- little bits of acoustic foam to isolate mics 
+- behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-
-### Other
-
-string
-usb c hub
-with 2+ usb, vga (or dvid) 
-rack drawer
-- Mic stands for guit & bass mics, amp clips
-- K&M 21021 for overheads & weight
+- K&M 21021 for overheads & weight x2
 - K&M 23323 for snare bottom
-- K&M 210/8 Mic stand x2 (chrome, for vox)
-- Atlas or K&M 21430 stand for OH
-- usb c hub thing (USB for fireface, keyboard, mouse, dvid/vga for monitor)
-- laptop/electornics stand
+- Mixer (MixWizard or GB2R)
+- Mic stands for guit & bass mics / amp clips
+- laptop/electronics stand
 - Reason, Cubase, Live
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- radial j48 x2
-- Keys DI (stereo passive DI)
-- radial key largo/mixer
-- room mic for drums
-- Rack drawer for laptop
-- AKG D112 (Kick)
-- Seenheiser 421 (Kick)
-- Old deep snare drum
-- Ludwig Supraphonic
-- Drum kit to mess with
+- DIs (Radial j48 x2, stereo passive DI, key largo)
 - Controller keyboard
-- tama granstar - Nevermind Kit (can prob get this for cheap)
-- 80's Bell Brass snare
-- That sound darren king, neon library
-- Neumann U 87 (Kick)
-- clamps with rubber ends for clipping blankets to drums
+- usb c hub thing (USB for fireface, keyboard, mouse, dvid/vga for monitor)
+- Primacoustic CrashGuard
+- Primacoustic CrashGuard 421 x2
+- Primacoustic Kickstand
+- Radial Key Largo
+
+### Drums
+
+- 80's Bell Brass snare or Tama Granstar Snare or Yamaha? 80s
+- Ludwig Supraphonic Snare
+- Vintage deep snare drum
+- Tama granstar 80s (Nevermind Kit)
+- Some small kit to tape up (1969 Ludwig 3 piece)

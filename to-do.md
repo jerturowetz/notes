@@ -1,36 +1,27 @@
 # Jer's To-Do List
 
-try on boots
-merell
-aorel
-lowa
-baffin
+Try on the following boots:
 
+- Blundstone
+- Baffin Shackleton ($165)
+- Lowa Mens Oslo GTX ($200)
+- Merell Mens Epiction Polar ($168)
+- Sorel Caribou Wool Boot ($140)
+- Vasque Snowburban UltraDry
+- North Face Chilkat 400
+- North Face Chilkat Evo
+- North Face Back-to-berkley
 
-
-logitech universal
+logitech universal receiver
 studio project c4 mic clips
-35ft xlr x4
-wall monitor moubt
-travis headphone ext
-hosa balanced cables bundle 
-
-57 & 421 mic guards
-little bits of acoustic foam to isolate mics 
-
-elastic bands
-wire wraps
+wall monitor mount
+headphone ext for travis
+hosa balanced cables bundle
+Anker PowerLine+ Micro USB (10ft)
+Anker PowerPort 4
 
 
-seal home windiws
-toothpaste
-advil
-muffin tin
-
-
-
-
-Cathy x-mas present??
+Cathy x-mas present?
 [Should we have a baby?](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
@@ -44,6 +35,8 @@ Cathy x-mas present??
 
 ## Personal
 
+- seal home windows
+- muffin tin
 - Choose a Guitar Amp simulator & Pirate
 - clean up gists
 - wordpress snippets to files
