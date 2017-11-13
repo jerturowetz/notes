@@ -46,6 +46,7 @@ Nicer Shoes (Steve Madden - size 10)
 - Dutch oven
 - Carving knife (& fork)
 - Large Reversible Maple Carving Board
+- [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
 
 ## Kate stuff
 
@@ -115,10 +116,9 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-capos
-
+- capos
 - [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
-- little bits of acoustic foam to isolate mics 
+- little bits of acoustic foam to isolate mics
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
 - K&M 21021 for overheads & weight x2
@@ -137,11 +137,6 @@ capos
 - Radial Key Largo
 - Acoustic pannels for drum corner
 - Granelli labs 57
-
-mobitor moubt for rack case
-headphone ext for travis
-hosa balanced cables bundle
-
 
 ### Drums
 

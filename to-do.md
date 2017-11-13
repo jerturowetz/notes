@@ -33,6 +33,7 @@ Cathy x-mas present?
 
 - seal home windows
 - muffin tin
+- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Choose a Guitar Amp simulator & Pirate
 - clean up gists
 - wordpress snippets to files
