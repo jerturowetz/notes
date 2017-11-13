@@ -108,11 +108,14 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - clamps with rubber ends for clipping blankets to drums
 - elastic bands
 - wire wraps
+- guitar cleaner
+- guitar oil
+- other spray cleaners
+- abrasive pads
 
 ## Music gear
 
-granelli 57
-
+capos
 
 - [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
 - little bits of acoustic foam to isolate mics 
@@ -132,13 +135,8 @@ granelli 57
 - Primacoustic CrashGuard 421 x2
 - Primacoustic Kickstand
 - Radial Key Largo
-acoustic pannels
-
-better case for kates guitar
-
-guitar cleanr and other cleaners at workshop 
-
-
+- Acoustic pannels for drum corner
+- Granelli labs 57
 
 mobitor moubt for rack case
 headphone ext for travis
@@ -147,15 +145,9 @@ hosa balanced cables bundle
 
 ### Drums
 
-supraphonic (both 5 & 6.5)
-yamaha recording custom
-
-pearl sensitone
-another rode m3
-
-
+- pearl sensitone (cheap supraphonic)
 - 80's Bell Brass snare or Tama Granstar Snare or Yamaha? 80s
-- Ludwig Supraphonic Snare
+- Ludwig Supraphonic Snare (5& 6.5)
 - Yamaha recording custom
 - Vintage deep snare drum
 - Tama granstar 80s (Nevermind Kit) just kick ?

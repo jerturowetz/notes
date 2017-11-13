@@ -13,7 +13,7 @@ Try on the following boots:
 - North Face Back-to-berkley
 
 logitech universal receiver
-wall monitor mount
+wall monitor mount (or case mount)
 
 
 
