@@ -2,9 +2,9 @@
 
 ## Setting environment variables
 
+    export AWS_PROFILE=whateverProfile
     export AWS_ACCESS_KEY_ID=whateverID
     export AWS_SECRET_ACCESS_KEY=whateverKEY
-    export AWS_PROFILE=whateverProfile
 
 ## Copying from s3
 

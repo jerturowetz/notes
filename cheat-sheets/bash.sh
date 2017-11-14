@@ -50,3 +50,8 @@ ctrl-alt-y 	# yank! paste from the clipboard
 apt-get --assume-yes update                                       # avoid confirms [y/N] with --assume-yes
 sudo DEBIAN_FRONTEND=noninteractive apt-get update                # DEBIAN_FRONTEND=noninteractive avoid confirms
 sudo DEBIAN_FRONTEND=noninteractive apt-get --assume-yes update   # combining both might be redundant but am unsure
+
+
+## Scheduling scripts on Windows
+C:\Windows\System32\cmd.exe /c ""%PROGRAMFILES%\Git\bin\bash.exe" --login -i -- C:\Users\jturo\daily-scripts.sh"
+

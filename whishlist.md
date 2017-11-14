@@ -137,6 +137,8 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - Radial Key Largo
 - Acoustic pannels for drum corner
 - Granelli labs 57
+- QuikLok WS-650 (table behind drums)
+- MS2000
 
 ### Drums
 
