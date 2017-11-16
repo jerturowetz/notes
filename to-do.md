@@ -57,7 +57,7 @@ Cathy x-mas present?
 
 ## Outstanding Bills
 
-- $417.72 Communauto
+- ~~$417.72 Communauto~~ PAID 450!
 - $150 Renew license
 - $150 pay off iPhone
 - $175 Acoustic panels
