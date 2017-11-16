@@ -1,5 +1,40 @@
 # About last night
 
+"you continuye to do thr thing which makes ne pull back"
+bro, no, thats not on me, you wanna bridge thr gap, get to workp yourself, dont blame me for not doing the work. pick up a hammer and fogute it out
+
+
+"you acted like i ahot a puppy"
+even after expressing that i frel like ny feelingsvwere mininized and dismissed youncontibuebto dismiss them becausr uou dont like their magnitude or toy jusge them as unbalanced re the input. i dont give a shit if yiu agree or not, but 36 jours latwr yoire atill cateless with my frelibgs and quick to ahift the conversation back to you
+as to why its taking me a while to organize myself, and i ubderstand its an uncompfotable sotuationz, see above... unless im surgically clear on my own wants needs anf feeljbgs i have a pilenof evidence yhat that if uou feel theblitylest bit challenged, demonstrtaes im not gonna get enpathy abf in going to have to fight for understanding and im going to blamed, a bunch, for having unbalanced enotions, for bejng rresponaible for yhe tension" abd to blane for not resolving it, and just for being hard to talk to.
+i know im not easy to talk yo abd i can go fron 1-100 in 2 seconds and i get ibsecure and guilty
+but dude, WERE THE SAME
+bringibg up me feeling upset with you 
+make it clear thatbunless youvagree with thr levelbofvky enotional reaction, youre not going to treat is seriously, which ia ironic coming from yoy. maybe if you can figureboit how to acveot anvemotional reaction of mibe tou canvlearnbto accwptvuourbown
+i know that i deserve that
+
+"i cant talk to you"
+dude, ibknow i go fron 0 to 100
+but, from wherebim stabding, ita talking to you that causes trouble, gets me made fun of, makes me responsible
+"its been 36 hours! i said waht i needed to, you havent said a word"
+again, youre having a hard time dealing with me arrangibg my thought and dealing with thr silebce 
+stop taking away my space to be upset!! everything here is abouy makjbbuou feel better
+im not asking you yo read my mind, but id aprecaite yhat ifbi feel like shit and express as much that thw follow up isnt "what anout me" "what about me"
+
+
+im difficult to talj to
+dude, so are you
+i havd a feeling that i get 0 supprt from yoy anf its 2 days of emotional labor and blame for not doing a better job
+this whole situation isnorbitig around your motivation to place blame on how strong my reaction was, on my timeline for resolution, probably on youreelf too
+what i berd you to try to do is to switch from teykng to find thr problem to "how do i feel and what do i need" and, ideally, "jow does jereny feel, what is he asking for, is ot reasonable, and what does he need"
+id be happy with just thr former
+
+
+
+even now, 2 days later, ibstead of takin a second to empathise uoute teying to blame me for beibg harc to speak with... how is this helpful? what arr tou tryibg tobexpress? that because my enotions run high i shouldnforget them
+
+
+
 Last night I expressed that I didnt feel good in reaction to something you said. Your response to this expression was a short word, a mildly aggressive action and to leave the room.
 
 Already upset and now feeling ignored/dimissed, I chose to clear my head by taking a ealk which led tonyoy feeling upset that I didn't want to talk.
