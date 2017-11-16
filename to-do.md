@@ -12,12 +12,6 @@ Try on the following boots:
 - North Face Chilkat Evo
 - North Face Back-to-berkley
 
-logitech universal receiver
-wall monitor mount (or case mount)
-
-
-
-Cathy x-mas present?
 [Should we have a baby?](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
