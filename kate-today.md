@@ -105,3 +105,114 @@ How rarely I need space to be upset, I dont appreciate it being taken away
 
 
 
+## blaming me
+
+
+
+
+It's no wonder you dont like our fights
+Your argument style is to blame
+All i need
+all i needed in the first place
+was for you to think
+"how dioes he feel"
+and all of these staements 
+seemed aimed at the opposite
+seem aimed at making me feel your pain
+and reflect nothing on mine
+
+
+If its not obvious why I think I need to take my time to gather my thoughts,
+
+
+
+
+blame
+blame
+blame
+
+and now
+2 days later
+
+## 
+
+I never apologize
+
+I do and i do when its challenging or difficult
+you never apologize
+unless its fueled by guilt
+
+
+
+
+
+//////////
+
+
+
+How often do I get upset?
+
+How often do I need room to express it?
+
+The cost of doing so is high.
+
+You wanted me to talk the other other night, the night after, this morning
+but i dont know how to talk to you about this
+Talking to you about me being upset
+leads to nothing constructive from you
+no empathy
+no listening
+
+
+
+how is this talking?
+
+You're surprised I want to take my time?
+
+You said you didnt like our arguments
+and, whatever faults I have aside,
+
+your argument style fucking sucks
+
+its all blame and poor-me
+
+after i told you i felt ignored and dismissed
+you told me Im hard to talk to...
+
+all i want is like 2 seconds of empathy
+
+I want you to think "Hey, maybe if he's this upset I can try to imane what he's going through"
+
+and if you cant do that
+
+at least dont make me do a ton of emotional work because you cant deal with the fact that I on vary rare occasions get pissed of
+
+I got made and now I need to manage your feelings
+and it still feels like you havent spent a second on mine
+if only for formality
+so we can move back to how youve been affected by my mood
+
+I want my mood addressed
+
+I wanna have space to be upset
+and, just like I dont shit on you when you get upset, despite howerver insecure it makes me feel
+dont shit on me
+
+If you could just say "Wow, I cant imagine why hes so upset, let me try to undertsbnad a litte"
+rather than:
+"Its been 36 hours I told you how I felt and you still havent said anything"
+"You acted like I shot a puppy"
+"I can't talk to you"
+and the occasional sarcastic remarks
+
+rather than fixating on how YOU'RE having a hard time dealing with the tension
+rather than blaming me for forcing you to retrea (thats on you man)
+rather than putting the burden of bridging the gap on me
+
+Im happy to help in all those things and meet you halfway
+But first I need to feel like I'm being listeend toand
+your initial reaction, your refusal to let me take a walk to deal with feeling, you're making my feelings and my need for space all about you and, this miorning, your language and demands make it pretty clear that you are not at all concerned by how I feel, but only by how my feelings are presently affecting you
+I need evidence that your are trying to empathise and you can put your guilt aside so that I can have space
+and I dont feel I need to owe you an explanation or emotional labor when I want to take a walk anymore than you owe me an explanation any time you stomp your foot
+I want empathy, I want it first and I want youto show me you can give it to me without making me feel bad about having a feeling
+because I dont do that to you
