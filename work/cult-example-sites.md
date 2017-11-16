@@ -1,15 +1,5 @@
 # Cult Mtl :: Examples & reference
 
-I’m thinking BKDSNs top priority for the CULT Mtl redesign are articles. By articles I mean any single consumable items; such as individual posts, galleries or single event listings.
-
-I'm thinking what we need to pay attention to are:
-
-- Hero images & title handling
-- Related stories modules
-- Ad handling
-- Sidebar design
-- Metadata (author, tags, cats, breadcrumbs)
-
 Below you'll find an updated version of a list I originally shared with Lorraine & Tim at our first meeting. Although I've included links for future sections like categories and galleries, those will likely change as we progress.
 
 ## Current Website for reference
@@ -17,13 +7,35 @@ Below you'll find an updated version of a list I originally shared with Lorraine
 - [CULT Mtl - Single post](http://cultmontreal.com/2017/08/coogan-and-brydon-trip-to-spain/)
 - [CULT Mtl - Category](http://cultmontreal.com/music-nightlife/)
 
+
+
+
+## Some examples & inspiration
+
+### [NY Times - Featured article](https://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html?smid=fb-nytimes&smtyp=cur)
+
+Love the simplicity, centered text between 45-70 em wide
+Ads should appear as banners (see current site)
+
+### [The Outline - Article](https://theoutline.com/post/2388/google-is-really-good-at-design)
+
+Navigation simplicity (we have a lot more cats but i like this - especially with the social links in the nav)
+Same idea with max width on content
+Cannot do fun stuff in titles
+Look at the bottom - theres a nice signup form
+Look at the bottom - the articles keep feeding in a cool way (max width, articles in the same category)
+
+[This time they have a share arrow up top - maybe we could do a share arrow and a hamburger to full screen](https://www.nytimes.com/interactive/2017/jobs/nyt-52-places-the-trip.html?src=twr)
+
+
+
+
 ## Article design reference
 
 - [The Outline](https://theoutline.com/post/1951/david-avocado-wolfe-is-the-biggest-asshole-in-the-multiverse)
 - [The Great Discontent](https://thegreatdiscontent.com/interview/jon-setzen)
 - [The New Yorker](http://www.newyorker.com/news/news-desk/the-us-has-more-to-lose-than-russia-in-spy-expulsions)
 - [Cool Hunting](http://www.coolhunting.com/travel/quebec-city-le-festival-dete-de-quebec)
-- [Van Schneider](http://www.vanschneider.com/can-good-design-be-bad-design/)
 - [Somerset House](https://www.somersethouse.org.uk/whats-on/film4-summer-screen/the-square)
 - [Wired](https://www.wired.com/story/zero-g-blood-and-the-many-horrors-of-space-surgery/) & [Adweek](http://www.adweek.com/digital/heres-what-you-need-to-know-about-voice-ai-the-next-frontier-of-brand-marketing/), while not terribly good looking, have solid sidebar implementation
 
@@ -64,3 +76,16 @@ Below you'll find an updated version of a list I originally shared with Lorraine
 ## Full page background Ad
 
 - [LOTR nerd site](http://lotr.wikia.com/wiki/D%C3%BAnedain)
+
+
+
+
+Category Design
+
+Cats need some type of sub-navigation. I like [this](https://www.stitcher.com/#all)
+
+https://theoutline.com/topic/power
+https://dentdecuir.com/
+https://phi-centre.com/en/
+https://www.avclub.com/
+[Good navigation (Ignore the animation)](https://waaark.com/)
