@@ -105,63 +105,12 @@ How rarely I need space to be upset, I dont appreciate it being taken away
 
 
 
-## blaming me
-
-
-
-
-It's no wonder you dont like our fights
-Your argument style is to blame
-All i need
-all i needed in the first place
-was for you to think
-"how dioes he feel"
-and all of these staements 
-seemed aimed at the opposite
-seem aimed at making me feel your pain
-and reflect nothing on mine
-
-
-If its not obvious why I think I need to take my time to gather my thoughts,
-
-
-
-
-blame
-blame
-blame
-
-and now
-2 days later
-
-## 
-
-I never apologize
-
-I do and i do when its challenging or difficult
-you never apologize
-unless its fueled by guilt
 
 
 
 
 
-//////////
 
-
-
-How often do I get upset?
-
-How often do I need room to express it?
-
-The cost of doing so is high.
-
-You wanted me to talk the other other night, the night after, this morning
-but i dont know how to talk to you about this
-Talking to you about me being upset
-leads to nothing constructive from you
-no empathy
-no listening
 
 
 
@@ -216,3 +165,189 @@ I need evidence that your are trying to empathise and you can put your guilt asi
 and I dont feel I need to owe you an explanation or emotional labor when I want to take a walk anymore than you owe me an explanation any time you stomp your foot
 I want empathy, I want it first and I want youto show me you can give it to me without making me feel bad about having a feeling
 because I dont do that to you
+
+
+
+youre upset that im taking my time to speak to you
+yet you almost immediately respond to my speaking to you with blame, shame
+
+
+I need empathy right now
+its all i needed in the first place
+I need to feel like you're trying to empathise with me
+and not shooting me shade
+I need you to TRY to help me talk to you
+without getting blamed and shamed
+
+
+
+Kate, I'm not super difficult to talk to
+
+I apologgizee for things I dont want to apologize for and reflect on things I find difficult reflecting on
+This is not in my nature
+it takes effort
+and I think it demonstrates love
+
+I need you to do the same right now
+
+The only apologies ive ever gotten from you are guilty ones, and thats selfish
+
+I want a real apology here
+I wan you to recognize that I had a feeling, you ignored it and since youve been challenging my right to feel upset and making it all about how it affects you
+
+is not constructuive
+
+whats your goal?
+What result do you want?
+
+It fucking sucks that I have to do this work when all i wanted twas to be heard
+
+BTW one of the big reasons our fights suck is because you're techniques are exclusively dismissive blame and poor-me, if you could, for a seconsd, try and just focus on how i feel I promise you we'd make headway
+
+
+## What I want
+
+I dont think you have a lot of practice with emotional language. I think one of the major reasons our arguments suck is because your argument technique is shitty. Instead of trying to express things you blame others or fall in to self-pity.
+
+I see you do this at work and with your mom and wherever else
+
+and in situations where you have opportunities to practice empathy, you engage in what you already know, feeling sorry for yourself and blaming others around for whatever
+
+I'm not saying all this as an attack. It's fine and I have plenty of eprsonal issues myself which are difficult to deal with.
+
+But I'm saying all this to be really clear:
+
+I think one of the major reasons our fights suck is because you are terrible at empathy
+and your default actions are defensive blame and self-pity
+and it makes you a difficult person to communicate with about anything I fear might trigger these
+
+this mornign is a perfect example
+
+here you are, desperate fto resolve the distance between us, yet when a conversation in forced you shoot out nothing but blame and shame:
+"Its been 36 hours I told you how I felt and you still havent said anything"
+and then when I try to express myself i get:
+the occasional sarcastic remark
+whatevers
+"You acted like I shot a puppy"
+"This is why I can't talk to you"
+
+its the same technique over and over
+and it feels really shit to be on the receiving end of it.
+
+
+
+
+and there very little personal emotional expression of needs and, the thing bothering me right now, is a lack of empathy which you never practice and you could really use especially when youre being hard on yourself.
+
+But right now you're being hard on me
+"Its been 36 hours I told you how I felt and you still havent said anything"
+and then when I try to express myself i get:
+"You acted like I shot a puppy"
+"This is why I can't talk to you"
+and the occasional sarcastic remark
+
+why do you think Im taking my time to talk to you?
+
+its like fucking mining
+
+and if im not extremely accurate in what I want Im gonna have no way to fight the waves of defensive guilt and blame I KNOW are coming
+
+
+
+/////////////
+
+
+
+its really difficult for me to expres things, it takes me a while
+in addition you dont make it easy
+if you cant see why i have a hard time engaging in conflict with you, here's this morning, to me:
+
+you can't feel like someone ovvereacted
+but thats not a feeling, its a judgment about a feeling
+and its dismissive
+and disempowering and disrespectful
+
+and of course you can feel how you feel about my wanting to take a walk
+blame me for not wanting to talk
+despite the fact that it should be clear you are really difficult to talk to if you feel challenged
+
+but that came way after the initial being ignored
+and it comes without reflection on why i wanted to take a wlk in the first place
+and the only reason you want me to talk in that instance is for you
+not for me
+
+All i needed was a moment of empathy
+honestly thats all i still need
+I want to feel like you can put your defensiveness aside (even if it takes a few minutes)
+and just think "gee, he must be really upset, let me try to undersnad why"
+instyead of dismising or challenging me
+
+
+
+
+and that when i do
+or when its forced
+that i get minimized and ignored or blamed sucks
+and yeah that happened initially
+but it continues to happened
+this morning
+you forced a conversaion because youre having ahard time dealing with tension
+
+
+
+
+
+When we argue
+I try to ask myself questions like
+what can I learn
+and
+what is kate feeling
+and
+what do i want
+and how do i acheive that
+
+and this time I feel like the reason this fight isnt going to go anywhere is because youre not asking yourself those questions
+I dont feel like you are makign any attempt to try and undertsnad me, be permissive with my being upset or empathetic to my expression
+
+In fact Im getting the opposite
+Youre having a hard time dealing with tension in the environment
+yet when conversaion is forced you give me blame and self-pity
+
+
+and this is the same reason i wanted to go on a walk the other night
+
+
+which, for the record, i no more need to validate to you than you need to validate your anger to me the next time you stomp your foot
+and that youre demanding it is irksome
+So whats the message there? any time i might get upset I need to make sure youre feelings are handled?
+
+
+
+
+
+
+
+
+
+
+
+It's no wonder you dont like our fights
+Your argument style is to blame
+All i need
+all i needed in the first place
+was for you to think
+"how dioes he feel"
+and all of these staements 
+seemed aimed at the opposite
+seem aimed at making me feel your pain
+and reflect nothing on mine
+
+
+
+
+
+How often do I get upset?
+How often do I need room to express it?
+This makes me feel like the cost of doing so is high.
+Youre not the only one who gets to be angry
+and I deserve, at least a little, tolerance udnerstanding and support on the rare occasion that I am
