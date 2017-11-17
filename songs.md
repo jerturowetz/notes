@@ -1,48 +1,66 @@
 # Songs to learn
 
-Chris issack - i dont wanna fall in love
-Michael Jackson - beat it
-madinna secret / used to be ny playground
-last kiss peArl jam
-duran duran come undone 
+Loggins and Messina - Danny's song
+Spirit of the West – Home for a rest
+Blue Rodeo - Hasn't hit me yet
+Van Morrison - Brown eyed girl
+Anne Murray - Snowbird
+Duran Duran - Come Undone
+KD Lang - Constant Craving
+Thrice - Come all you weary
+Pearl Jam - Last Kiss
+Spirit of the West – Home for a rest
+Madonna - Secret
+Mariah Carey - All i want for christmas
+[Fleetwood Mac - Landslide](https://www.youtube.com/watch?v=x--yddOolRQ)
+Wham - Last Christmas
+George Michael - Freedom! '90
+[George Michael - Careless Whisper](https://www.youtube.com/watch?v=94-KCPOxd2Y)
+Meat Puppets - Lake Of Fire
+Skydiggers - The Truth About Us
+Leadbelly - Where Did you Sleep Last Night
+The Pixies - Hey
+Limblifter - Tinfoil
+[Limblifter - Ariel vs Lotus](https://www.youtube.com/watch?v=7HIkXCi1NvY)
+Jeff Buckley - Lover you should have come over
 
-Spirit of the West – Home for a Rest
+Dave Matthews Band - Drive In Drive Out
+[Dave Matthews Band - #41](https://www.youtube.com/watch?v=rpo6ti84Hf4)
+[Dave Matthews - The stone](https://www.youtube.com/watch?v=dE_8R-3z-4k)
+Dave Matthews - Two step
 
+Neil Young - Needle and the damage done
+Neil Young - Heart Of gold
+Neil Young - Harvest moon
+Neil Young - Old man
 
-akydiggers 
-barnakedbladis 
-old apt
-yoko ono
+Tom Petty - I won't back down
+Tom Petty - Learning to fly
+Tom Petty - Free falling
 
+Joni Mitchell - Big Yellow Taxi
+Joni Mitchell - Help Me
+Joni Mitchell - River
 
-Neil Diamond - "Sweet Caroline"
-Loggins And Messina - Danny's Song
-green day good riddance 
+Barenaked Ladies - Lovers in a dangerous time
+Barenaked Ladies - Am I the only one?
+Barenaked Ladies - Pinch Me
 
-Barenaked Ladies - If I Had $1000000
+The Tragically Hip - Little bones
+The Tragically Hip - Locked in the trunk of a car
+The Tragically Hip - Grace, too
+The Tragically Hip - 38 years old
+The Tragically Hip - Ahead by a century
 
-wham
+Matthew Good - Tripoli
+Matthew Good - Strange Days
+Matthew Good - Born Losers
+Matthew Good - Symbolistic White Walls
+Matthew Good - A Long Way Down
 
-Ben E. King - Stand By Me
-Poison - Every Rose Has Its Thorn
-brown eyed girl
-free fallibg
+Elliott Smith - Say yes
+Elliott Smith - Plainclothes man
 
-
-
-
-joni mitchell
-
-anne murray snpwbird
-shanai twain , man i feel like a woman
-bto taking care of business
-kd lang constant craving 
-
-
-the hip
-neil young
-buckley 
-
-
-
-
+I Mother Earth - Summertime in the Void (w/jer)
+I Mother Earth - God Rocket
+I Mother Earth - Shortcut to Moncton
