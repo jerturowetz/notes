@@ -4,10 +4,16 @@
 
 Sneakers (Vans 10 or 10.5 not 11, Converse 9.5)
 Nicer Shoes (Steve Madden - size 10)
+my blundstones are 9
+my converse high tops are ??
+
+
+
+chelsea boots
+
 
 ### Winter boots
 
-- $200 Sorel Caribou Wool Boot
 - $200 Vasque Snowburban Ultradry (OGL #1)
 - $200 Merell Men's Turku Trek Waterproof
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
