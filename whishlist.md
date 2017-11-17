@@ -2,15 +2,9 @@
 
 ## Shoe sizes for reference
 
-Sneakers (Vans 10 or 10.5 not 11, Converse 9.5)
-Nicer Shoes (Steve Madden - size 10)
-my blundstones are 9
-my converse high tops are ??
-
-
-
-chelsea boots
-
+- Blundstones: 9 _(these are ok, maybe a touch too big)_
+- Vans taco shoes: 11 _(a touch too big)_
+- Converse white high tops: ?? _(a touch too small)_
 
 ### Winter boots
 
@@ -27,9 +21,13 @@ chelsea boots
 - $80 XtraTuf 6 In. Ankle Boot (Gray-yellow)
 - $125 LaCrosse Hampton {small rain boot}
 
+### Other shoes
+
+- Chelsea boots
+- Classic Timberlands
+
 ## Kate & Cathy Xmas
 
-- [$40 - Cuisinart CPM-100C Popcorn maker](https://www.amazon.ca/Cuisinart-CPM-100C-Easypop-Popcorn-Maker/dp/B008MH9TXW/)
 - [$28 - Cabin Porn book](https://www.amazon.ca/Cabin-Porn-Inspiration-Quiet-Somewhere/dp/0316378216/)
 - [$30 - West elm glass terrariums](https://www.westelm.com/products/faceted-glass-terrariums-iridescent-d4902/)
 - [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
