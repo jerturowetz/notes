@@ -1,19 +1,17 @@
 # Jer's To-Do List
 
-Try on the following boots:
+[How much is a session](http://objectif-couple.com)
+[Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
-- Blundstone
-- Baffin Shackleton ($165)
+## SKyrim mod notes
+
+RSC - CRF Patch
+
+## Try on boots
+
 - Lowa Mens Oslo GTX ($200)
 - Merell Mens Epiction Polar ($168)
-- Sorel Caribou Wool Boot ($140)
 - Vasque Snowburban UltraDry
-- North Face Chilkat 400
-- North Face Chilkat Evo
-- North Face Back-to-berkley
-
-[Should we have a baby?](http://objectif-couple.com)
-[Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
 ## Psych help
 
@@ -25,7 +23,6 @@ Try on the following boots:
 
 ## Personal
 
-- seal home windows
 - muffin tin
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Choose a Guitar Amp simulator & Pirate
@@ -35,9 +32,8 @@ Try on the following boots:
 - review developer plugins
 - Warn shakti of email changes
 - Shut down rackspace
-- Boots via [The Last Hunt](https://www.thelasthunt.com)
 - pick up cables by erin
-- aa roaul notes
+- AA roaul notes
 - Dad buy new phone for telus
 - Move to Videotron plan
 - Apply to school

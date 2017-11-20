@@ -1,7 +1,5 @@
 # Songs to learn
 
-Elliot Smith - Between the bars
-
 Loggins and Messina - Danny's song
 Spirit of the West – Home for a rest
 Blue Rodeo - Hasn't hit me yet
@@ -62,7 +60,7 @@ Matthew Good - A Long Way Down
 
 Elliott Smith - Say yes
 Elliott Smith - Plainclothes man
-
+Elliot Smith - Between the bars
 
 I Mother Earth - Summertime in the Void (w/jer)
 I Mother Earth - God Rocket
