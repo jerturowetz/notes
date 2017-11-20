@@ -118,6 +118,11 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 ## Music gear
 
 - capos
+- short pedal patches
+- guitar cables
+- some stand for kick mic
+- Laptiop DI
+- short (10') headphone ext
 - [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
 - little bits of acoustic foam to isolate mics
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
