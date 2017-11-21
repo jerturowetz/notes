@@ -5,6 +5,8 @@
 
 ## SKyrim mod notes
 
+Fix elven eyes
+Redo UNB armore replacer
 RSC - CRF Patch
 
 ## Try on boots
