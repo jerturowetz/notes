@@ -3,11 +3,50 @@
 [How much is a session](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
-## SKyrim mod notes
+## Skyrim mod notes
 
-Fix elven eyes
-Redo UNB armore replacer
-RSC - CRF Patch
+### Console commands
+
+EEO should come before Benjin NPC
+Use the EEO SSE patch
+
+seductive lips
+eyes
+
+skyrim better roads & add ons
+
+
+/showracemenu
+
+superior lore friendly hair - difficulty downloading
+replace new version of body fit armors
+Pride of valhalla instead of mature skin
+
+
+Madd Haven SSE - a place to check out armors
+You should have one or two new gear item in your inventory, "Heaven Armors" and/or "Heaven Clothes", which - when equipped - will teleport you to either the armor or clothes show room.
+
+forgotten argonian roots
+Better Males Body vs SOS
+
+Extract texture files into your DATA folder and overwrite old files if it will be necessary.
+ATTENTION(!) If pattern file has no texture folder, installation will have other way:
+cope one of the patterns and paste it in DATA-TEXTURES-ACTORS-CHARACTER-ARGONIANFEMALE.
+Overwrite.
+
+
+- Activate eyes
+- RSC - CRF Patch
+- UNP elevs fix?
+- Redo UNB armore replacer
+- Animated Prosti
+- Run FNIS
+
+- Get a list of standard controls
+- Do a mouvment tutorial
+- Visit the option menus first (under magic powers)
+- Explore bodyslide
+- spells menu (in the powers tab), use the "ShowRaceMenu Alternative" spell
 
 ## Try on boots
 
