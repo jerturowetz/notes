@@ -27,14 +27,6 @@ Every post should also have:
 - Share links or link to open share options
 - Call to action box
 
-
-
-
-
-
-
-
-
 ## Primary thoughts
 
 - No sidebar on Articles, Events or Galleries
@@ -43,7 +35,3 @@ Every post should also have:
   - illuistrative boxes and black bars styles (there are a few of these)
   - lowercase/uppercase type use
 - Add to the print layout with colors, unique presentation of links & type elements (blockquotes/captions)
-
-
-
-
