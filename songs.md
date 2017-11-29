@@ -1,5 +1,20 @@
 # Songs to learn
 
+take cate to a soda shop
+
+f'y like an eagle 
+
+
+
+van morrison wild night
+lisa leblanc - je suis pas un cowboy
+
+
+crosby stull nash
+hellen reatty 
+
+
+
 Loggins and Messina - Danny's song
 Spirit of the West – Home for a rest
 Blue Rodeo - Hasn't hit me yet
