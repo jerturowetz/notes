@@ -5,14 +5,12 @@
 
 ## Skyrim mod notes
 
-seductive lips
-eyes
-superior lore friendly hair - difficulty downloading?
-Pride of valhalla instead of mature skin?
-Better Males Body vs SOS
-forgotten argonian roots vs whatever
-Animated Prosti
+Smithing
+lips
 UNP elves fix?
+Animals & creatures pack
+Dragons
+more followers
 
 ## Try on boots
 
