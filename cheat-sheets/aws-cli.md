@@ -12,7 +12,7 @@
 
 ## Sync s3 Bucket folder (or entire bucket)
 
-    aws s3 sync s3://largefs-standardpro/standardpro/wp-content/uploads/ ./dd --quiet
+    aws s3 sync s3://largefs-standardpro/standardpro/wp-content/uploads/ ./ --quiet
 
 ## List S3 repo objects
 

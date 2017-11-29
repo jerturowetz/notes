@@ -7,10 +7,7 @@ Below you'll find an updated version of a list I originally shared with Lorraine
 - [CULT Mtl - Single post](http://cultmontreal.com/2017/08/coogan-and-brydon-trip-to-spain/)
 - [CULT Mtl - Category](http://cultmontreal.com/music-nightlife/)
 
-
-
-
-## Some examples & inspiration
+## Article design reference
 
 ### [NY Times - Featured article](https://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html?smid=fb-nytimes&smtyp=cur)
 
@@ -27,10 +24,7 @@ Look at the bottom - the articles keep feeding in a cool way (max width, article
 
 [This time they have a share arrow up top - maybe we could do a share arrow and a hamburger to full screen](https://www.nytimes.com/interactive/2017/jobs/nyt-52-places-the-trip.html?src=twr)
 
-
-
-
-## Article design reference
+### Other article examples
 
 - [The Outline](https://theoutline.com/post/1951/david-avocado-wolfe-is-the-biggest-asshole-in-the-multiverse)
 - [The Great Discontent](https://thegreatdiscontent.com/interview/jon-setzen)
@@ -60,9 +54,12 @@ Look at the bottom - the articles keep feeding in a cool way (max width, article
 
 - [Cool Hunting](http://www.coolhunting.com/#read)
 - [The New Yorker](http://www.newyorker.com/culture)
-- [Wired](https://www.wired.com/category/culture/)
 - [Vogue](http://www.vogue.com/fashion/street-style)
 - [TheOutline](https://theoutline.com/topic/power)
+- [Phi center](https://phi-centre.com/en/)
+- [AV CLub](https://www.avclub.com/)
+
+Cats will need some type of sub-navigation. I really like [this idea](https://www.stitcher.com/#all)
 
 ## Gallery List reference
 
@@ -77,15 +74,6 @@ Look at the bottom - the articles keep feeding in a cool way (max width, article
 
 - [LOTR nerd site](http://lotr.wikia.com/wiki/D%C3%BAnedain)
 
+## Navigation
 
-
-
-Category Design
-
-Cats need some type of sub-navigation. I like [this](https://www.stitcher.com/#all)
-
-https://theoutline.com/topic/power
-https://dentdecuir.com/
-https://phi-centre.com/en/
-https://www.avclub.com/
-[Good navigation (Ignore the animation)](https://waaark.com/)
+- [Waaark (Ignore the animation)](https://waaark.com/)

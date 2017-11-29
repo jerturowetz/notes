@@ -5,48 +5,14 @@
 
 ## Skyrim mod notes
 
-### Console commands
-
-EEO should come before Benjin NPC
-Use the EEO SSE patch
-
 seductive lips
 eyes
-
-skyrim better roads & add ons
-
-
-/showracemenu
-
-superior lore friendly hair - difficulty downloading
-replace new version of body fit armors
-Pride of valhalla instead of mature skin
-
-
-Madd Haven SSE - a place to check out armors
-You should have one or two new gear item in your inventory, "Heaven Armors" and/or "Heaven Clothes", which - when equipped - will teleport you to either the armor or clothes show room.
-
-forgotten argonian roots
+superior lore friendly hair - difficulty downloading?
+Pride of valhalla instead of mature skin?
 Better Males Body vs SOS
-
-Extract texture files into your DATA folder and overwrite old files if it will be necessary.
-ATTENTION(!) If pattern file has no texture folder, installation will have other way:
-cope one of the patterns and paste it in DATA-TEXTURES-ACTORS-CHARACTER-ARGONIANFEMALE.
-Overwrite.
-
-
-- Activate eyes
-- RSC - CRF Patch
-- UNP elevs fix?
-- Redo UNB armore replacer
-- Animated Prosti
-- Run FNIS
-
-- Get a list of standard controls
-- Do a mouvment tutorial
-- Visit the option menus first (under magic powers)
-- Explore bodyslide
-- spells menu (in the powers tab), use the "ShowRaceMenu Alternative" spell
+forgotten argonian roots vs whatever
+Animated Prosti
+UNP elves fix?
 
 ## Try on boots
 
@@ -60,7 +26,7 @@ Overwrite.
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
-- Foundation TOC:: 514-727-0012
+- Foundation TOC : 514-727-0012
 
 ## Personal
 
@@ -88,11 +54,13 @@ Overwrite.
 
 ## Outstanding Bills
 
-- ~~$417.72 Communauto~~ PAID 450!
+- $150 communauto
+- $90 Bell
 - $150 Renew license
-- $150 pay off iPhone
+- $140 pay off iPhone
 - $175 Acoustic panels
 - $400 ish Kate
+- $??? Vacation
 - $?? Madi Tech
 - $?? Dad phone
 - $125 Mickey
