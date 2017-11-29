@@ -5,12 +5,10 @@
 
 ## Skyrim mod notes
 
-Smithing
 lips
-UNP elves fix?
-Animals & creatures pack
-Dragons
+Animals & creatures pack inc dragons
 more followers
+sos add ons
 
 ## Try on boots
 
