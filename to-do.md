@@ -5,10 +5,22 @@
 
 ## Skyrim mod notes
 
-lips
 Animals & creatures pack inc dragons
-more followers
-sos add ons
+more followers & companions - sloot & non sloot
+player homes?
+SOS textures & female textures
+animation overhaul from old SE
+
+Alternate start
+
+SKSE
+SkyUI
+Better MessageBox Controls
+Better Dialogue Controls
+A Quality Worldmap
+USLEEP
+Unofficial Skyrim Patch
+lips
 
 ## Try on boots
 
