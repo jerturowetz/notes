@@ -3,24 +3,26 @@
 [How much is a session](http://objectif-couple.com)
 [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
-## Skyrim mod notes
-
-Animals & creatures pack inc dragons
-more followers & companions - sloot & non sloot
-player homes?
-SOS textures & female textures
-animation overhaul from old SE
-
-Alternate start
+## Skyrim must use mods - Other
 
 SKSE
 SkyUI
 Better MessageBox Controls
 Better Dialogue Controls
 A Quality Worldmap
-USLEEP
-Unofficial Skyrim Patch
-lips
+FNIS
+HDT
+UNP
+Alternate start
+
+## Skyrim must use mods - LL
+
+SOS
+SOS textures (to match whatever I use)
+SOS females
+SOS females textures (to match whatever I use)
+Horse
+HDT vagina
 
 ## Try on boots
 
