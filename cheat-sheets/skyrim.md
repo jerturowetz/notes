@@ -9,3 +9,6 @@
 setrace TG[Insert Race Here]Race" 
 (eg. setrace TGNordRace)
 
+tsc 
+freed camera
+
