@@ -1,5 +1,23 @@
 # Skyrim Mods
 
+
+archives can be used re dummy files in the plugins list
+
+and can be turned on or off as needed
+
+reset ptefs
+why 2 prefs files ?
+which pref fîe ?
+
+
+
+mod organiEr settings : download meta info
+compact download
+set to remain open on sky run
+
+
+
+
 Review downloads and erase / install whatever
 
 ## Must Use
