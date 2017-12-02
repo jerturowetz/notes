@@ -117,6 +117,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+- SM58s
 - capos
 - short pedal patches
 - guitar cables

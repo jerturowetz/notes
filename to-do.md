@@ -1,7 +1,11 @@
 # Jer's To-Do List
 
-[How much is a session](http://objectif-couple.com)
-[Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
+- bring shoes to space
+- fix tom mount
+- mouse pad thing
+- wood screws 1&1/4"
+- [How much is a session](http://objectif-couple.com)
+- [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
 ## Try on boots
 
