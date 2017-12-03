@@ -4,7 +4,8 @@ take cate to a soda shop
 
 f'y like an eagle 
 
-
+If I ain't got you
+It's getting hot in here
 
 van morrison wild night
 lisa leblanc - je suis pas un cowboy

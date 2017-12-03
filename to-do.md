@@ -1,5 +1,25 @@
 # Jer's To-Do List
 
+soda
+soap
+paper towel
+toilet paper
+tomato sauce
+kd
+pasta noodles
+eggs
+bacon
+wraps
+chicken & veg for wraps
+how to rice
+avocado
+olive oil
+maribated eggplabts
+pickles x2
+maribated beets
+
+
+
 - bring shoes to space
 - fix tom mount
 - mouse pad thing
@@ -48,12 +68,10 @@
 ## Outstanding Bills
 
 - $150 communauto
-- $90 Bell
 - $150 Renew license
 - $140 pay off iPhone
-- $175 Acoustic panels
-- $400 ish Kate
-- $??? Vacation
+- $75 + 50 Acoustic panels
+- $400 ish Kate furniture
 - $?? Madi Tech
 - $?? Dad phone
 - $125 Mickey

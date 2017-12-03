@@ -5,6 +5,7 @@
 - Blundstones: 9 _(these are ok, maybe a touch too big)_
 - Vans taco shoes: 11 _(a touch too big)_
 - Converse white high tops: ?? _(a touch too small)_
+- red reebok ??,
 
 ### Winter boots
 
@@ -118,7 +119,6 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 ## Music gear
 
 - SM58s
-- capos
 - short pedal patches
 - guitar cables
 - some stand for kick mic
