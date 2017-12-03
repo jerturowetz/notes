@@ -1,37 +1,36 @@
 # Jer's To-Do List
 
-soda
-soap
-paper towel
-toilet paper
-tomato sauce
-kd
-pasta noodles
-eggs
-bacon
-wraps
-chicken & veg for wraps
-how to rice
-avocado
-olive oil
-maribated eggplabts
-pickles x2
-maribated beets
-
-
-
-- bring shoes to space
-- fix tom mount
-- mouse pad thing
-- wood screws 1&1/4"
 - [How much is a session](http://objectif-couple.com)
 - [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
-## Try on boots
+## Groceries
 
-- Lowa Mens Oslo GTX ($200)
-- Merell Mens Epiction Polar ($168)
-- Vasque Snowburban UltraDry
+- garlic
+- cooking cream
+- soy sauce
+- Italian parsley
+- lemon
+- soda
+- soap
+- paper towel
+- toilet paper
+- tomato sauce
+- kd
+- pasta noodles
+- eggs
+- roseary leaves
+- 7-ounce jar sun-dried tomatoes
+- small can tomato paste
+- bacon
+- Ice cream
+- parmesean
+- carrots
+- potatoes
+- cheese for jeremy sandwiches
+- olive oil
+- pickles x2
+- maribated eggplabts
+- maribated beets
 
 ## Psych help
 
@@ -43,10 +42,8 @@ maribated beets
 
 ## Personal
 
-- muffin tin
-- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
-- Choose a Guitar Amp simulator & Pirate
-- clean up gists
+- Matching Muffin Tin
+- Clean up gists
 - wordpress snippets to files
 - go through new plugins
 - review developer plugins
@@ -55,11 +52,9 @@ maribated beets
 - pick up cables by erin
 - AA roaul notes
 - Dad buy new phone for telus
-- Move to Videotron plan
-- Apply to school
 - Get guitar case from Rachel
-- Make kate a love website
 - Life insurance
+- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - Schedule a talk at TD with a people / Get a TD CC?
 - [Capitol One Card](http://bit.ly/28Os44b), $60/yr
@@ -70,7 +65,7 @@ maribated beets
 - $150 communauto
 - $150 Renew license
 - $140 pay off iPhone
-- $75 + 50 Acoustic panels
+- $75 Acoustic panels Matt
 - $400 ish Kate furniture
 - $?? Madi Tech
 - $?? Dad phone

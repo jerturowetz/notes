@@ -2,12 +2,14 @@
 
 ## Shoe sizes for reference
 
-- Blundstones: 9 _(these are ok, maybe a touch too big)_
-- Vans taco shoes: 11 _(a touch too big)_
-- Converse white high tops: ?? _(a touch too small)_
-- red reebok ??,
+- Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_
+- Vans taco shoes: 11 _(a touch too big - try a 10 or 10.5 max)_
+- Converse white high tops: 9.5 _(a touch too small on the right foot - try a 10)_
+- Reebok red running shoes: 10.5 _(maybe a touch small, try an 11)_
 
 ### Winter boots
+
+## Try on boots
 
 - $200 Vasque Snowburban Ultradry (OGL #1)
 - $200 Merell Men's Turku Trek Waterproof
@@ -33,13 +35,10 @@
 - [$30 - West elm glass terrariums](https://www.westelm.com/products/faceted-glass-terrariums-iridescent-d4902/)
 - [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
 
-## Mandolin
+## Kitchen stuff
 
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
-
-## Various kitchen
-
 - Aluminum Half Sheet Pans (Williams-Sonoma, NORDICWARE)
 - Libertyware cooling racks
 - 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
@@ -48,7 +47,9 @@
 - Dutch oven
 - Carving knife (& fork)
 - Large Reversible Maple Carving Board
+- Wooden serving boards
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
+- 12" Cast iron
 
 ## Kate stuff
 
@@ -85,12 +86,16 @@
 
 Lots of gear from [Mouser](https://ca.mouser.com)
 
+- Vise, panavise and/or helping hands
+- TRS connectors (20)
+- XLR connectors (15 ea male & female)
+- $275 Canare 100m spool (Yellow, Orange, Blue)
+- $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
 - desoldering plunger & wick
 - small flashlight
 - gaffer tape
-- Vise, panavise and/or helping hands
 - Better solder (Kester 44 60/40 Rosin core lead solder is standard, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
 - scratch awl
 - Stripping tools:
@@ -103,24 +108,14 @@ Lots of gear from [Mouser](https://ca.mouser.com)
   - strippers for exterior?
   - [UTP Cable Cutter Stripper Tool](https://www.amazon.ca/gp/product/B003OSRB5C/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
   - [Coax stripping tool](https://www.amazon.ca/gp/product/B00L316XTW/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
-- $275 Canare 100m spool (Yellow, Orange, Blue)
-- $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
-- TRS connectors (20)
-- XLR connectors (15 ea male & female)
-- String
-- clamps with rubber ends for clipping blankets to drums
-- elastic bands
-- wire wraps
-- guitar cleaner
-- guitar oil
-- other spray cleaners
-- abrasive pads
 
 ## Music gear
 
+- fix tom mount
+- mouse pad thing
+- wood screws 1&1/4"
+
 - SM58s
-- short pedal patches
-- guitar cables
 - some stand for kick mic
 - Laptiop DI
 - short (10') headphone ext

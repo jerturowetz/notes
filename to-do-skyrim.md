@@ -3,6 +3,7 @@
 ## ToDo
 
 ENB something
+Women of Skyrim, Windsong Skyrim Character Overhaul and Lith Face Enhancement
 
 Racemenu presets
 Racemenu plugins
