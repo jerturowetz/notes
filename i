@@ -5,32 +5,8 @@
 
 ## Groceries
 
-- garlic
-- cooking cream
-- soy sauce
-- Italian parsley
-- lemon
-- soda
-- soap
-- paper towel
-- toilet paper
-- tomato sauce
-- kd
-- pasta noodles
-- eggs
-- roseary leaves
 - 7-ounce jar sun-dried tomatoes
-- small can tomato paste
-- bacon
-- Ice cream
-- parmesean
-- carrots
-- potatoes
 - cheese for jeremy sandwiches
-- olive oil
-- pickles x2
-- maribated eggplabts
-- maribated beets
 
 ## Psych help
 

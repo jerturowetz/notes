@@ -1,0 +1,3 @@
+# Ideal rack setup
+
+this
