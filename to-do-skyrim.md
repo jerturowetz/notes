@@ -2,6 +2,7 @@
 
 ## ToDo
 
+clean core game files with TESedit if necess
 ENB something
 Women of Skyrim, Windsong Skyrim Character Overhaul and Lith Face Enhancement
 
@@ -27,7 +28,7 @@ Seasons of Skyrim ENB True HDR by Bronze316
 True Vision ENB by Bronze316
 Snapdragon ENB 0.264 By Tetrodoxin (Search on google if you want to get this.)
 [Rudy ENB for Vanilla Skyrim - NLVA - NLA - COT - URWL - ELFX and ENDERAL](https://www.nexusmods.com/skyrim/mods/41482)
-
+[Immersive HUD](https://www.nexusmods.com/skyrim/mods/3222/)
 [Lanterns of Skyrim - All In One](https://www.nexusmods.com/skyrim/mods/18916)
 [Tamriel Reloaded - Textures and Parallax](https://www.nexusmods.com/skyrim/mods/46925)
 [NobleSkyrimMod HD-2K](https://www.nexusmods.com/skyrim/mods/45807)
@@ -367,7 +368,8 @@ No panties armors
 [The Joy of Perspective](https://www.nexusmods.com/skyrim/mods/6002)
 [Another Sorting Mod-2017](https://www.nexusmods.com/skyrim/mods/72428)
 [STUFF BY Deserter X](https://www.youtube.com/playlist?list=PLclnRJx55khhkUbL_VLUJH3UziSth-MeK)
-
+[Bleak ENB](https://www.nexusmods.com/skyrim/mods/24828/)
+[Fuz Ro D-oh](https://www.nexusmods.com/skyrim/mods/14884/?)
 
 statue replacer
 Bronze shine remover
@@ -448,11 +450,22 @@ Inconsequential NPCs
 skytest realistic animals
 imemrsive citizens
 
+
+
 ## SexLab
 
+[SexLab](https://www.loverslab.com/files/file/150-skyrim-sexlab-sex-animation-framework-v162-updated-jun-3rd-2016/)
+[SexLab Animation Loader 1.5](https://www.loverslab.com/files/file/2488-sexlab-animation-loader/)
+[JContainers](https://www.nexusmods.com/skyrim/mods/49743/)
+[SexLab MatchMaker](https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/)
+[LoversRaperS Latest](https://www.loverslab.com/files/file/4-loversrapers/)
+[SexLab Horrible Harassment 1.2](https://www.loverslab.com/files/file/2312-sexlab-horrible-harassment/)
+[Puppet Master 1.7](https://www.loverslab.com/files/file/463-puppet-master/)
+[Zaz Animation Pack V7.0 [2017-05-16]](https://www.loverslab.com/topic/17062-zaz-animation-pack-v70-2017-05-16/)
+[Sexlab Aroused Redux](https://www.loverslab.com/files/file/1421-sexlab-aroused-redux-december-05-2016/)
+[SexLab TDF Prostitution](https://www.loverslab.com/files/file/403-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255/)
 [Sweaty Wet Skin Auto Adjustment 1.0](https://www.loverslab.com/files/file/2732-sweaty-wet-skin-auto-adjustment/)
 [Wet Function Redux 39](https://www.loverslab.com/files/file/2753-wet-function-redux/)
-[Sexlab Aroused Redux](https://www.loverslab.com/files/file/1421-sexlab-aroused-redux-december-05-2016/)
 
 ### Estrus
 
