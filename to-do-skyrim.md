@@ -1,89 +1,91 @@
 # Skyrim Mods
 
-ENB: RealVision ENB by SkyrimTuner
+The XP32 skeleton has options for animations for wild weapon placement (i knida want belt fastened quivers...)
+SMIM can be changed to have 1/2 sized textures
+
+## MCM Adjustments
+
+In the MCM settings for Lanterns of Skyrim, STEP recommends changing following settings:
+    Check every
+    Default: 5 secs
+    STEP: 60 secs
+
+This will change how often the script checks the lanterns. Increasing this will prevent the script from running so often.
+    Enable lanterns along roads
+    Default: ticked
+    STEP: unticked
+
+This will disable lanterns along the roads in Skyrim which returns those area to a more vanilla and lore-friendly state.
+
+## ENBs
+
+[Skyrim - Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859/)
+[Killers Reaistic Skin ENB](https://www.nexusmods.com/skyrim/mods/50835/?)
 The Grim and Somber ENBS by WolfGrimDark
 RealVision ENB
-[Skyrim - Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859/)
-[SL MatchMaker](https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/)
-[SL Necro](https://www.loverslab.com/files/file/341-sexlab-necrophilia/)
-[SL shot](https://www.loverslab.com/files/file/437-sexlab-cumshot/)
-[Killers Reaistic Skin ENB](https://www.nexusmods.com/skyrim/mods/50835/?)
-
-## ToDo
-
-clean core game files with TESedit if necess
-ENB something
-Women of Skyrim, Windsong Skyrim Character Overhaul and Lith Face Enhancement
-Racemenu presets
-Racemenu plugins
-Learn Racemenu
-[Bodyslide tutorials](https://www.youtube.com/watch?v=Wkwtgp3x25s)
-[ENB Tutorial](https://www.youtube.com/watch?v=FHCYoVB8P_Y)
-CTRL-tab in and out
-reset .ini prefreences and find out whi I have 2 files
-get textures working on reg then install SL stuff
-
-Open Data/SKSE/SKSE.ini, copy and paste below lines.
-[Display]
-iTintTextureResolution=2048
-get everything 2k
-ENB basic setup & test
-
-Crash fixes and patches
-
-Tweaked FeverNB
+Bleak ENB
+maybe add dark dungeons?
 Seasons of Skyrim ENB True HDR by Bronze316
+
 True Vision ENB by Bronze316
 Snapdragon ENB 0.264 By Tetrodoxin (Search on google if you want to get this.)
 [Rudy ENB for Vanilla Skyrim - NLVA - NLA - COT - URWL - ELFX and ENDERAL](https://www.nexusmods.com/skyrim/mods/41482)
-[Immersive HUD](https://www.nexusmods.com/skyrim/mods/3222/)
-[Lanterns of Skyrim - All In One](https://www.nexusmods.com/skyrim/mods/18916)
-[Tamriel Reloaded - Textures and Parallax](https://www.nexusmods.com/skyrim/mods/46925)
-[NobleSkyrimMod HD-2K](https://www.nexusmods.com/skyrim/mods/45807)
-[Realistic Water Two](https://www.nexusmods.com/skyrim/mods/41076)
-[Skyrim Flora Overhaul](https://www.nexusmods.com/skyrim/mods/141)
-[Skyrim HD - 2K Textures](https://www.nexusmods.com/skyrim/mods/607)
-[Ultimate HD Fire Effects](https://www.nexusmods.com/skyrim/mods/28642)
-[Enhanced Night Skyrim](https://www.nexusmods.com/skyrim/mods/85)
-[Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrim/mods/8655)
-[Skyrim HD - 2K Textures](https://www.nexusmods.com/skyrim/mods/607)
-[aMidianBorn Caves and Mines](https://www.nexusmods.com/skyrim/mods/39190)
-[Bellyaches HD Dragon Replacer Pack](https://www.nexusmods.com/skyrim/mods/29631)
+
+MY ENBS either need to be compatible with "Interior Lighting" version of ELE (Enhanced ligting for ENB) or that mod needs to be removed
+
+[ENB Tutorial](https://www.youtube.com/watch?v=FHCYoVB8P_Y)
+
+## Expected plugins
+
+RS children
+Live Another Life
+
+## If you want this - change this
+
+SkyRE - Skyrim Skill Interface Re-Texture (SSIRT)
+Joy of Perspective - XP32 Max Skeleton (re run installer)
+Interesting NPCs - Clothing and Clutter Fixes (get patch)
+Falskaar - SkyFalls + SkyMills (re run installer)
+Wyrmstooth - SkyFalls + SkyMills (re run installer)
+Falskaar - Farmhouse Chimneys (re run installer)
+Wyrmstooth - Farmhouse Chimneys (re run installer)
+Aurora - Farmhouse Chimneys (re run installer)
+Helarchen Creek - Farmhouse Chimneys (re run installer)
+Moon and Star - Farmhouse Chimneys (re run installer)
+Arthmoors Village Exapansions - Farmhouse Chimneys (re run installer)
+Ningheim Race - Brows (has patch)
+Enhanced Lighting for ENB - Immersive Citizens (re run installer)
+Enhanced Lights and Effects - Immersive Citizens (re run installer)
+Open Cities - Immersive Citizens (re run installer)
+Moonpath too Elswyre - Immersive Citizens (re run installer)
+Realistic Room Rental ADVANCED - Immersive Citizens (re run installer)
+
+
+
+
 
 ## To get
 
+LL figure out sos best textures for all races
 [SKSE Plugin Preloader](https://www.nexusmods.com/skyrim/mods/75795/?tab=files)
-[A Quality World Map and Solstheim Map - With Roads](https://www.nexusmods.com/skyrim/mods/4929)
-[Unofficial Skyrim Legendary Edition Patch](https://www.nexusmods.com/skyrim/mods/71214)
-[Unofficial High Resolution Patch](https://www.nexusmods.com/skyrim/mods/31255)
-[SkyUI](https://www.nexusmods.com/skyrim/mods/3863)
-[Alternate Start - Live Another Life](https://www.nexusmods.com/skyrim/mods/9557)
 [Floating Damage](https://www.nexusmods.com/skyrim/mods/87895/?)
 [Dual Sheath redux](https://www.nexusmods.com/skyrim/mods/34155)
-[Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601)
 [Footprints](https://www.nexusmods.com/skyrim/mods/22745)
-[PapyrusUtil - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrim/mods/58705)
 [Imperious - Races of Skyrim](https://www.nexusmods.com/skyrim/mods/61218)
-[Better MessageBox Controls](https://www.nexusmods.com/skyrim/mods/28170)
-[Better Dialogue Controls](https://www.nexusmods.com/skyrim/mods/27371)
 [Unread Books Glow](https://www.nexusmods.com/skyrim/mods/10012)
 [Wet and Cold](https://www.nexusmods.com/skyrim/mods/27563)
-[Fores New Idles in Skyrim - FNIS](https://www.nexusmods.com/skyrim/mods/11811)
 [LeanWolf's Better-Shaped Weapons](https://www.nexusmods.com/skyrim/mods/39870)
 [Book Covers Skyrim](https://www.nexusmods.com/skyrim/mods/35399)
 [MaddHaven](https://www.nexusmods.com/skyrim/mods/34251/)
 [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrim/mods/68425)
 [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrim/mods/77465)
-[PapyrusUtil - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrim/mods/58705)
-[XP32 Maximum Skeleton Extended - XPMSE](https://www.nexusmods.com/skyrim/mods/68000)
-[Racemenu (has Netiimerse incorporated. Don't mix with ECE. Get loose base scripts)](https://www.nexusmods.com/skyrim/mods/13970)
-    Racemenu needs Skyrim/Data/SKSE/Plugins/nioverride.ini `faceoverlays set to 1` - might crash with decapitation
-[Enhanced Character Edit - Dont activate](https://www.nexusmods.com/skyrim/mods/12951/)
 [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrim/mods/49015/)
 
-## Rebuild the bodies
+## Rebuild the bodies - from scratch
 
-[SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
+im using a bunch of step items - review and remove
+im using female vapires have fangs - is this a good one?
+
 [The Veteran Skin - 4K Nude Male Skin with SoS Support](https://www.nexusmods.com/skyrim/mods/81004)
 [Drachis Argonians for SOS](https://www.nexusmods.com/skyrim/mods/57070)
 [Argonian and Khajiit Digitgrade with SOS Body Texture](https://www.nexusmods.com/skyrim/mods/67878)
@@ -145,6 +147,7 @@ SKSE register custom animation events
 
 ## Animations
 
+[SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
 [No Spinning Death Animation](https://www.nexusmods.com/skyrim/mods/17214)
 [FNIS Zoo](https://www.nexusmods.com/skyrim/mods/38384)
 [FNIS Sexy Move](https://www.nexusmods.com/skyrim/mods/54521)
@@ -193,10 +196,6 @@ realistic animation project
 [The Ashen Race - HD](https://www.nexusmods.com/skyrim/mods/8583)
 [Obscuuri - The Shadow Folk](https://www.nexusmods.com/skyrim/mods/26842)
 
-## NPC replacers
-
-Bijin & other NPC add ons (divers)
-
 ## Follower overhauls & extras
 
 Pick any of the Follower overhaul mods such as UFO, AFT, EFF etc:
@@ -204,9 +203,6 @@ Pick any of the Follower overhaul mods such as UFO, AFT, EFF etc:
 [UFO - Ultimate Follower Overhaul](https://www.nexusmods.com/skyrim/mods/14037?tab=files)
 [Extensible Follower Framework](https://www.nexusmods.com/skyrim/mods/12933)
 [Better Followers](https://www.nexusmods.com/skyrim/mods/7554)
-
-Also add:
-
 [Xenius Character Enhancement](https://www.nexusmods.com/skyrim/mods/2356)
 [Give Beggars Food](https://www.nexusmods.com/skyrim/mods/76544/?)
 [Follower Commentary Overhaul - FCO](https://www.nexusmods.com/skyrim/mods/52019)
@@ -219,6 +215,7 @@ Also add:
 
 ## Followers / Companions
 
+Bijin & other NPC add ons (divers)
 [Lunari Sisters - Companion Arinya and Lanteia](https://www.nexusmods.com/skyrim/mods/32404)
 [Lunariana - A Woodland Faerie Companion](https://www.nexusmods.com/skyrim/mods/35828)
 [Lunari Warriors 6 Standalone Followers - REBORN](https://www.nexusmods.com/skyrim/mods/36277)
@@ -281,12 +278,6 @@ Also add:
 [Elon - Bosmer Preset for Racemenu](https://www.nexusmods.com/skyrim/mods/86762)
 [Helen - Half Dragon Race RaceMenu Preset](https://www.nexusmods.com/skyrim/mods/86741)
 
-## Alternate Start Saves
-
-[Prostitute Hannah - Alternate Start - Roleplay hardcore save game - Temptress race](https://www.nexusmods.com/skyrim/mods/49102)
-[Nirala Alternate Start Savegame](https://www.nexusmods.com/skyrim/mods/48791)
-[Kamille Shy Preset Savefile CME](https://www.nexusmods.com/skyrim/mods/49405/?)
-
 ## Clothes & armour
 
 [Remodeled Armor for SeveNBase BombShell HDT TBBP](https://www.nexusmods.com/skyrim/mods/65479/?)
@@ -341,6 +332,25 @@ No panties armors
 
 ## Review
 
+Windsong Skyrim Character Overhaul and Lith Face Enhancement
+Learn Racemenu
+[Bodyslide tutorials](https://www.youtube.com/watch?v=Wkwtgp3x25s)
+[Immersive HUD](https://www.nexusmods.com/skyrim/mods/3222/)
+[Lanterns of Skyrim - All In One](https://www.nexusmods.com/skyrim/mods/18916)
+[Tamriel Reloaded - Textures and Parallax](https://www.nexusmods.com/skyrim/mods/46925)
+[NobleSkyrimMod HD-2K](https://www.nexusmods.com/skyrim/mods/45807)
+[Realistic Water Two](https://www.nexusmods.com/skyrim/mods/41076)
+[Skyrim Flora Overhaul](https://www.nexusmods.com/skyrim/mods/141)
+[Skyrim HD - 2K Textures](https://www.nexusmods.com/skyrim/mods/607)
+[Ultimate HD Fire Effects](https://www.nexusmods.com/skyrim/mods/28642)
+[Enhanced Night Skyrim](https://www.nexusmods.com/skyrim/mods/85)
+[aMidianBorn Caves and Mines](https://www.nexusmods.com/skyrim/mods/39190)
+[Bellyaches HD Dragon Replacer Pack](https://www.nexusmods.com/skyrim/mods/29631)
+[Milkdrinker male texture](https://www.nexusmods.com/skyrim/mods/57952/?)
+[Slim male body for SoS](https://www.nexusmods.com/skyrim/mods/58390/?)
+[Battle Hardened Warpaints](https://www.nexusmods.com/skyrim/mods/34539/?)
+[High Poly Feet and Hands for UNP Bodies](http://mod.dysintropi.me/high-poly-feet-and-hands-for-unp-bodies/)
+[Pride of Valhalla - Super HD Skin Set for UNP-UNPB-7B-CBBE](https://www.nexusmods.com/skyrim/mods/72586/?)
 [Luba SkyWings](https://www.nexusmods.com/skyrim/mods/11621)
 [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrim/mods/24909)
 [Sarcastic Player Dialogue](https://www.nexusmods.com/skyrim/mods/62068/?tab=description)
@@ -398,7 +408,8 @@ Diverse skyrim
 apachii divine elegance store
 Shadow over innsmouth
 enslaved by falmer
-Real Women of skyrim
+[Real Women of Skyrim - Texture Overhaul CBBE UNP - Male and Child WIP - fomod](https://www.nexusmods.com/skyrim/mods/85649/?)
+[CLARALUX - More and Brighter Lights](https://www.nexusmods.com/skyrim/mods/17605?tab=files)
 Royal armory
 sommer ray
 moonlight tales
@@ -460,22 +471,22 @@ Inconsequential NPCs
 skytest realistic animals
 imemrsive citizens
 
+## SL Core & adds
 
-
-## SexLab
-
-[SexLab](https://www.loverslab.com/files/file/150-skyrim-sexlab-sex-animation-framework-v162-updated-jun-3rd-2016/)
-[SexLab Animation Loader 1.5](https://www.loverslab.com/files/file/2488-sexlab-animation-loader/)
+[SL Core](https://www.loverslab.com/files/file/150-skyrim-sexlab-sex-animation-framework-v162-updated-jun-3rd-2016/)
+[SL Animation Loader 1.5](https://www.loverslab.com/files/file/2488-sexlab-animation-loader/)
 [JContainers](https://www.nexusmods.com/skyrim/mods/49743/)
-[SexLab MatchMaker](https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/)
 [LoversRaperS Latest](https://www.loverslab.com/files/file/4-loversrapers/)
-[SexLab Horrible Harassment 1.2](https://www.loverslab.com/files/file/2312-sexlab-horrible-harassment/)
+[SL Horrible Harassment 1.2](https://www.loverslab.com/files/file/2312-sexlab-horrible-harassment/)
 [Puppet Master 1.7](https://www.loverslab.com/files/file/463-puppet-master/)
 [Zaz Animation Pack V7.0 [2017-05-16]](https://www.loverslab.com/topic/17062-zaz-animation-pack-v70-2017-05-16/)
 [Sexlab Aroused Redux](https://www.loverslab.com/files/file/1421-sexlab-aroused-redux-december-05-2016/)
 [SexLab TDF Prostitution](https://www.loverslab.com/files/file/403-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255/)
 [Sweaty Wet Skin Auto Adjustment 1.0](https://www.loverslab.com/files/file/2732-sweaty-wet-skin-auto-adjustment/)
 [Wet Function Redux 39](https://www.loverslab.com/files/file/2753-wet-function-redux/)
+[SL MatchMaker](https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/)
+[SL Necro](https://www.loverslab.com/files/file/341-sexlab-necrophilia/)
+[SL shot](https://www.loverslab.com/files/file/437-sexlab-cumshot/)
 
 ### Estrus
 
@@ -484,3 +495,9 @@ imemrsive citizens
 [Tentacle Reskins for Estrus](https://www.nexusmods.com/skyrim/mods/55777)
 [Estrus Mimics](https://www.nexusmods.com/skyrim/mods/49566)
 [Estrus Strange Plant](https://www.nexusmods.com/skyrim/mods/56800)
+
+## Alternate Start Saves
+
+[Prostitute Hannah - Alternate Start - Roleplay hardcore save game - Temptress race](https://www.nexusmods.com/skyrim/mods/49102)
+[Nirala Alternate Start Savegame](https://www.nexusmods.com/skyrim/mods/48791)
+[Kamille Shy Preset Savefile CME](https://www.nexusmods.com/skyrim/mods/49405/?)
