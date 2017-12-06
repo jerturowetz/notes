@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+homestead up --provision
+
 - [How much is a session](http://objectif-couple.com)
 - [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
