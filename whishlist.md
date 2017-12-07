@@ -2,7 +2,7 @@
 
 $400ish AMD RX 580 8GB
 Probably best is the Gigabyte Aurus - [see here](https://www.reddit.com/r/Amd/comments/67kojw/what_is_the_best_rx_580_card_to_get/)
-
+Rode NT1 Mount
 
 ## Shoe sizes for reference
 

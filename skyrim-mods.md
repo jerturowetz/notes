@@ -10,18 +10,19 @@
 [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrim/mods/49015/)
 [UUNP SOS](https://www.loverslab.com/files/file/2467-sos-schlong-for-females-and-equipable-schlong-bodyslide/)
 
-[Better males - Beautiful nudes and faces - New hairstyles](https://www.nexusmods.com/skyrim/mods/2488)
+
+
 [Fine Face Textures for Men](https://www.nexusmods.com/skyrim/mods/27815)
 [High Res Face Maps for Men by Geonox](https://www.nexusmods.com/skyrim/mods/4141)
+
 [Milkdrinker male texture](https://www.nexusmods.com/skyrim/mods/57952/?)
-[New male texture for SOS - Sundracon - FS body](https://www.nexusmods.com/skyrim/mods/36513)
-[SkySight Skins - Ultra HD 4K and 2K - Male Textures and Real Feet Meshes](https://www.nexusmods.com/skyrim/mods/58443/?)
 [Slim male body for SoS](https://www.nexusmods.com/skyrim/mods/58390/?)
+
 [Smooth body textures for Better Males and SOS](https://www.nexusmods.com/skyrim/mods/26145/?)
-[SOS - Custom Body Textures for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/39609)
 [SOS Veteran skin retexture](https://www.loverslab.com/topic/70819-the-veteran-skin-sos-smurf-and-vectorplexus-retextures/)
 [The Veteran Skin - 4K Nude Male Skin with SoS Support](https://www.nexusmods.com/skyrim/mods/81004/)
-[Vitruvia - Skin texture overhaul for males](https://www.nexusmods.com/skyrim/mods/82948/)
+
+
 
 ** Installses Futa sos with SG texture - other textures available
 
