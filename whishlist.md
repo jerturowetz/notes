@@ -1,8 +1,8 @@
 # Wishlist
 
-- $200 zotac 1050 ti
-- GPU 1070 Ti
-- Synology DS918+
+$400ish AMD RX 580 8GB
+Probably best is the Gigabyte Aurus - [see here](https://www.reddit.com/r/Amd/comments/67kojw/what_is_the_best_rx_580_card_to_get/)
+
 
 ## Shoe sizes for reference
 
