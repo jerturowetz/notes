@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+shaun called @12:50
+His director is coming in around 4 today - please call him back
+
 - [How much is a session](http://objectif-couple.com)
 - [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 

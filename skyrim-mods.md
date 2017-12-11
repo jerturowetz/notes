@@ -1,8 +1,34 @@
 # Skyrim Mods
 
+how to set up enb prefs so the system doesnt die
+
+[ENB Local.ini guide](http://wiki.step-project.com/Guide:ENBlocal_INI)
+
+## ENB setup
+
+[ENB Orgaizer](https://www.nexusmods.com/skyrim/mods/67077/)
+
+[Tamriel Reloaded](https://www.nexusmods.com/skyrim/mods/49834/)
+[Clarity ENB](https://www.nexusmods.com/skyrim/mods/61738)
+[BLEAK/UNBLEAK](https://www.nexusmods.com/skyrim/mods/24828/)
+[Snapdragon Prime](https://www.nexusmods.com/skyrim/mods/70451)
+[Stakado Cinemascope](https://www.nexusmods.com/skyrim/mods/15425/)
+[Gameplay Performance ENB](https://www.nexusmods.com/skyrim/mods/53100?tab=files)
+
+## Lighting
+
+Lighting for ENB (need to review EACH ENB)
+[Dark Dungeons for ENB](https://www.nexusmods.com/skyrim/mods/12454)
+[Enhanced lighting for enb]
+[relighting skyrim]
+[Killers Realistic Skin SSS Patch for ENB](https://www.nexusmods.com/skyrim/mods/50835/?tab=description)
+[Watercolor for ENB](https://www.nexusmods.com/skyrim/mods/48938)
+[Wonders of weather](https://www.nexusmods.com/skyrim/mods/64941/)
+[Enhanced ENB Night Eye](https://www.nexusmods.com/skyrim/mods/50731)
+Other ligthing / weather? make sure enb is compatible?
+ultimate lighting overhaul
+
 ## Rebuild the bodies - from scratch
-
-
 
 [Bodyslide tutorials](https://www.youtube.com/watch?v=Wkwtgp3x25s)
 [More how to Bodyslide](https://www.reddit.com/r/skyrimmods/comments/4q8hsb/how_to_install_bodyslide_presets_with_mod/)
@@ -10,43 +36,25 @@
 [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrim/mods/49015/)
 [UUNP SOS](https://www.loverslab.com/files/file/2467-sos-schlong-for-females-and-equipable-schlong-bodyslide/)
 
+loading custom textures on top of AIO HDT ??
 
-
-[Fine Face Textures for Men](https://www.nexusmods.com/skyrim/mods/27815)
-[High Res Face Maps for Men by Geonox](https://www.nexusmods.com/skyrim/mods/4141)
-
-[Milkdrinker male texture](https://www.nexusmods.com/skyrim/mods/57952/?)
-[Slim male body for SoS](https://www.nexusmods.com/skyrim/mods/58390/?)
-
-[Smooth body textures for Better Males and SOS](https://www.nexusmods.com/skyrim/mods/26145/?)
-[SOS Veteran skin retexture](https://www.loverslab.com/topic/70819-the-veteran-skin-sos-smurf-and-vectorplexus-retextures/)
-[The Veteran Skin - 4K Nude Male Skin with SoS Support](https://www.nexusmods.com/skyrim/mods/81004/)
-
-
-
-** Installses Futa sos with SG texture - other textures available
-
+** Installsed Futa sos with SG texture - other textures available
 UNP has normal maps available if needed (if not included in skins)
-[CBBE-CHSBHC-UNP-ADEC-Human Argonian Khajiit Texture-4096](https://www.nexusmods.com/skyrim/mods/4686/?)
+
 [Women of Skyrim](https://www.nexusmods.com/skyrim/mods/25588)
 [Real Women of Skyrim - Texture Overhaul CBBE UNP - Male and Child WIP - fomod](https://www.nexusmods.com/skyrim/mods/85649/?)
-[SeveNBase a custom FemaleBodyReplacer](https://www.nexusmods.com/skyrim/mods/36992/?tab=files)
-[SG Female Eyebrows](https://www.nexusmods.com/skyrim/mods/35327)
 [SG Female Textures Renewal](https://www.nexusmods.com/skyrim/mods/35267)
-[Better Females By Bella Natural Edition](https://www.nexusmods.com/skyrim/mods/26113)
-[Coverwomen](https://www.nexusmods.com/skyrim/mods/3563)
-[Fitness Body](https://www.nexusmods.com/skyrim/mods/16731)
-[Fair Skin Complexion](https://www.nexusmods.com/skyrim/mods/51602)
+[Fair Skin Complexion](https://www.nexusmods.com/skyrim/mods/51602/)
 [Mature Skin texture](https://www.nexusmods.com/skyrim/mods/32986/)
-[Pride of Valhalla - Super HD Skin Set for UNP-UNPB-7B-CBBE](https://www.nexusmods.com/skyrim/mods/72586/?)
 [Real Girls Realistic Body Texture for UNP UNPB and SeveNBase - WIP](https://www.nexusmods.com/skyrim/mods/36425/?)
+[Women of Skyrim-Enhanced female normalmaps](https://www.nexusmods.com/skyrim/mods/20483)
+[True Daughters of Skyrim](https://www.nexusmods.com/skyrim/mods/45453/?)
 
 Vag4
-Better presets
 pubic hair
+Better presets
 
 [Argonian and Khajiit Digitgrade with SOS Body Texture](https://www.nexusmods.com/skyrim/mods/67878)
-[Argonian Raptor Feet](https://www.nexusmods.com/skyrim/mods/19283)
 [Coverkhajiits](https://www.nexusmods.com/skyrim/mods/5941)
 [Drachis Argonians for SOS](https://www.nexusmods.com/skyrim/mods/57070)
 [FAR - Forgotten Argonian Roots](https://www.nexusmods.com/skyrim/mods/42043)
@@ -57,6 +65,9 @@ pubic hair
 [Masculine Khajiit Textures (Grey Cat and Leopard)](https://www.nexusmods.com/skyrim/mods/70481/?)
 [SC - Khajiit Improvement](https://www.nexusmods.com/skyrim/mods/56623/?)
 
+[Argonian Raptor Feet](https://www.nexusmods.com/skyrim/mods/19283)
+[SG Female Eyebrows](https://www.nexusmods.com/skyrim/mods/35327)
+[Fitness Body](https://www.nexusmods.com/skyrim/mods/16731)
 [ApachiiSkyHair natural Retexture](https://www.nexusmods.com/skyrim/mods/35092/)
 [ApachiiSkyHair](https://www.nexusmods.com/skyrim/mods/10168)
 [Battle Hardened Warpaints](https://www.nexusmods.com/skyrim/mods/34539/?)
@@ -72,17 +83,21 @@ pubic hair
 [Pretty Face](https://www.nexusmods.com/skyrim/mods/7887)
 [Pretty Lips](https://www.nexusmods.com/skyrim/mods/1167)
 [The Eyes Of Beauty](https://www.nexusmods.com/skyrim/mods/13722/)
+[Eyes of Aber](https://www.nexusmods.com/skyrim/mods/59192)
 [Freckle Mania 2](https://www.nexusmods.com/skyrim/mods/86208?)
 [High Poly Feet and Hands for UNP Bodies](http://mod.dysintropi.me/high-poly-feet-and-hands-for-unp-bodies/)
 [High Resolution Scars](https://www.nexusmods.com/skyrim/mods/4784)
-
+better makeup
 [Sporty Sexy Sweat](https://www.nexusmods.com/skyrim/mods/28946/?)
+Salt and Wind - Rough Hair for KS Hairdos
+[The Coenaculi - RaceMenu Plugin for Tattoos](https://www.nexusmods.com/skyrim/mods/35677/)
+
 
 ## Animations
 
-NoMaaM Breathing Idles BBB is installed as no BBB...
-[SOS HDT](https://www.loverslab.com/files/file/2180-floppysos/)
+NoMaaM Breathing Idles BBB is installed as no BBB... - turne off
 Havok Object
+[SOS HDT](https://www.loverslab.com/files/file/2180-floppysos/)
 [FNIS Zoo](https://www.nexusmods.com/skyrim/mods/38384)
 [FNIS Sexy Move](https://www.nexusmods.com/skyrim/mods/54521)
 [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrim/mods/72039/)
@@ -208,7 +223,6 @@ Bijin & other NPC add ons (divers)
 HDT skirts & clothes
 Draugr Skirt HDT mod on Loverslab (google it)
 [SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
-[Remodeled Armor for SeveNBase BombShell HDT TBBP](https://www.nexusmods.com/skyrim/mods/65479/?)
 [Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
 [UNP Minidresses Collection](UNP Minidresses Collection)
 [MiniDresses Collection for UUNP Bodyslide - Requires above](https://www.nexusmods.com/skyrim/mods/69880/)
@@ -236,6 +250,11 @@ Draugr Skirt HDT mod on Loverslab (google it)
 [Dragons Crown Sorceress Outfit for UNP](https://www.nexusmods.com/skyrim/mods/11767)
 [Some stuff (aka Nyotengu catsuit)~and more 1.4](https://www.loverslab.com/files/file/1937-some-stuff-aka-nyotengu-catsuit~and-more/)
 [Barely Vamp robes and tavern clothes UNP HDT 01.2](https://www.loverslab.com/files/file/2057-barely-vamp-robes-and-tavern-clothes-unp-hdt/)
+[More Tavern Idles]
+[All in One Face for Dawnguard Vampire and Vanilla Races - UNP - CBBEv3 - Vanilla at Skyrim Nexus - mods and community]
+[Realistic Animation Project - Idles at Skyrim Nexus - mods and community]
+[Isharas Custom Player Body at Skyrim Nexus - mods and community]
+KS hairdos - Breast Weight for UUNP or CBBE (fixes clipping)
 [LDW's Crimson Closet for UNP Slim, UNP, UNP?, and UNPB 14](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [SPB Bakuretsu Hunter for UNP Jiggle 1.0](https://www.loverslab.com/files/file/2077-spb-bakuretsu-hunter-for-unp-jiggle/)
 [Dragon Princess & Trielek armor Mix 1.1](https://www.loverslab.com/files/file/260-dragon-princess-trielek-armor-mix/)
@@ -275,6 +294,7 @@ No panties armors
 
 ## Save for later
 
+Get swords on hip etc
 [RaceCompatibility for Skyrim and Dawnguard](https://www.nexusmods.com/skyrim/mods/24168)
 [Temptress Race](https://www.nexusmods.com/skyrim/mods/18717/)
 [The Ningheim Race](https://www.nexusmods.com/skyrim/mods/35474)
@@ -309,9 +329,7 @@ No panties armors
 [No snow under the roof](https://www.nexusmods.com/skyrim/mods/51188)
 [Enhanced Night Skyrim](https://www.nexusmods.com/skyrim/mods/85)
 [ShowRaceMenu Alternative](https://www.nexusmods.com/skyrim/mods/20394)
-[Dark Dungeons for ENB](https://www.nexusmods.com/skyrim/mods/12454)
 [Optimizer Textures (Ordenador)](https://www.nexusmods.com/skyrim/mods/12801/)
 [Sweaty Wet Skin Auto Adjustment 1.0](https://www.loverslab.com/files/file/2732-sweaty-wet-skin-auto-adjustment/)
 [Wet Function Redux 39](https://www.loverslab.com/files/file/2753-wet-function-redux/)
-[Seasons of Skyrim ENB](https://www.nexusmods.com/skyrim/mods/23812?tab=description)
-[Killers Realistic Skin SSS Patch for ENB](https://www.nexusmods.com/skyrim/mods/50835/?tab=description)
+
