@@ -1,5 +1,10 @@
 # Wishlist
 
+$400ish AMD RX 580 8GB
+Probably best is the Gigabyte Aurus - [see here](https://www.reddit.com/r/Amd/comments/67kojw/what_is_the_best_rx_580_card_to_get/)
+Rode NT1 Mount
+XLR attenuators for Behringer pre
+
 ## Shoe sizes for reference
 
 - Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_

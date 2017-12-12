@@ -1,21 +1,11 @@
 # Songs to learn
 
-take cate to a soda shop
-
-f'y like an eagle 
-
-If I ain't got you
-It's getting hot in here
-
-van morrison wild night
-lisa leblanc - je suis pas un cowboy
-
-
-crosby stull nash
-hellen reatty 
-
-
-
+Steve Miller Band - Fly Like An Eagle
+Alicia Keys - If I Ain't Got You
+Nelly - Hot In Herre
+Helen Reddy
+Crosby, Stills & Nash
+lisa leblanc - j'suis pas un cowboy
 Loggins and Messina - Danny's song
 Spirit of the West – Home for a rest
 Blue Rodeo - Hasn't hit me yet
