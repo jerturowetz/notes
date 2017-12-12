@@ -1,8 +1,9 @@
 # Jer's To-Do List
 
-shaun called @12:50
-His director is coming in around 4 today - please call him back
-
+- get twin flames in touch with bart re video on a cliff
+- bandzoogle
+- get in touch with jesse
+- get in touch with music lady
 - [How much is a session](http://objectif-couple.com)
 - [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
 
