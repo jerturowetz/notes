@@ -1,5 +1,8 @@
 # Skyrim Mods
 
+kids hair is messed up
+pub are missing
+
 ## Followers / Companions
 
 [PixeledVixens Ningheim Followers](https://www.nexusmods.com/skyrim/mods/39532)
