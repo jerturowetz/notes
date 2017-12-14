@@ -1,11 +1,11 @@
 # Skyrim :: Mod notes
 
-The XP32 skeleton has options for animations for wild weapon placement (i knida want belt fastened quivers...)
-Dual SHeath Redux needs to be messed with if I wanna switch to swords on back (prolly all the animations too)
-SMIM can be changed to have 1/2 sized textures
-Might need to remove Boat Trapdoors from `Animated Clutter`
-If black and purple or rainbow colors on their money bag and alchemy lab tables - set iTexMipMapSkip to the value of 0 in the SkyrimPrefs.ini under [Display]
-[Uncapper guide](http://wiki.step-project.com/Guide:Skyrim_-Community-_Uncapper)
+- Setup Player Exclusive animations
+- Play Random Idle: Put your favourite idle animations (e.g. Pretty Female Idles) into "Meshes/Actors/Character/Animations/PlayRandomIdle" and name them "PRI001.hkx" to "PRI020.hkx". Run GenerateFNISforUsers.exe. Done.
+- The XP32 skeleton has options for animations for wild weapon placement (i knida want belt fastened quivers...)
+- Dual SHeath Redux needs to be messed with if I wanna switch to swords on back (prolly all the animations too)
+- If black and purple or rainbow colors on their money bag and alchemy lab tables - set `iTexMipMapSkip` to the value of 0 in the `SkyrimPrefs.ini` under [Display]
+- [Uncapper guide](http://wiki.step-project.com/Guide:Skyrim_-Community-_Uncapper)
 
 ## MCM Adjustments
 
@@ -37,6 +37,19 @@ If black and purple or rainbow colors on their money bag and alchemy lab tables 
 
     Unlock with Magic
     Enable Unlock Spell: ticked
+
+    // SOS for females - All females schlonged but PC
+    MCM SOS - Player / NPC Settings: Pick the "No schlong" option.
+
+    // Not all females schlonged, just the PC or the ones I want
+    MCM SOS - "NPC schlong type probability" in the MCM menus, SOS UNP tab. This will set the probability to zero to all races. The value for the global setting doesn't change, it's normal.
+    MCM SOS - Player / NPC Settings: set a the UNP schlong to the PC or NPC
+
+    // Random females schlonged based on a chance (requires CK editing)
+    Load in CK a non-female schlong addon you are using (e.g. VectorPlexus Muscular)
+    Look for the gender global variable (e.g. "SOS_Addon_VectorPlexusMuscular_Gender") Change it to 2 (2 = male and female). Click OK, save and exit.
+    The muscular schlong has no female meshes in the armor addon so it will be invisible when a female equips it
+    MCM SOS - "NPC schlong type probability" SOS, UNP tab. This will propagate the probability to all races. The value for the global setting doesn't change, it's normal. For a 10% surprise chance, set the muscular schlong to 90%, and the UNP to 10%
 
 ## If you want this - change this
 

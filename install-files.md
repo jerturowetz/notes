@@ -2,6 +2,16 @@
 
 Below are notes regarding my setup of fresh Windows 10 systems for development.
 
+## Intel Iris 640: increase video memory size
+
+Please note this will eat up system RAM for other stuff
+
+- Navigate to `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Intel\`
+- Right click and create a new key called `GMM`
+- in `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM\` create a QWORD
+- name it `dedicatedsegmentsize`
+- set it to `512` or `1024`
+
 ## Disable Cortana on Windows 10 Pro
 
 - Launch the group policy editor gpedit.msc
