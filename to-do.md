@@ -1,28 +1,6 @@
 # Jer's To-Do List
 
-groceries
-advil
-toothpasete
-hand soap
-bags for compost (large)
-edging for wood in hall
-cheeses
-bread
-meats
-
-
-roasted - allow to rest for 30 mins
-
-cooking thermometer
-Cuisinart CEK-40 electric knife
-
-ingredients:
-turkey (defrosted)
-Red apple
-Onion
-Sage
-Rosemary
-
+- check out vera lynn & benny goodman
 - get twin flames in touch with bart re video on a cliff
 - bandzoogle
 - get in touch with jesse
@@ -34,6 +12,14 @@ Rosemary
 
 - 7-ounce jar sun-dried tomatoes
 - cheese for jeremy sandwiches
+- advil
+- toothpasete
+- hand soap
+- bags for compost (large)
+- cheeses
+- bread
+- meats
+- freezer ziplock bags (med & large)
 
 ## Psych help
 
@@ -45,7 +31,7 @@ Rosemary
 
 ## Personal
 
-- Matching Muffin Tin
+- Another matching muffin tin from provigo
 - Clean up gists
 - wordpress snippets to files
 - go through new plugins
@@ -61,11 +47,9 @@ Rosemary
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - Schedule a talk at TD with a people / Get a TD CC?
 - [Capitol One Card](http://bit.ly/28Os44b), $60/yr
-- ask Paul about acoustic panel builds and drums
 
 ## Outstanding Bills
 
-- $150 communauto
 - $150 Renew license
 - $140 pay off iPhone
 - $75 Acoustic panels Matt
