@@ -1,16 +1,20 @@
+
 # Jer's To-Do List
 
-roasted - allow to rest for 30 mins
+quarter round 180cm
+
+vera lynn
+benny goodman 
+
+
+little notbook
+wood screws
+
 
 cooking thermometer
 Cuisinart CEK-40 electric knife
 
-ingredients:
-turkey (defrosted)
-Red apple
-Onion
-Sage
-Rosemary
+
 
 - get twin flames in touch with bart re video on a cliff
 - bandzoogle
