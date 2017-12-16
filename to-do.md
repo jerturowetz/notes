@@ -1,5 +1,16 @@
 # Jer's To-Do List
 
+groceries
+advil
+toothpasete
+hand soap
+bags for compost (large)
+edging for wood in hall
+cheeses
+bread
+meats
+
+
 roasted - allow to rest for 30 mins
 
 cooking thermometer
