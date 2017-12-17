@@ -1,28 +1,39 @@
 # Skyrim Mods
 
-kids hair is messed up
+maybe enable windsong?
+try to fix rschildren?
+
+
+deadly mutilation
+animated pros
+death alternative
+devious devicesimmersive armors
+lanterns of skyrim
+playervoicesets
+sanguine debauchery
+The dance of death
+wearable lanterns
+
+Skeleton
+Then this mod
+Then Bodyslide
+Then any clothing/armors to alter in bodyslide
+
+And- what took me an embarrassingly long time to figure out- when running Bodyslide, choose the body you selected in this mod (All in One HDT Animated P) NOT any other body!!!!! (You may select any preset, but must choose the matching body in the first, top left box called "Outfit/Body")
+
+Zaz
+SL aroused
+SL dialogues
+SL werewolves
+SL nude creatures
+SL Submit
+SL Romance
+SL matchmaker
+SL anim loader
+NON SL anim pack
+SLAL Nibbles animations
+
 pub are missing
-
-## Followers / Companions
-
-[PixeledVixens Ningheim Followers](https://www.nexusmods.com/skyrim/mods/39532)
-[Hoth](https://www.nexusmods.com/skyrim/mods/24666)
-[Aurlyn Dawnstone](https://aurlyndawnstone.blogspot.ca/p/dow.html)
-[Sofia - The Funny Fully Voiced Follower](https://www.nexusmods.com/skyrim/mods/54527/?)
-[Carmella.. A True Vampire Follower](https://www.nexusmods.com/skyrim/mods/75183/?)
-[Female Follower Kamille Shy UNPB CBBEv3 Standalone - NEW UNIQUE ARMOR SET](https://www.nexusmods.com/skyrim/mods/37803)
-[Shindara - The Fire Within - Follower and Dungeon Quest Mod](https://www.nexusmods.com/skyrim/mods/84154/?)
-[Serana and Claire](https://www.nexusmods.com/skyrim/mods/82131)
-[Yzandra and Shaelyn - Standalone Followers](https://www.nexusmods.com/skyrim/mods/60868/?)
-[Danariel Stormbow Follower with Body Changer](https://www.nexusmods.com/skyrim/mods/47649)
-[Companion Valfar](https://www.nexusmods.com/skyrim/mods/25360)
-[Elven Sisters - standalone followers](https://www.nexusmods.com/skyrim/mods/52352)
-[SKY Companions](https://www.nexusmods.com/skyrim/mods/58363)
-[Minerva - Custom High Elf Voiced Follower](https://www.nexusmods.com/skyrim/mods/74256/?)
-[Maxine](https://www.nexusmods.com/skyrim/mods/87934)
-[Icemage - Elena](https://www.nexusmods.com/skyrim/mods/59936/?)
-[Mour - Fully Voiced Halfdragon Follower](https://www.nexusmods.com/skyrim/mods/74511)
-[Companions and Followers](https://www.nexusmods.com/skyrim/mods/17823)
 
 ## Clothes & armour
 
@@ -190,10 +201,31 @@ better makeup
 Salt and Wind - Rough Hair for KS Hairdos
 [SKY female textures NSFW](https://www.nexusmods.com/skyrim/mods/72617/?)
 https://www.nexusmods.com/skyrim/mods/83554
-
+[Rustic Children](https://www.nexusmods.com/skyrim/mods/63353)
 
 ## Follower overhauls & extras
 
 [UFO - Ultimate Follower Overhaul](https://www.nexusmods.com/skyrim/mods/14037?tab=files)
 [Extensible Follower Framework](https://www.nexusmods.com/skyrim/mods/12933)
 [Followers can Relax](https://www.nexusmods.com/skyrim/mods/9504)
+
+## Followers / Companions
+
+[PixeledVixens Ningheim Followers](https://www.nexusmods.com/skyrim/mods/39532)
+[Hoth](https://www.nexusmods.com/skyrim/mods/24666)
+[Aurlyn Dawnstone](https://aurlyndawnstone.blogspot.ca/p/dow.html)
+[Sofia - The Funny Fully Voiced Follower](https://www.nexusmods.com/skyrim/mods/54527/?)
+[Carmella.. A True Vampire Follower](https://www.nexusmods.com/skyrim/mods/75183/?)
+[Female Follower Kamille Shy UNPB CBBEv3 Standalone - NEW UNIQUE ARMOR SET](https://www.nexusmods.com/skyrim/mods/37803)
+[Shindara - The Fire Within - Follower and Dungeon Quest Mod](https://www.nexusmods.com/skyrim/mods/84154/?)
+[Serana and Claire](https://www.nexusmods.com/skyrim/mods/82131)
+[Yzandra and Shaelyn - Standalone Followers](https://www.nexusmods.com/skyrim/mods/60868/?)
+[Danariel Stormbow Follower with Body Changer](https://www.nexusmods.com/skyrim/mods/47649)
+[Companion Valfar](https://www.nexusmods.com/skyrim/mods/25360)
+[Elven Sisters - standalone followers](https://www.nexusmods.com/skyrim/mods/52352)
+[SKY Companions](https://www.nexusmods.com/skyrim/mods/58363)
+[Minerva - Custom High Elf Voiced Follower](https://www.nexusmods.com/skyrim/mods/74256/?)
+[Maxine](https://www.nexusmods.com/skyrim/mods/87934)
+[Icemage - Elena](https://www.nexusmods.com/skyrim/mods/59936/?)
+[Mour - Fully Voiced Halfdragon Follower](https://www.nexusmods.com/skyrim/mods/74511)
+[Companions and Followers](https://www.nexusmods.com/skyrim/mods/17823)

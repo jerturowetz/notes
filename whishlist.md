@@ -1,10 +1,25 @@
 # Wishlist
 
-- [Build a PC](https://www.youtube.com/watch?v=7FBzL7JLifw)
-- $400 ish AMD RX 580 8GB
-- Probably best is the Gigabyte Aurus - [see here](https://www.reddit.com/r/Amd/comments/67kojw/what_is_the_best_rx_580_card_to_get/)
+## Priorities - Xmas
+
+- [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
+- Something at ZONE?
+- Something at the Bay?
+- Playmobile
+- kiehl's moisturizer
+
+## Priorities - Personal
+
+- cooking thermometer (thermapen)
+- Cuisinart CEK-40 electric knife
 - Rode NT1 Mount
-- XLR attenuators for Behringer pre
+- XLR attenuators for Behringer pre ?
+- little notebook
+- wood screws for mounting minitor arm
+- fix tom mount
+- wood screws 1&1/4"
+- some stand for kick mic
+- TRS & XLR connectors (mouser)
 
 ## Shoe sizes for reference
 
@@ -15,12 +30,12 @@
 
 ### Winter boots
 
-## Try on boots
-
 - $200 Vasque Snowburban Ultradry (OGL #1)
 - $200 Merell Men's Turku Trek Waterproof
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
 - $300 Lowa Men's Oslo GTX
+- Chelsea boots
+- Classic Timberlands
 
 ### Rain/boating boots
 
@@ -29,17 +44,6 @@
 - $100 XtraTuf 12 In. Deck Boot (Navy-red)
 - $80 XtraTuf 6 In. Ankle Boot (Gray-yellow)
 - $125 LaCrosse Hampton {small rain boot}
-
-### Other shoes
-
-- Chelsea boots
-- Classic Timberlands
-
-## Kate & Cathy Xmas
-
-- [$28 - Cabin Porn book](https://www.amazon.ca/Cabin-Porn-Inspiration-Quiet-Somewhere/dp/0316378216/)
-- [$30 - West elm glass terrariums](https://www.westelm.com/products/faceted-glass-terrariums-iridescent-d4902/)
-- [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
 
 ## Kitchen stuff
 
@@ -64,10 +68,7 @@
 - Print & frame OWLTURD's "We Go Forward" comic for kate
 - $90 suck it hoodie
 - STOCKHOLM Mirror
-- Playmobile
-- kiehl's moisturizer
 - RipNDIP clothing
-- Harry Potter Time Turner Necklace – Alice Apparel
 - [Hawaii T](http://fresh-tops.com/hawaii-white-t-shirt/)
 - [Do Nothing Club hat](http://fresh-tops.com/do-nothing-white-hat/)
 - ugly dino xmas sweater
@@ -117,20 +118,13 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- fix tom mount
-- mouse pad thing
-- wood screws 1&1/4"
-
+- K&M 21021 for overheads & weight x2
+- K&M 23323 for snare bottom
 - SM58s
-- some stand for kick mic
 - Laptiop DI
-- short (10') headphone ext
-- [Cubase color kit](https://www.dawlab.net/color-pack-for-cubase-inc-maschine-colors/)
 - little bits of acoustic foam to isolate mics
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-- K&M 21021 for overheads & weight x2
-- K&M 23323 for snare bottom
 - Mixer (MixWizard or GB2R)
 - Mic stands for guit & bass mics / amp clips
 - laptop/electronics stand
