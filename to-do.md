@@ -8,23 +8,19 @@
 - get in touch with music lady
 - [How much is a session](http://objectif-couple.com)
 - [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
-
-gingerbread house kit
-
+- gingerbread house kit
 
 ## Groceries
 
-SMall thing whole milk (3.25%)
-1L heavy cream
-Apple Cider
-Lemon
-
-Cinnamon sticks
-Whole Nutmeg
-2 Star Anise
-cloves
-Whole all spice
-
+- Small thing whole milk (3.25%)
+- 1L heavy cream
+- Apple Cider
+- Lemon
+- Cinnamon sticks
+- Whole Nutmeg
+- 2 Star Anise
+- cloves
+- Whole all spice
 - 7-ounce jar sun-dried tomatoes
 - bags for compost (large)
 - freezer ziplock bags (med & large)
