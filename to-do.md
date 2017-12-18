@@ -11,6 +11,17 @@
 
 ## Groceries
 
+SMall thing whole milk (3.25%)
+1L heavy cream
+Apple Cider
+Lemon
+
+Cinnamon sticks
+Whole Nutmeg
+2 Star Anise
+cloves
+Whole all spice
+
 - 7-ounce jar sun-dried tomatoes
 - bags for compost (large)
 - freezer ziplock bags (med & large)
