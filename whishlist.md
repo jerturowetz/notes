@@ -14,10 +14,8 @@
 - Cuisinart CEK-40 electric knife
 - Rode NT1 Mount
 - XLR attenuators for Behringer pre ?
-- little notebook
-- fix tom mount
 - some stand for kick mic
-- TRS & XLR connectors (mouser)
+- little notebook
 
 ## Shoe sizes for reference
 
@@ -118,6 +116,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 - K&M 21021 for overheads & weight x2
 - K&M 23323 for snare bottom
+- fix tom mount
 - SM58s
 - Laptiop DI
 - little bits of acoustic foam to isolate mics

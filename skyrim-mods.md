@@ -1,86 +1,10 @@
 # Skyrim Mods
 
-
-
-
-https://www.nexusmods.com/skyrim/mods/83009/
-https://www.nexusmods.com/skyrim/mods/85411
-https://www.loverslab.com/files/file/1445-2016-august-18-added-link-to-darker-texture-options-the-painted-lady-redone-color-matching-pubic-hairs/
-http://robton.nu/vanilla-armors-and-clothes-tmb/
-https://www.youtube.com/watch?v=0tyUFCPhCKE
-https://www.loverslab.com/files/file/2506-sexlab-animation-loader-guide/
-https://www.loverslab.com/topic/67733-how-to-use-slal-animations/
-https://www.loverslab.com/files/file/2856-sl-animation-loader-pack-collection-and-installation-guide/
-https://www.loverslab.com/files/file/3524-sexlab-more-nasty-critters-install-guide/
-https://www.loverslab.com/files/file/3426-k4-animations-slal-package/
-https://www.loverslab.com/files/file/977-foxmerged-2/
-https://www.loverslab.com/files/file/977-foxmerged-2/
-
-https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/
-https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn-updated-01122017/
-https://www.loverslab.com/topic/89576-10-minutes-or-less-guide-to-making-your-entire-hdt-pe-armor-library-jiggle-with-smp/
-
-https://www.loverslab.com/topic/10341-conversions-for-unpb-with-bbp/
-https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/
-https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/
-https://www.nexusmods.com/skyrim/mods/69562/?
-https://www.nexusmods.com/skyrim/mods/75861/?tab=files&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D75861&pUp=1
-https://www.nexusmods.com/skyrim/mods/75861/?tab=files&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D75861&pUp=1
-https://www.nexusmods.com/skyrim/mods/69880/
-
-
-
-
-maybe enable windsong?
-try to fix rschildren?
-
-
-deadly mutilation
-animated pros
-death alternative
-devious devicesimmersive armors
-lanterns of skyrim
-playervoicesets
-sanguine debauchery
-The dance of death
-wearable lanterns
-
-Skeleton
-Then this mod
-Then Bodyslide
-Then any clothing/armors to alter in bodyslide
-
-And- what took me an embarrassingly long time to figure out- when running Bodyslide, choose the body you selected in this mod (All in One HDT Animated P) NOT any other body!!!!! (You may select any preset, but must choose the matching body in the first, top left box called "Outfit/Body")
-
-Zaz
-SL aroused
-SL dialogues
-SL werewolves
-SL nude creatures
-SL Submit
-SL Romance
-SL matchmaker
-SL anim loader
-NON SL anim pack
-SLAL Nibbles animations
-
-pub are missing
-
 ## Clothes & armour
 
-HDT skirts & clothes
-Draugr Skirt HDT mod on Loverslab (google it)
-More Tavern Idles
-All in One Face for Dawnguard Vampire and Vanilla Races - UNP - CBBEv3 - Vanilla at Skyrim Nexus - mods and community
-Realistic Animation Project - Idles at Skyrim Nexus - mods and community
-Isharas Custom Player Body at Skyrim Nexus - mods and community
-[Furb's One-Stop SoS Armor Shop](https://www.nexusmods.com/skyrim/mods/86777)
-[SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
 [Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
-[UNP Minidresses Collection](UNP Minidresses Collection)
 [MiniDresses Collection for UUNP Bodyslide - Requires above](https://www.nexusmods.com/skyrim/mods/69880/)
 [Remodeled Armor for UUNP BodySlide HDT - DONT MIX](https://www.nexusmods.com/skyrim/mods/69562/)
-[Remodeled Armor CBBEv3M](https://www.nexusmods.com/skyrim/mods/13004)
 [Emfy Cleric Robes UNP - CBBE](https://www.nexusmods.com/skyrim/mods/61013/?)
 [The Book of UUNP Bodyslide - UNP - Sevenbase](https://www.nexusmods.com/skyrim/mods/75861)
 [Ultra Skimpy Silverlight armor for UNP and UNPB HDT](https://www.nexusmods.com/skyrim/mods/37189)
@@ -137,10 +61,15 @@ Isharas Custom Player Body at Skyrim Nexus - mods and community
 [Illustrious HDT Cloaks of Skyrim](https://www.nexusmods.com/skyrim/mods/72581)
 [Capes with HDT physics](https://www.nexusmods.com/skyrim/mods/59700)
 [Vanilla Armors Replacer UUNP-CBBE UNP UNPB 7Base MCBM HDT](https://www.nexusmods.com/skyrim/mods/72775)
-[Remodeled Armor for UUNP BodySlide HDT](https://www.nexusmods.com/skyrim/mods/69562)
 [HDT test skirts](https://www.loverslab.com/files/file/508-hdt-test-skirts/)
-SOS Futa clothing
-No panties armors
+
+## Clothing for later
+
+[Nightasty Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
+[JRConversions - UUNP HDT](https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/)
+[Bodyslide Armor And Clothes List V3 (No Requests)](https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/)
+[Furb's One-Stop SoS Armor Shop](https://www.nexusmods.com/skyrim/mods/86777)
+[SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
 
 ## Presets
 
@@ -180,8 +109,6 @@ No panties armors
 [Face Light](https://www.nexusmods.com/skyrim/mods/13457/)
 [Simple Actions - The floor is as good a place to sleep as any](https://www.nexusmods.com/skyrim/mods/58296/)
 [Deadly Mutilation](https://www.nexusmods.com/skyrim/mods/34917)
-[OSA - Skyrim Ascendancy Engine](https://www.nexusmods.com/skyrim/mods/76744)
-[OSex](https://www.nexusmods.com/skyrim/mods/69448/)
 [Beasts of Tamriel](https://www.nexusmods.com/skyrim/mods/76203/)
 [Knocked Up](https://www.nexusmods.com/skyrim/mods/57693/)
 [Grimy Utilities](https://www.nexusmods.com/skyrim/mods/36328/)
@@ -207,32 +134,29 @@ No panties armors
 [Optimizer Textures (Ordenador)](https://www.nexusmods.com/skyrim/mods/12801/)
 [Sweaty Wet Skin Auto Adjustment 1.0](https://www.loverslab.com/files/file/2732-sweaty-wet-skin-auto-adjustment/)
 [Wet Function Redux 39](https://www.loverslab.com/files/file/2753-wet-function-redux/)
-[HDT Scarves](https://www.loverslab.com/files/file/3834-hdt-smp-hdt-scarves/)
-[Naturalistic HDT and Beast HDT ](https://www.loverslab.com/files/file/2431-naturalistic-hdt-and-beast-hdt/)
-[SexLab Gender Change](https://www.loverslab.com/files/file/715-sexlab-gender-change/)
-[Immersive Gender Change](https://www.loverslab.com/files/file/1582-immersive-gender-change/)
-[Nightasy Modding - Outfits](http://nightasymodding.weebly.com/skyrim-mods.html)
 [Freckle Mania 2](https://www.nexusmods.com/skyrim/mods/86208?)
 [Sporty Sexy Sweat](https://www.nexusmods.com/skyrim/mods/28946/?)
 [The Coenaculi - RaceMenu Plugin for Tattoos](https://www.nexusmods.com/skyrim/mods/35677/)
 [KISS - Khajiit Cat Sprint and Sneak](https://www.nexusmods.com/skyrim/mods/22604)
-[Custom Armor Patch for SOS](https://www.nexusmods.com/skyrim/mods/40582https://www.nexusmods.com/skyrim/mods/40582)
 [Better Hand Mesh for UNP UNPB UNPC](https://www.nexusmods.com/skyrim/mods/30179/?)
 [Feminine Hands CBBE UNP](https://www.nexusmods.com/skyrim/mods/49285)
 [High Poly Feet and Hands for UNP Bodies](http://mod.dysintropi.me/high-poly-feet-and-hands-for-unp-bodies/)
 [Fix Lip Sync](https://www.nexusmods.com/skyrim/mods/75951/?)
-https://www.nexusmods.com/skyrim/mods/84810
-[Skyrim SL tutrial](https://www.youtube.com/watch?v=0tyUFCPhCKE)
-OSex
+[Rustic Children](https://www.nexusmods.com/skyrim/mods/63353)
 Combat Mods
 Get swords on hip
 Immersive Creatures
 Better presets
 better makeup
 Salt and Wind - Rough Hair for KS Hairdos
-[SKY female textures NSFW](https://www.nexusmods.com/skyrim/mods/72617/?)
-https://www.nexusmods.com/skyrim/mods/83554
-[Rustic Children](https://www.nexusmods.com/skyrim/mods/63353)
+maybe enable windsong?
+try to fix rschildren?
+deadly mutilation
+immersive armors
+lanterns of skyrim
+playervoicesets
+wearable lanterns
+Isharas Custom Player Body at Skyrim Nexus - mods and community
 
 ## Follower overhauls & extras
 
@@ -260,3 +184,29 @@ https://www.nexusmods.com/skyrim/mods/83554
 [Icemage - Elena](https://www.nexusmods.com/skyrim/mods/59936/?)
 [Mour - Fully Voiced Halfdragon Follower](https://www.nexusmods.com/skyrim/mods/74511)
 [Companions and Followers](https://www.nexusmods.com/skyrim/mods/17823)
+
+## SL Stuff
+
+[SexLab Animation Loader Guide](https://www.loverslab.com/files/file/2506-sexlab-animation-loader-guide/)
+[SL Animation Loader - Pack Collection and Installation Guide](https://www.loverslab.com/files/file/2856-sl-animation-loader-pack-collection-and-installation-guide/)
+[SexLab & More Nasty Critters Install Guide V2.1](https://www.loverslab.com/files/file/3524-sexlab-more-nasty-critters-install-guide/)
+[Anub's animation dump (REBORN) Updated 01.12.2017 1017](https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn-updated-01122017/)
+[Skyrim SL tutrial](https://www.youtube.com/watch?v=0tyUFCPhCKE)
+[SexLab Gender Change](https://www.loverslab.com/files/file/715-sexlab-gender-change/)
+[Immersive Gender Change](https://www.loverslab.com/files/file/1582-immersive-gender-change/)
+[OSex](https://www.nexusmods.com/skyrim/mods/69448/)
+animated pros
+death alternative
+devious devices
+sanguine debauchery
+Zaz
+SL aroused
+SL dialogues
+SL werewolves
+SL nude creatures
+SL Submit
+SL Romance
+SL matchmaker
+SL anim loader
+NON SL anim pack
+SLAL Nibbles animations

@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+invite more ppl to party
+
 - quarter round 180cm
 - check out vera lynn & benny goodman
 - get twin flames in touch with bart re video on a cliff
@@ -12,6 +14,13 @@
 
 ## Groceries
 
+- cheerios
+- crispix
+- mini pretzel twists
+- 500 g of roasted salted nuts
+- 750g of salted mixed nuts
+- 750 g roasted salted cashews
+- Butter
 - Small thing whole milk (3.25%)
 - 1L heavy cream
 - Apple Cider
