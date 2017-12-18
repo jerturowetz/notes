@@ -1,25 +1,6 @@
 # Jer's To-Do List
 
-quarter round 180cm
-
-
-
-
-
-vera lynn
-benny goodman 
-i wanna fance with sonebody 
-
-
-little notbook
-wood screws
-
-
-cooking thermometer
-Cuisinart CEK-40 electric knife
-
-
-
+- quarter round 180cm
 - check out vera lynn & benny goodman
 - get twin flames in touch with bart re video on a cliff
 - bandzoogle
@@ -31,15 +12,11 @@ Cuisinart CEK-40 electric knife
 ## Groceries
 
 - 7-ounce jar sun-dried tomatoes
-- cheese for jeremy sandwiches
-- advil
-- toothpasete
-- hand soap
 - bags for compost (large)
-- cheeses
-- bread
-- meats
 - freezer ziplock bags (med & large)
+- soda
+- perrier
+- asian grocery (dumplings, noodles, basil, pickled things, duck)
 
 ## Psych help
 

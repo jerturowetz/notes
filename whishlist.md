@@ -15,9 +15,7 @@
 - Rode NT1 Mount
 - XLR attenuators for Behringer pre ?
 - little notebook
-- wood screws for mounting minitor arm
 - fix tom mount
-- wood screws 1&1/4"
 - some stand for kick mic
 - TRS & XLR connectors (mouser)
 

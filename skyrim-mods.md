@@ -1,5 +1,36 @@
 # Skyrim Mods
 
+
+
+
+https://www.nexusmods.com/skyrim/mods/83009/
+https://www.nexusmods.com/skyrim/mods/85411
+https://www.loverslab.com/files/file/1445-2016-august-18-added-link-to-darker-texture-options-the-painted-lady-redone-color-matching-pubic-hairs/
+http://robton.nu/vanilla-armors-and-clothes-tmb/
+https://www.youtube.com/watch?v=0tyUFCPhCKE
+https://www.loverslab.com/files/file/2506-sexlab-animation-loader-guide/
+https://www.loverslab.com/topic/67733-how-to-use-slal-animations/
+https://www.loverslab.com/files/file/2856-sl-animation-loader-pack-collection-and-installation-guide/
+https://www.loverslab.com/files/file/3524-sexlab-more-nasty-critters-install-guide/
+https://www.loverslab.com/files/file/3426-k4-animations-slal-package/
+https://www.loverslab.com/files/file/977-foxmerged-2/
+https://www.loverslab.com/files/file/977-foxmerged-2/
+
+https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/
+https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn-updated-01122017/
+https://www.loverslab.com/topic/89576-10-minutes-or-less-guide-to-making-your-entire-hdt-pe-armor-library-jiggle-with-smp/
+
+https://www.loverslab.com/topic/10341-conversions-for-unpb-with-bbp/
+https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/
+https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/
+https://www.nexusmods.com/skyrim/mods/69562/?
+https://www.nexusmods.com/skyrim/mods/75861/?tab=files&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D75861&pUp=1
+https://www.nexusmods.com/skyrim/mods/75861/?tab=files&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D75861&pUp=1
+https://www.nexusmods.com/skyrim/mods/69880/
+
+
+
+
 maybe enable windsong?
 try to fix rschildren?
 
