@@ -1,22 +1,5 @@
 # Wishlist
 
-## Priorities - Xmas
-
-- [$32 - L'Occitane Shea Butter Hand Cream 150ml](https://ca.loccitane.com/large-shea-butter-hand-cream,19,1,1334,1159098.htm)
-- Something at ZONE?
-- Something at the Bay?
-- Playmobile
-- kiehl's moisturizer
-
-## Priorities - Personal
-
-- cooking thermometer (thermapen)
-- Cuisinart CEK-40 electric knife
-- Rode NT1 Mount
-- XLR attenuators for Behringer pre ?
-- some stand for kick mic
-- little notebook
-
 ## Shoe sizes for reference
 
 - Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_
@@ -52,8 +35,9 @@
 - $100 Thermapen
 - Dutch oven
 - Carving knife (& fork)
+- Cuisinart CEK-40 electric knife
 - Large Reversible Maple Carving Board
-- Wooden serving boards
+- Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
 - 12" Cast iron
 
@@ -62,7 +46,7 @@
 - Basket of picnic stuffs
 - $500 Banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
-- $90 suck it hoodie
+- $90 suck it hoodie (Tshirt time.com)
 - STOCKHOLM Mirror
 - RipNDIP clothing
 - [Hawaii T](http://fresh-tops.com/hawaii-white-t-shirt/)
@@ -114,6 +98,10 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+- Rode NT1 Mount
+- XLR attenuators for Behringer pre ?
+- some stand for kick mic
+- little notebook
 - K&M 21021 for overheads & weight x2
 - K&M 23323 for snare bottom
 - fix tom mount
