@@ -1,76 +1,68 @@
 # Skyrim Mods
 
-Rebuilt as HDT:
-Cassandra
+reset the textures to another one?
+turn on sos but just for my char
+figure out how to work camera
+remove sizes and see if it fixes animations
+double check animations for UNP?
+lanterns are purple....
 
-## These Outfits have been imported - review and remove
+## Armors & Outfits
 
-Terra Collection
-Fox Merged
+### These are in game - need to review
 
-Cassandra
-Merta
-Seraphine Armor
-Warhammer Sorceress Robes
-Velvec Outfit
-Osare Panty
-Osare Underwear
-Osare KneeSocks 2nd
-Osare GothicLolita & 
-Osare GothicLolita BU
-Osare SchoolUniform BU
-Elven Dresses by Naihaan
-zzjay's wardrobe
-Dragons Crown Sorceress
-Hentai China dress and Hentai Hana dress
-Emfy Cleric Robes
+Fox Merged (All armors are available on Fox Shop - Located behind Faendal house in Riverwood)
 Eldrids Armor Mashup
-Northgirl
+
+### Itesm to review / Issues
+
+Elven Dresses by Naihaan (cant figure out how to spaun them)
+Elin lace lingerie is flat (needs to be built maybe?)
+Cassandra - clipping
+Hentai China dress and Hentai Hana dress - clipping (just the dress)
+
+### Look great - are HDT
+
+HDT Skirt
 R18Pn 08 - Lingerie Set
 SkinTight Dragon wear
-Vespertine Butterfly Dress - UNP-CBBE
 Vampire chain cuirass
-HDT Skirt
 
-## Clothes - conversions & other
+### Look great - not yet HDT
 
-[TERA Armors BBP HDT conversion](https://www.nexusmods.com/skyrim/mods/74077)
-[R18pn 08 Lingerie Bodyslide HDT conversion](https://www.nexusmods.com/skyrim/mods/52325)
-[Malfdawg's BodySlide Conversions](https://www.loverslab.com/topic/61400-malfdawgs-bodyslide-conversions/)
-[HDT conversions](http://wtfuun.tumblr.com/)
-[JRConversions - UUNP HDT](https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/)
+Osare OnePeice
+Velvec Outfit
+Sorceress Robes (Dragons crown sorcerss)
+Warhammer Robes (search "warhammer X")
+Osare GothicLolita
+Osare GothicLolita BU
+Vespertine Butterfly Dress
+Emfy Cleric Robes
+Northgirl
+Merta
+Seraphine Armor
 
+### Download and review
+
+Tembtra
+[UNP Female Armors](https://rd.nexusmods.com/skyrim/mods/7305)
 [MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/)
 [Remodeled Armor for UUNP BodySlide HDT](https://www.nexusmods.com/skyrim/mods/69562/)
 [The Book of UUNP Bodyslide - UNP - Sevenbase](https://www.nexusmods.com/skyrim/mods/75861)
 [Bodyslide Armor And Clothes List V3 (No Requests)](https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/)
-
+[Fluffy Travel Attire](https://www.nexusmods.com/skyrim/mods/53518/)
 [Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
 [STUFF BY Deserter X](https://www.youtube.com/playlist?list=PLclnRJx55khhkUbL_VLUJH3UziSth-MeK)
 [LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
+[Brokefoots UNP Mashup Compilation](https://rd.nexusmods.com/skyrim/mods/20415)
+[Mockingbird Armors](http://m0ckin9bird.tumblr.com/tagged/mods)
 
-Brokefoots UNP Mashup Compilation
+#### Conversions (figure it out)
 
-## Presets
-
-[Succubus Preset for ECE and Racemenu](https://www.nexusmods.com/skyrim/mods/61940)
-[Ningheim Girls Skyla](https://www.nexusmods.com/skyrim/mods/38923)
-[Maryl Ningheim Racemenu Preset](https://www.nexusmods.com/skyrim/mods/73036)
-[Khinara Jade RaceMenu Preset](https://www.nexusmods.com/skyrim/mods/76197?tab=files)
-[Serenity - My Racemenu And ECE preset](https://www.nexusmods.com/skyrim/mods/65902)
-[Most Beautiful Man in Skyrim - Tannick Standalone Follower and Preset for Racemenu and ECE](https://www.nexusmods.com/skyrim/mods/70411)
-[Daisy RaceMenu Preset](https://www.nexusmods.com/skyrim/mods/74610)
-[Rose - RaceMenu Preset](https://www.nexusmods.com/skyrim/mods/82741)
-[Elon - Bosmer Preset for Racemenu](https://www.nexusmods.com/skyrim/mods/86762)
-
-### Estrus
-
-[EstrusForSkyrim - nsfw](https://www.nexusmods.com/skyrim/mods/33102)
-[Estrus Alternate Sounds](https://www.nexusmods.com/skyrim/mods/33986)
-[Tentacle Reskins for Estrus](https://www.nexusmods.com/skyrim/mods/55777)
-[Estrus Mimics](https://www.nexusmods.com/skyrim/mods/49566)
-[Estrus Strange Plant](https://www.nexusmods.com/skyrim/mods/56800)
+[Malfdawg's BodySlide Conversions](https://www.loverslab.com/topic/61400-malfdawgs-bodyslide-conversions/)
+[Skyrim Shitty UUNP HDT conversions](http://wtfuun.tumblr.com/)
+[JRConversions - UUNP HDT](https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/)
 
 ## Alternate Start Saves
 
@@ -127,6 +119,7 @@ Brokefoots UNP Mashup Compilation
 [Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
 [KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
 Combat Mods
+Replace NPC hair with whatever
 Get swords on hip
 Immersive Creatures
 Better presets
@@ -139,6 +132,7 @@ immersive armors
 lanterns of skyrim
 playervoicesets
 wearable lanterns
+Racemenu Presets
 Isharas Custom Player Body at Skyrim Nexus - mods and community
 
 ## Follower overhauls & extras
@@ -146,6 +140,7 @@ Isharas Custom Player Body at Skyrim Nexus - mods and community
 [UFO - Ultimate Follower Overhaul](https://www.nexusmods.com/skyrim/mods/14037?tab=files)
 [Extensible Follower Framework](https://www.nexusmods.com/skyrim/mods/12933)
 [Followers can Relax](https://www.nexusmods.com/skyrim/mods/9504)
+[Extensible Follower Framework](https://www.nexusmods.com/skyrim/mods/12933)
 
 ## Followers / Companions
 
