@@ -3,9 +3,10 @@
 - Setup Player Exclusive animations
 - Play Random Idle: Put your favourite idle animations (e.g. Pretty Female Idles) into "Meshes/Actors/Character/Animations/PlayRandomIdle" and name them "PRI001.hkx" to "PRI020.hkx". Run GenerateFNISforUsers.exe. Done.
 - The XP32 skeleton has options for animations for wild weapon placement (i knida want belt fastened quivers...)
-- Dual SHeath Redux needs to be messed with if I wanna switch to swords on back (prolly all the animations too)
+- Dual Sheath Redux needs to be messed with if I wanna switch to swords on back (prolly all the animations too)
 - If black and purple or rainbow colors on their money bag and alchemy lab tables - set `iTexMipMapSkip` to the value of 0 in the `SkyrimPrefs.ini` under [Display]
 - [Uncapper guide](http://wiki.step-project.com/Guide:Skyrim_-Community-_Uncapper)
+- Review other plugins options in MCM
 
 ## MCM Adjustments
 
