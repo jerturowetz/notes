@@ -1,13 +1,17 @@
 # Skyrim Mods
 
-## Clothes & armour
+## Clothes - build?
 
-[Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
 [MiniDresses Collection for UUNP Bodyslide - Requires above](https://www.nexusmods.com/skyrim/mods/69880/)
 [Remodeled Armor for UUNP BodySlide HDT - DONT MIX](https://www.nexusmods.com/skyrim/mods/69562/)
-[Emfy Cleric Robes UNP - CBBE](https://www.nexusmods.com/skyrim/mods/61013/?)
 [The Book of UUNP Bodyslide - UNP - Sevenbase](https://www.nexusmods.com/skyrim/mods/75861)
-[Ultra Skimpy Silverlight armor for UNP and UNPB HDT](https://www.nexusmods.com/skyrim/mods/37189)
+
+## Clothes & armour
+
+[Emfy Cleric Robes UNP - CBBE](https://www.nexusmods.com/skyrim/mods/61013/?)
+[Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
+
+
 [Monno's Bikini - CBBE - BodySlide - UUNP - HDT](https://www.nexusmods.com/skyrim/mods/64853)
 [Osare GothicLolita - UNP](https://www.nexusmods.com/skyrim/mods/17727/)
 [Caliente's Vanilla Outfits for CBBE](https://www.nexusmods.com/skyrim/mods/12273)

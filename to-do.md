@@ -14,11 +14,11 @@
 
 - check out an orgabization called _hunter support_
 - ashoukan art galleey in the old port 
-nunavik creation
-tivi galleries kuujjuaq
-place jaques cartier
-Pigunanniq music festival
-in trumpet labs mic
+- nunavik creation
+- tivi galleries kuujjuaq
+- place jaques cartier
+- Pigunanniq music festival
+- in trumpet labs mic
 - Invite more ppl to party
 - Check out vera lynn & benny goodman
 - get twin flames in touch with bart re video on a cliff
