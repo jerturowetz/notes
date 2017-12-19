@@ -1,79 +1,56 @@
 # Skyrim Mods
 
-## Clothes - build?
+Rebuilt as HDT:
+Cassandra
 
-[MiniDresses Collection for UUNP Bodyslide - Requires above](https://www.nexusmods.com/skyrim/mods/69880/)
-[Remodeled Armor for UUNP BodySlide HDT - DONT MIX](https://www.nexusmods.com/skyrim/mods/69562/)
-[The Book of UUNP Bodyslide - UNP - Sevenbase](https://www.nexusmods.com/skyrim/mods/75861)
+## These Outfits have been imported - review and remove
 
-## Clothes & armour
+Terra Collection
+Fox Merged
 
-[Emfy Cleric Robes UNP - CBBE](https://www.nexusmods.com/skyrim/mods/61013/?)
-[Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
+Cassandra
+Merta
+Seraphine Armor
+Warhammer Sorceress Robes
+Velvec Outfit
+Osare Panty
+Osare Underwear
+Osare KneeSocks 2nd
+Osare GothicLolita & 
+Osare GothicLolita BU
+Osare SchoolUniform BU
+Elven Dresses by Naihaan
+zzjay's wardrobe
+Dragons Crown Sorceress
+Hentai China dress and Hentai Hana dress
+Emfy Cleric Robes
+Eldrids Armor Mashup
+Northgirl
+R18Pn 08 - Lingerie Set
+SkinTight Dragon wear
+Vespertine Butterfly Dress - UNP-CBBE
+Vampire chain cuirass
+HDT Skirt
 
+## Clothes - conversions & other
 
-[Monno's Bikini - CBBE - BodySlide - UUNP - HDT](https://www.nexusmods.com/skyrim/mods/64853)
-[Osare GothicLolita - UNP](https://www.nexusmods.com/skyrim/mods/17727/)
-[Caliente's Vanilla Outfits for CBBE](https://www.nexusmods.com/skyrim/mods/12273)
-[Field Mage Outfit by Echo 1162 UNP HDT TBBP](https://www.nexusmods.com/skyrim/mods/18787)
-[Northgirl Armor UNP and the Retexture from clethcleth and Gamwich](https://www.nexusmods.com/skyrim/mods/38053)
-[Eldrids Armor Mashup UNP](https://www.nexusmods.com/skyrim/mods/48652)
-[Aradia Cross Armor - UNP HDT](https://www.nexusmods.com/skyrim/mods/71204)
-[Vampire chain cuirass CBBE DG UNP UNPBBBP no HDT high heels](https://www.nexusmods.com/skyrim/mods/74148)
-[Princess Robe CBBE HDT - UUNP HDT BODYSLIDE](https://www.nexusmods.com/skyrim/mods/86222)
-[Vindicta Armor CBBE HDT - UUNP HDT BODYSLIDE](https://www.nexusmods.com/skyrim/mods/87154)
-[Draugr Skirts (HDT) 1.0](https://www.loverslab.com/files/file/483-draugr-skirts-hdt/)
-[Amiella Skirt CBBE HDT BodySlide (full physics) 1.1](https://www.loverslab.com/files/file/3501-amiella-skirt-cbbe-hdt-bodyslide-full-physics/)
-[LL armour & clothing](https://www.loverslab.com/files/category/22-armor-amp-clothing/)
-[HDT Test Skirts](https://www.loverslab.com/files/file/508-hdt-test-skirts/)
-[Goma's Amazoness for UNP Jiggle 1.0](https://www.loverslab.com/files/file/2165-gomas-amazoness-for-unp-jiggle/)
-[Ero Selene Armor HDT 1](https://www.loverslab.com/files/file/2095-ero-selene-armor-hdt/)
-[Dragons Crown Sorceress Outfit for UNP](https://www.nexusmods.com/skyrim/mods/11767)
-[Some stuff (aka Nyotengu catsuit)~and more 1.4](https://www.loverslab.com/files/file/1937-some-stuff-aka-nyotengu-catsuit~and-more/)
-[Barely Vamp robes and tavern clothes UNP HDT 01.2](https://www.loverslab.com/files/file/2057-barely-vamp-robes-and-tavern-clothes-unp-hdt/)
-[LDW's Crimson Closet for UNP Slim, UNP, UNP?, and UNPB 14](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
-[SPB Bakuretsu Hunter for UNP Jiggle 1.0](https://www.loverslab.com/files/file/2077-spb-bakuretsu-hunter-for-unp-jiggle/)
-[Dragon Princess & Trielek armor Mix 1.1](https://www.loverslab.com/files/file/260-dragon-princess-trielek-armor-mix/)
-[zzjay's wardrobe](https://www.nexusmods.com/skyrim/mods/53442)
-[KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
-[Hentai China dress and Hentai Hana dress for UNP by zzjay](https://www.nexusmods.com/skyrim/mods/63635)
-[Ashara dimonized dress lace retexture by zzjay - UNP](https://www.nexusmods.com/skyrim/mods/43127)
-[Osare Underwear - UNP](https://www.nexusmods.com/skyrim/mods/14294)
-[Osare GothicLolita - UNP](https://www.nexusmods.com/skyrim/mods/17727)
-[Osare Culort Outfit - UNP](https://www.nexusmods.com/skyrim/mods/43609)
-[Osare Panty - UNP](https://www.nexusmods.com/skyrim/mods/26305)
-[Osare KneeSocks 2nd - UNP](https://www.nexusmods.com/skyrim/mods/27212)
-[Osare OnePiece - UNP and UNPB](https://www.nexusmods.com/skyrim/mods/17082)
-[Osare GothicLolita BU - UNP](https://www.nexusmods.com/skyrim/mods/23632)
-[Osare Muffler](https://www.nexusmods.com/skyrim/mods/26540)
-[DreamBurrows Osare GothicLolita Retexture](https://www.nexusmods.com/skyrim/mods/17914)
-[Osare SchoolUniform BU - UNP](https://www.nexusmods.com/skyrim/mods/27006/)
-[Osare KneeSocks - UNP](https://www.nexusmods.com/skyrim/mods/13068)
-[Elven Dresses by Naihaan](https://www.nexusmods.com/skyrim/mods/39922)
-[STUFF BY Deserter X](https://www.youtube.com/playlist?list=PLclnRJx55khhkUbL_VLUJH3UziSth-MeK)
-[SOS male revealing armors](https://www.loverslab.com/topic/23944-sos-schlongs-of-skyrim/)
-[SOS futa armors](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
-[HDT non skimpy Armor replacer](https://www.loverslab.com/files/file/2552-non-skimpy-cbbe-hdt-armor-replacer/)
-[Warhammer Sorceress Robes](https://www.nexusmods.com/skyrim/mods/53705)
-[Skyrim UUNP HTD](http://wtfuun.tumblr.com/)
-[Halos mods for conversions](http://mod.dysintropi.me/)
-[Dragonbone Barbarian Armors - 7B - UNPB - UUNP - CBBE - Bodyslide](https://www.nexusmods.com/skyrim/mods/52711/?)
-[Symbiotic Armor HDT - Dyeable in 7 Colors](https://www.nexusmods.com/skyrim/mods/73426/?)
-[Velvec Outfit - UNP](https://www.nexusmods.com/skyrim/mods/10211/?)
-[Brokefoots UNP Mashup Compilation](https://www.nexusmods.com/skyrim/mods/20415)
-[Theminblacks UNPB Armor Shop](https://www.nexusmods.com/skyrim/mods/19004)
-[Illustrious HDT Cloaks of Skyrim](https://www.nexusmods.com/skyrim/mods/72581)
-[Capes with HDT physics](https://www.nexusmods.com/skyrim/mods/59700)
-[Vanilla Armors Replacer UUNP-CBBE UNP UNPB 7Base MCBM HDT](https://www.nexusmods.com/skyrim/mods/72775)
-[HDT test skirts](https://www.loverslab.com/files/file/508-hdt-test-skirts/)
-
-## Clothing for later
-
-[Nightasty Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
+[TERA Armors BBP HDT conversion](https://www.nexusmods.com/skyrim/mods/74077)
+[R18pn 08 Lingerie Bodyslide HDT conversion](https://www.nexusmods.com/skyrim/mods/52325)
+[Malfdawg's BodySlide Conversions](https://www.loverslab.com/topic/61400-malfdawgs-bodyslide-conversions/)
+[HDT conversions](http://wtfuun.tumblr.com/)
 [JRConversions - UUNP HDT](https://www.loverslab.com/topic/69192-jrconversions-uunp-hdt/)
+
+[MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/)
+[Remodeled Armor for UUNP BodySlide HDT](https://www.nexusmods.com/skyrim/mods/69562/)
+[The Book of UUNP Bodyslide - UNP - Sevenbase](https://www.nexusmods.com/skyrim/mods/75861)
 [Bodyslide Armor And Clothes List V3 (No Requests)](https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/)
-[Furb's One-Stop SoS Armor Shop](https://www.nexusmods.com/skyrim/mods/86777)
-[SOS - Revealing Armors for Schlongs of Skyrim](https://www.nexusmods.com/skyrim/mods/36903)
+
+[Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
+[STUFF BY Deserter X](https://www.youtube.com/playlist?list=PLclnRJx55khhkUbL_VLUJH3UziSth-MeK)
+[LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
+[Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
+
+Brokefoots UNP Mashup Compilation
 
 ## Presets
 
@@ -147,6 +124,8 @@
 [High Poly Feet and Hands for UNP Bodies](http://mod.dysintropi.me/high-poly-feet-and-hands-for-unp-bodies/)
 [Fix Lip Sync](https://www.nexusmods.com/skyrim/mods/75951/?)
 [Rustic Children](https://www.nexusmods.com/skyrim/mods/63353)
+[Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
+[KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
 Combat Mods
 Get swords on hip
 Immersive Creatures
