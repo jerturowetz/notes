@@ -1,11 +1,17 @@
 # Skyrim Mods
 
+argonians are a mess (replace things)
 reset the textures to another one?
 turn on sos but just for my char
 figure out how to work camera
 remove sizes and see if it fixes animations
 double check animations for UNP?
 lanterns are purple....
+less makup version
+winsong / better males / whatever for npcs
+same for presets
+replace font again
+EEO - Freckled face texture for UNP-24273-
 
 ## Armors & Outfits
 
@@ -13,6 +19,8 @@ lanterns are purple....
 
 Fox Merged (All armors are available on Fox Shop - Located behind Faendal house in Riverwood)
 Eldrids Armor Mashup
+cloaks of skyrim
+hdt scarves
 
 ### Itesm to review / Issues
 
@@ -23,19 +31,18 @@ Hentai China dress and Hentai Hana dress - clipping (just the dress)
 
 ### Look great - are HDT
 
-HDT Skirt
 R18Pn 08 - Lingerie Set
 SkinTight Dragon wear
 Vampire chain cuirass
 
 ### Look great - not yet HDT
 
-Osare OnePeice
 Velvec Outfit
 Sorceress Robes (Dragons crown sorcerss)
 Warhammer Robes (search "warhammer X")
 Osare GothicLolita
 Osare GothicLolita BU
+Osare OnePeice
 Vespertine Butterfly Dress
 Emfy Cleric Robes
 Northgirl
