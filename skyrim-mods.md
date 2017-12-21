@@ -1,11 +1,22 @@
 # Skyrim Mods
 
-reset the textures to another one?
+personal is unp
+other is unp
+
+
+blended argonian? argonian spectral/diffise maps to fix seam?
+read the realg textures file and change?
 turn on sos but just for my char
 figure out how to work camera
 remove sizes and see if it fixes animations
 double check animations for UNP?
 lanterns are purple....
+change follower bodies to unpb or 7b and review anims
+There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility.
+read sos instructions for potions
+
+sos for lady page 4
+racemenu sliders do nothing sonetimes 
 
 ## Armors & Outfits
 
