@@ -1,5 +1,8 @@
 # Skyrim :: Mod notes
 
+- figure out how to work camera
+- turn on sos but just for my char
+- Victoria high heel walk - personal only
 - Setup Player Exclusive animations
 - Play Random Idle: Put your favourite idle animations (e.g. Pretty Female Idles) into "Meshes/Actors/Character/Animations/PlayRandomIdle" and name them "PRI001.hkx" to "PRI020.hkx". Run GenerateFNISforUsers.exe. Done.
 - The XP32 skeleton has options for animations for wild weapon placement (i knida want belt fastened quivers...)
