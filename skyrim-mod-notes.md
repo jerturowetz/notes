@@ -78,6 +78,5 @@ Falskaar - Realistic Boat Bobbing (re run installer)
 No Snow Under the Roof - Realistic Boat Bobbing (re run installer)
 Wyrmstooth - Realistic Boat Bobbing (re run installer)
 Open Cities - Enhanced Skyrim Factions - The Companions Guild (has patch)
-Inigo - Oblivion Gates (has patch)
 
 ** - Relationship Dialogue Overhaul has several patches
