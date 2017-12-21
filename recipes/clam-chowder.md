@@ -26,7 +26,7 @@ Clam chowder is easier to make than you think - and the homemade version is unbe
 - Kosher salt and freshly ground black pepper, to taste
 - 2 tablespoons chopped fresh parsley leaves
 
-## Instructions
+## Directions
 
 Heat a large stockpot or Dutch oven over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes. Transfer to a paper towel-lined plate, reserving 1 tablespoon excess fat; set aside.
 

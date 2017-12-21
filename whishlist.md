@@ -28,14 +28,14 @@ sm57 drum attenuator
 
 ## Kitchen stuff
 
+- In-oven meat thermometer
+- Thermapen
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
-- Aluminum Half Sheet Pans (Williams-Sonoma, NORDICWARE)
-- Libertyware cooling racks
+- Aluminum half sheet pan & libertyware cooling rack x2
 - 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
-- $100 Thermapen
-- Dutch oven
+- Round dutch oven (5.5Quart and up)
 - Carving knife (& fork)
 - Cuisinart CEK-40 electric knife
 - Large Reversible Maple Carving Board
