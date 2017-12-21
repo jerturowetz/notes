@@ -9,6 +9,8 @@
 setrace TG[Insert Race Here]Race" 
 (eg. setrace TGNordRace)
 
+`tmm1` #unlocks all map markers
+
 tsc 
 freed camera
 

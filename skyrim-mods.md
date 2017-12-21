@@ -1,32 +1,19 @@
 # Skyrim Mods
 
+sizes removed - check mast animation if hand aligns...
+
 fix argonian text (maps?)
-windhelm girl clothes...
-books are purple... (solitude spaun)
-turned off sizes - check animations - if no diff return sizes
-Immersive lanterns were purple - get another lighting mode
-personal is unp
-other is unp
-
-
 blended argonian? argonian spectral/diffise maps to fix seam?
-read the realg textures file and change?
-argonians are a mess (replace things)
-reset the textures to another one?
-turn on sos but just for my char
-figure out how to work camera
-remove sizes and see if it fixes animations
-double check animations for UNP?
-lanterns are purple....
-change follower bodies to unpb or 7b and review anims
-There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility.
-read sos instructions for potions
 
-sos for lady page 4
-racemenu sliders do nothing sonetimes 
+Sofie in windhelm is naked...
+Set All-In-One to use less HDT
+UUNP morphs do nothing
+poses appear in racemenu but i dinnt install any..
+Immersive lanterns were purple - ELFget another lighting mode
+There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
+read sos instructions for potions
+find an equippable sos for npcs (use other texture for it)
 less makup version
-winsong / better males / whatever for npcs
-same for presets
 replace font again
 
 ## Armors & Outfits
@@ -214,3 +201,4 @@ things that work with defeat:
 - Death Alternative
 - UI Extensions
 - Simple Slavery
+https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
