@@ -1,18 +1,15 @@
 # Skyrim Mods
 
-sizes removed - check mast animation if hand aligns...
-
-fix argonian text (maps?)
-blended argonian? argonian spectral/diffise maps to fix seam?
-
 Sofie in windhelm is naked...
-Set All-In-One to use less HDT
-UUNP morphs do nothing
-poses appear in racemenu but i dinnt install any..
-Immersive lanterns were purple - ELFget another lighting mode
+Better HDT?
+SOS racemenu shlongs? activate mod & figure out
+sos textures are messy on RealG
+poses appear in racemenu but i dinnt install any.. figure out poser
+
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 read sos instructions for potions
 find an equippable sos for npcs (use other texture for it)
+
 less makup version
 replace font again
 
@@ -20,15 +17,37 @@ replace font again
 
 ### These are in game - need to review
 
-Fox Merged (All armors are available on Fox Shop - Located behind Faendal house in Riverwood)
-Eldrids Armor Mashup (EC ? )
-cloaks of skyrim
-hdt scarves
+Brokefoots UNP Mashup
+    Dandelion Set
+    Khantu Set
+    Leah Set
+    Scamp Set
+    Vicky Set
+    Temptress/Vixen Set
 
-### Itesm to review / Issues
+Deserter X stuff
+    Merta Black Rose Armor UUNP - CBBE
+    Gwelda (Little) Red Riding Hood Outfit UUNP - CBBE
+    Sotteta Necromancer Outfit UNP - CBBE
+    Sotteta Huntress Armor UNP
+    Ursine Armor Pack UNP
+    Gwelda Armor Pack UNP
+    Ancient Draugr Armor - UNP Top Model BBP
+    Wild Huntress UNP Top Model BBP - UNP
+    Daedric Reaper Armor
+
+JinhuaCat Outfit - UNP
+Fluffy Travel Attire
+Pampas Set
+Armors of Dragon Champion (The chest is located left to forge at the entrance of WhiteRun.)
+Tembtra
+West Wind misfit mage
+West Wind Combat set
+
+### Items to review / Issues
 
 Elven Dresses by Naihaan (cant figure out how to spaun them)
-Elin lace lingerie is flat (needs to be built maybe?)
+Elin lace lingerie is flat (needs to be built maybe? - did this get killed with FOX)
 Cassandra - clipping
 Hentai China dress and Hentai Hana dress - clipping (just the dress)
 
@@ -40,6 +59,8 @@ Vampire chain cuirass
 
 ### Look great - not yet HDT
 
+Cloaks of skyrim
+Eldrids Armor Mashup (search for "EC")
 Velvec Outfit
 Sorceress Robes (Dragons crown sorcerss)
 Warhammer Robes (search "warhammer X")
@@ -49,7 +70,7 @@ Osare OnePeice
 Vespertine Butterfly Dress
 Emfy Cleric Robes
 Northgirl
-Merta
+Merta Assasin
 Seraphine Armor
 
 ### Download and review
@@ -58,18 +79,11 @@ Seraphine Armor
 [MiniDresses Collection for UUNP Bodyslide](https://rd.nexusmods.com/skyrim/mods/69880)
 [Remodeled Armor for UUNP BodySlide HDT](https://rd.nexusmods.com/skyrim/mods/69562)
 [The Book of UUNP Bodyslide - UNP - Sevenbase](https://rd.nexusmods.com/skyrim/mods/75861)
-
 [Bodyslide Armor And Clothes List V3 (No Requests)](https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/)
-[Fluffy Travel Attire](https://www.nexusmods.com/skyrim/mods/53518/)
-[Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
-[STUFF BY Deserter X](https://www.youtube.com/playlist?list=PLclnRJx55khhkUbL_VLUJH3UziSth-MeK)
-[LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
-[Brokefoots UNP Mashup Compilation](https://rd.nexusmods.com/skyrim/mods/20415)
+[LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [Mockingbird Armors](http://m0ckin9bird.tumblr.com/tagged/mods)
-Tembtra
-[Pampas Set - UUNP - HDT](https://rd.nexusmods.com/skyrim/mods/83959)
-[Armors of Dragon Champion](https://rd.nexusmods.com/skyrim/mods/67127)
+[Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
 
 #### Conversions (figure it out)
 
@@ -202,3 +216,4 @@ things that work with defeat:
 - UI Extensions
 - Simple Slavery
 https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
+fix futa animations

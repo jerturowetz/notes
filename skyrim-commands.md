@@ -11,6 +11,8 @@ setrace TG[Insert Race Here]Race"
 
 `tmm1` #unlocks all map markers
 
-tsc 
+player.additem 0000000F
+
+tsc
 freed camera
 
