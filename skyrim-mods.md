@@ -1,6 +1,6 @@
 # Skyrim Mods
 
-SOS meshes conflict with Brokefoots stuff
+SOS meshes conflict with Brokefoots stuff...
 Test Sit
 Blue palace sybill looks fucked up (inhabitants of skyrm NPC overhaul)
 Poser
@@ -12,8 +12,6 @@ Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
 I kinda wanna show SOS through brokefoots
 Argonian mouth fix
 Body light?
-LL homes
-beefcake
 levellers tower
 SOS racemenu shlongs? activate mod & figure out
 sos textures are messy on RealG
@@ -27,7 +25,7 @@ read sos instructions for potions
 find an equippable sos for npcs (use other texture for it)
 
 less makup version
-replace font again
+
 
 ## Armors & Outfits
 
@@ -52,6 +50,7 @@ Deserter X stuff
     Wild Huntress UNP Top Model BBP - UNP
     Daedric Reaper Armor
 
+SPB B Hunter v1
 JinhuaCat Outfit - UNP
 Fluffy Travel Attire
 Pampas Set
@@ -119,6 +118,12 @@ Seraphine Armor
 
 ## Save for later
 
+Evil lair of hydra
+Player Homes
+[Raeza - Follower and Adoptable](https://rd.nexusmods.com/skyrim/mods/84143)
+[Immersive children](https://www.nexusmods.com/skyrim/mods/83554/?)
+[Custom Family Home](https://rd.nexusmods.com/skyrim/mods/47621)
+[DOOLS - Children overhaul](https://rd.nexusmods.com/skyrim/mods/47621)
 [Presets](http://skypreset-warehouse.eu/Preset/Presets)
 [Better Sorting](https://www.nexusmods.com/skyrim/mods/2730)
 [Another Sorting Mod-2017](https://www.nexusmods.com/skyrim/mods/72428)
@@ -157,6 +162,8 @@ Seraphine Armor
 [Rustic Children](https://www.nexusmods.com/skyrim/mods/63353)
 [Ophelia Accessories](https://www.nexusmods.com/skyrim/mods/79127)
 [KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
+[Old hunters home](https://rd.nexusmods.com/skyrim/mods/88494)
+[Unique female followers](https://www.nexusmods.com/skyrim/mods/24664/?)
 Combat Mods
 Replace NPC hair with whatever
 Immersive Creatures
@@ -198,6 +205,7 @@ skykids can be sued for combat only?
 [Akemi The Snow Elf Follower](https://rd.nexusmods.com/skyrim/mods/76610/?)
 [Diana The Pureblood Vampire 2017](https://rd.nexusmods.com/skyrim/mods/87643/?)
 [Saige The Purger](https://rd.nexusmods.com/skyrim/mods/82120/?)
+[SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
 
 ## SL Stuff
 
@@ -220,6 +228,7 @@ skykids can be sued for combat only?
 [TDF Prostitution](https://www.loverslab.com/files/file/403-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255/)
 
 animated pros
+XXX show
 devious devices
 sanguine debauchery
 SL dialogues
