@@ -1,11 +1,27 @@
 # Skyrim Mods
 
+SOS meshes conflict with Brokefoots stuff
+Test Sit
+Blue palace sybill looks fucked up (inhabitants of skyrm NPC overhaul)
+Poser
+Temptress has no hdt
+ninghei has no hdt - has 2 sos going on for males, no sos females
 Sofie in windhelm is naked...
-Better HDT?
+Better HDT - trying out a new on
+Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
+I kinda wanna show SOS through brokefoots
+Argonian mouth fix
+Body light?
+LL homes
+beefcake
+levellers tower
 SOS racemenu shlongs? activate mod & figure out
 sos textures are messy on RealG
+check out player headtracking
+remove camera automove or whatever, its realy annoying
+Dragonfly TBBP?
 poses appear in racemenu but i dinnt install any.. figure out poser
-
+learn dual sheath redux - test with daggers and swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 read sos instructions for potions
 find an equippable sos for npcs (use other texture for it)
@@ -75,6 +91,10 @@ Seraphine Armor
 
 ### Download and review
 
+[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
+
+[Quick and dirty guide to the book of uunp](https://www.reddit.com/r/skyrimmods/comments/6zi0fa/a_quick_and_dirty_guide_to_the_book_of_uunp/)
+[Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 [UNP Female Armors](https://rd.nexusmods.com/skyrim/mods/7305)
 [MiniDresses Collection for UUNP Bodyslide](https://rd.nexusmods.com/skyrim/mods/69880)
 [Remodeled Armor for UUNP BodySlide HDT](https://rd.nexusmods.com/skyrim/mods/69562)
@@ -145,10 +165,14 @@ Salt and Wind - Rough Hair for KS Hairdos
 maybe enable windsong?
 try to fix rschildren?
 immersive armors
+pretty motion collection
+better jump
 lanterns of skyrim
 playervoicesets
 Racemenu Presets
 Isharas Custom Player Body at Skyrim Nexus - mods and community
+[Sky Presets](http://skypreset-warehouse.eu/Preset/Presets)
+skykids can be sued for combat only?
 
 ## Followers / Companions
 
@@ -217,3 +241,5 @@ things that work with defeat:
 - Simple Slavery
 https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
 fix futa animations
+
+Check out the More nasty critters slal gudie
