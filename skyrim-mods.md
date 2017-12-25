@@ -1,5 +1,7 @@
 # Skyrim Mods
 
+sybille stentor is fucked up - shes a vamp so check vamp mods
+
 SOS meshes conflict with Brokefoots stuff...
 Test Sit
 Blue palace sybill looks fucked up (inhabitants of skyrm NPC overhaul)

@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+output metronome to a track and add volume envelope
+
 ## Psych help
 
 - Call back both doctors
