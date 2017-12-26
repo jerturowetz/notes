@@ -40,7 +40,7 @@ Pat turkey dry with paper towels.
 
 Roughly chop some onions, carrots, and celery, set aside for a sec.
 
-Adjust oven rack to middle position and preheat oven to 450°F. Line a rimmed baking sheet or broiler pan with aluminum foil, add 2/3rds of the chopped veg and some thyme stems. Place slotted broiler rack or wire rack on top.
+Adjust oven rack to middle-lower (as we want the bird in the middle - not the rack) position and preheat oven to 425°F. Line a rimmed baking sheet or broiler pan with aluminum foil, add 2/3rds of the chopped veg and some thyme stems. Place slotted broiler rack or wire rack on top.
 
 Combine garlic, chives, parsley, sage, thyme, and shallots in the bowl of a food processor. Pulse, scraping down sides as necessary, until finely chopped and no large pieces remain. Scatter butter chunks on top. Pulse until homogenous paste is formed. Season generously with salt and pepper and pulse to combine (NO SALT IF YOU DID A SALT BRINE). Transfer half of butter mixture to a small saucepan and melt over low heat.
 
