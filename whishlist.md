@@ -2,6 +2,7 @@
 
 sm57 drum attenuator
 
+
 ## Shoe sizes for reference
 
 - Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_

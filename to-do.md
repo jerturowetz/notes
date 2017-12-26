@@ -1,5 +1,22 @@
 # Jer's To-Do List
 
+mitchum anti persperant 
+aa batteries  )rechargable)
+zip ties ham skace 
+
+cretien book
+
+cleaver
+knife cliths
+knife magnet (fridge?)
+chopping blick
+serving boards
+interior and exterior meat thermometers
+
+
+
+
+
 ## Psych help
 
 - Call back both doctors

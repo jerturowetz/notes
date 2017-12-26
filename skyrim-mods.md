@@ -1,5 +1,11 @@
 # Skyrim Mods
 
+floppy not working - try killing skeletons / anims
+
+vampires fucked - check sybill
+
+
+
 SOS meshes conflict with Brokefoots stuff...
 Test Sit
 Blue palace sybill looks fucked up (inhabitants of skyrm NPC overhaul)
