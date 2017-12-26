@@ -5,6 +5,7 @@ screwdriver bits and set for space (maybe cheap batter screwdriver)
 i need square bits - i have nothing at the space
 15ft 4channel TRS to 2 XLR male, 2 XLR female
 
+
 ## Shoe sizes for reference
 
 - Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_

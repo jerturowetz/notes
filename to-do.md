@@ -1,5 +1,21 @@
 # Jer's To-Do List
 
+mitchum anti persperant 
+aa batteries  )rechargable)
+zip ties ham skace 
+
+cretien book
+
+cleaver
+knife cliths
+knife magnet (fridge?)
+chopping blick
+serving boards
+interior and exterior meat thermometers
+
+
+
+
 waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
 output metronome to a track and add volume envelope
 

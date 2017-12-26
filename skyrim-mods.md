@@ -1,5 +1,10 @@
 # Skyrim Mods
 
+floppy not working - try killing skeletons / anims
+
+vampires fucked - check sybill
+
+
 sybille stentor is fucked up - shes a vamp so check vamp mods
 
 SOS meshes conflict with Brokefoots stuff...
