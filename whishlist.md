@@ -1,6 +1,9 @@
 # Wishlist
 
 sm57 drum attenuator
+screwdriver bits and set for space (maybe cheap batter screwdriver)
+i need square bits - i have nothing at the space
+15ft 4channel TRS to 2 XLR male, 2 XLR female
 
 
 ## Shoe sizes for reference

@@ -16,6 +16,8 @@ interior and exterior meat thermometers
 
 
 
+waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+output metronome to a track and add volume envelope
 
 ## Psych help
 
