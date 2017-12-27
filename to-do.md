@@ -1,24 +1,5 @@
 # Jer's To-Do List
 
-mitchum anti persperant 
-aa batteries  )rechargable)
-zip ties ham skace 
-
-cretien book
-
-cleaver
-knife cliths
-knife magnet (fridge?)
-chopping blick
-serving boards
-interior and exterior meat thermometers
-
-
-
-
-waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
-output metronome to a track and add volume envelope
-
 ## Psych help
 
 - Call back both doctors
@@ -31,21 +12,10 @@ output metronome to a track and add volume envelope
 
 ## Personal
 
-- check out an orgabization called _hunter support_
-- ashoukan art galleey in the old port 
-- nunavik creation
-- tivi galleries kuujjuaq
-- place jaques cartier
-- Pigunanniq music festival
-- in trumpet labs mic
-- Invite more ppl to party
-- Check out vera lynn & benny goodman
-- get twin flames in touch with bart re video on a cliff
-- bandzoogle
-- get in touch with jesse
-- get in touch with music lady
-- [Learn how to turkey](https://www.bonappetit.com/columns/vintage-ba-columns/article/julia-child-turkey-thanksgiving)
-- gingerbread house kit
+- waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+- output metronome to a track and add volume envelope
+- Organize audio project directory - maybe move?
+- get in touch with jesse fron Nunavik
 - quarter round 180cm
 - Another matching muffin tin from provigo
 - Clean up gists

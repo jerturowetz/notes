@@ -1,10 +1,11 @@
 # Wishlist
 
-sm57 drum attenuator
-screwdriver bits and set for space (maybe cheap batter screwdriver)
-i need square bits - i have nothing at the space
-15ft 4channel TRS to 2 XLR male, 2 XLR female
-
+- Classic wool socks
+- Base layer socks
+- Baselayer bottoms & tops
+- Hat
+- Scarf like kates dark scarf
+- Baclava
 
 ## Shoe sizes for reference
 
@@ -64,6 +65,7 @@ i need square bits - i have nothing at the space
 - Horseback riding
 - Stewart Museaum
 - Danceland
+ - cretien book CATHY
 
 ## Priority cables
 
@@ -79,6 +81,9 @@ i need square bits - i have nothing at the space
 
 Lots of gear from [Mouser](https://ca.mouser.com)
 
+- zip ties
+- Screwdriver bits and set for space (maybe cheap elec screwdriver for rack)
+- Small tool box
 - Vise, panavise and/or helping hands
 - TRS connectors (20)
 - XLR connectors (15 ea male & female)
@@ -104,32 +109,34 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- Rode NT1 Mount
 - XLR attenuators for Behringer pre ?
-- some stand for kick mic
-- little notebook
-- K&M 21021 for overheads & weight x2
+- K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
+- K&M 259 Short boom stand x2 (amps / toms)
 - K&M 23323 for snare bottom
+- Amp clips
+- Primacoustic KickStand and K&M 21160 Boom arm for kick
+- sheet of acoustic foam for cutting up (OHs)
+- Primacoustic CrashGuard x2
+- Primacoustic CrashGuard 421 x2
+- Pop filter
+- Build a subkick
 - fix tom mount
-- SM58s
+- SM58 x2
+- Granelli labs 57
+- AKG D112
 - Laptiop DI
-- little bits of acoustic foam to isolate mics
+- little notebook
+- Handheld feild recorder
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
 - Mixer (MixWizard or GB2R)
-- Mic stands for guit & bass mics / amp clips
-- laptop/electronics stand
 - Reason, Cubase, Live
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
 - DIs (Radial j48 x2, stereo passive DI, key largo)
 - Controller keyboard
 - usb c hub thing (USB for fireface, keyboard, mouse, dvid/vga for monitor)
-- Primacoustic CrashGuard
-- Primacoustic CrashGuard 421 x2
-- Primacoustic Kickstand
 - Radial Key Largo
 - Acoustic pannels for drum corner
-- Granelli labs 57
 - QuikLok WS-650 (table behind drums)
 - MS2000
 
