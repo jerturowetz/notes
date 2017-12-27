@@ -1,34 +1,24 @@
 # Skyrim Mods
-
-console command find an npc
-vampires fucked - check sybill
-
-SOS meshes conflict with Brokefoots stuff...
+sofie is naked in the north
 Test Sit
+SOS racemenu shlongs? activate mod & figure out
+sos textures are messy on RealG
+Check khajjit & Argonians
 
+Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
 Poser
 Temptress has no hdt
 ninghei has no hdt - has 2 sos going on for males, no sos females
-Sofie in windhelm is naked...
-Better HDT - trying out a new on
-Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
-I kinda wanna show SOS through brokefoots
+Better HDT - trying out a new on, tbbp, whatever
 Argonian mouth fix
-Body light?
-levellers tower
-SOS racemenu shlongs? activate mod & figure out
-sos textures are messy on RealG
+Body light
+levellers tower, beefcake, underground bathhouse
 check out player headtracking
 remove camera automove or whatever, its realy annoying
-Dragonfly TBBP?
-poses appear in racemenu but i dinnt install any.. figure out poser
 learn dual sheath redux - test with daggers and swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
-read sos instructions for potions
-find an equippable sos for npcs (use other texture for it)
-
+set up equipable sos
 less makup version
-
 
 ## Armors & Outfits
 
