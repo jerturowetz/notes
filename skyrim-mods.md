@@ -1,15 +1,17 @@
 # Skyrim Mods
+
 sofie is naked in the north
 Test Sit
 SOS racemenu shlongs? activate mod & figure out
 sos textures are messy on RealG
-Check khajjit & Argonians
+
+khajit texture seams around neck
+argonian female shlong textures
 
 Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
 Poser
 Temptress has no hdt
-ninghei has no hdt - has 2 sos going on for males, no sos females
-Better HDT - trying out a new on, tbbp, whatever
+ninghei has no hdt, shlong female
 Argonian mouth fix
 Body light
 levellers tower, beefcake, underground bathhouse
