@@ -144,6 +144,24 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ### Drums
 
+#### Crashes to try
+
+- 17"+ K custom Dark Crash
+- 17"+ K Dark Thin Crash
+- 18"+ A Medium thin Crash
+- 18"+ A Adevis crash
+- 16"+ K EFX
+- Crash of doom
+- 18" A Custom EFX
+
+#### Rides to try
+
+- 22" K custom ride
+- 22" K dark medium ride
+- 22" A Medium Ride
+
+#### Other Drums
+
 - pearl sensitone (cheap supraphonic)
 - 80's Bell Brass snare or Tama Granstar Snare or Yamaha? 80s
 - Ludwig Supraphonic Snare (5& 6.5)
