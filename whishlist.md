@@ -1,5 +1,7 @@
 # Wishlist
 
+clippers
+
 - Classic wool socks
 - Base layer socks
 - Baselayer bottoms & tops

@@ -1,5 +1,17 @@
 # Jer's To-Do List
 
+## Groceries
+
+- Garlic
+- Celery
+- Carrots
+- Red cabbage
+- Raddicio
+- Bread
+- Coffee
+- Pasta noodles
+- Asian grocery (dumplings, noodles, pork)
+
 ## Psych help
 
 - Call back both doctors
@@ -12,6 +24,9 @@
 
 ## Personal
 
+- Get a few recipies for asian food
+- Get a few recipies for Indian food
+- Get sizes for crock pot (based on recipies)
 - waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
 - output metronome to a track and add volume envelope
 - Organize audio project directory - maybe move?
