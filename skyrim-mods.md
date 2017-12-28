@@ -1,5 +1,9 @@
 # Skyrim Mods
 
+more nasty critt must be slal
+reinstall sos
+reinstall xp32
+
 sofie is naked in the north
 Test Sit
 SOS racemenu shlongs? activate mod & figure out
@@ -84,9 +88,9 @@ Merta Assasin
 Seraphine Armor
 
 ### Download and review
-
+[Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
 [Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
-
+UNP Minidresses
 [Quick and dirty guide to the book of uunp](https://www.reddit.com/r/skyrimmods/comments/6zi0fa/a_quick_and_dirty_guide_to_the_book_of_uunp/)
 [Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 [UNP Female Armors](https://rd.nexusmods.com/skyrim/mods/7305)
@@ -159,6 +163,9 @@ Player Homes
 [KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
 [Old hunters home](https://rd.nexusmods.com/skyrim/mods/88494)
 [Unique female followers](https://www.nexusmods.com/skyrim/mods/24664/?)
+[Dragonfly TBBP](https://www.nexusmods.com/skyrim/mods/34713/?)
+[Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
+[Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
 Combat Mods
 Replace NPC hair with whatever
 Immersive Creatures
