@@ -1,5 +1,19 @@
 # Wishlist
 
+
+k mastersound hats
+k 16 efx
+crash of doom
+
+22 k custom ride
+k dark medium ride
+
+
+a custom efx
+k dark thin
+
+
+
 clippers
 
 - Classic wool socks
