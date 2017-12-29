@@ -5,6 +5,8 @@ test sheild on back (need to test vanilla sheild)
 sofie is naked in the north
 Test Sit (npcs)
 
+Riften (Drifa, Edda, Marise Aravel) neck seams
+
 khajit texture seams around neck
 argonian female shlong textures
 
@@ -22,10 +24,26 @@ less makup version
 
 ### These are in game - need to review
 
-Fluffy Travel Attire
-Armors of Dragon Champion
+7B Bombshell KokoroBikiniDLC
+Ahri 7B Cleavage
+Amiella Skirt HDT BodySlide 1.1 (By Daiemonic)
+Aradia Cross Armor - UNP HDT 2K-71204-1-01
+Barely Vamp robes and tavern clothes UNP HDT
+DenimBarkeeperUNPB
+DPnTrielekMix
+DraugrHavokSkirts
+Goma's Amazoness
+HDT Test Skirts
+kaz doa_nyo_suit_1
+kaz_doa_honoka_1_v2
 
-Brokefoots UNP Mashup
+### Items to review / Issues
+
+Ancient Draugr Armor (UNP Top Model BBP) CLIPPING
+Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
+Elven Dresses by Naihaan (cant figure out how to spaun them)
+Cassandra - clipping
+Brokefoots UNP Mashup (conflicts with sos)
     Dandelion Set
     Khantu Set
     Leah Set
@@ -33,17 +51,9 @@ Brokefoots UNP Mashup
     Vicky Set
     Temptress/Vixen Set
 
-### Items to review / Issues
-
-Ancient Draugr Armor (UNP Top Model BBP) CLIPPING
-Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
-Elven Dresses by Naihaan (cant figure out how to spaun them)
-Elin lace lingerie is flat (needs to be built maybe? - did this get killed with FOX)
-Cassandra - clipping
-Hentai China dress and Hentai Hana dress - clipping (just the dress)
-
 ### Look great - are HDT
 
+Armors of Dragon Champion (chests on the guard tower at the entrance of Whiterun)
 Pampas Set
 R18Pn 08 - Lingerie Set
 SkinTight Dragon wear
@@ -61,6 +71,7 @@ Deserter X:
     Gwelda Armor Pack
     Daedric Reaper Armor
 
+Fluffy Travel Attire
 JinhuaCat (great for sleeves)
 Tembtra Theif
 Cloaks of skyrim
