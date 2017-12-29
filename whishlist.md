@@ -1,5 +1,7 @@
 # Wishlist
 
+$300 GAS A-10 4channel XLR attenuator
+
 - clippers
 - slippers
 - Classic wool socks

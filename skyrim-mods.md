@@ -1,34 +1,29 @@
 # Skyrim Mods
 
-more nasty critt must be slal
-reinstall sos
-reinstall xp32
-
+[Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
+test sheild on back (need to test vanilla sheild)
 sofie is naked in the north
-Test Sit
-SOS racemenu shlongs? activate mod & figure out
-sos textures are messy on RealG
+Test Sit (npcs)
 
 khajit texture seams around neck
 argonian female shlong textures
 
-Brokefoot conflicts with slot 53 > try mcm >> clean shlongified armor
 Poser
 Temptress has no hdt
 ninghei has no hdt, shlong female
 Argonian mouth fix
 Body light
-levellers tower, beefcake, underground bathhouse
-check out player headtracking
 remove camera automove or whatever, its realy annoying
 learn dual sheath redux - test with daggers and swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
-set up equipable sos
 less makup version
 
 ## Armors & Outfits
 
 ### These are in game - need to review
+
+Fluffy Travel Attire
+Armors of Dragon Champion
 
 Brokefoots UNP Mashup
     Dandelion Set
@@ -38,28 +33,10 @@ Brokefoots UNP Mashup
     Vicky Set
     Temptress/Vixen Set
 
-Deserter X stuff
-    Merta Black Rose Armor UUNP - CBBE
-    Gwelda (Little) Red Riding Hood Outfit UUNP - CBBE
-    Sotteta Necromancer Outfit UNP - CBBE
-    Sotteta Huntress Armor UNP
-    Ursine Armor Pack UNP
-    Gwelda Armor Pack UNP
-    Ancient Draugr Armor - UNP Top Model BBP
-    Wild Huntress UNP Top Model BBP - UNP
-    Daedric Reaper Armor
-
-SPB B Hunter v1
-JinhuaCat Outfit - UNP
-Fluffy Travel Attire
-Pampas Set
-Armors of Dragon Champion (The chest is located left to forge at the entrance of WhiteRun.)
-Tembtra
-West Wind misfit mage
-West Wind Combat set
-
 ### Items to review / Issues
 
+Ancient Draugr Armor (UNP Top Model BBP) CLIPPING
+Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
 Elven Dresses by Naihaan (cant figure out how to spaun them)
 Elin lace lingerie is flat (needs to be built maybe? - did this get killed with FOX)
 Cassandra - clipping
@@ -67,12 +44,25 @@ Hentai China dress and Hentai Hana dress - clipping (just the dress)
 
 ### Look great - are HDT
 
+Pampas Set
 R18Pn 08 - Lingerie Set
 SkinTight Dragon wear
 Vampire chain cuirass
+B Hunter outfit (sorta HDT)
 
 ### Look great - not yet HDT
 
+Deserter X:
+    Merta Black Rose Armor
+    Gwelda Red Riding Hood
+    Sotteta Necromancer
+    Sotteta Huntress
+    Ursine Armor Pack
+    Gwelda Armor Pack
+    Daedric Reaper Armor
+
+JinhuaCat (great for sleeves)
+Tembtra Theif
 Cloaks of skyrim
 Eldrids Armor Mashup (search for "EC")
 Velvec Outfit
@@ -88,9 +78,10 @@ Merta Assasin
 Seraphine Armor
 
 ### Download and review
+
+UNP Minidresses
 [Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
 [Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
-UNP Minidresses
 [Quick and dirty guide to the book of uunp](https://www.reddit.com/r/skyrimmods/comments/6zi0fa/a_quick_and_dirty_guide_to_the_book_of_uunp/)
 [Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 [UNP Female Armors](https://rd.nexusmods.com/skyrim/mods/7305)
