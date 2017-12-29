@@ -1,5 +1,6 @@
 # Skyrim Mods
 
+NPC mod gray face bug
 [Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
 test sheild on back (need to test vanilla sheild)
 sofie is naked in the north
@@ -25,15 +26,8 @@ less makup version
 
 ### These are in game - need to review
 
-Barely Vamp robes and tavern clothes UNP HDT (replaced - might be an issue)
+Barely Vamp robes and tavern clothes UNP HDT (replacer - might be an issue)
 Dragon Princess & Trielek armor
-DraugrHavokSkirts
-    Draugr Chain Skirt
-    Draugr Cloth Skirt
-    Draugr Leather Straps
-Elven dresses (Arwen)
-Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
-Cassandra - clipping
 
 ### Items to review / Issues
 
@@ -56,6 +50,8 @@ R18Pn 08 - Lingerie Set
 SkinTight Dragon wear
 Vampire chain cuirass
 B Hunter outfit (sorta HDT)
+Wild Huntress
+Cassandra
 
 ### Look great - not yet HDT
 
