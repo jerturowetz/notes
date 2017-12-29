@@ -1,6 +1,6 @@
 # Wishlist
 
-$300 GAS A-10 4channel XLR attenuator
+
 
 - clippers
 - slippers
@@ -69,7 +69,7 @@ $300 GAS A-10 4channel XLR attenuator
 - Horseback riding
 - Stewart Museaum
 - Danceland
- - cretien book CATHY
+- cretien book CATHY
 
 ## Priority cables
 
@@ -113,6 +113,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+- $300 GAS A-10 4channel XLR attenuator
 - XLR attenuators for Behringer pre ?
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - K&M 259 Short boom stand x2 (amps / toms)
@@ -143,6 +144,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - Acoustic pannels for drum corner
 - QuikLok WS-650 (table behind drums)
 - MS2000
+- laptop stand (DJ style)
 
 ### Drums
 
