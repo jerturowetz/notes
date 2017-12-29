@@ -19,30 +19,25 @@ remove camera automove or whatever, its realy annoying
 learn dual sheath redux - test with daggers and swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 less makup version
+[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
 
 ## Armors & Outfits
 
 ### These are in game - need to review
 
-7B Bombshell KokoroBikiniDLC
-Ahri 7B Cleavage
-Amiella Skirt HDT BodySlide 1.1 (By Daiemonic)
-Aradia Cross Armor - UNP HDT 2K-71204-1-01
-Barely Vamp robes and tavern clothes UNP HDT
-DenimBarkeeperUNPB
-DPnTrielekMix
+Barely Vamp robes and tavern clothes UNP HDT (replaced - might be an issue)
+Dragon Princess & Trielek armor
 DraugrHavokSkirts
-Goma's Amazoness
-HDT Test Skirts
-kaz doa_nyo_suit_1
-kaz_doa_honoka_1_v2
+    Draugr Chain Skirt
+    Draugr Cloth Skirt
+    Draugr Leather Straps
+Elven dresses (Arwen)
+Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
+Cassandra - clipping
 
 ### Items to review / Issues
 
 Ancient Draugr Armor (UNP Top Model BBP) CLIPPING
-Wild Huntress (UNP Top Model BBP - UNP) CLIPPING
-Elven Dresses by Naihaan (cant figure out how to spaun them)
-Cassandra - clipping
 Brokefoots UNP Mashup (conflicts with sos)
     Dandelion Set
     Khantu Set
@@ -53,6 +48,8 @@ Brokefoots UNP Mashup (conflicts with sos)
 
 ### Look great - are HDT
 
+DenimBarkeeperUNPB
+Aradia Cross Armor (really skimpy)
 Armors of Dragon Champion (chests on the guard tower at the entrance of Whiterun)
 Pampas Set
 R18Pn 08 - Lingerie Set
