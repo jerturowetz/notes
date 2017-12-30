@@ -26,6 +26,8 @@ less makup version
 
 ### These are in game - need to review
 
+chdck paihted lady
+
 Barely Vamp robes and tavern clothes UNP HDT (replacer - might be an issue)
 Dragon Princess & Trielek armor
 
