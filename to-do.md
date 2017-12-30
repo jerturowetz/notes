@@ -2,6 +2,9 @@
 
 ## Groceries
 
+check for cereal
+
+- Butter
 - Garlic
 - Celery
 - Carrots
