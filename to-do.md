@@ -1,17 +1,26 @@
 # Jer's To-Do List
 
+Kate
+Porter PD471
+12:30-13:40pm
+
 ## Groceries
 
-check for cereal
-
+- slab of something
+- sliced meats
+- mitchum
+- rasin bran
+- OJ
+- Cheese
+- Bacon
+- Coffee
+- Breads
 - Butter
 - Garlic
 - Celery
 - Carrots
 - Red cabbage
 - Raddicio
-- Bread
-- Coffee
 - Pasta noodles
 - Asian grocery (dumplings, noodles, pork)
 

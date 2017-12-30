@@ -10,7 +10,6 @@ Riften (Drifa, Edda, Marise Aravel) neck seams
 
 khajit texture seams around neck
 argonian female shlong textures
-
 Poser
 Temptress has no hdt
 ninghei has no hdt, shlong female
@@ -26,10 +25,7 @@ less makup version
 
 ### These are in game - need to review
 
-chdck paihted lady
-
 Barely Vamp robes and tavern clothes UNP HDT (replacer - might be an issue)
-Dragon Princess & Trielek armor
 
 ### Items to review / Issues
 
@@ -85,20 +81,14 @@ Seraphine Armor
 
 ### Download and review
 
-UNP Minidresses
-[Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
-[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
-[Quick and dirty guide to the book of uunp](https://www.reddit.com/r/skyrimmods/comments/6zi0fa/a_quick_and_dirty_guide_to_the_book_of_uunp/)
-[Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
-[UNP Female Armors](https://rd.nexusmods.com/skyrim/mods/7305)
-[MiniDresses Collection for UUNP Bodyslide](https://rd.nexusmods.com/skyrim/mods/69880)
-[Remodeled Armor for UUNP BodySlide HDT](https://rd.nexusmods.com/skyrim/mods/69562)
-[The Book of UUNP Bodyslide - UNP - Sevenbase](https://rd.nexusmods.com/skyrim/mods/75861)
 [Bodyslide Armor And Clothes List V3 (No Requests)](https://www.loverslab.com/topic/55151-bodyslide-armor-and-clothes-list-v3-no-requests/)
-[Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
 [LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [Mockingbird Armors](http://m0ckin9bird.tumblr.com/tagged/mods)
 [Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
+
+[Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
+[MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/?)
+[Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
 
 #### Conversions (figure it out)
 
@@ -114,6 +104,8 @@ UNP Minidresses
 
 ## Save for later
 
+[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
+[Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 Evil lair of hydra
 Player Homes
 [Raeza - Follower and Adoptable](https://rd.nexusmods.com/skyrim/mods/84143)
@@ -164,6 +156,7 @@ Player Homes
 [Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
 [Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
 Combat Mods
+Diverse Guards
 Replace NPC hair with whatever
 Immersive Creatures
 Better presets
