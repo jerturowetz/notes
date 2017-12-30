@@ -6,23 +6,10 @@ Porter PD471
 
 ## Groceries
 
-- slab of something
 - sliced meats
 - mitchum
-- rasin bran
-- OJ
 - Cheese
 - Bacon
-- Coffee
-- Breads
-- Butter
-- Garlic
-- Celery
-- Carrots
-- Red cabbage
-- Raddicio
-- Pasta noodles
-- Asian grocery (dumplings, noodles, pork)
 
 ## Psych help
 
