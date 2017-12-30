@@ -1,12 +1,13 @@
 # Jer's To-Do List
 
+mitchum
 set cubase & reaper defaults to 24bit 4800 hrz
 set fireface to same if possible
 Kate's flight is Porter PD471 @ 12:30-13:40pm
 
-
 ## Groceries
 
+- Loads of meat
 - Cheese (sliced & fancy)
 - Bacon
 - OJ
@@ -28,13 +29,6 @@ Kate's flight is Porter PD471 @ 12:30-13:40pm
 - Udon
 - Dumplings
 - Pork
-
-## Groceries
-
-- sliced meats
-- mitchum
-- Cheese
-- Bacon
 
 ## Psych help
 
