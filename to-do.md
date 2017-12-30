@@ -1,8 +1,33 @@
 # Jer's To-Do List
 
-Kate
-Porter PD471
-12:30-13:40pm
+set cubase & reaper defaults to 24bit 4800 hrz
+set fireface to same if possible
+Kate's flight is Porter PD471 @ 12:30-13:40pm
+
+
+## Groceries
+
+- Cheese (sliced & fancy)
+- Bacon
+- OJ
+- coarse sea salt
+- peppercorns
+- basmati
+- Penne, Bows, linguini, spaghetti & whatever
+- gnocci
+- KD
+- tomato sauce (not pasta sauce) x2
+- pizza sauce
+- small cans of tomato paste
+- canned tomatoes
+- Dry beans, lentils & chick peas
+
+### Asian Grocery
+
+- Rice
+- Udon
+- Dumplings
+- Pork
 
 ## Groceries
 
