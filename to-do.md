@@ -31,23 +31,10 @@ Kate's flight is Porter PD471 @ 12:30-13:40pm
 
 ## Groceries
 
-- slab of something
 - sliced meats
 - mitchum
-- rasin bran
-- OJ
 - Cheese
 - Bacon
-- Coffee
-- Breads
-- Butter
-- Garlic
-- Celery
-- Carrots
-- Red cabbage
-- Raddicio
-- Pasta noodles
-- Asian grocery (dumplings, noodles, pork)
 
 ## Psych help
 
