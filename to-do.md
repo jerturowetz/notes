@@ -1,9 +1,5 @@
 # Jer's To-Do List
 
-57 migght have some breakdown stuff
-
-
-Mitchum
 set cubase & reaper defaults to 24bit 4800 hrz
 set fireface to same if possible
 Kate's flight is Porter PD471 @ 12:30-13:40pm
@@ -77,10 +73,11 @@ Kate's flight is Porter PD471 @ 12:30-13:40pm
 
 ## Outstanding Bills
 
-- Communauto (109.5) $284.50-175
+- $220 pool
+- Communauto (110) $284.50-175
 - $150 Renew license
 - $140 pay off iPhone
-- $400 ish Kate furniture
+- $300 Kate furniture
 - $?? Madi Tech
 - $?? Dad phone
 - $125 Mickey
