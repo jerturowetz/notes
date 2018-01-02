@@ -4,6 +4,9 @@ set cubase & reaper defaults to 24bit 4800 hrz
 set fireface to same if possible
 Kate's flight is Porter PD471 @ 12:30-13:40pm
 
+
+slim gilliard 
+
 ## Groceries
 
 - Bread
