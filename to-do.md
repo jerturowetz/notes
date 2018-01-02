@@ -2,10 +2,9 @@
 
 set cubase & reaper defaults to 24bit 4800 hrz
 set fireface to same if possible
-Kate's flight is Porter PD471 @ 12:30-13:40pm
-
-
-slim gilliard 
+waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+- output metronome to a track and add volume envelope
+- Organize audio project directory - maybe move?
 
 ## Groceries
 
@@ -16,7 +15,6 @@ slim gilliard
 - Bacon
 - OJ
 - coarse sea salt
-- peppercorns
 - basmati
 - Penne, Bows, linguini, spaghetti & whatever
 - gnocci
@@ -50,14 +48,7 @@ slim gilliard
 
 ## Personal
 
-- Get a few recipies for asian food
-- Get a few recipies for Indian food
-- Get sizes for crock pot (based on recipies)
-- waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
-- output metronome to a track and add volume envelope
-- Organize audio project directory - maybe move?
 - get in touch with jesse fron Nunavik
-- quarter round 180cm
 - Another matching muffin tin from provigo
 - Clean up gists
 - wordpress snippets to files
@@ -67,7 +58,6 @@ slim gilliard
 - Shut down rackspace
 - Pick up cables by erin
 - AA roaul notes
-- Dad buy new phone for telus
 - Get guitar case from Rachel
 - Life insurance
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
@@ -77,10 +67,11 @@ slim gilliard
 ## Outstanding Bills
 
 - $220 pool
-- Communauto (110) $284.50-175
+- $110 Communauto ($284.50-175)
 - $150 Renew license
 - $140 pay off iPhone
 - $300 Kate furniture
+- $50 travis
 - $?? Madi Tech
 - $?? Dad phone
 - $125 Mickey
