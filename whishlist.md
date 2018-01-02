@@ -7,6 +7,7 @@
 - Hat
 - Scarf like kates dark scarf
 - Baclava
+- Backpack
 
 ## Shoe sizes for reference
 
@@ -34,8 +35,7 @@
 
 ## Kitchen stuff
 
-- In-oven meat thermometer
-- Thermapen
+- Omg so many thermometers (In-oven meat thermometer, Thermapen, stovetop probe)
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Aluminum half sheet pan & libertyware cooling rack x2
