@@ -2,6 +2,10 @@
 
 Below are notes regarding my setup of fresh Windows 10 systems for development.
 
+## Audio device settings
+
+Be sure whatever internal audio device is set to 48/24 quality
+
 ## Intel Iris 640: increase video memory size
 
 Please note this will eat up system RAM for other stuff

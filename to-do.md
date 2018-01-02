@@ -1,12 +1,17 @@
 # Jer's To-Do List
 
-mitchum
+57 migght have some breakdown stuff
+
+
+Mitchum
 set cubase & reaper defaults to 24bit 4800 hrz
 set fireface to same if possible
 Kate's flight is Porter PD471 @ 12:30-13:40pm
 
 ## Groceries
 
+- Bread
+- Tomatoes
 - Loads of meat
 - Cheese (sliced & fancy)
 - Bacon
@@ -22,6 +27,10 @@ Kate's flight is Porter PD471 @ 12:30-13:40pm
 - small cans of tomato paste
 - canned tomatoes
 - Dry beans, lentils & chick peas
+- Kleenex
+- Toilet Paper
+- Glad small compost bags
+- Exterior compost bags
 
 ### Asian Grocery
 

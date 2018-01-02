@@ -1,11 +1,8 @@
 # Wishlist
 
-
-
 - clippers
 - slippers
-- Classic wool socks
-- Base layer socks
+- wool socks
 - Baselayer bottoms & tops
 - Hat
 - Scarf like kates dark scarf
@@ -113,8 +110,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- $300 GAS A-10 4channel XLR attenuator
-- XLR attenuators for Behringer pre ?
+- $50 ea Switchable XLR attenuators x4
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - K&M 259 Short boom stand x2 (amps / toms)
 - K&M 23323 for snare bottom
