@@ -5,9 +5,7 @@ NPC mod gray face bug
 test sheild on back (need to test vanilla sheild)
 sofie is naked in the north
 Test Sit (npcs)
-
 Riften (Drifa, Edda, Marise Aravel) neck seams
-
 khajit texture seams around neck
 argonian female shlong textures
 Poser
@@ -20,15 +18,12 @@ learn dual sheath redux - test with daggers and swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 less makup version
 [SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
-
-
-
 [Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
 [Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
 [Inhabitants of Skyrim - Character Presets](https://www.nexusmods.com/skyrim/mods/18820/?)
 [Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
 
-
+[ENB Ref](https://www.tesgeneral.com/enb)
 
 ## Armors & Outfits
 
