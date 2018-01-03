@@ -1,8 +1,10 @@
 # Jer's To-Do List
 
-set cubase & reaper defaults to 24bit 4800 hrz
-set fireface to same if possible
-waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+[Reaper tutorials](http://www.kennymania.com/reaper-videos/)
+
+- set cubase & reaper defaults to 24bit 4800 hrz
+- set fireface to same if possible
+- waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
 - output metronome to a track and add volume envelope
 - Organize audio project directory - maybe move?
 
@@ -66,15 +68,14 @@ waves - adjust tempo of beginnin section to faster (need to time adjust aarons t
 
 ## Outstanding Bills
 
+- ~~$110 Communauto ($284.50-175)~~
+- $50 or so travis
 - $220 pool
-- $110 Communauto ($284.50-175)
 - $150 Renew license
-- $140 pay off iPhone
 - $300 Kate furniture
-- $50 travis
+- $125 Mickey
 - $?? Madi Tech
 - $?? Dad phone
-- $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 
 ## Musician's Insurance

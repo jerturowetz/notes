@@ -18,6 +18,14 @@ Body light?
 remove camera automove or whatever, its realy annoying
 test & review DualSheath redux with weapons, swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
+less makup version
+[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
+[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
+[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
+[Inhabitants of Skyrim - Character Presets](https://www.nexusmods.com/skyrim/mods/18820/?)
+[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
+
+[ENB Ref](https://www.tesgeneral.com/enb)
 
 ## Armors & Outfits
 
