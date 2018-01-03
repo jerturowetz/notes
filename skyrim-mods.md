@@ -1,40 +1,29 @@
 # Skyrim Mods
 
+adult show
+deadly mutilation
+Maybe try top model
 NPC mod gray face bug
 [Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
 test sheild on back (need to test vanilla sheild)
-sofie is naked in the north
+Sofie is naked in the north
 Test Sit (npcs)
-
 Riften (Drifa, Edda, Marise Aravel) neck seams
-
 khajit texture seams around neck
 argonian female shlong textures
 Poser
-Temptress has no hdt
-ninghei has no hdt, shlong female
-Argonian mouth fix
-Body light
+Temptress has no hdt, ninghei has no hdt, shlong female
+Argonian mouth fix?
+Body light?
 remove camera automove or whatever, its realy annoying
-learn dual sheath redux - test with daggers and swords and sheilds
+test & review DualSheath redux with weapons, swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
-less makup version
-[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
-
-
-
-[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
-[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
-[Inhabitants of Skyrim - Character Presets](https://www.nexusmods.com/skyrim/mods/18820/?)
-[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
-
-
 
 ## Armors & Outfits
 
 ### These are in game - need to review
 
-Barely Vamp robes and tavern clothes UNP HDT (replacer - might be an issue)
+none
 
 ### Items to review / Issues
 
@@ -94,7 +83,6 @@ Seraphine Armor
 [LDW's Crimson Closet for UNP](https://www.loverslab.com/files/file/229-ldws-crimson-closet-for-unp-slim-unp-unp-and-unpb/)
 [Mockingbird Armors](http://m0ckin9bird.tumblr.com/tagged/mods)
 [Nightasy Modding](http://nightasymodding.weebly.com/skyrim-mods.html)
-
 [Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
 [MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/?)
 [Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
@@ -113,10 +101,17 @@ Seraphine Armor
 
 ## Save for later
 
-[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
-[Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
+[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
+[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
+[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
+[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
+Tera armors bodyslide version
+Yennefer, Triss
 Evil lair of hydra
 Player Homes
+less makup version
+[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
+[Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 [Raeza - Follower and Adoptable](https://rd.nexusmods.com/skyrim/mods/84143)
 [Immersive children](https://www.nexusmods.com/skyrim/mods/83554/?)
 [Custom Family Home](https://rd.nexusmods.com/skyrim/mods/47621)
@@ -164,6 +159,8 @@ Player Homes
 [Dragonfly TBBP](https://www.nexusmods.com/skyrim/mods/34713/?)
 [Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
 [Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
+[M'rissi's Tails of Troubles](https://www.nexusmods.com/skyrim/mods/83063/?)
+[Sky Presets](http://skypreset-warehouse.eu/Preset/Presets)
 Combat Mods
 Diverse Guards
 Replace NPC hair with whatever
@@ -179,7 +176,6 @@ lanterns of skyrim
 playervoicesets
 Racemenu Presets
 Isharas Custom Player Body at Skyrim Nexus - mods and community
-[Sky Presets](http://skypreset-warehouse.eu/Preset/Presets)
 skykids can be sued for combat only?
 
 ## Followers / Companions
