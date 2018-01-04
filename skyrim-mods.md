@@ -1,38 +1,45 @@
 # Skyrim Mods
 
-Install AIO AP twice
-Riften (Drifa, Edda, Marise Aravel) neck seams
-khajit texture seams around neck
-argonian female shlong textures
-Temptress has no hdt, ninghei has no hdt, shlong female
+Try AIO various ways...
 
-NPC mod gray face bug
-Sofie is naked in the north
+Double check various races neck seams & shlong textures (as ive redone everything)
+Makeup replacer
+Scars replacer
+presets replacer
+Freckles replacer
+
+Check female npcs in Widhelm & Solitutde
+Sofie child NPC in the north
+Other child NPCs (like urchins) i dont like the vanilla looking kids
+Temptress & races textures, shlongs & hdt
+Male NPC mod gray face bug - watch out for
+
+Good vanilla female replacer?
+
 Test Sit (npcs)
-Poser
+Get & work a poser
+Learn Bodyslide
 
-Argonian mouth fix?
-Body light?
+Argonian mouth fix
+Body light
 remove camera automove or whatever, its realy annoying
-test & review DualSheath redux with weapons, swords and sheilds
-There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
-less makup version
 
-which mod adds all the urchins in whiterun? they have the vanilla child look and it sucks (turned off inconsequential npcs)
+There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
+
+test & review DualSheath redux with weapons, swords and sheilds
+Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
 ## Bodies
 
+7Base (WAYYY to much)
 Demonfet (mostly ok, a bit too much)
 
 Seraphym
-
 UNPB
-7Base
 Dreamgirl
 Top Model
 UNP
 UNP Petite
-
 
 ## Armors & Outfits
 
@@ -98,9 +105,8 @@ Seraphine Armor
 [MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/?)
 [Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
 [SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
-[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
-[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
-[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
+
+[another bodyslide tutorial](https://levelskip.com/rpgs/How-to-create-stunning-Player-Characters-in-Skyrim-using-CBBE-or-UNP-with-mods-to-replace-face-hair-and-eye-textures)
 [ENB Ref](https://www.tesgeneral.com/enb)
 
 #### Conversions (figure it out)
@@ -117,22 +123,18 @@ Seraphine Armor
 
 ## Save for later
 
-[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
 [Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
 [Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
 [Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
-Tera armors bodyslide version
-Yennefer, Triss
-Evil lair of hydra
-Player Homes
-less makup version
-[Myst racemenu presets](https://www.nexusmods.com/skyrim/mods/66729/?)
+[Presets](http://skypreset-warehouse.eu/Preset/Presets)
+
+[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
+[Proper torch weild](https://www.nexusmods.com/skyrim/mods/69368?)
 [Halos poaser](https://www.youtube.com/watch?v=OLIwOGUibKU)
 [Raeza - Follower and Adoptable](https://rd.nexusmods.com/skyrim/mods/84143)
 [Immersive children](https://www.nexusmods.com/skyrim/mods/83554/?)
 [Custom Family Home](https://rd.nexusmods.com/skyrim/mods/47621)
 [DOOLS - Children overhaul](https://rd.nexusmods.com/skyrim/mods/47621)
-[Presets](http://skypreset-warehouse.eu/Preset/Presets)
 [Better Sorting](https://www.nexusmods.com/skyrim/mods/2730)
 [Another Sorting Mod-2017](https://www.nexusmods.com/skyrim/mods/72428)
 [BVFE - Better Vampire Fangs and Eyes](https://www.nexusmods.com/skyrim/mods/38829)
@@ -172,13 +174,22 @@ less makup version
 [KDCirclets Redone by zzjay](https://www.nexusmods.com/skyrim/mods/27064)
 [Old hunters home](https://rd.nexusmods.com/skyrim/mods/88494)
 [Unique female followers](https://www.nexusmods.com/skyrim/mods/24664/?)
-[Dragonfly TBBP](https://www.nexusmods.com/skyrim/mods/34713/?)
 [Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
 [Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
 [Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
 [M'rissi's Tails of Troubles](https://www.nexusmods.com/skyrim/mods/83063/?)
-[Sky Presets](http://skypreset-warehouse.eu/Preset/Presets)
+[SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
+[Bodyslide guide](https://steamcommunity.com/app/72850/discussions/0/359543542243784721)
 Combat Mods
+Tera armors bodyslide version
+Yennefer, Triss
+Evil lair of hydra
+Player Homes
+Osex
+Bathing beauties
+underground bathhouse
+less makup version
+Apachii divine elegance
 Diverse Guards
 Replace NPC hair with whatever
 Immersive Creatures
@@ -194,9 +205,12 @@ playervoicesets
 Racemenu Presets
 Isharas Custom Player Body at Skyrim Nexus - mods and community
 skykids can be sued for combat only?
+Bijin Customizers!
+Can replace Bijin Bodies if necessary
 
 ## Followers / Companions
 
+[Companions and Followers](https://www.nexusmods.com/skyrim/mods/17823)
 [PixeledVixens Ningheim Followers](https://www.nexusmods.com/skyrim/mods/39532)
 [Hoth](https://www.nexusmods.com/skyrim/mods/24666)
 [Aurlyn Dawnstone](https://aurlyndawnstone.blogspot.ca/p/dow.html)
@@ -214,26 +228,22 @@ skykids can be sued for combat only?
 [Maxine](https://www.nexusmods.com/skyrim/mods/87934)
 [Icemage - Elena](https://www.nexusmods.com/skyrim/mods/59936/?)
 [Mour - Fully Voiced Halfdragon Follower](https://www.nexusmods.com/skyrim/mods/74511)
-[Companions and Followers](https://www.nexusmods.com/skyrim/mods/17823)
 [Khinara Jade - Standalone Mage Follower](https://rd.nexusmods.com/skyrim/mods/76428/)
 [Akemi The Snow Elf Follower](https://rd.nexusmods.com/skyrim/mods/76610/?)
 [Diana The Pureblood Vampire 2017](https://rd.nexusmods.com/skyrim/mods/87643/?)
 [Saige The Purger](https://rd.nexusmods.com/skyrim/mods/82120/?)
-[SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
-[Bodyslide guide](https://steamcommunity.com/app/72850/discussions/0/359543542243784721)
-
 
 ## SL Stuff
 
+[SL Index](https://www.loverslab.com/topic/19588-sexlab-index/)
+[Skyrim SL tutrial](https://www.youtube.com/watch?v=0tyUFCPhCKE)
 [SexLab Animation Loader Guide](https://www.loverslab.com/files/file/2506-sexlab-animation-loader-guide/)
 [SL Animation Loader - Pack Collection and Installation Guide](https://www.loverslab.com/files/file/2856-sl-animation-loader-pack-collection-and-installation-guide/)
 [SexLab & More Nasty Critters Install Guide V2.1](https://www.loverslab.com/files/file/3524-sexlab-more-nasty-critters-install-guide/)
 [Anub's animation dump (REBORN) Updated 01.12.2017 1017](https://www.loverslab.com/files/file/2376-anubs-animation-dump-reborn-updated-01122017/)
-[Skyrim SL tutrial](https://www.youtube.com/watch?v=0tyUFCPhCKE)
 [SexLab Gender Change](https://www.loverslab.com/files/file/715-sexlab-gender-change/)
 [Immersive Gender Change](https://www.loverslab.com/files/file/1582-immersive-gender-change/)
 [OSex](https://www.nexusmods.com/skyrim/mods/69448/)
-[SL Index](https://www.loverslab.com/topic/19588-sexlab-index/)
 [SL Matchmaker](https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/)
 [Eager NPC´s](https://www.loverslab.com/files/file/2182-sexlab-eager-npcs/)
 [Amorous Adventures](https://www.loverslab.com/files/file/984-amorous-adventures-v321-20170910/)
@@ -244,8 +254,7 @@ skykids can be sued for combat only?
 [TDF Prostitution](https://www.loverslab.com/files/file/403-sexlab-tdf-prostitution-and-pimping-the-former-aggressive-prostitution-v2255/)
 
 animated pros
-XXX show
-adult show
+adult/XXX show
 devious devices
 sanguine debauchery
 SL dialogues
@@ -253,11 +262,12 @@ SL werewolves
 SL nude creatures
 SL Submit
 SL Romance
-SL anim loader
 NON SL anim pack
 SLAL Nibbles animations
 FunnyBizness' Animation Resources 25.1
-https://www.loverslab.com/files/file/804-devious-captures/
+Check out the More nasty critters slal gudie
+fix futa animations
+
 things that work with defeat:
 
 - ZaZ animation pack
@@ -265,7 +275,6 @@ things that work with defeat:
 - Death Alternative
 - UI Extensions
 - Simple Slavery
-https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
-fix futa animations
 
-Check out the More nasty critters slal gudie
+https://www.loverslab.com/files/file/804-devious-captures/
+https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/

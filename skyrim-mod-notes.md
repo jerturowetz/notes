@@ -11,6 +11,9 @@
 - [Uncapper guide](http://wiki.step-project.com/Guide:Skyrim_-Community-_Uncapper)
 - Review other plugins options in MCM
 
+To use lip textures for a CUSTOM RACE (like the Temptress or Lunari) you will have to put it into the mod specific "tintmasks" folder
+e.g. C:Program Files (x86)SteamSteamAppscommonskyrimDatatexturestemptressactorscharacterCharacter assetstintmasks
+
 ## MCM Adjustments
 
     // Lanterns of Skyrim
