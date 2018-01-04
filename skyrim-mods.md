@@ -1,37 +1,24 @@
 # Skyrim Mods
 
-adult show
-deadly mutilation
-Maybe try top model
-NPC mod gray face bug
-[Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
-test sheild on back (need to test vanilla sheild)
-Sofie is naked in the north
-Test Sit (npcs)
+Install AIO AP twice
 Riften (Drifa, Edda, Marise Aravel) neck seams
 khajit texture seams around neck
 argonian female shlong textures
-Poser
 Temptress has no hdt, ninghei has no hdt, shlong female
+
+NPC mod gray face bug
+Sofie is naked in the north
+Test Sit (npcs)
+Poser
+
 Argonian mouth fix?
 Body light?
 remove camera automove or whatever, its realy annoying
 test & review DualSheath redux with weapons, swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 less makup version
-[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
-[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
-[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
-[Inhabitants of Skyrim - Character Presets](https://www.nexusmods.com/skyrim/mods/18820/?)
-[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
-
-[ENB Ref](https://www.tesgeneral.com/enb)
 
 ## Armors & Outfits
-
-### These are in game - need to review
-
-none
 
 ### Items to review / Issues
 
@@ -94,6 +81,11 @@ Seraphine Armor
 [Futa content thread](https://www.loverslab.com/topic/53953-futa-content-thread-futa-news-and-more-12617-update/)
 [MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/?)
 [Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
+[SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
+[Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
+[Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
+[Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
+[ENB Ref](https://www.tesgeneral.com/enb)
 
 #### Conversions (figure it out)
 
@@ -165,6 +157,7 @@ less makup version
 [Old hunters home](https://rd.nexusmods.com/skyrim/mods/88494)
 [Unique female followers](https://www.nexusmods.com/skyrim/mods/24664/?)
 [Dragonfly TBBP](https://www.nexusmods.com/skyrim/mods/34713/?)
+[Leyenda Followers](https://www.nexusmods.com/skyrim/mods/73512/?)
 [Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
 [Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
 [M'rissi's Tails of Troubles](https://www.nexusmods.com/skyrim/mods/83063/?)
@@ -234,6 +227,7 @@ skykids can be sued for combat only?
 
 animated pros
 XXX show
+adult show
 devious devices
 sanguine debauchery
 SL dialogues
