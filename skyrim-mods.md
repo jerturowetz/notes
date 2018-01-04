@@ -18,6 +18,22 @@ test & review DualSheath redux with weapons, swords and sheilds
 There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
 less makup version
 
+which mod adds all the urchins in whiterun? they have the vanilla child look and it sucks (turned off inconsequential npcs)
+
+## Bodies
+
+Demonfet (mostly ok, a bit too much)
+
+Seraphym
+
+UNPB
+7Base
+Dreamgirl
+Top Model
+UNP
+UNP Petite
+
+
 ## Armors & Outfits
 
 ### Items to review / Issues
@@ -204,6 +220,8 @@ skykids can be sued for combat only?
 [Diana The Pureblood Vampire 2017](https://rd.nexusmods.com/skyrim/mods/87643/?)
 [Saige The Purger](https://rd.nexusmods.com/skyrim/mods/82120/?)
 [SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
+[Bodyslide guide](https://steamcommunity.com/app/72850/discussions/0/359543542243784721)
+
 
 ## SL Stuff
 
