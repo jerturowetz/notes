@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
-[Reaper tutorials](http://www.kennymania.com/reaper-videos/)
-
+- [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - set cubase & reaper defaults to 24bit 4800 hrz
 - set fireface to same if possible
 - waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
