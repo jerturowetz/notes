@@ -1,20 +1,17 @@
 # Skyrim Mods
 
-Try AIO various ways...
-
 Double check various races neck seams & shlong textures (as ive redone everything)
 Makeup replacer
 Scars replacer
 presets replacer
 Freckles replacer
-
 Check female npcs in Widhelm & Solitutde
 Sofie child NPC in the north
 Other child NPCs (like urchins) i dont like the vanilla looking kids
 Temptress & races textures, shlongs & hdt
 Male NPC mod gray face bug - watch out for
 
-Good vanilla female replacer?
+Without bodyslide how are bijin doing?
 
 Test Sit (npcs)
 Get & work a poser
@@ -24,14 +21,11 @@ Argonian mouth fix
 Body light
 remove camera automove or whatever, its realy annoying
 
-There is a patch  available on the SOS nexus page, which adds Custom Race Compatibility
-
-test & review DualSheath redux with weapons, swords and sheilds
+Test & review DualSheath redux with weapons, swords and sheilds
 Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
 ## Bodies
 
-Top Model
 UNPB
 UNP
 UNP Petite
@@ -100,7 +94,6 @@ Seraphine Armor
 [MiniDresses Collection for UUNP Bodyslide](https://www.nexusmods.com/skyrim/mods/69880/?)
 [Hmmm what to wear](https://www.nexusmods.com/skyrim/mods/22168/?)
 [SLIDERS](https://www.nexusmods.com/skyrim/users/2205977/?tb=mods&pUp=1)
-
 [another bodyslide tutorial](https://levelskip.com/rpgs/How-to-create-stunning-Player-Characters-in-Skyrim-using-CBBE-or-UNP-with-mods-to-replace-face-hair-and-eye-textures)
 [ENB Ref](https://www.tesgeneral.com/enb)
 
