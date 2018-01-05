@@ -31,13 +31,8 @@ Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
 ## Bodies
 
-7Base (WAYYY to much)
-Demonfet (mostly ok, a bit too much)
-
-Seraphym
-UNPB
-Dreamgirl
 Top Model
+UNPB
 UNP
 UNP Petite
 
@@ -186,6 +181,7 @@ Yennefer, Triss
 Evil lair of hydra
 Player Homes
 Osex
+https://www.nexusmods.com/skyrim/mods/64875/?
 Bathing beauties
 underground bathhouse
 less makup version
