@@ -22,7 +22,6 @@
 - $200 Merell Men's Turku Trek Waterproof
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
 - $300 Lowa Men's Oslo GTX
-- Chelsea boots
 - Classic Timberlands
 
 ### Rain/boating boots
@@ -35,10 +34,11 @@
 
 ## Kitchen stuff
 
-- Omg so many thermometers (In-oven meat thermometer, Thermapen, stovetop probe)
+- Thermapen
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
-- Aluminum half sheet pan & libertyware cooling rack x2
+- Another aluminum half sheet pan & libertyware cooling rack
+- Carving Board
 - 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
 - Round dutch oven (5.5Quart and up)

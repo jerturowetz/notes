@@ -1,20 +1,25 @@
 # Jer's To-Do List
 
+I have the mics for yamin and aaaron full in ear
+(a 57 and the audio technica)
+I need stands for the guitar mics
+and cables
+also those attenuators would be nice
+ 
+ kleenex
+ toilet paper
+ zip ties
+ 
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - set cubase & reaper defaults to 24bit 4800 hrz
 - set fireface to same if possible
 - waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
-- output metronome to a track and add volume envelope
-- Organize audio project directory - maybe move?
 
 ## Groceries
 
 - Bread
 - Tomatoes
 - Loads of meat
-- Cheese (sliced & fancy)
-- Bacon
-- OJ
 - coarse sea salt
 - basmati
 - Penne, Bows, linguini, spaghetti & whatever

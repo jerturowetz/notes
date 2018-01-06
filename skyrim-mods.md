@@ -1,17 +1,23 @@
 # Skyrim Mods
 
-Double check various races neck seams & shlong textures (as ive redone everything)
+floppy is a mess using bounce - gonna retry with naturalistic
+also need to reinstall AIO as Petit
+
+futa textures off
+futa anims off (only cause im using male anims i think)
+futa floppy try other hdt
+bodies? is unpb too much?
+
+Need to replace npc bodies... which means ill need to choose bodies
+
+replace dirt with better stuff?
 Makeup replacer
-Scars replacer
-presets replacer
 Freckles replacer
+presets replacer
 Check female npcs in Widhelm & Solitutde
 Sofie child NPC in the north
 Other child NPCs (like urchins) i dont like the vanilla looking kids
-Temptress & races textures, shlongs & hdt
-Male NPC mod gray face bug - watch out for
-
-Without bodyslide how are bijin doing?
+Running bodyslide on clothes will fuck things up for bodies that arent jnormal?
 
 Test Sit (npcs)
 Get & work a poser
@@ -19,16 +25,14 @@ Learn Bodyslide
 
 Argonian mouth fix
 Body light
-remove camera automove or whatever, its realy annoying
-
 Test & review DualSheath redux with weapons, swords and sheilds
 Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
 ## Bodies
 
-UNPB
-UNP
 UNP Petite
+UNP
+Leyenda
 
 ## Armors & Outfits
 
