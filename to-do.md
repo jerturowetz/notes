@@ -1,23 +1,25 @@
 # Jer's To-Do List
 
-I have the mics for yamin and aaaron full in ear
-(a 57 and the audio technica)
+I have the mics for yamin and aaaron full in ear (a 57 and the audio technica)
 I need stands for the guitar mics
 and cables
 also those attenuators would be nice
- 
- kleenex
- toilet paper
- zip ties
- 
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
-- set cubase & reaper defaults to 24bit 4800 hrz
-- set fireface to same if possible
-- waves - adjust tempo of beginnin section to faster (need to time adjust aarons tracks)
+
+3" x 10" hole in cuttin board.
+post should be 2x2x18(cut 2 ins offbif necess)
+thicker part 2x2x4
+headlamp
+di boxes
+xlrs
+thinner cable
+
 
 ## Groceries
 
 - Bread
+- Flour
+- all bran
 - Tomatoes
 - Loads of meat
 - coarse sea salt
@@ -40,7 +42,7 @@ also those attenuators would be nice
 - Rice
 - Udon
 - Dumplings
-- Pork
+- Pork?
 
 ## Psych help
 
