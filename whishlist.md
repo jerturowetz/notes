@@ -30,16 +30,15 @@
 
 ## Kitchen stuff
 
+- 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
+- $200 All-Clad 4112 Stainless Steel Fry Pan
+- Round dutch oven (5.5 qts at the very least)
 - Thermapen
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Another aluminum half sheet pan & libertyware cooling rack
-- Carving Board
-- 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
-- $200 All-Clad 4112 Stainless Steel Fry Pan
-- Round dutch oven (5.5Quart and up)
-- Carving knife (& fork)
 - Cuisinart CEK-40 electric knife
+- Carving knife (& fork)
 - Large Reversible Maple Carving Board
 - Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
