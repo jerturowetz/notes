@@ -1,23 +1,24 @@
 # Jer's To-Do List
 
-I have the mics for yamin and aaaron full in ear (a 57 and the audio technica)
-I need stands for the guitar mics
-and cables
-also those attenuators would be nice
+- get in touch with jesse fron Nunavik
+- Another matching muffin tin from provigo
+- Clean up gists
+- wordpress snippets to files
+- go through new plugins
+- Review developer plugins
+- Warn shakti of email changes
+- Shut down rackspace
+- Pick up cables by erin
+- AA roaul notes
+- Get guitar case from Rachel
+- Life insurance
+- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
+- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
+- [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
-
-3" x 10" hole in cuttin board.
-post should be 2x2x18(cut 2 ins offbif necess)
-thicker part 2x2x4
-headlamp
-di boxes
-xlrs
-thinner cable
-
 
 ## Groceries
 
-- Bread
 - Flour
 - all bran
 - Tomatoes
@@ -32,8 +33,7 @@ thinner cable
 - small cans of tomato paste
 - canned tomatoes
 - Dry beans, lentils & chick peas
-- Kleenex
-- Toilet Paper
+- Kleenex, Toilet paper, paper towels
 - Glad small compost bags
 - Exterior compost bags
 
@@ -54,29 +54,9 @@ thinner cable
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
 - Foundation TOC : 514-727-0012
 
-## Personal
-
-- get in touch with jesse fron Nunavik
-- Another matching muffin tin from provigo
-- Clean up gists
-- wordpress snippets to files
-- go through new plugins
-- Review developer plugins
-- Warn shakti of email changes
-- Shut down rackspace
-- Pick up cables by erin
-- AA roaul notes
-- Get guitar case from Rachel
-- Life insurance
-- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
-- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
-- [$60/yr Capitol One Card](http://bit.ly/28Os44b)
-
 ## Outstanding Bills
 
-- ~~$110 Communauto ($284.50-175)~~
-- $50 or so travis
-- $220 pool
+- ?? New communauto
 - $150 Renew license
 - $300 Kate furniture
 - $125 Mickey

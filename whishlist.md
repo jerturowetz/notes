@@ -1,11 +1,7 @@
 # Wishlist
 
 - clippers
-- slippers
 - wool socks
-- Baselayer bottoms & tops
-- Hat
-- Scarf like kates dark scarf
 - Baclava
 - Backpack
 
@@ -110,17 +106,16 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- $50 ea Switchable XLR attenuators x4
+- $50 ea Switchable XLR attenuators x4 / GAS A-10 4 channel XLR attenuator
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - K&M 259 Short boom stand x2 (amps / toms)
 - K&M 23323 for snare bottom
-- Amp clips
+- Amp clips for AC30
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - sheet of acoustic foam for cutting up (OHs)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
-- Pop filter
-- Build a subkick
+- Little bit of foam for top of overheads
 - fix tom mount
 - SM58 x2
 - Granelli labs 57
@@ -131,16 +126,15 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
 - Mixer (MixWizard or GB2R)
-- Reason, Cubase, Live
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
 - DIs (Radial j48 x2, stereo passive DI, key largo)
 - Controller keyboard
-- usb c hub thing (USB for fireface, keyboard, mouse, dvid/vga for monitor)
 - Radial Key Largo
 - Acoustic pannels for drum corner
 - QuikLok WS-650 (table behind drums)
 - MS2000
 - laptop stand (DJ style)
+- IEC-6X4 (short power cords)
 
 ### Drums
 
@@ -169,3 +163,11 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - Vintage deep snare drum
 - Tama granstar 80s (Nevermind Kit) just kick ?
 - Some small kit to tape up (1969 Ludwig 3 piece)
+
+#### Killer drum mic pres
+
+Obvs should grab a coles or 2, some decent OHs too
+
+- API 3124
+- Daking Mic Pre IV
+- Sebatron VMP 4000e

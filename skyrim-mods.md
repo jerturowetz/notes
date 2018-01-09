@@ -1,15 +1,15 @@
 # Skyrim Mods
 
-floppy is a mess using bounce - gonna retry with naturalistic
-also need to reinstall AIO as Petit
+like, just choose a body
+7base might be best
 
-futa textures off
-futa anims off (only cause im using male anims i think)
-futa floppy try other hdt
-bodies? is unpb too much?
+7b bottom is great
+load as male and test
 
-Need to replace npc bodies... which means ill need to choose bodies
-
+futa textures are off
+futa anims off
+change to bigger body and change bounce
+Test Sit (npcs)
 replace dirt with better stuff?
 Makeup replacer
 Freckles replacer
@@ -18,11 +18,8 @@ Check female npcs in Widhelm & Solitutde
 Sofie child NPC in the north
 Other child NPCs (like urchins) i dont like the vanilla looking kids
 Running bodyslide on clothes will fuck things up for bodies that arent jnormal?
-
-Test Sit (npcs)
 Get & work a poser
 Learn Bodyslide
-
 Argonian mouth fix
 Body light
 Test & review DualSheath redux with weapons, swords and sheilds
@@ -115,6 +112,9 @@ Seraphine Armor
 
 ## Save for later
 
+[SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
+[Bodyslide guide](https://steamcommunity.com/app/72850/discussions/0/359543542243784721)
+
 [Skyrim presets](http://skypreset-warehouse.eu/Preset/Presets)
 [Myst's RaceMenu Presets](https://rd.nexusmods.com/skyrim/mods/66729/?)
 [Shiva's Beautiful Presets](https://rd.nexusmods.com/skyrimspecialedition/mods/7492/?)
@@ -170,8 +170,9 @@ Seraphine Armor
 [Feminine Hands](https://www.loverslab.com/topic/24593-feminine-hands-cbbe-and-unp/)
 [Vilja in Skyrim](https://rd.nexusmods.com/skyrim/mods/26393/)
 [M'rissi's Tails of Troubles](https://www.nexusmods.com/skyrim/mods/83063/?)
-[SweetHeart - a UUNP BodySlide preset](https://rd.nexusmods.com/skyrim/mods/88480)
-[Bodyslide guide](https://steamcommunity.com/app/72850/discussions/0/359543542243784721)
+[Face masks of skyrim](https://www.nexusmods.com/skyrim/mods/33391/?)
+[Blindfolds of skyrim](https://www.nexusmods.com/skyrim/mods/13551/)
+
 Combat Mods
 Tera armors bodyslide version
 Yennefer, Triss

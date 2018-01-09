@@ -1,12 +1,26 @@
 # Cheat sheet : Ubuntu server setup
 
-[How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
+- [Initial Server Setup with Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+- [How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04)
+- [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
 
 ## User functions
 
-    adduser USERNAME
-    usermod -aG sudo USERNAME
-    deluser --remove-home USERNAME
+    adduser USERNAME                # add user
+    usermod -aG sudo USERNAME       # Adds sudo permissions
+    deluser --remove-home USERNAME  # remove home folder
+
+## Add Digital Ocean monitoring
+
+switch to `root` and run:
+
+    curl -sSL https://agent.digitalocean.com/install.sh | sh
+
+## Set up a firewall - see other sheet
+
+## Reboot machine
+
+    sudo shutdown -r now
 
 ## Install mysql
 
