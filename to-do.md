@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+get my ssh keys from mobile on to the new server 
+change bkdsn to be something else easier to seatch in lastpass
+
+
 I have the mics for yamin and aaaron full in ear (a 57 and the audio technica)
 I need stands for the guitar mics
 and cables
