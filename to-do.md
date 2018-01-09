@@ -15,6 +15,8 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
+- get my ssh keys from mobile on to the new server 
+- change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 
 ## Groceries
