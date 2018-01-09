@@ -2,26 +2,20 @@
 
 like, just choose a body
 7base might be best
-
 7b bottom is great
-load as male and test
 
+
+load as male and test animation posiions
 futa textures are off
 futa anims off
-change to bigger body and change bounce
 Test Sit (npcs)
+
 replace dirt with better stuff?
 Makeup replacer
 Freckles replacer
 presets replacer
-Check female npcs in Widhelm & Solitutde
-Sofie child NPC in the north
-Other child NPCs (like urchins) i dont like the vanilla looking kids
-Running bodyslide on clothes will fuck things up for bodies that arent jnormal?
+
 Get & work a poser
-Learn Bodyslide
-Argonian mouth fix
-Body light
 Test & review DualSheath redux with weapons, swords and sheilds
 Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
