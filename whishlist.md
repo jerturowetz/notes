@@ -1,5 +1,10 @@
 # Wishlist
 
+[KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
+[Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
+[STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
+[STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
+
 - clippers
 - wool socks
 - Baclava
@@ -30,16 +35,15 @@
 
 ## Kitchen stuff
 
+- 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
+- $200 All-Clad 4112 Stainless Steel Fry Pan
+- Round dutch oven (5.5 qts at the very least)
 - Thermapen
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Another aluminum half sheet pan & libertyware cooling rack
-- Carving Board
-- 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
-- $200 All-Clad 4112 Stainless Steel Fry Pan
-- Round dutch oven (5.5Quart and up)
-- Carving knife (& fork)
 - Cuisinart CEK-40 electric knife
+- Carving knife (& fork)
 - Large Reversible Maple Carving Board
 - Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
@@ -47,6 +51,7 @@
 
 ## Kate stuff
 
+- Panda shirt cross-eyed-bear lyrics
 - Basket of picnic stuffs
 - $500 Banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
@@ -63,6 +68,7 @@
 - Stewart Museaum
 - Danceland
 - cretien book CATHY
+- tshirt "not really drinking"
 
 ## Priority cables
 

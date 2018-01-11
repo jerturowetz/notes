@@ -72,3 +72,11 @@ You can verify ssl at [ssllabs.com](https://www.ssllabs.com/ssltest/analyze.html
 Certificates need to be renewed every 90 days or so, add the following chron job with `sudo crontab -e` to automate the renewal
 
     15 3 * * * /usr/bin/certbot renew --quiet
+
+## SSH
+
+you might also want to set up an ssh key for the server-user here so that it can access things like github or whetever
+
+maybe one for root and one for your user
+
+cron might use the root key when running jobs - i have no idea

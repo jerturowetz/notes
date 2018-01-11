@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- retire satis server and use new DO server
+- delete satis ssh key from Github & bitbucket once server retired
 - get in touch with jesse fron Nunavik
 - Another matching muffin tin from provigo
 - Clean up gists
@@ -38,6 +40,22 @@ jackie chan
 - The Twilight Samurai (2002)
 - The Final Master (2015)
 - Brotherhood of Blades (2014)
+
+## Moar movies
+
+Ingrid Goes West (2017)
+Lady Bird (2017)
+The Little Hours ()
+Wind River (2017)
+I don't feel at home in this world anymore
+Good Time (2017)
+Brigsby Bear
+A Ghost Story
+Patti Cakes
+Brawl in cell block
+Logan Lucky
+war for the planet of the apes
+Deadpool
 
 ## Groceries
 

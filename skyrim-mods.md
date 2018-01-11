@@ -7,6 +7,8 @@ This also requires the normal map from SG Female Textures Renewal (file is textu
 like, just choose a body
 7base might be best
 7b bottom is great
+deamonfet is not good
+
 
 load as male and test animation posiions
 futa textures are off
@@ -271,3 +273,8 @@ things that work with defeat:
 
 https://www.loverslab.com/files/file/804-devious-captures/
 https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
+
+
+
+in textblend config.xml (after installing bodyslide with texblend)
+set up to output to mod organizer's output path
