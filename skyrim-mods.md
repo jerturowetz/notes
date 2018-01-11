@@ -1,5 +1,9 @@
 # Skyrim Mods
 
+better females
+
+This also requires the normal map from SG Female Textures Renewal (file is textures\actors\character\female\femalebody_1_msn.dds)
+
 like, just choose a body
 7base might be best
 7b bottom is great
@@ -22,6 +26,8 @@ Less makeup on presets & npcs? Maybe vanilla makeup replacer?
 
 UNP Petite
 UNP
+UNPB
+
 Leyenda
 
 ## Armors & Outfits

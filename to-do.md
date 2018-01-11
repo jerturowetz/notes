@@ -19,6 +19,26 @@
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 
+## Flicks
+
+wind river
+jackie chan
+
+- The Age of Shadows (2016)
+- Ran (1985)
+- The Villainess (2017)
+- The Man from Nowhere (2010)
+- A Bittersweet Life (2005)
+- War of the Arrows (2011)
+- Dunkirk (2017)
+- War for the Planet of the Apes (2017)
+- Coco (2017)
+- Gone Baby Gone (2007)
+- Captain Phillips (2013)
+- The Twilight Samurai (2002)
+- The Final Master (2015)
+- Brotherhood of Blades (2014)
+
 ## Groceries
 
 - Flour
