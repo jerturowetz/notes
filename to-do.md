@@ -19,6 +19,22 @@
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 
+## Moar ovies
+
+Ingrid Goes West (2017)
+Lady Bird (2017)
+The Little Hours ()
+Wind River (2017)
+I don't feel at home in this world anymore
+Good Time (2017)
+Brigsby Bear
+A Ghost Story
+Patti Cakes
+Brawl in cell block
+Logan Lucky
+war for the planet of the apes
+Deadpool
+
 ## Groceries
 
 - Flour

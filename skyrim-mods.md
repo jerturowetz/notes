@@ -3,6 +3,8 @@
 like, just choose a body
 7base might be best
 7b bottom is great
+deamonfet is not good
+
 
 load as male and test animation posiions
 futa textures are off
