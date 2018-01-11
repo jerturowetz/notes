@@ -1,5 +1,72 @@
 # Lift changes
 
+
+
+## global themes
+
+potential
+stress
+procrastination
+eating habits
+movement
+media addictions
+communication
+future
+
+## School porgrams
+
+- 1 full class / week / 8 weeks
+- health promotion
+- prevention of substance use disorders, delinquency and high-school drop outs
+-  3 to 20 participants
+- 30 minutes of education/conversations
+- 30 minutes of movement/yoga/meditation
+
+
+## Winter camp
+
+INTRO				
+- Intro of staff (What you do, where your from and why your here)				
+- Intro of participants				
+- Explainations on the 4 day schedule				
+- Guidelines for behaviour				
+				
+OUTDOOR				
+- 3h of wood chopping to prepare for the big ass fire				
+- Some participants will be cold and will need to come back in earlier, grab them to help in the kitchen;				
+				
+YOGA&MEDITATION				
+- Yoga dudes, do your magic				
+- Some participants might be dificult to engage and/or be disruptive, we will gently ask them to be quiet and relax				
+				
+WORKSHOP 1: Communication & Conflict - 1h30				
+- Based on the in-school program workshop on Communication & Conflict (30-45min)				
+- Team building activity: chair maze, everyone on the carpet, human knot (45min)				
+				
+WORKSHOP2: LETTING GO - 1h30				
+- Personnal share from mentors about their teenage years, their struggles, how they got over it (45 min.)				
+				
+- Creative activity: writting a letter to self or other				
+- Letter Structure: Honnesty, Acceptance, Humility, Responsibility, Grattitude, Hope, Faith				
+				
+BIG ASS FIRE				
+- Burning of the letter				
+- Marshmellows				
+				
+Theres also:
+Grattitude Circle
+Outdoor relaxtion
+
+
+
+
+
+
+
+
+
+
+
 ## Jer to do
 
 Get in touch with Xav for quote

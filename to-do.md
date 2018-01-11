@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- retire satis server and use new DO server
+- delete satis ssh key from Github & bitbucket once server retired
 - get in touch with jesse fron Nunavik
 - Another matching muffin tin from provigo
 - Clean up gists
@@ -19,7 +21,7 @@
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 
-## Moar ovies
+## Moar movies
 
 Ingrid Goes West (2017)
 Lady Bird (2017)

@@ -51,6 +51,7 @@
 
 ## Kate stuff
 
+- Panda shirt cross-eyed-bear lyrics
 - Basket of picnic stuffs
 - $500 Banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate

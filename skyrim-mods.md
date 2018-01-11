@@ -267,3 +267,8 @@ things that work with defeat:
 
 https://www.loverslab.com/files/file/804-devious-captures/
 https://www.loverslab.com/topic/76713-billyys-slal-animations-2017-10-28/
+
+
+
+in textblend config.xml (after installing bodyslide with texblend)
+set up to output to mod organizer's output path
