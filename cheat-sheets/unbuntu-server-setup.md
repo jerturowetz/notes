@@ -27,50 +27,13 @@ switch to `root` and run:
     sudo apt-get install mysql-server
     mysql_secure_installation # dont use the VALIDATE PASSWORD PLUGIN
 
-## Install php
+## Install php && PHP modules
 
     sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql php-xml php-mbstring
-
-## Set Apache to prefer index.php over index.html
-
-    sudo nano /etc/apache2/mods-enabled/dir.conf
-
-Find the following
-
-    <IfModule mod_dir.c>
-        DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
-    </IfModule>
-
-And move the position of index.php
-
-    <IfModule mod_dir.c>
-        DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
-    </IfModule>
-
-The restart apache
-
-    sudo systemctl restart apache2
-
-## Check apache status
-
-    sudo systemctl status apache2 # Check apache status
-
-## PHP modules
 
     apt-cache search php- | less # pipe list of available php modules
     apt-cache show php-cli # see module details
     sudo apt-get install php-cli
-
-## Test it out
-
-    sudo nano /var/www/html/info.php
-    # <?php phpinfo(); ?>
-
-Check it out via `http://your_ip_address/index.php`
-
-If everything is cool, you probably wanna remove the file so you dont give out info on you server
-
-    sudo rm /var/www/html/info.php
 
 ## Installing composer
 
