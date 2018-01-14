@@ -26,6 +26,8 @@
 - Garlic
 - Lemon
 - Spinach or something
+- potatoes
+- Carrots
 - Bread
 - Penne, Bows, linguini, spaghetti & whatever
 - Pasta sauce & tomato sauce
@@ -51,6 +53,7 @@
 - Butter
 - Eggs
 - OJ
+- Dish soap
 - Kleenex, Toilet paper, paper towels
 - Glad small compost bags
 - Exterior compost bags
