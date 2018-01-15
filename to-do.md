@@ -6,7 +6,6 @@
 
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
-- get in touch with jesse fron Nunavik
 - Another matching muffin tin from provigo
 - Clean up gists
 - wordpress snippets to files
@@ -25,54 +24,36 @@
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 
-## Flicks
-
-- wind river
-- jackie chan
-- The Age of Shadows (2016)
-- Ran (1985)
-- The Villainess (2017)
-- The Man from Nowhere (2010)
-- A Bittersweet Life (2005)
-- War of the Arrows (2011)
-- Dunkirk (2017)
-- War for the Planet of the Apes (2017)
-- Coco (2017)
-- Gone Baby Gone (2007)
-- Captain Phillips (2013)
-- The Twilight Samurai (2002)
-- The Final Master (2015)
-- Brotherhood of Blades (2014)
-- Ingrid Goes West (2017)
-- Lady Bird (2017)
-- The Little Hours ()
-- Wind River (2017)
-- I don't feel at home in this world anymore
-- Good Time (2017)
-- Brigsby Bear
-- A Ghost Story
-- Patti Cakes
-- Brawl in cell block
-- Logan Lucky
-- war for the planet of the apes
-- Deadpool
-
 ## Groceries
 
-- Flour
-- all bran
 - Tomatoes
-- Loads of meat
-- coarse sea salt
-- basmati
+- Garlic
+- Spinach or something
+- potatoes
+- Bread for toast
 - Penne, Bows, linguini, spaghetti & whatever
+- Pasta sauce & tomato sauce
+- pizza sauce
 - gnocci
 - KD
-- tomato sauce (not pasta sauce) x2
-- pizza sauce
 - small cans of tomato paste
 - canned tomatoes
 - Dry beans, lentils & chick peas
+- Popcorn
+- coarse sea salt
+- Pepper to grind
+- basmati
+- olive oil
+- mayonaise
+- keytchup
+- cheddar cheese
+- reg mustadrd & dijon
+- Flour
+- all bran
+- Loads of meat
+- Eggs
+- OJ
+- Dish soap
 - Kleenex, Toilet paper, paper towels
 - Glad small compost bags
 - Exterior compost bags
@@ -82,6 +63,7 @@
 - Rice
 - Udon
 - Dumplings
+- sambal olek
 - Pork?
 
 ## Psych help
