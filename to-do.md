@@ -24,11 +24,9 @@
 
 - Tomatoes
 - Garlic
-- Lemon
 - Spinach or something
 - potatoes
-- Carrots
-- Bread
+- Bread for toast
 - Penne, Bows, linguini, spaghetti & whatever
 - Pasta sauce & tomato sauce
 - pizza sauce
@@ -49,8 +47,6 @@
 - Flour
 - all bran
 - Loads of meat
-- Milk
-- Butter
 - Eggs
 - OJ
 - Dish soap
