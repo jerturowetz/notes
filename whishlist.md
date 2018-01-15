@@ -7,7 +7,6 @@
 
 - clippers
 - wool socks
-- Baclava
 - Backpack
 
 ## Shoe sizes for reference
@@ -112,35 +111,33 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- $50 ea Switchable XLR attenuators x4 / GAS A-10 4 channel XLR attenuator
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
-- K&M 259 Short boom stand x2 (amps / toms)
 - K&M 23323 for snare bottom
+- K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
+- $315 USD GAS A-10 4 Channel Line Level Attenuator
+- $50 ea Switchable XLR attenuators x4 / GAS A-10 4 channel XLR attenuator
 - sheet of acoustic foam for cutting up (OHs)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- fix tom mount
+- Fix tom mount
 - SM58 x2
 - Granelli labs 57
 - AKG D112
-- Laptiop DI
-- little notebook
 - Handheld feild recorder
-- behringer pm1, Elite Core Body Pack, rolls hv6 x2
+- Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
 - Mixer (MixWizard or GB2R)
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- DIs (Radial j48 x2, stereo passive DI, key largo)
+- DIs (Radial j48 x2, JDI Stereo, JDI, Key largo)
 - Controller keyboard
-- Radial Key Largo
 - Acoustic pannels for drum corner
 - QuikLok WS-650 (table behind drums)
-- MS2000
-- laptop stand (DJ style)
 - IEC-6X4 (short power cords)
+- Ludwig Supraphonic Snare (5& 6.5)
+- Gator G-TOUR-GRC-1406 (an amazing case)
 
 ### Drums
 
@@ -159,21 +156,3 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - 22" K custom ride
 - 22" K dark medium ride
 - 22" A Medium Ride
-
-#### Other Drums
-
-- pearl sensitone (cheap supraphonic)
-- 80's Bell Brass snare or Tama Granstar Snare or Yamaha? 80s
-- Ludwig Supraphonic Snare (5& 6.5)
-- Yamaha recording custom
-- Vintage deep snare drum
-- Tama granstar 80s (Nevermind Kit) just kick ?
-- Some small kit to tape up (1969 Ludwig 3 piece)
-
-#### Killer drum mic pres
-
-Obvs should grab a coles or 2, some decent OHs too
-
-- API 3124
-- Daking Mic Pre IV
-- Sebatron VMP 4000e
