@@ -1,7 +1,5 @@
 # Lift changes
 
-
-
 ## global themes
 
 potential
