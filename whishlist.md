@@ -1,64 +1,5 @@
 # Wishlist
 
-
-mixwizard power button replace
-
-rack case >> 
-a few RU below for:
-Drawer for snakes
-Patch Panel
-
-
-Panels:
-XLR Patch Panel >> 8 XLR maybe mixed type (or Dsub and another Dsub to 8 XLR)
-Dsub patch panel (4 ?)
-should get a few trs ins as well for outboard gear? - ie inserts
-
-
-
-Mixer XLR In x 10
-Mixer Line in x 8
-
-
-
-Cables:
-8 Stereo Ins >> dsub
-8 Direct outs >> dsub
-2 Direct outs & 6 AUX >> dsub
-should wire up an insert snake?
-
-
-
-What remains?
-Group, Master L/R, Mon L/R, 2 track
-I need 2 track on patch panel?
-???
-
-
-
-
-Patchbay is expensive... But I can solder a cheaper one to do what I want - or I can buy a DSUB bay...
-
-
-
-
-artists tape
-air sparay 
-18" x 24" peive of wood 
-
-
-
-
-
-
-4 xlr for mixer >> speakers
-2 xlr rme >> mixer 
-4 permanent xlr >> vox
-2 bal trs little mix >> big mix
-8x8 trs snake short 
-
-
-
 [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
 [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
@@ -170,6 +111,17 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+Naiant Inline attenuator
+Mixwizard Power button replace
+artists tape
+18" x 24" piece of wood
+
+4 xlr for mixer >> speakers
+2 xlr rme >> mixer
+4 permanent xlr >> vox
+2 bal trs little mix >> big mix
+8x8 trs snake short
+
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - K&M 23323 for snare bottom
 - K&M 259 Short boom stand x2 (amps / toms)
@@ -197,17 +149,30 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - IEC-6X4 (short power cords)
 - Ludwig Supraphonic Snare (5& 6.5)
 - Gator G-TOUR-GRC-1406 (an amazing case)
+- Stereo graphic EQ/Limited for Mons
 
 ### Drums
 
+- 80s Simmons pads
+- Yamaha DTX
+- DW pedals
+- Larger kick drum
+- SPD-S
+- Big ass Roto Toms
+- Ludwig Black Beauty
+- Ludwig Supraphonic
+- 2 snare stands (1 for tom)
+- Floor Tom
+
 #### Crashes to try
 
-- 17"+ K custom Dark Crash
-- 17"+ K Dark Thin Crash
+- 18"+ K custom Dark Crash
+- 18"+ K Dark Thin Crash
 - 18"+ A Medium thin Crash
 - 18"+ A Adevis crash
 - 16"+ K EFX
 - Crash of doom
+- 20" FX Oriental China Trash
 - 18" A Custom EFX
 
 #### Rides to try
@@ -215,3 +180,4 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - 22" K custom ride
 - 22" K dark medium ride
 - 22" A Medium Ride
+- 21" K Crash Ride
