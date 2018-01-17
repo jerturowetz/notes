@@ -71,6 +71,8 @@
 
 ## Priority cables
 
+- 8 channel TRS snake
+- Short XLRs
 - 3' TRS to XLR male
 - 3' TRS to XLR female
 - 3' TRS
@@ -83,6 +85,9 @@
 
 Lots of gear from [Mouser](https://ca.mouser.com)
 
+- Mixwizard Power button replace
+- 18" x 24" piece of wood
+- Artists tape
 - zip ties
 - Screwdriver bits and set for space (maybe cheap elec screwdriver for rack)
 - Small tool box
@@ -111,24 +116,13 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-Naiant Inline attenuator
-Mixwizard Power button replace
-artists tape
-18" x 24" piece of wood
-
-4 xlr for mixer >> speakers
-2 xlr rme >> mixer
-4 permanent xlr >> vox
-2 bal trs little mix >> big mix
-8x8 trs snake short
-
+- $20 ea Naiant inline attenuator
+- $315 USD GAS A-10 4 Channel Line Level Attenuator
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - K&M 23323 for snare bottom
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
-- $315 USD GAS A-10 4 Channel Line Level Attenuator
-- $50 ea Switchable XLR attenuators x4 / GAS A-10 4 channel XLR attenuator
 - sheet of acoustic foam for cutting up (OHs)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
