@@ -1,5 +1,16 @@
 # Jer's To-Do List
 
+
+Border Mail Depot
+Box 512
+102 West Service Rd.
+Champlain, NY
+12919
+
+
+
+
+
 - Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -23,37 +34,16 @@
 
 ## Groceries
 
-- Tomatoes
-- Garlic
-- Spinach or something
-- bananas
-- potatoes
-- Bread for toast
-- Penne, Bows, linguini, spaghetti & whatever
-- Pasta sauce & tomato sauce
-- pizza sauce
-- gnocci
+- tomato sauce
+- dry beans an chick peas
+- all bran
 - KD
-- small cans of tomato paste
-- canned tomatoes
-- Dry beans, lentils & chick peas
+- normal mustard
 - Popcorn
 - coarse sea salt
 - Pepper to grind
-- basmati
-- olive oil
-- mayonaise
-- keytchup
 - cheddar cheese
-- reg mustadrd & dijon
-- Flour
-- all bran
-- Loads of meat
-- Eggs
-- OJ
-- Dish soap
-- Kleenex, Toilet paper, paper towels
-- Glad small compost bags
+- Toilet paper, paper towels
 - Exterior compost bags
 
 ### Asian Grocery
@@ -62,7 +52,6 @@
 - Udon
 - Dumplings
 - sambal olek
-- Pork?
 
 ## Psych help
 
