@@ -1,6 +1,47 @@
 # Wishlist
 
 
+mixwizard power button replace
+
+rack case >> 
+a few RU below for:
+Drawer for snakes
+Patch Panel
+
+
+Panels:
+XLR Patch Panel >> 8 XLR maybe mixed type (or Dsub and another Dsub to 8 XLR)
+Dsub patch panel (4 ?)
+should get a few trs ins as well for outboard gear? - ie inserts
+
+
+
+Mixer XLR In x 10
+Mixer Line in x 8
+
+
+
+Cables:
+8 Stereo Ins >> dsub
+8 Direct outs >> dsub
+2 Direct outs & 6 AUX >> dsub
+should wire up an insert snake?
+
+
+
+What remains?
+Group, Master L/R, Mon L/R, 2 track
+I need 2 track on patch panel?
+???
+
+
+
+
+Patchbay is expensive... But I can solder a cheaper one to do what I want - or I can buy a DSUB bay...
+
+
+
+
 artists tape
 air sparay 
 18" x 24" peive of wood 
