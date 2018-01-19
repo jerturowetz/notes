@@ -8,6 +8,12 @@ Champlain, NY
 12919
 
 
+java
+c++
+laravel
+
+node react redux
+
 
 
 
