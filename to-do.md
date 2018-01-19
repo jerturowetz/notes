@@ -1,15 +1,10 @@
 # Jer's To-Do List
 
-
 Border Mail Depot
 Box 512
 102 West Service Rd.
 Champlain, NY
 12919
-
-
-
-
 
 - Reach out to twin flames
 - retire satis server and use new DO server
@@ -35,16 +30,24 @@ Champlain, NY
 ## Groceries
 
 - tomato sauce
-- dry beans an chick peas
-- all bran
 - KD
 - normal mustard
 - Popcorn
 - coarse sea salt
 - Pepper to grind
-- cheddar cheese
 - Toilet paper, paper towels
 - Exterior compost bags
+
+### For Soup
+
+- Large onion
+- cremini, baby portobella or whatever mushrooms
+- 35 oz can whole tomatoes
+- 2 x 15 ounce can great northern beans, undrained
+- fresh sage
+- fresh rosemary
+- butternut squash
+- curly kale
 
 ### Asian Grocery
 
