@@ -1,11 +1,5 @@
 # Wishlist
 
-[KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
-[Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
-[STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
-[STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-
-- clippers
 - wool socks
 - Backpack
 
@@ -85,13 +79,15 @@
 
 Lots of gear from [Mouser](https://ca.mouser.com)
 
+- [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
+- [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
+- [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
+- [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
 - Mixwizard Power button replace
 - 18" x 24" piece of wood
 - Artists tape
 - zip ties
-- Screwdriver bits and set for space (maybe cheap elec screwdriver for rack)
-- Small tool box
-- Vise, panavise and/or helping hands
+- Vise
 - TRS connectors (20)
 - XLR connectors (15 ea male & female)
 - $275 Canare 100m spool (Yellow, Orange, Blue)
@@ -99,10 +95,7 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
 - desoldering plunger & wick
-- small flashlight
-- gaffer tape
-- Better solder (Kester 44 60/40 Rosin core lead solder is standard, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
-- scratch awl
+- Better solder (Kester 44 60/40 Rosin core lead solder, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
 - Stripping tools:
   - xcelite shear cutter
   - klein tools 20GA - 32Ga wire strippers
@@ -116,62 +109,53 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
-- $20 ea Naiant inline attenuator
-- $315 USD GAS A-10 4 Channel Line Level Attenuator
-- K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
+- Behringer pm1, Elite Core Body Pack, rolls hv6 x2
+- Tascam MH-8
+
+- $20 ea Naiant inline attenuator x4
+- Gator G-TOUR-GRC-1406 (an amazing case)
 - K&M 23323 for snare bottom
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
+- K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
-- sheet of acoustic foam for cutting up (OHs)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- Fix tom mount
 - SM58 x2
 - Granelli labs 57
 - AKG D112
-- Handheld feild recorder
-- Behringer pm1, Elite Core Body Pack, rolls hv6 x2
-- Tascam MH-8
-- Mixer (MixWizard or GB2R)
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
 - DIs (Radial j48 x2, JDI Stereo, JDI, Key largo)
-- Controller keyboard
 - Acoustic pannels for drum corner
-- QuikLok WS-650 (table behind drums)
 - IEC-6X4 (short power cords)
-- Ludwig Supraphonic Snare (5& 6.5)
-- Gator G-TOUR-GRC-1406 (an amazing case)
+- $315 USD GAS A-10 4 Channel Line Level Attenuator
 - Stereo graphic EQ/Limited for Mons
 
 ### Drums
 
-- 80s Simmons pads
-- Yamaha DTX
-- DW pedals
+- Better clutch
+- Drum Dial (alternative helper)
 - Larger kick drum
-- SPD-S
-- Big ass Roto Toms
-- Ludwig Black Beauty
-- Ludwig Supraphonic
-- 2 snare stands (1 for tom)
-- Floor Tom
+- Better clutch
+- DW 5000 pedals
+- Ludwig Black Beauty, Supraphonic
+- 2 snare stands (1 for Rack tom)
+- 16/18 Floor Tom
+- Fix tom mount
 
 #### Crashes to try
 
 - 18"+ K custom Dark Crash
 - 18"+ K Dark Thin Crash
+- 18"+ A Thin Crash
 - 18"+ A Medium thin Crash
 - 18"+ A Adevis crash
-- 16"+ K EFX
-- Crash of doom
-- 20" FX Oriental China Trash
-- 18" A Custom EFX
+- 20"+ K Crash Ride
 
 #### Rides to try
 
 - 22" K custom ride
+- 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
-- 21" K Crash Ride
