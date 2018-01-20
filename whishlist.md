@@ -3,14 +3,7 @@
 - wool socks
 - Backpack
 
-## Shoe sizes for reference
-
-- Blundstones: 9 _(these are ok, maybe a touch too big - can try an 8.5 and stretch them)_
-- Vans taco shoes: 11 _(a touch too big - try a 10 or 10.5 max)_
-- Converse white high tops: 9.5 _(a touch too small on the right foot - try a 10)_
-- Reebok red running shoes: 10.5 _(maybe a touch small, try an 11)_
-
-### Winter boots
+## Winter boots
 
 - $200 Vasque Snowburban Ultradry (OGL #1)
 - $200 Merell Men's Turku Trek Waterproof
@@ -18,7 +11,7 @@
 - $300 Lowa Men's Oslo GTX
 - Classic Timberlands
 
-### Rain/boating boots
+## Rain/boating boots
 
 - $85 Kamik Icebreaker
 - $150 Xtratuf Legacy Insulated 15 in. Boot (Chocolate-Tan)
@@ -28,7 +21,7 @@
 
 ## Kitchen stuff
 
-- 12-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
+- 8-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
 - Round dutch oven (5.5 qts at the very least)
 - Thermapen

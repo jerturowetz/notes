@@ -40,12 +40,6 @@ Champlain, NY
 
 ### For Soup
 
-- Large onion
-- cremini, baby portobella or whatever mushrooms
-- 35 oz can whole tomatoes
-- 2 x 15 ounce can great northern beans, undrained
-- fresh sage
-- fresh rosemary
 - butternut squash
 - curly kale
 
