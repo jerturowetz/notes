@@ -29,6 +29,21 @@ Champlain, NY
 
 ## Groceries
 
+sesame oil
+duck fat
+parm
+sliced cheese
+sambal olek
+decaf tea
+pizza sauce
+butter
+perrier
+eggs
+bqcon
+yogurt
+milk
+pickled eggplant
+pickled beets
 - tomato sauce
 - KD
 - normal mustard
