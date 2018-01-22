@@ -1,11 +1,6 @@
 # Jer's To-Do List
 
-Border Mail Depot
-Box 512
-102 West Service Rd.
-Champlain, NY
-12919
-
+- AC8598 from winnipeg
 - Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -26,24 +21,24 @@ Champlain, NY
 - get my ssh keys from mobile on to the new server 
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
+- Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
 ## Groceries
 
-sesame oil
-duck fat
-parm
-sliced cheese
-sambal olek
-decaf tea
-pizza sauce
-butter
-perrier
-eggs
-bqcon
-yogurt
-milk
-pickled eggplant
-pickled beets
+- sesame oil
+- duck fat, pork back fat
+- parm
+- sliced cheese
+- decaf tea
+- pizza sauce
+- butter
+- perrier
+- eggs
+- bacon
+- yogurt
+- milk
+- pickled eggplant
+- pickled beets
 - tomato sauce
 - KD
 - normal mustard
@@ -53,17 +48,32 @@ pickled beets
 - Toilet paper, paper towels
 - Exterior compost bags
 
-### For Soup
-
-- butternut squash
-- curly kale
-
 ### Asian Grocery
 
 - Rice
 - Udon
 - Dumplings
 - sambal olek
+
+## Movies
+
+- Ladybirdy
+- Beasts of the Southern Wild 
+- Bottle Rocket
+- Drugstore Cowboy
+- THX 1138
+- A Dangerous Method
+- The Fly
+- Shivers
+- My Own Private Idaho
+- Ghost Dog
+- sex, lies, and videotape 
+- The Zookeeper’s Wife
+- The Big Sick
+- A Ghost Story
+- Me and Orson Welles
+- Mood Indigo
+- Nightcrawler
 
 ## Psych help
 

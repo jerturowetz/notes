@@ -1,5 +1,6 @@
 # Wishlist
 
+- $300 Nvidia Shield
 - wool socks
 - Backpack
 
