@@ -1,21 +1,10 @@
 # Jer's To-Do List
 
-
 Border Mail Depot
 Box 512
 102 West Service Rd.
 Champlain, NY
 12919
-
-
-java
-c++
-laravel
-
-node react redux
-
-
-
 
 - Reach out to twin flames
 - retire satis server and use new DO server
@@ -40,17 +29,34 @@ node react redux
 
 ## Groceries
 
+sesame oil
+duck fat
+parm
+sliced cheese
+sambal olek
+decaf tea
+pizza sauce
+butter
+perrier
+eggs
+bqcon
+yogurt
+milk
+pickled eggplant
+pickled beets
 - tomato sauce
-- dry beans an chick peas
-- all bran
 - KD
 - normal mustard
 - Popcorn
 - coarse sea salt
 - Pepper to grind
-- cheddar cheese
 - Toilet paper, paper towels
 - Exterior compost bags
+
+### For Soup
+
+- butternut squash
+- curly kale
 
 ### Asian Grocery
 
