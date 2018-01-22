@@ -62,6 +62,7 @@
 - Bottle Rocket
 - Drugstore Cowboy
 - THX 1138
+- Columbus
 - A Dangerous Method
 - The Fly
 - Shivers
