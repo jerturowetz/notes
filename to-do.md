@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- AC8598 from winnipeg
 - Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -22,6 +21,11 @@
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+
+## Games
+
+- Baldurs gate I & II
+- Neverwinter nights II (& 1?)
 
 ## Groceries
 
@@ -57,22 +61,14 @@
 
 ## Movies
 
-- Ladybirdy
-- Beasts of the Southern Wild 
+- Ladybird
+- Beasts of the Southern Wild
 - Bottle Rocket
-- Drugstore Cowboy
 - THX 1138
 - Columbus
-- A Dangerous Method
-- The Fly
-- Shivers
-- My Own Private Idaho
 - Ghost Dog
-- sex, lies, and videotape 
 - The Zookeeper’s Wife
-- The Big Sick
 - A Ghost Story
-- Me and Orson Welles
 - Mood Indigo
 - Nightcrawler
 
