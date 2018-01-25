@@ -119,7 +119,7 @@ perrier
 
 ## Outstanding Bills
 
-- ?? New communauto
+- $381.60 New communauto
 - $150 Renew license
 - $300 Kate furniture
 - $125 Mickey

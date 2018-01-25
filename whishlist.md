@@ -105,7 +105,6 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-
 - $20 ea Naiant inline attenuator x4
 - Gator G-TOUR-GRC-1406 (an amazing case)
 - K&M 23323 for snare bottom
