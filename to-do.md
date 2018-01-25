@@ -1,5 +1,30 @@
 # Jer's To-Do List
 
+
+eggs
+milk
+coffee
+codfee filters #2
+meat
+bread
+celery ?
+carrots
+butter
+many cheeses( sliced, parm, cheddar)
+yogurt
+kd
+all brand
+frozen spinach
+caffeine free tea
+
+oranges
+toilet paper, paper towels
+perrier
+
+
+
+
+
 - Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
