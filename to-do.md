@@ -22,10 +22,20 @@
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
-## Games
+## Roms
 
-- Baldurs gate I & II
-- Neverwinter nights II (& 1?)
+- [Genesis] Shining Force II
+- [snes] Secret of Mana
+- [snes] Super Metroid
+- [snes] Chrono Trigger
+- [snes] Shadowrun
+- [snes] Final Fantasy IV
+- [snes] Final Fantasy V
+- [snes] Final Fantasy VI
+- [snes] A link to the past
+- [snes] Earthbound
+- [nes] Legend of Zelda
+- [ps1] xenogears
 
 ## Groceries
 
