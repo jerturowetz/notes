@@ -1,11 +1,5 @@
 # Jer's To-Do List
 
-Border Mail Depot
-Box 512
-102 West Service Rd.
-Champlain, NY
-12919
-
 - Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -26,24 +20,47 @@ Champlain, NY
 - get my ssh keys from mobile on to the new server 
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
+- Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+
+## Roms
+
+- [Genesis] Shining Force II
+- [snes] Secret of Mana
+- [snes] Super Metroid
+- [snes] Chrono Trigger
+- [snes] Shadowrun
+- [snes] Final Fantasy IV
+- [snes] Final Fantasy V
+- [snes] Final Fantasy VI
+- [snes] A link to the past
+- [snes] Earthbound
+- [nes] Legend of Zelda
+- [ps1] xenogears
 
 ## Groceries
 
-sesame oil
-duck fat
-parm
-sliced cheese
-sambal olek
-decaf tea
-pizza sauce
-butter
-perrier
-eggs
-bqcon
-yogurt
-milk
-pickled eggplant
-pickled beets
+- bread
+- celery
+- carrots
+- all bran
+- frozen spinach
+- oranges
+- meat
+- sesame oil
+- duck fat, pork back fat
+- parm, cheddar
+- sliced cheese
+- decaf tea
+- coffee
+- pizza sauce
+- butter
+- perrier
+- eggs
+- bacon
+- yogurt
+- milk
+- pickled eggplant
+- pickled beets
 - tomato sauce
 - KD
 - normal mustard
@@ -53,17 +70,25 @@ pickled beets
 - Toilet paper, paper towels
 - Exterior compost bags
 
-### For Soup
-
-- butternut squash
-- curly kale
-
 ### Asian Grocery
 
 - Rice
 - Udon
 - Dumplings
 - sambal olek
+
+## Movies
+
+- Ladybird
+- Beasts of the Southern Wild
+- Bottle Rocket
+- THX 1138
+- Columbus
+- Ghost Dog
+- The Zookeeper’s Wife
+- A Ghost Story
+- Mood Indigo
+- Nightcrawler
 
 ## Psych help
 
@@ -77,7 +102,7 @@ pickled beets
 
 ## Outstanding Bills
 
-- ?? New communauto
+- $381.60 New communauto
 - $150 Renew license
 - $300 Kate furniture
 - $125 Mickey

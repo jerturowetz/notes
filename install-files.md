@@ -56,7 +56,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - NodeJS
 - Oracle VirtualBox
 - PO Edit
-- Postman
 - Python 2 or 3
 - Quicktime
 - Ruby
@@ -66,7 +65,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Slack desktop
 - Stardock Fences
 - Steam
-- Tag Scanner
+- MP3 Tag
 - TeamViewer
 - Twitter
 - uTorrent
@@ -136,7 +135,6 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
 ## Stuff to sync
 
-- Filezzilla
 - HeidiSQL
 - Verify windows identity
 - VS Code settings
@@ -158,7 +156,3 @@ Run `regedit` and find the following key:
     HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
 
 Right click and delete the whole folder
-
-## Steam games start menu folder fix
-
-    mklink /J "%USERPROFILE%\Start Menu\Programs\Steam" "%USERPROFILE%\Start Menu\Programs\Games\Steam"
