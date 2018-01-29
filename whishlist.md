@@ -22,6 +22,7 @@
 
 ## Kitchen stuff
 
+- $10 OXO Good Grips Large Silicone Turner (pancakes, burgers)
 - 8-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
 - Round dutch oven (5.5 qts at the very least)

@@ -156,3 +156,9 @@ Run `regedit` and find the following key:
     HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
 
 Right click and delete the whole folder
+
+## Windows 10 Pro - reset the start menu
+
+Erase the following reg key:
+
+    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudStore\Store\Cache\DefaultAccount

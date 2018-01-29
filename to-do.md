@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- Reach out to twin flames
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
