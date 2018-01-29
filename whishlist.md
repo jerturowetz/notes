@@ -60,11 +60,10 @@
 ## Priority cables
 
 - 8 channel TRS snake
-- Short XLRs
 - 3' TRS to XLR male
 - 3' TRS to XLR female
-- 3' TRS
-- 3' XLR
+- 2' TRS x4
+- 2' XLR x4
 - 10' XLR
 - 35' XLRs
 - 50' XLRs

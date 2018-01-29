@@ -39,6 +39,7 @@
 
 ## Groceries
 
+- brown sugar
 - bread
 - celery
 - carrots
