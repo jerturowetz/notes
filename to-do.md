@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+Bell home hub
+http://192.168.2.1/
+*joo3iXKR79v%Era
+
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
@@ -23,18 +27,22 @@
 
 ## Roms
 
-- [Genesis] Shining Force II
-- [snes] Secret of Mana
-- [snes] Super Metroid
-- [snes] Chrono Trigger
-- [snes] Shadowrun
-- [snes] Final Fantasy IV
-- [snes] Final Fantasy V
-- [snes] Final Fantasy VI
-- [snes] A link to the past
-- [snes] Earthbound
-- [nes] Legend of Zelda
+Find at least 1 game for each and test:
+
+Sega Dreamcast
+Nintendo 64
+Nintendo Gamecube
+Sony PSP
+Sony PS2
+
+- [ps1] Final Fantasy VII
+- [ps1] Final Fantasy VIII
+- [ps1] Final Fantasy IX
+- [ps1] Chrono Cross
+- [ps1] MegaMan (a bunch)
+- [ps1] Mortal Kombat Trilogy
 - [ps1] xenogears
+- Other zelda games
 
 ## Groceries
 

@@ -74,6 +74,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
+- LaunchBox & RetroArch (_Do not_ use the installer version)
 
 ## PHP
 

@@ -1,5 +1,8 @@
 # Wishlist
 
+- XBOX One controller
+- PS4 controller
+- AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
 - Backpack
@@ -127,7 +130,6 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ### Drums
 
-- Better clutch
 - Drum Dial (alternative helper)
 - Larger kick drum
 - Better clutch
