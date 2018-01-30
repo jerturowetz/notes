@@ -1,13 +1,3 @@
-## time tracking for an actual build
-
-2x3 hr metings with clients
-15 hr research & assembling examples
-7hrs assembling plan 
-single page concept design - 5hrs
-
-
-
-
 # BKDSN: A workflow for modern web development
 
 This document is my attempt to give form to what can sometimes feel like an overwhelming number of tasks to keep in mind when building web sites. I feel I need this document because, as a web developer who works mostly unsupervised, I have a lot to keep in mind.

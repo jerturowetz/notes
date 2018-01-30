@@ -1,5 +1,12 @@
 # Old list for review & delete
 
+## time tracking for an actual build
+
+2x3 hr metings with clients
+15 hr research & assembling examples
+7hrs assembling plan 
+single page concept design - 5hrs
+
 ## website process
 
 editorconfig
