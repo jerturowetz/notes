@@ -32,12 +32,17 @@
 
 ## Groceries
 
+- butter
+- perrier
+- KD
+- curry powder
+- 1 can 10 oz (284 ml) condensed tomato soup, undiluted
+
+
 - carrots, celery, potatoes
 - bacon
 - brown sugar
 - bread
-- celery
-- carrots
 - all bran
 - frozen spinach
 - oranges
@@ -49,16 +54,11 @@
 - decaf tea
 - coffee
 - pizza sauce
-- butter
-- perrier
 - eggs
-- bacon
 - yogurt
-- milk
 - pickled eggplant
 - pickled beets
 - tomato sauce
-- KD
 - normal mustard
 - Popcorn
 - coarse sea salt
@@ -98,7 +98,6 @@
 ## Psych help
 
 - Call back both doctors
-- [How much is a session](http://objectif-couple.com)
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
@@ -107,12 +106,11 @@
 
 ## Outstanding Bills
 
-- $381.60 New communauto
+- $131.60 (381.60-250) New communauto
 - $150 Renew license
 - $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
-- $?? Dad phone
 - $200 Agg, Andrew, Joe gifts
 
 ## Musician's Insurance

@@ -1,7 +1,5 @@
 # Wishlist
 
-- XBOX One controller
-- PS4 controller
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
