@@ -1,10 +1,8 @@
 # Jer's To-Do List
 
-
 d sookman
 514-934-1934
 ext 34290
-
 
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -39,15 +37,9 @@ ext 34290
 ## Groceries
 
 - butter
-- perrier
 - KD
-- curry powder
-- 1 can 10 oz (284 ml) condensed tomato soup, undiluted
-
-
 - carrots, celery, potatoes
 - bacon
-- brown sugar
 - bread
 - all bran
 - frozen spinach
@@ -67,7 +59,6 @@ ext 34290
 - tomato sauce
 - normal mustard
 - Popcorn
-- coarse sea salt
 - Pepper to grind
 - Toilet paper, paper towels
 - Exterior compost bags
