@@ -1,9 +1,5 @@
 # Jer's To-Do List
 
-d sookman
-514-934-1934
-ext 34290
-
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
@@ -24,15 +20,6 @@ ext 34290
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
-
-## Roms
-
-- [ps1] Final Fantasy VII
-- [ps1] Final Fantasy VIII
-- [ps1] Final Fantasy IX
-- [ps1] Chrono Cross
-- [ps1] MegaMan (a bunch)
-- [ps1] xenogears
 
 ## Groceries
 
@@ -70,30 +57,9 @@ ext 34290
 - Dumplings
 - sambal olek
 
-## Movies
-
-- Ladybird
-- Beasts of the Southern Wild
-- Bottle Rocket
-- THX 1138
-- Columbus
-- Ghost Dog
-- The Zookeeper’s Wife
-- A Ghost Story
-- Mood Indigo
-- Nightcrawler
-- On body and soul
-- Nightcrawler
-- Altered Carbon
-- The Way Back
-- Oldboy
-- The Trust
-- I don't feel at home in this world anymore
-- Boys Don't Cry
-- Dogville
-
 ## Psych help
 
+- d sookman, 514-934-1934, ext 34290
 - Call back both doctors
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)

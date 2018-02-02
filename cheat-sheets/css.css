@@ -51,3 +51,10 @@ h1 + p:first-letter {
 	font-size: 2em;
 	line-height: 0;  /* The line-height must be adjusted to compensate for the increased font size, otherwise the leading for the overall line is disrupted. I find that any values below 0.4 work. */
 }
+
+/* CSS Attribute selectors are cool */
+input[name=value]  { /* Exact match */ }
+input[name~=value] { /* Contains word */ }
+input[name*=value] { /* Contains string */ }
+input[name^=value] { /* Starts with */ }
+input[name$=value] { /* Ends with */ }
