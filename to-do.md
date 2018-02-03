@@ -1,8 +1,5 @@
 # Jer's To-Do List
 
-call me by your bame 
-
-
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
@@ -51,7 +48,10 @@ call me by your bame
 - Popcorn
 - Pepper to grind
 - Toilet paper, paper towels
+- Kleenex
 - Exterior compost bags
+- Draino
+- Better abrasive sponges
 
 ### Asian Grocery
 

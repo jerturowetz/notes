@@ -1,5 +1,10 @@
 # Wishlist
 
+is floor snake box (8xlr + whatevere else possible)
+8chnl trs snake(ideally 8chnl trs / db25)
+4 xlr cables for mics
+2 short xlr for pa
+
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
