@@ -1,29 +1,20 @@
 # Feb 16th Chalet Trip
 
-*UPDATES*
- • _locations4saisons_ chalets are booked for our dates
- • _EXITCHALETS.COM_ are booked for our dates
- • _ChaletsSpaNature_ are booked for our dates
- • Airbnb's _Superbe chalet bord du lac!_ is not available
+Honework complete, heres what is available:
 
-*Heard back from*
 • [PL-25324](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=25324)
      900$, William, 514 826 9821
  • [PL-8043](https://www.chaletsauquebec.com/FicheChalet.aspx?IdChalet=8403)
+     810$, Daniel, 514-424-5155
  • [The Fairytale Lodge](https://www.airbnb.ca/rooms/9007244?s=51)
+     982$, Joel
+ 
+ 
+ my vote is for PL-8043, but 2 couples would need to sleep on pull outs 
+ 
  
 
 *Waiting to hear back from*
  • [Ô Kiosque](https://www.airbnb.ca/rooms/21137714?s=51)
  • [DI-24801](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=24801)
- • [DI-13090](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=13090)
  • [DI-13863](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=13863)
-
-Not available
- • [DI-14154](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=14154)
- • [DI-1248](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=1248)
- • [DI-19535](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=19535)
- • [DI-23541](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=23541)
- • [PL-7831](https://www.chaletsauquebec.com/en/FicheChalet.aspx?IdChalet=7831)
-
- 
