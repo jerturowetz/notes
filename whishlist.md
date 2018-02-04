@@ -1,10 +1,5 @@
 # Wishlist
 
-is floor snake box (8xlr + whatevere else possible)
-8chnl trs snake(ideally 8chnl trs / db25)
-4 xlr cables for mics
-2 short xlr for pa
-
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
@@ -28,7 +23,6 @@ is floor snake box (8xlr + whatevere else possible)
 
 ## Kitchen stuff
 
-- $10 OXO Good Grips Large Silicone Turner (pancakes, burgers)
 - 8-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
 - Round dutch oven (5.5 qts at the very least)
@@ -64,16 +58,12 @@ is floor snake box (8xlr + whatevere else possible)
 - cretien book CATHY
 - tshirt "not really drinking"
 
-## Priority cables
+## Mixer connections
 
-- 8 channel TRS snake
-- 3' TRS to XLR male
-- 3' TRS to XLR female
-- 2' TRS x4
-- 2' XLR x4
-- 10' XLR
-- 35' XLRs
-- 50' XLRs
+- Snake box on floor. At least 8 XLR - anything else is gravy.
+- 8 channel TRS snake (TRS >> DB25 >> TRS would be ideal)
+- 4 normal & 2 short XLR cables
+- $20 ea Naiant inline attenuator x4
 
 ## Workshop & soldering station
 
@@ -111,7 +101,6 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-- $20 ea Naiant inline attenuator x4
 - Gator G-TOUR-GRC-1406 (an amazing case)
 - K&M 23323 for snare bottom
 - K&M 259 Short boom stand x2 (amps / toms)
