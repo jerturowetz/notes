@@ -25,7 +25,7 @@
 
 - butter
 - KD
-- carrots, celery, potatoes
+- celery, potatoes
 - bacon
 - bread
 - all bran
@@ -38,9 +38,7 @@
 - sliced cheese
 - decaf tea
 - coffee
-- pizza sauce
 - eggs
-- yogurt
 - pickled eggplant
 - pickled beets
 - tomato sauce
