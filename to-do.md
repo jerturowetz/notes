@@ -35,22 +35,16 @@ Total: 3hrs
 
 ## Groceries
 
-- butter
 - KD
-- celery, potatoes
+- potatoes
 - bacon
-- bread
 - all bran
 - frozen spinach
 - oranges
 - meat
 - sesame oil
-- duck fat, pork back fat
 - parm, cheddar
-- sliced cheese
 - decaf tea
-- coffee
-- eggs
 - pickled eggplant
 - pickled beets
 - tomato sauce
