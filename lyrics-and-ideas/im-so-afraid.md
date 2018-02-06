@@ -9,6 +9,7 @@ Salt stained teeth
 Salt stained leash
 
 ## PRE CHORUS
+
 I'm so afraid
 Didn't think feet could tread this lightly
 At this pace

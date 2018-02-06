@@ -5,14 +5,13 @@
 - Change title on website, Linked in & CV
 - Add Tom's letter of rec to cv
 - Reach out to people in the local community
-- Organize postings & Apply
 - Get active on Github (build something useful from onenote)
-- what are my daily checkup goals:
-- get back to recruiters
-- review & apply, same day
-- keep track of where I applied
+- Daily checkup goals:
+  - get back to recruiters
+  - review & apply, same day
+  - keep track of where I applied
 
-## Review online presence and adjust profiles & taglines - upload resume where necess
+## Adjust profiles & taglines. Upload resume where necess
 
 - Github
 - Bitbucket
