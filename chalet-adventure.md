@@ -50,7 +50,7 @@ All snowshoe trails are puppy friendly. I'm presently looking in to the cost of 
 - **Saturday breakfast**: Juan
 - **Saturday lunch fixins:** Renu & Padraig
 - **Saturday dinner:** Caitlin & Jeremy (Ricardo welcome)
-- **Sunday breakfast:** Free for all?
+- **Sunday breakfast:** ??
 
 ## Cars (by friday departure time)
 
