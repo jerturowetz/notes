@@ -54,7 +54,7 @@ All snowshoe trails are puppy friendly. I'm presently looking in to the cost of 
 
 ## Cars (by friday departure time)
 
-- 2pm : R&R, Caitlin
+- afternoonish : R&R, Caitlin
 - ?? 5pm : Juan, Irena, Lola
 - 7pm: Zoe, G
 - 11pm : Jeremy
