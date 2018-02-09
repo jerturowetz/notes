@@ -2,6 +2,7 @@
 
 ## Important notes
 
+Bookmark this link: [`bit.ly/chalet-fun`](https://bit.ly/chalet-fun)
 Don't forget sheets & towels!
 
 ## Chalet details
@@ -55,7 +56,6 @@ All snowshoe trails are puppy friendly. I'm presently looking in to the cost of 
 ## Cars (by friday departure time)
 
 - afternoon : R&R, Caitlin, Nick, Renu, Pad
-- ~~5pm : Juan, Irena, Lola~~
 - 7pm: Zoe, G, Lola, Juan, Irena
 - 11pm : Jeremy
 
