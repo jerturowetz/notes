@@ -163,3 +163,11 @@ Right click and delete the whole folder
 Erase the following reg key:
 
     HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudStore\Store\Cache\DefaultAccount
+
+## Change the annoying MS Office `Custom Office Templates` folder location
+
+- create a folder like `%AppData%\Microsoft\Templates`
+- Open _each_ MS office application and go to _File >> Options >> Save_
+- Set `Default personal templates location` to that folder
+
+*Note* You might also want to go to `Save` options and set the default save path to desktop
