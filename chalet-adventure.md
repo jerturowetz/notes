@@ -54,12 +54,10 @@ All snowshoe trails are puppy friendly. I'm presently looking in to the cost of 
 
 ## Cars (by friday departure time)
 
-- afternoonish : R&R, Caitlin
-- ?? 5pm : Juan, Irena, Lola
-- 7pm: Zoe, G
+- afternoon : R&R, Caitlin, Nick, Renu, Pad
+- ~~5pm : Juan, Irena, Lola~~
+- 7pm: Zoe, G, Lola, Juan, Irena
 - 11pm : Jeremy
-
-*To be assigned:* Nick, Renu & Pad
 
 [St-Donat Google maps link]: https://www.google.ca/maps/place/Saint-Donat,+Saint-Donat-de-Montcalm,+QC+J0T+2C0/@46.3195144,-74.2247645,16z/data=!3m1!4b1!4m5!3m4!1s0x4ccf62297d3f5f83:0x1048b3cee74beeee!8m2!3d46.319515!4d-74.2203871
 
