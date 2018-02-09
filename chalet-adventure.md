@@ -2,8 +2,8 @@
 
 ## Important notes
 
-Bookmark this link: [`bit.ly/chalet-fun`](https://bit.ly/chalet-fun)
-Don't forget sheets & towels!
+- Bookmark this link: [`bit.ly/chalet-fun`](https://bit.ly/chalet-fun)
+- Don't forget sheets & towels!
 
 ## Chalet details
 
