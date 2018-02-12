@@ -37,18 +37,6 @@
 - The Breadwinner
 - Elle
 
-## Theotek Groupe :: Wordpress site clone
-
-- Test access credential
-- Resolving access credentials
-- Set up SSH access
-- Copy site folder
-- Duplicate database
-- Test database access
-- Set up subdomain for newsite.theotekgroupe.ca
-
-Total: 3hrs
-
 ## Groceries
 
 - KD
