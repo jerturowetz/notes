@@ -1,5 +1,10 @@
 # Jer's To-Do List
 
+slack
+teamviewer
+skyfonts
+dropbox
+
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
