@@ -1,9 +1,14 @@
 # Jer's To-Do List
 
-slack
-teamviewer
-skyfonts
-dropbox
+## Bureau en gros stuff
+
+- 8x8 in bright paper x3 (3 sheets)
+- 5.5 in woody or whatever for exterior x2 (1 sheet)
+- 5 in squares x 12 - various patterns (6 sheets)
+- glue
+- double sided tape
+
+
 
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
@@ -85,7 +90,7 @@ dropbox
 
 ## Outstanding Bills
 
-- $131.60 (381.60-250) New communauto
+- $0 (381.60-250-140) New communauto
 - $150 Renew license
 - $300 Kate furniture
 - $125 Mickey

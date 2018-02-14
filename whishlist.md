@@ -1,5 +1,13 @@
 # Wishlist
 
+ruler
+circut scissors
+helix metal ruler
+double sided tape
+patterns
+score tool
+
+
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
