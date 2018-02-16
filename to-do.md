@@ -2,14 +2,6 @@
 
 ## Bureau en gros stuff
 
-- 8x8 in bright paper x3 (3 sheets)
-- 5.5 in woody or whatever for exterior x2 (1 sheet)
-- 5 in squares x 12 - various patterns (6 sheets)
-- glue
-- double sided tape
-
-
-
 - retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
