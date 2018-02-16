@@ -18,6 +18,8 @@
 
 A few minutes north of the cabin (by car) is the town of [St-Donat][St-Donat Google maps link] where there are grocery stores, restauraunts and a pharmacy in the event we need anything.
 
+[La Boulangerie de Village](https://www.google.ca/maps/place/La+Boulangerie+du+Village/@46.3196812,-74.2251462,17z/data=!3m1!4b1!4m5!3m4!1s0x4ccf622e3555f835:0xd97ed2d8ba97916f!8m2!3d46.3196812!4d-74.2229575)
+
 ### Local skiing
 
 - Ski Garceau  
