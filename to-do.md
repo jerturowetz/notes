@@ -2,7 +2,7 @@
 
 ## Bureau en gros stuff
 
-- retire satis server and use new DO server
+- Retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
 - Clean up gists
@@ -82,12 +82,12 @@
 
 ## Outstanding Bills
 
-- $0 (381.60-250-140) New communauto
-- $150 Renew license
 - $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
+- ~~$0 (381.60-250-140) New communauto~~
+- ~~$150 Renew license~~
 
 ## Musician's Insurance
 

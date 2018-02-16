@@ -1,13 +1,5 @@
 # Wishlist
 
-ruler
-circut scissors
-helix metal ruler
-double sided tape
-patterns
-score tool
-
-
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
@@ -68,7 +60,7 @@ score tool
 
 ## Mixer connections
 
-- Snake box on floor. At least 8 XLR - anything else is gravy.
+- Snake box on floor. At least 8 XLR - anything else is gravy
 - 8 channel TRS snake (TRS >> DB25 >> TRS would be ideal)
 - 4 normal & 2 short XLR cables
 - $20 ea Naiant inline attenuator x4
