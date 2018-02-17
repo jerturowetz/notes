@@ -1,28 +1,5 @@
 # Feb 16-18 :: Chalet Adventure Dinner Plan
 
-## Pickup from home
-
-- Dijon Mustard
-- teaspoon cumin seeds
-- teaspoon coriander seeds
-- turmeric
-- Aleppo pepper or mild chili powder
-- star anise
-- cinnamon sticks
-- cloves
-- ground nutmeg
-- 1/2 cup brown sugar (for wine)
-- 2 Tbsp mulling spices
-- 1 Red Onion
-
-Gear
-
-- Cutting Board
-- Baking Sheet
-- Zester
-
-## Recipies
-
 [Spiced Apple Cider](http://www.foodnetwork.ca/recipe/spiced-apple-cider/9732/)
 [Mulled Wine](http://www.foodnetwork.ca/recipe/winter-mulled-wine/15085/)
 [Roasted Carrots With Turmeric and Cumin](https://cooking.nytimes.com/recipes/1015947-roasted-carrots-with-turmeric-and-cumin)
@@ -33,6 +10,10 @@ Gear
 
 [Cottage Stew](https://www.ricardocuisine.com/en/recipes/5694-cottage-stew)
 [WINTER VEGETABLE MINESTRONE](https://www.ricardocuisine.com/en/recipes/4181-winter-vegetable-minestrone)
+
+
+- teaspoon coriander seeds
+- turmeric
 
 Bread at the bakery
 Veggies & dip
