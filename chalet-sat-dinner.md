@@ -1,33 +1,5 @@
 # Feb 16-18 :: Chalet Adventure Dinner Plan
 
-## Groceries
-
-- 2-4 L apple cider
-- Oranges
-- 2 Tbsp mulling spices
-- Bottle red wine
-- Green beans
-- Chinese 5 spice
-- 10 medium carrots (+ 4 cups) - big ass bag
-- olive oil
-- fresh thyme leaves
-- fresh mint
-- bacon
-- 6 cups (720 g) Brussels sprouts
-- 1 cup chicken broth/Apple juice
-- 3 Chickens
-- Potatoes
-- Butter
-- Eggs
-- 1 head kale
-- 3 ears Corn
-- 1 Red Onion
-- Parm, Pecorino
-- 2 Lemons
-- 2 Honeycrisp Apples
-- 1/4 cup dates
-- almonds or other sliced nut
-
 ## Pickup from home
 
 - Dijon Mustard
@@ -40,10 +12,11 @@
 - cloves
 - ground nutmeg
 - 1/2 cup brown sugar (for wine)
+- 2 Tbsp mulling spices
+- 1 Red Onion
 
 Gear
 
-- Measuring Cup
 - Cutting Board
 - Baking Sheet
 - Zester
