@@ -1,7 +1,5 @@
 # Jer's To-Do List
 
-## Bureau en gros stuff
-
 - Retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
@@ -25,19 +23,25 @@
 
 ## Some flicks
 
-- The Prophet
 - Ghost Dog: The Way of the Samurai
 - Life of Pi
-- Paddington 2
-- Dunkirk
 - Good Time
 - Nightcrawler
 - Fantastic Mr. Fox
 - My Neighbor Totoro
-- Howl's Moving Castle
 - Ernest & Celestine
-- The Breadwinner
 - Elle
+- Call me by your name
+- Phantom Thread
+- The Post
+- The Shape of Water
+- I, Tonya
+- The Breadwinner
+- Ferdinand
+- Mudbound
+- On Body and Soul
+- The Square
+- Timbuktu
 
 ## Groceries
 
@@ -86,8 +90,6 @@
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
-- ~~$0 (381.60-250-140) New communauto~~
-- ~~$150 Renew license~~
 
 ## Musician's Insurance
 
