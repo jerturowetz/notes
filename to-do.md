@@ -24,13 +24,9 @@
 ## Some flicks
 
 - Ghost Dog: The Way of the Samurai
-- Life of Pi
-- Good Time
-- Nightcrawler
 - Fantastic Mr. Fox
 - My Neighbor Totoro
 - Ernest & Celestine
-- Elle
 - Call me by your name
 - Phantom Thread
 - The Post
@@ -40,8 +36,6 @@
 - Ferdinand
 - Mudbound
 - On Body and Soul
-- The Square
-- Timbuktu
 
 ## Groceries
 
@@ -89,6 +83,7 @@
 - $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
+- $178 communauto
 - $200 Agg, Andrew, Joe gifts
 
 ## Musician's Insurance
