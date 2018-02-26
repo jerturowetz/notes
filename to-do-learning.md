@@ -1,5 +1,9 @@
 # To do : Code School
 
+[Javascript learning resources](http://joellongie.com/javascript/)
+[Sass letter by letter](https://www.sitepoint.com/premium/courses/atoz-sass-2977)
+
+
 [The Events Calendar Themer guide](https://theeventscalendar.com/knowledgebase/themers-guide/?utm_medium=plugin-tec&utm_source=generaltab&utm_campaign=in-app)
 [WPML Dev guide](https://wpml.org/documentation/support/)
 [Servers for hackers](https://serversforhackers.com/)

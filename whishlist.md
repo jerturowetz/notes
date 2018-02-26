@@ -4,6 +4,7 @@
 - $300 Nvidia Shield
 - wool socks
 - Backpack
+- better usb
 
 ## Winter boots
 

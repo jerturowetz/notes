@@ -1,4 +1,4 @@
-# Cheat sheet : GLOB
+# Cheat sheet : globs
 
 In computer programming, in particular in a Unix environment, glob patterns specify _sets of filenames_ with wildcard characters.
 
