@@ -35,16 +35,18 @@
 
 ## Groceries
 
+- #2 coffee filters
+- milk
 - KD
 - potatoes
 - bacon
-- all bran
+- Meat
 - frozen spinach
 - oranges
-- meat
-- sesame oil
 - parm, cheddar
+- sliced cheese
 - decaf tea
+- sesame oil
 - pickled eggplant
 - pickled beets
 - tomato sauce
@@ -54,7 +56,6 @@
 - Toilet paper, paper towels
 - Kleenex
 - Exterior compost bags
-- Draino
 - Better abrasive sponges
 
 ### Asian Grocery
