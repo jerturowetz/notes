@@ -1,4 +1,4 @@
-# PHP Codesniffer & Wordpress rule set
+# VS code with PHP Codesniffer & the Wordpress rule set
 
 This is a method to install phpcs & wpcs on a per-project basis. This method is unique to vscode projects as you wont have phpcs available from the command line (add nothing to $PATH)
 
