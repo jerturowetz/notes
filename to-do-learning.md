@@ -2,6 +2,11 @@
 
 [Javascript learning resources](http://joellongie.com/javascript/)
 [Sass letter by letter](https://www.sitepoint.com/premium/courses/atoz-sass-2977)
+[NPM as a build tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
+[Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+[PHPCS - Fixing Errors Automatically](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Fixing-Errors-Automatically)
+
+
 
 
 [The Events Calendar Themer guide](https://theeventscalendar.com/knowledgebase/themers-guide/?utm_medium=plugin-tec&utm_source=generaltab&utm_campaign=in-app)
