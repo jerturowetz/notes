@@ -2,31 +2,9 @@
 
 ## Flicks
 
-- Ghost Dog: The Way of the Samurai
-- Fantastic Mr. Fox
-- My Neighbor Totoro
-- Ernest & Celestine
-- Call me by your name
-- The Breadwinner
-- Ferdinand
-- Mudbound
 - On Body and Soul
 - [Are we not cats?](https://trailers.apple.com/trailers/independent/are-we-not-cats/)
 - [November](https://trailers.apple.com/trailers/oscilloscope/november/)
-
-### The Rock
-
-- Fast Five (2011)
-- Fast & Furious 6 (2013)
-- Furious 7 (2015)
-- The Fate of the Furious (2017)
-- Central Intelligence (2015)
-- San Andreas (2015)
-- Pain & Gain (2013)
-- Jumanji: Welcome to the Jungle (2017)
-- Baywatch (2017)
-- G.I. Joe: Retaliation (2013)
-- Hercules (2014 film)
 
 ## General
 
