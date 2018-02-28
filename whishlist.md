@@ -4,7 +4,8 @@
 - $300 Nvidia Shield
 - wool socks
 - Backpack
-- better usb
+- better usb key
+- $50 8Bitdo Controller
 
 ## Winter boots
 
@@ -40,8 +41,8 @@
 
 ## Kate stuff
 
+- [Make a sweater](https://www.entripy.com/)
 - Panda shirt cross-eyed-bear lyrics
-- Basket of picnic stuffs
 - $500 Banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
 - $90 suck it hoodie (Tshirt time.com)
@@ -56,6 +57,7 @@
 - Horseback riding
 - Stewart Museaum
 - Danceland
+- santiago ramón y cajal prints
 - cretien book CATHY
 - tshirt "not really drinking"
 - [more boxes](http://www.instructables.com/id/How-to-Make-an-Exploding-Box-DIY-Paper-Crafts-Wedd/)
