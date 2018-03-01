@@ -1,13 +1,8 @@
 # Jer's To-Do List
 
-## Flicks
-
-- On Body and Soul
-- [Are we not cats?](https://trailers.apple.com/trailers/independent/are-we-not-cats/)
-- [November](https://trailers.apple.com/trailers/oscilloscope/november/)
-
 ## General
 
+- Build jon a form for updating his catalogue
 - Retire satis server and use new DO server
 - delete satis ssh key from Github & bitbucket once server retired
 - Another matching muffin tin from provigo
@@ -31,33 +26,31 @@
 
 ## Groceries
 
-- no 2 coffee filters
-- dish soap
-- toothpaste
-- floss
-- sponges
-- mustard
-- milk
+- Dish soap
+- Toothpaste
+- Floss
+- Allergy pills
+
 - KD
-- potatoes
-- bacon
 - Meat
 - frozen spinach
 - oranges
 - parm, cheddar
-- sliced cheese
 - decaf tea
 - sesame oil
 - pickled eggplant
 - pickled beets
 - tomato sauce
-- normal mustard
+- mustard
 - Popcorn
 - Pepper to grind
-- Toilet paper, paper towels
+
+- Toilet paper
+- Paper towels
 - Kleenex
 - Exterior compost bags
 - Better abrasive sponges
+- Bigger recycling bags
 
 ### Asian Grocery
 
@@ -81,8 +74,8 @@
 - $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
-- $178 communauto
 - $200 Agg, Andrew, Joe gifts
+- ~~$178 communauto~~
 
 ## Musician's Insurance
 
