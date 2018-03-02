@@ -1,5 +1,9 @@
 # Cheat sheet : Jekyll
 
+When we run Jekyll’s build process, we can specify which config files we want it to use. If we specify multiple config files, Jekyll will merge the configurations, defaulting to the last specified config if there are conflicts.
+
+
+
 ## Useful `_config.yml` defaults
 
     highlighter: rouge
