@@ -1,21 +1,5 @@
 # Jer's guide to website SEO & localization
 
-
-geotargeting in webmaster tools
-{
-On the Webmaster Tools Home page, click the site you want
-Under Site configuration, click Settings
-In the Geographic target section, select the option you want
-
-
-If you want to ensure that your site is not associated with any country or region, select Unlisted.
-
-
-
-
-
-
-
 ## A guide mostly for web developers dealing with Canadian & Quebec web properties
 
 Before we begin please note that I've omitted information regarding setting locvalization via http headers as I mostly use 3rd parties to serve client data (i.e. WPEngine) and, as a result, I can't mess around with servers. If you do have the skill/ability to mess around with your website servers http headers and are taking steps towards seo & localization, I'd urge you to explore this subject as it's probably the best way to set language information.
@@ -41,8 +25,17 @@ Before we begin please note that I've omitted information regarding setting locv
 - Review big guide if possible & see if Bing has a webmaster tools thingy
 - Review how to design AMP pages
 - Create a website checklist that using tools for analysis, reviewing webmaster tools, implementing cards etc
+- is there a similar setting for setting gegraphic target for bing
 
 ## Localization for websites
+
+### Set Geographic target in google webmaster tools
+
+- On the Webmaster Tools Home page, click the site you want
+- Under Site configuration, click Settings
+- In the Geographic target section, select the option you want
+
+If you want to ensure that your site is not associated with any country or region, select Unlisted
 
 ### Embed language metadata in the document
 
