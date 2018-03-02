@@ -1,5 +1,7 @@
 # Jer's guide to website SEO & localization
 
+First, off, always use absolute URLS!
+
 ## A guide mostly for web developers dealing with Canadian & Quebec web properties
 
 Before we begin please note that I've omitted information regarding setting locvalization via http headers as I mostly use 3rd parties to serve client data (i.e. WPEngine) and, as a result, I can't mess around with servers. If you do have the skill/ability to mess around with your website servers http headers and are taking steps towards seo & localization, I'd urge you to explore this subject as it's probably the best way to set language information.
@@ -71,12 +73,31 @@ Everey variant should appear on all pages mentioned, inclusing the page you're m
     <link rel="alternate" href="http://example.com/en-au" hreflang="en-au" />
     <link rel="alternate" href="http://example.com/en" hreflang="en" />
 
+**Note:** ALWAYS USE ABSOLUTE URLS
+
 #### Optionally use `hreflang="x-default"`
 
 For language/country selectors or auto-redirecting homepages, you should add an annotation for the hreflang value "x-default" as well:
 
     <link rel="alternate" href="http://example.com/en-us" hreflang="en-us" />
     <link rel="alternate" href="http://example.com/" hreflang="x-default" />
+
+#### A note about canonical tags
+
+The `hreflang` tag also can be used along with `rel="canonical"` annotations, but hreflang tags need to reference self-referential canonical URLs. For example, page A should have a canonical tag pointing to page A AND page B should have a canonical tag pointing to page B. You _do not_ want to canonicalize only one version of a page in a page grouping, as that would interfere with hreflang annotations.
+
+For example, the page http://www.example.com/usa/ the hreflang tags might say:
+
+    <link rel="alternate" hreflang="en-us" href="http://www.example.com/usa/" />
+    <link rel="alternate" hreflang="en-ca" href="http://www.example.com/ca/" />
+
+In this case, the canonical tag for this page would be:
+
+    <link rel="Canonical" href="http://www.example.com/usa/" />
+
+On the Canadian page, the hreflang tags would remain the same, but the canonical tag would be:
+
+    <link rel="Canonical" href="http://www.example.com/CA/" />
 
 #### Checking for hreflang errors
 
@@ -128,25 +149,3 @@ Language tag – ( en-CA and fr-CA )
 - Create a website checklist that using tools for analysis, reviewing webmaster tools, implementing cards etc
 - is there a similar setting for setting gegraphic target for bing
 - Review sitemap gen on wordpress - please note, sitemaps & hreflang tags arent both necessary & google recommends against both
-
-
-## A note about canonical tags
-
-The `hreflang` tag also can be used along with rel="canonical" annotations, but hreflang tags need to reference self-referential canonical URLs. For example, page A should have a canonical tag pointing to page A, page B should have a canonical tag pointing to page B, and page C should have a canonical tag pointing to page C. All three pages should have hreflang tags that mention all three of the pages in the group. You do NOT want to canonicalize only one version of a page in a page grouping, as that would interfere with hreflang annotations.
-
-Here is a more visual example:
-
-On this page, http://www.example.com/usa/ the hreflang tags might say:
-
-<link rel="alternate" hreflang="en-us" href="http://www.example.com/usa/" />
-
-<link rel="alternate" hreflang="en-ca" href="http://www.example.com/ca/" />
-
-So in this case, the canonical tag for this page would be:
-
-<link rel="Canonical" href="http://www.example.com/usa/" />
-
-And on the Canadian page, the hreflang tags would remain the same, but the canonical tag would be:
-
-<link rel="Canonical" href="http://www.example.com/CA/" />
-
