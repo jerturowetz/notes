@@ -6,6 +6,7 @@
 [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
 [PHPCS - Fixing Errors Automatically](https://github.com/squizlabs/PHP_CodeSniffer/wiki/Fixing-Errors-Automatically)
 
+middleman & middleman s3 sync
 
 
 
