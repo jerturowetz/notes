@@ -27,30 +27,15 @@
 ## Groceries
 
 - Dish soap
-- Toothpaste
-- Floss
-- Allergy pills
-
+- Advil
+- Milk
+- Potatoes
+- Lettuce
 - KD
-- Meat
-- frozen spinach
-- oranges
-- parm, cheddar
-- decaf tea
-- sesame oil
-- pickled eggplant
-- pickled beets
-- tomato sauce
 - mustard
-- Popcorn
 - Pepper to grind
-
-- Toilet paper
-- Paper towels
-- Kleenex
-- Exterior compost bags
-- Better abrasive sponges
-- Bigger recycling bags
+- saran wrap
+- aluminum foil
 
 ### Asian Grocery
 
@@ -58,6 +43,7 @@
 - Udon
 - Dumplings
 - sambal olek
+- tomato sauce
 
 ## Psych help
 
