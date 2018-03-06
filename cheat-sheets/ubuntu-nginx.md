@@ -1,45 +1,38 @@
 # Cheat-sheet : NGINX on Ubuntu
 
-## Add php support
+**Note:** See the ubuntu-server-setup.md for instructions on setting up php-fpm with nginx
 
-### php-fpm
+## Useful commands
 
-NGINX doesnt natively support php, so you'll need to add the php-fpm wrapper as well as change some config settings
+Most of these should be pretty straightforward
 
-First add php-fpm (and php-mysql while you're at it)
+    sudo systemctl status nginx
+    sudo systemctl stop nginx
+    sudo systemctl start nginx
+    sudo systemctl restart nginx
 
-    sudo apt-get install php-fpm php-mysql
+If you are simply making configuration changes, Nginx can often reload without dropping connections
 
-Make `php-fpm` a bit more secure
+    sudo systemctl reload nginx
 
-    sudo nano /etc/php/7.0/fpm/php.ini
+By default, Nginx is configured to start automatically when the server boots. If this is not what you want, you can disable this behavior by typing:
 
-Find the following, uncomment and set it to `0`
+    sudo systemctl disable nginx
 
-    cgi.fix_pathinfo=0
+To re-enable the service to start up at boot, you can type:
 
-Restart php-fpm
+    sudo systemctl enable nginx
 
-    sudo systemctl restart php7.0-fpm
+## Important file locations
 
-### Configure nginx to use index.php before index.html
+### Content
 
-The default server block is at `/etc/nginx/sites-available/default`
+- `/var/www/html`: The actual web content, which by default only consists of the default Nginx page you saw earlier, is served out of the `/var/www/html` directory. This can be changed by altering Nginx configuration files.
 
-Edit this file and add `index.php` after `index` but before anything else on that line.
+### Server Configuration
 
-Also uncomment the following:
-
-    location ~ \.php$ {
-        include snippets/fastcgi-php.conf;
-        fastcgi_pass unix:/run/php/php7.0-fpm.sock;
-    }
-
-    location ~ /\.ht {
-        deny all;
-    }
-
-### Test your Nginx config
-
-    sudo nginx -t                   # tests the current config
-    sudo systemctl reload nginx     # reloads nginx
+- `/etc/nginx`: The Nginx configuration directory. All of the Nginx configuration files reside here.
+- `/etc/nginx/nginx.conf`: The main Nginx configuration file. This can be modified to make changes to the Nginx global configuration.
+- `/etc/nginx/sites-available/`: The directory where per-site "server blocks" can be stored. Nginx will not use the configuration files found in this directory unless they are linked to the sites-enabled directory (see below). Typically, all server block configuration is done in this directory, and then enabled by linking to the other directory.
+- `/etc/nginx/sites-enabled/`: The directory where enabled per-site "server blocks" are stored. Typically, these are created by linking to configuration files found in the sites-available directory.
+- `/etc/nginx/snippets`: This directory contains configuration fragments that can be included elsewhere in the Nginx configuration. Potentially repeatable configuration segments are good candidates for refactoring into snippets.
