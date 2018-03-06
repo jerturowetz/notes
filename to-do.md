@@ -26,16 +26,22 @@
 
 ## Groceries
 
-- Dish soap
-- Advil
-- Milk
-- Potatoes
-- Lettuce
-- KD
-- mustard
-- Pepper to grind
-- saran wrap
-- aluminum foil
+- tomatoes
+- carrots
+- greens
+
+parm
+toothpaste
+floss
+mitchum
+bar soap
+advil
+tupperware
+long aluminum foil, parchment paper & wax paper
+freezer paper
+spice sokution
+pepper
+knife magnet
 
 ### Asian Grocery
 
