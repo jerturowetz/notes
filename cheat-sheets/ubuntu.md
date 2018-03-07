@@ -9,6 +9,8 @@
     apt-cache search php- | less    # pipe list of available php modules
     apt-cache show php-cli          # see module details
 
+    sudo systemctl restart sshd     # restart sshd after config changes
+
 ### UFW (Ubuntu Firewall)
 
 [UFW Essentials: Common Firewall Rules and Commands](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)

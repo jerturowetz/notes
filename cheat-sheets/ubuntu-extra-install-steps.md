@@ -7,6 +7,7 @@ I normally follow the following guides when manually setting up new machines:
 - [Initial Server Setup with Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 - [How To Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04)
 - [How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
+- [How To Enable SFTP Without Shell Access on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-enable-sftp-without-shell-access-on-ubuntu-16-04)
 - [LEMP Tutorials](https://www.digitalocean.com/community/tags/lemp?type=tutorials)
 
 These guides cover most things which I wont go over here; however, there are a couple of extra steps I normally need to take outlined below.
