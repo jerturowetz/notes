@@ -134,6 +134,17 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
     gem install sass --no-user-install
     gem install jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm
 
+### Maybe also some composer extensions
+
+    composer global require phpunit/phpunit
+    composer global require phpunit/dbunit
+    composer global require phing/phing
+    composer global require phpdocumentor/phpdocumentor
+    composer global require sebastian/phpcpd
+    composer global require phploc/phploc
+    composer global require phpmd/phpmd
+    composer global require squizlabs/php_codesniffer
+
 ## Stuff to sync
 
 - HeidiSQL
