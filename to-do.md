@@ -2,34 +2,27 @@
 
 ## todo
 
+- [Figure out SFTP for client folders](https://www.digitalocean.com/community/tutorials/how-to-enable-sftp-without-shell-access-on-ubuntu-16-04)
+- Password protect client folders
+- Password protect client root
+- Download all client data & check size
+
 - ~~Learn how to set up server blocks~~
 - ~~Learn how to get and install SSL certs with certbot~~
 - ~~delete satis ssh key from Github & bitbucket once server retired~~
-
-
-client.bkdsn.com
-mbfg.bkdsn.com
-dev.bkdsn.com (this will be the jekyll site)
-
-
-
-git remote add origin git@bitbucket.org:bkdsn-wp-plugins/satis.git
-git push -u origin master
-
 - Figure out simple site deploy using git hooks
 - Set up local satis project and commit to git for cloning elsewhere
 - figure out satis deploy (using git hooks?)
 - set up client folder with sftp
 - figure out jekyll deploy
 - auto-deploy bkdsn website with git
-
-complete nginx server block setup (so far we're good)
-
-- client.bkdsn.com
-- dev.bkdsn.com
-- mbfg.bkdsn.com
-- satis.bkdsn.com
-- www.bkdsn.com
+- complete nginx server block setup (so far we're good)
+  - client.bkdsn.com
+  - dev.bkdsn.com
+  - mbfg.bkdsn.com
+  - satis.bkdsn.com
+  - www.bkdsn.com
+- [Move bkdsn nameservers to DO](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 
 ## General
 
