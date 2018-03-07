@@ -1,11 +1,39 @@
 # Jer's To-Do List
 
+## todo
+
+- ~~Learn how to set up server blocks~~
+- ~~Learn how to get and install SSL certs with certbot~~
+- ~~delete satis ssh key from Github & bitbucket once server retired~~
+
+
+client.bkdsn.com
+mbfg.bkdsn.com
+dev.bkdsn.com (this will be the jekyll site)
+
+
+
+git remote add origin git@bitbucket.org:bkdsn-wp-plugins/satis.git
+git push -u origin master
+
+- Figure out simple site deploy using git hooks
+- Set up local satis project and commit to git for cloning elsewhere
+- figure out satis deploy (using git hooks?)
+- set up client folder with sftp
+- figure out jekyll deploy
+- auto-deploy bkdsn website with git
+
+complete nginx server block setup (so far we're good)
+
+- client.bkdsn.com
+- dev.bkdsn.com
+- mbfg.bkdsn.com
+- satis.bkdsn.com
+- www.bkdsn.com
+
 ## General
 
 - Build jon a form for updating his catalogue
-- Retire satis server and use new DO server
-- delete satis ssh key from Github & bitbucket once server retired
-- Another matching muffin tin from provigo
 - Clean up gists
 - wordpress snippets to files
 - go through new plugins
@@ -19,7 +47,7 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
-- get my ssh keys from mobile on to the new server 
+- get my ssh keys from mobile on to the new server
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
@@ -30,18 +58,14 @@
 - carrots
 - greens
 
-parm
-toothpaste
-floss
-mitchum
-bar soap
-advil
-tupperware
-long aluminum foil, parchment paper & wax paper
-freezer paper
-spice sokution
-pepper
-knife magnet
+- parm
+- pepper
+
+- toothpaste
+- floss
+- mitchum
+- bar soap
+- advil
 
 ### Asian Grocery
 
@@ -53,8 +77,7 @@ knife magnet
 
 ## Psych help
 
-- d sookman, 514-934-1934, ext 34290
-- Call back both doctors
+- Dr D. Sookman, 514-934-1934, ext 34290
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
@@ -67,7 +90,6 @@ knife magnet
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
-- ~~$178 communauto~~
 
 ## Musician's Insurance
 
