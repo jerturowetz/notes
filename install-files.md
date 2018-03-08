@@ -182,3 +182,9 @@ Erase the following reg key:
 - Set `Default personal templates location` to that folder
 
 *Note* You might also want to go to `Save` options and set the default save path to desktop
+
+## Docker & Hyper-V
+
+If you install Docker & activate Hyper-V all kinds of fun stuff might happen: one of these items is the installation of multiple switches. This should help describe how to manage that:
+
+[Docker for Windows (on Hyper-V): Fix the Network Communication issue](http://peterjohnlightfoot.com/docker-for-windows-on-hyper-v-fix-the-network-communication-issue/)
