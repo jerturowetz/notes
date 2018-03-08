@@ -182,3 +182,9 @@ Erase the following reg key:
 - Set `Default personal templates location` to that folder
 
 *Note* You might also want to go to `Save` options and set the default save path to desktop
+
+## Disable photos app
+
+From an admin Powershell run:
+
+    Get-AppxPackage *photo* | Remove-AppxPackage
