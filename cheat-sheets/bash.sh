@@ -7,6 +7,10 @@
 
 cp -a /source/. /dest/
 
+## Symbolic links
+
+sudo ln -s /usr/local/nginx/conf/ /etc/nginx    # symlink a folder
+
 ## The Stack
 
 dirs -v
