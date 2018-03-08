@@ -1,28 +1,43 @@
 # Jer's guide to website SEO & localization
 
-First, off, always use absolute URLS!
-
 ## A guide mostly for web developers dealing with Canadian & Quebec web properties
 
-Before we begin please note that I've omitted information regarding setting locvalization via http headers as I mostly use 3rd parties to serve client data (i.e. WPEngine) and, as a result, I can't mess around with servers. If you do have the skill/ability to mess around with your website servers http headers and are taking steps towards seo & localization, I'd urge you to explore this subject as it's probably the best way to set language information.
+Please note that I've omitted information regarding setting locale info via http headers.  As I mostly use 3rd parties to serve websites (WP Engine for example), I can't mess around with servers. If you do have the skill/ability to mess around with your web servers I'd urge you to explore etting http headers as it's a viable method to set language information.
 
 ## Brief, on-page SEO guidelines
 
 Following these rules are enough to get you to the 90% factor for on-page SEO:
 
-- 60 character engaging title filled with keywords
-- short URL with two to four keywords in it
-- tasty one sentence meta description (145 characters or less) which will show up in Google's SERPS as the short text most of the time
-- body of text uses your keyphrase in the first paragraph and a couple more times
-- body of text includes relevant synonyms (natural writing almost always does this so you don't really need to worry about it)
-- link out to some high quality resources so Google knows you know what you are talking about
-- best to structure text in subheadings, lists and bite size paragraphs but implementation of this rule partly depends on audience/subject matter
-- choose two to three social services for which you will provide easy one click sharing (Google, +, Twitter, Facebook, Pinterest, Reddit, Stumbleupon). Do not confuse the reader with too many choices: they will choose none
-- attractive easy to read design
-- a few appropriate and engaging illustrations with titles which include your keyword
+- seesion ids, url params can cause duplicate content issues, usril rel=canonical helps with this
+- All links should be abolute urls
+- all links should use one unified version of the domain (http:// https:// no-www, with www.)
+- always have a rel=canonical pouiting to that page...
+- make sure youre meta descs are good `<meta name="description" content="A page's description, usually one or two sentences."/>'
+- title tags
+- language attrivutes
+- meta name
+- meta robots declarations
+- good meta descriptions contain keyb=words and a call to action (learn more, Get it now, Try for free)
+- Always use absolute URLS
+- URLs should be short with two to four keywords in it
+- Write about a 60 character engaging title filled with keywords
+- Write one sentence meta description - 145 characters or less - which will show up in Google's SERPS
+- Body of the page content should use your keyphrase in the first paragraph and a couple more times
+- Body of the page should include relevant synonyms (natural writing almost always does this so don't really worry)
+- Link out to some high quality resources so Google knows you know what you are talking about
+- Make use of lists, subheading & bit-sized paragraphs depending on your audience/subject matter
+- Choose two to three social services for which you will provide easy one click sharing (Google, +, Twitter, Facebook, Pinterest, Reddit, Stumbleupon). Do not confuse the reader with too many choices: they will choose none.
+- Idealy make the design easy to read
+- Add a few appropriate and engaging illustrations with titles, alt tags and your keyword
+- Translate your ALT tags bro
 
 ## Resources & tools
 
+- Visit Google Webmaster Tools > HTML Improvements
+- [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
+- [Sitemap HREFLANG tool](https://erudite.agency/hreflang-tool/)  
+  Simply upload your CSV file and this tool will convert your file into multiple sitemaps as required.
+- SEMRush has a site check tool that looks pretty good but it's $99/month - maybe check reddit
 - SEOQuake  
   Available as a handy chrome plugin
 - [Google webmaster blog](https://webmasters.googleblog.com/)  
@@ -39,11 +54,17 @@ Following these rules are enough to get you to the 90% factor for on-page SEO:
 
 ## Localization for websites
 
+### CC TLDs
+
+Important in international SEO, ccTLDs are the single strongest way to show search engines and users that site content is specifically targeted to a certain country or region — but, importantly, NOT specifically a certain language. When a site uses a ccTLD, Google assumes that site (and all the content on it) is specifically relevant to the geographic area targeted by the ccTLD and should appear on SERPs in that area.
+
 ### A note about country & language codes
 
 Be absolutely sure that you are using the correct country and language codes. The value of the hreflang attribute must be in ISO 639-1 format for the language, and in ISO 3166-1 Alpha 2 format for the region. Specifying only the region is not supported. One of the most common mistakes is using "en-uk" to specify English speakers in the United Kingdom. However, the correct hreflang tag for the UK is actually "en-gb."
 
 Using a tool to help/verify is recommended.
+
+Note that while Google and Yandex currently use the hreflang attribute, Bing uses language meta tags instead.
 
 ### Embed language metadata in the document
 
@@ -73,7 +94,26 @@ Everey variant should appear on all pages mentioned, inclusing the page you're m
     <link rel="alternate" href="http://example.com/en-au" hreflang="en-au" />
     <link rel="alternate" href="http://example.com/en" hreflang="en" />
 
-**Note:** ALWAYS USE ABSOLUTE URLS
+A few general rules:
+
+- Always use absolute URLs
+- Don't create hreflang tags that point to pages that are set to `noindex`
+- Don't reference pages that are redirected
+
+#### Multiple locations for the same page
+
+You can use multiple hreflangs on one page if you want to show that the page is for users in more than one country or area. For example, if the page targets people who speak Amharic in both Ethiopia and Eritrea, you can indicate that like this:
+
+    <link rel="alternate" href="example.com" hreflang="am-et" />
+    <link rel="alternate" href="example.com" hreflang="am-er" />
+
+#### Use a general attribute
+
+**Check this out:** I'm not sure if this rule is legit but it's from mozcom so I think it is.
+
+Don't forget to include a general hreflang attribute without the region code to catch Amharic speaking searchers in Djibouti or other areas of the world that you want traffic from:
+
+    <link rel="alternate" href="example.com" hreflang="am" />
 
 #### Optionally use `hreflang="x-default"`
 
@@ -82,9 +122,13 @@ For language/country selectors or auto-redirecting homepages, you should add an 
     <link rel="alternate" href="http://example.com/en-us" hreflang="en-us" />
     <link rel="alternate" href="http://example.com/" hreflang="x-default" />
 
-#### A note about canonical tags
+#### A few notes about canonical tags
 
-The `hreflang` tag also can be used along with `rel="canonical"` annotations, but hreflang tags need to reference self-referential canonical URLs. For example, page A should have a canonical tag pointing to page A AND page B should have a canonical tag pointing to page B. You _do not_ want to canonicalize only one version of a page in a page grouping, as that would interfere with hreflang annotations.
+Canonical tags can be self-referential/points to the current URL. If URLs X, Y, and Z are duplicates, and X is the canonical version, it’s ok to put the tag pointing to X on URL X.
+
+Do not use `rel="canonical"` _across_ country or language versions of your site (lang a shouldnt point ot lang b). But you can use it _within_ a country or language version
+
+When using the `hreflang` along with `rel="canonical"` the hreflang tags need to reference self-referential canonical URLs. For example, page A should have a canonical tag pointing to page A AND page B should have a canonical tag pointing to page B. You _do not_ want to canonicalize only one version of a page in a page grouping, as that would interfere with hreflang annotations.
 
 For example, the page http://www.example.com/usa/ the hreflang tags might say:
 
@@ -98,6 +142,10 @@ In this case, the canonical tag for this page would be:
 On the Canadian page, the hreflang tags would remain the same, but the canonical tag would be:
 
     <link rel="Canonical" href="http://www.example.com/CA/" />
+
+You can canonicalize across sites if you control more than 1 website
+
+Lastly, dont tag redirected pages as canonical
 
 #### Checking for hreflang errors
 
@@ -149,3 +197,16 @@ Language tag – ( en-CA and fr-CA )
 - Create a website checklist that using tools for analysis, reviewing webmaster tools, implementing cards etc
 - is there a similar setting for setting gegraphic target for bing
 - Review sitemap gen on wordpress - please note, sitemaps & hreflang tags arent both necessary & google recommends against both
+- find a tool to searcch for missing alt tags / broken images
+- ALt tags need to be translated
+- should do an SEO study on good title tags
+- Reiew alt tags in wrdpress for translated iage meta (do alt tags come from the media library or is better practice to manually add??)
+- find a tool tocheck for broken links
+- code optimization is actually pretty important for faster sites, so things like unifying scripts and css is a big deal
+- make a note that page titles are as imprtant as h1 tags and they should be consistent but not identical
+- page titles appear in search results, headers are what readers see on your page
+- are there any link auditing tools? too many links are bad but so are too few?
+- watch out for 302 redirects - over time they can become a problem as canonical/href lang and a 302 confuses te heck out of google
+- Make a list of tools & advice to give to marketers (ie SEO Quake)
+- [Read this on tile tag optimization](https://www.semrush.com/blog/seoquake-5-keys-to-optimizing-your-title-tags/)
+

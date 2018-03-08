@@ -188,3 +188,9 @@ Erase the following reg key:
 From an admin Powershell run:
 
     Get-AppxPackage *photo* | Remove-AppxPackage
+
+## Docker & Hyper-V
+
+If you install Docker & activate Hyper-V all kinds of fun stuff might happen: one of these items is the installation of multiple switches. This should help describe how to manage that:
+
+[Docker for Windows (on Hyper-V): Fix the Network Communication issue](http://peterjohnlightfoot.com/docker-for-windows-on-hyper-v-fix-the-network-communication-issue/)
