@@ -6,6 +6,8 @@
 - Backpack
 - better usb key
 - $50 8Bitdo Controller
+- mouser connectors
+- 
 
 ## Winter boots
 
