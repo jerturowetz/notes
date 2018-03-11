@@ -26,8 +26,17 @@ Make sure you've set the correct permissions on your folders:
 - [QuickStart](http://wiki.nginx.org/QuickStart)
 - [Configuration](http://wiki.nginx.org/Configuration)
 
+## Important file locations
+
+    /etc/nginx                  # The Nginx configuration directory
+    /etc/nginx/nginx.conf       # Main Nginx configuration file
+    /etc/nginx/sites-available/ # The directory where per-site "server blocks" can be stored
+    /etc/nginx/sites-enabled/   # Typically, these are created by linking to configuration files found in ../sites-available
+    /etc/nginx/snippets         # Configuration fragments that can be included elsewhere in the Nginx configuration
+
 ## Purge and start from scratch
+
+nginx depends on nginx-common, removing nginx-common will also remove nginx.
 
     sudo apt-get purge nginx-common     # purge nginx
     sudo apt-get install nginx          # install nginx from scratch
-    # nginx depends on nginx-common, removing nginx-common will also remove nginx.
