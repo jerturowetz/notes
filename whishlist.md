@@ -1,5 +1,8 @@
 # Wishlist
 
+$175 redco 16 chnl
+10 xlr, 4 trs
+
 - AA rechargable batteries
 - $300 Nvidia Shield
 - wool socks
