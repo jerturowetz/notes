@@ -16,3 +16,14 @@ Run cmd as Administrator, then
     DISM /Online /Cleanup-Image /CheckHealth # checks for flags of corrupted
     DISM /Online /Cleanup-Image /ScanHealth # Scans health (doesnt fix)
     DISM /Online /Cleanup-Image /RestoreHealth # Scans & repairs (recommended) - takes 15 to 30 mins
+
+## Power managment reports
+
+I was having trouble with sleep on the XPS9360 and came across these cool commands which do a study on sleep and sych.
+
+Run cmd as Administrator
+
+    powercfg /requests      # see what drivers or software are interrupting sleep
+    powercfg /sleepystudy   # do a sleep study and export to an html file
+    powercfg /energy        # do an energy audit and export to an html file
+
