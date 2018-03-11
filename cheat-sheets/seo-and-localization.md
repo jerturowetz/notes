@@ -12,7 +12,7 @@ Following these rules are enough to get you to the 90% factor for on-page SEO:
 - All links should be abolute urls
 - all links should use one unified version of the domain (http:// https:// no-www, with www.)
 - always have a rel=canonical pouiting to that page...
-- make sure youre meta descs are good `<meta name="description" content="A page's description, usually one or two sentences."/>'
+- make sure youre meta descs are good `<meta name="description" content="A page's description, usually one or two sentences."/>`
 - title tags
 - language attrivutes
 - meta name
@@ -209,4 +209,4 @@ Language tag – ( en-CA and fr-CA )
 - watch out for 302 redirects - over time they can become a problem as canonical/href lang and a 302 confuses te heck out of google
 - Make a list of tools & advice to give to marketers (ie SEO Quake)
 - [Read this on tile tag optimization](https://www.semrush.com/blog/seoquake-5-keys-to-optimizing-your-title-tags/)
-
+- take a look at search resuls with links in the page desc or below the page desc (like a buy now link)
