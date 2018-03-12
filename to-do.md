@@ -41,7 +41,6 @@
 ## Groceries
 
 - tomatoes
-- carrots
 - greens
 - butter
 - meats
@@ -49,6 +48,10 @@
 - cheeses
 - parm
 - pepper
+
+- large ziplock bags
+- tupperware
+- bleach
 - toothpaste
 - floss
 - mitchum
