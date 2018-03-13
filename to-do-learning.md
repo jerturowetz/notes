@@ -1,5 +1,13 @@
 # To do : Code School
 
+
+mvc
+django & flask
+laravel
+ubit testing
+
+
+
 [Javascript learning resources](http://joellongie.com/javascript/)
 [Sass letter by letter](https://www.sitepoint.com/premium/courses/atoz-sass-2977)
 [NPM as a build tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
