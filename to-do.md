@@ -40,15 +40,33 @@
 
 ## Groceries
 
+- onion
+- green onion
+- beets
+- greens (beans, asparagus)
 - tomatoes
-- greens
 - butter
-- meats
 - garlic
-- cheeses
+- sundired tomatoes
+- peanu oil
+- seasme oil
+- cheese
 - parm
 - pepper
+- saucisse
+- other meats
+- cooking cream
+- tomato sauce
+- orange juice
+- plain soda
+- pancake mix
+- kraft dinner
+- rasin bran
+- coffee
 
+- paper towels
+- kleenex
+- toilet paper
 - large ziplock bags
 - tupperware
 - bleach
@@ -58,13 +76,21 @@
 - bar soap
 - cotton swabs
 
+- congnac
+- chemineaud
+
+### Italian Grocery
+
+- spaghetti
+- gnocci
+- shells / bowties
+
 ### Asian Grocery
 
-- Rice
+- sticky rice
 - Udon
 - Dumplings
 - sambal olek
-- tomato sauce
 
 ## Psych help
 
