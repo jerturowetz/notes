@@ -1,13 +1,12 @@
 # Wishlist
 
-- AA rechargable batteries
-- $300 Nvidia Shield
-- wool socks
-- Backpack
-- better usb key
-- $50 8Bitdo Controller
+- Bathing caps
+- AA batteries
+- More wool socks
 - mouser connectors
-- redco or other floor box
+- Floor box/snake
+- headphones recording helper for iphone
+- stand for iphone for recording video
 
 ## Winter boots
 
@@ -15,7 +14,6 @@
 - $200 Merell Men's Turku Trek Waterproof
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
 - $300 Lowa Men's Oslo GTX
-- Classic Timberlands
 
 ## Rain/boating boots
 
