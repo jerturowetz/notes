@@ -1,5 +1,14 @@
 # Jer's To-Do List
 
+Eiyuu Senki
+Yumina The Ethereal
+Kamidori Alchemy Meister
+Meishoku no Reiki
+Bunny Black 1-2
+Littlewitch Romanesque
+Utawarerumono
+Haro&Way
+
 Hi there,
 
 I'm reaching with regards to camp rentals for a weeding and was wondering if you had any availability in September or August (I'm late in the game, I know...)?
