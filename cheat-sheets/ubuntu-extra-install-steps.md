@@ -54,3 +54,12 @@ You can now run composer it by typing `php composer.phar`. To make composer glob
     sudo mv composer.phar /usr/local/bin/composer
 
 now just type `composer`
+
+### Install Git & set up user information
+
+    sudo apt-get update
+    sudo apt-get install git
+
+    git config --global user.name "Jeremy Turowetz"
+    git config --global user.email "jeremy@bkdsn.com"
+    git config --list
