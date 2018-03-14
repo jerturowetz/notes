@@ -1,10 +1,22 @@
 # Jer's To-Do List
 
+Hi there,
+
+I'm reaching with regards to camp rentals for a weeding and was wondering if you had any availability in September or August (I'm late in the game, I know...)?
+
+If so, any information you coulod provide with regard to dates available, pricing, photos of the space, facilities available etc would be greatl;y appreciated.
+
+Et si vous préférez m'écrire en français, n'hésitez pas.
+
+Thanks for your time :)
+
+Regards,
+Jeremy
+
+q96*nAi%A#n5thlj
+
 ## todo
 
-- Laptop issues:
-  - fix sleep with video
-  - fix flicker
 - Figure out simple site deploy using git hooks
 - figure out satis deploy (using git hooks?)
 - figure out jekyll deploy
@@ -19,6 +31,9 @@
 
 ## General
 
+- Laptop issues:
+  - fix sleep with video
+  - fix flicker
 - Build jon a form for updating his catalogue
 - Clean up gists
 - wordpress snippets to files
@@ -75,6 +90,7 @@
 - mitchum
 - bar soap
 - cotton swabs
+- floss, hand cream & mouthwash (bkdsn)
 
 - congnac
 - chemineaud
@@ -91,6 +107,18 @@
 - Udon
 - Dumplings
 - sambal olek
+
+## Movies
+
+- The Little Hours
+- Good Time
+- Bigsby Bear
+- Logan Lucky
+- A Ghost Story
+- The Survivalist
+- Paint it Black
+- Lucky
+- Super Dark Times
 
 ## Psych help
 
