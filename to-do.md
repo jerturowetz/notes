@@ -1,14 +1,5 @@
 # Jer's To-Do List
 
-Eiyuu Senki
-Yumina The Ethereal
-Kamidori Alchemy Meister
-Meishoku no Reiki
-Bunny Black 1-2
-Littlewitch Romanesque
-Utawarerumono
-Haro&Way
-
 Hi there,
 
 I'm reaching with regards to camp rentals for a weeding and was wondering if you had any availability in September or August (I'm late in the game, I know...)?
@@ -21,8 +12,6 @@ Thanks for your time :)
 
 Regards,
 Jeremy
-
-q96*nAi%A#n5thlj
 
 ## todo
 
@@ -61,61 +50,6 @@ q96*nAi%A#n5thlj
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
-
-## Groceries
-
-- onion
-- green onion
-- beets
-- greens (beans, asparagus)
-- tomatoes
-- butter
-- garlic
-- sundired tomatoes
-- peanu oil
-- seasme oil
-- cheese
-- parm
-- pepper
-- saucisse
-- other meats
-- cooking cream
-- tomato sauce
-- orange juice
-- plain soda
-- pancake mix
-- kraft dinner
-- rasin bran
-- coffee
-
-- paper towels
-- kleenex
-- toilet paper
-- large ziplock bags
-- tupperware
-- bleach
-- toothpaste
-- floss
-- mitchum
-- bar soap
-- cotton swabs
-- floss, hand cream & mouthwash (bkdsn)
-
-- congnac
-- chemineaud
-
-### Italian Grocery
-
-- spaghetti
-- gnocci
-- shells / bowties
-
-### Asian Grocery
-
-- sticky rice
-- Udon
-- Dumplings
-- sambal olek
 
 ## Movies
 
