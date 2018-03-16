@@ -3,6 +3,8 @@
 - onion
 - green onion
 - beets
+- lemons
+- garlic
 - greens (beans, asparagus)
 - tomatoes
 - butter
@@ -10,6 +12,8 @@
 - sundired tomatoes
 - peanu oil
 - seasme oil
+- Pasta Sauce
+- Bread
 - cheese
 - parm
 - pepper
@@ -20,6 +24,7 @@
 - orange juice
 - plain soda
 - pancake mix
+- honey
 - kraft dinner
 - rasin bran
 - coffee
@@ -41,6 +46,9 @@
 - spaghetti
 - gnocci
 - shells / bowties
+- Penne
+- antipasta
+- Tomato sauce
 
 ## Asian Grocery
 
