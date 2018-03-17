@@ -1,40 +1,44 @@
 # Jer's grocery list
 
-- onion
-- green onion
-- beets
-- lemons
-- garlic
-- greens (beans, asparagus)
-- tomatoes
-- butter
-- garlic
-- sundired tomatoes
-- peanu oil
-- seasme oil
-- Pasta Sauce
-- Bread
-- cheese
-- parm
-- pepper
-- saucisse
-- other meats
-- cooking cream
-- tomato sauce
-- orange juice
-- plain soda
-- pancake mix
-- honey
-- kraft dinner
-- rasin bran
-- coffee
+check veg oil
+check whole tonatoe, diced tonato cans
+check yofurt
+check ice cream situation
+tupperware online
 
-- paper towels
-- kleenex
-- toilet paper
-- large ziplock bags
-- tupperware
-- bleach
+## later
+
+wraps
+tacos
+basil plant
+all in one cleaner
+little oranges
+bananas
+leaf green
+apples
+coffee
+
+## dollar store
+
+wire basket x3
+plastic blue tub
+plastic polka grey
+bag clip
+
+## grocery
+
+boneless skinless chicken thighs
+whole chicken
+hot sausge
+sliced sancwich meat
+fancy cookin cream
+orange juice
+
+- greens (beans, asparagus)p
+- Bread for break
+- sliced cheese
+- plain soda
+- honey
 
 ## Pharmaprix
 
@@ -45,17 +49,19 @@
 
 - spaghetti
 - gnocci
-- shells / bowties
+- shells, bowties etc
 - Penne
-- antipasta
+- antipasta (eggplant)
 - Tomato sauce
+- balsamic vinaigar
+- sundried tonatoes
 
 ## Asian Grocery
 
 - sticky rice
 - Udon
 - Dumplings
-- sambal olek
+- sesame oil
 
 ## SAQ
 
@@ -66,3 +72,4 @@
 
 - Meat
 - Toothpaste
+- paper towel
