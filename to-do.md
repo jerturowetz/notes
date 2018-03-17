@@ -1,5 +1,15 @@
 # Jer's To-Do List
 
+## This weekend
+
+- Laundry
+- Vacuuming
+- Shelf
+- haircut
+- Grocery
+
+## Wedding message
+
 Hi there,
 
 I'm reaching with regards to camp rentals for a weeding and was wondering if you had any availability in September or August (I'm late in the game, I know...)?
@@ -29,7 +39,7 @@ Jeremy
 
 ## General
 
-- Laptop issues:
+- Laptop issues
   - fix sleep with video
   - fix flicker
 - Build jon a form for updating his catalogue
