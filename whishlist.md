@@ -3,6 +3,7 @@
 - label maker for kitchen
 - shaver
 - Drum sticks
+- adidas scent balls for shoes
 - Bathing caps
 - AA batteries
 - More wool socks
