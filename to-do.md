@@ -2,11 +2,10 @@
 
 ## This weekend
 
-- Laundry
-- Vacuuming
 - Shelf
 - haircut
-- Grocery
+- socks
+- exchange jeans
 
 ## Wedding message
 
