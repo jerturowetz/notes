@@ -1,5 +1,8 @@
 # Wishlist
 
+- label maker for kitchen
+- shaver
+- Drum sticks
 - Bathing caps
 - AA batteries
 - More wool socks
