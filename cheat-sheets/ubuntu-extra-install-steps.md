@@ -63,3 +63,18 @@ now just type `composer`
     git config --global user.name "Jeremy Turowetz"
     git config --global user.email "jeremy@bkdsn.com"
     git config --list
+    
+### Install go
+
+uodatde apt-get
+
+get a recent package
+
+unzip it to whatwve 
+
+sudo tar
+
+add patch to bash
+
+default work path is ´$HOME/go´
+
