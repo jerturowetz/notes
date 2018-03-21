@@ -63,18 +63,17 @@ now just type `composer`
     git config --global user.name "Jeremy Turowetz"
     git config --global user.email "jeremy@bkdsn.com"
     git config --list
-    
+
 ### Install go
 
-uodatde apt-get
+Download a recent binay package from the [Go official website](https://golang.org/dl/)
 
-get a recent package
+    curl -L https://dl.google.com/go/go$VERSION.$OS-$ARCH.tar.gz
 
-unzip it to whatwve 
+Extract the archive in to `/usr/local`
 
-sudo tar
+    sudo tar -C /usr/local -xzf go$VERSION.$OS-$ARCH.tar.gz
 
-add patch to bash
+Add `/usr/local/go/bin` to the `PATH` environment variable. You can do this by adding this line to your `/etc/profile` (for a system-wide installation) or `$HOME/.profile`:
 
-default work path is ´$HOME/go´
-
+    export PATH=$PATH:/usr/local/go/bin
