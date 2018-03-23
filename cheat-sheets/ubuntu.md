@@ -9,6 +9,8 @@
     apt-cache search php- | less    # pipe list of available php modules
     apt-cache show php-cli          # see module details
 
+    sudo -uUSERNAME some command    # run commands as a different user
+
     sudo systemctl restart sshd     # restart sshd after config changes
 
 ### UFW (Ubuntu Firewall)

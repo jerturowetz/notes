@@ -1,12 +1,5 @@
 # Jer's To-Do List
 
-## This weekend
-
-- Shelf
-- haircut
-- socks
-- exchange jeans
-
 ## Wedding message
 
 Hi there,
@@ -22,22 +15,12 @@ Thanks for your time :)
 Regards,
 Jeremy
 
-## todo
-
-- Figure out simple site deploy using git hooks
-- figure out satis deploy (using git hooks?)
-- figure out jekyll deploy
-- auto-deploy bkdsn website with git
-- complete nginx server block setup (so far we're good)
-  - client.bkdsn.com
-  - dev.bkdsn.com
-  - mbfg.bkdsn.com
-  - satis.bkdsn.com
-  - www.bkdsn.com
-- [Move bkdsn nameservers to DO](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
-
 ## General
 
+- measure laundry shelf
+- pick up scotts comp & my shelves
+- pick up drums
+- get guitar back by rachel
 - Laptop issues
   - fix sleep with video
   - fix flicker
@@ -59,18 +42,6 @@ Jeremy
 - change bkdsn to be something else easier to seatch in lastpass
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
-
-## Movies
-
-- The Little Hours
-- Good Time
-- Bigsby Bear
-- Logan Lucky
-- A Ghost Story
-- The Survivalist
-- Paint it Black
-- Lucky
-- Super Dark Times
 
 ## Psych help
 

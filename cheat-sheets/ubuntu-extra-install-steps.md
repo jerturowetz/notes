@@ -77,3 +77,12 @@ Extract the archive in to `/usr/local`
 Add `/usr/local/go/bin` to the `PATH` environment variable. You can do this by adding this line to your `/etc/profile` (for a system-wide installation) or `$HOME/.profile`:
 
     export PATH=$PATH:/usr/local/go/bin
+
+### Set up ssh keys for www-data
+
+set up ssh keys as root
+copy the key to desktop
+&
+add to github/bitbucket
+test ssh connection with ssh -T git@github.com
+and both bitbuckets .org and .com
