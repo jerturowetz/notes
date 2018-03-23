@@ -63,14 +63,14 @@ now just type `composer`
     git config --global user.name "Jeremy Turowetz"
     git config --global user.email "jeremy@bkdsn.com"
     git config --list
-    
+
 ### Install go
 
 uodatde apt-get
 
 get a recent package
 
-unzip it to whatwve 
+unzip it to whatwve
 
 sudo tar
 
@@ -78,3 +78,11 @@ add patch to bash
 
 default work path is ´$HOME/go´
 
+### Set up ssh keys for www-data
+
+set up ssh keys as root
+copy the key to desktop
+&
+add to github/bitbucket
+test ssh connection with ssh -T git@github.com
+and both bitbuckets .org and .com
