@@ -3,6 +3,9 @@
 wax paper
 long aliminumn foil
 butcher paper
+swiffer mop sheets
+lids for mason jars
+tupperware
 
 ## Italian Grocery
 
