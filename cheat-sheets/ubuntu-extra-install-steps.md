@@ -26,13 +26,13 @@ Generate an ssh key for root and add it to bitbucket & github so the machine can
 
 Assuming you've already installed php, php-mysql & php-fpm, here are the other php modules i like to install:
 
-    sudo apt-get install php-cli libapache2-mod-php php-mcrypt php-xml php-mbstring
+    sudo apt-get install php-cli libapache2-mod-php php-mcrypt php-xml php-mbstring php-curl
     # NOTE: One of these packages puts an apache index file in `/var/www/html` making it look like nginx is busted.
     # Simply delete the file, no need to freak out.
 
-Add cURL for php-7
+Use apt to install php-zip
 
-    sudo apt-get install php-curl
+    apt install zip unzip php7.0-zip
 
 For the record, here are some cool helpers for getting available module info
 
