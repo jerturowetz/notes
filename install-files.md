@@ -57,6 +57,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Oracle VirtualBox
 - PO Edit
 - Python 2 or 3
+- imagemagick
 - Quicktime
 - Ruby
 - Safari
