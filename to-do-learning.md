@@ -6,7 +6,7 @@ django & flask
 laravel
 ubit testing
 
-
+[An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 
 [Javascript learning resources](http://joellongie.com/javascript/)
 [Sass letter by letter](https://www.sitepoint.com/premium/courses/atoz-sass-2977)

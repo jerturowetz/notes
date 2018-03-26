@@ -22,7 +22,7 @@ switch to `root` and run:
 
 Generate an ssh key for root and add it to bitbucket & github so the machine can haz access of necessary. I have no idea which key crhon uses when running jobs so whatever, figure it out.
 
-### Install php && PHP modules
+### Install php, php-cli and other modules
 
 Assuming you've already installed php, php-mysql & php-fpm, here are the other php modules i like to install:
 
@@ -40,6 +40,15 @@ For the record, here are some cool helpers for getting available module info
     apt-cache show php-cli # see module details
 
 ### Install composer
+
+Information taken from [this article](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-16-04)
+
+You'll ned the following dependencises if not already installed:
+
+    sudo apt-get update
+    sudo apt-get install curl php-cli php-mbstring git unzip
+
+** using composer as www-data can be an issue so you might need to change permissions on the cache folder
 
 Update apt-get & install some deps used in satis and other things
 
@@ -84,9 +93,7 @@ Add `/usr/local/go/bin` to the `PATH` environment variable. You can do this by a
 
 ### Set up ssh keys for www-data
 
-set up ssh keys as root
-copy the key to desktop
-&
-add to github/bitbucket
-test ssh connection with ssh -T git@github.com
-and both bitbuckets .org and .com
+- set up ssh keys as root
+- add to /var/www/.ssh (make sure www-data is the folder owner)
+- add the keys to github/bitbucket and wherevere else
+- test ssh connection with sudo -u www-data ssh -T git@github.com and both bitbuckets .org and .com
