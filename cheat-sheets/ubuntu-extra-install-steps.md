@@ -22,13 +22,13 @@ switch to `root` and run:
 
 Generate an ssh key for root and add it to bitbucket & github so the machine can haz access of necessary. I have no idea which key crhon uses when running jobs so whatever, figure it out.
 
-### Install php && PHP modules
+### Install php, php-cli and other modules
 
 Assuming you've already installed php, php-mysql & php-fpm, here are the other php modules i like to install:
 
     sudo apt-get install php-cli libapache2-mod-php php-mcrypt php-xml php-mbstring
-    # NOTE: One of these packages puts an apache index file in `/var/www/html` making it look like nginx is busted.
-    # Simply delete the file, no need to freak out.
+    # NOTE: One of these packages puts an apache index file in `/var/www/html` making it look like nginx is busted
+    # Simply delete the file, no need to freak out
 
 For the record, here are some cool helpers for getting available module info
 
@@ -36,6 +36,18 @@ For the record, here are some cool helpers for getting available module info
     apt-cache show php-cli # see module details
 
 ### Install composer
+
+Information taken from [this article](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-16-04)
+
+You'll ned the following dependencises if not already installed:
+
+    sudo apt-get update
+    sudo apt-get install curl php-cli php-mbstring git unzip
+
+
+
+
+** using composer as www-data is an issue
 
 Update apt-get & install some deps used in satis and other things
 
