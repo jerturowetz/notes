@@ -91,6 +91,20 @@ Add `/usr/local/go/bin` to the `PATH` environment variable. You can do this by a
 
     export PATH=$PATH:/usr/local/go/bin
 
+### Install Jekyll
+
+    sudo apt-get update
+    sudo apt-get install ruby ruby-dev make build-essential
+
+edit `etc/profile` or `~/.bashrc` and add the following lines
+
+    export GEM_HOME=$HOME/gems
+    export PATH=$HOME/gems/bin:$PATH
+
+reload `profile` or `bashrc` & run the following installer
+
+    gem install jekyll bundler
+
 ### Set up ssh keys for www-data
 
 - set up ssh keys as root
