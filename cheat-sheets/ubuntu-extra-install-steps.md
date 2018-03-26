@@ -30,6 +30,10 @@ Assuming you've already installed php, php-mysql & php-fpm, here are the other p
     # NOTE: One of these packages puts an apache index file in `/var/www/html` making it look like nginx is busted.
     # Simply delete the file, no need to freak out.
 
+Add cURL for php-7
+
+    sudo apt-get install php-curl
+
 For the record, here are some cool helpers for getting available module info
 
     apt-cache search php- | less # pipe list of available php modules
