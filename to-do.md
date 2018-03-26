@@ -1,5 +1,25 @@
 # Jer's To-Do List
 
+get knives sharpened
+
+## Flicks
+
+life of pi
+Blancanieves
+The Seventh Seal
+Beasts Of The Southern Wild
+The Adventures of Adele Blanc-Sec
+The Chronicles of Narnia
+Wolf Children
+Hellboy II
+The Secret of Kells
+Harry Potter
+Where the Wild Things Are
+April And The Extraordinary World
+Ponyo
+The Illusionist
+Ernest & Celestine
+
 ## Wedding message
 
 Hi there,
