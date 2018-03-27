@@ -105,6 +105,11 @@ reload `profile` or `bashrc` & run the following installer
 
     gem install jekyll bundler
 
+### Install updated NodeJS
+
+    curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+
 ### Set up ssh keys for www-data
 
 - set up ssh keys as root
