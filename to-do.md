@@ -2,6 +2,10 @@
 
 get knives sharpened
 
+August 18th-19th
+August 25th-26th
+Sept 8th-9th
+
 ## Flicks
 
 life of pi
