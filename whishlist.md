@@ -1,16 +1,15 @@
 # Wishlist
 
-- label maker for kitchen
-- shaver
+- get knives sharpened
 - Drum sticks
 - adidas scent balls for shoes
 - Bathing caps
-- AA batteries
-- More wool socks
+- AA & AAA batteries
+- Wool socks
 - mouser connectors
 - Floor box/snake
-- headphones recording helper for iphone
-- stand for iphone for recording video
+- Headphones recording helper for iphone
+- Stand for iphone for recording video
 
 ## Winter boots
 

@@ -1,56 +1,24 @@
 # Jer's To-Do List
 
-get knives sharpened
-
-August 18th-19th
-August 25th-26th
-Sept 8th-9th
-
 ## Flicks
 
 life of pi
-Blancanieves
-The Seventh Seal
-Beasts Of The Southern Wild
+Harry Potter
 The Adventures of Adele Blanc-Sec
 The Chronicles of Narnia
-Wolf Children
 Hellboy II
 The Secret of Kells
-Harry Potter
 Where the Wild Things Are
 April And The Extraordinary World
 Ponyo
-The Illusionist
-Ernest & Celestine
-
-## Wedding message
-
-Hi there,
-
-I'm reaching with regards to camp rentals for a weeding and was wondering if you had any availability in September or August (I'm late in the game, I know...)?
-
-If so, any information you coulod provide with regard to dates available, pricing, photos of the space, facilities available etc would be greatl;y appreciated.
-
-Et si vous préférez m'écrire en français, n'hésitez pas.
-
-Thanks for your time :)
-
-Regards,
-Jeremy
 
 ## General
 
-- measure laundry shelf
-- pick up scotts comp & my shelves
-- pick up drums
-- get guitar back by rachel
-- Laptop issues
-  - fix sleep with video
-  - fix flicker
-- Build jon a form for updating his catalogue
+- Measure laundry shelves
+- Pick up scotts computer & shelves
+- Pick up drums chez Mike M.
 - Clean up gists
-- wordpress snippets to files
+- WordPress snippets to files
 - go through new plugins
 - Review developer plugins
 - Warn shakti of email changes
