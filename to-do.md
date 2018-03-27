@@ -1,19 +1,5 @@
 # Jer's To-Do List
 
-## Flicks
-
-life of pi
-Harry Potter
-The Adventures of Adele Blanc-Sec
-The Chronicles of Narnia
-Hellboy II
-The Secret of Kells
-Where the Wild Things Are
-April And The Extraordinary World
-Ponyo
-
-## General
-
 - Measure laundry shelves
 - Pick up scotts computer & shelves
 - Pick up drums chez Mike M.
