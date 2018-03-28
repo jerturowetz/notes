@@ -6,8 +6,9 @@
 - Bathing caps
 - AA & AAA batteries
 - Wool socks
-- mouser connectors
-- Floor box/snake
+- $20 ea Naiant inline attenuator x4
+- mouser xlr connectors 10-15
+- green cable for 35'
 - Headphones recording helper for iphone
 - Stand for iphone for recording video
 
@@ -69,8 +70,6 @@
 
 - Snake box on floor. At least 8 XLR - anything else is gravy
 - 8 channel TRS snake (TRS >> DB25 >> TRS would be ideal)
-- 4 normal & 2 short XLR cables
-- $20 ea Naiant inline attenuator x4
 
 ## Workshop & soldering station
 
