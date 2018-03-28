@@ -24,6 +24,5 @@ I was having trouble with sleep on the XPS9360 and came across these cool comman
 Run cmd as Administrator
 
     powercfg /requests      # see what drivers or software are interrupting sleep
-    powercfg /sleepystudy   # do a sleep study and export to an html file
+    powercfg /sleepstudy   # do a sleep study and export to an html file
     powercfg /energy        # do an energy audit and export to an html file
-
