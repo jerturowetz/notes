@@ -1,5 +1,15 @@
 # Cheat sheet : Docker
 
+On older systems where docker can't run natively and instead requires docker-toolkit, docker-toolkit will install and run docker engine on top of virtualbox. You can use the following command to access/mess with this vm:
+
+docker-machine
+
+docker-machine ls
+docker-machine rm my-docker-machine
+
+
+
+
 In the elevated Command Prompt
 
     bcdedit /set hypervisorlaunchtype auto
