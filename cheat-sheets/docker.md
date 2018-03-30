@@ -1,5 +1,22 @@
 # Cheat sheet : Docker
 
+xps needs docker-toolbox ad its not hyperv cause its an old piece of shit
+
+vbox? should wipe and start with the bundled version
+
+kill docker stuff to and clean out
+
+docker 
+
+## useful commands
+
+docker images # shows images existing on host system
+docker ps # show active containers
+docker ps -a # show all containers
+
+
+## everything below here is for review
+
 In the elevated Command Prompt
 
     bcdedit /set hypervisorlaunchtype auto
