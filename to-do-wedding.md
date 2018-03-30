@@ -4,13 +4,27 @@ August 18th-19th
 August 25th-26th
 Sept 8th-9th
 
+Hi there,
+
+I'm curious to know if you offered rentals of the camp for weddings, as I'm planning mine for this summer and was looking to do something a little more relaxed (ceremony by the lake, some swimming, etc.).
+
+If so, the dates we are considering are August 18th-19th, August 25th-26th or Sept 8th-9th.
+
+If this is something you offer, I'd appreciate any information or maybe scheduling some time to speak.
+
+Thanks!
+
+Jeremy Turowetz
+514-264-1055
+
 ## Camps to contact
 
-Pripsteins
 Maromac
 YCC
 Benai Brith
 Sun Youth
+Camp Massad
+
 Campe Colart
 Moncamp
 Camp Lac L'achigan
@@ -21,7 +35,7 @@ Camp Carowanis
 Camp Kinkora
 Camp Ouareau
 Camp Ville-Marie
-Camp Massad
+
 
 ## Wedding message
 
