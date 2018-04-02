@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+So Matt’s kinda pissed off as his amps have been used a few times and settings are messed up, also someone broke one of his strings on his guitar and didn’t replace it / drop off strings or whatever, so he’d rather no one use his stuff anymore.
+
 - Measure laundry shelves
 - Pick up scotts computer & shelves
 - Pick up drums chez Mike M.

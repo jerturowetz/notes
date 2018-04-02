@@ -1,12 +1,12 @@
 # Jer's grocery list
 
+sandwich meat
+
+coffee filters
 wax paper
 long aliminumn foil
 swiffer mop sheets
 lids for mason jars
-tupperware
-milk
-bread
 
 ## Italian Grocery
 
