@@ -4,13 +4,10 @@
 
 root = true
 
-
 [*]
-
 # Change these settings to your own preference
 indent_style = space
 indent_size = 4
-
 # We recommend you to keep these unchanged
 # thought I'm pretty sure charset doesn't work yet in vscode
 end_of_line = lf
