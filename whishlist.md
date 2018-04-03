@@ -1,5 +1,7 @@
 # Wishlist
 
+- $100 DataVac Electric Duster
+- Paint brush, blush brush
 - get knives sharpened
 - Drum sticks
 - adidas scent balls for shoes
@@ -8,7 +10,7 @@
 - Wool socks
 - $20 ea Naiant inline attenuator x4
 - mouser xlr connectors 10-15
-- green cable for 35'
+- $109.20 140' Mogami W2549 Green (Redco)
 - Headphones recording helper for iphone
 - Stand for iphone for recording video
 
