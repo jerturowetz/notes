@@ -23,6 +23,27 @@ So Matt’s kinda pissed off as his amps have been used a few times and settings
 - [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
+## Flicks
+
+- The Hunger Games: Catching Fire
+- The Hunger Games: Mockingjay (pt1 & 2)
+- The Expanse
+- The Andromeda Strain
+- The Dead Zone
+- The Road
+- Her
+- Stalker
+- The Host
+- Holy Motors
+- Hunger Games
+- Starman
+- Time bandits
+- Prisoners
+- Memories of a Murder
+- Mystic River
+- Three Days of the Condor
+- The Man in the High Castle
+
 ## Psych help
 
 - Dr D. Sookman, 514-934-1934, ext 34290
