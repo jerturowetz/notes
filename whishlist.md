@@ -1,10 +1,11 @@
 # Wishlist
 
-- $100 DataVac Electric Duster
-- Paint brush, blush brush
+- Paint brush set
+- Vise
+- Lids for mason jars
 - get knives sharpened
 - Drum sticks
-- adidas scent balls for shoes
+- Adidas scent balls for shoes
 - Bathing caps
 - AA & AAA batteries
 - Wool socks
