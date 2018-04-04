@@ -2,6 +2,7 @@
 
 So Matt’s kinda pissed off as his amps have been used a few times and settings are messed up, also someone broke one of his strings on his guitar and didn’t replace it / drop off strings or whatever, so he’d rather no one use his stuff anymore.
 
+- Sharpen knives
 - Measure laundry shelves
 - Pick up drums chez Mike M.
 - Clean up gists
@@ -9,16 +10,13 @@ So Matt’s kinda pissed off as his amps have been used a few times and settings
 - Go through WP plugins
 - Warn shakti of email changes
 - Shut down rackspace
-- Pick up cables by erin
-- AA roaul notes
+- Pick up cables by Erin
+- AA Roaul notes
 - Get guitar case from Rachel
 - Life insurance
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
-- get my ssh keys from mobile on to the new server
-- change bkdsn to be something else easier to seatch in lastpass
-- [Reaper tutorials](http://www.kennymania.com/reaper-videos/)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
 ## Flicks
