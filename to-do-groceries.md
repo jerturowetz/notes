@@ -1,19 +1,19 @@
 # Jer's grocery list
 
-sandwich meat
-
-coffee filters
-wax paper
-long aliminumn foil
-swiffer mop sheets
-lids for mason jars
+- sandwich meat
+- no. 2 coffee filters
+- mushrooms
+- saucisse
+- boneless chk breast
+- coffee
+- chips
+- soda
 
 ## Italian Grocery
 
 - pasta noodles
 - antipasta (eggplant)
 - Tomato sauce
-- sundried tonatoes in oil
 
 ## Asian Grocery
 
@@ -26,5 +26,7 @@ lids for mason jars
 
 - Meat
 - Toothpaste
-- paper towel
-
+- paper towels
+- toilet paper
+- long aluminum foil
+- swiffer mop sheets
