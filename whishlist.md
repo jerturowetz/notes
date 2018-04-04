@@ -1,5 +1,7 @@
 # Wishlist
 
+- Colored electrical tape set
+- Heat shrink
 - Paint brush set
 - Lids for mason jars
 - get knives sharpened
