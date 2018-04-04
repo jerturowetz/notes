@@ -1,18 +1,9 @@
 # Wishlist
 
-- Colored electrical tape set
-- Heat shrink
-- Paint brush set
-- Lids for mason jars
-- get knives sharpened
-- Drum sticks
+- 5A & 5B bulk drum sticks
 - Adidas scent balls for shoes
 - Bathing caps
-- AA & AAA batteries
-- Wool socks
-- $20 ea Naiant inline attenuator x4
-- mouser xlr connectors 10-15
-- $109.20 140' Mogami W2549 Green (Redco)
+- AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
 - Stand for iphone for recording video
 
@@ -40,8 +31,7 @@
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Another aluminum half sheet pan & libertyware cooling rack
-- Cuisinart CEK-40 electric knife
-- Carving knife (& fork)
+- Carving knife
 - Large Reversible Maple Carving Board
 - Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
@@ -72,28 +62,12 @@
 
 ## Workshop & soldering station
 
-- [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
-- [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
-- [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
-- [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-- Mini electronics screwdriver & bits
-- Mixwizard Power button replace
-- 18" x 24" piece of wood
-- Heat shrink (flexible polyolefin either adhesive lined or not)
-- Artists tape
-- zip ties
-- $275 Canare 100m spool (Yellow, Orange, Blue)
-- $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
 - Vise
-- TRS connectors (20)
-- XLR connectors (15 ea male & female)
-- $30 Xcelite 170M shearcutters
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
-- desoldering plunger & wick
 - Better solder (Kester 44 60/40 Rosin core lead solder, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
 - Stripping tools:
-  - xcelite shear cutter
+  - Xcelite 170M shearcutters
   - klein tools 20GA - 32Ga wire strippers
   - Eclipse 200-015 cutter
   - larger diagonal cutters (Channellock 436 6-Inch Diagonal Cutting Plier)
@@ -103,13 +77,29 @@
   - [UTP Cable Cutter Stripper Tool](https://www.amazon.ca/gp/product/B003OSRB5C/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
   - [Coax stripping tool](https://www.amazon.ca/gp/product/B00L316XTW/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
 
+- XLR, TRS & TS connectors
+- Balanced Cable
+
+- [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
+- [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
+- [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
+- [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
+- Mini electronics screwdriver & bits
+- Colored electrical tape
+- Artists tape
+- Regular, large & small zip ties
+- desoldering plunger & wick
+- Cheap paint brushes for cleaning boards
+- Mixwizard Power button replace
+- Heat shrink (flexible polyolefin either adhesive lined or not)
+- Heat Gun
+
 ## Music gear
 
-- $150 Whirlwind Catdusa
-- $500 Whirlwind Medusa MultiSnake
+- $20 ea Naiant inline attenuator x4
+- Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-- Gator G-TOUR-GRC-1406 (an amazing case)
 - K&M 23323 for snare bottom
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
