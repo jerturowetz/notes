@@ -1,7 +1,6 @@
 # Wishlist
 
 - Paint brush set
-- Vise
 - Lids for mason jars
 - get knives sharpened
 - Drum sticks
@@ -69,30 +68,24 @@
 - tshirt "not really drinking"
 - [more boxes](http://www.instructables.com/id/How-to-Make-an-Exploding-Box-DIY-Paper-Crafts-Wedd/)
 
-## Mixer connections
-
-- Snake box on floor. At least 8 XLR - anything else is gravy
-- 8 channel TRS snake (TRS >> DB25 >> TRS would be ideal)
-
 ## Workshop & soldering station
 
-Lots of gear from [Mouser](https://ca.mouser.com)
-
-- Scoring tool
-- Double sided tape
 - [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
 - [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
 - [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
+- Mini electronics screwdriver & bits
 - Mixwizard Power button replace
 - 18" x 24" piece of wood
+- Heat shrink (flexible polyolefin either adhesive lined or not)
 - Artists tape
 - zip ties
+- $275 Canare 100m spool (Yellow, Orange, Blue)
+- $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
 - Vise
 - TRS connectors (20)
 - XLR connectors (15 ea male & female)
-- $275 Canare 100m spool (Yellow, Orange, Blue)
-- $0.80/ft Mogami balanced cable (100' red, 140' green, 200' yellow, 50' blue)
+- $30 Xcelite 170M shearcutters
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
 - desoldering plunger & wick
@@ -110,6 +103,8 @@ Lots of gear from [Mouser](https://ca.mouser.com)
 
 ## Music gear
 
+- $150 Whirlwind Catdusa
+- $500 Whirlwind Medusa MultiSnake
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
 - Gator G-TOUR-GRC-1406 (an amazing case)
