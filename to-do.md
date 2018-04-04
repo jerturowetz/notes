@@ -3,12 +3,10 @@
 So Matt’s kinda pissed off as his amps have been used a few times and settings are messed up, also someone broke one of his strings on his guitar and didn’t replace it / drop off strings or whatever, so he’d rather no one use his stuff anymore.
 
 - Measure laundry shelves
-- Pick up scotts computer & shelves
 - Pick up drums chez Mike M.
 - Clean up gists
 - WordPress snippets to files
-- go through new plugins
-- Review developer plugins
+- Go through WP plugins
 - Warn shakti of email changes
 - Shut down rackspace
 - Pick up cables by erin
@@ -28,18 +26,12 @@ So Matt’s kinda pissed off as his amps have been used a few times and settings
 - The Hunger Games: Catching Fire
 - The Hunger Games: Mockingjay (pt1 & 2)
 - The Expanse
-- The Andromeda Strain
 - The Dead Zone
-- The Road
 - Her
 - Stalker
 - The Host
-- Holy Motors
-- Hunger Games
-- Starman
 - Time bandits
 - Prisoners
-- Memories of a Murder
 - Mystic River
 - Three Days of the Condor
 - The Man in the High Castle
