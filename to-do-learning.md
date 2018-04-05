@@ -1,13 +1,25 @@
 # To do : Code School
 
+SVG Icons
+Read the WPML getting started guide
+Regression Testing
+SOLID
+[Google Web Fundamentals](https://developers.google.com/web/)
+[List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+[Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
+[HTML & CSS is hard](https://internetingishard.com/html-and-css/)
+[Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 
-mvc
-django & flask
-laravel
-ubit testing
+
+
+
+
+
+
+
+
 
 [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
-
 [Javascript learning resources](http://joellongie.com/javascript/)
 [Sass letter by letter](https://www.sitepoint.com/premium/courses/atoz-sass-2977)
 [NPM as a build tool](https://scotch.io/tutorials/using-npm-as-a-build-tool)
@@ -40,15 +52,11 @@ ubit testing
 
 ### Full stack
 
-- Install DB locally (MongoDB or MySQL)
-- Build backend app that can read/write to the database & expose an API to a frontend app
-- Node.js with express.js / PHP Lumen, Laravel
 - [Brad Westfall - Basic WebDev workflow](https://www.youtube.com/channel/UCZi-0WJPUNb_LQocFMJw5dA)
 - [Brad Westfall - Learn React](https://www.youtube.com/channel/UCZi-0WJPUNb_LQocFMJw5dA)
 
 ## Google web starter kit
 
-- learn the html5 boilerplate instead of google web starter kit
 - [The one cent blog - static site gen voodoo](https://hugotunius.se/2016/01/10/the-one-cent-blog.html)
 - [Modern DevTools: Running a performance profile on the YouTube search box](https://www.youtube.com/watch?v=E4KAWf_fKbM)
 - [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI)
@@ -65,31 +73,6 @@ ubit testing
 - [Wp engine WP-CLI hacks](https://anchor.host/2016/03/07/hacking-wp-engines-web-based-wp-cli/)
 - [PHP Academy](https://www.youtube.com/user/phpacademy)
 - [better php](https://www.youtube.com/user/betterphp)
-
-## PHP Storm
-
-https://deliciousbrains.com/how-we-use-phpstorm-wordpress-development/
-https://cnpagency.com/blog/debugging-wordpress-on-vvv-with-phpstorm/
-https://blog.jetbrains.com/phpstorm/2016/06/debugging-vvv-vagrant-setup-with-phpstorm/
-https://tommcfarlin.com/phpstorm-wordpress-theme/
-https://tommcfarlin.com/using-phpstorm-for-wordpress/
-https://www.jetbrains.com/help/phpstorm/quick-start-guide.html
-https://www.jetbrains.com/phpstorm/documentation/phpstorm-video-tutorials.html
-https://www.youtube.com/watch?v=tH2TvzgFCU0
-https://confluence.jetbrains.com/display/PhpStorm/Tutorials
-https://www.jetbrains.com/help/phpstorm/2017.1/preparing-to-use-wordpress.html
-http://wordpress.tv/2016/04/19/jimmy-smutek-wordpress-wordflows-with-phpstorm/
-https://mattgeri.com/article/phpstorm-for-wordpress-development/
-https://www.youtube.com/watch?v=nt85dnx0V8Y
-https://www.youtube.com/watch?v=R4URxom9Kew
-https://deliciousbrains.com/how-we-use-phpstorm-wordpress-development/
-https://confluence.jetbrains.com/display/PhpStorm/WordPress+Development+using+PhpStorm
-https://www.jetbrains.com/help/phpstorm/2017.1/preparing-to-use-wordpress.html
-https://www.youtube.com/watch?v=TMlqHX0KTzo
-https://blog.jetbrains.com/phpstorm/2016/06/debugging-vvv-vagrant-setup-with-phpstorm/
-PHP Code Sniffer with WordPress Coding Standards and PHPStorm
-[Using the WP coding standwsrsd in php storm](https://www.youtube.com/watch?v=R4URxom9Kew)
-[PHP Codesniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ## Code Checking & debugging
 
@@ -338,9 +321,8 @@ How to read chrome dev tools network timer
 
 ## SQL
 
-http://www.sqlfiddle.com/
-https://www.w3schools.com/sql/
-https://www.sqlteaching.com/
+[Do the entire w3schools catalogue](https://www.w3schools.com/)
+[Do the Mozilla catalogue](https://developer.mozilla.org/en-US/)
 
 ## REST
 
@@ -364,154 +346,33 @@ https://stackoverflow.com/questions/328496/when-would-you-use-the-builder-patter
 https://en.wikipedia.org/wiki/Fluent_interface
 Refactoring & design principles https://refactoring.guru/
 
-## Jekyll etc
-
-liquid templating https://www.shopify.ca/partners/blog/115244038-an-overview-of-liquid-shopifys-templating-language
-Vagrant with Jekyll http://kappataumu.com/articles/vagrant-jekyll-github-pages-streamlined-content-creation.html
-Content Modelling https://www.smashingmagazine.com/2016/02/content-modeling-with-jekyll/
-Jekyll for wordpress devs https://www.smashingmagazine.com/2017/04/jekyll-wordpress-developers/
-https://www.shopify.ca/partners/blog/115244038-an-overview-of-liquid-shopifys-templating-language
-
-## Hugo & Netlify - SUPER EASY DEPLOYMENTS
-
-https://www.netlify.com/pricing/
-https://github.com/netlify/gocommerce
-https://www.netlifycms.org/
-
 ## DO server tutorials
 
-- [How To Set Up a Firewall with UFW on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-14-04)
-- [UFW Essentials: Common Firewall Rules and Commands](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
-- [How To Secure Apache with Let's Encrypt on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04)
-- [How To Install Wordpress on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04)
-- [How To Install and Secure phpMyAdmin on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-12-04)
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
-- [How To Use SFTP to Securely Transfer Files with a Remote Server](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
-
-## SEO tools
-
-GSA search engine ranker
-Scrapebox
-GSA Platform identifyer
-GSA Proxy Scrape
-Zenposter
 
 ## Various
 
-[Getting started with pattern libraries](https://alistapart.com/blog/post/getting-started-with-pattern-libraries)
-[An In-Depth Overview Of Living Style Guide Tools](https://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/)
-[How To Automate Style Guide-Driven Development](https://www.smashingmagazine.com/2015/03/automating-style-guide-driven-development/)
-[Style Guide Generator Roundup](https://alistapart.com/blog/post/style-guide-generator-roundup)
-Check xdebug in vscode
-choose a slideshow app for windows / markdown
-RankerX SEREngines
-back up dotfiles
-review Static site generators (hugo / netlify / netlify cdn & cms)
-[Yeoman webapp generator](https://github.com/yeoman/generator-webapp)
-https://deliciousbrains.com/building-reactive-wordpress-plugins-part-1-backbone-js/
-https://deliciousbrains.com/server-management-beginners/
-https://deliciousbrains.com/hosting-wordpress-setup-secure-virtual-server/
-capstone project
-Writing on github https://help.github.com/categories/writing-on-github/
-Ghost CMS - loooks really really cool
-UTF8 and Unicode ref http://www.utf-8.com/
-PuPHPet (https://puphpet.com/) - simple GUI to set up virtual machines for Web development
-what is elastic search
-React native stuff https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/
-learn all about the ssh command line command
-Clearing your front end job interview - https://codeburst.io/clearing-your-front-end-job-interview-css-95bdd82871f2
-Object oriented CSS https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
-W3 Schools html should be done
 [Best Practices for long scrolling](https://blogs.adobe.com/creativecloud/best-practices-for-long-scrolling/)
-http://bobby-tables.com/
-1 click POT files https://andrei-lupu.com/phpstorm/1click-update-wordpress-language-pot-files-phpstorm/
-Automating CSS Regression Testing (http://css-tricks.com/automating-css-regression-testing/)
-Bourne Shell Programming (http://www.ooblick.com/text/sh/)
-Heroku (https://devcenter.heroku.com/articles/getting-started-with-php#introduction)
-https://devcenter.heroku.com/articles/heroku-cli
-MVC Concepts (Routing, Database Mapping, Helpers, Data Binding, Templating & UI)
-what a user agent is, what a session is, and how to set a cookie from the server-side.
-AJAX (from the basics)
-Aria Roles
-Docker
-[A visual intorduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-https://www.khanacademy.org/computing/computer-science
-https://www.khanacademy.org/computing/computer-programming
-Form Validation
-Unit testing
-Find a Jekyll vagrant workflow
-Bower for foundationpress
-Webpack (https://medium.freecodecamp.org/introducing-webpack-academy-bad0a4e23deb)
-Hydra for REST APIs http://www.markus-lanthaler.com/hydra/
-Bash scripting http://wiki.bash-hackers.org/scripting/tutoriallist
-HTML5 for web designers https://html5forwebdesigners.com/today/
-How i explained rest to my wife http://www.looah.com/source/view/2284
-HTML spec https://html.spec.whatwg.org/dev/introduction.html#is-this-html5?
-The 12 factor app https://12factor.net/
-Pro wordpres community https://www.reddit.com/r/ProWordPress/
-Learning Bash https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/
-Web security fundamentals https://info.varonis.com/web-security-fundamentals-course
-Intro to service workers https://developers.google.com/web/fundamentals/getting-started/primers/service-workers
-Mastering Chrome Dev Tools https://medium.freecodecamp.org/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3
-Unicode and Character Sets https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
-SOLID https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
-Test Driven Development http://agiledata.org/essays/tdd.html
-AirBnB CSS/Sass guide https://github.com/airbnb/css
-Database Continuous Integration 101 https://www.atlassian.com/blog/archives/database-continuous-integration-redgate
-Security guide for devs https://github.com/FallibleInc/security-guide-for-developers?utm_source=codropscollective
-Deployment talk https://www.phpdorset.co.uk/talks/2016/november
-Rem vs EM https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
-Rem vs EM https://zellwk.com/blog/rem-vs-em/
-ARIA and Progressive enhancment https://alistapart.com/article/aria-and-progressive-enhancement
-SOLID Principles (agile) https://code.tutsplus.com/series/the-solid-principles--cms-634
-Bash tutorials http://wiki.bash-hackers.org/scripting/tutoriallist
-Machtelt Garrels http://tldp.org/LDP/Bash-Beginners-Guide/html/
-More visual regression https://abhishek-tiwari.com/post/visual-regression
-More visual regression testing https://css-tricks.com/visual-regression-testing-with-phantomcss/
-Mobile design best practices https://blogs.adobe.com/creativecloud/mobile-design-best-practices/
-Testing https://martinfowler.com/bliki/TestPyramid.html
 Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
-Getting started with IRC https://developer.mozilla.org/en-US/docs/Mozilla/QA/Getting_Started_with_IRC
-BEM and SMACSS https://www.sitepoint.com/bem-smacss-advice-from-developers/
-OOCSS http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
-OOCSS https://www.keycdn.com/blog/oocss/
-Prerender and prefetch https://msdn.microsoft.com/library/dn265039(v=vs.85).aspx
-http://ctankersley.com/2016/11/13/developing-on-windows-2016/
-Cross Browser development https://developer.mozilla.org/en-US/docs/Using_Web_Standards_in_your_Web_Pages/Developing_cross-browser_and_cross-platform_pages
-Cross Browser development http://www.crossbrowserbook.com/
-Language on the web https://www.w3.org/International/getting-started/language
-Detecting user agent https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent
-CSS game http://flukeout.github.io/
-Building good, semantic html https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
-Html form structure https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form
-Better form structure & mist https://medium.com/@joelennon/common-html-mistakes-de28db16b964
-Type on the web http://webtypography.net/toc/
-Semantic HTML https://internetingishard.com/html-and-css/semantic-html/
-HTML5 Semantics and Good Coding Practices https://www.codeproject.com/Articles/291965/HTML-Semantics-and-Good-Coding-Practices
-HTML semantics https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
-Nic html css lessons http://learn.shayhowe.com/advanced-html-css/
-Kerning game http://type.method.ac/
-Servers for hackers https://serversforhackers.com/
-Learn postman https://www.getpostman.com/
-Learn HHVM and Hack
-Security guide for devs https://github.com/FallibleInc/security-guide-for-developers
-Docpad for projects https://docpad.org/
-Homesick for dot file sync https://github.com/technicalpickles/homesick
-Emmet stuff
-[Stash - for chaching expensive queries](http://www.stashphp.com/), might be wordpres friendly
-Grab front-nd guide https://github.com/grab/front-end-guide
-https://www.smashingmagazine.com/2011/01/keeping-web-users-safe-by-sanitizing-input-data/
-[Pattern Lab](http://patternlab.io/)
-[Python - The hard way](https://learnpythonthehardway.org/book/preface.html)
-MYSQL command line
-[Basics of OOCSS](http://www.hongkiat.com/blog/basics-of-object-oriented-css/)
-[PostCss guide](http://www.hongkiat.com/blog/postcss-plugins/)
-[Webpack](http://webpack.github.io/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Many things Wordpress
 
-wp multisite vs wpml
-wp multisite in general
 [Wordpress automated testing](https://make.wordpress.org/core/handbook/testing/automated-testing/)
 [How wordpress loads](http://www.wpbeginner.com/wp-tutorials/how-wordpress-actually-works-behind-the-scenes-infographic/?display=wide)
 [Wordpress testing](http://codeception.com/for/wordpress)
@@ -530,10 +391,6 @@ wp multisite in general
 https://wpengine-2.wistia.com/medias/xpfhee70ps
 https://hs.wpengine.com/recorded-webinar-git-in-motion?submissionGuid=fdea8865-20fd-4b02-bb51-3ab4766f799f&amp;wvideo=uun3z3vgcd
 https://knowthecode.io/
-Wp sync db ?
-Timber ? Should i even bother?
-Easy wp security https://www.youtube.com/watch?v=BAJwHnLeeYM&index=11&list=WL
-Wordpress & trellis http://davekiss.com/develop-wordpress-sites-like-a-goddamn-champion/
 https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/
 https://vip.wordpress.com/documentation/self-hosted-development-best-practices/
 https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/
@@ -547,7 +404,6 @@ http://wordpress.tv/2011/09/02/andrew-nacin-debugging-in-wordpress/
 https://make.wordpress.org/core/handbook/best-practices/coding-standards/
 https://css-tricks.com/wp-rest-api-remote-control-wordpress/
 https://code.tutsplus.com/tutorials/wp-rest-api-setting-up-and-using-basic-authentication--cms-24762
-Bash for wordpress https://tommcfarlin.com/bash-for-wordpress-developers/
 https://code.tutsplus.com/tutorials/creating-upcoming-events-plugin-in-wordpress-custom-post-type-and-the-dashboard--wp-35404
 https://roketco.com/log/the-ultimate-workflow-guide-for-teams-building-wordpress-sites-with-acf-timber-foundation-and-local-machines-with-remote-servers-through-vagrant-and-git/
 http://underscores.me/
@@ -591,38 +447,13 @@ https://deliciousbrains.com/storing-wordpress-in-git/
 https://codex.wordpress.org/Giving_WordPress_Its_Own_Directory
 https://deliciousbrains.com/how-why-install-wordpress-core-subdirectory/
 https://www.airpair.com/wordpress/posts/best-practices-and-patterns-for-wordpress-developers
-Scaling Wordpress
-https://wordpress.org/support/topic/how-to-use-cmb2-inside-new-plugins/
 https://code.tutsplus.com/tutorials/using-tools-for-quality-wordpress-development--cms-24809
-http://upflow.co/l/vQh4/wordpress-plugins-for-development-2016/ppp=37001-3
-https://tommcfarlin.com/direct-database-queries-wordpress/
 https://tommcfarlin.com/namespaces-and-autoloading-in-wordpress/
-https://torquemag.io/2016/02/use-cookies-wordpress/
-https://10up.github.io/wp-component-library/component/author-card/index.html
-https://premium.wpmudev.org/blog/set-get-delete-cookies/
-WP-CLI https://wpshout.com/quick-guides/installing-wp-cli/
-WP-CLI & rsync https://wpshout.com/quick-guides/migrate-wordpress-wp-cli-rsync/
-Wordpress REST api https://wpengine.com/resources/the-ultimate-guide-to-the-wordpress-rest-api/
-More Wordpress REST https://developer.wordpress.org/rest-api/
 The modern wordpress server stack https://www.smashingmagazine.com/2016/05/modern-wordpress-server-stack/
-https://medium.com/@Codebryo/continuous-deploy-your-wordpress-theme-to-wpengine-with-codeship-bd3d1636f682
-Properly Writing WordPress Plugin Constructors https://tommcfarlin.com/wordpress-plugin-constructors/
-wp rest api https://www.youtube.com/watch?v=ZT-XOBVGAIM
 WP Database https://premium.wpmudev.org/blog/devs-guide-wordpress-database/
 WP Database https://premium.wpmudev.org/blog/mysql-databases/
 WordPress And Canonical URLs: When And How To Use Them https://www.elegantthemes.com/blog/tips-tricks/wordpress-canonical-url
 A Guide to Canonicalization for WordPress https://premium.wpmudev.org/blog/wordpress-canonicalization-guide/
-http://davekiss.com/develop-wordpress-sites-like-a-goddamn-champion/
-https://torquemag.io/2017/01/2017-wordpress-workflow/
-https://pressable.com/blog/2017/02/23/wordpress-development-workflow/
-https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-custom-endpoints/
-https://perishablepress.com/6g/
-Wp cli to install plugins
-http://kizu514.com/blog/write-unit-tests-for-your-wordpress-plugin-using-phpstorm-code-completion/
-Wp cli to grab git repos of my personal plugins
-Must use Wordpress https://github.com/markjaquith/WP-Stack
-https://roots.io/bedrock/
-[composer with wordpress](https://roots.io/using-composer-with-wordpress/)
 [Deploying Bedrock+Sage WordPress projects to WP Engin](https://hellojason.net/blog/deploying-bedrock-sage-wordpress-to-wp-engine/)
 [Github updater](https://github.com/afragen/github-updater)
 [Composer in Wordpress](http://composer.rarst.net/)
