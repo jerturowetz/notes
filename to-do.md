@@ -1,6 +1,19 @@
 # Jer's To-Do List
 
-So Matt’s kinda pissed off as his amps have been used a few times and settings are messed up, also someone broke one of his strings on his guitar and didn’t replace it / drop off strings or whatever, so he’d rather no one use his stuff anymore.
+To be direct: that string change should have been done ASAP - if not that evening then as soon as possible after. Not 2 days later on Sat, not a week later. Also the guitar shouldn’t have been in use at all without asking.
+
+amphenol pricing
+gotham gac-3
+ewi mixer case
+
+the earthsea cycle
+the lies of lock and lamorra
+the killing moon
+the name of the wind
+gracelibg
+the wheel of time
+
+
 
 - Measure laundry shelves
 - Pick up drums chez Mike M.
@@ -35,6 +48,11 @@ So Matt’s kinda pissed off as his amps have been used a few times and settings
 - Mystic River
 - Three Days of the Condor
 - The Man in the High Castle
+- Hap and Leonarz
+- The Affair
+- Gods and Monsters
+- The Quiet American
+- School Ties
 
 ## Psych help
 
