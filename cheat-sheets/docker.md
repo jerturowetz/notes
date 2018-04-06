@@ -2,11 +2,26 @@
 
 ## useful commands
 
+    docker run hello-world      # Run and build a test image
     docker images               # shows images existing on host system
     docker ps                   # show active containers
     docker ps -a                # show all containers
 
-    docker run hello-world      # Run and build a test image
+    docker run -i -t imagename somethingtoinstallorrun
+
+what are -i and -t flags for docker command
+
+## messing with docker hub thingy
+
+index.docker.io
+
+docker pull imagename
+docker push imagename
+
+## Saving images
+
+    docker diff ID              # see diffs on container vs original state
+    docker commit ID NAME       # commit the container as a new image _(convention for name is username/name_
 
 ## `docker-machine`
 
