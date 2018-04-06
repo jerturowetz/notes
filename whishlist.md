@@ -108,7 +108,6 @@
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- SM58 x2
 - Granelli labs 57
 - AKG D112
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
@@ -117,6 +116,7 @@
 - IEC-6X4 (short power cords)
 - $315 USD GAS A-10 4 Channel Line Level Attenuator
 - Stereo graphic EQ/Limited for Mons
+- Mic case
 
 ### Drums
 

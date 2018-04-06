@@ -1,19 +1,7 @@
 # Jer's To-Do List
 
-To be direct: that string change should have been done ASAP - if not that evening then as soon as possible after. Not 2 days later on Sat, not a week later. Also the guitar shouldn’t have been in use at all without asking.
-
-amphenol pricing
-gotham gac-3
-ewi mixer case
-
-the earthsea cycle
-the lies of lock and lamorra
-the killing moon
-the name of the wind
-gracelibg
-the wheel of time
-
-
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 
 - Sharpen knives
 - Measure laundry shelves
