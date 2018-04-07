@@ -1,13 +1,13 @@
 # Jer's grocery list
 
-- sandwich meat
 - no. 2 coffee filters
+- sandwich meat
 - mushrooms
 - saucisse
-- boneless chk breast
+- boneless chk thighs
 - coffee
 - chips
-- soda
+- Other meat for freezig
 
 ## Italian Grocery
 
