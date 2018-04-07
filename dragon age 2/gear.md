@@ -1,6 +1,12 @@
 # Dragon Age 2 :: Gear
 
-## Hawk (DW Rogue)
+## Found
+
+Aveline - thudpuckers fist 38dps req str 28
+
+## Endgame
+
+### Hawk (DW Rogue)
 
 ### Hawk :: Weapons
 
