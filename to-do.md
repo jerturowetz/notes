@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+carly ray emotion
+hendrix duture 
+
+
 python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
 python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 
