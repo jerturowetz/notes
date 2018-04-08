@@ -35,24 +35,24 @@
 - **Behavior**: Ranged
 - **Presets**: Custom
 
-1. **Self: Health < 25**: Use potion
-1. **Self: Health >= 50**: Activate Blood of the First
-1. **Self: Health < 50**: Deactivate Blood of the First
-1. **Self: Any**: Activate Rock Armor
-1. **Self: Any**: Activate Elemental Weapons
-1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
-1. **Enemy: Target of Hawke**: Use Hex of Torment
-1. **Enemy: Brittle**: Skip next tactic
-1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
-1. **Enemy: Target of Hawke**: Use Petrify
+1. ~~**Self: Health < 25**: Use potion~~
+1. ~~**Self: Health >= 50**: Activate Blood of the First~~
+1. ~~**Self: Health < 50**: Deactivate Blood of the First~~
+1. ~~**Self: Any**: Activate Rock Armor~~
+1. ~~**Self: Any**: Activate Elemental Weapons~~
+1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
+1. ~~**Enemy: Target of Hawke**: Use Hex of Torment~~
+1. ~~**Enemy: Brittle**: Skip next tactic~~
+1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
+1. ~~**Enemy: Target of Hawke**: Use Petrify~~
 1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
 1. **Enemy: Staggered**: Use Crushing Prison
-1. **Enemy: Staggered**: Use Chain Lightning
+1. ~~**Enemy: Staggered**: Use Chain Lightning~~
 1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
 1. **Enemy: Target of Hawke**: Use Winter's Grasp
-1. **Enemy: Using Ranged or Magic Attack**: Use cond for next tactic
-1. **Enemy: Attacking Hawke**: Use Stonefist
-1. **Enemy: Target of Hawke**: Attack
+1. ~~**Enemy: Using Ranged or Magic Attack**: Use cond for next tactic~~
+1. ~~**Enemy: Attacking Hawke**: Use Stonefist~~
+1. ~~**Enemy: Target of Hawke**: Attack~~
 1. **Ennmy: Nearest Visible rogue**: Use Misdirection Hex
 1. **Enemy: Target of Hawke**: Horror
 
