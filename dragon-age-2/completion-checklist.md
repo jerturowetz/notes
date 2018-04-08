@@ -14,22 +14,9 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 
 ## ACT 1
 
-### Back Packs (act 1)
-
-- Robes by Jean Luc, Hightown
-- Apparel Shop, Lowtown
-
-### Upgrades (act 1)
-
-- **Bethany:** Heirloom Amell Protective Sigils: Last room in the Birthright quest
+- **Back Pack:** Robes by Jean Luc, Hightown
+- **Back Pack:** Apparel Shop, Lowtown
 - **Aveline:** Underpadding - Guardsman Pattern: Armor Merchant shop in Lowtown
-
-### Gifts (act 1)
-
-- **Bethany:** Portrait of Your Mother : Found in the Amell Estate Cellar during the Birthrigh quest
-
-### Special Tomes/Potions (act 1)
-
 - Tome of Technique (+1 talent) : Hubert’s Fine Goods, Hightown
 - Avernus's Experimental Draught (+2 Stats) : Dark Epiphany Quest, only available if you imported a DA:O save where you spared Avernus
 
@@ -51,27 +38,22 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 
 ### Supplier (act 1)
 
-- Elfroot: 2 Sundermount, 2 Wounded Coast, 1 Sundermount Ambush Site, 1 Bone Pit (The Bone Pit Quest)
-- Spindleweed: 1 Lowtown, 1 Slaver Cavern (Wayward Son Quest), 1 Wounded Coast
-- Embrium: 1 Dead Man's Pass (Blackpower Promise Quest)
-- Lyrium: 1 Bone Pit Mines(The Bone Pit Quest), 1 Runaway's Cavern (Act of Mercy Quest), 2 Deep Roads, 1 Tal-Vashoth Cavern (Blackpower Promise Quest)
-- Silverite: 1 Vimmark Mountain Pass (Shepherding Wolves Quest), 1 Deep Roads, 1 Tal-Vashoth Cavern (Blackpower Promise Quest), 1 Sundermount Caverns - (Long Way Home Quest)
-- Orichalcum: 1 Primeval Ruins (Deep Roads Expedition Quest)
-- Deep Mushroom: 1 Slaver Caverns (Wayward Son Quest), 2 Deep Roads, 1 Sundermount, 1 Bone Pit Mines (The Bone Pit Quest)
-- Deathroot: 1 Darktown, 1 Sewers, 1 Sanctuary (Enemies Among Us Quest)
-- Glitterdust: 1 Wounded Coast
+- (6) Elfroot: 2 Sundermount, 2 Wounded Coast, 1 Sundermount Ambush Site, 1 Bone Pit (The Bone Pit Quest)
+- (3) Spindleweed: 1 Lowtown, 1 Slaver Cavern (Wayward Son Quest), 1 Wounded Coast
+- (1) Embrium: 1 Dead Man's Pass (Blackpower Promise Quest)
+- (5) Lyrium: 1 Bone Pit Mines(The Bone Pit Quest), 1 Runaway's Cavern (Act of Mercy Quest), 2 Deep Roads, 1 Tal-Vashoth Cavern (Blackpower Promise Quest)
+- (4) Silverite: 1 Vimmark Mountain Pass (Shepherding Wolves Quest), 1 Deep Roads, 1 Tal-Vashoth Cavern (Blackpower Promise Quest), 1 Sundermount Caverns - (Long Way Home Quest)
+- (1) Orichalcum: 1 Primeval Ruins (Deep Roads Expedition Quest)
+- (5) Deep Mushroom: 1 Slaver Caverns (Wayward Son Quest), 2 Deep Roads, 1 Sundermount, 1 Bone Pit Mines (The Bone Pit Quest)
+- (3) Deathroot: 1 Darktown, 1 Sewers, 1 Sanctuary (Enemies Among Us Quest)
+- (1) Glitterdust: 1 Wounded Coast
 
 --
 
 ## ACT 2
 
-### Back Packs (act 2)
-
-- Mage Goods, Gallows
-- Robes by Jean Luc, Hightown
-
-### Upgrades (act 2)
-
+- **Back Pack:** Mage Goods, Gallows
+- **Back Pack:** Robes by Jean Luc, Hightown
 - **Anders:** Lyrium Weave: Mage Goods shop in the Gallows
 - **Anders:** Armor Struts: Lirene's Fereldan Imports shop in Lowtown
 - **Anders:** Spirit Essence: Dissent quest in the Gallows Dungeon
@@ -92,6 +74,8 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - **Sebastian:** Enchanted Articulation: Armor Shop in the Gallows
 - **Sebastian:** Mail Undertunic: Repentance quest on the Harriman Estate
 - **Sebastian:** Reinforced Bracers: Olaf's Armory shop in Hightown
+- Greater Tome of the Mortal Vessel (+2 Stats) : Trinkets Emporium, Lowtown
+- Tome of Technique (+1 Talent) : Ilen's Crafts, Sundermount
 
 ### Gifts (act 2)
 
@@ -102,11 +86,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - **Merril:** Wooden Halla Carving : Purchase at Ilen's Craft shop at Sundermount
 - **Varric:** The Tethras Signet Ring : Sold at the Trinket's Emporium in Lowtown
 - **Sebastian:** Strakhaven Longbow : Found in the Harimann Estate during his companions quest Repentance
-
-### Special Tomes/Potions (act 2)
-
-- Greater Tome of the Mortal Vessel (+2 Stats) : Trinkets Emporium, Lowtown
-- Tome of Technique (+1 Talent) : Ilen's Crafts, Sundermount
 
 ### Recipies (act 2)
 
