@@ -21,8 +21,8 @@ Until about level 16 you're just full on damage. After this is when we build on 
 1. **Scoundrel**: Blindside
 1. Unlock **Assasin** & get **Assasin**: Mark of Death
 1. **Dual Weild**: Merciless Strike & **Dual Weild**: Twin Fangs *(via tome of Physical)*
-1. **Assasin**: Bloodlust
 1. **Dual Weild**: Reversed Grip
+1. **Assasin**: Bloodlust
 1. **Assasin**: Pinpoint Strikes
 1. **Assasin**: Assasinate
 1. **Assasin**: Annihilate
@@ -60,21 +60,21 @@ If you'd prefer to go through the Duelist tree and be an even more frail but bra
 
 ### Anders :: Abilities by Level
 
-1. **Creation**: Heal
-1. **Creation**: Greater Heal
-1. **Creation**: Heroic Aura
-1. **Creation**: Valiant Aura
-1. **Creation**: Haste
-1. **Vengeance**: Panacea
-1. **Vengeance**: Vengeance
-1. **Vengeance**: Aid Allies
-1. **Primal**: Chain Lightning
+1. ~~**Creation**: Heal~~
+1. ~~**Creation**: Greater Heal~~
+1. ~~**Creation**: Heroic Aura~~
+1. ~~**Creation**: Valiant Aura~~
+1. ~~**Creation**: Haste~~
+1. ~~**Vengeance**: Panacea~~
+1. ~~**Vengeance**: Vengeance~~
+1. ~~**Vengeance**: Aid Allies~~
+1. ~~**Primal**: Chain Lightning~~
 1. **Vengeance**: Swift Justice
-1. **Creation**: Greater Haste
-1. **Vengeance**: Wrath
 1. **Primal**: Stonefist
 1. **Primal**: Petrify
 1. **Primal**: Dessicate
+1. **Creation**: Greater Haste
+1. **Vengeance**: Wrath
 1. **Vengeance**: Regroup
 1. **Primal**: Chain Reaction
 1. **Primal**: Golem's Fist
@@ -102,17 +102,17 @@ Or you can go for **Elemental** for brittle & cc
 
 ### Merril :: Abilities by Level
 
-1. **Dalish Pariah**: Blood of the First
-1. **Entropy**: Hex of Torment
-1. **Primal**: Stonefist
-1. **Primal**: Petrify
-1. **Primal**: Chain Lightning
-1. **Primal**: Chain Reaction
-1. **Primal**: Tempest
-1. **Primal**: Dessicate
-1. **Primal**: Rock Armor
-1. **Primal**: Galvanism
-1. **Primal**: Golem's Fist
+1. ~~**Dalish Pariah**: Blood of the First~~
+1. ~~**Entropy**: Hex of Torment~~
+1. ~~**Primal**: Stonefist~~
+1. ~~**Primal**: Petrify~~
+1. ~~**Primal**: Chain Lightning~~
+1. ~~**Primal**: Chain Reaction~~
+1. ~~**Primal**: Tempest~~
+1. ~~**Primal**: Dessicate~~
+1. ~~**Primal**: Rock Armor~~
+1. ~~**Primal**: Galvanism~~
+1. ~~**Primal**: Golem's Fist~~
 1. **Arcane**: Elemental Weapons
 1. **Arcane**: Mind Blast
 1. **Arcane**: Crushing Prison
@@ -137,17 +137,17 @@ The rest is up to you, recommendation is:
 
 ### Aveline :: Abilities by Level
 
-1. **Weapon and Shield**: Shield Defense
-1. **Weapon and Shield**: Shield Bash
-1. **Weapon and Shield**: Perception
-1. **Battlemaster**: Rally
-1. **Battlemaster**: Battle Synergy
-1. **Vanguard**: Might
-1. **Warmonger**: Taunt
-1. **Guardian**: Immovable
-1. **Battlemaster**: Fearless Synergy
-1. **Guardian**: Retaliation
-1. **Guardian**: Bodyguard & 
+1. ~~**Weapon and Shield**: Shield Defense~~
+1. ~~**Weapon and Shield**: Shield Bash~~
+1. ~~**Weapon and Shield**: Perception~~
+1. ~~**Battlemaster**: Rally~~
+1. ~~**Battlemaster**: Battle Synergy~~
+1. ~~**Vanguard**: Might~~
+1. ~~**Warmonger**: Taunt~~
+1. ~~**Guardian**: Immovable~~
+1. ~~**Battlemaster**: Fearless Synergy~~
+1. ~~**Guardian**: Retaliation~~
+1. ~~**Guardian**: Bodyguard~~
 1. **Guardian**: Elite Bodyguard
 1. **Guardian**: Indomnidable
 1. **Guardian**: Thick Skin

@@ -2,7 +2,6 @@
 
 - 5A & 5B bulk drum sticks
 - Adidas scent balls for shoes
-- Bathing caps
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
 - Stand for iphone for recording video
@@ -32,6 +31,8 @@
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Another aluminum half sheet pan & libertyware cooling rack
 - Carving knife
+- Mercer Culinary 10-Inch Wide Bread Knife
+- Messermeister Avanta 4-Piece Fine Edge Steak Knife Set
 - Large Reversible Maple Carving Board
 - Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
@@ -62,7 +63,9 @@
 
 ## Workshop & soldering station
 
-- Vise
+- Guitar Neck rest
+- Small power tool
+- Drill bit peg winder
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
 - Better solder (Kester 44 60/40 Rosin core lead solder, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
