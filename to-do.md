@@ -1,8 +1,19 @@
 # Jer's To-Do List
 
+## Flicks
+
+- Prisoners
+- Mystic River
+- Three Days of the Condor
+- The Quiet American
+- School Ties
+
+## Various
+
 python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
 python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 
+- Fix Matt's Amp
 - Sharpen knives
 - Measure laundry shelves
 - Pick up drums chez Mike M
@@ -20,17 +31,6 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
-## Flicks
-
-- The Dead Zone
-- Time bandits
-- Prisoners
-- Mystic River
-- Three Days of the Condor
-- Gods and Monsters
-- The Quiet American
-- School Ties
-
 ## Psych help
 
 - Dr D. Sookman, 514-934-1934, ext 34290
@@ -43,9 +43,31 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 ## Outstanding Bills
 
 - $300 Kate furniture
+- $60 Matt
+- $?? Matt's amp
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
+
+## Code study
+
+- SVG Icons
+- Read the WPML getting started guide
+- Regression Testing
+- SOLID
+- [Google Web Fundamentals](https://developers.google.com/web/)
+- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+- [Do the entire w3schools catalogue](https://www.w3schools.com/)
+- [Do the Mozilla catalogue](https://developer.mozilla.org/en-US/)
+- [HTML & CSS is hard](https://internetingishard.com/html-and-css/)
+- [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [Understanding Yaml](https://docs.saltstack.com/en/latest/topics/yaml/)
+- [Servers for hackers](https://serversforhackers.com/)
+- [Command line power user lessons](https://commandlinepoweruser.com/)
+- [Try Git](https://www.codeschool.com/courses/try-git/)
+- Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
+- https://www.youtube.com/user/betterphp
+- https://www.youtube.com/user/phpacademy
 
 ## Musician's Insurance
 
@@ -68,23 +90,3 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
-
-## Code study
-
-- SVG Icons
-- Read the WPML getting started guide
-- Regression Testing
-- SOLID
-- [Google Web Fundamentals](https://developers.google.com/web/)
-- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
-- [Do the entire w3schools catalogue](https://www.w3schools.com/)
-- [Do the Mozilla catalogue](https://developer.mozilla.org/en-US/)
-- [HTML & CSS is hard](https://internetingishard.com/html-and-css/)
-- [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
-- [Understanding Yaml](https://docs.saltstack.com/en/latest/topics/yaml/)
-- [Servers for hackers](https://serversforhackers.com/)
-- [Command line power user lessons](https://commandlinepoweruser.com/)
-- [Try Git](https://www.codeschool.com/courses/try-git/)
-- Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
-https://www.youtube.com/user/betterphp
-https://www.youtube.com/user/phpacademy
