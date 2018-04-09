@@ -1,8 +1,5 @@
 # Jer's To-Do List
 
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
-
 - Sharpen knives
 - Measure laundry shelves
 - Pick up drums chez Mike M
@@ -19,6 +16,19 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+
+## BKDSN
+
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
+
+- Docker
+- dev.bkdsn.com
+- Standard setup & work on Products
+- Cody Call
+- Cult call
+- Cody Clone
+- CULT Clone
 
 ## Flicks
 
