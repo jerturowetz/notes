@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+joyce
+mancy
+riva
+carol
+sandy
+perry
+joe
+
 ## Flicks
 
 - Prisoners
