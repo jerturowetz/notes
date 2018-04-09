@@ -4,7 +4,7 @@
 - Fix Matt's Amp
 - Sharpen knives
 - Measure laundry shelves
-- Call: Joyce, Nancy, Riva, Carol, Sandy, Perry, Joe, Matthew
+- Call: Nancy, Riva, Carol, Sandy, Matthew
 - SJ Tracks
 - Pick up drums chez Mike M
 - Clean up gists
