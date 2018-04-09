@@ -1,19 +1,11 @@
 # Jer's To-Do List
 
-Rogue Fitness Ohio Leather Weightlifting Lifting Belt
-
-Rogue's OHIO lifting belt, barely used. Was bought to use at my office Gym for workouts during the day, but we just closed the gym so no need (I have one at home already).
-
-These belts retail for $150 before tax. Open to reasonable offers.
-
-Check out the official website page here:
-https://www.roguecanada.ca/rogue-ohio-lifting-belt?ref_flt=b3JkZXI9cG9zaXRpb24mcD0xJmxpbWl0PTQw&ref_cid=5211
-
-- Call: Joyce, Nancy, Riva, Carol, Sandy, Perry, Joe, Matthew
-- SJ Tracks
+- Message summer camps
 - Fix Matt's Amp
 - Sharpen knives
 - Measure laundry shelves
+- Call: Joyce, Nancy, Riva, Carol, Sandy, Perry, Joe, Matthew
+- SJ Tracks
 - Pick up drums chez Mike M
 - Clean up gists
 - WordPress snippets to files
