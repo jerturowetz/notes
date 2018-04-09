@@ -1,26 +1,7 @@
 # Jer's To-Do List
 
-joyce
-mancy
-riva
-carol
-sandy
-perry
-joe
-
-## Flicks
-
-- Prisoners
-- Mystic River
-- Three Days of the Condor
-- The Quiet American
-- School Ties
-
-## Various
-
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
-
+- Call: Joyce, Nancy, Riva, Carol, Sandy, Perry, Joe, Matthew
+- SJ Tracks
 - Fix Matt's Amp
 - Sharpen knives
 - Measure laundry shelves
@@ -38,6 +19,30 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+
+## Flicks
+
+- The Dead Zone
+- Time bandits
+- Prisoners
+- Mystic River
+- Three Days of the Condor
+- Gods and Monsters
+- The Quiet American
+- School Ties
+
+## BKDSN
+
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
+python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
+
+- Docker
+- dev.bkdsn.com
+- Standard setup & work on Products
+- Cody Call
+- Cult call
+- Cody Clone
+- CULT Clone
 
 ## Psych help
 
