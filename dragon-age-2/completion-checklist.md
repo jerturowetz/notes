@@ -14,12 +14,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 
 ## ACT 1
 
-- **Back Pack:** Robes by Jean Luc, Hightown
-- **Back Pack:** Apparel Shop, Lowtown
-- **Aveline:** Underpadding - Guardsman Pattern: Armor Merchant shop in Lowtown
-- Tome of Technique (+1 talent) : Hubert’s Fine Goods, Hightown
-- Avernus's Experimental Draught (+2 Stats) : Dark Epiphany Quest, only available if you imported a DA:O save where you spared Avernus
-
 ### Recipies (act 1)
 
 - Elfroot Potion : Lady Elegant, Lowtown
