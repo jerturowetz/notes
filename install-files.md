@@ -56,7 +56,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - NodeJS
 - Oracle VirtualBox
 - PO Edit
-- Python 2 or 3
+- Python 2 or 3 (x64 version!!)
 - imagemagick
 - Quicktime
 - Ruby
@@ -192,6 +192,6 @@ From an admin Powershell run:
 
 ## Docker & Hyper-V
 
-If you install Docker & activate Hyper-V all kinds of fun stuff might happen: one of these items is the installation of multiple switches. This should help describe how to manage that:
+If you install Docker & activate Hyper-V all kinds of fun stuff might happen: one of these items is the installation of multiple switches. This should help describe how to manage that
 
 [Docker for Windows (on Hyper-V): Fix the Network Communication issue](http://peterjohnlightfoot.com/docker-for-windows-on-hyper-v-fix-the-network-communication-issue/)
