@@ -1,7 +1,7 @@
 # Jer's To-Do List
 
 - Message summer camps
-- Fix Matt's Amp
+- Fix Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Sharpen knives
 - Measure laundry shelves
 - Call: Nancy, Riva, Carol, Sandy, Matthew
