@@ -56,7 +56,10 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - NodeJS
 - Oracle VirtualBox
 - PO Edit
-- Python 2 & 3 (make sure to use x64 versions for both as well as adding both to path)
+- Python 2 & 3
+  - make sure to use x64 versions for both
+  - adding both to path
+  - don't install in `\program files\`
 - imagemagick
 - Quicktime
 - Ruby
