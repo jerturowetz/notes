@@ -64,12 +64,11 @@
 
 ## Workshop & soldering station
 
-- Guitar Neck rest
-- Small power tool
-- Drill bit peg winder
+- Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)
+- Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)
+- desoldering plunger & wick
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
-- Better solder (Kester 44 60/40 Rosin core lead solder, Kester 245 No Clean Wire Solder 63/37 .031 for cleaner jobs)
 - Stripping tools:
   - Xcelite 170M shearcutters
   - klein tools 20GA - 32Ga wire strippers
@@ -91,8 +90,10 @@
 - Mini electronics screwdriver & bits
 - Colored electrical tape
 - Artists tape
+- Guitar Neck rest
+- Small power tool
+- Drill bit peg winder
 - Regular, large & small zip ties
-- desoldering plunger & wick
 - Cheap paint brushes for cleaning boards
 - Mixwizard Power button replace
 - Heat shrink (flexible polyolefin either adhesive lined or not)
