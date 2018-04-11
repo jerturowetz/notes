@@ -24,7 +24,6 @@
 ## BKDSN
 
 python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 
 ## Psych help
 
@@ -60,9 +59,9 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 - [Servers for hackers](https://serversforhackers.com/)
 - [Command line power user lessons](https://commandlinepoweruser.com/)
 - [Try Git](https://www.codeschool.com/courses/try-git/)
+- [Better PHP](https://www.youtube.com/user/betterphp)
+- [PHP academy](https://www.youtube.com/user/phpacademy)
 - Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
-- https://www.youtube.com/user/betterphp
-- https://www.youtube.com/user/phpacademy
 
 ## Musician's Insurance
 

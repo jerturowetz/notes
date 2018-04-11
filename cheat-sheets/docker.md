@@ -63,12 +63,13 @@ This is where the infamous `docker-compose.yml` comes in to play
     docker swarm init
     docker stack deploy -c docker-compose.yml SERVICENAME
 
-    docker service ls           # see running services
-
 A single container running in a service is called a _task_ (why its not still called a _container_ ... i guess makes sense). Tasks are given unique IDs and numerically incremented names, up to the number of replicas you defined in `docker-compose.yml`
 
-    docker container ls                         # tasks will show up when listing containers, though they will not be sorted by service; also, IDs here are different from below
-    docker service ps getstartedlab_web         # see all tasks related to the named service
+    docker service ls                           # see running services
+
+    docker service ps SERVICENAME               # see all tasks related to the named service
+    docker service ps -q SERVICENAME            # same as above but just the ids
+    docker container ls                         # while tasks will show up when listing containers, they will not be sorted by service; also, IDs here are container ids... not service task IDs which are different
 
 **Note:** Service IDs are different than container IDs - this might be important when I'm breaking everything
 
