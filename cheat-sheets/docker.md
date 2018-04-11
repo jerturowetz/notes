@@ -83,9 +83,6 @@ Want to scale the app? Docker can perform an in-place update, no need to tear th
     docker stack rm getstartedlab
     docker swarm leave --force
 
-
-Coop De Service Musicaux Le St-Phonic
-
 I'm still not getting the difference between a stack and swarm but maybe a swarm is like an image and a stack is like a container (a stack is a running swarm?)
 
 ## `docker-machine`
