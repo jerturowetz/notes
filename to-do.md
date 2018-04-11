@@ -37,9 +37,9 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1_mapping
 
 ## Outstanding Bills
 
-- $300 Kate furniture
-- $60 Matt
+- $246.56 Communauto Parking tix
 - $?? Matt's amp
+- $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
