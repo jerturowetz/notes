@@ -54,7 +54,7 @@
     docker push username/repository:tag             # Upload tagged image to registry
     docker run username/repository:tag              # Run image from a registry
 
-## Services & swarms
+## Services
 
 Running a bunch of containers in unison is considered a _service_
 
@@ -81,27 +81,78 @@ Want to scale the app? Docker can perform an in-place update, no need to tear th
 
 ### Tearing it down
 
-    docker stack rm getstartedlab
-    docker swarm leave --force
+    docker stack rm getstartedlab       # get rid of the service stack we built
+    docker swarm leave --force          # more on swarms below
 
 I'm still not getting the difference between a stack and swarm but maybe a swarm is like an image and a stack is like a container (a stack is a running swarm?)
 
 ## `docker-machine`
 
-On older systems, docker can't run natively; instead, installing docker-toolkit sets a virtualbox achine to run docker engine. You can access this (and other, remote mdocker-machines) with the `docker-machine` command
+On older systems, docker can't run natively; instead, installing docker-toolkit sets a virtualbox machine to run docker engine. You can access this machine, create new machine and access local and remote docker-machines with the `docker-machine` command
 
-    docker-machine ls                       # list local machines
-    docker-machine start my-docker-machine  # start machine
-    docker-machine stop my-docker-machine   # stop machine
-    docker-machine rm my-docker-machine     # remove machine
+    docker-machine ls                                           # list local machines
+    docker-machine create --driver virtualbox MACHINENAME       # create a new machine using the virtualbox driver and call it MACHINENAME
+    docker-machine start MACHINENAME                            # start machine
+    docker-machine stop MACHINENAME                             # stop machine
+    docker-machine rm MACHINENAME                               # remove machine
 
-if using docker toolbox, a lot of tutorials which use localhost localhosthost needs to be replaced with the docker-machine ip which can be found by using the followig command:
+If you reset the host you might need to restart machines
 
-    docker-machine ip
+### Managing machines
 
-for example, running `docker swarm` will error out on systems running docker toolbox and will say something like "this machine has too many ips, specify one"
+    docker-machine ip MACHINENAME       # Get machine ip, if MACHINENAME is not specificed the default machine ip is returned
+    docker-machine ssh MACHINENAME      # You guessed it!
+
+You can ssh in to the machine, init it as a swarm manager with a single command like the following:
+
+    docker-machine ssh myvm1 "docker swarm init --advertise-addr $(docker-machine ip myvm1)"
+
+You can copy files over to an accessible machine with scp
+
+    docker-machine scp <file> <machine>:~
+
+### Defining a machine environment
+
+In order to not always need to define a machine, especially when needing to ssh in to swarms below, you can just define a docker environment and then use commands as if you were in the machine
+
+This means you can use local files to do stuff on remote or virtual machines which avoids us needing to copy anything over
+
+    docker-machine env <machine>        # sets the docker-machine environment to the named machine
+    eval $(docker-machine env -u)       # unsets the above
+
+### Things that can bite you in the ass (especially if you're running Docker Toolbox on Windows...)
+
+- When guides tell you to use `http://localhost` - on machines running docker toolbox, make sure to use the VM ip instead
+- `docker-machine create` can return errors because `docker-start.sh` sets environment variables, simply reboot and create machines before running `docker-start.sh`
+- Running `docker swarm` will error out on systems running docker toolbox and will say something like "this machine has too many ips, specify one"
+
+## Swarms
 
     docker swarm init --advertise-addr 192.168.99.100                   # manually, use whatever the ip is
     docker swarm init --advertise-addr $(docker-machine ip default)     # automatically, which is nice (tho i hope this works in scripts)
 
-Someting else that might bite you in the ass is when guides tell you to use `http://localhost`. On machines running docker toolbox, make sure to use the VMs ip
+Always run docker swarm init and docker swarm join with port 2377 (the swarm management port), or no port at all and let it take the default.
+
+The machine IP addresses returned by docker-machine ls include port 2376, which is the Docker daemon port. Do not use this port or you may experience errors.
+
+    docker-machine ssh myvm2 "docker swarm join \
+    --token SWMTKN-1-02aw03yqeifmrq095muvctm63r6hmftpinp9gku9p9758c9y9g-bagpsq8r14vxivisyxq8rwr7p \
+    192.168.99.100:2377"
+
+Run `docker node ls` on the manager to view nodes in the swarm
+
+    docker node ls
+
+### Swarm teardown
+
+Service stacks should be removed first with
+
+    docker stack rm getstartedlab
+
+And then followed with a teardown of the actual swarm on a machine by machine basis
+
+    docker-machine ssh myvm2 "docker swarm leave"
+    docker-machine ssh myvm3 "docker swarm leave"
+    docker-machine ssh myvm1 "docker swarm leave --force"
+
+### 
