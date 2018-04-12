@@ -12,15 +12,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - Recipie: Crow Venom
 - Rune: Rune of Fortune
 
-## ACT 1
-
-### Supplier (act 1)
-
-- Lyrium: 2 Deep Roads
-- Silverite: 1 Deep Roads
-- Orichalcum: 1 Primeval Ruins (Deep Roads Expedition Quest)
-- Deep Mushroom: 2 Deep Roads
-
 --
 
 ## ACT 2
