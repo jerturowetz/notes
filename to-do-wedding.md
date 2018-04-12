@@ -60,11 +60,6 @@ j.turowetz@gmail.com
   camplaclachigan@armeedusalut.ca
   **EMAIL SENT**
 
-- Camp Olier
-  campolier@live.ca
-  514-912-8144
-  **EMAIL SENT**
-
 - Camp Edphy (Val-Morin)
   Guillaume Mallette, Project Manager
   (819) 322-2913, ext. 227
@@ -90,4 +85,18 @@ j.turowetz@gmail.com
 - Camp Ville-Marie
   info@scoutsmm.qc.ca
   514 849-9208
+  **EMAIL SENT**
+
+- Camp Kinneret-Biluim
+  Guy Korngold
+  guy@ckb.ca
+  **EMAIL SENT**
+
+--
+
+## Camps said no :(
+
+- Camp Olier
+  campolier@live.ca
+  514-912-8144
   **EMAIL SENT**
