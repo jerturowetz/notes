@@ -161,11 +161,17 @@ And then followed with a teardown of the actual swarm on a machine by machine ba
 
 Use volumes for persistent data
 
-    docker volume create # create a volume
-    docker volume prune # remove unused volumes
+    docker volume ls                # list volumes
+    docker volume create            # create a volume
+    docker volume prune             # remove unused volumes
 
 ## `docker-compose`
 
-    docker-compose up -d
-    ./run_tests
-    docker-compose down
+    docker-compose up               # run docker-compose on docker-compose.yml file
+    docker-compose up -d            # same as above but detached
+    docker-compose ps               # list what is currently running
+    docker-compose stop
+    docker-compose down             # tear it down (preserves volumes)
+    docker-compose down --volumes   # tear it down (kills volumes)
+
+    docker-compose run web env      # see environment variables for the "web" service
