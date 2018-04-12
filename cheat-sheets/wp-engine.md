@@ -19,3 +19,11 @@ Please note that on accounts with multiple installs its possible for them to exi
 - port: 3306
 - user: _see wp-config.php_
 - pass: _see wp-config.php_
+
+## Software versions
+
+- PHP 5.5.9-1ubuntu4.24 (5.6)
+- PHP 7.0
+- nginx/1.11.3 >> Apache/2.4.7
+- mysql Ver 14.14 Distrib 5.6.39-83.1, for debian-linux-gnu (x86_64) using readline 6.3
+- Varnish: varnishd (varnish-3.0.7 revision f544cd8
