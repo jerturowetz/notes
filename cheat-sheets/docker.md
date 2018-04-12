@@ -1,5 +1,7 @@
 # Cheat sheet : Docker
 
+[Docker compose file reference](https://docs.docker.com/compose/compose-file/#args)
+
 ## useful commands
 
     docker run hello-world      # Run and build a test image
@@ -155,4 +157,15 @@ And then followed with a teardown of the actual swarm on a machine by machine ba
     docker-machine ssh myvm3 "docker swarm leave"
     docker-machine ssh myvm1 "docker swarm leave --force"
 
-### 
+## Volumes
+
+Use volumes for persistent data
+
+    docker volume create # create a volume
+    docker volume prune # remove unused volumes
+
+## `docker-compose`
+
+    docker-compose up -d
+    ./run_tests
+    docker-compose down
