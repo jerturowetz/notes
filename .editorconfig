@@ -23,6 +23,10 @@ indent_size = 2
 indent_style = tab
 indent_size = 4
 
+# For wordpress
+# [{*.php,*.html,*.css,*.less,*.sass,*.scss}]
+# indent_style = tab
+
 [*.txt]
 end_of_line = crlf
 
