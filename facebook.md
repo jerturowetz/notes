@@ -1,1 +1,0 @@
-Facebook data can be used to manipulate our worldview. While not as simple as goldfish (which is not true) 
