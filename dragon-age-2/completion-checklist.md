@@ -38,8 +38,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - Rune of Spirit Warding : Mages Goods Shop, Gallows _(Acts 2-3)_
 
 - **Anders:** Armor Struts: Lirene's Fereldan Imports shop in Lowtown
-- **Aveline:** Impact Plating - Guardsman Pattern: Armor Merchant shop in Lowtown
-- **Isabela:** Rigid Boning: Apparel Shop in Lowtown
 - **Varric:** Inscribed Leather Harness: Apparel Shop in Lowtown
 - Greater Tome of the Mortal Vessel (+2 Stats) : Trinkets Emporium, Lowtown
 - Rock Armour Potion : Lowtown at night. Pile of Rubble next to the entrance to Gamlen's house
