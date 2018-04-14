@@ -1,11 +1,13 @@
 # Wishlist
 
+- USB C TO HDMI ADAPTER
+- PLUGABLE USB 3.1 TYPE-C TO HDMI 2.0 ADAPTER
+- $20 ea Naiant inline attenuator x4
 - Medium sharpies for work & space
 - 5A & 5B bulk drum sticks
 - Adidas scent balls for shoes
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
-- Stand for iphone for recording video
 
 ## Winter boots
 
@@ -101,7 +103,7 @@
 
 ## Music gear
 
-- $20 ea Naiant inline attenuator x4
+- Stand for iphone for recording video
 - Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
