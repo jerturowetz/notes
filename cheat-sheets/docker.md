@@ -161,9 +161,10 @@ And then followed with a teardown of the actual swarm on a machine by machine ba
 
 Use volumes for persistent data
 
-    docker volume ls                # list volumes
-    docker volume create            # create a volume
-    docker volume prune             # remove unused volumes
+    docker volume ls                                        # list volumes
+    docker volume create                                     create a volume
+    docker volume prune                                      remove unused volumes
+    docker inspect -f '{{ .Mounts }}' containername         # see volumes mounted to particular containers
 
 ## `docker-compose`
 
