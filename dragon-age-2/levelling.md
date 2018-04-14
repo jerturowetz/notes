@@ -113,8 +113,8 @@ Or you can go for **Elemental** for brittle & cc
 1. ~~**Primal**: Rock Armor~~
 1. ~~**Primal**: Galvanism~~
 1. ~~**Primal**: Golem's Fist~~
-1. **Arcane**: Elemental Weapons
-1. **Arcane**: Mind Blast
+1. ~~**Arcane**: Elemental Weapons~~
+1. ~~**Arcane**: Mind Blast~~
 1. **Arcane**: Crushing Prison
 1. **Arcane**: Paralysing Prison
 1. **Elemental**: Winter Grasp

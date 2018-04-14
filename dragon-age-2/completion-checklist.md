@@ -37,12 +37,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - Life Ward Potion : Formari Herbalist shop,Gallows _(Acts 2-3)_
 - Rune of Spirit Warding : Mages Goods Shop, Gallows _(Acts 2-3)_
 
-- **Back Pack:** Robes by Jean Luc, Hightown
-- **Fenris:** Tevinter Spirit Symbol: Robes by Jean Luc shop in Hightown
-- **Isabela:** Supportive Corsett: Robes by Jean Luc shop in Hightown
-- **Merril:** Samite Lining: Robes by Jean Luc shop in Hightown
-- **Sebastian:** Reinforced Bracers: Olaf's Armory shop in Hightown
-
 - **Anders:** Armor Struts: Lirene's Fereldan Imports shop in Lowtown
 - **Aveline:** Impact Plating - Guardsman Pattern: Armor Merchant shop in Lowtown
 - **Isabela:** Rigid Boning: Apparel Shop in Lowtown
