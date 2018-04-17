@@ -25,7 +25,7 @@ Until about level 16 you're just full on damage. After this is when we build on 
 1. ~~**Assasin**: Bloodlust~~
 1. ~~**Assasin**: Pinpoint Strikes~~
 1. ~~**Assasin**: Assasinate~~
-1. **Assasin**: Annihilate
+1. ~~**Assasin**: Annihilate~~
 1. Unlock **Shadow**, get **Assasin**: Devious Harm & **Assasin**: Mark of Doom *(via tome of Physical)*
 1. **Assasin**: Enduring Mark
 1. **Assasin**: OverKill
@@ -72,7 +72,7 @@ If you'd prefer to go through the Duelist tree and be an even more frail but bra
 1. ~~**Vengeance**: Swift Justice~
 1. ~~**Primal**: Stonefist~~
 1. ~~**Primal**: Petrify~~
-1. **Primal**: Dessicate
+1. ~~**Primal**: Dessicate~~
 1. **Creation**: Greater Haste
 1. **Vengeance**: Wrath
 1. **Vengeance**: Regroup
@@ -150,7 +150,7 @@ The rest is up to you, recommendation is:
 1. ~~**Guardian**: Bodyguard~~
 1. ~~**Guardian**: Elite Bodyguard~~
 1. ~~**Guardian**: Indomnidable~~
-1. **Guardian**: Thick Skin
+1. ~~**Guardian**: Thick Skin~~
 1. **Vanguard**: Control
 1. **Vanguard**: Cleave
 1. **Vanguard**: Destroyer
@@ -168,12 +168,10 @@ You're on your own from here, maybe get the upgrades in **Weapon and Shield**
 
 - ~~Bianca: Pinning Shot~~
 - ~~OPTIONAL Specialist mode (speed?)~~
-
 - ~~Scoundrel: Back to Back~~
-- Scoundrel: Brand (lvl6)
-
+- ~~Scoundrel: Brand (lvl6)~~
 - ~~Scoundrel: Armistice~~
-- Scoundrel: Goad (lv6)
+- ~~Scoundrel: Goad (lv6)~~
 
 - Marksman: Rhyming Triplet (lv7)
 - Marksman: Kickback (lv8)

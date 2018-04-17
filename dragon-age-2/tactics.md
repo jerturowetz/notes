@@ -96,7 +96,7 @@ Randoms?
 1. ~~**Self:Attacked by melee or ranged**: Use cond for next tactic~~
 1. ~~**Aveline:Any**: Goad~~
 1. ~~**Anders:Being attacked by a melee attack**: Armistice~~
-1. **Enemy:Highest health**: Brand
+1. ~~**Enemy:Highest health**: Brand~~
 1. ~~**Enemy:Nearest visible**: Pinning Shot~~
 1. ~~**Target of Aveline**: Rhyming Triplet~~
 1. **Enemy:Attacking Anders**: Kickback

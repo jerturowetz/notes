@@ -25,25 +25,11 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - Elixir of Heroism : Hightown at end of act (can anyone else be more specific?)
 - Rune of Nature Warding : Smuggler's Cut during Black Powder Coutesy Main Quest
 - Rune of Spirit : Brekker's Hideaway during the quest Inside Job
-- Rune of Striking : DuPuis Estate during the Prime Suspect quest
 - Rune of Defense : Wounded Coast
 - Combustion Grenade : Tal-Vashoth Leader in the Tal-Vashoth Cavern during the Black Powder Courtesy quest
 - Mythal’s Favor : Wounded Coast
-- Arcane Poison : Elven Fanatic during the Blackpowder Courtesy quest
 
-- **Back Pack:** Mage Goods, Gallows
-- **Anders:** Lyrium Weave: Mage Goods shop in the Gallows
-- **Sebastian:** Enchanted Articulation: Armor Shop in the Gallows
-- Life Ward Potion : Formari Herbalist shop,Gallows _(Acts 2-3)_
-- Rune of Spirit Warding : Mages Goods Shop, Gallows _(Acts 2-3)_
-
-- **Anders:** Armor Struts: Lirene's Fereldan Imports shop in Lowtown
-- **Varric:** Inscribed Leather Harness: Apparel Shop in Lowtown
-- Greater Tome of the Mortal Vessel (+2 Stats) : Trinkets Emporium, Lowtown
 - Rock Armour Potion : Lowtown at night. Pile of Rubble next to the entrance to Gamlen's house
-
-- **Fenris:** Lyrium Scales: Shady Merchandise shop on the Docks
-- **Varric:** Coat Lining with Concealed Pockets: Shady Merchandise shop on the Docks
 
 - **Merril:** Silver-Threaded Dalish Embroidery: Sundermount, near the top of the path
 - **Merril:** Carved Ironwood Buttons: Ilen's Crafts shop in Sundermount
