@@ -32,7 +32,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - Rock Armour Potion : Lowtown at night. Pile of Rubble next to the entrance to Gamlen's house
 
 - **Merril:** Silver-Threaded Dalish Embroidery: Sundermount, near the top of the path
-- **Merril:** Carved Ironwood Buttons: Ilen's Crafts shop in Sundermount
 - Tome of Technique (+1 Talent) : Ilen's Crafts, Sundermount
 - Rune of Nature : Ilene’s Crafts, Sundermount _(Acts 2-3)_
 - Mighty Offense Potion : Sundermount. Pile of Bones on the top of the mountain
@@ -42,8 +41,6 @@ From the following post: [completion checklists](https://gamefaqs.gamespot.com/b
 - **Anders:** Tevinter Chanty Amulet : Found in Abandon Slaver Den during Fenris companion quest A Bitter Pill
 - **Aveline:** Shield of the Knight Herself : Ser Vernel's Refuge during the Offered and Lost main quest
 - **Fenris:** A Slave's Life : Found in a sack in the Elven Alienage, Lowtown at night
-- **Isabela:** Ship in a Bottle : located in Smuggler's Cut during the Blackpowder Courtesy main quest 
-- **Merril:** Wooden Halla Carving : Purchase at Ilen's Craft shop at Sundermount
 - **Varric:** The Tethras Signet Ring : Sold at the Trinket's Emporium in Lowtown
 - **Sebastian:** Strakhaven Longbow : Found in the Harimann Estate during his companions quest Repentance
 

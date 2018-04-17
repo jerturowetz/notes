@@ -172,7 +172,6 @@ You're on your own from here, maybe get the upgrades in **Weapon and Shield**
 - ~~Scoundrel: Brand (lvl6)~~
 - ~~Scoundrel: Armistice~~
 - ~~Scoundrel: Goad (lv6)~~
-
-- Marksman: Rhyming Triplet (lv7)
-- Marksman: Kickback (lv8)
-- Marksman: Bianca's Song (lv9)
+- ~~Marksman: Rhyming Triplet (lv7)~~
+- ~~Marksman: Kickback (lv8)~~
+- ~~Marksman: Bianca's Song (lv9)~~
