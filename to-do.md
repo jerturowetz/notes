@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Fix floor tom mic rattle
 - Fix Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Sharpen knives
 - Measure laundry shelves
