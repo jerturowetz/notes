@@ -2,12 +2,11 @@
 
 - USB C TO HDMI ADAPTER
 - PLUGABLE USB 3.1 TYPE-C TO HDMI 2.0 ADAPTER
-- $20 ea Naiant inline attenuator x4
 - Medium sharpies for work & space
 - 5A bulk drum sticks
-- Adidas scent balls for shoes
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
+- small iphone stand
 
 ## Winter boots
 
@@ -89,7 +88,6 @@
 - [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
 - [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-- Mini electronics screwdriver & bits
 - Colored electrical tape
 - Artists tape
 - Guitar Neck rest
@@ -103,26 +101,30 @@
 
 ## Music gear
 
-- Stand for iphone for recording video
+- mic stand for guitar amp
+- $20 ea Naiant inline attenuator x4
+- mixer case
+
 - Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-- K&M 23323 for snare bottom
+
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
+
 - Little bit of foam for top of overheads
 - Granelli labs 57
 - AKG D112
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
 - DIs (Radial j48 x2, JDI Stereo, JDI, Key largo)
-- Acoustic pannels for drum corner
+- more Acoustic pannels
 - IEC-6X4 (short power cords)
 - $315 USD GAS A-10 4 Channel Line Level Attenuator
-- Stereo graphic EQ/Limited for Mons
+- Stereo graphic EQ/Limiter for Mons
 - Mic case
 
 ### Drums
