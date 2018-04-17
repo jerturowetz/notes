@@ -1,34 +1,10 @@
 # Jer's grocery list
 
-- oranges
-- perrier=
-- ice cream
-- other snack fruit
-- chocolate
-- vino
-- n/a beer
-
-- leaf green
-- side greens (x2)
-- mozarella
-- carrots/parsnips
-- boneless chicken thighs
-- whole chicken
-- other meat
+- kale
 - sandwich meat
-- bacon
-- pasta noodles
-- coffee
-- small tomatoes
-- apples
-- garlic
-- KD
-- paper towels & t.p.
+- paper towels & kleenex
 - toothpaste
-- mitchum
 - draino for bathroom
-- butter
-- bread & en muffins
 
 ## Italian Grocery
 
@@ -48,6 +24,4 @@
 - Meat
 - Toothpaste
 - paper towels
-- toilet paper
 - long aluminum foil
-- swiffer mop sheets
