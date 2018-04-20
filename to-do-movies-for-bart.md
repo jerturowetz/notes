@@ -1,39 +1,15 @@
-The square
-Lady Bird
-Phantom Thread
-Okja
-It comes at night
-Manchester by the Sea
-Call Me By Your Name
-Song of the Sea
-I, Tonya
-Holy Motors
-Kubo and the 2 strings
-Red Turtle
-I Don't Feel at Home in This World Anymore
-Leviathan
-Personal Shopper
-Raw
-The Big Sick
-Get Out
-A Ghost Story
-The Lure
-Icaros: A Vision
-Thelma
-Super Dark Times
-Lucky
-Good Time
-The Killing of a Sacred Deer
-The Ornithologist
-The Beguiled
-mother!
-Elle
-The Big Sick
-Toni Erdmann
-Sword of the stranger
-The strange ones
-Blame
-the insult
-loveless
-wolf children
-Shape of water
+# Movies for Bart
+
+- [The Host (2006)](https://www.youtube.com/watch?v=1HRTy26s4hw)
+- [Holy Motors (2012)](https://www.youtube.com/watch?v=NWu9WjEcdbk)
+- [Leviathan (2014)](https://www.youtube.com/watch?v=2oo7H25kirk)
+- [Raw (2016)](https://www.youtube.com/watch?v=gFlXVX2af_Y)
+- [Get Out (2017)](https://www.youtube.com/watch?v=DzfpyUB60YY)
+- [Sword of the stranger(2007)](https://www.youtube.com/watch?v=KQHEwreBTK8)
+- [It comes at night (2017)](https://www.youtube.com/watch?v=6YOYHCBQn9g)
+- [The Big Sick (2017)](https://www.youtube.com/watch?v=jcD0Daqc3Yw)
+- [The Square (2017)](https://www.youtube.com/watch?v=y8JLVRMM9lw)
+- [Phantom Thread (2017)](https://www.youtube.com/watch?v=xNsiQMeSvMk)
+- [Good Time (2017)](https://www.youtube.com/watch?v=AVyGCxHZ_Ko)
+- [The Ornithologist (2017)](https://www.youtube.com/watch?v=3xvyW5zXx1c)
+- [mother! (2017)](https://www.youtube.com/watch?v=XpICoc65uh0)
