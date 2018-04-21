@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Laundry shelf: 41.5" x 12.5"
 - Fix floor tom mic rattle
 - Fix Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Sharpen knives
@@ -20,10 +21,6 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
-
-## BKDSN
-
-python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
 
 ## Psych help
 
