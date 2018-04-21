@@ -36,7 +36,7 @@ python removeVault.py us-east-1 BKDSNStorage_0011322A9F57_1
 
 ## Outstanding Bills
 
-- $246.56 Communauto Parking tix
+- $167.44 communauto
 - $?? Matt's amp
 - $300 Kate furniture
 - $125 Mickey
