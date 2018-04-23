@@ -1,5 +1,7 @@
 # Wishlist
 
+http://promotionsmicheldumontet.com/index.php?p=1_6_Hot-Dog-Party
+
 in order:
 mixer case
 floor snake
@@ -7,6 +9,7 @@ rack screws
 mixwizard size 10u folded / 11.2 unfolded (will need sace below)
 mixwizard size: 20 & 1/2" (52cm)
 small rolling cart for rack unit
+yamaha dxr10
 
 - USB C TO HDMI ADAPTER
 - PLUGABLE USB 3.1 TYPE-C TO HDMI 2.0 ADAPTER
