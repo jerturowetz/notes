@@ -1,18 +1,8 @@
 # Wishlist
 
-http://promotionsmicheldumontet.com/index.php?p=1_6_Hot-Dog-Party
-
-in order:
-mixer case
-floor snake
-rack screws
-mixwizard size 10u folded / 11.2 unfolded (will need sace below)
-mixwizard size: 20 & 1/2" (52cm)
-small rolling cart for rack unit
-yamaha dxr10
-
-- USB C TO HDMI ADAPTER
-- PLUGABLE USB 3.1 TYPE-C TO HDMI 2.0 ADAPTER
+- [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
+- USB C TO Display port adapter
+- Laptop desk stand
 - Medium sharpies for work & space
 - 5A bulk drum sticks
 - AA batteries, AAA batteries & charger
@@ -53,6 +43,7 @@ yamaha dxr10
 
 ## Kate stuff
 
+- [Take Kate to a danse show](https://www.quebecdanse.org/)
 - [Make a sweater](https://www.entripy.com/)
 - Panda shirt cross-eyed-bear lyrics
 - $500 Banjo
@@ -112,31 +103,35 @@ yamaha dxr10
 
 ## Music gear
 
-- mic stand for guitar amp
 - $20 ea Naiant inline attenuator x4
 - mixer case
-
-- Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
+- floor snake or Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
+- 3-4u rack case for recording gear
+- 8ch trs snake
+- small rolling cart for rack unit
+- Extra rack screws
 - Behringer pm1, Elite Core Body Pack, rolls hv6 x2
 - Tascam MH-8
-
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
-
 - Little bit of foam for top of overheads
-- Granelli labs 57
+- Granelli labs 57 or Wilkinson audio adaptor
 - AKG D112
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
 - DIs (Radial j48 x2, JDI Stereo, JDI, Key largo)
-- more Acoustic pannels
+- More Acoustic pannels
 - IEC-6X4 (short power cords)
 - $315 USD GAS A-10 4 Channel Line Level Attenuator
 - Stereo graphic EQ/Limiter for Mons
 - Mic case
+- Wilkinson Audio mic clips for XY
+- Wilkinson Audio mic clips for MD421
+- Wilkinson Audio SM57 head caps
+- Monitor (like yamaha dxr10)
 
 ### Drums
 
