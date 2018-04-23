@@ -1,5 +1,13 @@
 # Let's get married
 
+## to-do
+
+- sam from terra perma
+- ÉLIANE DUCHAINE chambre de commerce ste-adele (T: 450-229-2644 | C : chambredecommerce@sainte-adele.net)
+- Call the [Hot dog guy](http://promotionsmicheldumontet.com/index.php?p=1_6_Hot-Dog-Party)
+
+## Example communication
+
 Bonjour,
 
 Je planifie présentement mon mariage et je suis à la recherche d'un camp d'été comme le vôtre pour une location. Êtes-vous en mesure de louer une partie ou l'entièreté du camp pour cet événement? Nos dates idéales sont le 18 août, 25 août, 1er septembre ou 8 septembre (2018).
@@ -27,76 +35,3 @@ Thanks for your time!
 Jeremy Turowetz
 j.turowetz@gmail.com
 514-264-1055
-
-## Camps to contact
-
-- YCC
-  (514) 737-6551 ext. 267
-  srabinovitch@ymywha.com
-  **EMAIL SENT**
-
-- Camp B'nai Brith of Montreal
-  (514) 735-3669
-  info@cbbmtl.org (website is down, might have issues)
-  **EMAIL SENT, MAYBE**
-
-- Sun Youth
-  Johanne Saltarelli - Assistant to the Executive Director & Camp Director
-  johanne@sunyouthorg.com, camp@sunyouthorg.com
-  **EMAIL SENT**
-
-- Camp Massad
-  (514) 488-6610
-  office@campmassad.org, info@campmassad.org
-  **EMAIL SENT**
-
-- Le Ranch Massawippi (Moncamp)
-  info@moncamp.com
-  (450) 777-4511
-  **EMAIL SENT**
-
-- Camp Lac L'achigan
-  514-288-2848 / 450-563-2256
-  camplaclachigan@armeedusalut.ca
-  **EMAIL SENT**
-
-- Camp Edphy (Val-Morin)
-  Guillaume Mallette, Project Manager
-  (819) 322-2913, ext. 227
-  g.mallette@edphy.com
-  **EMAIL SENT**
-
-- Camp Carowanis
-  819-326-2456
-  carowanis@diabetes-children.ca
-  **EMAIL SENT**
-
-- Camp Kinkora
-  Michael Palmer
-  514.928.5056
-  michael@campkinkora.com
-  **EMAIL SENT**
-
-- Camp Ouareau
-  (819) 424-2662
-  info@ouareau.com
-  **EMAIL SENT**
-
-- Camp Ville-Marie
-  info@scoutsmm.qc.ca
-  514 849-9208
-  **EMAIL SENT**
-
-- Camp Kinneret-Biluim
-  Guy Korngold
-  guy@ckb.ca
-  **EMAIL SENT**
-
---
-
-## Camps said no :(
-
-- Camp Olier
-  campolier@live.ca
-  514-912-8144
-  **EMAIL SENT**
