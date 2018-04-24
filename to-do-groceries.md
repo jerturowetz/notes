@@ -1,15 +1,20 @@
 # Jer's grocery list
 
+- leaf greens
 - kale
 - sandwich meat
-- paper towels & kleenex
+- sundried
+- meat
+- cheese
+- perrier
+- OJ
 - toothpaste
+- paper towels & kleenex
 - draino for bathroom
 
 ## Italian Grocery
 
 - pasta noodles
-- antipasta (eggplant)
 - Tomato sauce
 
 ## Asian Grocery
