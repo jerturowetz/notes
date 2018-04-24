@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- $100 Alcatel GO FLIP
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
 - Fix floor tom mic rattle
 - Fix Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -43,7 +44,7 @@
 ## Code study
 
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
-- [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
+- [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
 - [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 - SVG Icons
