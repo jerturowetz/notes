@@ -11,9 +11,13 @@ All components on the page should have a height divisible by the height of one l
 
 */
 
+/* Size in `em` if the property scales according to it’s `font-size` */
+/* Size everything else in `rem`. */
+
 /* Some general styles */
+html { font-size: 100% } /* This means 16px by default*/
 body {
-	font-size: 100%;55
+	font-size: 100%;
 	line-height: 1.46;
 	max-width: 2000px;
 }
