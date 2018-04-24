@@ -5,7 +5,8 @@
 ## Copy all _contents_ from one folder to another
 ## the `-a` option preserves permissions and recursive stuff
 
-cp -a /source/. /dest/
+cp -a ~/source/. ~/dest/
+mv  -v ~/Downloads/* ~/Videos/
 
 ## Symbolic links
 
