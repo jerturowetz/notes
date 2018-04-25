@@ -44,6 +44,8 @@
 
 ## Code study
 
+- [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
+- [How To Make And Maintain Atomic Design Systems With Pattern Lab 2](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 - [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
 - [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
