@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
-
+fix iphone keyboard -- to - 
+call autelia
 
 benchmark calendar & meeting managment
 
