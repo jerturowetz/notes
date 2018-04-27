@@ -5,7 +5,7 @@
 - Michael Glazerman
 - Stewart Hersey
 - Rylan Brown
-- Robbie McQugh
+- Robert McHugh
 
 ## Family friends
 
@@ -45,7 +45,7 @@
 1. Yamin Weiss
 1. Aaron Cohenca
 1. Dylan Michael Lord
-1. Sj Thony
+1. SJ Thony
 1. Travis Griffith
 
 ### Couples
@@ -84,57 +84,59 @@
 1. Lacey Dumler
 1. Joe Morcos
 1. Pina
-
------
-
-Mitchell Stafiej
-++
-
-Jeremy Weigens
-Erin Marie
-
-Andrew Kuhl
-Lubna Shawwa Kuhl
-
-Georges Lecat
-Daniel Sarraf
-Hart Fishman
+1. Jeremy Weigens
+1. Erin Marie
+1. Andrew Kuhl
+1. Lubna Shawwa Kuhl
 
 ## Wishlist
 
-Tobia Galipeau
-Alathea Caroline
-Ben Cardilli
-Valentina Cean
-Alex Kots
-Lorenzo
-Marie-Eve Mer
-Emm Ann Hayter
-June (whateverthefuckhescalled)
-Jonah Dadouche
-Katie O
-Jeremy Alves
-Jonathan Sbrollini
-Chris Leduc
-Nick
-Tom Kovalcik
-Kevin Pinsky
-Angelos Kalaidopoulos
-Paul Edwards
-Stephanie Rochemont
-Marion McLean
-Shane
-Adrian Charles Marcotte
-Kanwar Saini
-Ryan Turner
-Jenn Burns
-Jesse Gainer
-Tasha
-Greg Fisher
-Michel Buzel
-Roberto Blizzard
+- Hart Fishman
+- Georges Lecat
+- Daniel Sarraf
+- Chris Leduc
+- Nick
+- Mitchell Stafiej
+- Petra Glynt
+- Tobia Galipeau
+- Alathea Caroline
+- Ben Cardilli
+- Valentina Cean
+- June (whateverthefuckhescalled)
+- Katie O
+- Jonathan Sbrollini
+- Angelos Kalaidopoulos
+- Stephanie Rochemont
+- Marion McLean
+- Shane
+- Adrian Charles Marcotte
+- Ryan Turner
+- Jenn Burns
+- Jeremy Alves
+- Roberto Blizzard
 
 ## Staff
 
 Kasia Kapuscinska
 Marina Mijatovic
+
+## Musician Friends
+
+- **Matt :** The entire Jeff Buckley catalogue
+- **Travis:** Random piano
+- **Rob:** Random piano & some lame songs
+- **Jon:** Random Piano
+- **Steve:** Some lame songs?
+
+Other:
+
+Joe
+Mike
+Yamin
+Aaron
+Ben
+Aaron
+Kosta
+Sean
+Lacey
+Andrew
