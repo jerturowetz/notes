@@ -10,17 +10,18 @@ Graphics
 Branding
 D3 expert?
 ad data analysis use to figure relational information / relevant questions
+Set up laptop, phone & tablet with email, contacts & cal
+Set up calendars & set weekly meeting
+Employee hunting organize resources
+Explore amazon for code managment
+Start an employee cost sheet for resources
 
 ## Tooling
 
 ### commuication & orgaization
 
-- fastmail
-  - email
-  - calendars
-  - contacts (turn off contacts create)
-- Bitbucket
-- Something for ticketing
+- Bitbucket (?)
+- Something for ticketing (Jira?)
 - LastPass (get the app & extension)
 - Slack (get the app / desktop app / whatever)
 - Security (2 factor auth using a device)

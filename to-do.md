@@ -1,12 +1,9 @@
 # Jer's To-Do List
 
-- $100 Alcatel GO FLIP
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
-- book on air canada (direct flight) - [may 22 or 23rd, return the 26th]
+- Book on air canada (direct flight) - [may 22 or 23rd, return the 26th]
 - Fix floor tom mic rattle
-- Fix Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Sharpen knives
-- Measure laundry shelves
 - Call: Nancy, Riva, Carol, Sandy, Matthew
 - SJ Tracks
 - Pick up drums chez Mike M
@@ -35,8 +32,9 @@
 
 ## Outstanding Bills
 
+- $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- $100 ish dad Alcatel GO FLIP
 - $167.44 communauto
-- $?? Matt's amp
 - $300 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
