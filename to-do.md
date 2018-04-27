@@ -1,25 +1,5 @@
 # Jer's To-Do List
 
-
-
-benchmark calendar & meeting managment
-
-
-Sami Baliki
-sami.baliki@benchmarkme.com
-
-Ryan Turner
-ryan.turner@benchmarkme.com
-
-Jennifer Burns
-jennifer.burns@benchmarkme.com
-
-Noah Reboh
-n.reboh@gmail.com
-
-Greg C. LeBlanc
-gc.leblanc@gmail.com
-
 - $100 Alcatel GO FLIP
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
 - book on air canada (direct flight) - [may 22 or 23rd, return the 26th]
