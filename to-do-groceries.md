@@ -1,13 +1,20 @@
 # Jer's grocery list
 
+- recycling bags
+- milk
+- coffee
+- cheese (sliced & block)
+- oj
+- butter
+- perrier
+- lemons
+- eggs
+- bacon
 - leaf greens
 - kale
 - sandwich meat
 - sundried
-- meat
-- cheese
 - perrier
-- OJ
 - toothpaste
 - paper towels & kleenex
 - draino for bathroom
