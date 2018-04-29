@@ -15,14 +15,26 @@
 1. Allen
 1. Gail
 1. Riva Dubrofsky
-1. Carol Canzer
-1. Braham Canzer
-1. Cousin Carol
+1. Cousin Carol + Risa
 1. Joyce
 1. Irwin
+
 1. Linda
 1. Izzie
 1. Maureen Glazerman
+1. Carol Canzer
+1. Braham Canzer
+
+
+sandy
+leanoard
+
+rosie & barry
+
+pearl
+andrea
+
+Nancy & Jerry
 
 ## Friends (by group)
 
@@ -99,21 +111,12 @@
 - Mitchell Stafiej
 - Petra Glynt
 - Tobia Galipeau
-- Alathea Caroline
 - Ben Cardilli
 - Valentina Cean
 - June (whateverthefuckhescalled)
 - Katie O
 - Jonathan Sbrollini
 - Angelos Kalaidopoulos
-- Stephanie Rochemont
-- Marion McLean
-- Shane
-- Adrian Charles Marcotte
-- Ryan Turner
-- Jenn Burns
-- Jeremy Alves
-- Roberto Blizzard
 
 ## Staff
 
