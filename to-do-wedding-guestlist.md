@@ -7,9 +7,7 @@
 - Rylan Brown
 - Robert McHugh
 
-## Friends (by group)
-
-### Singles
+## Final freinds list
 
 1. Perry Perdue
 1. Andrew Korstvedt
@@ -73,13 +71,15 @@
 - Andrew Kuhl
 - Lubna Shawwa Kuhl
 
-(1) Riva
-(2) Joyce & Irwin
-(2) Cousin Carol + Risa
-(2) sandy & leanoard
-(2) rozzie & barry
-(2) Nancy & Jerry
-(2) Linda & Easor
+--
+
+- (1) Riva
+- (2) Joyce & Irwin
+- (2) Cousin Carol + Risa
+- (2) sandy & leanoard
+- (2) rozzie & barry
+- (2) Nancy & Jerry
+- (2) Linda & Easor
 
 ## Staff
 
@@ -96,13 +96,13 @@
 
 Other:
 
-Joe
-Mike
-Yamin
-Aaron
-Ben
-Aaron
-Kosta
-Sean
-Lacey
-Andrew
+- Joe
+- Mike
+- Yamin
+- Aaron
+- Ben
+- Aaron
+- Kosta
+- Sean
+- Lacey
+- Andrew
