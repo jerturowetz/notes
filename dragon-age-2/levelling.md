@@ -73,7 +73,7 @@ If you'd prefer to go through the Duelist tree and be an even more frail but bra
 1. ~~**Primal**: Stonefist~~
 1. ~~**Primal**: Petrify~~
 1. ~~**Primal**: Dessicate~~
-1. **Creation**: Greater Haste
+1. ~~**Creation**: Greater Haste~~
 1. **Vengeance**: Wrath
 1. **Vengeance**: Regroup
 1. **Primal**: Chain Reaction
@@ -115,8 +115,8 @@ Or you can go for **Elemental** for brittle & cc
 1. ~~**Primal**: Golem's Fist~~
 1. ~~**Arcane**: Elemental Weapons~~
 1. ~~**Arcane**: Mind Blast~~
-1. **Arcane**: Crushing Prison
-1. **Arcane**: Paralysing Prison
+1. ~~**Arcane**: Crushing Prison~~
+1. ~~**Arcane**: Paralysing Prison~~
 1. **Elemental**: Winter Grasp
 1. **Elemental**: Winters Blast
 1. **Elemental**: Cone of Cold

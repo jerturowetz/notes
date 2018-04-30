@@ -24,10 +24,10 @@
 1. ~~**Enemy: Brittle**: Skip next tactic~~
 1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
 1. ~~**Enemy: Target of Hawke**: Use Petrify~~
-1. **Enemy: Staggered**: Use Chanin Lightning
+1. ~~**Enemy: Staggered**: Use Chanin Lightning~~
 1. ~~**Enemy: Using Ranged or Magic Attack**: Use Stonefist~~
 1. ~~**Enemy: Attacking Hawke**: Use Stonefist~~
-1. **Enemy: Target of Hawke**: Attack
+1. ~~**Enemy: Target of Hawke**: Attack~~
 1. **Self: Health >= 75%**: Use Martyr
 
 ## Merril
@@ -45,11 +45,11 @@
 1. ~~**Enemy: Brittle**: Skip next tactic~~
 1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
 1. ~~**Enemy: Target of Hawke**: Use Petrify~~
-1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
-1. **Enemy: Staggered**: Use Crushing Prison
+1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
+1. ~~**Enemy: Staggered**: Use Crushing Prison~~
 1. ~~**Enemy: Staggered**: Use Chain Lightning~~
-1. **Enemy: Target Rank is Elite or higher**: Use cond for next tactic
-1. **Enemy: Target of Hawke**: Use Winter's Grasp
+1. ~~**Enemy: Target Rank is Elite or higher**: Use cond for next tactic~~
+1. ~~**Enemy: Target of Hawke**: Use Winter's Grasp~~
 1. ~~**Enemy: Using Ranged or Magic Attack**: Use cond for next tactic~~
 1. ~~**Enemy: Attacking Hawke**: Use Stonefist~~
 1. ~~**Enemy: Target of Hawke**: Attack~~
@@ -77,11 +77,11 @@
 
 Randoms?
 
-- **Enemy: Attacking controlled party member**: Use Shield Bash
-- **Enemy: Attacking controlled party member**: Attack
-- **Self: Being attacked by a melee attack**: Use Retaliation
-- **Self: Health < 50**: Activate Immovable
-- **Self: Health >= 50**: Deactivate Immovable
+- ~~**Enemy: Attacking controlled party member**: Use Shield Bash~~
+- ~~**Enemy: Attacking controlled party member**: Attack~~
+- ~~**Self: Being attacked by a melee attack**: Use Retaliation~~
+- ~~**Self: Health < 50**: Activate Immovable~~
+- ~~**Self: Health >= 50**: Deactivate Immovable~~
 
 ## Varric (trade for Merril)
 
