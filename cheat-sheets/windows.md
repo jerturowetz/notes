@@ -26,3 +26,13 @@ Run cmd as Administrator
     powercfg /requests      # see what drivers or software are interrupting sleep
     powercfg /sleepstudy    # do a sleep study and export to an html file
     powercfg /energy        # do an energy audit and export to an html file
+
+## Erase explorer history
+
+Easiest to save as a `.bat` file and just run it
+
+    Del /F /Q %APPDATA%\Microsoft\Windows\Recent\*
+    Del /F /Q %APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations\*
+    Del /F /Q %APPDATA%\Microsoft\Windows\Recent\CustomDestinations\*
+    REG Delete HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /VA /F
+    REG Delete HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths /VA /F
