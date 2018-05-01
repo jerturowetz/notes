@@ -14,10 +14,12 @@
 - kale
 - sandwich meat
 - sundried
-- perrier
-- toothpaste
 - paper towels & kleenex
 - draino for bathroom
+- le chat
+- tomato sauce
+- greec yogurt
+- bread
 
 ## Italian Grocery
 
