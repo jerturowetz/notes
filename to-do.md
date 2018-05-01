@@ -1,9 +1,20 @@
 # Jer's To-Do List
 
-- Nord VPN / PIA
+## HW store
+
+- Silicon paste for shower
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
-- Fix floor tom mic rattle
+- Take a look at clasps for door lock
+- Gear to patch hole behind stove (??)
+
+## Friday Night
+
 - Sharpen knives
+
+## Various
+
+- Nord VPN / PIA
+- Fix floor tom mic rattle
 - Call: Nancy, Riva, Carol, Sandy, Matthew
 - SJ Tracks
 - Pick up drums chez Mike M
@@ -21,15 +32,6 @@
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
 
-## Psych help
-
-- Dr D. Sookman, 514-934-1934, ext 34290
-- [IUSMM Research](http://www.iusmm.ca/research.html)
-- [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
-- [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
-- [Douglas?](http://www.douglas.qc.ca/?locale=en)
-- Foundation TOC : 514-727-0012
-
 ## Outstanding Bills
 
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -39,6 +41,15 @@
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
+
+## Psych help
+
+- Dr D. Sookman, 514-934-1934, ext 34290
+- [IUSMM Research](http://www.iusmm.ca/research.html)
+- [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
+- [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
+- [Douglas?](http://www.douglas.qc.ca/?locale=en)
+- Foundation TOC : 514-727-0012
 
 ## Code study
 
