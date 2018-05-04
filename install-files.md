@@ -133,7 +133,8 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
     npm install -g bower gulp-cli grunt-cli eslint-cli stylelint-cli
 
-    vagrant plugin install vagrant-hostsupdater vagrant-triggers vagrant-host-shell vagrant-winnfsd
+    vagrant plugin install vagrant-hostsupdater
+    vagrant plugin install vagrant-triggers # This might come stock now
 
     gem install sass --no-user-install
     gem install jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm
