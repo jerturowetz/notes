@@ -1,19 +1,6 @@
 # Jer's To-Do List
 
-## HW store
-
-- Silicon paste for shower
-- Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
-- Take a look at clasps for door lock
-- Gear to patch hole behind stove (??)
-
-## Friday Night
-
-- Sharpen knives
-
-## Various
-
-- Nord VPN / PIA
+- Sharpen Knives
 - Fix floor tom mic rattle
 - Call: Nancy, Riva, Carol, Sandy, Matthew
 - SJ Tracks

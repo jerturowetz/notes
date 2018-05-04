@@ -1,13 +1,20 @@
 # Wishlist
 
+- Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)
+- Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - USB C TO Display port adapter
-- Laptop desk stand
-- Medium sharpies for work & space
 - 5A bulk drum sticks
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
-- small iphone stand
+- Small iphone stand
+
+## HW store
+
+- Silicon paste for shower
+- Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
+- Take a look at clasps for door lock
+- Gear to patch hole behind stove (??)
 
 ## Winter boots
 
@@ -67,8 +74,6 @@
 
 ## Workshop & soldering station
 
-- Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)
-- Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)
 - desoldering plunger & wick
 - precision x-acto knife (scalpel)
 - regular & thin medical scissors
