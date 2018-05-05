@@ -1,5 +1,6 @@
 # Jer's grocery list
 
+- fine/table salt
 - recycling bags
 - milk
 - coffee
@@ -18,7 +19,7 @@
 - draino for bathroom
 - le chat
 - tomato sauce
-- greec yogurt
+- greek yogurt
 - bread
 
 ## Italian Grocery
