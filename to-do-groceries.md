@@ -1,15 +1,15 @@
 # Jer's grocery list
 
-- fine/table salt 
 - cheese (sliced & block)
-- lemons
-
-
-- dish soap
 - oj
 - butter
-- kale
+- kale & greens
+- raddishes
+- green beans
+- lemons
+- fine table salt
 - paper towels & kleenex
+- dish soap
 - le chat
 - tomato sauce
 - greek yogurt
