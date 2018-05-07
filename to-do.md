@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle
 - Call: Nancy, Riva, Carol, Sandy, Matthew

@@ -1,26 +1,19 @@
 # Jer's grocery list
 
-- fine/table salt
-- recycling bags
-- milk
-- coffee
+- fine/table salt 
 - cheese (sliced & block)
+- lemons
+
+
+- dish soap
 - oj
 - butter
-- perrier
-- lemons
-- eggs
-- bacon
-- leaf greens
 - kale
-- sandwich meat
-- sundried
 - paper towels & kleenex
-- draino for bathroom
 - le chat
 - tomato sauce
 - greek yogurt
-- bread
+- laundry detergent
 
 ## Italian Grocery
 
