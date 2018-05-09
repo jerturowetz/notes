@@ -2,6 +2,33 @@
 
 ## to-do
 
+
+call lon re bartending
+call st ambroise
+
+big clusters of hanging lights 
+
+
+
+send photo of book to weddi g planner
+aend link of pintreat board
+call autelia re do we get studio b with the terrace
+get floor plan
+ask autelia for coucjes
+get dj
+more food quotes
+more music quotes
+muaic on the terrace ? what time ?
+what sound equip lights does aurelia have
+is there elevator access via the loading dock
+are terr outside lights ?
+can we not have the curtains up in the studio
+
+eloi couches
+eloi tables with coches
+
+
+
 - sam from terra perma
 - ÉLIANE DUCHAINE chambre de commerce ste-adele (T: 450-229-2644 | C : chambredecommerce@sainte-adele.net)
 - Call the [Hot dog guy](http://promotionsmicheldumontet.com/index.php?p=1_6_Hot-Dog-Party)
