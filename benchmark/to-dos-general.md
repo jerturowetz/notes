@@ -81,3 +81,10 @@ sharing? what is sharing? what do people want to share? how do people self expre
 text messaging?
 
 Tell us what you really think? anaonymous opinions?
+
+## Employee guidelines
+
+No password sharing, ever, either verbally or via a messenger or email
+All credentials need to be managed
+
+Whats our employee IT stack:
