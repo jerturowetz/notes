@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Get all of the MCU movies
 - pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle
