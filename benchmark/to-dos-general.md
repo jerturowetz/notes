@@ -1,5 +1,15 @@
 # To-Do: Benchmark
 
+Build a set of criteria (tech) for new partner / backend lead
+Maybe leaf through existing linked in profiles
+
+Is it possible to interacti with MAc numbers docs from a pc? If not do they convert?
+
+
+
+
+
+
 front end speed
 need someone who builds scalable shit
 
