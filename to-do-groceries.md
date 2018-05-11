@@ -1,19 +1,20 @@
 # Jer's grocery list
 
-- cheese (sliced & block)
-- oj
-- butter
+- Cheese (sliced & block)
+- OJ
+- Milk
+- Butter
+- Sandwich meat
 - kale & greens
-- raddishes
-- green beans
-- lemons
+- Raddishes
+- Carrots
+- Green beans
+- Lemons
 - fine table salt
-- paper towels & kleenex
-- dish soap
-- le chat
-- tomato sauce
-- greek yogurt
-- laundry detergent
+- Paper towels & kleenex
+- Dish soap
+- Pasta Sauce
+- Greek yogurt
 
 ## Italian Grocery
 
@@ -33,3 +34,11 @@
 - Toothpaste
 - paper towels
 - long aluminum foil
+
+## Parmacy
+
+- Le chat
+- Aveno (for office & home)
+- Toothbrush
+- Floss
+- laundry detergent
