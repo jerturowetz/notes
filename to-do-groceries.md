@@ -42,3 +42,5 @@
 - Toothbrush
 - Floss
 - laundry detergent
+- hair stuff
+
