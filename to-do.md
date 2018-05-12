@@ -24,7 +24,6 @@
 ## Outstanding Bills
 
 - $120 Kate wedding fund
-- $100 ish dad Alcatel GO FLIP
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $300 Kate furniture
 - $125 Mickey
