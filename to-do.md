@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Get all of the MCU movies
+- Alanis Obomsawin
 - pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle
