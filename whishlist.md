@@ -1,5 +1,10 @@
 # Wishlist
 
+washers for snare
+more heads
+kick beater
+iron cobra
+
 - [Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)](https://www.amazon.com/KESTER-SOLDER-32117-24-6040-0027-Diameter/dp/B01MSWYSUU)
 - [Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)](https://www.amazon.com/Kester-24-6337-8800-Activated-No-Clean-Diameter/dp/B00068IJOU)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
