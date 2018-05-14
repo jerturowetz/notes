@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+- hem jeans
+- organize music with friends for wedding
+- how to soup atock
 - Alanis Obomsawin
 - pick up djembe
 - Sharpen Knives
