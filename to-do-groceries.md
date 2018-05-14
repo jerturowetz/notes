@@ -1,20 +1,27 @@
 # Jer's grocery list
 
 - Cheese (sliced & block)
+- Milk
+- KD
 - OJ
 - Milk
-- Butter
+- peanut butter
 - Sandwich meat
+- Marinards
 - kale & greens
 - Raddishes
 - Carrots
 - Green beans
 - Lemons
+celery (other soup atock)
+- bacon
+- meat
 - fine table salt
 - Paper towels & kleenex
 - Dish soap
 - Pasta Sauce
 - Greek yogurt
+- loads of bread
 
 ## Italian Grocery
 
@@ -43,4 +50,5 @@
 - Floss
 - laundry detergent
 - hair stuff
+- nair creme nourish
 
