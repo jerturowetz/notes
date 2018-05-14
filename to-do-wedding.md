@@ -7,6 +7,9 @@
 - Call St Ambroise
 - more food quotes
 - more music quotes
+- mccain
+- plan park with mike
+- plan mini event for moms friend
 
 ## Questions for Eloi
 
