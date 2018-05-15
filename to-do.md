@@ -1,13 +1,12 @@
 # Jer's To-Do List
 
 - hem jeans
-- organize music with friends for wedding
-- how to soup atock
+- how to soup stock
 - Alanis Obomsawin
 - pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle
-- Call: Nancy, Riva, Carol, Sandy, Matthew
+- Call: Nancy, Carol, Sandy, Matthew
 - SJ Tracks
 - Pick up drums chez Mike M
 - Clean up gists
