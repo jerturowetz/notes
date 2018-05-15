@@ -1,8 +1,7 @@
 # Jer's To-Do List
 
-- hem jeans
-- how to soup stock
-- Alanis Obomsawin
+- Hem jeans
+- How to soup stock
 - pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle

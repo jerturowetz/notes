@@ -1,9 +1,6 @@
 # Let's get married
 
 - Call Aurelia at Eloi (T 514 279-6464 | C 514 962-3790)
- 
-- organize music with friends for wedding
-- Call the [Hot dog guy](http://promotionsmicheldumontet.com/index.php?p=1_6_Hot-Dog-Party)
 - Call Lon re bartending
 - Set up my musician friends & plan songs
 - Find a drag DJ
@@ -13,6 +10,7 @@
 - mccain
 - plan park with mike
 - plan mini event for moms friend
+- Plan honeymoon
 
 ## Questions for Eloi
 

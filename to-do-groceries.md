@@ -2,26 +2,29 @@
 
 - Cheese (sliced & block)
 - Milk
-- KD
-- OJ
-- Milk
+- Coffee
 - peanut butter
-- Sandwich meat
-- Marinards
 - kale & greens
 - Raddishes
+- Lemons
+- bread, english muff, baguette
+- dish soap
+
+Later:
+
+- KD
+- OJ
+- Sandwich meat
+- Marinards
 - Carrots
 - Green beans
-- Lemons
-celery (other soup atock)
+- celery (other soup atock items?)
 - bacon
 - meat
 - fine table salt
 - Paper towels & kleenex
-- Dish soap
 - Pasta Sauce
 - Greek yogurt
-- loads of bread
 
 ## Italian Grocery
 
