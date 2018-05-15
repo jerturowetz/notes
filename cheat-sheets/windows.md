@@ -36,3 +36,9 @@ Easiest to save as a `.bat` file and just run it
     Del /F /Q %APPDATA%\Microsoft\Windows\Recent\CustomDestinations\*
     REG Delete HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /VA /F
     REG Delete HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths /VA /F
+
+## Reset the NavPane registry settings
+
+Last time I had issue with windows explorer opening a new windows every time I double clicked a folder, deleting the following key solved the issue:
+
+    HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
