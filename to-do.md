@@ -22,6 +22,7 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+- Get on [Code Poet](http://directory.codepoet.com/)
 
 ## Outstanding Bills
 
@@ -66,6 +67,7 @@
 - [Better PHP](https://www.youtube.com/user/betterphp)
 - [PHP academy](https://www.youtube.com/user/phpacademy)
 - Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
+- [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
 
 ## Musician's Insurance
 
