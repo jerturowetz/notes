@@ -1,30 +1,24 @@
 # Jer's grocery list
 
-- Cheese (sliced & block)
-- Milk
-- Coffee
-- peanut butter
-- kale & greens
-- Raddishes
-- Lemons
-- bread, english muff, baguette
-- dish soap
-
-Later:
-
-- KD
-- OJ
 - Sandwich meat
-- Marinards
-- Carrots
-- Green beans
-- celery (other soup atock items?)
-- bacon
-- meat
-- fine table salt
-- Paper towels & kleenex
+- Garlic
+- Oranges
+- OJ
+- Bacon
+- Meat
+- Cheese
+- Coffee
+- Pasta noodles
 - Pasta Sauce
-- Greek yogurt
+- Marinades
+- canned tomatoes
+- Baking soda
+- Peanut butter
+- English muffins
+- KD
+- dish soap
+- fine table salt
+- Paper towels, toilet paper & Kleenex
 
 ## Italian Grocery
 
@@ -38,20 +32,14 @@ Later:
 - Dumplings
 - sesame oil
 
-## Costco
-
-- Meat
-- Toothpaste
-- paper towels
-- long aluminum foil
-
 ## Parmacy
 
-- Le chat
-- Aveno (for office & home)
+- Toothpaste
 - Toothbrush
 - Floss
+- Le chat
+- long aluminum foil
+- Aveno (for office)
 - laundry detergent
 - hair stuff
 - nair creme nourish
-

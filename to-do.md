@@ -5,7 +5,8 @@
 - pick up djembe
 - Sharpen Knives
 - Fix floor tom mic rattle
-- Call: Nancy, Carol, Sandy, Matthew
+- Pick up cables by Erin
+- Call: Nancy, Matthew, Joyce
 - SJ Tracks
 - Pick up drums chez Mike M
 - Clean up gists
@@ -13,7 +14,6 @@
 - Go through WP plugins
 - Warn shakti of email changes
 - Shut down rackspace
-- Pick up cables by Erin
 - AA Roaul notes
 - Get guitar case from Rachel
 - Life insurance
@@ -25,9 +25,10 @@
 
 ## Outstanding Bills
 
-- $120 Kate wedding fund
+- $50 Connectors
+- $180 Erin & Aaron
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $300 Kate furniture
+- $400 Kate furniture
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
