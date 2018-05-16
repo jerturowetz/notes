@@ -1,6 +1,5 @@
 # Wishlist
 
-- Broom
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - [Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)](https://www.amazon.com/KESTER-SOLDER-32117-24-6040-0027-Diameter/dp/B01MSWYSUU)
 - [Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)](https://www.amazon.com/Kester-24-6337-8800-Activated-No-Clean-Diameter/dp/B00068IJOU)
@@ -109,15 +108,12 @@
 
 ## Music gear
 
+- Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
+- Mixer case
+- $75 StageBug SB-2 for Travis access
+- $450 Radial Key Largo for Travis main
+- $30 Behringer PM1 x4
 - $20 ea Naiant inline attenuator x4
-- mixer case
-- floor snake or Ratsound CAT snake thing, Check out the Whirlwind Catdusa, Medusa MultiSnake and other snake options
-- 3-4u rack case for recording gear
-- 8ch trs snake
-- small rolling cart for rack unit
-- Extra rack screws
-- Behringer pm1, Elite Core Body Pack, rolls hv6 x2
-- Tascam MH-8
 - K&M 259 Short boom stand x2 (amps / toms)
 - Amp clips for AC30
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
@@ -128,29 +124,21 @@
 - Granelli labs 57 or Wilkinson audio adaptor
 - AKG D112
 - $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- DIs (Radial j48 x2, JDI Stereo, JDI, Key largo)
+- Other DIs (Radial j48 x2, JDI Stereo, JDI)
 - More Acoustic pannels
 - IEC-6X4 (short power cords)
 - $315 USD GAS A-10 4 Channel Line Level Attenuator
 - Stereo graphic EQ/Limiter for Mons
 - Mic case
-- Wilkinson Audio mic clips for XY
-- Wilkinson Audio mic clips for MD421
 - Wilkinson Audio SM57 head caps
-- Monitor (like yamaha dxr10)
+- Powered monitor (like a yamaha dxr10)
 
 ### Drums
 
 - Hendrix drums washers for snare
-- Replacement heads & snares
-- kick beater
-- DW kick pedal
 - Drum Dial (alternative helper)
 - Larger kick drum
-- Better clutch
-- DW 5000 pedals
-- Ludwig Black Beauty, Supraphonic
-- 2 snare stands (1 for Rack tom)
+- Better snare stand
 - 16/18 Floor Tom
 - Fix tom mount
 
