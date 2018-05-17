@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Buy bathing suit
 - Hem jeans
 - How to soup stock
 - pick up djembe
