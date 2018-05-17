@@ -1,10 +1,8 @@
 # Wishlist
 
+- Cash for Erin
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
-- [Kester 44 60/40 Rosin core lead solder (for repair work or on used/oxidised parts)](https://www.amazon.com/KESTER-SOLDER-32117-24-6040-0027-Diameter/dp/B01MSWYSUU)
-- [Kester 245 No Clean Wire Solder 63/37 .031" part no 24-6337--8800 (for clean work, new parts)](https://www.amazon.com/Kester-24-6337-8800-Activated-No-Clean-Diameter/dp/B00068IJOU)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
-- 5A bulk drum sticks
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
 - Small iphone stand
@@ -66,36 +64,48 @@
 - Use music by the knife and Jose Gonzalez to take a vantage of Kate
 - Horseback riding
 - Stewart Museaum
-- Danceland
 - santiago ramón y cajal prints
 - cretien book CATHY
 - tshirt "not really drinking"
-- [more boxes](http://www.instructables.com/id/How-to-Make-an-Exploding-Box-DIY-Paper-Crafts-Wedd/)
+
+## Bulk Cable
+
+- $0.64/ft Mogami W2799 Install grade quad mic cable - 25AWG
+- $1.12/ft Mogami W2534 Quad mic cable - 24AWG (multiple colors available)
+- $0.50/ft Canare L-4E6S Quad mic Cable - 21AWG (multiple colors available)
+- $0.80/ft Mogami W2549 Standard Balanced Mic Cable - 22AWG (multiple colors available)
+- $0.50/ft Canare L-2T2S Balanced Mic Cable - 22AWG
+- $0.57/ft Mogami W2806 Install grade balanced mic cable - 22AWG (only gray)
+- $0.19/ft Canare L-2B2AT Install grade balanced mic cable - 25AWG (black or Gray)
+- $0.84/ft Mogami W2524 Unbalanced Instrument Cable - 20AWG
+- $0.84/ft Canare GS-6 Unbalanced Instrument Cable - 18AWG (multiple colors available)
+- $0.72/ft Redco TGS-HD Unbalanced Instrument Cable - 18AWG (multiple colors available)
+
+**Please note:** Snake cable is typically a bit smaller, about 25-26AWG
+
+### Pliers/Strippers
+
+- Xcelite 170M shearcutters (do I have already?)
+- Better diagonal pliers
+- $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
+- $70 Linesmans pliers
+- $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
+- $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
+- $20 Klein Tools 74007 Adjustable Wire Stripper
 
 ## Workshop & soldering station
-
-- desoldering plunger & wick
-- precision x-acto knife (scalpel)
-- regular & thin medical scissors
-- Stripping tools:
-  - Xcelite 170M shearcutters
-  - klein tools 20GA - 32Ga wire strippers
-  - Eclipse 200-015 cutter
-  - larger diagonal cutters (Channellock 436 6-Inch Diagonal Cutting Plier)
-  - linemans pliers
-  - strippers for interios?
-  - strippers for exterior?
-  - [UTP Cable Cutter Stripper Tool](https://www.amazon.ca/gp/product/B003OSRB5C/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
-  - [Coax stripping tool](https://www.amazon.ca/gp/product/B00L316XTW/ref=s9_acsd_top_hd_bw_b7rdejb_c_x_w)
-
-- XLR, TRS & TS connectors
-- Balanced Cable
 
 - [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
 - [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
 - [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-- Colored electrical tape
+- XLR & TRS connectors
+- Abra 63/37 .031" Solder
+- regular & thin medical scissors
+- Medical grabbers (hemostats)
+- cabinet flat tip screwdriver (longer)
+- Crazy glue
+- Carpenters glue
 - Artists tape
 - Guitar Neck rest
 - Small power tool
@@ -103,15 +113,15 @@
 - Regular, large & small zip ties
 - Cheap paint brushes for cleaning boards
 - Mixwizard Power button replace
-- Heat shrink (flexible polyolefin either adhesive lined or not)
 - Heat Gun
+- Heat shrink (flexible polyolefin either adhesive lined or not)
 
 ## Music gear
 
 - Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
 - Mixer case
-- $75 StageBug SB-2 for Travis access
-- $450 Radial Key Largo for Travis main
+- $75 StageBug SB-2 (for Travis access)
+- $450 Radial Key Largo (for Travis main)
 - $30 Behringer PM1 x4
 - $20 ea Naiant inline attenuator x4
 - K&M 259 Short boom stand x2 (amps / toms)
@@ -135,8 +145,7 @@
 
 ### Drums
 
-- Hendrix drums washers for snare
-- Drum Dial (alternative helper)
+- Plastic washers for snare
 - Larger kick drum
 - Better snare stand
 - 16/18 Floor Tom
