@@ -115,6 +115,8 @@
 - Mixwizard Power button replace
 - Heat Gun
 - Heat shrink (flexible polyolefin either adhesive lined or not)
+- panavise 300 standard base
+- panavise 312 parts tray
 
 ## Music gear
 
