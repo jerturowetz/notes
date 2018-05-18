@@ -26,7 +26,7 @@
 
 ## Outstanding Bills
 
-- $50 Connectors
+- $300 communauto
 - $180 Erin & Aaron
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $400 Kate furniture
