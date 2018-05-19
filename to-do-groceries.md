@@ -13,7 +13,6 @@
 - Marinades
 - canned tomatoes
 - Baking soda
-- Peanut butter
 - English muffins
 - KD
 - dish soap
@@ -34,12 +33,7 @@
 
 ## Parmacy
 
-- Toothpaste
-- Toothbrush
 - Floss
 - Le chat
-- long aluminum foil
-- Aveno (for office)
 - laundry detergent
 - hair stuff
-- nair creme nourish
