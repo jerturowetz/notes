@@ -1,12 +1,10 @@
 # Denver
 
-- Staying at the Hyatt Tues & Wed then the Rambler hotel Thursday & Friday. I have Wed free.
+- Staying at the Grand Hyatt room 1007 Tues & Wed then the Rambler hotel Thursday & Friday. I have Wed free.
 - From the airport, can take the A line ($9.00) to Union station
 
 ## Todo
 
-- get a cc or convert to USD
-- Plan fun times with KC Wed?
 - plan hike thursday afternoon (Alltrails.com)
 - Plan Date night in RiNo Friday Night
 - plan dinner sat night (Nocturne Jazz)
