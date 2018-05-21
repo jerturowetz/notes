@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Buy bathing suit
+- plan ottawa trip weekend of june 22
 - Hem jeans
 - How to soup stock
 - pick up djembe
