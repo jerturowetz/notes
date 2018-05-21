@@ -1,5 +1,7 @@
 # Jer's grocery list
 
+- Coffee
+- Milk
 - Sandwich meat
 - Garlic
 - Oranges
@@ -18,6 +20,7 @@
 - dish soap
 - fine table salt
 - Paper towels, toilet paper & Kleenex
+- CLR bathroom cleaner
 
 ## Italian Grocery
 

@@ -1,6 +1,5 @@
 # Wishlist
 
-- Cash for Erin
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - AA batteries, AAA batteries & charger
@@ -92,9 +91,12 @@
 - $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
 - $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
 - $20 Klein Tools 74007 Adjustable Wire Stripper
+- Mini needle nose pliers
 
 ## Workshop & soldering station
 
+- Helping hands
+- desktop magnifying glass with lamp
 - [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
 - [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)

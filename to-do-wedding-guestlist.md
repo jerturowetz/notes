@@ -9,6 +9,7 @@
 
 ## Wishlist
 
+- Taylor (Jamie Speck)
 - SJ Thony
 - Travis Griffith
 - Sean Arsenian

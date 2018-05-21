@@ -1,13 +1,13 @@
 # Jer's To-Do List
 
-- plan ottawa trip weekend of june 22
+- Plan ottawa trip weekend of june 22
+- Plan honeymoon (stay at hotel vs honeymoon)
+- Pick up cables by Erin
+- Sharpen Knives
 - Hem jeans
 - How to soup stock
-- pick up djembe
-- Sharpen Knives
-- Fix floor tom mic rattle
-- Pick up cables by Erin
-- Call: Nancy, Matthew, Joyce
+- Pick up djembe
+- Call: Nancy, Joyce
 - SJ Tracks
 - Pick up drums chez Mike M
 - Clean up gists
@@ -18,11 +18,10 @@
 - AA Roaul notes
 - Get guitar case from Rachel
 - Life insurance
-- Get a rfamily doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
+- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
-- Get on [Code Poet](http://directory.codepoet.com/)
 
 ## Outstanding Bills
 
