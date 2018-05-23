@@ -5,6 +5,10 @@
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
 - Small iphone stand
+- north face bag
+- better luggage (55x40x23cm) or (21.5x15.5x9")
+- scent balls for shoes
+- sneakers
 
 ## HW store
 
@@ -85,12 +89,10 @@
 ### Pliers/Strippers
 
 - Xcelite 170M shearcutters (do I have already?)
-- Better diagonal pliers
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - $70 Linesmans pliers
 - $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
 - $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
-- $20 Klein Tools 74007 Adjustable Wire Stripper
 - Mini needle nose pliers
 
 ## Workshop & soldering station
