@@ -1,5 +1,18 @@
 # Denver
 
+better galactic recorss
+
+kates songs
+aint no sunshine
+ico ico
+you autta know
+am i the only one (bnl)
+
+
+
+tennison street
+10th and broadway has station
+
 - Staying at the Grand Hyatt room 1007 Tues & Wed then the Rambler hotel Thursday & Friday. I have Wed free.
 - From the airport, can take the A line ($9.00) to Union station
 
