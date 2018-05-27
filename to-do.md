@@ -1,9 +1,8 @@
 # Jer's To-Do List
 
 - call mickey guttman
-- check out the book: ishmael
 - Plan ottawa trip weekend of june 22
-- Plan honeymoon (stay at hotel vs honeymoon)
+- Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
 - Pick up cables by Erin
 - Sharpen Knives
 - Hem jeans

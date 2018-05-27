@@ -34,20 +34,22 @@
 
 ## Kitchen stuff
 
-- 8-Quart Stock Pot (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $200 All-Clad 4112 Stainless Steel Fry Pan
-- Round dutch oven (5.5 qts at the very least)
 - Thermapen
+- Another aluminum half sheet pan & libertyware cooling rack
+- Round dutch oven (5.5 qts at the very least)
+
+- 8-Quart & 12-Quart Stock Pots (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
-- Another aluminum half sheet pan & libertyware cooling rack
 - Carving knife
 - Mercer Culinary 10-Inch Wide Bread Knife
-- Messermeister Avanta 4-Piece Fine Edge Steak Knife Set
 - Large Reversible Maple Carving Board
-- Wooden serving boards (Milano?)
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
 - 12" Cast iron
+- 3 quart saucepan
+- sautee pan w/lid
+- roasting pan
 
 ## Kate stuff
 
