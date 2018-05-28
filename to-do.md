@@ -1,8 +1,6 @@
 # Jer's To-Do List
 
 - call mickey guttman
-- Plan ottawa trip weekend of june 22
-- Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
 - Pick up cables by Erin
 - Sharpen Knives
 - Hem jeans
@@ -45,16 +43,20 @@
 
 ## Code study
 
+- [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
+- [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
+
+- [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
+- [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
+- [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
 - [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
 - [How To Make And Maintain Atomic Design Systems With Pattern Lab 2](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
-- [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 - [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
 - [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+- Elastisearch
 - SVG Icons
-- Read the WPML getting started guide
 - Regression Testing
-- SOLID
 - [Google Web Fundamentals](https://developers.google.com/web/)
 - [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 - [Do the entire w3schools catalogue](https://www.w3schools.com/)
