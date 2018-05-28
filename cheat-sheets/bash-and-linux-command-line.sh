@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #!/bin/bash
-# Cheat sheet : Bash
+# GNU core utils online help: http://www.gnu.org/software/coreutils/coreutils.html
 
 ## Copy all _contents_ from one folder to another
 ## the `-a` option preserves permissions and recursive stuff
@@ -93,3 +93,13 @@ Match all `.css` files in the `css` folder, except those starting with `_`. The 
 - [Glob](https://github.com/isaacs/node-glob)
 - [minimatch](https://github.com/isaacs/minimatch)
 - [Gulp – How To Build And Develop Websites](https://www.smashingmagazine.com/2014/06/building-with-gulp/)
+
+
+
+## Report file system disk space usage `df`
+
+df -h # h is for human-readable
+
+## Estimate file space usage `du`
+
+du -h --max-depth=1 # see size breakdown for contents of current folder
