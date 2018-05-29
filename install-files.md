@@ -131,7 +131,7 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
     complete -C aws_completer aws # Add AWS CLI code completion
 
-    npm install -g bower gulp-cli grunt-cli eslint-cli stylelint-cli
+    npm install -g gulp-cli grunt-cli eslint-cli stylelint-cli
 
     vagrant plugin install vagrant-hostsupdater
     vagrant plugin install vagrant-triggers # This might come stock now
@@ -188,8 +188,3 @@ Erase the following reg key:
 
 *Note* You might also want to go to `Save` options and set the default save path to desktop
 
-## Disable photos app
-
-From an admin Powershell run:
-
-    Get-AppxPackage *photo* | Remove-AppxPackage
