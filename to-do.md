@@ -28,6 +28,7 @@
 - $180 Erin & Aaron
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $400 Kate furniture
+- $??? vacation
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
@@ -48,6 +49,8 @@
 
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
+- [PIXI.js](http://www.pixijs.com/)
+- [GreenSock](https://greensock.com/)
 - [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
 - [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
 - [How To Make And Maintain Atomic Design Systems With Pattern Lab 2](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
