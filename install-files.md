@@ -6,23 +6,6 @@ Below are notes regarding my setup of fresh Windows 10 systems for development.
 
 Be sure whatever internal audio device is set to 48/24 quality
 
-## Intel Iris 640: increase video memory size
-
-Please note this will eat up system RAM for other stuff
-
-- Navigate to `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Intel\`
-- Right click and create a new key called `GMM`
-- in `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM\` create a QWORD
-- name it `dedicatedsegmentsize`
-- set it to `512` or `1024`
-
-## Disable Cortana on Windows 10 Pro
-
-- Launch the group policy editor gpedit.msc
-- Navigate to _Computer Configuration > Administrative Templates > Windows Components > Search_
-- Locate the `Allow Cortana` setting & disable
-- Log out & Log back in
-
 ## Set permissions on hosts file
 
 only system and admin have permission to write to hosts by deafault - be sure to add permission for your user so that things like host updaters and editors can make changes to it without needing to run them as admin
@@ -133,8 +116,8 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
     npm install -g gulp-cli grunt-cli eslint-cli stylelint-cli
 
-    vagrant plugin install vagrant-hostsupdater
-    vagrant plugin install vagrant-triggers # This might come stock now
+    ?? vagrant plugin install vagrant-hostsupdater
+    ?? vagrant plugin install vagrant-triggers # This might come stock now
 
     gem install sass --no-user-install
     gem install jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm
@@ -152,7 +135,6 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
 ## Stuff to sync
 
-- HeidiSQL
 - Verify windows identity
 - VS Code settings
 
@@ -187,4 +169,3 @@ Erase the following reg key:
 - Set `Default personal templates location` to that folder
 
 *Note* You might also want to go to `Save` options and set the default save path to desktop
-
