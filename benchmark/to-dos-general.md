@@ -1,5 +1,9 @@
 # To-Do: Benchmark
 
+Marketing: "universal human truths" (desire to acheieve, to find a partner, to nurture a child)
+
+
+
 ## Talent search
 
 Queers who code MTL
