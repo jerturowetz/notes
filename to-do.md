@@ -52,9 +52,9 @@
 
 ## Code study
 
+- [Speed up virtualbox on Win 10](https://tunecomp.net/windows-10-works-slowly-on-virtualbox-how-to-speed-up-windows-10-on-virtual-machine/)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
-
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
 - [PIXI.js](http://www.pixijs.com/)
