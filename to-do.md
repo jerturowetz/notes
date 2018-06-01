@@ -1,14 +1,13 @@
 # Jer's To-Do List
 
-- call mickey guttman
 - Pick up cables by Erin
-- Sharpen Knives
-- Hem jeans
 - How to soup stock
-- Pick up djembe
 - Call: Nancy, Joyce
 - SJ Tracks
 - Pick up drums chez Mike M
+- Sharpen Knives
+- Hem jeans
+- Pick up djembe
 - Clean up gists
 - WordPress snippets to files
 - Go through WP plugins
@@ -32,11 +31,11 @@
 
 ## Outstanding Bills
 
-- $300 communauto
+- ~~$168.20 Dell~~
+- $600ish Kate furniture & vacation
+- $120 Wedding savings for july
 - $180 Erin & Aaron
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $400 Kate furniture
-- $??? vacation
 - $125 Mickey
 - $?? Madi Tech
 - $200 Agg, Andrew, Joe gifts
