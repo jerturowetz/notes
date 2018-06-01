@@ -1,5 +1,10 @@
 # Jer's To-Do List
 
+1. PostgreSQL for DB
+2. Admin tool in Django
+3. API in Go
+4. Front-end in whatever you know best
+
 - Pick up cables by Erin
 - How to soup stock
 - Call: Nancy, Joyce
@@ -81,6 +86,8 @@
 - [PHP academy](https://www.youtube.com/user/phpacademy)
 - Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
 - [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
+- [IRIS the fastest Go web framework](https://github.com/kataras/iris)
+- JS fundamentals >> React >> GatsbyJS
 
 ## Musician's Insurance
 

@@ -1,21 +1,17 @@
 # Wishlist
 
+- Silicon paste for shower
+- Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
+- Gear to patch hole behind stove (??)
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - AA batteries, AAA batteries & charger
 - Headphones recording helper for iphone
-- Small iphone stand
-- north face bag
+- Small iPhone stand
+- North face bag
 - better luggage (55x40x23cm) or (21.5x15.5x9")
 - scent balls for shoes
 - sneakers
-
-## HW store
-
-- Silicon paste for shower
-- Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
-- Take a look at clasps for door lock
-- Gear to patch hole behind stove (??)
 
 ## Winter boots
 
@@ -34,11 +30,6 @@
 
 ## Kitchen stuff
 
-- $200 All-Clad 4112 Stainless Steel Fry Pan
-- Thermapen
-- Another aluminum half sheet pan & libertyware cooling rack
-- Round dutch oven (5.5 qts at the very least)
-
 - 8-Quart & 12-Quart Stock Pots (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
@@ -50,6 +41,13 @@
 - 3 quart saucepan
 - sautee pan w/lid
 - roasting pan
+- Round dutch oven (5.5 qts at the very least)
+
+### Added to reg
+
+- $200 All-Clad 4112 Stainless Steel Fry Pan
+- Thermapen
+- Another aluminum half sheet pan & libertyware cooling rack
 
 ## Kate stuff
 
