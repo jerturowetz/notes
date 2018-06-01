@@ -31,6 +31,7 @@
 
 ## Outstanding Bills
 
+- Communauto Renewal
 - ~~$168.20 Dell~~
 - $600ish Kate furniture & vacation
 - $120 Wedding savings for july
