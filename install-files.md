@@ -52,11 +52,11 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Slack desktop
 - Stardock Fences
 - Steam
+- Docker
 - MP3 Tag
 - TeamViewer
 - Twitter
 - uTorrent
-- Vagrant
 - VLC
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
@@ -116,8 +116,7 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
     npm install -g gulp-cli grunt-cli eslint-cli stylelint-cli
 
-    ?? vagrant plugin install vagrant-hostsupdater
-    ?? vagrant plugin install vagrant-triggers # This might come stock now
+npm install webpack -g
 
     gem install sass --no-user-install
     gem install jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm
