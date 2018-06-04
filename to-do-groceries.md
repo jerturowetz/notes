@@ -10,8 +10,6 @@
 - Meat
 - Cheese
 - Coffee
-- Pasta noodles
-- Pasta Sauce
 - Marinades
 - canned tomatoes
 - Baking soda
@@ -20,12 +18,8 @@
 - dish soap
 - fine table salt
 - Paper towels, toilet paper & Kleenex
-- CLR bathroom cleaner
-
-## Italian Grocery
-
-- pasta noodles
-- Tomato sauce
+- CLR bathroom cleaner, clorox
+- Le chat
 
 ## Asian Grocery
 
@@ -33,10 +27,3 @@
 - Udon
 - Dumplings
 - sesame oil
-
-## Parmacy
-
-- Floss
-- Le chat
-- laundry detergent
-- hair stuff
