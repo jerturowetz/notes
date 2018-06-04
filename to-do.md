@@ -1,10 +1,5 @@
 # Jer's To-Do List
 
-1. PostgreSQL for DB
-2. Admin tool in Django
-3. API in Go
-4. Front-end in whatever you know best
-
 - Pick up cables by Erin
 - How to soup stock
 - Call: Nancy, Joyce
@@ -28,11 +23,21 @@
 
 ## Flicks
 
-- braven film
+- braven
 - st elmos fire
 - Mollys game
 - Suicide squad hell to pay
 - Mary and the Witchs Flower
+- A Quiet Place
+- Deadpool 2
+- Super Troopers 2
+- Cargo
+- Okja
+- American Animals
+- First reformed
+- Tower
+- Star Trek II: The Wrath Of Khan
+- The Host
 
 ## Outstanding Bills
 
