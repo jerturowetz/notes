@@ -23,11 +23,21 @@
 
 ## Flicks
 
-- braven film
+- braven
 - st elmos fire
 - Mollys game
 - Suicide squad hell to pay
 - Mary and the Witchs Flower
+- A Quiet Place
+- Deadpool 2
+- Super Troopers 2
+- Cargo
+- Okja
+- American Animals
+- First reformed
+- Tower
+- Star Trek II: The Wrath Of Khan
+- The Host
 
 ## Outstanding Bills
 
@@ -82,6 +92,8 @@
 - [PHP academy](https://www.youtube.com/user/phpacademy)
 - Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
 - [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
+- [IRIS the fastest Go web framework](https://github.com/kataras/iris)
+- JS fundamentals >> React >> GatsbyJS
 
 ## Musician's Insurance
 

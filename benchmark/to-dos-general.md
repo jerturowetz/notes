@@ -2,7 +2,12 @@
 
 Marketing: "universal human truths" (desire to acheieve, to find a partner, to nurture a child)
 
+## Build ideas
 
+1. PostgreSQL for DB
+2. Admin tool in Django
+3. API in Go
+4. Front-end in whatever you know best
 
 ## Talent search
 
