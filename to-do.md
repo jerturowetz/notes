@@ -23,26 +23,16 @@
 
 ## Flicks
 
-- braven
+- Braven
 - st elmos fire
-- Mollys game
 - Suicide squad hell to pay
 - Mary and the Witchs Flower
 - A Quiet Place
 - Deadpool 2
-- Super Troopers 2
-- Cargo
-- Okja
-- American Animals
-- First reformed
-- Tower
-- Star Trek II: The Wrath Of Khan
-- The Host
 
 ## Outstanding Bills
 
 - Communauto Renewal
-- ~~$168.20 Dell~~
 - $600ish Kate furniture & vacation
 - $120 Wedding savings for july
 - $180 Erin & Aaron

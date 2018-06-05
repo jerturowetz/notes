@@ -11,7 +11,8 @@
 - North face bag
 - better luggage (55x40x23cm) or (21.5x15.5x9")
 - scent balls for shoes
-- sneakers
+- Sneakers
+- Dualshock 4
 
 ## Winter boots
 
@@ -86,17 +87,14 @@
 
 **Please note:** Snake cable is typically a bit smaller, about 25-26AWG
 
-### Pliers/Strippers
+## Workshop & soldering station
 
-- Xcelite 170M shearcutters (do I have already?)
+- Xcelite 170M shearcutters
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - $70 Linesmans pliers
 - $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
 - $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
 - Mini needle nose pliers
-
-## Workshop & soldering station
-
 - Abra 63/37 .031" Solder (has lower melting point and is easier for cleaner jobs)
 - solder flux (liquid rosin flux)
 - Helping hands or alligator hands
@@ -150,15 +148,7 @@
 - Wilkinson Audio SM57 head caps
 - Powered monitor (like a yamaha dxr10)
 
-### Drums
-
-- Plastic washers for snare
-- Larger kick drum
-- Better snare stand
-- 16/18 Floor Tom
-- Fix tom mount
-
-#### Crashes to try
+### Crashes to try
 
 - 18"+ K custom Dark Crash
 - 18"+ K Dark Thin Crash
@@ -167,7 +157,7 @@
 - 18"+ A Adevis crash
 - 20"+ K Crash Ride
 
-#### Rides to try
+### Rides to try
 
 - 22" K custom ride
 - 24" K Light Ride
