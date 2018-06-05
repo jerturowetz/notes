@@ -37,6 +37,7 @@
 
 ## Kitchen stuff
 
+- Silicon whisk
 - 8-Quart & 12-Quart Stock Pots (Le Creuset, All-Clad, Cuisinart, Lincoln)
 - $50 Swissmar Borner V-Slicer mandoline
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
