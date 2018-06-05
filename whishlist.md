@@ -1,5 +1,11 @@
 # Wishlist
 
+- lightweight gym lock
+- more flip f'ops
+- shorts
+- shoes
+- googles
+- better batjing cap
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - AA batteries, AAA batteries & charger
