@@ -34,3 +34,10 @@
 - house party
 - big clusters of hanging lights
 - snack bowls
+
+## Playlist
+
+- boy george
+- Jurassic 5
+- bell biv devoe
+- 2 live crew
