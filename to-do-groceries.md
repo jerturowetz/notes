@@ -1,19 +1,18 @@
 # Jer's grocery list
 
-- Coffee
-- Garlic
-- 2 cans chickpeas
-- kale or whatever
-- tomates
-- red pepper
+- Milk
 - OJ
-- greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
-- hadfock & mint & sun dried
--[succotash](https://www.marthastewart.com/917660/chicken-succotash-avocado-and-farmer-cheese)  
-2 large tonato, 2 avocado, lima or green beans, 3 ears corn, zuccinni
-
-## other
-
+- Perrier
+- 1 Garlic
+- 2 cans chickpeas
+- kale or whatever green
+- red pepper
+- Lemon x2
+- Baby carrots
+- reddish Apple
+- bleach
+- cheerios/shreddies
+- all-bran flakes
 - baking soda
 - dish soap
 - fine table salt
@@ -27,3 +26,10 @@
 - Udon
 - Dumplings
 - sesame oil
+
+## Recipies to try
+
+- greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
+- haddck & mint & sun dried
+- [succotash](https://www.marthastewart.com/917660/chicken-succotash-avocado-and-farmer-cheese)  
+  2 large tonato, 2 avocado, lima or green beans, 3 ears corn, zuccinni
