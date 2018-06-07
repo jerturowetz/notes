@@ -1,22 +1,16 @@
 # Jer's grocery list
 
-- Milk
-- OJ
-- Perrier
 - 1 Garlic
 - 2 cans chickpeas
-- kale or whatever green
-- red pepper
+- kale
 - Lemon x2
-- Baby carrots
-- reddish Apple
 - bleach
 - cheerios/shreddies
 - all-bran flakes
 - baking soda
 - dish soap
 - fine table salt
-- Paper towels, toilet paper & Kleenex
+- Kleenex
 - CLR bathroom cleaner, clorox
 - Le chat
 
