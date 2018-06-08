@@ -101,7 +101,7 @@
 - $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
 - $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
 - Mini needle nose pliers
-- Abra 63/37 .031" Solder (has lower melting point and is easier for cleaner jobs)
+- 63/37 .031" Solder (has lower melting point and is easier for cleaner jobs)
 - solder flux (liquid rosin flux)
 - Helping hands or alligator hands
 - desktop magnifying glass with lamp
@@ -130,14 +130,15 @@
 ## Music gear
 
 - Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
-- Mixer case
+- Mixer case (12RU for the mixwizard)
+- 4ru rack case, drawer & custom snake from RME to mixer
 - Smaller rack unit for PA
 - PA EQ & Comp
 - $75 StageBug SB-2 (for Travis access)
 - $450 Radial Key Largo (for Travis main)
-- $30 Behringer PM1 x4
 - $20 ea Naiant inline attenuator x4
 - K&M 259 Short boom stand x2 (amps / toms)
+- $30 Behringer PM1 x4
 - Amp clips for AC30
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
