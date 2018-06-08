@@ -23,18 +23,26 @@
 
 ## Wedding to do
 
+- Myriam Ménard hello@lecremeux.com | 514.836.9107
+- Need a DJ
 - tell cour boheme of descision re stuff
 - How long is the distance from Studio AA to the terrasse speakers?
 - how many ft of lights do we need? (outdoor/indoor) [Good buy](https://www.amazon.com/Backyard-Hanging-Outdoor-Pergola-Deckyard/dp/B00RQHBZVS/)
 - Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
 - Call Lon re bartending
 - Find a drag DJ
-- Call St Ambroise
+- [Call St Ambroise](http://mcauslan.com/en/)
 - more food quotes
 - plan park with mike
 - plan mini event for moms friend
 - [Reach out to McCain foods](https://www.mccain.com/)
 - figure out final sound system setup (bridge between inside & outside)
+
+### Klezmer
+
+- [Briga Klezmer Violin](https://brigamusic.com/about/)
+- [Ichka](https://ichka.bandcamp.com/album/podorozh)
+- Currently in corresopondance via email with Zilien biret (zilienclarinet@gmail.com | 514-266-4963), Clarinet & Accordion $300/person for the day
 
 ### Wedding:: Tasks for day
 
@@ -75,7 +83,12 @@
 
 ## Code study
 
-- [Speed up virtualbox on Win 10](https://tunecomp.net/windows-10-works-slowly-on-virtualbox-how-to-speed-up-windows-10-on-virtual-machine/)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
+- [Serverless Framework](https://serverless.com/framework/)
+- [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
+- [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
+- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)

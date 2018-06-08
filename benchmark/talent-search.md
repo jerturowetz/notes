@@ -10,6 +10,13 @@ Ideally, this individual would be working part time for sweat equity during our 
 
 Then we can specify a job title and description during the development phase, how that role would evolve at the go-to-market phase, with the possibility of a career path leading to CTO.
 
+## Resources
+
+- Les Pitoneux
+- [Montréal All-Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/)
+- [R-Ladies Montreal](https://www.meetup.com/rladies-montreal/)
+- [Tech Witches](https://www.meetup.com/Tech-Witches/)
+
 ## Why I'm wrigint you
 
 There's a very specific reason I'm reaching out to you - I'm not some recruiter, I'm the lead front end/full stack strategy partner on this project
