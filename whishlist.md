@@ -1,21 +1,23 @@
 # Wishlist
 
-- lightweight gym lock
-- shorts
-- googles
+- AA batteries & charger
 - Silicon paste for shower
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
-- Gear to patch hole behind stove (??)
-- [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
-- AA batteries, AAA batteries & charger
+- Gear to patch hole behind stove (??)
 - Headphones recording helper for iphone
 - Small iPhone stand
 - North face bag
 - better luggage (55x40x23cm) or (21.5x15.5x9")
-- scent balls for shoes
 - Sneakers
+- Shorts
+- Goggles
 - Dualshock 4
+- [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
+
+## Amazon.com
+
+- $11 USD [Desired tools padlock](https://www.amazon.com/Padlock-Combination-Employee-Outdoor-Resettable/dp/B01149YZEC/)
 
 ## Winter boots
 
@@ -129,6 +131,8 @@
 
 - Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
 - Mixer case
+- Smaller rack unit for PA
+- PA EQ & Comp
 - $75 StageBug SB-2 (for Travis access)
 - $450 Radial Key Largo (for Travis main)
 - $30 Behringer PM1 x4
