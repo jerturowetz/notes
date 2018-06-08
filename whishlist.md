@@ -1,11 +1,8 @@
 # Wishlist
 
 - lightweight gym lock
-- more flip f'ops
 - shorts
-- shoes
 - googles
-- better batjing cap
 - Silicon paste for shower
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
 - Gear to patch hole behind stove (??)

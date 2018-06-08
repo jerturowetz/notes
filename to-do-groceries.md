@@ -2,7 +2,7 @@
 
 - 1 Garlic
 - 2 cans chickpeas
-- kale
+- kale or green (?have at home?)
 - Lemon x2
 - bleach
 - cheerios/shreddies
@@ -13,6 +13,10 @@
 - Kleenex
 - CLR bathroom cleaner, clorox
 - Le chat
+- meat
+- pasta sauce
+- freezies
+- ice cream
 
 ## Asian Grocery
 
