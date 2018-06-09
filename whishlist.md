@@ -1,5 +1,10 @@
 # Wishlist
 
+rack drawr for headphone exts and headphones 
+rack vent panel above amp
+trs snake canbget away with 6 feet
+back strain releif for snake 
+
 - AA batteries & charger
 - Silicon paste for shower
 - Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
