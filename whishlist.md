@@ -100,6 +100,10 @@ back strain releif for snake
 
 ## Workshop & soldering station
 
+- crazy glue
+- better caddy
+- wood glue
+- box of razor blades
 - Xcelite 170M shearcutters
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - $70 Linesmans pliers
