@@ -6,8 +6,6 @@ trs snake canbget away with 6 feet
 back strain releif for snake 
 
 - AA batteries & charger
-- Silicon paste for shower
-- Laundry shelf: 41.5" x 12.5" (mixer size is 52cm)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove (??)
 - Headphones recording helper for iphone
