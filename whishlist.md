@@ -1,10 +1,8 @@
 # Wishlist
 
-rack drawr for headphone exts and headphones 
-rack vent panel above amp
-trs snake canbget away with 6 feet
-back strain releif for snake 
-
+- IKEA Baskets for storage
+- IKEA Suction cups for Bathroom thing
+- IKEA Little feet for laptop stand
 - AA batteries & charger
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove (??)
@@ -17,10 +15,6 @@ back strain releif for snake
 - Goggles
 - Dualshock 4
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
-
-## Amazon.com
-
-- $11 USD [Desired tools padlock](https://www.amazon.com/Padlock-Combination-Employee-Outdoor-Resettable/dp/B01149YZEC/)
 
 ## Winter boots
 
@@ -136,11 +130,13 @@ back strain releif for snake
 
 ## Music gear
 
+- 4-6ru rack case, drawer & custom snake from RME to mixer
+- rack drawer for headphone exts and headphones
+- Rack strain releif panel for back
+- TRS snake (can get away with 6 ft)
 - Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
 - Mixer case (12RU for the mixwizard)
-- 4ru rack case, drawer & custom snake from RME to mixer
-- Smaller rack unit for PA
-- PA EQ & Comp
+- Smaller rack unit for PA w/vented panel above amp & EQ & Comp
 - $75 StageBug SB-2 (for Travis access)
 - $450 Radial Key Largo (for Travis main)
 - $20 ea Naiant inline attenuator x4
