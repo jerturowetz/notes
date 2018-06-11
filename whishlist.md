@@ -1,20 +1,16 @@
 # Wishlist
 
-- IKEA Baskets for storage
-- IKEA Suction cups for Bathroom thing
-- IKEA Little feet for laptop stand
-- AA batteries & charger
+- 9 volt battery
+- [Ikea suction hooks](https://www.ikea.com/ca/en/catalog/products/80354115/)
+- [TJENA box](https://www.ikea.com/ca/en/catalog/products/30395477/)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
+- [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - Gear to patch hole behind stove (??)
+- AA batteries & charger
 - Headphones recording helper for iphone
 - Small iPhone stand
-- North face bag
-- better luggage (55x40x23cm) or (21.5x15.5x9")
 - Sneakers
 - Shorts
-- Goggles
-- Dualshock 4
-- [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 
 ## Winter boots
 
@@ -92,10 +88,6 @@
 
 ## Workshop & soldering station
 
-- crazy glue
-- better caddy
-- wood glue
-- box of razor blades
 - Xcelite 170M shearcutters
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - $70 Linesmans pliers
