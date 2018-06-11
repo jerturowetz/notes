@@ -88,35 +88,27 @@
 
 ## Workshop & soldering station
 
-- Xcelite 170M shearcutters
+- XLR & TRS connectors
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - $70 Linesmans pliers
 - $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
 - $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
 - Mini needle nose pliers
-- 63/37 .031" Solder (has lower melting point and is easier for cleaner jobs)
-- solder flux (liquid rosin flux)
 - Helping hands or alligator hands
 - desktop magnifying glass with lamp
 - [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
 - [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
 - [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-- XLR & TRS connectors
 - regular & thin medical scissors
 - Medical grabbers (hemostats)
 - cabinet flat tip screwdriver (longer)
-- Crazy glue
-- Carpenters glue
 - Artists tape
 - Guitar Neck rest
 - Small power tool
 - Drill bit peg winder
-- Regular, large & small zip ties
 - Cheap paint brushes for cleaning boards
 - Mixwizard Power button replace
-- Heat Gun
-- Heat shrink (flexible polyolefin either adhesive lined or not)
 - panavise 300 standard base
 - panavise 312 parts tray
 

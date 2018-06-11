@@ -16,11 +16,10 @@
 - Shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
-- Life insurance
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
-- Border Mail Depot, Box 512, 102 West Service Rd., Champlain, NY, 12919
+- Life insurance
 
 ## Wedding to do
 
@@ -64,10 +63,10 @@
 
 ## Outstanding Bills
 
+- $180 Erin & Aaron
 - Communauto Renewal
 - $600ish Kate furniture & vacation
 - $120 Wedding savings for july
-- $180 Erin & Aaron
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $?? Madi Tech
@@ -84,6 +83,7 @@
 
 ## Code study
 
+- [Servers for hackers](https://serversforhackers.com/)
 - [Semantic Versioning 2.0.0](https://semver.org/)
 - [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
 - [Serverless Framework](https://serverless.com/framework/)
