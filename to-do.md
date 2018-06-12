@@ -23,7 +23,8 @@
 
 ## Wedding to do
 
-- Myriam Ménard hello@lecremeux.com | 514.836.9107
+- Myryam contract
+- Ask erin about papers for wedding thingy
 - Need a DJ
 - tell cour boheme of descision re stuff
 - How long is the distance from Studio AA to the terrasse speakers?
@@ -83,31 +84,20 @@
 
 ## Code study
 
-- [Post CSS intro](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
-- [Servers for hackers](https://serversforhackers.com/)
-- [Semantic Versioning 2.0.0](https://semver.org/)
-- [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
-- [Serverless Framework](https://serverless.com/framework/)
-- [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
-- [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
-- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
-- [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
-- [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
-- [PIXI.js](http://www.pixijs.com/)
-- [GreenSock](https://greensock.com/)
-- [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
-- [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
-- [How To Make And Maintain Atomic Design Systems With Pattern Lab 2](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
-- [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
-- [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
-- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
-- Elastisearch
-- SVG Icons
-- Regression Testing
-- [Google Web Fundamentals](https://developers.google.com/web/)
-- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+- some more jekyll and webpack
+- maybe wordpress and webpack
+
+### Quick bits
+
+- [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
+- [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
+- [Serverless Framework](https://serverless.com/framework/)
+- [Post CSS intro](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
+
+### Path
+
 - [Do the entire w3schools catalogue](https://www.w3schools.com/)
 - [Do the Mozilla catalogue](https://developer.mozilla.org/en-US/)
 - [HTML & CSS is hard](https://internetingishard.com/html-and-css/)
@@ -122,6 +112,27 @@
 - [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
 - [IRIS the fastest Go web framework](https://github.com/kataras/iris)
 - JS fundamentals >> React >> GatsbyJS
+- [Servers for hackers](https://serversforhackers.com/)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
+- [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
+- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
+- [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
+- [GreenSock](https://greensock.com/)
+- [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
+- [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
+- [How To Make And Maintain Atomic Design Systems With Pattern Lab 2](https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/)
+- [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
+- [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+- Elastisearch
+- SVG Icons
+- Regression Testing
+- Typescript
+- Underscore.js
+- [PIXI.js](http://www.pixijs.com/)
+- [Google Web Fundamentals](https://developers.google.com/web/)
+- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 
 ## Musician's Insurance
 
