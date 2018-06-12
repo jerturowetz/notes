@@ -17,6 +17,10 @@
 - pasta sauce
 - freezies
 - ice cream
+- vegetable oil
+- milk
+- perrier
+- coffee
 
 ## Asian Grocery
 
