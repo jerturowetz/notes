@@ -42,3 +42,11 @@ Easiest to save as a `.bat` file and just run it
 Last time I had issue with windows explorer opening a new windows every time I double clicked a folder, deleting the following key solved the issue:
 
     HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
+
+## remove drive letter for system created volumes
+
+    diskpart
+    list volume
+    select volume <number of your volume>
+    remove letter=<drive letter of your volume>
+    exit
