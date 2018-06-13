@@ -23,6 +23,9 @@
 
 ## Wedding to do
 
+- build weddibg plsylist
+- count no of turns at eloi for number of arrows we need to make
+- measure lebgth of line xlr from main room to outsidd 
 - Myryam contract
 - Ask erin about papers for wedding thingy
 - Need a DJ
