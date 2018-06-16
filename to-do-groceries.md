@@ -1,16 +1,18 @@
 # Jer's grocery list
 
+- cheese
+- baby carrots
+- celery
+- tonato
 - 1 Garlic
 - 2 cans chickpeas
 - kale or green (?have at home?)
-- Lemon x2
 - bleach
 - cheerios/shreddies
 - all-bran flakes
 - baking soda
 - dish soap
 - fine table salt
-- Kleenex
 - CLR bathroom cleaner, clorox
 - Le chat
 - meat
@@ -18,7 +20,6 @@
 - freezies
 - ice cream
 - vegetable oil
-- milk
 - perrier
 - coffee
 
