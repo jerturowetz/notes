@@ -1,5 +1,50 @@
 # Let's get married
 
+- Klezmer communication with all 3 (do the kids know a hora? be specific about time)
+- Myryam contract
+- Build wedding playlist
+- Add sound equipment rentals to budget
+
+## Eloi
+
+- Count no of turns at eloi for number of arrows we need to make
+- How long is the distance from Studio AA to the terrasse speakers?
+
+- how many ft of lights do we need? (outdoor/indoor) [Good buy](https://www.amazon.com/Backyard-Hanging-Outdoor-Pergola-Deckyard/dp/B00RQHBZVS/)
+- Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
+- Call Lon re bartending
+- Find a drag DJ
+- [Call St Ambroise](http://mcauslan.com/en/)
+- more food quotes
+- plan park with mike
+- plan mini event for moms friend
+- [Reach out to McCain foods](https://www.mccain.com/)
+- figure out final sound system setup (bridge between inside & outside)
+
+## Klezmer
+
+- Note spot ($75/musician/hr) Ask about hora?
+- [Briga Klezmer Violin](https://brigamusic.com/about/)
+- [Ichka](https://ichka.bandcamp.com/album/podorozh)
+- Currently in corresopondance via email with Zilien biret (zilienclarinet@gmail.com | 514-266-4963), Clarinet & Accordion $300/person for the day
+
+### Wedding:: Notes
+
+- Our eloi deposit is due 8 August, we can pay by e-trans, paypal or mail a cheque. If we do electronic we use aurelia@eloi.ca (double check my spelling)
+- Our studio comes with access to 3 tables blanches, 1 larger table & 2 sofas. They also rent 8x30 tables (I believe collapsible) for $10 each, there are 15 available 
+- There are also 100 plain black folding chairs which we can rent
+- There is apparently a big reno going on from now until the end of June, after which there should be wheelchair access straight to the 5th floor. We can call back by end of June to review/confirm (construction crews)
+- We can have light music (like a band) on the terrace until 11PM, and maybe even a quiet stereo later than that.
+- There are large lights on the terrasse, but not string lights; though there should be plenty of plugs
+- There is a little stereo system we can rent for $50, has a small mic and such (she'll be sending the model #). While not great for the dance portion, it'll probably be a good 2nd system for outside.
+
+
+
+
+
+
+//////////// OLD:
+
 - How long is the distance from Studio AA to the terrasse speakers?
 - how many ft of lights do we need? (outdoor/indoor) [Good buy](https://www.amazon.com/Backyard-Hanging-Outdoor-Pergola-Deckyard/dp/B00RQHBZVS/)
 - Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
@@ -10,6 +55,26 @@
 - mccain
 - plan park with mike
 - plan mini event for moms friend
+
+
+ask eloi about air condition
+eloi dishwasher industrial (how fast is a cycle)?
+
+giant jenga, ther games?
+pricing of eloi chairs
+find white chairs
+glassware ??
+plan beer pong table
+
+## Stuff
+
+tie wraps for outdoor lights
+Outdoor lights (are we renting or buying)
+print kates floor plan for people 
+
+
+
+
 
 ## Questions for Eloi
 
