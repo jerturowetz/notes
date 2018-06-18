@@ -2,6 +2,7 @@
 
 - http://www.bordermaildepot.com/
 Buy lghts
+registry items (pots)
 
 
 - check herb prices at can tire for the centerpeices

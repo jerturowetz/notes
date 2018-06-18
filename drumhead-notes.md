@@ -8,8 +8,6 @@
 - **Toms:** Ambassador X / Diplomat or Ambassador Clear (whatever I have now is great)
 - **Kick:** PS3 clear or Powersonic clear / Black Suede PS3
 
-
-for snare reso, Ive been using ambassador snare ?? I tink and its a bit muddy, tough that might be from the pinstripe.
-As for snare wires im just using whatever, but the "rock" snare wires leave something to be desired (no definition - good for super muffled i guess).
+For snare reso, I've been using ambassador snare (I think) and its a bit muddy. As for snare wires im just using whatever, but the "rock" snare wires leave something to be desired (no definition - good for super muffled i guess).
 
 I might tune the starclassic to be a hip hop drum with PS top & thick bottom & less snares

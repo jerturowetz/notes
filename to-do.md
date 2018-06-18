@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - Build square around big case handle behind drums
-- Pick up cables by Erin
 - How to soup stock
 - Call: Nancy, Joyce
 - SJ Tracks
