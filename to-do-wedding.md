@@ -1,17 +1,24 @@
 # Let's get married
 
+- http://www.bordermaildepot.com/
+Buy lghts
+
+
 - check herb prices at can tire for the centerpeices
 - ask around videoographer
 
 - mexican pop music
 - hora music
-
-
+- borrow alex's van?
 
 - Klezmer communication with all 3 (do the kids know a hora? be specific about time)
 - Myryam contract
 - Build wedding playlist
 - Add sound equipment rentals to budget
+
+## July 1st
+
+- Lamps
 
 ## Eloi
 
