@@ -7,3 +7,7 @@
 - semi charmed life
 - ma$e bad bad bad boy
 - Pump up the Jam
+
+
+
+query rixardo for latin pop music
