@@ -4,8 +4,8 @@
 
 Run cmd as Administrator, then either
 
-    sfc /scannow # verify and repair the OS
     sfc /verifyonly # verify only (dry-run)
+    sfc /scannow # verify and repair the OS
 
 ## Deployment Image Servicing and Management (DISM)
 
