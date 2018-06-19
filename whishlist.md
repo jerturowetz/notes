@@ -100,7 +100,6 @@
 - [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
 - [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
 - regular & thin medical scissors
-- Medical grabbers (hemostats)
 - cabinet flat tip screwdriver (longer)
 - Artists tape
 - Guitar Neck rest

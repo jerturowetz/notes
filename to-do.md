@@ -49,6 +49,9 @@
 
 ### Quick bits
 
+- [How To Build Docker Images and Host a Docker Image Repository with GitLab](https://www.digitalocean.com/community/tutorials/how-to-build-docker-images-and-host-a-docker-image-repository-with-gitlab)
+- [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
+- [Practical continuous deployment: a guide to automated software delivery](https://www.atlassian.com/blog/continuous-delivery/practical-continuous-deployment)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
 - [Serverless Framework](https://serverless.com/framework/)
