@@ -7,7 +7,8 @@
 - semi charmed life
 - ma$e bad bad bad boy
 - Pump up the Jam
-
+hot in here
+no diggity
 
 
 query rixardo for latin pop music
