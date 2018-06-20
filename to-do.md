@@ -23,9 +23,9 @@
 ## Outstanding Bills
 
 - $180 Erin & Aaron
+- $120 Wedding savings for july
 - Communauto Renewal
 - $600ish Kate furniture & vacation
-- $120 Wedding savings for july
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $?? Madi Tech
