@@ -1,9 +1,12 @@
 # Let's get married
 
-- http://www.bordermaildepot.com/
-Buy lghts
-registry items (pots)
+finalize registry items (tupperware, napkins)
+Review names of my people
+Buy lights on amazon.com
 
+figure out meatless wheat;less food
+http://www.bordermaildepot.com/
+registry items (pots)
 
 - check herb prices at can tire for the centerpeices
 - ask around videoographer
