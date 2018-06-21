@@ -1,110 +1,115 @@
 # Wedding playlist
 
-- boy george
-- Jurassic 5
-- bell biv devoe
-- 2 live crew
-- semi charmed life
-- ma$e bad bad bad boy
-- Pump up the Jam
+7hs x 20 songs/hr = 140songs
+400 songs should cut it
+
+## Review
+
+Neil Young ?
+Tom Petty - I won't back down
+Tom Petty - Learning to fly
+Tom Petty - Free falling
+Joni Mitchell - Big Yellow Taxi
+Joni Mitchell - Help Me
+Joni Mitchell - River
+Barenaked Ladies - Lovers in a dangerous time
+Barenaked Ladies - Am I the only one?
+Barenaked Ladies - Pinch Me
+boy george
+Jurassic 5
+bell biv devoe
+2 live crew
+semi charmed life
+ma$e bad bad bad boy
+Pump up the Jam
 hot in here
 no diggity
+I wanna dance with sonebody
+lisa leblanc - j'suis pas un cowboy
+Loggins and Messina - Danny's song
+Spirit of the West – Home for a rest
+Blue Rodeo - Hasn't hit me yet
+Van Morrison - Brown eyed girl
+Duran Duran - ??
+KD Lang - ??
+Pearl Jam - Last Kiss
+Spirit of the West – Home for a rest
+Madonna - ??
+Mariah Carey - All i want for christmas
+[Fleetwood Mac - Landslide](https://www.youtube.com/watch?v=x--yddOolRQ)
+Wham - Last Christmas
+George Michael - Freedom! '90
+[George Michael - Careless Whisper](https://www.youtube.com/watch?v=94-KCPOxd2Y)
+Skydiggers - The Truth About Us
+REM - Losing my religiion
+OutKast - Hey Ya! (Video)
+U2
+thelonelyisland
+The Black Eyed Peas - Meet Me Halfway
+Kiesza - Hideaway (Official Video)
+Pitbull - Feel This Moment ft. Christina Aguilera
+Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers
+Maroon 5 - Sugar
+Rihanna - Don't Stop The Music
+Pitbull - Give Me Everything ft. Ne-Yo, Afrojack, Nayer
 
+## old-people music 70's
 
-query rixardo for latin pop music
+Bryan Ferry - Let's Stick Together
+The Avalanches - Because I'm Me
+Earth, Wind & Fire - Boogie Wonderland
+Earth, Wind & Fire - September
+Earth, Wind & Fire - Let's Groove (Video Version)
 
+## Pub rock
 
-
-# Songs to learn
-
-- Steve Miller Band - Fly Like An Eagle
-- I wanna dance with sonebody
-- Alicia Keys - If I Ain't Got You
-- Nelly - Hot In Herre
-- Helen Reddy
-- Crosby, Stills & Nash
-- lisa leblanc - j'suis pas un cowboy
-- Loggins and Messina - Danny's song
-- Spirit of the West – Home for a rest
-- Blue Rodeo - Hasn't hit me yet
 - Van Morrison - Brown eyed girl
-- Anne Murray - Snowbird
-- Duran Duran - Come Undone
-- KD Lang - Constant Craving
-- Thrice - Come all you weary
-- Pearl Jam - Last Kiss
-- Spirit of the West – Home for a rest
-- Madonna - Secret
-- Mariah Carey - All i want for christmas
-- [Fleetwood Mac - Landslide](https://www.youtube.com/watch?v=x--yddOolRQ)
-- Wham - Last Christmas
-- George Michael - Freedom! '90
-- [George Michael - Careless Whisper](https://www.youtube.com/watch?v=94-KCPOxd2Y)
-- Meat Puppets - Lake Of Fire
-- Skydiggers - The Truth About Us
-- Leadbelly - Where Did you Sleep Last Night
-- The Pixies - Hey
-- Limblifter - Tinfoil
-- [Limblifter - Ariel vs Lotus](https://www.youtube.com/watch?v=7HIkXCi1NvY)
-- Jeff Buckley - Lover you should have come over
-- REM - Losing my religiion
+- Counting Crows
 
-## DMB
+## 80's stuff
 
-- Drive In Drive Out
-- [#41](https://www.youtube.com/watch?v=rpo6ti84Hf4)
-- [Dave Matthews - The stone](https://www.youtube.com/watch?v=dE_8R-3z-4k)
-- Two step
+Roxy Music - Love Is The Drug
+Blondie - Heart of Glass
+A Flock Of Seagulls - Space Age Love Song 1982
 
-## Neil Young
+## Slow dance
 
-- Needle and the damage done
-- Heart Of gold
-- Harvest moon
-- Old man
+Roxy Music - Avalon
 
-## Tom Petty
+## Hurray for Mexico
 
-- I won't back down
-- Learning to fly
-- Free falling
+Despacito
+Daddy Yankee - Gasolina
+Juanes - La Camisa Negra
+Carlos Vives, Shakira - La Bicicleta
+Enrique Iglesias - Bailando
+Marc Anthony - Vivir Mi Vida
+Gipsy Kings - Bamboleo
+Elvis Crespo - Suavemente
+Elvis Crespo - Tu Sonrisa
+Celia Cruz - Rie Y Llora
+Ricky Martin - La Copa de la Vida
+J Balvin - Bonita
+Maluma - Corazón
+Romeo Santos - Héroe Favorito
+Si Tú La Ves - Nicky Jam
+Pitbull & J Balvin - Hey Ma
+Shakira - Me Enamoré
+Una Lady Como Tú - MTZ Manuel Turizo
+J Balvin - Mi Gente
 
-## Joni Mitchell
+## 90s dance
 
-- Big Yellow Taxi
-- Help Me
-- River
+Will Smith - Gettin' Jiggy Wit It
 
-## Barenaked Ladies
+## super garbage dance
 
-- Lovers in a dangerous time
-- Am I the only one?
-- Pinch Me
+Pitbull - Give Me Everything ft. Ne-Yo, Afrojack, Nayer
+LMFAO - Party Rock Anthem ft. Lauren Bennett, GoonRock
+Psy - Gangam style
+lmfao - sexy and i know it
+Meghan Trainor - I Love Me
 
-## The Hip
+## Club dance
 
-- Little bones
-- Locked in the trunk of a car
-- Grace, too
-- 38 years old
-- Ahead by a century
-
-## Matt Good
-
-- Tripoli
-- Strange Days
-- Born Losers
-- Symbolistic White Walls
-- A Long Way Down
-
-## Elliott Smith
-
-- Say yes
-- Plainclothes man
-- Between the bars
-
-## IME
-
-- Summertime in the Void (w/jer)
-- God Rocket
-- Shortcut to Moncton
+Kiesza - Hideaway
