@@ -1,27 +1,19 @@
 # iPhone games
 
-wayward souls
-banner saga
-final fantasy IX
-Might & Magic Elemental Guardians
-Dungeon Rushers
-knights of pen and paper
-Final Fantasy XV Pocket Edition
-planescape: Torment
-Severed
-Baldurs Gate
-Oceanhorn
-Mage Gauntlet 
-Titan Quest
-Across Age
-Fire Emblem - Heroes
-Ravensword: Shadowlands 
-The Bards Tale
-Avadon: The Black Fortress
-Rimelands: Hammer of Thor
-Doom & Destiny Advanced
-Legend of Grimrock
-Superbrothers: Sword & Sworcery
+- Bastion
+- Baldurs Gate: Enhanced edition
+- Icewind Dale
+- Seige of Dragonspear
+- planescape: Torment
 
-Overhaul Games 
-Square Enix Games
+square enix?
+
+## Getem
+
+- Final Fantasy XV Pocket Edition
+- Legend of Grimrock
+- Final Fantasy IX
+- Oceanhorn
+- Severed
+- Doom & Destiny Advanced
+- Superbrothers: Sword & Sworcery
