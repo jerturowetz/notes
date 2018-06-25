@@ -25,9 +25,9 @@
 ## Outstanding Bills
 
 - $180 Erin & Aaron
+- $120 Wedding savings for july
 - Communauto Renewal
 - $600ish Kate furniture & vacation
-- $120 Wedding savings for july
 - $?? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $?? Madi Tech
@@ -88,6 +88,7 @@
 - [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/)
 - [An Introduction to Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+- [Wordpress: The right way](https://www.wptherightway.org/en/)
 - Elastisearch
 - SVG Icons
 - Regression Testing

@@ -20,7 +20,7 @@ switch to `root` and run:
 
 ### Generate an ssh key for the machine
 
-Generate an ssh key for root and add it to bitbucket & github so the machine can haz access of necessary. I have no idea which key crhon uses when running jobs so whatever, figure it out.
+Generate an ssh key for root and add it to bitbucket & github so the machine can haz access of necessary. I have no idea which key chron uses when running jobs tho...
 
 ### Install php, php-cli and other modules
 
@@ -32,7 +32,7 @@ Assuming you've already installed php, php-mysql & php-fpm, here are the other p
 
 Use apt to install php-zip
 
-    apt install zip unzip php7.0-zip
+    sudo apt install zip unzip php7.0-zip
 
 For the record, here are some cool helpers for getting available module info
 

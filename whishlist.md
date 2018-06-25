@@ -34,7 +34,6 @@
 - $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
 - Carving knife
 - Mercer Culinary 10-Inch Wide Bread Knife
-- Large Reversible Maple Carving Board
 - [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
 - 12" Cast iron
 - 3 quart saucepan
