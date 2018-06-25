@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Bluehost Powered by Plantz SSL
+- Set up SFTP or Gt access to the theme
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
