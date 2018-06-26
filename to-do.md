@@ -22,6 +22,15 @@
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
 
+## Choose a Bluetooth Speaker
+
+- Fugoo Style
+- Bose SoundLink Revolve+
+- JBL Charge 3
+- UE Roll 2
+- UE Boom 2
+- UE Wonderboom
+
 ## Outstanding Bills
 
 - $180 Erin & Aaron
