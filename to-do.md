@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Bluehost Powered by Plantz SSL
+- Set up SFTP or Gt access to the theme
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
@@ -19,6 +21,15 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
+
+## Choose a Bluetooth Speaker
+
+- Fugoo Style
+- Bose SoundLink Revolve+
+- JBL Charge 3
+- UE Roll 2
+- UE Boom 2
+- UE Wonderboom
 
 ## Outstanding Bills
 
