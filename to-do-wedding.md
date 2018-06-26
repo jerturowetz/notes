@@ -24,6 +24,11 @@ registry items (pots)
 - Build wedding playlist
 - Add sound equipment rentals to budget
 
+IGA
+900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec
+Phone: (514) 270-9440
+
+
 ## July 1st
 
 - Lamps

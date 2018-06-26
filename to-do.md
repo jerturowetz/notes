@@ -1,16 +1,7 @@
 # Jer's To-Do List
 
-Eloi
-Beer returns at maxi/provigo?
-it would be calling IGA and see what the best way to order 25 cakes would be
-
-900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec
-Phone :(514) 270-9440
-this is the one that's closest to the venue
-and ideally we would just have it all delivered there on sept 8
-
+- ELOI parking
 - Bluehost Powered by Plantz SSL
-- Set up SFTP or Gt access to the theme
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
@@ -33,12 +24,16 @@ and ideally we would just have it all delivered there on sept 8
 
 ## Choose a Bluetooth Speaker
 
-- Fugoo Style
-- Bose SoundLink Revolve+
-- JBL Charge 3
-- UE Roll 2
-- UE Boom 2
-- UE Wonderboom
+Aux in?
+Battery?
+Waterproof?
+
+- Fugoo Style (not style S) (40hrs bsttery)
+- JBL flip 4 (5hrs battery)
+- UE Boom 2 (12hrs batter)
+
+- UE Roll 2 (??)
+- JBL Flip 3 (10hrs battery)
 
 ## Outstanding Bills
 
