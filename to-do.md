@@ -1,5 +1,14 @@
 # Jer's To-Do List
 
+Eloi
+Beer returns at maxi/provigo?
+it would be calling IGA and see what the best way to order 25 cakes would be
+
+900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec
+Phone :(514) 270-9440
+this is the one that's closest to the venue
+and ideally we would just have it all delivered there on sept 8
+
 - Bluehost Powered by Plantz SSL
 - Set up SFTP or Gt access to the theme
 - Build square around big case handle behind drums
