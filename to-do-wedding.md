@@ -37,7 +37,6 @@ Phone: (514) 270-9440
 
 - Count no of turns at eloi for number of arrows we need to make
 - How long is the distance from Studio AA to the terrasse speakers?
-
 - how many ft of lights do we need? (outdoor/indoor) [Good buy](https://www.amazon.com/Backyard-Hanging-Outdoor-Pergola-Deckyard/dp/B00RQHBZVS/)
 - Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
 - Call Lon re bartending
