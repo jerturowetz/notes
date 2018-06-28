@@ -110,6 +110,7 @@ Waterproof?
 - [PIXI.js](http://www.pixijs.com/)
 - [Google Web Fundamentals](https://developers.google.com/web/)
 - [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+- [simple explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/playlists)
 
 ## Musician's Insurance
 
