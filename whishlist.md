@@ -11,6 +11,11 @@
 - Sneakers
 - Shorts
 
+## Summer shoes
+
+- $65 XTRATUF Sharkbyte Airmesh Deck Shoe
+- $80 XTRATUF Men's Riptide Water Shoe
+
 ## Winter boots
 
 - $200 Vasque Snowburban Ultradry (OGL #1)
@@ -18,34 +23,17 @@
 - $250 Merell Men's Epiction Polar Waterproof (boulder)
 - $300 Lowa Men's Oslo GTX
 
+## Winter Rain Boots
+
+- $200 Bogs Classic Ultra High
+- $150 The Original Muck Boot Company Arctic Sport
+
 ## Rain/boating boots
 
-- $85 Kamik Icebreaker
 - $150 Xtratuf Legacy Insulated 15 in. Boot (Chocolate-Tan)
 - $100 XtraTuf 12 In. Deck Boot (Navy-red)
-- $80 XtraTuf 6 In. Ankle Boot (Gray-yellow)
-- $125 LaCrosse Hampton {small rain boot}
-
-## Kitchen stuff
-
-- Silicon whisk
-- 8-Quart & 12-Quart Stock Pots (Le Creuset, All-Clad, Cuisinart, Lincoln)
-- $50 Swissmar Borner V-Slicer mandoline
-- $30 [Brenier Mandoline](https://www.amazon.ca/Benriner-Japanese-Mandolin-Vegetable-Cutter/dp/B000LCP6EW)
-- Carving knife
-- Mercer Culinary 10-Inch Wide Bread Knife
-- [Staub 12" grill pan](http://maisonlipari.ca/en/square-grill-cast-iron-cherry-red-12.html)
-- 12" Cast iron
-- 3 quart saucepan
-- sautee pan w/lid
-- roasting pan
-- Round dutch oven (5.5 qts at the very least)
-
-### Added to reg
-
-- $200 All-Clad 4112 Stainless Steel Fry Pan
-- Thermapen
-- Another aluminum half sheet pan & libertyware cooling rack
+- $80 XtraTuf 6 In. Ankle Boot (Gray-yellow) or Kryptek Ankle Deck Boot (Yeti White)
+- $125 LaCrosse Hampton
 
 ## Kate stuff
 
@@ -111,16 +99,17 @@
 
 ## Music gear
 
-- 4-6ru rack case, drawer & custom snake from RME to mixer
-- rack drawer for headphone exts and headphones
-- Rack strain releif panel for back
-- TRS snake (can get away with 6 ft)
-- Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
-- Mixer case (12RU for the mixwizard)
-- Smaller rack unit for PA w/vented panel above amp & EQ & Comp
+- 4chnl snake for mics 1-4 (15' or more)
+- 8chnl TRS snake for DI 1-8 (6' or more)
 - $75 StageBug SB-2 (for Travis access)
 - $450 Radial Key Largo (for Travis main)
 - $20 ea Naiant inline attenuator x4
+- Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
+- 4-6ru rack case, rack drawer for headphone exts and headphones
+- Rack strain releif panel for back
+- Custom 8chn snake
+- Mixer case (12RU for the mixwizard)
+- Smaller rack unit for PA w/vented panel above amp & EQ & Comp
 - K&M 259 Short boom stand x2 (amps / toms)
 - $30 Behringer PM1 x4
 - Amp clips for AC30
@@ -140,6 +129,17 @@
 - Mic case
 - Wilkinson Audio SM57 head caps
 - Powered monitor (like a yamaha dxr10)
+- Radial J ISO (to run mix to phone)
+
+### Keys Rig
+
+- Korg SV1
+- MS2000
+- Sansamp GT2, Wah, Line 6 Delay Modeler, Moogerfooger ring mod
+- Samson SM10 Stereo Line Mixer (can do some fun stuff like take the through from DIs and mix my own mix while the PA gets seperrate feeds)
+- TC 11 synth app
+- Mabvious synth app
+- Geoshred app
 
 ### Crashes to try
 

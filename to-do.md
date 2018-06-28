@@ -8,7 +8,11 @@
 4. revese proxy from drupal
 5. varnish?
 
+## Various
+
+- Check with joe if he wants to move domains to godaddy
 - ELOI parking
+- Go try on EXTRA TUFF boots at MEC Marche centrale
 - Bluehost Powered by Plantz SSL
 - Build square around big case handle behind drums
 - How to soup stock
@@ -29,12 +33,6 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
-
-## Choose a Bluetooth Speaker
-
-- Fugoo Style
-- JBL Charge 3
-- UE Roll 2
 
 ## Outstanding Bills
 
