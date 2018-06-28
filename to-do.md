@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+## Docker stuff
+
+1. get docker for wp running using official images for nginx, mysql & php
+2. get wp-cli to work (as its own container for dev)
+3. other tools?
+4. revese proxy from drupal
+5. varnish?
+
 - ELOI parking
 - Bluehost Powered by Plantz SSL
 - Build square around big case handle behind drums
