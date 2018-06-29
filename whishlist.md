@@ -99,20 +99,12 @@
 
 ## Music gear
 
+- $20 ea Naiant inline attenuator x4
 - 4chnl snake for mics 1-4 (15' or more)
 - 8chnl TRS snake for DI 1-8 (6' or more)
-- $75 StageBug SB-2 (for Travis access)
+- 4-6ru rack case
 - $450 Radial Key Largo (for Travis main)
-- $20 ea Naiant inline attenuator x4
-- Stage snake (really whatever is cheapest, I just need 8-12 channels, Whirlwind whatever)
-- 4-6ru rack case, rack drawer for headphone exts and headphones
-- Rack strain releif panel for back
-- Custom 8chn snake
-- Mixer case (12RU for the mixwizard)
-- Smaller rack unit for PA w/vented panel above amp & EQ & Comp
-- K&M 259 Short boom stand x2 (amps / toms)
-- $30 Behringer PM1 x4
-- Amp clips for AC30
+- $75 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
@@ -120,26 +112,11 @@
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson audio adaptor
 - AKG D112
-- $20 ish Hearos Ear Plugs Xtreme Protection Series bulk pack
-- Other DIs (Radial j48 x2, JDI Stereo, JDI)
-- More Acoustic pannels
+- Other DIs (Radial J48 x2, JDI Stereo, JDI, JISO)
 - IEC-6X4 (short power cords)
-- $315 USD GAS A-10 4 Channel Line Level Attenuator
-- Stereo graphic EQ/Limiter for Mons
-- Mic case
 - Wilkinson Audio SM57 head caps
 - Powered monitor (like a yamaha dxr10)
-- Radial J ISO (to run mix to phone)
-
-### Keys Rig
-
-- Korg SV1
-- MS2000
-- Sansamp GT2, Wah, Line 6 Delay Modeler, Moogerfooger ring mod
-- Samson SM10 Stereo Line Mixer (can do some fun stuff like take the through from DIs and mix my own mix while the PA gets seperrate feeds)
-- TC 11 synth app
-- Mabvious synth app
-- Geoshred app
+- More Acoustic pannels
 
 ### Crashes to try
 
@@ -156,3 +133,11 @@
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
+
+### Keys Rig
+
+- Korg SV1
+- MS2000
+- Sansamp GT2, Wah, Line 6 Delay Modeler
+- Samson SM10 Stereo Line Mixer
+- Apps: TC 11, Mabvious & Geoshred
