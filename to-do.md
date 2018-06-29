@@ -1,19 +1,9 @@
 # Jer's To-Do List
 
-## Docker stuff
-
-1. get docker for wp running using official images for nginx, mysql & php
-2. get wp-cli to work (as its own container for dev)
-3. other tools?
-4. revese proxy from drupal
-5. varnish?
-
-## Various
-
-- Check with joe if he wants to move domains to godaddy
+- Move Joe Domains to godaddy
+- Help Lacey with SSL
 - ELOI parking
 - Go try on EXTRA TUFF boots at MEC Marche centrale
-- Bluehost Powered by Plantz SSL
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
@@ -47,6 +37,7 @@
 
 ## Psych help
 
+- DHCEU CLininc to geta shrink / dermo referral
 - Dr D. Sookman, 514-934-1934, ext 34290
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
