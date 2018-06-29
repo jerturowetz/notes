@@ -102,7 +102,6 @@
 - $20 ea Naiant inline attenuator x4
 - 4chnl snake for mics 1-4 (15' or more)
 - 8chnl TRS snake for DI 1-8 (6' or more)
-- 4-6ru rack case
 - $450 Radial Key Largo (for Travis main)
 - $75 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
@@ -117,6 +116,7 @@
 - Wilkinson Audio SM57 head caps
 - Powered monitor (like a yamaha dxr10)
 - More Acoustic pannels
+- $600 Gator G-TOUR-GRC-1406 & 2RU Rack Drawer for headphones
 
 ### Crashes to try
 
