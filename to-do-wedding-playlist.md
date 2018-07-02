@@ -315,7 +315,6 @@ T. Rex - Get it On
 Mungo Jerry - In the Summertime
 The WHo - Baba Orieley
 Terry Jacks - Seasons in the Sun
-Eric Clapton - Cocaine
 EWF - September
 The CLash - London Calling
 David Bowie - Heroes
