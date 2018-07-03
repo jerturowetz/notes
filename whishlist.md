@@ -70,7 +70,10 @@
 - $0.84/ft Canare GS-6 Unbalanced Instrument Cable - 18AWG (multiple colors available)
 - $0.72/ft Redco TGS-HD Unbalanced Instrument Cable - 18AWG (multiple colors available)
 
-**Please note:** Snake cable is typically a bit smaller, about 25-26AWG
+### Things to keep in mind
+
+- Snake cable is typically a bit smaller, about 25-26AWG
+- Braided sheilded cable is superior to spiral sheilded cable
 
 ## Workshop & soldering station
 

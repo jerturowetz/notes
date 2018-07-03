@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+lucinda williams
+paul segall - my town 
+
+
 - Move Joe Domains to godaddy
 - Help Lacey with SSL
 - ELOI parking
