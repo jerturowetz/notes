@@ -10,6 +10,7 @@
 - Small iPhone stand
 - Sneakers
 - Shorts
+- $100 floor fan
 
 ## Summer shoes
 
