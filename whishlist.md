@@ -1,5 +1,6 @@
 # Wishlist
 
+- 14" and under magnetic knife rack
 - [Ikea suction hooks](https://www.ikea.com/ca/en/catalog/products/80354115/)
 - [TJENA box](https://www.ikea.com/ca/en/catalog/products/30395477/)
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
