@@ -11,8 +11,7 @@ Somos Pacífico- Choquibtown
 
 ## Other
 
-7hs x 20 songs/hr = 140songs
-400 songs should cut it
+Tragically Hip - Bobcaygeon
 
 ## Review
 
