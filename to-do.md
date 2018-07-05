@@ -1,9 +1,8 @@
 # Jer's To-Do List
 
-lucinda williams
-paul segall - my town 
-
-
+- Get drawer dimensions for cart (for knife rack)
+- lucinda williams
+- paul segall - my town
 - Move Joe Domains to godaddy
 - Help Lacey with SSL
 - ELOI parking

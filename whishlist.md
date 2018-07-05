@@ -14,6 +14,15 @@
 - Shorts
 - $100 floor fan
 
+## IKEA
+
+- Drawer inserts for Knives or 15" magnetic rack
+- suction cups
+- Magazine holders
+- $50 pick up knives
+- $14.99 VARIERA 6x20" Bamboo Knife tray (402.635.65)
+- $14.99 VARIERA 10x50cm White Knife tray (802.712.00)
+
 ## Summer shoes
 
 *Note:* XTRATUF 9.5 is probably my size (9 is a bit tight, 10 is a bit loose)
