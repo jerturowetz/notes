@@ -1,5 +1,16 @@
 # Wedding playlist
 
+## From Juan
+
+Suavemente
+Ojalá que llueva café en el campo
+Juan luis guerra
+Malamente - Rosalia
+Soy Yo. Bomba estereo
+Somos Pacífico- Choquibtown
+
+## Other
+
 7hs x 20 songs/hr = 140songs
 400 songs should cut it
 

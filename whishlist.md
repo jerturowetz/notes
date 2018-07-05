@@ -14,6 +14,8 @@
 
 ## Summer shoes
 
+*Note:* XTRATUF 9.5 is probably my size (9 is a bit tight, 10 is a bit loose)
+
 - $65 XTRATUF Sharkbyte Airmesh Deck Shoe
 - $80 XTRATUF Men's Riptide Water Shoe
 
