@@ -1,5 +1,14 @@
 # Wedding playlist
 
+## Playlist
+
+- boy george
+- Jurassic 5
+- bell biv devoe
+- 2 live crew
+
+
+
 ## From Juan
 
 Suavemente

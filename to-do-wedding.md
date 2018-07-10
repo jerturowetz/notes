@@ -127,9 +127,28 @@ print kates floor plan for people
 - big clusters of hanging lights
 - snack bowls
 
-## Playlist
+## Sound gear
 
-- boy george
-- Jurassic 5
-- bell biv devoe
-- 2 live crew
+Still need to figure out:
+
+- DI(s) for the acoustic guitars
+- DI or interface for the computer
+- XLR/adaptors for the outside stereo or an alternative system
+
+### Mine
+
+- Duct Tape
+- Acoustic/Electirc
+- sm58 x2
+- mic stand x2
+- XLR x2
+- Guitar stand
+- Mixer
+- Extension Chords & power Bars
+- Power amp, monitor, speakon cable & XLR cable (optional)
+
+### Steve
+
+- 2 speakers
+- 2 speaker stands
+- 2 XLR

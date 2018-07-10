@@ -1,18 +1,14 @@
 # Jer's To-Do List
 
-- Get drawer dimensions for cart (for knife rack)
 - lucinda williams
 - paul segall - my town
-- Move Joe Domains to godaddy
 - Help Lacey with SSL
 - ELOI parking
-- Go try on EXTRA TUFF boots at MEC Marche centrale
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
 - SJ Tracks
 - Pick up drums chez Mike M
-- Sharpen Knives
 - Hem jeans
 - Pick up djembe
 - Clean up gists
@@ -29,6 +25,7 @@
 
 ## Outstanding Bills
 
+- Pick up knives
 - $104 Communauto ($304-200)
 - $??? Communauto Renewal
 - $180 Erin & Aaron
