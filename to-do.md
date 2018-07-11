@@ -1,9 +1,7 @@
 # Jer's To-Do List
 
-- lucinda williams
-- paul segall - my town
-- Help Lacey with SSL
 - ELOI parking
+- Help Lacey with SSL
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
