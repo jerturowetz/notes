@@ -134,6 +134,8 @@
 - Powered monitor (like a yamaha dxr10)
 - More Acoustic pannels
 - $600 Gator G-TOUR-GRC-1406 & 2RU Rack Drawer for headphones
+- Rug
+- Yamaha Recording CUstom
 
 ### Crashes to try
 
