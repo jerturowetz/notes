@@ -9,3 +9,6 @@ boiled potatoes
 
 boiled green beans
 2 mins
+
+Spatchcock chicken (2)
+45 mins @400 not crispy enough - maybe need to rub butter on top of bird
