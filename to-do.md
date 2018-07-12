@@ -1,5 +1,14 @@
 # Jer's To-Do List
 
+lighthouse
+page speed insights
+mobile first testing tool
+google search console
+next.js
+gatsby.js
+meteor?
+react
+
 - lucinda williams
 - paul segall - my town
 - Help Lacey with SSL
