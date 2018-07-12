@@ -1,21 +1,9 @@
 # Jer's To-Do List
 
-lighthouse
-page speed insights
-mobile first testing tool
-google search console
-next.js
-gatsby.js
-meteor?
-react
-
-- lucinda williams
-- paul segall - my town
-- Help Lacey with SSL
+- How to soup stock
 - ELOI parking
 - Help Lacey with SSL
 - Build square around big case handle behind drums
-- How to soup stock
 - Call: Nancy, Joyce
 - SJ Tracks
 - Pick up drums chez Mike M
@@ -32,6 +20,25 @@ react
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
+
+## iPhone/iPad Games
+
+- Bastion
+- Baldurs Gate: Enhanced edition
+- Icewind Dale
+- Seige of Dragonspear
+- planescape: Torment
+- square enix?
+
+### 100% to get
+
+- Final Fantasy XV Pocket Edition
+- Legend of Grimrock
+- Final Fantasy IX
+- Oceanhorn
+- Severed
+- Doom & Destiny Advanced
+- Superbrothers: Sword & Sworcery
 
 ## Outstanding Bills
 
@@ -111,6 +118,10 @@ react
 - SVG Icons
 - Typescript
 - Underscore.js
+- next.js
+- gatsby.js
+- meteor?
+- react
 - [PIXI.js](http://www.pixijs.com/)
 - [simple explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/playlists)
 - Testing
@@ -120,6 +131,11 @@ react
   - WP_Mock - API mocking framework
   - [Wordpress Automated testing](https://make.wordpress.org/core/handbook/testing/automated-testing/)
   - [Behat autmated testing](http://behat.org/en/latest/)
+- Really valuable testing tools to learn and work in
+  - lighthouse
+  - page speed insights
+  - mobile first testing tool
+  - google search console
 
 ## Musician's Insurance
 

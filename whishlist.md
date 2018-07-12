@@ -1,27 +1,15 @@
 # Wishlist
 
-- Earphone wrap thingy
 - 14" and under magnetic knife rack
-- [Ikea suction hooks](https://www.ikea.com/ca/en/catalog/products/80354115/)
-- [TJENA box](https://www.ikea.com/ca/en/catalog/products/30395477/)
+- Earphone wrap thingy
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
-- Gear to patch hole behind stove (??)
+- Gear to patch hole behind stove
 - AA batteries & charger
-- Headphones recording helper for iphone
+- Headphones adaptor cable for iPhone recording audio
 - Small iPhone stand
 - Sneakers
 - Shorts
-- $100 floor fan
-
-## IKEA
-
-- Drawer inserts for Knives or 15" magnetic rack
-- suction cups
-- Magazine holders
-- $50 pick up knives
-- $14.99 VARIERA 6x20" Bamboo Knife tray (402.635.65)
-- $14.99 VARIERA 10x50cm White Knife tray (802.712.00)
 
 ## Summer shoes
 
@@ -135,7 +123,7 @@
 - More Acoustic pannels
 - $600 Gator G-TOUR-GRC-1406 & 2RU Rack Drawer for headphones
 - Rug
-- Yamaha Recording CUstom
+- Floor fan
 
 ### Crashes to try
 
