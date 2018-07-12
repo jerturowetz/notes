@@ -13,6 +13,7 @@ react
 - paul segall - my town
 - Help Lacey with SSL
 - ELOI parking
+- Help Lacey with SSL
 - Build square around big case handle behind drums
 - How to soup stock
 - Call: Nancy, Joyce
@@ -84,6 +85,8 @@ react
 - [Better PHP](https://www.youtube.com/user/betterphp)
 - [PHP academy](https://www.youtube.com/user/phpacademy)
 - Visual regression testing (Selenium, wraith, screener.io, shoov, Wraith, Gemini, BackstopJS, Nightwatchjs, Galen Framework)
+- [Google Web Fundamentals](https://developers.google.com/web/)
+- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 - [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
 - [IRIS the fastest Go web framework](https://github.com/kataras/iris)
 - JS fundamentals >> React >> GatsbyJS
@@ -106,13 +109,17 @@ react
 - [Wordpress: The right way](https://www.wptherightway.org/en/)
 - Elastisearch
 - SVG Icons
-- Regression Testing
 - Typescript
 - Underscore.js
 - [PIXI.js](http://www.pixijs.com/)
-- [Google Web Fundamentals](https://developers.google.com/web/)
-- [List of Bash online-tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
 - [simple explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/playlists)
+- Testing
+  - PHP Unit
+  - Visual Regression Testing (BackstopJS)
+  - End-to-End testing with Nightwatch.js
+  - WP_Mock - API mocking framework
+  - [Wordpress Automated testing](https://make.wordpress.org/core/handbook/testing/automated-testing/)
+  - [Behat autmated testing](http://behat.org/en/latest/)
 
 ## Musician's Insurance
 

@@ -116,7 +116,7 @@
 
 ## Music gear
 
-- $20 ea Naiant inline attenuator x4
+- $100 Naiant inline attenuators
 - 4chnl snake for mics 1-4 (15' or more)
 - 8chnl TRS snake for DI 1-8 (6' or more)
 - $450 Radial Key Largo (for Travis main)
