@@ -1,12 +1,20 @@
 # Wishlist
 
-- 14" and under magnetic knife rack
-
 - Earphone wrap thingy
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove
 - Sneakers
 - Shorts
+
+## Connectors
+
+How does $90 sound for the following:
+
+- $3 ea. 24 NEW TRS Male Stereo Phone Plug 1/4" (NP3C)
+- $3 ea. 2 NEW TS Male Mono Phone Plug 1/4" (NP2C)
+- $3 ea. 1 NEW XLR Cable connector - Male (NC3MX)
+- $3 ea. 2 NEW XLR Cable connector - Female (NC3FX)
+- $1 ea. 22 USED TRS Male Stereo Phone Plug 1/4" (NP3C)
 
 ## Summer shoes
 
@@ -58,13 +66,10 @@
 
 ## Bulk Cable
 
-- $0.64/ft Mogami W2799 Install grade quad mic cable - 25AWG
 - $1.12/ft Mogami W2534 Quad mic cable - 24AWG (multiple colors available)
 - $0.50/ft Canare L-4E6S Quad mic Cable - 21AWG (multiple colors available)
 - $0.80/ft Mogami W2549 Standard Balanced Mic Cable - 22AWG (multiple colors available)
 - $0.50/ft Canare L-2T2S Balanced Mic Cable - 22AWG
-- $0.57/ft Mogami W2806 Install grade balanced mic cable - 22AWG (only gray)
-- $0.19/ft Canare L-2B2AT Install grade balanced mic cable - 25AWG (black or Gray)
 - $0.84/ft Mogami W2524 Unbalanced Instrument Cable - 20AWG
 - $0.84/ft Canare GS-6 Unbalanced Instrument Cable - 18AWG (multiple colors available)
 - $0.72/ft Redco TGS-HD Unbalanced Instrument Cable - 18AWG (multiple colors available)

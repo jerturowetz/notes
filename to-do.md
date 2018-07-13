@@ -42,10 +42,8 @@
 
 ## Outstanding Bills
 
-- Pick up knives
-- $180 Erin & Aaron
+- $60 Pick up knives
 - $??? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-
 - $-100 Communauto ($304-200-210)
 - $??? Communauto Renewal
 - $420 ish Kate furniture & vacation
