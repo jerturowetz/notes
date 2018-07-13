@@ -1,13 +1,10 @@
 # Wishlist
 
 - 14" and under magnetic knife rack
+
 - Earphone wrap thingy
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
-- [USBc to DP adaptor](https://www.amazon.ca/Plugable-DisplayPort-Thunderbolt-Supports-3840x2160/dp/B01EXKDRAC)
 - Gear to patch hole behind stove
-- AA batteries & charger
-- Headphones adaptor cable for iPhone recording audio
-- Small iPhone stand
 - Sneakers
 - Shorts
 
@@ -79,24 +76,9 @@
 
 ## Workshop & soldering station
 
-- XLR & TRS connectors
+- Plugs NC3FX x10, NC3MX x10, NP3C x20
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- $70 Linesmans pliers
-- $35 Klein 11055 Wire Stripper and Cutter - 12-20AWG
-- $35 Klein 11057 Wire Stripper and Cutter - 22-32AWG
-- Mini needle nose pliers
-- Helping hands or alligator hands
-- desktop magnifying glass with lamp
-- [KC Professional Nut Driver Set](https://www.amazon.ca/Professional-97297-7-Piece-Hollow-Sha-Driver/dp/B00BGBUIE0/)
-- [Mastercraft Screwdriver Set, 20-pc](https://www.amazon.ca/MASTER-CRAFT-PRODUCTS-Mastercraft-Screwdriver/dp/B01GN8QDNA/)
-- [STANLEY 84-058 Pliers Set, 4-Piece](https://www.amazon.ca/STANLEY-84-058-Pliers-Set-4-Piece/dp/B000NIK8JW/)
-- [STANLEY Stubby Ratcheting Screwdriver](https://www.amazon.ca/STANLEY-66-358-Ratcheting-MultiBit-Screwdriver/dp/B007QRX0HK/)
-- regular & thin medical scissors
-- cabinet flat tip screwdriver (longer)
 - Artists tape
-- Guitar Neck rest
-- Small power tool
-- Drill bit peg winder
 - Cheap paint brushes for cleaning boards
 - Mixwizard Power button replace
 - panavise 300 standard base
@@ -105,7 +87,7 @@
 ## Music gear
 
 - $100 Naiant inline attenuators
-- 4chnl snake for mics 1-4 (15' or more)
+- 4-8chnl snake for mics 1-4 (15' or more)
 - 8chnl TRS snake for DI 1-8 (6' or more)
 - $450 Radial Key Largo (for Travis main)
 - $75 StageBug SB-2 (for Travis access)
