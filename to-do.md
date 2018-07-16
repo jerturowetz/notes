@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
-- How to soup stock
-- ELOI parking
+- Soup stock
 - Help Lacey with SSL
 - Build square around big case handle behind drums
 - Call: Nancy, Joyce
@@ -23,29 +22,19 @@
 
 ## iPhone/iPad Games
 
-- Bastion
-- Baldurs Gate: Enhanced edition
-- Icewind Dale
-- Seige of Dragonspear
-- planescape: Torment
-- square enix?
-
-### 100% to get
-
-- Final Fantasy XV Pocket Edition
 - Legend of Grimrock
+- Doom & Destiny Advanced
 - Final Fantasy IX
 - Oceanhorn
 - Severed
-- Doom & Destiny Advanced
 - Superbrothers: Sword & Sworcery
+- Bastion
 
 ## Outstanding Bills
 
 - $60 Pick up knives
 - $??? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $-100 Communauto ($304-200-210)
-- $??? Communauto Renewal
+- $-100 Communauto & Renewal ($304-200-210)
 - $420 ish Kate furniture & vacation
 - $125 Mickey
 - $??? Madi Tech
