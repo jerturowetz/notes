@@ -1,17 +1,10 @@
 # Jer's grocery list
 
 - parchment paper
-- celery
-- tomatoe
-- 2 cans chickpeas
 - cheerios/shreddies
 - all-bran flakes
 - baking soda
 - fine table salt
-- CLR bathroom cleaner, clorox
-- Toilet paper
-- Paper towels
-- Le chat
 - meat
 
 ## Asian Grocery

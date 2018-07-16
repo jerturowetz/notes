@@ -72,7 +72,6 @@ How does $90 sound for the following:
 - $0.50/ft Canare L-2T2S Balanced Mic Cable - 22AWG
 - $0.84/ft Mogami W2524 Unbalanced Instrument Cable - 20AWG
 - $0.84/ft Canare GS-6 Unbalanced Instrument Cable - 18AWG (multiple colors available)
-- $0.72/ft Redco TGS-HD Unbalanced Instrument Cable - 18AWG (multiple colors available)
 
 ### Things to keep in mind
 
