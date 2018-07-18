@@ -111,6 +111,7 @@
 - gatsby.js
 - meteor?
 - react
+- Probably best to add jenkins workflow, Code testing and selenium stuff
 - [PIXI.js](http://www.pixijs.com/)
 - [simple explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/playlists)
 - Testing
