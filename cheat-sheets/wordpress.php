@@ -25,6 +25,14 @@ add_action( 'login_head', 'my_login_head' );
 
 
 
+// Disable the Plugin and Theme Editor
+define( 'DISALLOW_FILE_EDIT', true );
+
+// Disable Plugin and Theme Update and Installation
+define( 'DISALLOW_FILE_MODS', true );
+
+// Disable All Automatic Updates
+define( 'AUTOMATIC_UPDATER_DISABLED', true );
 
 
 
