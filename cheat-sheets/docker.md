@@ -23,6 +23,7 @@
     docker run --detach --publish 80:80 --name webserver nginx
     docker run -p 4000:80 friendlyhello  # Run "friendlyname" mapping port 4000 to 80
     docker run -d -p 4000:80 friendlyhello         # Same thing, but in detached mode
+    docker run -v //c/some/path/to/folder/:/remote/folder/ imagename
 
 ## Docker images
 
@@ -177,3 +178,7 @@ Use volumes for persistent data
     docker-compose down --volumes   # tear it down (kills volumes)
 
     docker-compose run web env      # see environment variables for the "web" service
+
+## amazing little machine
+
+    docker run --rm -ti -v //c/Users/jturo/sites/cult-gallery/:/images/ colthreepv/docker-image_optim image_optim -r .
