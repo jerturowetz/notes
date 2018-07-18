@@ -8,9 +8,6 @@
 - Pick up drums chez Mike M
 - Hem jeans
 - Pick up djembe
-- Clean up gists
-- WordPress snippets to files
-- Go through WP plugins
 - Warn shakti of email changes
 - Shut down rackspace
 - AA Roaul notes
