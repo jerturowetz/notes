@@ -1,20 +1,25 @@
-/* Cheat sheet : CSS
+/**
+ * Cheat sheet : CSS
+ *
+ * Some general guidlines below
+ *
+ * - NEVER USE IDS FOR STYLING
+ * - Body text should be no-less than `16px`. You can also simply set it to `100%`
+ * - The measure of paragraphs (max width of each line) should be between 45 & 75 characters
+ * - Never set `line-height` in px (absolute px and relative ems dont mix)
+ * - Don't define a unit for `line-height`, just use `1.5` or `1.46` is fine
+ * - Paragraphs separated with a margin (ie `margin: 0 0 1.5em;` ) do not require indentation as, with paragraphs, margins and indentation serve the same purpose. If you're gonna indent text, keeping it equal to the line height is a good guideline.
+ * - All components on the page should have a height divisible by the height of one line of paragraph text.
+ * - Size in `em` if the property scales according to it’s `font-size`
+ * - Size everything else in `rem`.
+ */
 
-NEVER USE IDS FOR STYLING
-
-Body text should be no-less than `16px`. You can also simply set it to `100%`
-The measure of paragraphs (max width of each line) should be between 45 & 75 characters
-Never set `line-height` in px (absolute px and relative ems dont mix)
-Don't define a unit for `line-height`, just use `1.5` or `1.46` is fine
-Paragraphs separated with a margin (ie `margin: 0 0 1.5em;` ) do not require indentation as, with paragraphs, margins and indentation serve the same purpose. If you're gonna indent text, keeping it equal to the line height is a good guideline.
-All components on the page should have a height divisible by the height of one line of paragraph text.
-
+/**
+ * 1.0 General Styles
+ *
+ * Description of section, whether or not it has media queries, etc.
 */
 
-/* Size in `em` if the property scales according to it’s `font-size` */
-/* Size everything else in `rem`. */
-
-/* Some general styles */
 html { font-size: 100% } /* This means 16px by default*/
 body {
 	font-size: 100%;
