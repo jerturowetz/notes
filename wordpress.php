@@ -1,6 +1,17 @@
 To Do 
 
-turn on wpdebug in docker-compose
+turn on wpdebug with docker-compose
+other devugging vars from docker ?
+
+maybe turn off file edits ? does this affect uploads?
+see the cody ibstall for these options (advaned tab?)
+
+also grab my functipns.php from standard if i havent already
+
+look in to guyenberg editor
+look in to markdown inbeditor
+
+
 image compression
 security plugin
 move login url 
@@ -51,6 +62,16 @@ function my_login_head() {
 	remove_action( 'login_head', 'wp_shake_js', 12 );
 }
 add_action( 'login_head', 'my_login_head' );
+
+
+
+1
+define( 'WP_DEBUG_LOG', true );
+
+1
+define( 'WP_DEBUG_DISPLAY', true );
+
+
 
 
 turn off media attachment pages
