@@ -31,8 +31,7 @@
 
 - $60 Pick up knives
 - $??? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $-100 Communauto & Renewal ($304-200-210)
-- $420 ish Kate furniture & vacation
+- $??? ish Kate furniture & vacation
 - $125 Mickey
 - $??? Madi Tech
 - $200 Agg, Andrew, Joe gifts
@@ -49,8 +48,6 @@
 
 ## Code study
 
-- [Lazy Loading images](https://css-tricks.com/snippets/javascript/lazy-loading-images/)
-- [CSS image sprites](https://www.w3schools.com/css/css_image_sprites.asp)
 - [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
 - [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
 - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
@@ -62,18 +59,15 @@
 - maybe wordpress and webpack
 - need to get on auto-prefixer...
 
-enviragallery
-
-### Quick bits
+### Path
 
 - [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
 - [Serverless Framework](https://serverless.com/framework/)
 - [Post CSS intro](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
-
-### Path
-
+- [Lazy Loading images](https://css-tricks.com/snippets/javascript/lazy-loading-images/)
+- [CSS image sprites](https://www.w3schools.com/css/css_image_sprites.asp)
 - [How to Analyze Your WordPress Installation's Performance](https://code.tutsplus.com/tutorials/how-to-analyze-your-wordpress-installations-performance--wp-26472)
 - [Tell Google about localized versions of your page](https://support.google.com/webmasters/answer/189077?hl=en)
 - [The Ultimate Guide to Image Optimization in Wordpress](https://www.proteusthemes.com/blog/ultimate-guide-image-optimization-wordpress/)
@@ -105,7 +99,7 @@ enviragallery
 - [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
-- https://underscorejs.org/#collections
+- [Underscore JS](https://underscorejs.org/#collections)
 - HTML validation (see WordPress codex article, theres a bunch of links)
 - Wordpress Codex says JSHINT rather than eslint, explore this
 - [GreenSock](https://greensock.com/)
