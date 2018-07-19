@@ -49,16 +49,24 @@
 
 ## Code study
 
+- [Lazy Loading images](https://css-tricks.com/snippets/javascript/lazy-loading-images/)
+- [CSS image sprites](https://www.w3schools.com/css/css_image_sprites.asp)
+- [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
+- [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
+- [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
+- [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
+- [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
 - some more jekyll and webpack
 - maybe wordpress and webpack
+- need to get on auto-prefixer...
+
+enviragallery
 
 ### Quick bits
 
-- [How To Build Docker Images and Host a Docker Image Repository with GitLab](https://www.digitalocean.com/community/tutorials/how-to-build-docker-images-and-host-a-docker-image-repository-with-gitlab)
 - [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
-- [Practical continuous deployment: a guide to automated software delivery](https://www.atlassian.com/blog/continuous-delivery/practical-continuous-deployment)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
 - [Serverless Framework](https://serverless.com/framework/)
@@ -66,6 +74,14 @@
 
 ### Path
 
+- [How to Analyze Your WordPress Installation's Performance](https://code.tutsplus.com/tutorials/how-to-analyze-your-wordpress-installations-performance--wp-26472)
+- [Tell Google about localized versions of your page](https://support.google.com/webmasters/answer/189077?hl=en)
+- [The Ultimate Guide to Image Optimization in Wordpress](https://www.proteusthemes.com/blog/ultimate-guide-image-optimization-wordpress/)
+- [Practical continuous deployment: a guide to automated software delivery](https://www.atlassian.com/blog/continuous-delivery/practical-continuous-deployment)
+- [Php 5 tutorial](https://www.w3schools.com/php/)
+- [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
+- PHP 7 tutorials
+- [Theme testing](https://codex.wordpress.org/Theme_Development#Theme_Testing_Process)
 - [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/)
 - [Do the entire w3schools catalogue](https://www.w3schools.com/)
 - [Do the Mozilla catalogue](https://developer.mozilla.org/en-US/)
@@ -89,6 +105,9 @@
 - [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
+- https://underscorejs.org/#collections
+- HTML validation (see WordPress codex article, theres a bunch of links)
+- Wordpress Codex says JSHINT rather than eslint, explore this
 - [GreenSock](https://greensock.com/)
 - [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
 - [Deploying Wordpress like a pro](https://www.berriart.com/talks/wordpress-deployment/#/8/4)
@@ -108,9 +127,12 @@
 - gatsby.js
 - meteor?
 - react
+- Google Big Query
 - Probably best to add jenkins workflow, Code testing and selenium stuff
 - [PIXI.js](http://www.pixijs.com/)
 - [simple explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/playlists)
+- [WordPress Security 101](https://seravo.com/wordpress-security-101/)
+- [Seravo blog is awesome](https://seravo.com/blog/)
 - Testing
   - PHP Unit
   - Visual Regression Testing (BackstopJS)
@@ -118,11 +140,25 @@
   - WP_Mock - API mocking framework
   - [Wordpress Automated testing](https://make.wordpress.org/core/handbook/testing/automated-testing/)
   - [Behat autmated testing](http://behat.org/en/latest/)
+  - [Even more and better wordpress testing](http://wptest.io/)
+  - [PHP Engineering-Best-Practices](https://10up.github.io/Engineering-Best-Practices/php/)
+  - [10up Engineering best practies - Has tons of guides and tools](https://10up.github.io/Engineering-Best-Practices/)
+  - [10up wp_mock](https://github.com/10up/wp_mock)
 - Really valuable testing tools to learn and work in
   - lighthouse
   - page speed insights
   - mobile first testing tool
   - google search console
+- Accessibility reading:
+  - [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
+  - [ARIA Live Regions](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions)
+  - [Let WordPress Speak: New in WordPress 4.2](https://make.wordpress.org/accessibility/2015/04/15/let-wordpress-speak-new-in-wordpress-4-2/)
+  - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+- Docker Automated builds
+  - [Automated builds](https://docs.docker.com/docker-cloud/builds/automated-build/)
+  - [Configure automated builds from GitHub](https://docs.docker.com/docker-hub/github/)
+  - [Configure automated builds on Docker Hub](https://docs.docker.com/docker-hub/builds/)
+  - [Patterns for Continuous Integration with Docker on Travis CI](https://medium.com/mobileforgood/patterns-for-continuous-integration-with-docker-on-travis-ci-71857fff14c5)
 
 ## Musician's Insurance
 
