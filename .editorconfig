@@ -1,5 +1,3 @@
-# EditorConfig helps developers define and maintain consistent
-# coding styles between different editors and IDEs
 # editorconfig.org
 
 root = true
@@ -7,7 +5,7 @@ root = true
 [*]
 # Change these settings to your own preference
 indent_style = space
-indent_size = 4
+indent_size = 2
 # We recommend you to keep these unchanged
 # thought I'm pretty sure charset doesn't work yet in vscode
 end_of_line = lf
@@ -23,9 +21,10 @@ indent_size = 2
 indent_style = tab
 indent_size = 4
 
-# For wordpress
-# [{*.php,*.html,*.css,*.less,*.sass,*.scss}]
+# # Uncomment for WordPress
+# [*.{css,less,sass,scss}]
 # indent_style = tab
+# indent_size = 4
 
 [*.txt]
 end_of_line = crlf
