@@ -29,6 +29,7 @@
 
 ## Outstanding Bills
 
+- $400 communauto (not including membership fee)
 - $60 Pick up knives
 - $??? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $??? ish Kate furniture & vacation
