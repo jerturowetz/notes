@@ -1,5 +1,26 @@
 # Jer's To-Do List
 
+
+to the nations of the world (1900)
+
+"lost body" illustrated by picasso
+edston chagas
+
+frantz fanon
+leopold cedar
+aime cesar 
+
+kehinde wiley
+
+"recourse to authenticity"
+
+aylvia haniltob
+
+
+
+
+
+
 - Soup stock
 - Help Lacey with SSL
 - Build square around big case handle behind drums
