@@ -20,6 +20,11 @@ aylvia haniltob
 
 
 
+freezer basket for banas
+freezer storage for soup stock
+freezer storage for tomato sauce
+frezer storage for stuff for stock
+freezer organizers
 
 - Soup stock
 - Help Lacey with SSL
