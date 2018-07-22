@@ -1,35 +1,10 @@
 # Jer's To-Do List
 
-
-to the nations of the world (1900)
-
-"lost body" illustrated by picasso
-edston chagas
-
-frantz fanon
-leopold cedar
-aime cesar 
-
-kehinde wiley
-
-"recourse to authenticity"
-
-aylvia haniltob
-
-
-
-
-
-freezer basket for banas
-freezer storage for soup stock
-freezer storage for tomato sauce
-frezer storage for stuff for stock
-freezer organizers
-
-- Soup stock
+- Invite Joyce to wedding
+- Invite Jordan to wedding?
+- Email Ben Miller re drupal
 - Help Lacey with SSL
-- Build square around big case handle behind drums
-- Call: Nancy, Joyce
+- Call: Nancy
 - SJ Tracks
 - Pick up drums chez Mike M
 - Hem jeans
@@ -42,6 +17,18 @@ freezer organizers
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
+
+## Picaso items
+
+- to the nations of the world (1900)
+- "lost body" illustrated by picasso
+- edston chagas
+- frantz fanon
+- leopold cedar
+- aime cesar
+- kehinde wiley
+- "recourse to authenticity"
+- aylvia haniltob
 
 ## iPhone/iPad Games
 

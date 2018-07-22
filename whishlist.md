@@ -5,6 +5,7 @@
 - Gear to patch hole behind stove
 - Sneakers
 - Shorts
+- freezer organizers (basket for bananas, storage for frozen pucks, tomato sauce, shelf organizers)
 
 ## Connectors
 
