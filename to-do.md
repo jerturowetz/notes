@@ -1,7 +1,5 @@
 # Jer's To-Do List
 
-- Invite Joyce to wedding
-- Invite Jordan to wedding?
 - Email Ben Miller re drupal
 - Help Lacey with SSL
 - Call: Nancy
@@ -20,18 +18,17 @@
 
 ## iPhone/iPad Games
 
-- Legend of Grimrock
-- Doom & Destiny Advanced
-- Oceanhorn
-- Severed
-- Superbrothers: Sword & Sworcery
-- Bastion
+- $10 Oceanhorn
+- $7 Legend of Grimrock
+- $5 Doom & Destiny Advanced
+- $10 Severed
+- $6 Superbrothers: Sword & Sworcery
 
 ## Outstanding Bills
 
 - $400 communauto (not including membership fee)
 - $60 Pick up knives
-- $??? Matt's Amp tweed mesh (https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- $??? Matt's Amp tweed mesh [maybe here](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $??? ish Kate furniture & vacation
 - $125 Mickey
 - $??? Madi Tech
