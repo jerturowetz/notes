@@ -18,23 +18,10 @@
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
 
-## Picaso items
-
-- to the nations of the world (1900)
-- "lost body" illustrated by picasso
-- edston chagas
-- frantz fanon
-- leopold cedar
-- aime cesar
-- kehinde wiley
-- "recourse to authenticity"
-- aylvia haniltob
-
 ## iPhone/iPad Games
 
 - Legend of Grimrock
 - Doom & Destiny Advanced
-- Final Fantasy IX
 - Oceanhorn
 - Severed
 - Superbrothers: Sword & Sworcery
@@ -75,6 +62,7 @@
 
 ### Path
 
+- [Leaflet JS - for interactive maps](https://leafletjs.com/)
 - [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
 - [Building A Serverless Contact Form For Your Static Site](https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/)
