@@ -1,10 +1,69 @@
 # Wedding playlist
 
+go through my personal albums and see if anything sticks out (kos?)
+
+James Taylor - Handy Man
+James Taylor - You've Got A Friend
+
 ## Acoustic Requests
 
-Yamin, Matt, Rob, Steve
+Hawksley Workman
+Jamiroquai
+MSTRCFT
+JUSTICE
 
+Joss Stone
+Mase
+Puff daddy
+Snoop
+Orinbce
+John Legend
+bruno mars
+tina turner
+inxs
+white stripes
+John Mellencamp
+all i ever wanted
+Missy eliot
+Hall&Oates
+Jew songs
+fatboy slim
+Fleetwood Mac
+Pump up the jam
+Freak out
+FuuGees
+godon lightfoot
+goo goo dools
+Wyclef
+Gipsy Kings
+Miami sound machine
+melissa ethridge
+Gloria estefan
+
+Four tops
+gargstas delight
+Yamin, Matt, Rob, Steve
+Duran Duran
+A Ha
+Elton John
+gangam style
+en vogue
+Fatboy slim
+tlc
+David Bowie
+The Difters
 Elton John - Your Song
+Simple Minds
+Quinten tarentino movie soundtracks
+layla acoustic
+dolly parton
+Mr Personality
+That dont impress me much
+Im too sexy
+Ace ob Base
+macarenna
+cotton eye joe
+
 
 step by step
 
