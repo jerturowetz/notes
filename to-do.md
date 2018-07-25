@@ -152,6 +152,13 @@
   - [Configure automated builds from GitHub](https://docs.docker.com/docker-hub/github/)
   - [Configure automated builds on Docker Hub](https://docs.docker.com/docker-hub/builds/)
   - [Patterns for Continuous Integration with Docker on Travis CI](https://medium.com/mobileforgood/patterns-for-continuous-integration-with-docker-on-travis-ci-71857fff14c5)
+- screaming frog 101
+- regex 101
+- sed 101
+- JS guides
+  - [Vanilla JS](https://vanillajsguides.com/)
+  - [Vanilla JS Academy](https://vanillajsacademy.com/)
+  - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
 
 ## Musician's Insurance
 
