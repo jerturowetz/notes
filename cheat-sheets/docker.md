@@ -128,7 +128,7 @@ This means you can use local files to do stuff on remote or virtual machines whi
 - When guides tell you to use `http://localhost` - on machines running docker toolbox, make sure to use the VM ip instead
 - `docker-machine create` can return errors because `docker-start.sh` sets environment variables, simply reboot and create machines before running `docker-start.sh`
 - Running `docker swarm` will error out on systems running docker toolbox and will say something like "this machine has too many ips, specify one"
-- There is a paths variable that (I think) does slash and path conversion for windows. This is supposed to be enabled by default on windows installs; however, it has sometimes been brokn by updates. To manually enable it use `set COMPOSE_CONVERT_WINDOWS_PATHS=1`
+- There is an enviroment variable that tells docker to do path conversion for windows machines, supposed to be enabled by default (on windows installs obvs). It is sometimes not set properly after updates and must be set manually in your shell `export COMPOSE_CONVERT_WINDOWS_PATHS=1`
 
 ## Swarms
 
