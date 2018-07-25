@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- add to clut list re abilities:
+  ostensibly i can use wp-cli to trigger all my option changes from old site to new site including media item sizes, retrigger thumbnail gen, pingbacks etc
 - Email Ben Miller re drupal
 - Help Lacey with SSL
 - Call: Nancy
