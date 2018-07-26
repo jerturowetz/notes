@@ -1,5 +1,21 @@
 # Let's get married
 
+
+
+eloi find space for photos in case of rain
+
+
+
+
+arrive at venu
+get marrid
+
+
+for photos with family 
+need extra strings of lights for the photo session
+maybe wxtra props for sessio 
+
+
 - ELOI parking
 
 band details (dances, pricing, hora)
