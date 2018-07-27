@@ -1,9 +1,12 @@
 # Wedding playlist
 
 go through my personal albums and see if anything sticks out (kos?)
-
+The Beatles - Help - with lyrics - YouTube
 James Taylor - Handy Man
 James Taylor - You've Got A Friend
+B*Witched - C'est la vie
+Will Smith - Gettin' Jiggy Wit It
+The Temptations Papa Was A Rolling Stone 1972 Single Version
 
 ## Acoustic Requests
 
