@@ -18,6 +18,19 @@
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
 
+## Flicks
+
+- White God
+- [The Road](https://www.youtube.com/watch?v=94KcI0gLq1A)
+- [Manchester By the Sea](https://www.youtube.com/watch?v=gsVoD0pTge0)
+- [Cold in July](https://www.youtube.com/watch?v=XkyuV69YZcM)
+- Hard to be a god
+- Stalker
+- The Ice Storm
+- Indignation
+- [Slow West](https://www.youtube.com/watch?v=pFfsTsdJfF8)
+- [Wiener-Dog](https://www.youtube.com/watch?v=27ccGS9A5lo)
+
 ## iPhone/iPad Games
 
 - $10 Oceanhorn
@@ -30,7 +43,7 @@
 
 - $400 communauto (not including membership fee)
 - $60 Pick up knives
-- $??? Matt's Amp tweed mesh [maybe here](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $??? ish Kate furniture & vacation
 - $125 Mickey
 - $??? Madi Tech
@@ -48,6 +61,11 @@
 
 ## Code study
 
+- [VS code tricks](https://www.youtube.com/watch?v=x5GzCohd4eo&t=0s&list=WL&index=8)
+- [Shell scripting with WPCLI](https://www.youtube.com/watch?v=-jAojFcSpB8&index=20&t=33s&list=WL)
+- [Docker wordpress](https://www.youtube.com/watch?v=XyFJx9APCHk&index=21&t=25s&list=WL)
+- [Wordpress debugging](https://www.youtube.com/watch?v=2Jmrjn01wJg&index=18&t=0s&list=WL)
+- [Lighthouse and Puppeteer](https://www.youtube.com/watch?v=dR_J4X416hg&index=29&t=0s&list=WL)
 - [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
 - [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
 - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
