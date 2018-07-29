@@ -1,5 +1,8 @@
 # Wedding playlist
 
+shaggy
+shake that thingp
+
 go through my personal albums and see if anything sticks out (kos?)
 The Beatles - Help - with lyrics - YouTube
 James Taylor - Handy Man
