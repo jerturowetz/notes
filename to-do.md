@@ -1,9 +1,7 @@
 # Jer's To-Do List
 
-- add to clut list re abilities:
-  ostensibly i can use wp-cli to trigger all my option changes from old site to new site including media item sizes, retrigger thumbnail gen, pingbacks etc
+- add to clut list re abilities: i can use wp-cli to trigger all my option changes from old site to new site including media item sizes, retrigger thumbnail gen, pingbacks etc
 - Email Ben Miller re drupal
-- Help Lacey with SSL
 - Call: Nancy
 - SJ Tracks
 - Pick up drums chez Mike M
@@ -20,7 +18,6 @@
 
 ## Flicks
 
-- White God
 - [The Road](https://www.youtube.com/watch?v=94KcI0gLq1A)
 - [Manchester By the Sea](https://www.youtube.com/watch?v=gsVoD0pTge0)
 - [Cold in July](https://www.youtube.com/watch?v=XkyuV69YZcM)
