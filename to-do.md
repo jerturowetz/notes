@@ -1,8 +1,7 @@
 # Jer's To-Do List
 
-- add to clut list re abilities: i can use wp-cli to trigger all my option changes from old site to new site including media item sizes, retrigger thumbnail gen, pingbacks etc
-- Email Ben Miller re drupal
 - Call: Nancy
+- Email Ben Miller re drupal
 - SJ Tracks
 - Pick up drums chez Mike M
 - Hem jeans
@@ -19,13 +18,7 @@
 ## Flicks
 
 - [The Road](https://www.youtube.com/watch?v=94KcI0gLq1A)
-- [Manchester By the Sea](https://www.youtube.com/watch?v=gsVoD0pTge0)
 - [Cold in July](https://www.youtube.com/watch?v=XkyuV69YZcM)
-- Hard to be a god
-- Stalker
-- The Ice Storm
-- Indignation
-- [Slow West](https://www.youtube.com/watch?v=pFfsTsdJfF8)
 - [Wiener-Dog](https://www.youtube.com/watch?v=27ccGS9A5lo)
 
 ## iPhone/iPad Games
@@ -70,7 +63,6 @@
 - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
-- some more jekyll and webpack
 - maybe wordpress and webpack
 - need to get on auto-prefixer...
 
@@ -172,7 +164,7 @@
 - screaming frog 101
 - regex 101
 - sed 101
-- JS guides
+- JS stuff:
   - [Vanilla JS](https://vanillajsguides.com/)
   - [Vanilla JS Academy](https://vanillajsacademy.com/)
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
