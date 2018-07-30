@@ -8,7 +8,7 @@
 
 ## Copying from s3
 
-    aws s3 cp s3://largefs-standardpro/standardpro/wp-content/uploads/ ./ --recursive
+    aws s3 cp s3://largefs-standardnet/standardnet/wp-content/uploads/ ./ --recursive
 
 ## Sync s3 Bucket folder (or entire bucket)
 
