@@ -1,23 +1,393 @@
 # Wedding playlist
 
+go through my personal albums and see if anything sticks out (kos?)
+
+## Acoustic Requests
+
+## Themes
+
+- Indie Dance Music mix
+- 80's & 90's cheezy pop (a ha)
+- 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
+- 90's-2000's super pop (think backstreet boys)
+- Soul music
+- Slowdance Cheezy
+
+## From Juan
+
+- Suavemente
+- Ojalá que llueva café en el campo
+- Juan luis guerra
+- Malamente - Rosalia
+- Soy Yo. Bomba estereo
+- Somos Pacífico- Choquibtown
+
+## Super dance portion
+
+- Hey Ya!
+- I Wanna Dance With Somebody
+- Uptown Funk
+- Shout
+- Crazy In Love
+- Don’t Stop Believin’
+- Billie Jean
+- Get Lucky
+- Twist and Shout
+- Shut Up and Dance
+- September
+- Don’t Stop ‘Til You Get Enough
+- Yeah!
+- I Want You Back
+- You Make My Dreams
+- Signed, Sealed, Delivered (I’m Yours)
+- Sweet Caroline
+- Happy
+- We Found Love
+- Call Me Maybe
+- Ignition (Remix)
+- Ain't No Mountain High Enough
+- Brown Eyed Girl
+- Love Shack
+- Single Ladies
+- Superstition
+- P.Y.T. (Pretty Young Thing)
+- Shake It Off
+- Cupid Shuffle
+- Come On Eileen
+- Footloose
+- Livin On A Prayer
+- Sexy Back
+- Party In The USA
+- I Gotta Feeling
+- Abc
+- At Last
+- Can't Help Falling In Love
+- Dynamite
+- My Girl
+- Take On Me
+- Timber
+- This Is How We Do It
+- Wake Me Up
+- Just Dance
+- Let's Stay Together
+- Kiss
+- I Love It
+- Wagon Wheel
+- You Shook Me All Night Long
+- All Night Long
+- Build Me Up Buttercup
+- Don't Stop Me Now
+- Forever
+- Groove Is In The Heart
+- Party Rock Anthem
+- The Way You Make Me Feel
+- Bust A Move
+- Crazy Little Thing Called Love
+- Higher & Higher
+- No Diggity
+- Rock Your Body
+- Ain't Too Proud To Beg
+- Dancing Queen
+- December, 1963
+- Home
+- I Believe In A Thing Called Love
+- Jump Around
+- Poison
+- You Can'T Hurry Love
+- Baby Got Back
+- Bohemian Rhapsody
+- Girls Just Want To Have Fun
+- Hips Don't Lie
+- Hot In Herre
+- Like A Prayer
+- Love On Top
+- Paper Planes
+- The Twist
+- Celebration
+- I Can'T Help Myself
+- Sexy And I Know It
+- Tik Tok
+- Turn Down For What
+- Twistin' The Night Away
+- All Of Me
+- Brick House
+- Crazy
+- Dancing In The Dark
+- How Sweet It Is (To Be Loved By You)
+- Low
+- Mo Money Mo Problems
+- Moves Like Jagger
+- Play That Funky Music
+- Raise Your Glass
+- Satisfaction
+- Sorry
+- Stayin' Alive
+- The Way You Look Tonight
+- Thriller
+- Wannabe
+- We Are Family
+- You Are The Best Thing
+- Beat It
+- Bye Bye Bye
+- Dancing On My Own
+- Electric Feel
+- Everybody
+- Gold Digger
+- Hypnotize
+- I Want You To Want Me
+- I'm Gonna Be
+- Respect
+- Stand By Me
+- Summer Of '69
+- Sweet Home Alabama
+- Wobble
+- Wonderful Tonight
+- Bad Romance
+- Dance To The Music
+- Hold On
+- I Got You
+- I Want It That Way
+- Jessie's Girl
+- Let's Dance
+- Let's Go Crazy
+- One More Time
+- Teenage Dream
+- The Time Of My Life
+- U Can't Touch This
+- What I Like About You
+- Your Love
+- Apache
+- Empire State Of Mind
+- Feel So Close
+- Get Low
+- Ice Ice Baby
+- Jump Jive An' Wail
+- Mony Mony
+- Ni**as In Paris
+- Old Time Rock & Roll
+- Pony
+- Super Bass
+- The Luckiest
+- The Sign
+- Umbrella
+- You Can Call Me Al
+- California Love
+- Can't Feel My Face
+- Cha Cha Slide
+- Crazy Love
+- Dancing In The Street
+- Fantasy
+- God Only Knows
+- Heart Of Glass
+- Ho Hey
+- In Da Club
+- Just Like Heaven
+- Lose Control
+- Make You Feel My Love
+- Marry You
+- Moondance
+- Poker Face
+- Runaround Sue
+- Sir Duke
+- Starships
+- Stronger
+- Sugar
+- Unchained Melody
+- Y.M.C.A
+- Africa
+- All About That Bass
+- American Girl
+- Blurred Lines
+- Can't Hold Us
+- Die Young
+- Fancy
+- Friday I'm In Love
+- Gangnam Style
+- Gettin' Jiggy Wit It
+- Gimme Some Lovin
+- Give Me Everything
+- I Melt With You
+- Lean On
+- Let's Get Married
+- Louie, Louie
+- Piano Man
+- Pour Some Sugar On Me
+- Push It
+- Rock With You
+- Since U Been Gone
+- Take Me Home Tonight
+- Time After Time
+- Under Pressure
+- Watch Me
+- What A Wonderful World
+- What Is Love
+- When A Man Loves A Woman
+- Work It
+- You're My Best Friend
+- Kool & The Gang, "Celebration"
+- Edward Sharpe & the Magnetic Zeros, “Home”
+- a-ha, “Take on Me”
+- Wild Cherry, “Play That Funky Music”
+- DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross, “All I Do Is Win”
+- Silento, “Watch Me”
+- Run-D.M.C., “It’s Tricky”
+- Sir Mix-A-Lot, “Baby Got Back”
+- George Strait, “I Cross My Heart”
+- Lynyrd Skynyrd, “Sweet Home Alabama”
+- Pitbull feat. Ne-Yo, Afrojack & Nayer, “Give Me Everything”
+- Brad Paisley, “Then”
+- Mike Posner, “I Took a Pill in Ibiza (SeeB Remix)”
+- Elvis Crespo, “Suavamente”
+- Jason Derulo, “Want to Want Me”
+- Ray LaMontagne, “You Are the Best Thing”
+- The Righteous Brothers, “Unchained Melody”
+- Ben E. King, “Stand by Me”
+- Marvin Gaye, “Let’s Get It On”
+- ABBA, “Dancing Queen”
+- Michael Jackson, “Wanna Be Startin’ Somethin’”
+- Beyonce, “Single Ladies (Put a Ring On It)”
+- Katy Perry, “Firework”
+- Beyonce, “Love on Top”
+- Prince, “I Wanna Be Your Lover”
+- Pitbull feat. John Ryan, “Fireball”
+- Andy Grammer, “Honey I'm Good”
+- Calvin Harris, “Feel So Close”
+- Flo Rida, “My House”
+- Calvin Harris featuring Rihanna, “This Is What You Came For”
+- Christina Perri, “A Thousand Years”
+- OutKast featuring Sleepy Brown, “The Way You Move”
+- Maroon 5, “Sugar”
+- Thomas Rhett, “Die a Happy Man”
+- Nelly, “Hot In Herre”
+- Kenny Loggins, “Footloose”
+- Don Omar featuring Lucenzo, “Danza Kuduro”
+- Justin Bieber, “Sorry”
+- The Temptations, “Ain't Too Proud To Beg”
+- *NSYNC, “Bye Bye Bye”
+- Rihanna featuring Calvin Harris, “We Found Love”
+- Al Green, “Let's Stay Together”
+- Bruno Mars, “Marry You”
+- Daft Punk featuring Pharrell Williams, “Get Lucky”
+- Michael Jackson, “P.Y.T. (Pretty Young Thing)”
+- Etta James, “At Last”
+- Mr. C The Slide Man, “Cha Cha Slide”
+- Garth Brooks, “Friends In Low Places”
+- House of Pain, “Jump Around”
+- Rihanna featuring Drake, “Work”
+- Elvis Presley, “Can't Help Falling In Love”
+- AC/DC, “You Shook Me All Night Long”
+- Drake feat. Kyla & Wizkid, “One Dance”
+- The Temptations, “My Girl”
+- Bon Jovi, “Livin’ On A Prayer”
+- Prince, “Kiss”
+- Justin Timberlake, “SexyBack”
+- Marvin Gaye & Tammi Terrell, “Ain't No Mountain High Enough”
+- Aretha Franklin, “Respect”
+- Pitbull featuring Kesha, “Timber”
+- Van Morrison, “Brown Eyed Girl”
+- The B-52’s, “Love Shack”
+- Icona Pop, “I Love It”
+- Spice Girls, “Wannabe”
+- John Legend, “All Of Me”
+- The Weeknd, “Can’t Feel My Face”
+- Sister Sledge, “We Are Family”
+- DJ Snake & Lil Jon, “Turn Down for What”
+- R. Kelly, “Ignition” (Remix)
+- Flo Rida, “Low”
+- Miley Cyrus, “Party in the U.S.A.”
+- Robin Thicke featuring T.I. & Pharrell, “Blurred Lines”
+- Neil Diamond, “Sweet Caroline”
+- Backstreet Boys, “Everybody (Backstreet’s Back)”
+- The Beatles, "Twist and Shout"
+- Beyonce feat. Jay-Z, "Crazy in Love"
+- Stevie Wonder, "Signed, Sealed, Delivered I'm Yours"
+- Frank Sinatra, "The Way You Look Tonight"
+- Michael Jackson, "Billie Jean"
+- Montell Jordan, "This Is How We Do It"
+- Hall & Oates, "You Make My Dreams"
+- The Black Eyed Peas, "I Gotta Feeling"
+- The Jackson 5, "I Want You Back"
+- The Notorious B.I.G., "Hypnotize"
+- Ed Sheeran, "Thinking Out Loud"
+- Pharrell Williams, "Happy"
+- DNCE, "Cake by the Ocean"
+- V.I.C., "Wobble"
+- OutKast, "Hey Ya!"
+- Cupid, "Cupid Shuffle"
+- The Isley Brothers, “Shout – Part 1”
+- Michael Jackson, "Don't Stop 'Til You Get Enough"
+- Journey, "Don't Stop Believin'"
+- Usher feat. Lil Jon & Ludacris, "Yeah"
+- Earth, Wind & Fire, "September"
+- Whitney Houston, "I Wanna Dance With Somebody (Who Loves Me)"
+- Justin Timberlake, "Can't Stop the Feeling!"
+- Walk the Moon, "Shut Up and Dance"
+- Taylor Swift, "Shake It Off"
+- Mark Ronson feat. Bruno Mars, "Uptown Funk!"
+
+## To sort
+
+Michael Jackson
+Beyoncé
+The Beatles
+Stevie Wonder
+Outkast
+Queen
+Rihanna
+Van Morrison
+The Jackson 5
+Justin Timberlake
+Whitney Houston
+Daft Punk
+Prince
+Pitbull
+Lady Gaga
+Mark Ronson
+Usher
+Journey
+The Isley Brothers
+Elvis Presley
+Earth, Wind & Fire
+Frank Sinatra
+Kanye West
+The Temptations
+The Rolling Stones
+Daryl Hall & John Oates
+Madonna
+David Bowie
+Jay Z
+Flo Rida
+Taylor Swift
+Walk the Moon
+Katy Perry
+Sam Cooke
+R. Kelly
+Billy Joel
+LMFAO
+Neil Diamond
+The Black Eyed Peas
+The B-52s
+Bruce Springsteen
+Kesha
+Carly Rae Jepsen
+Elton John
+Miley Cyrus
+Missy Elliott
+Notorious B.I.G.
+The Beach Boys
+The Cure
 shaggy
 shake that thingp
-
-go through my personal albums and see if anything sticks out (kos?)
 The Beatles - Help - with lyrics - YouTube
 James Taylor - Handy Man
 James Taylor - You've Got A Friend
 B*Witched - C'est la vie
 Will Smith - Gettin' Jiggy Wit It
 The Temptations Papa Was A Rolling Stone 1972 Single Version
-
-## Acoustic Requests
-
 Hawksley Workman
 Jamiroquai
 MSTRCFT
 JUSTICE
-
 Joss Stone
 Mase
 Puff daddy
@@ -45,7 +415,6 @@ Gipsy Kings
 Miami sound machine
 melissa ethridge
 Gloria estefan
-
 Four tops
 gargstas delight
 Yamin, Matt, Rob, Steve
@@ -69,10 +438,7 @@ Im too sexy
 Ace ob Base
 macarenna
 cotton eye joe
-
-
 step by step
-
 get ready
 my guy
 slick rick
@@ -82,27 +448,6 @@ the loveboat
 yes she is
 welcome to miami
 wildnwild west
-
-## Themes
-
-- Indie Dance Music mix
-- 80's & 90's cheezy pop (a ha)
-- 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
-- 90's-2000's super pop (think backstreet boys)
-- Soul music
-- Slowdance Cheezy
-
-## From Juan
-
-- Suavemente
-- Ojalá que llueva café en el campo
-- Juan luis guerra
-- Malamente - Rosalia
-- Soy Yo. Bomba estereo
-- Somos Pacífico- Choquibtown
-
-## Review
-
 The Cardigans - Lovefool
 sixpence none the richer - kiss me
 2 live crew
