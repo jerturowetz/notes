@@ -97,6 +97,7 @@
 - [HTML & CSS is hard](https://internetingishard.com/html-and-css/)
 - [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
 - [Understanding Yaml](https://docs.saltstack.com/en/latest/topics/yaml/)
+- [Wordcamp MTL 2017 videos](https://wordpress.tv/event/wordcamp-montreal-2017/)
 - [Servers for hackers](https://serversforhackers.com/)
 - [Command line power user lessons](https://commandlinepoweruser.com/)
 - [Try Git](https://www.codeschool.com/courses/try-git/)
