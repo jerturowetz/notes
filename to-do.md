@@ -84,6 +84,12 @@
 - [Php 5 tutorial](https://www.w3schools.com/php/)
 - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
 - PHP 7 tutorials
+- [Bing webmaster guidelines](https://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)
+- [Analytics academy](https://analytics.google.com/analytics/academy/)
+- [Cloudflar 101](https://support.cloudflare.com/hc/en-us/sections/200820158-Cloudflare-101)
+- [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
+- [Google Tag Manager Example Container ](https://github.com/thenextweb/gtm)
+- [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
 - [Theme testing](https://codex.wordpress.org/Theme_Development#Theme_Testing_Process)
 - [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/)
 - [Do the entire w3schools catalogue](https://www.w3schools.com/)
