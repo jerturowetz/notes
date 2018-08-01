@@ -52,23 +52,24 @@
 
 ## Code study
 
-- [VS code tricks](https://www.youtube.com/watch?v=x5GzCohd4eo&t=0s&list=WL&index=8)
-- [Shell scripting with WPCLI](https://www.youtube.com/watch?v=-jAojFcSpB8&index=20&t=33s&list=WL)
-- [Docker wordpress](https://www.youtube.com/watch?v=XyFJx9APCHk&index=21&t=25s&list=WL)
-- [Wordpress debugging](https://www.youtube.com/watch?v=2Jmrjn01wJg&index=18&t=0s&list=WL)
-- [Lighthouse and Puppeteer](https://www.youtube.com/watch?v=dR_J4X416hg&index=29&t=0s&list=WL)
+- Intro to webpack
+- [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
 - [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
 - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
 - [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
 - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
-- [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
 - maybe wordpress and webpack
 - need to get on auto-prefixer...
 
 ### Path
 
+- [VS code tricks](https://www.youtube.com/watch?v=x5GzCohd4eo&t=0s&list=WL&index=8)
+- [Shell scripting with WPCLI](https://www.youtube.com/watch?v=-jAojFcSpB8&index=20&t=33s&list=WL)
+- [Docker wordpress](https://www.youtube.com/watch?v=XyFJx9APCHk&index=21&t=25s&list=WL)
+- [Wordpress debugging](https://www.youtube.com/watch?v=2Jmrjn01wJg&index=18&t=0s&list=WL)
+- [Lighthouse and Puppeteer](https://www.youtube.com/watch?v=dR_J4X416hg&index=29&t=0s&list=WL)
 - [Leaflet JS - for interactive maps](https://leafletjs.com/)
 - [How to add more to Git Bash on Windows](https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058)
 - [Responsive background images with srcset and sizes](https://aclaes.com/responsive-background-images-with-srcset-and-sizes/)
