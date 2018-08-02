@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Check to see if my dremel has a cutoff wheel
 - Make some [Shrimp de Gallo](https://www.delish.com/cooking/recipe-ideas/a21271867/shrimpo-de-gallo-recipe/)
 - Call: Nancy
 - Email Ben Miller re drupal

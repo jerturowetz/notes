@@ -1,21 +1,12 @@
 # Wishlist
 
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - Earphone wrap thingy
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove
 - Sneakers
 - Shorts
 - freezer organizers (basket for bananas, storage for frozen pucks, tomato sauce, shelf organizers)
-
-## Connectors
-
-How does $90 sound for the following:
-
-- $3 ea. 24 NEW TRS Male Stereo Phone Plug 1/4" (NP3C)
-- $3 ea. 2 NEW TS Male Mono Phone Plug 1/4" (NP2C)
-- $3 ea. 1 NEW XLR Cable connector - Male (NC3MX)
-- $3 ea. 2 NEW XLR Cable connector - Female (NC3FX)
-- $1 ea. 22 USED TRS Male Stereo Phone Plug 1/4" (NP3C)
 
 ## Summer shoes
 
@@ -88,12 +79,20 @@ How does $90 sound for the following:
 - Mixwizard Power button replace
 - panavise 300 standard base
 - panavise 312 parts tray
+- screwdriver sets (torx, square, whatever)
+- Peg Board Bins, Tape Measure Holder, wire baskets
+- scratch awl
+- 1/8" by 3/8" rivets & rivet gun
+- ideal aqua gel II cable pulling lube
+- good bit set
+- work knife
+- shop towels or cloths
+- tiny metal ruler (electricians ruler)
+- lube for metal drill bits
 
 ## Music gear
 
 - $100 Naiant inline attenuators
-- 4-8chnl snake for mics 1-4 (15' or more)
-- 8chnl TRS snake for DI 1-8 (6' or more)
 - $450 Radial Key Largo (for Travis main)
 - $75 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
@@ -127,11 +126,3 @@ How does $90 sound for the following:
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
-
-### Keys Rig
-
-- Korg SV1
-- MS2000
-- Sansamp GT2, Wah, Line 6 Delay Modeler
-- Samson SM10 Stereo Line Mixer
-- Apps: TC 11, Mabvious & Geoshred
