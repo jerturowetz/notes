@@ -2,6 +2,7 @@
 
 - Check to see if my dremel has a cutoff wheel
 - Make some [Shrimp de Gallo](https://www.delish.com/cooking/recipe-ideas/a21271867/shrimpo-de-gallo-recipe/)
+- Ruby Tracks
 - Call: Nancy
 - Email Ben Miller re drupal
 - SJ Tracks
@@ -13,6 +14,7 @@
 - AA Roaul notes
 - Get guitar case from Rachel
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
+- Cancel Spotify
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
@@ -34,11 +36,10 @@
 ## Outstanding Bills
 
 - $400 communauto (not including membership fee)
-- $60 Pick up knives
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $??? ish Kate furniture & vacation
+- $500 ish Kate furniture & vacation
 - $125 Mickey
-- $??? Madi Tech
+- $??? Madi Tech Aarons computer
 - $200 Agg, Andrew, Joe gifts
 
 ## Psych help
