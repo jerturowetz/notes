@@ -31,6 +31,20 @@
 
 baskets for freezer (bananas & puck bags & chicken bits)
 
+garlic
+chilli powder
+shrimp (2lb)
+cilantro
+jalapeno (4)
+avocado
+lime
+greek yogurt
+cucumber
+pita
+
+
+
+
 ## Asian Grocery
 
 - Udon
@@ -41,7 +55,6 @@ baskets for freezer (bananas & puck bags & chicken bits)
 
 lasagna ingredients
 stuff for pico do gaiilo
-stuff for other recettes
 buddah bowl
 
 - greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
