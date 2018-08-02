@@ -1,23 +1,49 @@
 # Jer's grocery list
 
+- meats to freeze (burgers, chk)
+- sliced cheese
+- block cheese
+- onions
+- bread/english muff
+- butter
+- vinegar
+- pasta noodles/gnocci
+- coarse salt, fine salt
+- freezies
+- tomatoe sauce
+- oil (not veg)
+- honey
+- coffee
+- coffee filters
+- perrier
+- oj
+- ziplok sandwich bags
+- paper products (kleenex, tp, paper towels)
+- toilet bowl cleaner
+- recycle bags
+- swiffer dusters
+- swiffer wet mop things
+- compost baggs
+- clorox
 - parchment paper
-- cheerios/shreddies
 - all-bran flakes
 - baking soda
-- fine table salt
-- meat
+
+baskets for freezer (bananas & puck bags & chicken bits)
 
 ## Asian Grocery
 
-- sticky rice
 - Udon
 - Dumplings
 - sesame oil
 
 ## Recipies to try
 
+lasagna ingredients
+stuff for pico do gaiilo
+stuff for other recettes
+buddah bowl
+
 - greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
-- haddock, mint, sun dried tomatoe
-- [succotash](https://www.marthastewart.com/917660/chicken-succotash-avocado-and-farmer-cheese)  
-  2 large tonato, 2 avocado, lima or green beans, 3 ears corn, zuccinni
+- haddock, mint, sun dried tomatoe in oil
 - Spatch cocke chicken on parchment paper, rubbed with butter and cooked with patates and brussel sprouts
