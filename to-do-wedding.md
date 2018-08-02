@@ -1,5 +1,7 @@
 # Let's get married
 
+For wheelchair access the door on the ground floor is 35 inches wide
+
 hey fat boy
 
 eloi find space for photos in case of rain
