@@ -2,10 +2,14 @@
 
 - freezies
 - baking soda
-- limes
 - #2 coffee filters
 - Eggs
 - OJ
+
+## Health food store
+
+- Grape seed oil
+- sunflower oil
 
 ## Italian grocery
 
@@ -15,7 +19,6 @@
 
 - Udon
 - Dumplings
-- sesame oil
 
 ## Recipies to try
 

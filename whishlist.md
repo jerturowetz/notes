@@ -92,7 +92,7 @@
 
 ## Music gear
 
-- $100 Naiant inline attenuators
+- $100 Naiant inline attenuators x4
 - $450 Radial Key Largo (for Travis main)
 - $75 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
@@ -100,16 +100,15 @@
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- Granelli labs 57 or Wilkinson audio adaptor
+- Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
 - Other DIs (Radial J48 x2, JDI Stereo, JDI, JISO)
 - IEC-6X4 (short power cords)
-- Wilkinson Audio SM57 head caps
 - Powered monitor (like a yamaha dxr10)
 - More Acoustic pannels
-- $600 Gator G-TOUR-GRC-1406 & 2RU Rack Drawer for headphones
 - Rug
 - Floor fan
+- Quicklock keyboard stand
 
 ### Crashes to try
 
