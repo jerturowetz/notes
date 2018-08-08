@@ -50,3 +50,6 @@ Some web servers are strict. Setting your wp-config.php to 660 might stop your w
 
     // Delete spam comments
     DELETE from wp_comments WHERE comment_approved = '0'
+
+    // Delete old WPML strings
+    DELETE FROM `wp_icl_strings` WHERE status = 0
