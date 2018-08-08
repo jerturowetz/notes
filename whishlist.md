@@ -72,6 +72,9 @@
 
 ## Workshop & soldering station
 
+- TRSM to TRSM 3' x4
+- XLRF to TRSM 3' x4
+- XLRM to TRSM 3' x4
 - Plugs NC3FX x10, NC3MX x10, NP3C x20
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - Artists tape
