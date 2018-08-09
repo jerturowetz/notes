@@ -28,13 +28,10 @@
 
 - $10 Oceanhorn
 - $7 Legend of Grimrock
-- $5 Doom & Destiny Advanced
-- $10 Severed
-- $6 Superbrothers: Sword & Sworcery
 
 ## Outstanding Bills
 
-- $400 communauto (not including membership fee)
+- $80 (430-350) communauto (not including membership fee)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $500 ish Kate furniture & vacation
 - $125 Mickey

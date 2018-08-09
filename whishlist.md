@@ -1,38 +1,10 @@
 # Wishlist
 
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- Earphone wrap thingy
 - [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove
 - Sneakers
 - Shorts
-- freezer organizers (basket for bananas, storage for frozen pucks, tomato sauce, shelf organizers)
-
-## Summer shoes
-
-*Note:* XTRATUF 9.5 is probably my size (9 is a bit tight, 10 is a bit loose)
-
-- $65 XTRATUF Sharkbyte Airmesh Deck Shoe
-- $80 XTRATUF Men's Riptide Water Shoe
-
-## Winter boots
-
-- $200 Vasque Snowburban Ultradry (OGL #1)
-- $200 Merell Men's Turku Trek Waterproof
-- $250 Merell Men's Epiction Polar Waterproof (boulder)
-- $300 Lowa Men's Oslo GTX
-
-## Winter Rain Boots
-
-- $200 Bogs Classic Ultra High
-- $150 The Original Muck Boot Company Arctic Sport
-
-## Rain/boating boots
-
-- $150 Xtratuf Legacy Insulated 15 in. Boot (Chocolate-Tan)
-- $100 XtraTuf 12 In. Deck Boot (Navy-red)
-- $80 XtraTuf 6 In. Ankle Boot (Gray-yellow) or Kryptek Ankle Deck Boot (Yeti White)
-- $125 LaCrosse Hampton
+- Earphone wrap thingy
 
 ## Kate stuff
 
@@ -72,6 +44,7 @@
 
 ## Workshop & soldering station
 
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - TRSM to TRSM 3' x4
 - XLRF to TRSM 3' x4
 - XLRM to TRSM 3' x4
@@ -97,7 +70,7 @@
 
 - $100 Naiant inline attenuators x4
 - $450 Radial Key Largo (for Travis main)
-- $75 StageBug SB-2 (for Travis access)
+- $100 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2

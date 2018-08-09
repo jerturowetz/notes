@@ -1,5 +1,34 @@
 # Let's get married
 
+## Audio Setup
+
+- Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
+- Mixer AUX >> Speakers outdoor (adaptors & cables)
+- Adjust rental:
+  - Wireless Microphone
+  - Massive amount of XLR cables
+- Purchase:
+  - $75 Stagebug SB-1 (Active Acoustic DI)
+  - $105 Radial StageBug SB-5 (Lptop DI)
+- Restring Guitar & change battery
+- Get back speakers from Yamin
+- Get speakers from Steve
+- Pick up rental
+
+### My gear to prep
+
+- Acoustic, case, capo, patches (2+)
+- Guitar stand
+- Ext cords
+- 25' XLR x4
+- SM58 & mic stand x2
+- Matt or Aaron's Tuner
+- Small mixer & power
+
+--
+
+## Review Below
+
 For wheelchair access the door on the ground floor is 35 inches wide
 
 hey fat boy
