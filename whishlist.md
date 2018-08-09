@@ -44,30 +44,17 @@
 
 ## Workshop & soldering station
 
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- TRSM to TRSM 3' x4
-- XLRF to TRSM 3' x4
-- XLRM to TRSM 3' x4
-- Plugs NC3FX x10, NC3MX x10, NP3C x20
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- Artists tape
-- Cheap paint brushes for cleaning boards
-- Mixwizard Power button replace
-- panavise 300 standard base
-- panavise 312 parts tray
-- screwdriver sets (torx, square, whatever)
-- Peg Board Bins, Tape Measure Holder, wire baskets
 - scratch awl
-- 1/8" by 3/8" rivets & rivet gun
-- ideal aqua gel II cable pulling lube
-- good bit set
-- work knife
 - shop towels or cloths
 - tiny metal ruler (electricians ruler)
-- lube for metal drill bits
 
 ## Music gear
 
+- 200' yellow, 140' green cable
+- 8 chnl TRS snake
+- 4+RU rack case w/power
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - $100 Naiant inline attenuators x4
 - $450 Radial Key Largo (for Travis main)
 - $100 StageBug SB-2 (for Travis access)
@@ -78,13 +65,10 @@
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
-- Other DIs (Radial J48 x2, JDI Stereo, JDI, JISO)
 - IEC-6X4 (short power cords)
 - Powered monitor (like a yamaha dxr10)
-- More Acoustic pannels
 - Rug
 - Floor fan
-- Quicklock keyboard stand
 
 ### Crashes to try
 
