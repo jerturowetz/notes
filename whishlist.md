@@ -44,6 +44,15 @@
 
 ## Workshop & soldering station
 
+- mini mini Qtips/cotton pipe cleaners
+- little paint brushes
+- Deoxit or MG Chemicals Electrosolve Contact Cleaner
+- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
+- KIMWIPES Delicate Task Wipers
+- Solder sucker
+- Weller Tips for PES51
+- HTXP (Hand tool for tightening the bushing of the XLR XX series)
+- Bench Vise
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - scratch awl
 - shop towels or cloths
