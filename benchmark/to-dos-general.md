@@ -1,5 +1,9 @@
 # To-Do: Benchmark
 
+## Resources
+
+- [juwai STyle guides](https://github.com/juwai/style-guide)
+
 Marketing: "universal human truths" (desire to acheieve, to find a partner, to nurture a child)
 
 ## Build ideas
