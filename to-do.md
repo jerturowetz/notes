@@ -23,6 +23,9 @@
 - [The Road](https://www.youtube.com/watch?v=94KcI0gLq1A)
 - [Cold in July](https://www.youtube.com/watch?v=XkyuV69YZcM)
 - [Wiener-Dog](https://www.youtube.com/watch?v=27ccGS9A5lo)
+- the hippopotamus
+- king of devils island
+- Beautiful Girls
 
 ## iPhone/iPad Games
 
