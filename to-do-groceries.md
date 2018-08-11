@@ -5,6 +5,7 @@
 - Ketchup
 - Jam
 - Mayo
+- Syrop
 - All bran flakes
 - Eggs
 - Apple
