@@ -28,6 +28,10 @@
 
 - $10 Oceanhorn
 - $7 Legend of Grimrock
+- hollow knight
+- sword and aorcery
+- planescape
+- golden aon
 
 ## Outstanding Bills
 
