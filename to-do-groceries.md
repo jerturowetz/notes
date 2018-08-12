@@ -12,6 +12,7 @@
 - Sandwich Meat
 - Bread
 - Meats/Fish
+- bananas
 - Root Veg?
 
 ## Health food store
