@@ -8,11 +8,9 @@
 - Syrop
 - All bran flakes
 - Eggs
-- Apple
 - Sandwich Meat
 - Bread
 - Meats/Fish
-- bananas
 - Root Veg?
 
 ## Health food store
