@@ -63,6 +63,7 @@
 
 ### Path
 
+- [Wordpress SEO etc](https://www.youtube.com/watch?v=Zhe_WfQ6UaA&index=8&list=WL&t=2s)
 - [VS code tricks](https://www.youtube.com/watch?v=x5GzCohd4eo&t=0s&list=WL&index=8)
 - [Shell scripting with WPCLI](https://www.youtube.com/watch?v=-jAojFcSpB8&index=20&t=33s&list=WL)
 - [Docker wordpress](https://www.youtube.com/watch?v=XyFJx9APCHk&index=21&t=25s&list=WL)
