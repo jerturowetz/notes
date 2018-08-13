@@ -2,10 +2,12 @@
 
 go through my personal albums and see if anything sticks out (kos?)
 
-montrll jordan 
-space jam soundtrack 
-
 ## Acoustic Requests
+
+(YAMIN) John Montgomery & All for One - I Swear
+(ROB) Bryan Adams - Heaven
+(MATT) Whitesnake - Is This Love
+(STEVE) Mr. Mister - Broken Wings
 
 ## Themes
 
@@ -383,6 +385,8 @@ shaggy
 shake that thingp
 The Beatles - Help - with lyrics - YouTube
 James Taylor - Handy Man
+montrll jordan
+space jam soundtrack
 James Taylor - You've Got A Friend
 B*Witched - C'est la vie
 Will Smith - Gettin' Jiggy Wit It
@@ -406,6 +410,10 @@ all i ever wanted
 Missy eliot
 Hall&Oates
 Jew songs
+Faded SOul Decision
+Oops there goes my
+Move yo Body
+Who let the dogs out
 fatboy slim
 Fleetwood Mac
 Pump up the jam
