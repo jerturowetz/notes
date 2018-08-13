@@ -1,10 +1,17 @@
 # Jer's grocery list
 
-- freezies
+- Freezies
 - baking soda
-- #2 coffee filters
+- Ketchup
+- Jam
+- Mayo
+- Syrop
+- All bran flakes
 - Eggs
-- OJ
+- Sandwich Meat
+- Bread
+- Meats/Fish
+- Root Veg?
 
 ## Health food store
 
