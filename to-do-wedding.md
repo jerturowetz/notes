@@ -1,5 +1,16 @@
 # Let's get married
 
+## Follow up with guests
+
+Check for addresses I need
+
+Get confirmations from:
+
+- Joe & Pina
+- Aaron & Kaitlin
+- Hart & Sury
+- Jon Gabizon
+
 ## Audio Setup
 
 - Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
