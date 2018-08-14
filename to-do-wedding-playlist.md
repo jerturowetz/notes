@@ -332,6 +332,7 @@ go through my personal albums and see if anything sticks out (kos?)
 
 ## To sort
 
+Sofi Tukkers
 Michael Jackson
 Beyoncé
 The Beatles
