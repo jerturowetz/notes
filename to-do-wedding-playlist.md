@@ -864,3 +864,328 @@ Whitesnake - Is this love
 Whitney Huston - I wanna dfance with somebody
 Will Smith - Gettin' Jiggy Wit It
 Yes - Owner of a lonely hearts
+10cc - The Things We Do For Love
+50 Cent - 21 Questions
+50 Cent - Candy Shop
+50 Cent - In Da Club
+54-40 - Casual Viewin'
+A Tribe Called Quest - Can I Kick It
+A.K.S.W.I.F.T. - In the Game
+A1 - Be The First To Believe
+A1 - Summertime Of Our Lives
+Aaliyah - Back & Forth
+Aaliyah - More Than A Woman
+Aaliyah - Rock the Boat
+Abba - Dancing Queen
+Abba - I Do I Do I Do I Do I Do
+ABBA - Voulez Vous
+Ace - How Long
+Ace Of Base - All That She Wants
+Akon - Don't matter
+Akon - I wanna fuck you (feat. Snoop dogg)
+Akon - Right Now (Na Na Na)
+Akon - Smack that (feat. Eminem)
+Al Green - Let's Stay Together
+Al Green - Sha-La-La (Make Me Happy)
+Al Green - Tired Of Being Alone
+Al Wilson - Show And Tell
+Alexander O'Neal - Criticize
+Alice Cooper - School's Out
+Alicia Bridges - I Love the Nightlife (Disco 'Round)
+Alicia Keys - Fallin'
+Alicia Keys - If I Ain't Got You
+Alicia Keys - No One
+Alison Limerick - Make It On My Own
+Alphaville - Big In Japan
+Amadin - U Make Me Feel Alright(Radio Edit)
+Amber - Hold My Body Tight
+America - A Horse with No Name
+America - Sister Golden Hair
+Amerie - 1 Thing
+Amy McDonald - This is the life
+Amy Winehouse - Back To Black
+Amy Winehouse - Rehab
+Anastacia - I'm Outta Love
+Andy Fairweather Low - Wide Eyed And Legless
+Angie Stone - Wish I Didn't Miss You
+Anita Ward - Ring My Bell
+Anne-Marie - Ciao Adios
+Ant & Dec - Better Watch Out
+Apollo 440 - Stop The Rock
+Arcade Fire - No Cars Go
+Arcade Fire - Rebellion (Lies)
+Arctic Monkeys - Cornerstone
+Arctic Monkeys - I Bet You Look Good On The Dancefloor
+Arkells - Oh The Boss Is Coming
+Arrested Development - Mr Wendal
+Ashlee Simpson - Pieces Of Me
+Atlanta Rhythm Section - So In To You
+Audio Cult - Higher(Radio Mix)
+Average White Band - Pick Up The Pieces
+B2K - Bump, Bump, Bump (B2K and P. Diddy) (Album Version)
+B2K - Girlfriend
+Bachman Turner Overdrive - You Ain't Seen Nothing Yet
+Back to Nature - Come Back to Me
+Backstreet Boys - All I Have To Give
+Backstreet Boys - Everybody (Backstreet's Back)
+Backstreet Boys - Get Down (You're The One For Me)
+Backstreet Boys - I Want It That Way
+Backstreet Boys - Quit Playing Games (With My Heart)
+Backstreet Boys - Shape Of My Heart
+Backstreet Boys - Show Me The Meaning Of Being Lonely
+Bad Company - Can't Get Enough
+Bad Company - Feel Like Makin' Love
+Bad Manners - Lip Up Fatty
+Baha Men - Who Let The Dogs Out
+Barenaked Ladies - Falling For The First Time
+Barenaked Ladies - Pinch Me
+Barenaked Ladies - Too Little Too Late
+Barry White - You See The Trouble With Me
+Basic Element - Touch(Extended version)
+Beastie Boys feat. NAS - Too Many Rappers
+Bee Gees - Jive Talkin'
+Bee Gees - Night Fever
+Belinda Carlisle - Big Scary Animal
+Belinda Carlisle - Summer Rain
+Bellamy Brothers - Let Your Love Flow
+Belly - Pressure
+Ben Folds Five - Battle Of Who Could Care Less
+Betty Who - Human Touch
+Beyonce - Baby Boy (ft. Sean Paul)
+Beyonce - Crazy In Love (ft. Jay-Z)
+Beyonce - Halo
+Beyonce - Run the World (Girls)
+Beyoncé - Single Ladies (Put a Ring on It)
+Big and Rich - Save a Horse (Ride a Cowboy)
+Bill Medley & Jennifer Warnes - (I've Had) The Time of My Life
+Bill Withers - Ain't No Sunshine
+Bill Withers - Lean On Me
+Billy Swan - I Can Help
+Black Crowes - I Ain't Hiding
+Black Eyed Peas - My Humps
+Blackstreet feat. Dr. Dre & Queen Pen - No Diggity
+Blondie - Atomic
+Blondie - Heart of Glass
+Blu Cantrell Feat. Sean Paul - Breathe
+Blue Bitch - Body Heat
+Blue October - Into The Ocean
+Blue Rodeo - All The Things That Are Left Behind
+Bob Sinclar; Cutee B - Rock This Party (Everybody Dance Now) (Remix 2007)
+Bon Jovi - It's My Life
+Boney M - Rivers Of Babylon
+Boney M - Sunny
+Boney M. - Barbra Streisand (The Most Wanted Woman)
+Bonnie Tyler - It's A Heartache
+Boys II Men - Pass You By
+Brad Paisley - Mud on the Tires
+Brandy feat. Ma$e - Top of the World
+Bright Eyes - Lua
+Britney Spears - 3
+Britney Spears - Gimme More
+Britney Spears - I'm a Slave 4 U
+Britney Spears - Oops!...I Did It Again
+Britney Spears - Radar
+Britney Spears - Toxic
+Britney Spears - Womanizer
+Broken Social Scene - Cause = Time
+Bronski Beat - I Feel Love,johnny Remember Me
+Bronski Beat - Smalltown Boy
+Brownsville Station - Smokin' In The Boys' Room
+Bruce Springsteen - My City Of Ruins
+Bruno Mars - Marry You
+Bryan Ferry - Let's Stick Together
+Buddy & Julie Miller - One Part, Two Part
+Buddy And Julie Miller - Holding Up The Sky
+Buddy And Julie Miller - The River's Gonna Run
+Built to Spill - Wherever You Go
+C+c Music Factory - Gonna Make You Sweat (Everybody Dance Now)
+C+c Music Factory - Things That Make You Go Hmmm
+Cameo - Word Up
+Captain Hollywood - More And More(Single Version)
+Carl Douglas - Kung Fu Fighting
+Cat Stevens - Ready
+Cat Stevens - The Hurt
+CB Milton - A Real Love
+CB Milton; Cb Milton - It's A Loving Thing; It's a Loving Thing
+Cheap Trick - I Want You to Want Me
+Cher - Believe
+Cher - If I Could Turn Back Time
+Chic - Good Times
+Chic - Le Freak
+Chic Desire - Say Say Say I'm Your Number 1
+Chris Brown feat. T-Pain - Kiss Kiss
+Christina Aguilera - Beautiful
+Christina Aguilera - Come On Over Baby (All I Want Is You)
+Christina Aguilera; Lil' Kim; Mýa; P!nk - Lady Marmalade (From 'Moulin Rouge' Soundtrack)
+Ciara - Goodies
+Ciara - One, Two Step
+Ciara Feat. Justin Timberlake - Love Sex Magic
+Cold War Kids - Hang Me Up To Dry
+Commodores - Three Times A Lady
+Craig David - 7 Days
+Craig Mclachlan - Mona
+Crash Test Dummies - Mmm Mmm Mmm Mmm
+Crazy Town - Butterfly
+Creedence Clearwater Revival - Have You Ever Seen The Rain
+Creedence Clearwater Revival - Up Around the Bend
+Crystal Gayle - Don't It Make My Brown Eyes Blue
+Culture Beat - Mr Vain
+Curiosity - Hang On In There Baby
+Curtis Mayfield - Superfly
+Curtis Stigers - I Wonder Why
+Cypress Hill - I Ain't Goin' Out Like That
+Cypress Hill - Insane In The Brain
+Daft Punk - One More Time
+Daryl Hall & John Oates - I Can't Go for That (No Can Do)
+Daryl Hall And John Oates - Rich Girl
+David Guetta; Akon - Sexy Bitch (feat. Akon) (Featuring Akon;explicit)
+Dead Or Alive - You Spin Me Round (Like A Record)
+Death Can for Cutie - Soul Meets Body
+Del Shannon - Runaway
+Destiny's Child - Bootylicious
+Destiny's Child - Survivor
+Dexy's Midnight Runners - Come On Eileen
+Diana Ross - I'm Coming Out
+Dido - Here With Me
+Dido - Thank You (Album Version)
+Dionne Warwick And The Spinners - Then Came You
+Dixie Chicks - Landslide
+Donna Summer - Bad Girls
+Donna Summer - Love To Love You Baby
+Dr. Hook - When You're In Love With A Beautiful Woman
+Dr. John - Right Place, Wrong Time
+Duran Duran - The Reflex
+E17 - Betcha Can't Wait
+Earth Wind & Fire - Let's Groove
+Edwin Starr - War
+Eels - Hey Man
+Electric Light Orchestra - Don't Bring Me Down
+Eltion John & Kiki Dee - Don't Go Breaking My Heart
+Elton John - Bennie And The Jets
+Elton John - Crocodile Rock
+Elton John - Rocket Man
+Elton John - The Bitch Is Back
+Elton John - Your Song
+Elvis Presley vs. JXL - A Little Less Conversation (JXL Radio Edit Remix)
+Eminem - Lose Yourself (Soundtrack Version)
+Eminem - The Real Slim Shady
+Eminem - Without Me
+Enrique Iglesias - Bailando (Feat. Descemer Bueno
+Enrique Iglesias - Hero
+Eric Carmen - All By Myself
+Eric Clapton - After Midnight
+Eric Clapton - I Shot The Sheriff
+Eric Clapton - Lay Down Sally
+Eric Clapton - Let It Rain
+Erma Franklin - Piece Of My Heart
+Estelle; Kanye West - American Boy (feat. Kanye West)
+Eve - Let Me Blow Ya Mind (Album Version Explicit)
+Fergie - Clumsy
+Fifth Harmony Feat. Kid Ink - Worth It
+Fine Young Cannibals - She Drives Me Crazy
+Finley Quaye - Sunday Shining
+Five - Everybody Get Up
+Fleetwood Mac - Dreams
+Fleetwood Mac - Say You Love Me
+Foreigner - Cold As Ice
+Foreigner - Hot Blooded
+Frankie Goes To Hollywood - Relax
+Free - All Right Now
+Free - My Brother Jake
+Fugees - Fu-Gee-La
+Gary Wright - Dream Weaver
+Gladys Knight & The Pips - Midnight Train to Georgia
+Gloria Gaynor - I Will Survive
+Gnarls Barkley - Crazy
+Gorillaz - Feel Good Inc
+Grand Funk - Some Kind Of Wonderful
+Grand Funk - The Loco-Motion
+Gwen Stefani - Hollaback Girl
+Gwen Stefani - Rich Girl
+Gwen Stefani - What You Waiting For
+Gwen Stefani; Akon - The Sweet Escape
+Haddaway - What Is Love
+Hall & Oates - Sara Smile
+Hot Chocolate - You Sexy Thing
+Hues Corporation - Rock The Boat
+Ike And Tina Turner - Proud Mary
+Ini Kamoze - Here Comes the Hotstepper
+J.D. Souther - You're Only Lonely
+Jack McManus - Bang on the Piano
+Jackson 5 - ABC
+Jackson 5 - I Want You Back
+James Brown - Get Up I Feel Like Being A Sex Machine
+James Brown - Living in American
+Jamiroquai - Alright
+Janet Jackson - All for you
+Janet Jackson - Feedback
+Jason Donovan - Happy Together
+Jax Jones, Raye - You Don't Know Me - Radio Edit
+Jay - Z - Bonnie & Clyde (feat. Beyonce)
+Jay - Z - Dirt Off Your Shoulder
+Jay - Z - Empire State Of Mind (Featuring Alicia Keys)
+Jay - Z - Girls, Girls, Girls
+Jay - Z - Izzo (H.O.V.A.)
+Jay - Z - Run This Town (Featuring Rihanna & Kanye West)
+Jay - Z - Show Me What You Got
+No Doubt
+Outkast - Hey Ya!
+Pink
+Pitbull - Hotel Room Service
+Peter Bjorn and John - Young Folks
+Phats & Small - Feel Good
+Pink - Get The Party Started
+Pink - So What
+Jennifer Lopez - Jenny from the Block (Track Masters Remix)
+Jennifer Lopez - Love Don't Cost A Thing
+Jennifer Lopez - Waiting For Tonight
+Jennifer Lopez; Jadakiss and Styles P; Jadakiss; Styles P. - Jenny from the Block (Track Masters Remix)
+Jessica Simpson - These Boots Are Made For Walkin'
+Jessie J, Ariana Grande & Nicki Minaj - Bang Bang
+Jet - Are You Gonna Be My Girl
+Jet - Cold Hard Bitch
+Jimmy Cliff - I Can See Clearly Now
+Jimmy Cliff - The Harder They Come
+Joan Armatrading - Show Some Emotion
+John Sebastian - Welcome Back
+Johnny Nash - I Can See Clearly Now
+Joni Mitchell - Help Me
+Justice - D.A.N.C.E
+Justin Timberlake - Cry Me A River
+Justin Timberlake - Like I Love You
+Justin Timberlake - My Love
+Justin Timberlake - Rock Your Body
+Justin Timberlake - Sexyback
+Justin Timberlake - What Goes Around...,...Comes Around Interlude
+Kansas - Dust in the Wind
+Kanye West - All Falls Down
+Kanye West - Gold Digger (Album Version Explicit)
+Kanye West - Good Life feat. T-Pain
+Kanye West - Heartless
+Kanye West - Stronger
+Katrina & the Waves - Walking on Sunshine
+Katy Perry - I Kissed A Girl
+KC & The Sunshine Band - Give It Up
+KC & The Sunshine Band - That's The Way (I Like It)
+Ke$ha - Die Young
+Ke$ha - TiK ToK
+Kelis - Milkshake
+Kelis - Trick Me
+Kelly Clarkson - Since U Been Gone
+Kenny Rogers - The Gambler
+Killers - Jenny Was a Friend of Mine
+Killers - Mr. Brightside
+Kings of Leon - Sex on Fire
+Kings of Leon - Use Somebody
+Kygo, Conrad Sewell - Firestone - Radio Edit
+Kylie Minogue - Can't Get You Out of My Head
+Labelle - Lady Marmalade
+Lady GaGa - Bad Romance
+Lady Gaga - Just Dance (feat. Colby O'Donis)
+Lady Gaga - Paparazzi
+Lady GaGa - Poker Face
+LCD Soundsytem - Daft Punk Is Playing at My House
+Len - Steal My Sunshine
+Level 42 - Guaranteed
+Lil Wayne - Lollipop
+Lou Bega - Mambo No. 5 (A Little Bit Of...)
