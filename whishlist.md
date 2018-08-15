@@ -1,10 +1,10 @@
 # Wishlist
 
-- [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - Gear to patch hole behind stove
 - Sneakers
-- Shorts
 - Earphone wrap thingy
+- $100 [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
+- $20ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
 
 ## Kate stuff
 
@@ -60,7 +60,6 @@
 
 ## Music gear
 
-- 200' yellow, 140' green cable
 - 8 chnl TRS snake
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
