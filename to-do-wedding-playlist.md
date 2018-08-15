@@ -376,6 +376,8 @@ The B-52s
 Bruce Springsteen
 Kesha
 Carly Rae Jepsen
+Linda Ronstadt - Blue Bayou
+
 Elton John
 Miley Cyrus
 Missy Elliott
@@ -401,34 +403,87 @@ Mase
 Puff daddy
 Snoop
 Orinbce
+Linda Ronstadt - Ooh Baby Baby
 John Legend
+Nelly - Country Grammar
+Nelly - Hot In Herre
+Nelly - Hot In Herre
+Nelly Furtado - Maneater
 bruno mars
+Nelly Furtado - Promiscuous
 tina turner
+Linda Ronstadt - That'll Be The Day
 inxs
 white stripes
+Natalie Merchant - Build a Levee
+Nelly furtatdo & swollen members
+Natasha Bedingfield - Unwritten
 John Mellencamp
 all i ever wanted
+Nena - 99 Red Balloons
+New Kids On The Block - Step By Step
+Midlake - Roscoe
+MIKA - Relax (Take It Easy)
 Missy eliot
 Hall&Oates
+Ne-Yo - So Sick
 Jew songs
 Faded SOul Decision
+Nick Gilder - Hot Child in the City
+Mase , Kool & The Gang - Feel So Good
 Oops there goes my
+'n Sync - I Want You Back
+'n Sync
+Missy Elliott - Work it
 Move yo Body
+MN8 - I've Got A Little Something For You
+Michael Jackson
 Who let the dogs out
+Mike Posner - Cooler Than Me
+Modest Mouse - Float On
+Linda Ronstadt - You're No Good
+Living Color
+Justice
+Michael Bolton - When A Man Loves A Woman
+MGMT - Time to Pretend
+MGMT - Electric Feel
+MGMT - Kids
+Maxwell
+Metric
+Metro Station - Shake It
+Londonbeat 
 fatboy slim
+MC Hammer
+McGuinness Flint - When I'm Dead And Gone
+Mary J. Blige - Family Affair
 Fleetwood Mac
 Pump up the jam
 Freak out
 FuuGees
+Marvin Gaye - Got To Give It Up
 godon lightfoot
 goo goo dools
+Macarena
+Martin Jensen - Solo Dance
+Martin Solveig; Dragonette - Hello
+Luther Vandross
+M.I.A - Paper planes
 Wyclef
+Marvin Gaye Sexual Healing
+Martika - More Than You Know
+Madonna - 4 minutes
+Madonna - Hung Up
+Madonna - La Isla Bonita
+Madonna - Music
+Manfred Mann's Earth Band - Blinded By The Light
 Gipsy Kings
 Miami sound machine
 melissa ethridge
 Gloria estefan
 Four tops
 gargstas delight
+Mariah Carey
+Magic! - Rude
 Yamin, Matt, Rob, Steve
 Duran Duran
 A Ha
