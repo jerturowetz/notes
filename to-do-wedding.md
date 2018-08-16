@@ -1,14 +1,16 @@
 # Let's get married
 
+Room dimensions are 30' (smaller) x ???
+Door is 7' wide
+Door extends out from wall 4'5"
+
 ## Follow up with guests
 
-Check for addresses I need
+Review and get guest addresses where possible
 
 Get confirmations from:
 
-- Joe & Pina
 - Aaron & Kaitlin
-- Hart & Sury
 - Jon Gabizon
 
 ## Audio Setup
@@ -18,9 +20,8 @@ Get confirmations from:
 - Adjust rental:
   - Wireless Microphone
   - Massive amount of XLR cables
-- Purchase:
-  - $75 Stagebug SB-1 (Active Acoustic DI)
-  - $105 Radial StageBug SB-5 (Lptop DI)
+  - well need about 150' per XLR line to get outside (400' total should be good)
+
 - Restring Guitar & change battery
 - Get back speakers from Yamin
 - Get speakers from Steve
@@ -35,6 +36,8 @@ Get confirmations from:
 - SM58 & mic stand x2
 - Matt or Aaron's Tuner
 - Small mixer & power
+- $75 Stagebug SB-1 (Acoustic)
+- $105 Radial StageBug SB-5 (Laptop)
 
 --
 

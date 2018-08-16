@@ -4,7 +4,7 @@
 - Sneakers
 - Earphone wrap thingy
 - $100 [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
-- $20ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
+- $20 ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
 
 ## Kate stuff
 
@@ -77,6 +77,7 @@
 - Powered monitor (like a yamaha dxr10)
 - Rug
 - Floor fan
+- Tuner
 
 ### Crashes to try
 

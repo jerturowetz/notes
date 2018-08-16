@@ -971,6 +971,8 @@ Nils Lofgren - No Mercy
 Nilsson - Without You
 No Mercy - Where Do You Go
 Norman Greenbaum - Spirit In the Sky
+Sister Act
+Sister Act 2
 Orleans - Dance With Me
 Orleans - Still The One
 The Ting Tings - That's Not My Name
