@@ -11,6 +11,9 @@ go through my personal albums and see if anything sticks out (kos?)
 
 ## Themes
 
+- Barnroom dancefloor
+
+
 - Indie Dance Music mix
 - 80's & 90's cheezy pop (a ha)
 - 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
@@ -924,6 +927,74 @@ Audio Cult - Higher(Radio Mix)
 Average White Band - Pick Up The Pieces
 B2K - Bump, Bump, Bump (B2K and P. Diddy) (Album Version)
 B2K - Girlfriend
+Wu Tang
+Wyclef
+Pussycat Dolls - Beep
+Pussycat Dolls - When I Grow Up
+Rednex - Cotton Eye Joe
+Remy Shand - Take A Message
+Right Said Fred - I'm Too Sexy
+Rihanna - Don't Stop the Music
+Rihanna - Pon De Replay
+Rihanna - SOS
+Rihanna - Umbrella [Feat. Jay-Z]
+Robert Plant and Alison Krauss - Killing the Blues
+Robyn - Cobrastyle
+Royksopp - The Girl And The Robot
+Rozalla - Are You Ready To Fly
+Rozalla - Everybody's Free (To Feel Good)
+Sarah McLachlan - World on Fire
+Scatman John - Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
+Scissor Sisters - I Don't Feel Like Dancing
+Scissor Sisters - Tits on the Radio
+Sergio Mendes ft. The Black Eyed Peas - Mas Que Nada
+Shaggy Feat. Mohombi, Faydee & Costi - I Need Your Love
+Shaggy ft. Ricardo 'RikRok' Ducent - It Wasn't Me
+Shakira ft. Wyclef Jean - Hips Don't Lie
+Sonia - Only Fools (Never Fall In Love)
+Soulja Boy - Crank That (Soulja Boy)
+Streets - Dry Your Eyes
+Strokes - Last Nite
+Swollen Members - Lady Venom
+Taylor Dayne - Can't Get Enough Of Your Love
+The Farm - Don't You Want Me
+The Pasadenas - I'm Doing Fine Now
+The Pasadenas - Love Thing
+The Real McCoy - Another Night
+The Shins - Australia
+The Shins - Phantom Limb
+The Stills - Changes Are No Good
+The Stills - Still In Love Song
+N-Tyce - Telefunkin'
+Nils Lofgren - Goin' Back
+Nils Lofgren - No Mercy
+Nilsson - Without You
+No Mercy - Where Do You Go
+Norman Greenbaum - Spirit In the Sky
+Orleans - Dance With Me
+Orleans - Still The One
+The Ting Tings - That's Not My Name
+The Wannadies - You & Me Song
+Timbaland - Give It To Me
+Timbaland ft. OneRepublic - Apologize
+TLC - Ain't 2 Proud 2 Beg
+TLC - Creep
+Toni Braxton - He Wasn't Man Enough
+TP4Y - Blush
+Usher - Yeah! (feat. Lil Jon & Ludacris)
+Usher - You Make Me Wanna
+Usher Feat. Juicy J - I Don't Mind
+Vampire Weekend - A-Punk
+Veronica Maggio - Mandagsbarn
+Waze & Odyssey & R. Kelly - Bump & Grind 2014
+White Stripes - Blue Orchid
+White Stripes - Seven Nation Army
+Whitney Houston - I'm Every Woman
+Whitney Houston - Million Dollar Bill
+Wilco - Jesus, Etc
+Wilco - War on War
+Wolfmother - Woman
+Worlds Apart - Heaven Must Be Missing An Angel
 Bachman Turner Overdrive - You Ain't Seen Nothing Yet
 Back to Nature - Come Back to Me
 Backstreet Boys - All I Have To Give
@@ -1131,6 +1202,27 @@ Jay - Z - Show Me What You Got
 No Doubt
 Outkast - Hey Ya!
 Pink
+Des'ree
+SHaggy
+Wallflowers
+Counting Crows
+Tiga
+Robbie Williams
+song - Uptown Girl
+U2 - City Of Blinding Lights
+U2 - Beautiful Day
+The Hip
+Tracy Chapoman
+White STripes
+
+Modest Mouse
+TV On The Radio - Wolf Like Me
+Dancing in the moonlight (toploader)
+Something Hamilton?
+Spin Doctors - Two Princes
+Black eyed peas
+Sade - By Your Side
+Santigold - LES Artistes
 Pitbull - Hotel Room Service
 Peter Bjorn and John - Young Folks
 Phats & Small - Feel Good
