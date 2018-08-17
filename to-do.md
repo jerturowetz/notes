@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Check on package cost (ref: 12729EGF9TR, 1-888-520-9090)
 - Check to see if my dremel has a cutoff wheel
 - Ruby Tracks
 - Call: Nancy
@@ -17,21 +18,6 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
-
-## Flicks
-
-- [The Road](https://www.youtube.com/watch?v=94KcI0gLq1A)
-- [Cold in July](https://www.youtube.com/watch?v=XkyuV69YZcM)
-- [Wiener-Dog](https://www.youtube.com/watch?v=27ccGS9A5lo)
-
-## iPhone/iPad Games
-
-- $10 Oceanhorn
-- $7 Legend of Grimrock
-- hollow knight
-- sword and aorcery
-- planescape
-- golden aon
 
 ## Outstanding Bills
 
