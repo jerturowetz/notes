@@ -228,113 +228,109 @@
 - When A Man Loves A Woman
 - Work It
 - You're My Best Friend
-- Kool & The Gang, "Celebration"
-- Edward Sharpe & the Magnetic Zeros, “Home”
-- a-ha, “Take on Me”
-- Wild Cherry, “Play That Funky Music”
-- DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross, “All I Do Is Win”
-- Silento, “Watch Me”
-- Run-D.M.C., “It’s Tricky”
-- Sir Mix-A-Lot, “Baby Got Back”
-- George Strait, “I Cross My Heart”
-- Lynyrd Skynyrd, “Sweet Home Alabama”
-- Pitbull feat. Ne-Yo, Afrojack & Nayer, “Give Me Everything”
-- Brad Paisley, “Then”
-- Mike Posner, “I Took a Pill in Ibiza (SeeB Remix)”
-- Elvis Crespo, “Suavamente”
-- Jason Derulo, “Want to Want Me”
-- Ray LaMontagne, “You Are the Best Thing”
-- The Righteous Brothers, “Unchained Melody”
-- Ben E. King, “Stand by Me”
-- Marvin Gaye, “Let’s Get It On”
-- ABBA, “Dancing Queen”
-- Michael Jackson, “Wanna Be Startin’ Somethin’”
-- Beyonce, “Single Ladies (Put a Ring On It)”
-- Katy Perry, “Firework”
-- Beyonce, “Love on Top”
-- Prince, “I Wanna Be Your Lover”
-- Pitbull feat. John Ryan, “Fireball”
-- Andy Grammer, “Honey I'm Good”
-- Calvin Harris, “Feel So Close”
-- Flo Rida, “My House”
-- Calvin Harris featuring Rihanna, “This Is What You Came For”
-- Christina Perri, “A Thousand Years”
-- OutKast featuring Sleepy Brown, “The Way You Move”
-- Maroon 5, “Sugar”
-- Thomas Rhett, “Die a Happy Man”
-- Nelly, “Hot In Herre”
-- Kenny Loggins, “Footloose”
-- Don Omar featuring Lucenzo, “Danza Kuduro”
-- Justin Bieber, “Sorry”
-- The Temptations, “Ain't Too Proud To Beg”
-- *NSYNC, “Bye Bye Bye”
-- Rihanna featuring Calvin Harris, “We Found Love”
-- Al Green, “Let's Stay Together”
-- Bruno Mars, “Marry You”
-- Daft Punk featuring Pharrell Williams, “Get Lucky”
-- Michael Jackson, “P.Y.T. (Pretty Young Thing)”
-- Etta James, “At Last”
-- Mr. C The Slide Man, “Cha Cha Slide”
-- Garth Brooks, “Friends In Low Places”
-- House of Pain, “Jump Around”
-- Rihanna featuring Drake, “Work”
-- Elvis Presley, “Can't Help Falling In Love”
-- AC/DC, “You Shook Me All Night Long”
-- Drake feat. Kyla & Wizkid, “One Dance”
-- The Temptations, “My Girl”
-- Bon Jovi, “Livin’ On A Prayer”
-- Prince, “Kiss”
-- Justin Timberlake, “SexyBack”
-- Marvin Gaye & Tammi Terrell, “Ain't No Mountain High Enough”
-- Aretha Franklin, “Respect”
-- Pitbull featuring Kesha, “Timber”
-- Van Morrison, “Brown Eyed Girl”
-- The B-52’s, “Love Shack”
-- Icona Pop, “I Love It”
-- Spice Girls, “Wannabe”
-- John Legend, “All Of Me”
-- The Weeknd, “Can’t Feel My Face”
-- Sister Sledge, “We Are Family”
-- DJ Snake & Lil Jon, “Turn Down for What”
-- R. Kelly, “Ignition” (Remix)
-- Flo Rida, “Low”
-- Miley Cyrus, “Party in the U.S.A.”
-- Robin Thicke featuring T.I. & Pharrell, “Blurred Lines”
-- Neil Diamond, “Sweet Caroline”
-- Backstreet Boys, “Everybody (Backstreet’s Back)”
-- The Beatles, "Twist and Shout"
-- Beyonce feat. Jay-Z, "Crazy in Love"
-- Stevie Wonder, "Signed, Sealed, Delivered I'm Yours"
-- Frank Sinatra, "The Way You Look Tonight"
-- Michael Jackson, "Billie Jean"
-- Montell Jordan, "This Is How We Do It"
-- Hall & Oates, "You Make My Dreams"
-- The Black Eyed Peas, "I Gotta Feeling"
-- The Jackson 5, "I Want You Back"
-- The Notorious B.I.G., "Hypnotize"
-- Ed Sheeran, "Thinking Out Loud"
-- Pharrell Williams, "Happy"
-- DNCE, "Cake by the Ocean"
-- V.I.C., "Wobble"
-- OutKast, "Hey Ya!"
-- Cupid, "Cupid Shuffle"
-- The Isley Brothers, “Shout – Part 1”
-- Michael Jackson, "Don't Stop 'Til You Get Enough"
-- Journey, "Don't Stop Believin'"
-- Usher feat. Lil Jon & Ludacris, "Yeah"
-- Earth, Wind & Fire, "September"
-- Whitney Houston, "I Wanna Dance With Somebody (Who Loves Me)"
-- Justin Timberlake, "Can't Stop the Feeling!"
-- Walk the Moon, "Shut Up and Dance"
-- Taylor Swift, "Shake It Off"
-- Mark Ronson feat. Bruno Mars, "Uptown Funk!"
 
 ## To sort
 
-<<<<<<< HEAD
-10cc - The Things We Do For Love
-=======
-Sofi Tukkers
+Kool & The Gang, "Celebration"
+Edward Sharpe & the Magnetic Zeros, “Home”
+a-ha, “Take on Me”
+Wild Cherry, “Play That Funky Music”
+DJ Khaled feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross, “All I Do Is Win”
+Silento, “Watch Me”
+Run-D.M.C., “It’s Tricky”
+Sir Mix-A-Lot, “Baby Got Back”
+George Strait, “I Cross My Heart”
+Lynyrd Skynyrd, “Sweet Home Alabama”
+Pitbull feat. Ne-Yo, Afrojack & Nayer, “Give Me Everything”
+Brad Paisley, “Then”
+Mike Posner, “I Took a Pill in Ibiza (SeeB Remix)”
+Elvis Crespo, “Suavamente”
+Jason Derulo, “Want to Want Me”
+Ray LaMontagne, “You Are the Best Thing”
+The Righteous Brothers, “Unchained Melody”
+Ben E. King, “Stand by Me”
+Marvin Gaye, “Let’s Get It On”
+ABBA, “Dancing Queen”
+Michael Jackson, “Wanna Be Startin’ Somethin’”
+Beyonce, “Single Ladies (Put a Ring On It)”
+Katy Perry, “Firework”
+Beyonce, “Love on Top”
+Prince, “I Wanna Be Your Lover”
+Pitbull feat. John Ryan, “Fireball”
+Andy Grammer, “Honey I'm Good”
+Calvin Harris, “Feel So Close”
+Flo Rida, “My House”
+Calvin Harris featuring Rihanna, “This Is What You Came For”
+Christina Perri, “A Thousand Years”
+OutKast featuring Sleepy Brown, “The Way You Move”
+Maroon 5, “Sugar”
+Thomas Rhett, “Die a Happy Man”
+Nelly, “Hot In Herre”
+Kenny Loggins, “Footloose”
+Don Omar featuring Lucenzo, “Danza Kuduro”
+Justin Bieber, “Sorry”
+The Temptations, “Ain't Too Proud To Beg”
+*NSYNC, “Bye Bye Bye”
+Rihanna featuring Calvin Harris, “We Found Love”
+Al Green, “Let's Stay Together”
+Bruno Mars, “Marry You”
+Daft Punk featuring Pharrell Williams, “Get Lucky”
+Michael Jackson, “P.Y.T. (Pretty Young Thing)”
+Etta James, “At Last”
+Mr. C The Slide Man, “Cha Cha Slide”
+Garth Brooks, “Friends In Low Places”
+House of Pain, “Jump Around”
+Rihanna featuring Drake, “Work”
+Elvis Presley, “Can't Help Falling In Love”
+AC/DC, “You Shook Me All Night Long”
+Drake feat. Kyla & Wizkid, “One Dance”
+The Temptations, “My Girl”
+Bon Jovi, “Livin’ On A Prayer”
+Prince, “Kiss”
+Justin Timberlake, “SexyBack”
+Marvin Gaye & Tammi Terrell, “Ain't No Mountain High Enough”
+Aretha Franklin, “Respect”
+Pitbull featuring Kesha, “Timber”
+Van Morrison, “Brown Eyed Girl”
+The B-52’s, “Love Shack”
+Icona Pop, “I Love It”
+Spice Girls, “Wannabe”
+John Legend, “All Of Me”
+The Weeknd, “Can’t Feel My Face”
+Sister Sledge, “We Are Family”
+DJ Snake & Lil Jon, “Turn Down for What”
+R. Kelly, “Ignition” (Remix)
+Flo Rida, “Low”
+Miley Cyrus, “Party in the U.S.A.”
+Robin Thicke featuring T.I. & Pharrell, “Blurred Lines”
+Neil Diamond, “Sweet Caroline”
+Backstreet Boys, “Everybody (Backstreet’s Back)”
+The Beatles, "Twist and Shout"
+Beyonce feat. Jay-Z, "Crazy in Love"
+Stevie Wonder, "Signed, Sealed, Delivered I'm Yours"
+Frank Sinatra, "The Way You Look Tonight"
+Michael Jackson, "Billie Jean"
+Montell Jordan, "This Is How We Do It"
+Hall & Oates, "You Make My Dreams"
+The Black Eyed Peas, "I Gotta Feeling"
+The Jackson 5, "I Want You Back"
+The Notorious B.I.G., "Hypnotize"
+Ed Sheeran, "Thinking Out Loud"
+Pharrell Williams, "Happy"
+DNCE, "Cake by the Ocean"
+V.I.C., "Wobble"
+OutKast, "Hey Ya!"
+Cupid, "Cupid Shuffle"
+The Isley Brothers, “Shout – Part 1”
+Michael Jackson, "Don't Stop 'Til You Get Enough"
+Journey, "Don't Stop Believin'"
+Usher feat. Lil Jon & Ludacris, "Yeah"
+Earth, Wind & Fire, "September"
+Whitney Houston, "I Wanna Dance With Somebody (Who Loves Me)"
+Justin Timberlake, "Can't Stop the Feeling!"
+Walk the Moon, "Shut Up and Dance"
+Taylor Swift, "Shake It Off"
+Mark Ronson feat. Bruno Mars, "Uptown Funk!"
 Michael Jackson
 Beyoncé
 The Beatles
@@ -638,7 +634,6 @@ welcome to miami
 wildnwild west
 The Cardigans - Lovefool
 sixpence none the richer - kiss me
->>>>>>> c6602a260fa6edaa92bbaf7ba8ee32ddb97f1f6b
 2 live crew
 3 Doors Down - Kryptonite
 50 Cent - 21 Questions
