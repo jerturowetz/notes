@@ -341,9 +341,126 @@ Beyoncé
 The Beatles
 Stevie Wonder
 Outkast
+QUeen
+Pitbull
 Queen
 Rihanna
 Van Morrison
+Ottawan - Hands Up!
+OutKast - Ms. Jackson
+OutKast - Roses
+OutKast - The Way You Move (Club Mix)
+P!nk - Get The Party Started
+P!nk - Raise Your Glass
+Patrick Hernandez - Born To Be Alive
+Patti Smith Group - Because the Night
+Paul Simon - 50 Ways To Leave Your Lover
+Paul Simon - Slip Slidin' Away
+Peaches & Herb - Reunited
+Pharrell Williams - Happy
+Phats & Small - Feel Good
+Pj & Duncan - U Krazy Katz
+PSY - Gangnam Style
+Real Thing - You To Me Are Everything
+Redbone - Come And Get Your Love
+Rick Astley - Never Gonna Give You Up
+Ricky Martin - Livin' La Vida Loca
+Rihanna - Don't Stop The Music
+Rihanna - Pon De Replay
+Rihanna; Jay-Z - Umbrella
+Robert Palmer - Every Kinda People
+Rod Stewart - Do Ya Think I'm Sexy!
+Rod Stewart - Tonight's The Night (Gonna Be Alright)
+Rose Royce - Car Wash
+Rudimental feat. James Arthur - Sun Comes Up
+Sade - No Ordinary Love
+Salt 'N' Pepa - Push It
+Scatman John - Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
+Scatman John - Scatman's World
+Seals & Crofts - Diamond Girl
+Sean Kingston - Beautiful Girls (Album Version)
+Sean Paul - Temperature
+Shabba Ranks - Mr. Loverman
+Shaggy - It Wasn't Me
+Shakira - Hips Don't Lie
+Shakira - Whenever, Wherever
+Shania Twain - Man I Feel Like A Woman
+Shanice - I Love Your Smile
+Shirley & Company - Shame Shame Shame
+Sigala, Ella Eyre - Came Here for Love
+Simple Minds - Don't You (Forget About Me)
+Sister Sledge - We Are Family
+Skee-Lo - I Wish
+Sly And The Family Stone - Family Affair
+Sly and the Family Stone - Thank You (Falletin Me Be Mice Elf Agin)
+Smokie & Chris Norman - Stumblin' In
+Snoop Dogg; Uncle Charlie Wilson; Pharrell - Beautiful (feat. Pharrell, Uncle Charlie Wilson)
+Snow - Informer
+Soft Cell - Tainted Love
+Starley - Call on Me
+Steelers Wheel - Stuck in the Middle with You
+Steely Dan - Peg
+Steely Dan - Rikki Don't Lose That Number
+Stephen Stills - Love The One You're With
+Steve Aoki, Louis Tomlinson - Just Hold On
+Steve Miller - Fly Like An Eagle
+Steve Miller Band - Rock'n Me
+Stories - Brother Louie
+Sugarloaf - Green-Eyed Lady
+Tavares - More Than A Woman
+Taylor Dayne - Tell It to My Heart
+Tears for Fears - Everybody Wants to Rule the World
+The Allman Brothers Band - Ramblin' Man
+The B-52's - Love Shack
+The Bangles - Walk Like an Egyptian
+The Bee Gees - How Deep Is Your Love
+The Bee Gees - Night Fever
+The Bee Gees - Stayin' Alive
+The Bee Gees - Tragedy
+The Black Eyed Peas - I Gotta Feeling
+The Black Eyed Peas - Where Is The Love!
+The Chi-Lites - Oh Girl
+The Communards & Sarah Jane Morris - Don't Leave Me This Way
+The Doobie Brothers - Listen to the Music
+The Doobie Brothers - Long Train Runnin'
+The Doobie Brothers - Takin' It To The Streets
+The Doobie Brothers - What a Fool Believes
+The Four Tops - Ain't No Woman (Like the One I Got)
+The Four Tops - Loco in Acapulco
+The Human League - Don't You Want Me
+The Jackson 5 - ABC
+The Jackson 5 - Never Can Say Goodbye
+The Knack - My Sharona
+The Notorious B.I.G. - Hypnotize
+The O'Jays - Back Stabbers
+The O'Jays - Love Train
+The O'Jays - Use Ta Be My Girl
+The Proclaimers - I'm Gonna Be (500 Miles)
+The Pussycat Dolls; Busta Rhymes - Don't Cha
+The Real Mccoy - Another Night
+The Real Mccoy - Run Away
+The Real Thing - You To Me Are Everything
+The Spinners - Could It Be I'm Falling in Love
+The Spinners - The Rubberband Man
+The Staple Singers - I'll Take You There
+The Strokes - Last Nite
+The Stylistics - You Make Me Feel Brand New
+The Temptations - Just My Imagination (Running Away With Me)
+Third World - Now That We've Found Love
+Three Dog Night - Joy To The World
+Three Dog Night - Mama Told Me (Not To Come)
+Toploader - Dancing in the Moonlight
+Usher - U Remind Me (Album Version)
+Usher - Yeah!
+Van McCoy - The Hustle
+Van Morrison - Domino
+Van Morrison - Wild Night
+Vanilla Ice - Ice Ice Baby
+War - Why Can't We Be Friends!
+Warren G feat. Nate Dogg - Regulate
+Wild Cherry - Play That Funky Music
+Will Smith - Miami
+Yolanda Be Cool & Dcup - We No Speak Americano
 The Jackson 5
 Justin Timberlake
 Whitney Houston
@@ -353,6 +470,8 @@ Pitbull
 Lady Gaga
 Mark Ronson
 Usher
+Pet Shop Boys
+
 Journey
 The Isley Brothers
 Elvis Presley
