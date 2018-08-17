@@ -331,7 +331,314 @@
 
 ## To sort
 
+<<<<<<< HEAD
 10cc - The Things We Do For Love
+=======
+Sofi Tukkers
+Michael Jackson
+Beyoncé
+The Beatles
+Stevie Wonder
+Outkast
+QUeen
+Pitbull
+Queen
+Rihanna
+Van Morrison
+Ottawan - Hands Up!
+OutKast - Ms. Jackson
+OutKast - Roses
+OutKast - The Way You Move (Club Mix)
+P!nk - Get The Party Started
+P!nk - Raise Your Glass
+Patrick Hernandez - Born To Be Alive
+Patti Smith Group - Because the Night
+Paul Simon - 50 Ways To Leave Your Lover
+Paul Simon - Slip Slidin' Away
+Peaches & Herb - Reunited
+Pharrell Williams - Happy
+Phats & Small - Feel Good
+Pj & Duncan - U Krazy Katz
+PSY - Gangnam Style
+Real Thing - You To Me Are Everything
+Redbone - Come And Get Your Love
+Rick Astley - Never Gonna Give You Up
+Ricky Martin - Livin' La Vida Loca
+Rihanna - Don't Stop The Music
+Rihanna - Pon De Replay
+Rihanna; Jay-Z - Umbrella
+Robert Palmer - Every Kinda People
+Rod Stewart - Do Ya Think I'm Sexy!
+Rod Stewart - Tonight's The Night (Gonna Be Alright)
+Rose Royce - Car Wash
+Rudimental feat. James Arthur - Sun Comes Up
+Sade - No Ordinary Love
+Salt 'N' Pepa - Push It
+Scatman John - Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
+Scatman John - Scatman's World
+Seals & Crofts - Diamond Girl
+Sean Kingston - Beautiful Girls (Album Version)
+Sean Paul - Temperature
+Shabba Ranks - Mr. Loverman
+Shaggy - It Wasn't Me
+Shakira - Hips Don't Lie
+Shakira - Whenever, Wherever
+Shania Twain - Man I Feel Like A Woman
+Shanice - I Love Your Smile
+Shirley & Company - Shame Shame Shame
+Sigala, Ella Eyre - Came Here for Love
+Simple Minds - Don't You (Forget About Me)
+Sister Sledge - We Are Family
+Skee-Lo - I Wish
+Sly And The Family Stone - Family Affair
+Sly and the Family Stone - Thank You (Falletin Me Be Mice Elf Agin)
+Smokie & Chris Norman - Stumblin' In
+Snoop Dogg; Uncle Charlie Wilson; Pharrell - Beautiful (feat. Pharrell, Uncle Charlie Wilson)
+Snow - Informer
+Soft Cell - Tainted Love
+Starley - Call on Me
+Steelers Wheel - Stuck in the Middle with You
+Steely Dan - Peg
+Steely Dan - Rikki Don't Lose That Number
+Stephen Stills - Love The One You're With
+Steve Aoki, Louis Tomlinson - Just Hold On
+Steve Miller - Fly Like An Eagle
+Steve Miller Band - Rock'n Me
+Stories - Brother Louie
+Sugarloaf - Green-Eyed Lady
+Tavares - More Than A Woman
+Taylor Dayne - Tell It to My Heart
+Tears for Fears - Everybody Wants to Rule the World
+The Allman Brothers Band - Ramblin' Man
+The B-52's - Love Shack
+The Bangles - Walk Like an Egyptian
+The Bee Gees - How Deep Is Your Love
+The Bee Gees - Night Fever
+The Bee Gees - Stayin' Alive
+The Bee Gees - Tragedy
+The Black Eyed Peas - I Gotta Feeling
+The Black Eyed Peas - Where Is The Love!
+The Chi-Lites - Oh Girl
+The Communards & Sarah Jane Morris - Don't Leave Me This Way
+The Doobie Brothers - Listen to the Music
+The Doobie Brothers - Long Train Runnin'
+The Doobie Brothers - Takin' It To The Streets
+The Doobie Brothers - What a Fool Believes
+The Four Tops - Ain't No Woman (Like the One I Got)
+The Four Tops - Loco in Acapulco
+The Human League - Don't You Want Me
+The Jackson 5 - ABC
+The Jackson 5 - Never Can Say Goodbye
+The Knack - My Sharona
+The Notorious B.I.G. - Hypnotize
+The O'Jays - Back Stabbers
+The O'Jays - Love Train
+The O'Jays - Use Ta Be My Girl
+The Proclaimers - I'm Gonna Be (500 Miles)
+The Pussycat Dolls; Busta Rhymes - Don't Cha
+The Real Mccoy - Another Night
+The Real Mccoy - Run Away
+The Real Thing - You To Me Are Everything
+The Spinners - Could It Be I'm Falling in Love
+The Spinners - The Rubberband Man
+The Staple Singers - I'll Take You There
+The Strokes - Last Nite
+The Stylistics - You Make Me Feel Brand New
+The Temptations - Just My Imagination (Running Away With Me)
+Third World - Now That We've Found Love
+Three Dog Night - Joy To The World
+Three Dog Night - Mama Told Me (Not To Come)
+Toploader - Dancing in the Moonlight
+Usher - U Remind Me (Album Version)
+Usher - Yeah!
+Van McCoy - The Hustle
+Van Morrison - Domino
+Van Morrison - Wild Night
+Vanilla Ice - Ice Ice Baby
+War - Why Can't We Be Friends!
+Warren G feat. Nate Dogg - Regulate
+Wild Cherry - Play That Funky Music
+Will Smith - Miami
+Yolanda Be Cool & Dcup - We No Speak Americano
+The Jackson 5
+Justin Timberlake
+Whitney Houston
+Daft Punk
+Prince
+Pitbull
+Lady Gaga
+Mark Ronson
+Usher
+Pet Shop Boys
+
+Journey
+The Isley Brothers
+Elvis Presley
+Earth, Wind & Fire
+Frank Sinatra
+Kanye West
+The Temptations
+The Rolling Stones
+Daryl Hall & John Oates
+Madonna
+David Bowie
+Jay Z
+Flo Rida
+Taylor Swift
+Walk the Moon
+Katy Perry
+Sam Cooke
+R. Kelly
+Billy Joel
+LMFAO
+Neil Diamond
+The Black Eyed Peas
+The B-52s
+Bruce Springsteen
+Kesha
+Carly Rae Jepsen
+Linda Ronstadt - Blue Bayou
+
+Elton John
+Miley Cyrus
+Missy Elliott
+Notorious B.I.G.
+The Beach Boys
+The Cure
+shaggy
+shake that thingp
+The Beatles - Help - with lyrics - YouTube
+James Taylor - Handy Man
+montrll jordan
+space jam soundtrack
+James Taylor - You've Got A Friend
+B*Witched - C'est la vie
+Will Smith - Gettin' Jiggy Wit It
+The Temptations Papa Was A Rolling Stone 1972 Single Version
+Hawksley Workman
+Jamiroquai
+MSTRCFT
+JUSTICE
+Joss Stone
+Mase
+Puff daddy
+Snoop
+Orinbce
+Linda Ronstadt - Ooh Baby Baby
+John Legend
+Nelly - Country Grammar
+Nelly - Hot In Herre
+Nelly - Hot In Herre
+Nelly Furtado - Maneater
+bruno mars
+Nelly Furtado - Promiscuous
+tina turner
+Linda Ronstadt - That'll Be The Day
+inxs
+white stripes
+Natalie Merchant - Build a Levee
+Nelly furtatdo & swollen members
+Natasha Bedingfield - Unwritten
+John Mellencamp
+all i ever wanted
+Nena - 99 Red Balloons
+New Kids On The Block - Step By Step
+Midlake - Roscoe
+MIKA - Relax (Take It Easy)
+Missy eliot
+Hall&Oates
+Ne-Yo - So Sick
+Jew songs
+Faded SOul Decision
+Nick Gilder - Hot Child in the City
+Mase , Kool & The Gang - Feel So Good
+Oops there goes my
+'n Sync - I Want You Back
+'n Sync
+Missy Elliott - Work it
+Move yo Body
+MN8 - I've Got A Little Something For You
+Michael Jackson
+Who let the dogs out
+Mike Posner - Cooler Than Me
+Modest Mouse - Float On
+Linda Ronstadt - You're No Good
+Living Color
+Justice
+Michael Bolton - When A Man Loves A Woman
+MGMT - Time to Pretend
+MGMT - Electric Feel
+MGMT - Kids
+Maxwell
+Metric
+Metro Station - Shake It
+Londonbeat 
+fatboy slim
+MC Hammer
+McGuinness Flint - When I'm Dead And Gone
+Mary J. Blige - Family Affair
+Fleetwood Mac
+Pump up the jam
+Freak out
+FuuGees
+Marvin Gaye - Got To Give It Up
+godon lightfoot
+goo goo dools
+Macarena
+Martin Jensen - Solo Dance
+Martin Solveig; Dragonette - Hello
+Luther Vandross
+M.I.A - Paper planes
+Wyclef
+Marvin Gaye Sexual Healing
+Martika - More Than You Know
+Madonna - 4 minutes
+Madonna - Hung Up
+Madonna - La Isla Bonita
+Madonna - Music
+Manfred Mann's Earth Band - Blinded By The Light
+Gipsy Kings
+Miami sound machine
+melissa ethridge
+Gloria estefan
+Four tops
+gargstas delight
+Mariah Carey
+Magic! - Rude
+Yamin, Matt, Rob, Steve
+Duran Duran
+A Ha
+Elton John
+gangam style
+en vogue
+Fatboy slim
+tlc
+David Bowie
+The Difters
+Elton John - Your Song
+Simple Minds
+Quinten tarentino movie soundtracks
+layla acoustic
+dolly parton
+Mr Personality
+That dont impress me much
+Im too sexy
+Ace ob Base
+macarenna
+cotton eye joe
+step by step
+get ready
+my guy
+slick rick
+all for i i swear
+sukiyami - 4pm
+the loveboat
+yes she is
+welcome to miami
+wildnwild west
+The Cardigans - Lovefool
+sixpence none the richer - kiss me
+>>>>>>> c6602a260fa6edaa92bbaf7ba8ee32ddb97f1f6b
 2 live crew
 3 Doors Down - Kryptonite
 50 Cent - 21 Questions
