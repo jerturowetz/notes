@@ -129,6 +129,9 @@ This means you can use local files to do stuff on remote or virtual machines whi
 - `docker-machine create` can return errors because `docker-start.sh` sets environment variables, simply reboot and create machines before running `docker-start.sh`
 - Running `docker swarm` will error out on systems running docker toolbox and will say something like "this machine has too many ips, specify one"
 - There is an enviroment variable that tells docker to do path conversion for windows machines, supposed to be enabled by default (on windows installs obvs). It is sometimes not set properly after updates and must be set manually in your shell `export COMPOSE_CONVERT_WINDOWS_PATHS=1`
+- There are also issues on windows where git bash tries to "fix" paths, which will ruin your day. Adding `MSYS_NO_PATHCONV=1` to the beginning of your script will help this. Heres a longer example:
+
+        `MSYS_NO_PATHCONV=1 docker run -P -v `pwd`:/wraithy -w='/wraithy' bbcnews/wraith capture config.yaml`
 
 ## Swarms
 
