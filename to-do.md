@@ -37,6 +37,66 @@
 - [Douglas?](http://www.douglas.qc.ca/?locale=en)
 - Foundation TOC : 514-727-0012
 
+## Musician's Insurance
+
+- Organize list of items (serail #s)
+- Obtain/research replacement value for all listed items
+- Find a company that insures for predefined value
+- Get a quote, apply, whatever
+
+## Calendar Idea
+
+- **January :** Winter / Snow / Polar / New year
+- **February :** Super Bowl / Valentine's Day
+- **March :** Spring / St. Patrick's Day / Pi Day / beware of the Ides of March”
+- **April :** April Fool's Day / Easter
+- **May :** Cinco de Mayo / Mother's Day
+- **June :** St. Jean Baptiste / Summer / Ocean
+- **July :** Canada Day / US Independence Day / Bastille Day
+- **August :** Back to School
+- **September :** Fall / My Birthday / Talk Like a Pirate Day
+- **October :** Halloween / Oktoberfest
+- **November :** Movember / Remembrance Day
+- **December :** Hanukkah / Christmas
+
+--
+
+## Groceries
+
+- Freezies
+- baking soda
+- Jam
+- Mayo
+- Syrop
+- All bran flakes
+- Eggs
+- Sandwich Meat
+- Bread
+- Meats/Fish
+- Root Veg?
+- Toilet paper, paper towels
+- Tomatoe sauce (not pasta sauce)
+
+Health food store:
+
+- Grape seed oil
+- sunflower oil
+
+Chinese food store:
+
+- Udon noodles
+- Frozen Dumplings
+
+Recipie related:
+
+- lasagna ingredients
+- buddah bowl stuff?
+- greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
+- haddock, mint, sun dried tomatoe in oil
+- Spatch cocke chicken on parchment paper, rubbed with butter and cooked with patates and brussel sprouts
+
+--
+
 ## Code study
 
 - Intro to webpack
@@ -165,25 +225,3 @@
   - [Vanilla JS](https://vanillajsguides.com/)
   - [Vanilla JS Academy](https://vanillajsacademy.com/)
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
-
-## Musician's Insurance
-
-- Organize list of items (serail #s)
-- Obtain/research replacement value for all listed items
-- Find a company that insures for predefined value
-- Get a quote, apply, whatever
-
-## Calendar Idea
-
-- **January :** Winter / Snow / Polar / New year
-- **February :** Super Bowl / Valentine's Day
-- **March :** Spring / St. Patrick's Day / Pi Day / beware of the Ides of March”
-- **April :** April Fool's Day / Easter
-- **May :** Cinco de Mayo / Mother's Day
-- **June :** St. Jean Baptiste / Summer / Ocean
-- **July :** Canada Day / US Independence Day / Bastille Day
-- **August :** Back to School
-- **September :** Fall / My Birthday / Talk Like a Pirate Day
-- **October :** Halloween / Oktoberfest
-- **November :** Movember / Remembrance Day
-- **December :** Hanukkah / Christmas
