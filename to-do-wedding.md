@@ -1,5 +1,8 @@
 # Let's get married
 
+sebastien leblanc
+sebasleblant@gmail.com
+
 Room dimensions are 30' (smaller) x ???
 Door is 7' wide
 Door extends out from wall 4'5"
