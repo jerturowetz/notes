@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - Check on package cost (ref: 12729EGF9TR, 1-888-520-9090)
-- Check to see if my dremel has a cutoff wheel
 - Ruby Tracks
 - Call: Nancy
 - Email Ben Miller re drupal
