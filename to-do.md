@@ -225,3 +225,4 @@ Recipie related:
   - [Vanilla JS](https://vanillajsguides.com/)
   - [Vanilla JS Academy](https://vanillajsacademy.com/)
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
+- [Google devs guides](https://developers.google.com/search/docs/guides/create-URLs)
