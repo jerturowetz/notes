@@ -25,6 +25,8 @@
 - Malamente - Rosalia
 - Soy Yo. Bomba estereo
 - Somos Pacífico- Choquibtown
+- Gloria Estephan
+- 50 Latin Classics
 
 ## Super dance portion
 
@@ -229,71 +231,23 @@
 - Work It
 - You're My Best Friend
 
-## To sort
-
-2 live crew
-3 Doors Down - Kryptonite
-50 Cent - 21 Questions
-50 Cent - Candy Shop
-50 Cent - In Da Club
-hey fat boy
 mexican pop music
 hora music
+
+## To sort
+
 5000 Volts - I'm On Fire
-54-40 - Casual Viewin'
-5ive - If Ya Gettin' Down
-A Flock Of Seagulls - Space Age Love Song 1982
-A Ha
-A Tribe Called Quest - Can I Kick It
-A.K.S.W.I.F.T. - In the Game
-A1 - Be The First To Believe
-A1 - Summertime Of Our Lives
-Aaliyah - Back & Forth
-Aaliyah - More Than A Woman
-Aaliyah - Rock the Boat
-Abba - Dancing Queen
-Abba - Gimme a man after midnight, Take a chance on Me
-Abba - I Do I Do I Do I Do I Do
-ABBA - Voulez Vous
-Abba - Waterloo
-ABBA, “Dancing Queen”
-AC/DC - Highway to hell
-AC/DC, “You Shook Me All Night Long”
-Ace - How Long
-Ace ob Base
-Ace of Base - All that she wants
+Alyiah
 Aerosmith
-A-HA - Take on Me
-a-ha, “Take on Me”
-Akon - Don't matter
-Akon - I wanna fuck you (feat. Snoop dogg)
-Akon - Right Now (Na Na Na)
-Akon - Smack that (feat. Eminem)
-Al green
-Al Green - Let's Stay Together
-Al Green - Sha-La-La (Make Me Happy)
-Al Green - Tired Of Being Alone
-Al Green, “Let's Stay Together”
-Al Wilson - Show And Tell
-Alanis Morissette
-Albert Hammond - Rains in souther california
-Alcazar - Crying At The Discoteque
-Alexander O'Neal - Criticize
+AC/DC
 Alice Cooper - School's Out
-Alicia Bridges - I Love the Nightlife (Disco 'Round)
-Alicia Keys - Fallin'
-Alicia Keys - If I Ain't Got You
-Alicia Keys - New Day
-Alicia Keys - No One
-Alison Limerick - Make It On My Own
-all for i i swear
-all i ever wanted
-Allman Bros
-Alphaville - Big in Japan
-Amadin - U Make Me Feel Alright(Radio Edit)
-Amber - Hold My Body Tight
-America - A horse with no name
-America - Sister Golden Hair
+
+
+C&C
+MC Hammer
+Vanilla Ice
+Haddaway
+
 Amerie - 1 Thing
 Amy McDonald - This is the life
 Amy Winehouse
@@ -1660,4 +1614,4 @@ Zara Larsson - I Would Like
 Zedd & Liam Payne - Get Low
 Zedd, Maren Morris & Grey - The Middle
 Zhané - Hey Mr. D.J.
-
+2 live crew
