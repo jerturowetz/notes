@@ -243,10 +243,13 @@ AC/DC
 Alice Cooper - School's Out
 
 
-C&C
+
 MC Hammer
 Vanilla Ice
 Haddaway
+
+Got to be real by Mary J Blidge
+My perrogative Bobby Brown
 
 Amerie - 1 Thing
 Amy McDonald - This is the life
