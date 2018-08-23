@@ -1,3 +1,6 @@
+[Céline Bensoussan](https://www.linkedin.com/in/celinebensoussan/)
+
+
 We're looking for the final founding partner to lead back-end development on a new platform we are building called Benchmark Me.
 
 Specify Job title

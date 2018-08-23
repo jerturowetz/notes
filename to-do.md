@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Check on package cost (ref: 12729EGF9TR, 1-888-520-9090)
+- Make design by kalin redirect
 - Ruby Tracks
 - Call: Nancy
 - Email Ben Miller re drupal
@@ -97,9 +97,10 @@ Recipie related:
 
 --
 
+
 ## Code study
 
-- Intro to webpack
+- [Intro to webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 - [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
 - [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
@@ -112,6 +113,11 @@ Recipie related:
 
 ### Path
 
+- BackstopJS probably best
+- [Yoast SEO FIx](https://markjaquith.wordpress.com/2018/01/22/how-i-fixed-yoast-seo-sitemaps-on-a-large-wordpress-site/)
+- [Wordpress basic debugging](https://tommcfarlin.com/debugging-within-wordpress/)
+- [xdebug pt1](https://tommcfarlin.com/installing-xdebug-1/)
+- [xdebug pt2](https://tommcfarlin.com/installing-xdebug-2/)
 - [Wordpress SEO etc](https://www.youtube.com/watch?v=Zhe_WfQ6UaA&index=8&list=WL&t=2s)
 - [VS code tricks](https://www.youtube.com/watch?v=x5GzCohd4eo&t=0s&list=WL&index=8)
 - [Shell scripting with WPCLI](https://www.youtube.com/watch?v=-jAojFcSpB8&index=20&t=33s&list=WL)
