@@ -36,50 +36,9 @@
 
 ## To sort
 
-Amy McDonald - This is the life
-Amy Winehouse
-Amy Winehouse - Back To Black
-Amy Winehouse - Rehab
-Andy Fairweather Low - Wide Eyed And Legless
-Andy Grammer, “Honey I'm Good”
-Angie Stone - Wish I Didn't Miss You
-Anita Ward - Ring My Bell
-Anne-Marie - Ciao Adios
-Another Level - Freak Me
-Ant & Dec - Better Watch Out
-Apollo 440 - Stop The Rock
-Arcade Fire - No Cars Go
-Arcade Fire - Rebellion (Lies)
-Arctic Monkeys - Cornerstone
-Arctic Monkeys - I Bet You Look Good On The Dancefloor
-Aretha Franklin - A Deeper Love
-Aretha Franklin, “Respect”
-Arkells - Oh The Boss Is Coming
-Arrested Development - Mr Wendal
-Arthur Conoley
-Ashlee Simpson - Pieces Of Me
-Atlanta Rhythm Section - So In To You
-Audio Cult - Higher(Radio Mix)
-Average White Band - Pick Up The Pieces
-Avril Lavigne - Complicated
-Avril Lavigne - Girlfriend (Radio Edit)
-B*Witched - C'est la vie
-B2K - Bump, Bump, Bump (B2K and P. Diddy) (Album Version)
-B2K - Girlfriend
-Baccara - I can boogie
-Bachman Turner Overdrive - You Ain't Seen Nothing Yet
 Back to Nature - Come Back to Me
-Backstreet Boys - All I Have To Give
-Backstreet Boys - Everybody (Backstreet's Back)
-Backstreet Boys - Get Down (You're The One For Me)
-Backstreet Boys - I Want It That Way
-Backstreet Boys - Quit Playing Games (With My Heart)
-Backstreet Boys - Shape Of My Heart
-Backstreet Boys - Show Me The Meaning Of Being Lonely
-Backstreet Boys, “Everybody (Backstreet’s Back)”
+Backstreet Boys
 Bad Company
-Bad Company - Can't Get Enough
-Bad Company - Feel Like Makin' Love
 Bad Manners - Lip Up Fatty
 Baha Men - Who Let The Dogs Out
 Baltimora - Tarzan Boy
@@ -99,20 +58,13 @@ Beastie Boys - You gotta fight for your right to party
 Beastie Boys feat. NAS - Too Many Rappers
 Beat Control - Dancing Madness(Radio Edit)
 Beatles
-Bee Gees - Jive Talkin'
-Bee Gees - Night Fever
-Bee Gees - Stayin' Alive
-Bee Gees - Staying Alive
-Bee Gees - Tragedy
 Belinda Carlisle - Big Scary Animal
 Belinda Carlisle - Summer Rain
-bell biv devoe
 Bell Biv DeVoe - Poison
 Bellamy Brothers - Let Your Love Flow
 Belly - Pressure
 ben e king
 Ben E King - Stand By Me
-Ben E. King, “Stand by Me”
 Ben Folds Five - Battle Of Who Could Care Less
 Betty Boo - Doin' The Do
 Betty Who - Human Touch
