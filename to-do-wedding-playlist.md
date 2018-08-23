@@ -36,55 +36,6 @@
 
 ## To sort
 
-Banx & Ranx & Ella Eyre feat. Yxng Bane - Answerphone
-Barbara Lynn - Movin' on a Groove
-Barbara Lynn - You'll Lose A Good Thing
-Barenaked Ladies - Am I the only one?
-Barenaked Ladies - Falling For The First Time
-Barenaked Ladies - Lovers in a dangerous time
-Barenaked Ladies - Pinch Me
-Barenaked Ladies - Too Little Too Late
-Barry White - You See The Trouble With Me
-Basic Element - Touch(Extended version)
-Beach Boys
-Beastie Boys - You gotta fight for your right to party
-Beastie Boys feat. NAS - Too Many Rappers
-Beat Control - Dancing Madness(Radio Edit)
-Beatles
-Belinda Carlisle - Big Scary Animal
-Belinda Carlisle - Summer Rain
-Bell Biv DeVoe - Poison
-Bellamy Brothers - Let Your Love Flow
-Belly - Pressure
-ben e king
-Ben E King - Stand By Me
-Ben Folds Five - Battle Of Who Could Care Less
-Betty Boo - Doin' The Do
-Betty Who - Human Touch
-Beverley Knight - Flavour of the Old School
-Beyoncé
-Beyonce - Baby Boy (ft. Sean Paul)
-Beyonce - Crazy In Love
-Beyonce - Crazy In Love (ft. Jay-Z)
-Beyonce - Halo
-Beyonce - Run the World (Girls)
-Beyoncé - Single Ladies (Put a Ring on It)
-Beyonce feat. Jay-Z, "Crazy in Love"
-Beyonce, “Love on Top”
-Beyonce, “Single Ladies (Put a Ring On It)”
-Big and Rich - Save a Horse (Ride a Cowboy)
-Big Pun feat. Joe - Still Not a Player
-Bill Medley & Jennifer Warnes - (I've Had) The Time of My Life
-Bill Withers
-Bill Withers - Ain't No Sunshine
-Bill Withers - Lean On Me
-Billy Idol - White Wedding
-Billy Joel
-Billy Swan - I Can Help
-Black - Wonderfl Life
-Black Crowes - I Ain't Hiding
-Black eyed peas
-Black Eyed Peas - My Humps
 Blackstreet feat. Dr. Dre & Queen Pen - No Diggity
 Blondie - Atomic
 Blondie - Heart of Glass
