@@ -9,199 +9,37 @@
 
 ## Themes
 
+- 70s soft rock
+- 70s soul
+- 70s disco/funk
+- 90s super dance
+- 2000s pop
+- 80s hair rock
+- 80s soft rock
+- 80s killers
+- 90s dance mega hits
+- 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
+- 90's-2000's super pop (backstreet boys)
+- 2000s undancable (alanis)
+
+- Showstoppers - Hip Hop
+- Showstoppers - Golden Oldies
+- Showstoppers - 90s cheeseball
+- Showstoppers - Current Dance
+
 - Barnroom dancefloor
 - Indie Dance Music mix
-- 80's & 90's cheezy pop (a ha)
-- 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
-- 90's-2000's super pop (think backstreet boys)
-- Soul music
-- Slowdance Cheezy
+- slow dance (sort later)
+- mexico moments
 
-## From Juan
-
-- Suavemente
-- Ojalá que llueva café en el campo
-- Juan luis guerra
-- Malamente - Rosalia
-- Soy Yo. Bomba estereo
-- Somos Pacífico- Choquibtown
-- Gloria Estephan
-- 50 Latin Classics
-
-## Super dance portion
-
-- The Way You Make Me Feel
-- Bust A Move
-- Crazy Little Thing Called Love
-- Higher & Higher
-- No Diggity
-- Rock Your Body
-- Ain't Too Proud To Beg
-- Dancing Queen
-- December, 1963
-- Home
-- I Believe In A Thing Called Love
-- Jump Around
-- Poison
-- You Can'T Hurry Love
-- Baby Got Back
-- Bohemian Rhapsody
-- Girls Just Want To Have Fun
-- Hips Don't Lie
-- Hot In Herre
-- Like A Prayer
-- Love On Top
-- Paper Planes
-- The Twist
-- Celebration
-- I Can'T Help Myself
-- Sexy And I Know It
-- Tik Tok
-- Turn Down For What
-- Twistin' The Night Away
-- All Of Me
-- Brick House
-- Crazy
-- Dancing In The Dark
-- How Sweet It Is (To Be Loved By You)
-- Low
-- Mo Money Mo Problems
-- Moves Like Jagger
-- Play That Funky Music
-- Raise Your Glass
-- Satisfaction
-- Sorry
-- Stayin' Alive
-- The Way You Look Tonight
-- Thriller
-- Wannabe
-- We Are Family
-- You Are The Best Thing
-- Beat It
-- Bye Bye Bye
-- Dancing On My Own
-- Electric Feel
-- Everybody
-- Gold Digger
-- Hypnotize
-- I Want You To Want Me
-- I'm Gonna Be
-- Respect
-- Stand By Me
-- Summer Of '69
-- Sweet Home Alabama
-- Wobble
-- Wonderful Tonight
-- Bad Romance
-- Dance To The Music
-- Hold On
-- I Got You
-- I Want It That Way
-- Jessie's Girl
-- Let's Dance
-- Let's Go Crazy
-- One More Time
-- Teenage Dream
-- The Time Of My Life
-- U Can't Touch This
-- What I Like About You
-- Your Love
-- Apache
-- Empire State Of Mind
-- Feel So Close
-- Get Low
-- Ice Ice Baby
-- Jump Jive An' Wail
-- Mony Mony
-- Ni**as In Paris
-- Old Time Rock & Roll
-- Pony
-- Super Bass
-- The Luckiest
-- The Sign
-- Umbrella
-- You Can Call Me Al
-- California Love
-- Can't Feel My Face
-- Cha Cha Slide
-- Crazy Love
-- Dancing In The Street
-- Fantasy
-- God Only Knows
-- Heart Of Glass
-- Ho Hey
-- In Da Club
-- Just Like Heaven
-- Lose Control
-- Make You Feel My Love
-- Marry You
-- Moondance
-- Poker Face
-- Runaround Sue
-- Sir Duke
-- Starships
-- Stronger
-- Sugar
-- Unchained Melody
-- Y.M.C.A
-- Africa
-- All About That Bass
-- American Girl
-- Blurred Lines
-- Can't Hold Us
-- Die Young
-- Fancy
-- Friday I'm In Love
-- Gangnam Style
-- Gettin' Jiggy Wit It
-- Gimme Some Lovin
-- Give Me Everything
-- I Melt With You
-- Lean On
-- Let's Get Married
-- Louie, Louie
-- Piano Man
-- Pour Some Sugar On Me
-- Push It
-- Rock With You
-- Since U Been Gone
-- Take Me Home Tonight
-- Time After Time
-- Under Pressure
-- Watch Me
-- What A Wonderful World
-- What Is Love
-- When A Man Loves A Woman
-- Work It
-- You're My Best Friend
-
-mexican pop music
-hora music
+- hora music
 
 ## To sort
 
-5000 Volts - I'm On Fire
-Alyiah
-Aerosmith
-AC/DC
-Alice Cooper - School's Out
-
-
-
-MC Hammer
-Vanilla Ice
-Haddaway
-
-Got to be real by Mary J Blidge
-My perrogative Bobby Brown
-
-Amerie - 1 Thing
 Amy McDonald - This is the life
 Amy Winehouse
 Amy Winehouse - Back To Black
 Amy Winehouse - Rehab
-Anastacia - I'm Outta Love
-Anastacia - Paid My Dues
 Andy Fairweather Low - Wide Eyed And Legless
 Andy Grammer, “Honey I'm Good”
 Angie Stone - Wish I Didn't Miss You
