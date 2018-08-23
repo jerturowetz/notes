@@ -36,13 +36,6 @@
 
 ## To sort
 
-Back to Nature - Come Back to Me
-Backstreet Boys
-Bad Company
-Bad Manners - Lip Up Fatty
-Baha Men - Who Let The Dogs Out
-Baltimora - Tarzan Boy
-Bananarama - Venus
 Banx & Ranx & Ella Eyre feat. Yxng Bane - Answerphone
 Barbara Lynn - Movin' on a Groove
 Barbara Lynn - You'll Lose A Good Thing
