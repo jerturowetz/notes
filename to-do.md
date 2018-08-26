@@ -1,5 +1,16 @@
 # Jer's To-Do List
 
+
+
+hydro quebe  
+electrium 
+
+hydro boire noir power 
+tyler dewitt
+
+collabratory 
+
+
 - Make design by kalin redirect
 - Ruby Tracks
 - Call: Nancy

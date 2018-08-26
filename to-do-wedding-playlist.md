@@ -36,18 +36,6 @@
 
 ## To sort
 
-Blackstreet feat. Dr. Dre & Queen Pen - No Diggity
-Blondie - Atomic
-Blondie - Heart of Glass
-Blondie - One way or another
-Blu Cantrell Feat. Sean Paul - Breathe
-Blue Bitch - Body Heat
-Blue October - Into The Ocean
-Blue Oyster Cult - Dont fear the REaper
-Blue Rodeo - All The Things That Are Left Behind
-Blue Rodeo - Hasn't hit me yet
-Blur - Song 2
-Bob Dyalan
 Bob Marley - Could you be loved
 Bob Sinclar; Cutee B - Rock This Party (Everybody Dance Now) (Remix 2007)
 Bobby Brown - Two Can Play That Game (K Klassik Mix)
