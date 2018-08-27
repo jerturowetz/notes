@@ -78,6 +78,7 @@
 - Rug
 - Floor fan
 - Tuner
+- Soundbrenner Pulse
 
 ### Crashes to try
 
