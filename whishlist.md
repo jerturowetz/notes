@@ -8,6 +8,8 @@
 
 ## Kate stuff
 
+- exacto knife
+- scoring tool
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - [Make a sweater](https://www.entripy.com/)
 - Panda shirt cross-eyed-bear lyrics
