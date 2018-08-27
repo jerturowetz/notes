@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
-
+exacto knife 
+scoring tool
 
 hydro quebe  
 electrium 
