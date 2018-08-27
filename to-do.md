@@ -1,16 +1,7 @@
 # Jer's To-Do List
 
-
-
-hydro quebe  
-electrium 
-
-hydro boire noir power 
-tyler dewitt
-
-collabratory 
-
-
+- [Sebastien Leblanc](https://www.facebook.com/profile.php?id=100006772900393)
+- check out hydro quebec electrium, hydro boire noir power, hydro collabratory
 - Make design by kalin redirect
 - Ruby Tracks
 - Call: Nancy
