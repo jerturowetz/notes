@@ -1,19 +1,22 @@
 # Let's get married
 
-Build calendar/guestbook thingy
-Up glassware order (4/guest is what Nadine says, beer & wine ppl keep glasses)
-Follow up with Jon if possible
-giant jenga, other games
-plan beer pong table
-Fiddle: Sebastien Leblanc sebasleblant@gmail.com
-figure out meatless wheatless food, vegetaliens options
-Vows
-snack bowls
-Glass to break & cloth
-Other Jewish traditions for ceremoy
-Plan honeymoon (stay at hotel vs honeymoon) (multiple stops)
-Order Cakes
-String light for mic stand
+- Ranch Mont-Tremblant
+- Centre d’activité nature Kanatha-Aki
+- Get map of area for honeymoon & organize horeseback riding for honeymoon & national park
+- 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
+- [Sebastien Leblanc](https://www.facebook.com/profile.php?id=100006772900393)
+- Build calendar/guestbook thingy
+- IGA order (cake, soda, fruits, whatever)
+- Up glassware order (4/guest is what Nadine says, beer & wine ppl keep glasses)
+- Follow up with Jon if possible
+- giant jenga, other games
+- plan beer pong table
+- figure out meatless wheatless food, vegetaliens options
+- Vows
+- snack bowls
+- Glass to break & cloth
+- Other Jewish traditions for ceremoy
+- String light for mic stand
 
 ## Important information
 
