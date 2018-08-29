@@ -15,7 +15,6 @@ Mark Ronson feat. Bruno Mars, "Uptown Funk!"
 Marmalade - Cousin Norman
 Maroon 5 - Sugar
 Maroon 5 feat. SZA - What Lovers Do
-Maroon 5, “Sugar”
 Marshmello feat. Khalid - Silence
 Martika - Love... Thy Will Be Done
 Martika - More Than You Know
@@ -584,11 +583,8 @@ US - In the name of love
 US - with or without yo
 Usher
 Usher - U Remind Me
-Usher - U Remind Me (Album Version)
 Usher - Yeah!
-Usher - Yeah! (feat. Lil Jon & Ludacris)
 Usher - You Make Me Wanna
-Usher - You Make Me Wanna...
 Usher Feat. Juicy J - I Don't Mind
 Usher feat. Lil Jon & Ludacris, "Yeah"
 V.I.C., "Wobble"
@@ -598,7 +594,6 @@ Van Morrison
 Van Morrison - Brown eyed girl
 Van Morrison - Domino
 Van Morrison - Wild Night
-Van Morrison, “Brown Eyed Girl”
 Vanilla Ice - Ice Ice Baby
 Veronica Maggio - Mandagsbarn
 Violenty Femmes - Blister in the sun
