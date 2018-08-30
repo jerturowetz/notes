@@ -98,7 +98,6 @@ Recipie related:
 
 --
 
-
 ## Code study
 
 - [Intro to webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
@@ -114,6 +113,9 @@ Recipie related:
 
 ### Path
 
+- [wordpress security as a process](https://www.smashingmagazine.com/2018/06/wordpress-security-as-a-process/)
+- [travis and wordpress](https://github.com/BracketSpace/Notification/blob/develop/.travis.yml)
+- wp scaffold plugin-tests, and other wp testings
 - BackstopJS probably best
 - [Yoast SEO FIx](https://markjaquith.wordpress.com/2018/01/22/how-i-fixed-yoast-seo-sitemaps-on-a-large-wordpress-site/)
 - [Wordpress basic debugging](https://tommcfarlin.com/debugging-within-wordpress/)
