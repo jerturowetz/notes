@@ -64,6 +64,20 @@
 
 ## Groceries
 
+Toilet bowl cleaner
+anti-perspirant
+toilet paper and paper towels
+Kraft dinner
+Tomato sauce
+Pancake mix
+Bread, English muffins
+Apple
+Potatoes and carrots
+Eggs
+Good Orange juice
+Sandwich meat
+Other meat
+  
 - Freezies
 - baking soda
 - Jam
