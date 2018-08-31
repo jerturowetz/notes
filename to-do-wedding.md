@@ -7,7 +7,6 @@
 - hem pants
 - vows
 - guitar stribngs & picks
-- Up glassware order (4/guest is what Nadine says, beer & wine ppl keep glasses)
 - IGA order (cake, soda, fruits, whatever)
 - cayons
 - calendar thingy printout & frame
