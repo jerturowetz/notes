@@ -1,5 +1,12 @@
 # Let's get married
 
+- Crayons
+- Claendar for guestbook
+- tablkecloths for rehersal dinenr
+- call mom re soda
+- hem pants
+- vows
+- guitar stribngs & picks
 - Ranch Mont-Tremblant
 - Centre d’activité nature Kanatha-Aki
 - Get map of area for honeymoon & organize horeseback riding for honeymoon & national park
