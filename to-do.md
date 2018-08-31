@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - check out hydro quebec electrium, hydro boire noir power, hydro collabratory
-- Make design by kalin redirect
 - Ruby Tracks
 - Call: Nancy
 - Email Ben Miller re drupal
@@ -64,26 +63,18 @@
 
 ## Groceries
 
-Toilet bowl cleaner
-anti-perspirant
-toilet paper and paper towels
-Kraft dinner
-Tomato sauce
-Pancake mix
-Bread, English muffins
-Apple
-Potatoes and carrots
-Eggs
-Good Orange juice
-Sandwich meat
-Other meat
-  
+- Toilet bowl cleaner
+- anti-perspirant
+- Pancake mix
+- Apple
+- Good Orange juice
 - Freezies
 - baking soda
 - Jam
 - Mayo
 - Syrop
 - All bran flakes
+- KD
 - Eggs
 - Sandwich Meat
 - Bread
