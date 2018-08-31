@@ -1,13 +1,15 @@
 # Let's get married
 
+- Up glassware order (4/guest is what Nadine says, beer & wine ppl keep glasses)
+- IGA order (cake, soda, fruits, whatever)
+- cayons
+- calendar thingy printout & frame
 - Ranch Mont-Tremblant
 - Centre d’activité nature Kanatha-Aki
 - Get map of area for honeymoon & organize horeseback riding for honeymoon & national park
 - 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 - [Sebastien Leblanc](https://www.facebook.com/profile.php?id=100006772900393)
 - Build calendar/guestbook thingy
-- IGA order (cake, soda, fruits, whatever)
-- Up glassware order (4/guest is what Nadine says, beer & wine ppl keep glasses)
 - Follow up with Jon if possible
 - giant jenga, other games
 - plan beer pong table
