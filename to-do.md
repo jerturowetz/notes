@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+cream 10% no name
+papers
+beer
+twine
+butter (4 atucks pc)
+small pc bleach
+
 - check out hydro quebec electrium, hydro boire noir power, hydro collabratory
 - Ruby Tracks
 - Call: Nancy

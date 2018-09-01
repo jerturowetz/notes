@@ -1,25 +1,26 @@
 # Let's get married
 
-- Pick up pants (wednesday by 5)
+- inflatable mattress
+- printou & frame for guestbook
 - Make a reso at stock bar (10 ppl 9pm)
-- Send perry & yain a message
-- change order for ecobomik
 - vegetarian dinner option main dish
+- gliten free main
 - IGA order (cake, soda, fruits, whatever)
 - vows
 - Glass to break & cloth
 - Other Jewish traditions for ceremoy
-- call mom re soda
 - reatring guitar
+
+- Pick up pants (wednesday by 5)
+- Adjust rental:
+  - Wireless Microphone
+  - well need about 150' per XLR line to get outside (400' total should be good)
 
 ## Get
 
-- Crayons, twine
-- insoles
-- Claendar for guestbook, printou & frame
-- Ping pong balls
+- Ping pong balls, twine
 - bucket for beer
-- pabst 24
+- pabst 24, n/a beer
 
 ## Honeymoon
 
@@ -46,9 +47,6 @@ Tell bartenderr to save glasses
 
 - Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
 - Mixer AUX >> Speakers outdoor (adaptors & cables)
-- Adjust rental:
-  - Wireless Microphone
-  - well need about 150' per XLR line to get outside (400' total should be good)
 - Restring Guitar & change batteries
 - Get speakers from Steve
 - Pick up rental
