@@ -1,37 +1,42 @@
 # Let's get married
 
-- pasraig musicians 
-- Crayons
-- Claendar for guestbook
-- tablkecloths for rehersal dinenr
-- call mom re soda
-- hem pants
-- vows
-- guitar stribngs & picks
+- Make a reso at stock bar (10 ppl 9pm)
+- change order for ecobomik
+- vegetarian dinner option main dish
 - IGA order (cake, soda, fruits, whatever)
-- cayons
-- calendar thingy printout & frame
-- Ranch Mont-Tremblant
-- Centre d’activité nature Kanatha-Aki
-- Get map of area for honeymoon & organize horeseback riding for honeymoon & national park
-- 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
-- [Sebastien Leblanc](https://www.facebook.com/profile.php?id=100006772900393)
-- Build calendar/guestbook thingy
-- Follow up with Jon if possible
-- giant jenga, other games
-- plan beer pong table
-- figure out meatless wheatless food, vegetaliens options
-- Vows
-- snack bowls
+- vows
 - Glass to break & cloth
 - Other Jewish traditions for ceremoy
-- String light for mic stand
+- call mom re soda
+
+## Get
+
+- Hem pants
+- Get keys made
+- Crayons, twine
+- insoles
+- Claendar for guestbook, printou & frame
+- Ping pong balls
+- bucket for beer
+- pabst 24
+- guitar stribngs & picks
+
+## Honeymoon
+
+to-do:
+
+- Ranch Mont-Tremblant
+- Centre d’activité nature Kanatha-Aki
+- organize horeseback riding for honeymoon & national park
+- get map
 
 ## Important information
 
 For wheelchair access the door on the ground floor is 35 inches wide
 
 IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-9440
+
+Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
 ## Day of
 
@@ -64,3 +69,4 @@ Tell bartenderr to save glasses
 - Steve's Speakers, stands & power
 - Studio Monitors & power
 - Duct Tape
+- Xmas lights
