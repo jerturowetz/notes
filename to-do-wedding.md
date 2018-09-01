@@ -1,6 +1,7 @@
 # Let's get married
 
 - Make a reso at stock bar (10 ppl 9pm)
+- Send perry & yain a message
 - change order for ecobomik
 - vegetarian dinner option main dish
 - IGA order (cake, soda, fruits, whatever)
@@ -22,8 +23,6 @@
 - guitar stribngs & picks
 
 ## Honeymoon
-
-to-do:
 
 - Ranch Mont-Tremblant
 - Centre d’activité nature Kanatha-Aki
