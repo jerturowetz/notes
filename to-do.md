@@ -63,6 +63,9 @@
 
 ## Groceries
 
+- Dish Soap
+- Carrots
+- Beets
 - Good Orange juice
 - Freezies
 - baking soda

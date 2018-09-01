@@ -2,6 +2,7 @@
 
 - Pick up pants (wednesday by 5)
 - Make a reso at stock bar (10 ppl 9pm)
+- Send perry & yain a message
 - change order for ecobomik
 - vegetarian dinner option main dish
 - IGA order (cake, soda, fruits, whatever)
@@ -21,8 +22,6 @@
 - pabst 24
 
 ## Honeymoon
-
-to-do:
 
 - Ranch Mont-Tremblant
 - Centre d’activité nature Kanatha-Aki

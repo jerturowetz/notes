@@ -1,26 +1,20 @@
 # last-minute musicians
 
 Timi Turmel
-Accordion
 timiturmel@gmail.com
 
 David Gossage
-Irish flute
 dgossage@sympatico.ca
 
-Klezmer
-Yoni Kaston
-yoni.kaston@gmail.com
+Wedding musician
 
-Jason Rosenblatt
-jason@shtreiml.com
+Hi Yoni, nice to meet you. My name is Jeremy and I got your email address from Padraig.
 
-Padraig 
+I'm looking for a single musician to perform between the hours of 5 and 7 PM next Saturday, September 8 and I was wondering if you would be for hire?
 
-Hi
+The event is a cocktail reception in Montreal's Mile-End. I'd like to color the event with light but festive music. The styles which I think would suit this are klezmer, Acadian, Canadian folk, Irish traditional, etc.
 
-I got your email address from Padraig who mentioned you might be available for hire.
+If you're interested and available, please advise your rates and I'll get right back to you.
 
-I'm looking for a single musician to perform during the two hour slot between the hours of 5 PM and 7 PM next Saturday, September 8.
-
-The event is a cocktail reception Which I'd like to colour with light but festive music. The styles which i think could suit this are klezmer, Acadian, Canadian folk, or Irish Traditional
+Thanks,
+Jeremy
