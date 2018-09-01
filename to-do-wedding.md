@@ -1,5 +1,6 @@
 # Let's get married
 
+- Pick up pants (wednesday by 5)
 - Make a reso at stock bar (10 ppl 9pm)
 - change order for ecobomik
 - vegetarian dinner option main dish
@@ -8,18 +9,16 @@
 - Glass to break & cloth
 - Other Jewish traditions for ceremoy
 - call mom re soda
+- reatring guitar
 
 ## Get
 
-- Hem pants
-- Get keys made
 - Crayons, twine
 - insoles
 - Claendar for guestbook, printou & frame
 - Ping pong balls
 - bucket for beer
 - pabst 24
-- guitar stribngs & picks
 
 ## Honeymoon
 
