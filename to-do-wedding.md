@@ -1,30 +1,26 @@
 # Let's get married
 
-- buy coheed tickets
+- Send kate Kale salad ingredients (3 heads kale), paper towel, 2 large bowls, red onion
+- [MAIS check out](http://restaurantmais.com/)
 - inflatable mattress
-- printout & frame for guestbook
 - Make a reso at stock bar (10 ppl 9pm)
-- vegetarian dinner option main dish
-- gliten free main
-- IGA order (cake, soda, fruits, whatever)
-- vows
-- Glass to break & cloth
-- Other Jewish traditions for ceremoy
-- reatring guitar
-- advanced order vegetarian lasagna
-- prep spund equipment
+- buy coheed tickets
+- Vows
 
-- Pick up pants (wednesday by 5)
+- Print guestbook card & get frame thing
+- Glass to break & cloth
+- prep spund equipment
+- reatring guitar
+
+- Music & DJ software finalize
+- IGA order (cake, soda, fruits, whatever)
+- Advanced order vegetarian lasagna
+- Advanced order gluten free main
 - Adjust rental:
   - Wireless Microphone
   - well need about 150' per XLR line to get outside (400' total should be good)
-
-## Get
-
-- Ping pong balls, twine
-- bucket for beer
-- pabst 24, n/a beer
-- photobooth for bathroom things
+- Pick up cuckakes (when?)
+- Pick up pants (wednesday by 5)
 
 ## Honeymoon
 
@@ -33,20 +29,23 @@
 - organize horeseback riding for honeymoon & national park
 - get map
 
-## Important information
+## Day of
 
-For wheelchair access the door on the ground floor is 35 inches wide
+pick up vegetarian lasagna
+pick up gear at jam space
+Tell bartenderr to save glasses
+
+## Important information
 
 IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-9440
 
 Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
-## Day of
+Zilien biret, clarinet player, 514 266 4963
 
-pick up vegetarian lasagna
-pick up gear at jam space
+## After wedding to dos
 
-Tell bartenderr to save glasses
+- Get addresses from people
 
 --
 
