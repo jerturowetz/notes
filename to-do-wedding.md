@@ -1,7 +1,8 @@
 # Let's get married
 
+- buy coheed tickets
 - inflatable mattress
-- printou & frame for guestbook
+- printout & frame for guestbook
 - Make a reso at stock bar (10 ppl 9pm)
 - vegetarian dinner option main dish
 - gliten free main
@@ -10,6 +11,8 @@
 - Glass to break & cloth
 - Other Jewish traditions for ceremoy
 - reatring guitar
+- advanced order vegetarian lasagna
+- prep spund equipment
 
 - Pick up pants (wednesday by 5)
 - Adjust rental:
@@ -21,6 +24,7 @@
 - Ping pong balls, twine
 - bucket for beer
 - pabst 24, n/a beer
+- photobooth for bathroom things
 
 ## Honeymoon
 
@@ -38,6 +42,9 @@ IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-944
 Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
 ## Day of
+
+pick up vegetarian lasagna
+pick up gear at jam space
 
 Tell bartenderr to save glasses
 
