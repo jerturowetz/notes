@@ -1,48 +1,5 @@
 # Wedding playlist
 
-Maluma - Corazón
-Mandrill
-Manfred Mann's Earth Band - Blinded By The Light
-Marc Anthony - Vivir Mi Vida
-Mariah Carey
-Mariah Carey - All i want for christmas
-Marianne Faithful
-Mario - Let Me Love You
-Mark Morrison - Return Of The Mack (C&J Edit)
-Mark Ronson
-Mark Ronson Feat. Bruno Mars - Uptown Funk
-Mark Ronson feat. Bruno Mars, "Uptown Funk!"
-Marmalade - Cousin Norman
-Maroon 5 - Sugar
-Maroon 5 feat. SZA - What Lovers Do
-Marshmello feat. Khalid - Silence
-Martika - Love... Thy Will Be Done
-Martika - More Than You Know
-Martin Garrix & Bebe Rexha - In The Name Of Love
-Martin Jensen - Solo Dance
-Martin Solveig; Dragonette - Hello
-Martrika
-Marvin Gaye - Got To Give It Up
-Marvin Gaye & Tammi Terrell, “Ain't No Mountain High Enough”
-Marvin Gaye Sexual Healing
-Marvin Gaye, “Let’s Get It On”
-Mary J. Blige - Family Affair
-Mase
-Mase , Kool & The Gang - Feel So Good
-Maxwell
-MC Hammer
-McGuinness Flint - When I'm Dead And Gone
-Meat lof - anything for love
-Meghan Trainor - All About That Bass
-Meghan Trainor - I Love Me
-melissa ethridge
-Metric
-Metro Station - Shake It
-MGMT - Electric Feel
-MGMT - Kids
-MGMT - Time to Pretend
-Miami Sound Machine - Dr BEat
-Michael Bolton - When A Man Loves A Woman
 Michael Jackson
 Michael Jackson - Beat it
 Michael Jackson - Billie Jean
@@ -73,9 +30,6 @@ Modest Mouse
 Modest Mouse - Float On
 Moloko - Sing it Back
 Monica - Don't Take It Personal (Just One of Dem Days)
-Montell Jordan - This Is How We Do It
-Montell Jordan, "This Is How We Do It"
-montrll jordan
 Move yo Body
 Mr Miste - Broken Wings
 Mr Personality
