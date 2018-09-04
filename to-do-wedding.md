@@ -55,9 +55,9 @@
 - Pick up Bravo rental
 - Pick up small sound setup & cables
 
-#### Saturday
+### Saturday
 
-### Early Morning AM (8:30-11:30)
+#### Early Morning AM (8:30-11:30)
 
 - Help Kate pack Nicks car
 - Pick up vegetarian lasagna
