@@ -1,65 +1,6 @@
 # Wedding playlist
 
-Michael Jackson
-Michael Jackson - Beat it
-Michael Jackson - Billie Jean
-Michael Jackson - Other
-Michael Jackson - The Way You Make Me Feel
-Michael Jackson, "Billie Jean"
-Michael Jackson, "Don't Stop 'Til You Get Enough"
-Michael Jackson, “P.Y.T. (Pretty Young Thing)”
-Michael Jackson, “Wanna Be Startin’ Somethin’”
-Midlake - Roscoe
-Midnight Love
-Midnight Oil - beds are burning
-MIKA - Relax (Take It Easy)
-Mike & the mechanics - The living years
-Mike Posner - Cooler Than Me
-Mike Posner, “I Took a Pill in Ibiza (SeeB Remix)”
-Miley Cyrus
-Miley Cyrus - Malibu
-Miley Cyrus, “Party in the U.S.A.”
-Millie Vanillie - Girl you know its true
-Missy Elliott
-Missy Elliott - Work it
-MJ - mama say mam sa cu ca
-MK - 17
-MN8 - I've Got A Little Something For You
-Modern Talking ft Eric Singleton - You're In My Heart, My Soul '98
-Modest Mouse
-Modest Mouse - Float On
-Moloko - Sing it Back
-Monica - Don't Take It Personal (Just One of Dem Days)
-Move yo Body
-Mr Miste - Broken Wings
-Mr Personality
-Mr President - Coco Jambo
-Mr. C The Slide Man, “Cha Cha Slide”
-Mr. Probz - Waves (Robin Schulz Radio Edit)
-MSTRCFT
-Mungo Jerry - In the Summertime
-my guy
-'n Sync
-'n Sync - I Want You Back
-'n Sync - Tearin' Up My Heart
-Natalie Imbruglia - Big Mistake
-Natalie Imbruglia - Torn
-Natalie Merchant - Build a Levee
-Natalie Umbruglis - Torn
-Natasha Bedingfield - These Words
-Natasha Bedingfield - Unwritten
-Nazareth - Love Hurts
-NEIKED feat. Dyo - Sexual
-Neil Diamond
-Neil Diamond, “Sweet Caroline”
-Neil Sedaka - Calendar Girl
-Neil Young ?
-Nelly - Country Grammar
-Nelly - Hot In Herre
-Nelly Furtado - Maneater
-Nelly Furtado - Promiscuous
 Nelly furtatdo & swollen members
-Nelly, “Hot In Herre”
 Nena - 99 Red Balloons
 New Kids On The Block - Step By Step
 New Kids On The Block - Tonight
@@ -71,6 +12,7 @@ Nils Lofgren - Goin' Back
 Nils Lofgren - No Mercy
 Nilsson - Without You
 no diggity
+swollen members
 No DOubt
 No DOubt - Dont speak
 No Mercy - Where Do You Go
@@ -575,7 +517,6 @@ Will Smith - Miami
 Wolfmother - Woman
 Worlds Apart - Heaven Must Be Missing An Angel
 Wu Tang
-Wyclef
 Yazoo - Only You
 Yes - Owner of a lonely hearts
 yes she is
@@ -586,7 +527,6 @@ Zedd & Liam Payne - Get Low
 Zedd, Maren Morris & Grey - The Middle
 Zhané - Hey Mr. D.J.
 2 live crew
-Indie rock stuff (white stripers)
 
 ## Acoustic Requests
 
