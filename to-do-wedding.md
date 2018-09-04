@@ -26,6 +26,14 @@
 - Other Jewish traditions for ceremoy
 - String light for mic stand
 
+## Friday
+
+Pick up Bravo Order
+Pick up economik Order
+Pick up cooler & necklace chez eitan
+Get printout for guestbook made
+
+
 ## Important information
 
 For wheelchair access the door on the ground floor is 35 inches wide
@@ -42,9 +50,6 @@ Tell bartenderr to save glasses
 
 - Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
 - Mixer AUX >> Speakers outdoor (adaptors & cables)
-- Adjust rental:
-  - Wireless Microphone
-  - well need about 150' per XLR line to get outside (400' total should be good)
 - Restring Guitar & change batteries
 - Get speakers from Steve
 - Pick up rental
