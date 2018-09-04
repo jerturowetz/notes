@@ -2,19 +2,15 @@
 
 ## To-dos
 
-- Finalize cooler & necklace with Eitan
-- Advanced order vegetarian lasagna
-- Advanced order gluten free main - [MAIS?](http://restaurantmais.com/)
-- Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
-- Mixer AUX >> Speakers outdoor (adaptors & cables)
-- Send kate Kale salad ingredients (3 heads kale), paper towel, 2 large bowls, red onion
-- buy coheed tickets
+- Coordinate cupckake pickup
 - Vows
 - Another inflatabke mattress
-- Coordinate cuckake pickup
+- Advanced order vegetarian lasagna (La Maison Des Pâtes Fraîches, 438-333-7999)
+- Advanced order gluten free main - [MAIS?](http://restaurantmais.com/)
+- buy coheed tickets
+- Finalize cooler & necklace with Eitan
 - Music & DJ software finalize
 - Make a reso at stock bar (10 ppl 9pm)
-- Pick up pants (wednesday by 5)
 
 ### Honeymoon-specific
 
@@ -30,30 +26,42 @@
 - Pick up IGA order (9:00 AM)
 - IGA order troubleshooting (if necessary)
 - Bring cakes home & figure out freezer (3x5 stacks should be fine)
+- Pick up pants
 - Print guestbook card
 - Haircut
 - Buy glass to break & cloth sac
-- Restring guitar & change batteries
-- Prep Jam space
-  - Acoustic, case, capo, patches (2+)
-  - Guitar stand
-  - Ext cords (so many)
-  - 25' XLR x4
-  - SM58 & mic stand x2
-  - Matt or Aaron's Tuner
-  - Small mixer & power
-  - $75 Stagebug SB-1 (Acoustic)
-  - $105 Radial StageBug SB-5 (Laptop)
-  - Steve's Speakers, stands & power
-  - Studio Monitors & power
-  - Duct Tape
-  - Xmas lights
+- Marsonic
+  - Restring guitar & change batteries
+  - Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
+  - Mixer AUX >> Speakers outdoor (adaptors & cables)
+  - Prep Jam space
+    - Acoustic, case, capo, patches (2+)
+    - Guitar stand
+    - Ext cords (so many)
+    - 25' XLR x4
+    - SM58 & mic stand x2
+    - Matt or Aaron's Tuner
+    - Small mixer & power
+    - $75 Stagebug SB-1 (Acoustic)
+    - $105 Radial StageBug SB-5 (Laptop)
+    - Steve's Speakers, stands & power
+    - Studio Monitors & power
+    - Duct Tape
+    - Xmas lights
 
 ### Friday
 
 - Pick up Economik rental
 - Pick up Bravo rental
 - Pick up small sound setup & cables
+- Go home & grab rehersal gear (be home for 3pm)
+  - Thermometer
+  - Knife
+  - Cutting Board
+  - Bowls
+  - Paper towels
+  - 1/4 cup slivered almonds (or whatever)
+  - pecornino
 
 ### Saturday
 
