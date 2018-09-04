@@ -3,6 +3,7 @@
 ## To-dos
 
 - Find out about Eloi WiFi
+- pack up ipad for jam space (extra charger)
 - Coordinate cupckake pickup
 - Vows
 - Another inflatabke mattress
