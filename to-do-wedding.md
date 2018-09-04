@@ -1,11 +1,12 @@
 # Let's get married
 
+- Giant Jenga
 - Send kate Kale salad ingredients (3 heads kale), paper towel, 2 large bowls, red onion
 - [MAIS check out](http://restaurantmais.com/)
-- inflatable mattress
 - Make a reso at stock bar (10 ppl 9pm)
 - buy coheed tickets
 - Vows
+- inflatabke mattress
 
 - Print guestbook card & get frame thing
 - Glass to break & cloth
