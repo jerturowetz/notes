@@ -20,6 +20,7 @@
 
 ## Outstanding Bills
 
+- Pay double to Computer (missed last bill)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $500 ish Kate furniture & vacation
 - $125 Mickey
