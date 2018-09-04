@@ -11,6 +11,8 @@
 - Finalize cooler & necklace with Eitan
 - Music & DJ software finalize
 - Make a reso at stock bar (10 ppl 9pm)
+- Figure out first dance
+- Talk to Nick about the hora
 
 ### Honeymoon-specific
 
@@ -96,6 +98,13 @@ IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-944
 Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
 Zilien biret, clarinet player, 514 266 4963
+
+### Acoustic Requests
+
+(YAMIN) John Montgomery & All for One - I Swear
+(ROB) Bryan Adams - Heaven
+(MATT) Whitesnake - Is This Love
+(STEVE) Mr. Mister - Broken Wings
 
 ## After wedding to dos
 

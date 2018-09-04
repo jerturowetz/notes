@@ -20,7 +20,6 @@
 
 ## Outstanding Bills
 
-- $217 (497 - 280) communauto (due Sept 6th)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $500 ish Kate furniture & vacation
 - $125 Mickey
