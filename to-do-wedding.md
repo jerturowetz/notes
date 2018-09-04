@@ -2,6 +2,7 @@
 
 ## To-dos
 
+- Find out about Eloi WiFi
 - Coordinate cupckake pickup
 - Vows
 - Another inflatabke mattress
