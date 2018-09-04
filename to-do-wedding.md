@@ -1,30 +1,17 @@
 # Let's get married
 
-- Crayons
-- Claendar for guestbook
-- tablkecloths for rehersal dinenr
-- call mom re soda
-- hem pants
-- vows
-- guitar stribngs & picks
-- IGA order (cake, soda, fruits, whatever)
-- cayons
-- calendar thingy printout & frame
-- Ranch Mont-Tremblant
-- Centre d’activité nature Kanatha-Aki
-- Get map of area for honeymoon & organize horeseback riding for honeymoon & national park
-- 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
-- [Sebastien Leblanc](https://www.facebook.com/profile.php?id=100006772900393)
-- Build calendar/guestbook thingy
-- Follow up with Jon if possible
-- giant jenga, other games
-- plan beer pong table
-- figure out meatless wheatless food, vegetaliens options
+- Giant Jenga
+- Send kate Kale salad ingredients (3 heads kale), paper towel, 2 large bowls, red onion
+- [MAIS check out](http://restaurantmais.com/)
+- Make a reso at stock bar (10 ppl 9pm)
+- buy coheed tickets
 - Vows
-- snack bowls
+- inflatabke mattress
+
+- Print guestbook card & get frame thing
 - Glass to break & cloth
-- Other Jewish traditions for ceremoy
-- String light for mic stand
+- prep spund equipment
+- reatring guitar
 
 ## Friday
 
@@ -35,14 +22,40 @@ Get printout for guestbook made
 
 
 ## Important information
+- Music & DJ software finalize
+- IGA order (cake, soda, fruits, whatever)
+- Advanced order vegetarian lasagna
+- Advanced order gluten free main
+- Adjust rental:
+  - Wireless Microphone
+  - well need about 150' per XLR line to get outside (400' total should be good)
+- Pick up cuckakes (when?)
+- Pick up pants (wednesday by 5)
 
-For wheelchair access the door on the ground floor is 35 inches wide
+## Honeymoon
 
-IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-9440
+- Ranch Mont-Tremblant
+- Centre d’activité nature Kanatha-Aki
+- organize horeseback riding for honeymoon & national park
+- get map
 
 ## Day of
 
+pick up vegetarian lasagna
+pick up gear at jam space
 Tell bartenderr to save glasses
+
+## Important information
+
+IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-9440
+
+Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
+
+Zilien biret, clarinet player, 514 266 4963
+
+## After wedding to dos
+
+- Get addresses from people
 
 --
 
@@ -68,3 +81,4 @@ Tell bartenderr to save glasses
 - Steve's Speakers, stands & power
 - Studio Monitors & power
 - Duct Tape
+- Xmas lights

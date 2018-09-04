@@ -63,25 +63,16 @@
 
 ## Groceries
 
-- Toilet bowl cleaner
-- anti-perspirant
-- Pancake mix
-- Apple
-- Good Orange juice
+- Carrots
+- Beets
 - Freezies
 - baking soda
-- Jam
-- Mayo
-- Syrop
+- Syrop, pankake mix
 - All bran flakes
-- KD
-- Eggs
-- Sandwich Meat
-- Bread
-- Meats/Fish
-- Root Veg?
-- Toilet paper, paper towels
-- Tomatoe sauce (not pasta sauce)
+- toilet paper, paper towels
+- Mayo
+- pickles
+- pickled eggplant
 
 Health food store:
 
