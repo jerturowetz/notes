@@ -27,9 +27,10 @@
 
 ### Thursday
 
-- Pick up IGA order (9:00 AM)
+- Pick up IGA order (9:00 AM) (granola bars)
 - IGA order troubleshooting (if necessary)
 - Bring cakes home & figure out freezer (3x5 stacks should be fine)
+- pick up cooler & necklace at eitans
 - Pick up pants
 - Print guestbook card
 - Haircut
