@@ -1,10 +1,9 @@
 # Jer's To-Do List
 
 - check out hydro quebec electrium, hydro boire noir power, hydro collabratory
-- Ruby Tracks
+- Ruby Tracks, SJ Tracks
 - Call: Nancy
 - Email Ben Miller re drupal
-- SJ Tracks
 - Pick up drums chez Mike M
 - Hem jeans
 - Pick up djembe

@@ -4,15 +4,12 @@
 
 - Find out about Eloi WiFi
 - pack up ipad for jam space (extra charger)
-- Coordinate cupckake pickup
 - Vows
 - Another inflatabke mattress
 - Advanced order vegetarian lasagna (La Maison Des Pâtes Fraîches, 438-333-7999)
 - Advanced order gluten free main - [MAIS?](http://restaurantmais.com/)
 - buy coheed tickets
-- Finalize cooler & necklace with Eitan
 - Music & DJ software finalize
-- Make a reso at stock bar (10 ppl 9pm)
 - Figure out first dance
 - Talk to Nick about the hora
 
@@ -27,10 +24,11 @@
 
 ### Thursday
 
+- Cupcake drop off & Morning coffee with Bart (8:00 AM)
 - Pick up IGA order (9:00 AM) (granola bars)
 - IGA order troubleshooting (if necessary)
 - Bring cakes home & figure out freezer (3x5 stacks should be fine)
-- pick up cooler & necklace at eitans
+- Pick up cooler & necklace at Eitans
 - Pick up pants
 - Print guestbook card
 - Haircut
