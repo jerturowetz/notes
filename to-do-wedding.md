@@ -1,14 +1,15 @@
 # Let's get married
 
+900 before lunch
+
 ## To-dos
 
-- Find out about Eloi WiFi
+- Find out about Eloi WiFi (AUrelia 514 279-6464, 514 962-3790)
 - pack up ipad for jam space (extra charger)
 - Vows
 - Another inflatabke mattress
 - Advanced order vegetarian lasagna (La Maison Des Pâtes Fraîches, 438-333-7999)
 - Advanced order gluten free main - [MAIS?](http://restaurantmais.com/)
-- buy coheed tickets
 - Music & DJ software finalize
 - Figure out first dance
 - Talk to Nick about the hora
