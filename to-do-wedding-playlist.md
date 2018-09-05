@@ -1,12 +1,7 @@
 # Wedding playlist themes
 
-Britney Spears - (You Drive Me) Crazy [The Stop Remix!] - Remastered
-Phil Collins - Against All Odds (Take A Look At Me Now) - 2016 Remastered
-T. Rex - Bang a Gong (Get It On) - Remastered Version
-Kim Carnes - Bette Davis Eyes - Radio Edit; 1997 Remastered Version
 The Beach Boys - California Girls - Remix/Remastered
 Quad City DJ's - C'mon N' Ride It (The Train) - Radio Mix
-Christina Aguilera - Come on over Baby (All I Want Is You) - Radio Version
 The Human League - Don't You Want Me - 2002 - Remaster
 Backstreet Boys - Everybody (Backstreet's Back) - Radio Edit
 Fat Joe - Get It Poppin' (feat. Nelly) - Serban Main 4/20/05
