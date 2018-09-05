@@ -95,6 +95,8 @@
 
 Productions Eloi, 6250 Rue Hutchison, 5e étage, Montréal, QC H2V 4C5
 
+Patrick Keeler, Bartender, 514.662.4771
+
 IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-9440
 
 Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0

@@ -1,5 +1,9 @@
 # Wedding playlist themes
 
+Leonard cohen something
+Hank williams something
+i need a girl pt 1
+i say a little paryer
 Britney Spears - (You Drive Me) Crazy [The Stop Remix!] - Remastered
 Phil Collins - Against All Odds (Take A Look At Me Now) - 2016 Remastered
 T. Rex - Bang a Gong (Get It On) - Remastered Version
@@ -27,27 +31,3 @@ The Jacksons - Shake Your Body (Down to the Ground) - Single Version
 Eurythmics - Sweet Dreams (Are Made of This) - Remastered
 KC & The Sunshine Band - That's The Way (I Like It) - 2004 Remastered Version
 Rod Stewart - Tonight's the Night (Gonna Be Alright) - 2008 Remastered Version
-
-
-- 70s soft rock
-- 70s soul
-- 70s disco/funk
-- 90s super dance
-- 2000s pop
-- 80s hair rock
-- 80s soft rock
-- 80s killers
-- 90s dance mega hits
-- 90's 2000's hip hop / rnb (destinys child, tlc, tonibraxton)
-- 90's-2000's super pop (backstreet boys)
-- 2000s undancable (alanis)
-
-- Showstoppers - Hip Hop
-- Showstoppers - Golden Oldies
-- Showstoppers - 90s cheeseball
-- Showstoppers - Current Dance
-
-- Barnroom dancefloor
-- Indie Dance Music mix
-- slow dance (sort later)
-- mexico moments
