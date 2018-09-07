@@ -1,97 +1,39 @@
 # Let's get married
 
-900 before lunch
-
-## To-dos
-
-- Find out about Eloi WiFi (AUrelia 514 279-6464, 514 962-3790)
-- pack up ipad for jam space (extra charger)
-- Vows
-- Another inflatabke mattress
-- Advanced order vegetarian lasagna (La Maison Des Pâtes Fraîches, 438-333-7999)
-- Advanced order gluten free main - [MAIS?](http://restaurantmais.com/)
-- Music & DJ software finalize
-- Figure out first dance
-- Talk to Nick about the hora
-
-### Honeymoon-specific
-
-- Ranch Mont-Tremblant
-- Centre d’activité nature Kanatha-Aki
-- organize horeseback riding for honeymoon & national park
-- get map
-
-## Jeremy schedule
-
-### Thursday
-
-- Cupcake drop off & Morning coffee with Bart (8:00 AM)
-- Pick up IGA order (9:00 AM) (granola bars)
-- IGA order troubleshooting (if necessary)
-- Bring cakes home & figure out freezer (3x5 stacks should be fine)
-- Pick up cooler & necklace at Eitans
-- Pick up pants
-- Print guestbook card
-- Haircut
+- Vows finale
 - Buy glass to break & cloth sac
-- Marsonic
-  - Restring guitar & change batteries
-  - Figure out Mixer TRS >> Speakers indoor (adaptors & cables)
-  - Mixer AUX >> Speakers outdoor (adaptors & cables)
-  - Prep Jam space
-    - Acoustic, case, capo, patches (2+)
-    - Guitar stand
-    - Ext cords (so many)
-    - 25' XLR x4
-    - SM58 & mic stand x2
-    - Matt or Aaron's Tuner
-    - Small mixer & power
-    - $75 Stagebug SB-1 (Acoustic)
-    - $105 Radial StageBug SB-5 (Laptop)
-    - Steve's Speakers, stands & power
-    - Studio Monitors & power
-    - Duct Tape
-    - Xmas lights
+- 8L club soda 
+- 1/4 bal to XLR F x2
+- talk to nick about the hora
 
-### Friday
+## Saturday
 
-- Pick up Economik rental
-- Pick up Bravo rental
-- Pick up small sound setup & cables
-- Go home & grab rehersal gear (be home for 3pm)
-  - Thermometer
-  - Knife
-  - Cutting Board
-  - Bowls
-  - Paper towels
-  - 1/4 cup slivered almonds (or whatever)
-  - pecornino
+### Early Morning AM (8:30-11:30)
 
-### Saturday
-
-#### Early Morning AM (8:30-11:30)
-
-- Help Kate pack Nicks car
+- Get stuff from BK ???when???
 - Pick up vegetarian lasagna
-- Pick up gluten free main
+- Pick up potuvese chixken 
 - Pick up gear at jam space
 
-#### at Eloi (12:00-2:00)
+### at Eloi (12:00-2:00)
 
 - Clear out freezer space for cakes
 - Bring one cooler back to house
 - Set up sound gear
 - Advise Bartender of move inside at 6PM & assign Perry
+- tell service staff to reherat lasagna 
 
-#### Go home & get ready (2:00-4:00)
+### Go home & get ready (2:00-4:00)
 
 - Pick up McDonalds en route
 - Have fun & relax
-- Bring cakes
+- bring ring
 
 --
 
 ## Important information
+
+lasagna 375 for 30 to 45 min
 
 Productions Eloi, 6250 Rue Hutchison, 5e étage, Montréal, QC H2V 4C5
 
@@ -113,3 +55,10 @@ Zilien biret, clarinet player, 514 266 4963
 ## After wedding to dos
 
 - Get mailing addresses
+
+## Honeymoon
+
+- Ranch Mont-Tremblant
+- Centre d’activité nature Kanatha-Aki
+- organize horeseback riding for honeymoon & national park
+- get map

@@ -70,7 +70,6 @@
 - baking soda
 - Syrop, pankake mix
 - All bran flakes
-- toilet paper, paper towels
 - Mayo
 - pickles
 - pickled eggplant
@@ -98,7 +97,8 @@ Recipie related:
 ## Code study
 
 - [Intro to webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
-- [Introduction to Webpack](https://code.tutsplus.com/series/introduction-to-webpack--cms-983)
+- [Introduction to Webpack](https://code.tutspl 
+ f nkus.com/series/introduction-to-webpack--cms-983)
 - [Jekyll Asset Managment](https://webpack.js.org/guides/asset-management/)
 - [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
 - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
