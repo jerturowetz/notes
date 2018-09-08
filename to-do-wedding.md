@@ -1,34 +1,24 @@
 # Let's get married
 
-- glass for breakbg
-- Vows finale
-- talk to nick about the hora
-- music last run
-- prep first dance
-- paxk go bag
-
-## Saturday
-
-### Early Morning AM (8:30-11:30)
-
+- pack go bag
+- 8L club soda
 - Pick up vegetarian lasagna
 - Pick up gear at jam space
-- 8L club soda
-- message wtiquette re lasagna 
 
-### at Eloi (12:00-2:00)
+## at Eloi (12:00-2:00)
 
 - Clear out freezer space for cakes
-- Set up sound gear
 - assign Perry - move bartender in at 6pm
-- leavw cash for patrick iceman
+- leave cash for patrick iceman
+- Set up sound gear
 - set up sound for first dance deploy
 
-### Go home & get ready (2:00-4:00)
+## Go home & get ready (2:00-4:00)
 
 - Pick up McDonalds en route
 - Have fun & relax
 - bring ring
+- Bring glass to break
 
 --
 
@@ -44,7 +34,7 @@ IGA, 900 rue Saint-Zotique Est, H2S 1M8, Montréal, Quebec, Phone: (514) 270-944
 
 Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
-Zilien biret, clarinet player, 514 266 4963
+Ariane Morin, Saxophone, 514-969-9714
 
 ### Acoustic Requests
 
@@ -63,6 +53,3 @@ Zilien biret, clarinet player, 514 266 4963
 - Centre d’activité nature Kanatha-Aki
 - organize horeseback riding for honeymoon & national park
 - get map
-
-roz @ barry
-
