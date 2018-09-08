@@ -1,27 +1,28 @@
 # Let's get married
 
+- glass for breakbg
 - Vows finale
-- Buy glass to break & cloth sac
-- 8L club soda 
-- 1/4 bal to XLR F x2
 - talk to nick about the hora
+- music last run
+- prep first dance
+- paxk go bag
 
 ## Saturday
 
 ### Early Morning AM (8:30-11:30)
 
-- Get stuff from BK ???when???
 - Pick up vegetarian lasagna
-- Pick up potuvese chixken 
 - Pick up gear at jam space
+- 8L club soda
+- message wtiquette re lasagna 
 
 ### at Eloi (12:00-2:00)
 
 - Clear out freezer space for cakes
-- Bring one cooler back to house
 - Set up sound gear
-- Advise Bartender of move inside at 6PM & assign Perry
-- tell service staff to reherat lasagna 
+- assign Perry - move bartender in at 6pm
+- leavw cash for patrick iceman
+- set up sound for first dance deploy
 
 ### Go home & get ready (2:00-4:00)
 
@@ -62,3 +63,6 @@ Zilien biret, clarinet player, 514 266 4963
 - Centre d’activité nature Kanatha-Aki
 - organize horeseback riding for honeymoon & national park
 - get map
+
+roz @ barry
+
