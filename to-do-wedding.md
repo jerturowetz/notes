@@ -1,5 +1,12 @@
 # Let's get married
 
+- csll beaus 
+- return beaus
+- pay maurin
+- pay etiquette
+- return beer
+- return wine
+- missing items
 - Get mailing addresses
 
 ## Honeymoon
