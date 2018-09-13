@@ -10,11 +10,10 @@
 
 ## Honeymoon
 
-- Honeymoon address: 2511 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
+Cabin address: 2511 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
 
-milk
-egg
-cheese 
-tonatoes
+- AKROPARK 819-429-3307
+- VIA FERRATA 1-888-738-1777
 
-other snacks
+Horseback riding
+
