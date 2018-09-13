@@ -1,18 +1,20 @@
 # Let's get married
 
-- csll beaus 
-- return beaus
-- pay maurin
-- pay etiquette
-- return beer
+- replace cathys buckets. ref 
+- pay myriam
 - return wine
-- missing items
 - Get mailing addresses
+- resolve missing packages
+- thank you cards
+- coeur boheme review
 
 ## Honeymoon
 
-- Honeymoon address: 2525 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
-- Ranch Mont-Tremblant
-- Centre d’activité nature Kanatha-Aki
-- organize horeseback riding for honeymoon & national park
-- get map
+- Honeymoon address: 2511 Chemin du Lac Supérieur, Lac-Supérieur, QC J0T 1P0
+
+milk
+egg
+cheese 
+tonatoes
+
+other snacks
