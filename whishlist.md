@@ -1,6 +1,7 @@
 # Wishlist
 
 - Better razor (buzzer)
+- Wool socks
 - king talc & layrite palmade
 - Gear to patch hole behind stove
 - Sneakers
