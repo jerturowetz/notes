@@ -2,6 +2,7 @@
 
 ## Sat to-do
 
+- pick up bike
 - Cancel spotify
 - Pick up djembe
 - cathys buckets at eloi

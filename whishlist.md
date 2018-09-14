@@ -28,6 +28,9 @@
 
 ## Kate stuff
 
+- cautlin moran, 
+- how to be famius, the only story, ordinary people (books for ref)
+- canadian living magazine for book suggestions
 - exacto knife
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - [Make a sweater](https://www.entripy.com/)
