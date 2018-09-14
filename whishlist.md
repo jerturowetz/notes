@@ -4,7 +4,7 @@
 - Wool socks
 - king talc & layrite palmade
 - Gear to patch hole behind stove
-- Sneakers
+- Running Shoes
 - Earphone wrap thingy
 - $100 [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - $20 ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
@@ -12,7 +12,6 @@
 ## Kate stuff
 
 - exacto knife
-- scoring tool
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - [Make a sweater](https://www.entripy.com/)
 - Panda shirt cross-eyed-bear lyrics
