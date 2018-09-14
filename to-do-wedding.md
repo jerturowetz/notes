@@ -2,6 +2,8 @@
 
 ## Sat to-do
 
+- Cancel spotify
+- Pick up djembe
 - cathys buckets at eloi
 - Tip Alan at trerr to tree
 - BKDSN pickup

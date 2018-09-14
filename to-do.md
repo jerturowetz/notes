@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- Pick up djembe
 - Email Ben Miller re drupal
 - check out hydro quebec electrium, hydro boire noir power, hydro collabratory
 - Ruby Tracks, SJ Tracks
@@ -11,8 +10,7 @@
 - AA Roaul notes
 - Get guitar case from Rachel
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
-- Cancel Spotify
-- [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
 - DJ Pro app return conf number 1439520765
