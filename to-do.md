@@ -1,7 +1,8 @@
 # Jer's To-Do List
 
+- Renwe Drivers License
 - Email Ben Miller re drupal
-- check out hydro quebec electrium, hydro boire noir power, hydro collabratory
+- Send out hosting reminders re cancelling WP Engine
 - Ruby Tracks, SJ Tracks
 - Call: Nancy
 - Pick up drums chez Mike M
@@ -14,6 +15,7 @@
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
 - DJ Pro app return conf number 1439520765
+- [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 
 ## Outstanding Bills
 

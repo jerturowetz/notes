@@ -1,8 +1,25 @@
 # Wishlist
 
+## Priority
+
+- king talc & layrite palmade
+- mini mini Qtips/cotton pipe cleaners
+- little paint brushes
+- Deoxit or MG Chemicals Electrosolve Contact Cleaner
+- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
+- KIMWIPES Delicate Task Wipers
+- Solder sucker
+- $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
+- scratch awl
+- 8 chnl TRS snake
+- 4+RU rack case w/power
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
+- $100 Naiant inline attenuators x4
+
+## Various
+
 - Better razor (buzzer)
 - Wool socks
-- king talc & layrite palmade
 - Gear to patch hole behind stove
 - Running Shoes
 - Earphone wrap thingy
@@ -18,15 +35,11 @@
 - $500 Banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
 - $90 suck it hoodie (Tshirt time.com)
-- STOCKHOLM Mirror
-- RipNDIP clothing
 - [Hawaii T](http://fresh-tops.com/hawaii-white-t-shirt/)
 - [Do Nothing Club hat](http://fresh-tops.com/do-nothing-white-hat/)
 - ugly dino xmas sweater
 - Kim gift :: TV show : Grand Hotel
 - Kate's Uncle Movie Day - (FX2, Body Parts & Defcon 4)
-- Use music by the knife and Jose Gonzalez to take a vantage of Kate
-- Horseback riding
 - Stewart Museaum
 - santiago ramón y cajal prints
 - cretien book CATHY
@@ -48,26 +61,14 @@
 
 ## Workshop & soldering station
 
-- mini mini Qtips/cotton pipe cleaners
-- little paint brushes
-- Deoxit or MG Chemicals Electrosolve Contact Cleaner
-- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
-- KIMWIPES Delicate Task Wipers
-- Solder sucker
 - Weller Tips for PES51
 - HTXP (Hand tool for tightening the bushing of the XLR XX series)
 - Bench Vise
-- $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- scratch awl
 - shop towels or cloths
 - tiny metal ruler (electricians ruler)
 
 ## Music gear
 
-- 8 chnl TRS snake
-- 4+RU rack case w/power
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- $100 Naiant inline attenuators x4
 - $450 Radial Key Largo (for Travis main)
 - $100 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
