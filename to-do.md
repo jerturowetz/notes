@@ -1,14 +1,13 @@
 # Jer's To-Do List
 
+- Pick up djembe
+- Email Ben Miller re drupal
 - check out hydro quebec electrium, hydro boire noir power, hydro collabratory
 - Ruby Tracks, SJ Tracks
 - Call: Nancy
-- Email Ben Miller re drupal
 - Pick up drums chez Mike M
 - Hem jeans
-- Pick up djembe
-- Warn shakti of email changes
-- Shut down rackspace
+- Warn shakti of email changes & Shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
@@ -16,12 +15,11 @@
 - [Get a GP](http://gamf.gouv.qc.ca/index_en.html)
 - [$60/yr Capitol One Card](http://bit.ly/28Os44b)
 - Life insurance
-- djpro app return conf number 1439520765
+- DJ Pro app return conf number 1439520765
 
 ## Outstanding Bills
 
 - Coheed tickets
-- Pay double to Computer (missed last bill)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $500 ish Kate furniture & vacation
 - $125 Mickey
