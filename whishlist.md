@@ -2,15 +2,20 @@
 
 ## Priority
 
+### on amZon wish list
+
 - king talc & layrite palmade
 - mini mini Qtips/cotton pipe cleaners
 - little paint brushes
-- Deoxit or MG Chemicals Electrosolve Contact Cleaner
-- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
-- KIMWIPES Delicate Task Wipers
-- Solder sucker
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - scratch awl
+- solder sucker
+- Deoxit or MG Chemicals Electrosolve Contact Cleaner
+- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
+
+### to add
+
+- KIMWIPES Delicate Task Wipers
 - 8 chnl TRS snake
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
@@ -87,6 +92,7 @@
 - Floor fan
 - Tuner
 - Soundbrenner Pulse
+- Better capo
 
 ### Crashes to try
 
