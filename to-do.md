@@ -62,28 +62,6 @@
 
 ## Groceries
 
-- Carrots
-- Beets
-- Freezies
-- baking soda
-- Syrop, pankake mix
-- All bran flakes
-- Mayo
-- pickles
-- pickled eggplant
-
-Health food store:
-
-- Grape seed oil
-- sunflower oil
-
-Chinese food store:
-
-- Udon noodles
-- Frozen Dumplings
-
-Recipie related:
-
 - lasagna ingredients
 - buddah bowl stuff?
 - greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
