@@ -1,20 +1,9 @@
 # Wishlist
 
-## Priority
-
-### on amZon wish list
-
-- king talc & layrite palmade
-- mini mini Qtips/cotton pipe cleaners
-- little paint brushes
+- deoxit
+- king talc & brush
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- scratch awl
-- solder sucker
-- Deoxit or MG Chemicals Electrosolve Contact Cleaner
-- MG Chemicals 99.9% Isopropyl Alcohol Liquid Cleaner
-
-### to add
-
+- short pc power cords
 - KIMWIPES Delicate Task Wipers
 - 8 chnl TRS snake
 - 4+RU rack case w/power
