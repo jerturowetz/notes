@@ -4,7 +4,8 @@
 - 8 chnl TRS snake
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- $100 Naiant inline attenuators x4
+- Bench Vise
+- shop towels or cloths
 
 ## Various
 
@@ -37,26 +38,6 @@
 - cretien book CATHY
 - tshirt "not really drinking"
 
-## Bulk Cable
-
-- $1.12/ft Mogami W2534 Quad mic cable - 24AWG (multiple colors available)
-- $0.50/ft Canare L-4E6S Quad mic Cable - 21AWG (multiple colors available)
-- $0.80/ft Mogami W2549 Standard Balanced Mic Cable - 22AWG (multiple colors available)
-- $0.50/ft Canare L-2T2S Balanced Mic Cable - 22AWG
-- $0.84/ft Mogami W2524 Unbalanced Instrument Cable - 20AWG
-- $0.84/ft Canare GS-6 Unbalanced Instrument Cable - 18AWG (multiple colors available)
-
-### Things to keep in mind
-
-- Snake cable is typically a bit smaller, about 25-26AWG
-- Braided sheilded cable is superior to spiral sheilded cable
-
-## Workshop & soldering station
-
-- Weller Tips for PES51
-- Bench Vise
-- shop towels or cloths
-
 ## Music gear
 
 - $450 Radial Key Largo (for Travis main)
@@ -69,6 +50,7 @@
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
 - IEC-6X4 (short power cords, any type)
+- Naiant inline attenuators (24db mic) x2
 - Floor fan
 
 ### Crashes to try
