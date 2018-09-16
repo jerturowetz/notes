@@ -9,6 +9,7 @@
 
 ## Various
 
+- Home power strip/cube
 - Wool socks
 - Gear to patch hole behind stove
 - Running Shoes
