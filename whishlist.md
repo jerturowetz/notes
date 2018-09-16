@@ -1,7 +1,10 @@
 # Wishlist
 
+microphone bag
+rack bag for transport
+
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- 8 chnl TRS snake
+- 8 chnl TRS snake (planet waves)
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - Bench Vise
@@ -19,7 +22,6 @@
 
 ## Kate stuff
 
-- cautlin moran, 
 - how to be famius, the only story, ordinary people (books for ref)
 - canadian living magazine for book suggestions
 - exacto knife

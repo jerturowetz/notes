@@ -1,11 +1,8 @@
 # Jer's To-Do List
 
-- Rack bag
 - shoe storage for closet
 - box for suitcases/bags
 - steak knife block
-- playmobil for kate
-- irena juan lola bootie
 - plans with eitan & leslie
 - plans with andrew
 - Email Ben Miller re drupal
@@ -26,9 +23,7 @@
 
 ## Outstanding Bills
 
-- Coheed tickets
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $500 ish Kate furniture & vacation
 - $125 Mickey
 - $??? Madi Tech Aarons computer
 - $200 Agg, Andrew, Joe gifts
