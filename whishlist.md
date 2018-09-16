@@ -1,10 +1,6 @@
 # Wishlist
 
-- deoxit
-- king talc & brush
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- short pc power cords
-- KIMWIPES Delicate Task Wipers
 - 8 chnl TRS snake
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
@@ -12,7 +8,6 @@
 
 ## Various
 
-- Better razor (buzzer)
 - Wool socks
 - Gear to patch hole behind stove
 - Running Shoes
@@ -59,10 +54,8 @@
 ## Workshop & soldering station
 
 - Weller Tips for PES51
-- HTXP (Hand tool for tightening the bushing of the XLR XX series)
 - Bench Vise
 - shop towels or cloths
-- tiny metal ruler (electricians ruler)
 
 ## Music gear
 
@@ -75,13 +68,8 @@
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
-- IEC-6X4 (short power cords)
-- Powered monitor (like a yamaha dxr10)
-- Rug
+- IEC-6X4 (short power cords, any type)
 - Floor fan
-- Tuner
-- Soundbrenner Pulse
-- Better capo
 
 ### Crashes to try
 
