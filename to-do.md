@@ -1,6 +1,13 @@
 # Jer's To-Do List
 
-- Renwe Drivers License
+- Rack bag
+- shoe storage for closet
+- box for suitcases/bags
+- steak knife block
+- playmobil for kate
+- irena juan lola bootie
+- plans with eitan & leslie
+- plans with andrew
 - Email Ben Miller re drupal
 - Send out hosting reminders re cancelling WP Engine
 - Ruby Tracks, SJ Tracks
