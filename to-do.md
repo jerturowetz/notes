@@ -1,5 +1,11 @@
 # Jer's To-Do List
 
+- Plans with Kalin
+- setup shared github
+- Bart 25$ for duty
+- setup kates bday
+- set up my bday
+- Zone missing orders
 - shoe storage for closet
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - steak knife block
@@ -23,7 +29,6 @@
 
 ## Wedding to do
 
-- Cancel spotify
 - Tip Alan at trerr to tree
 - pay myriam
 - Get mailing addresses
