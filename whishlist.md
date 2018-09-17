@@ -1,6 +1,5 @@
 # Wishlist
 
-microphone bag
 rack bag for transport
 tape measure
 king talc
