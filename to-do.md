@@ -1,7 +1,7 @@
 # Jer's To-Do List
 
 - shoe storage for closet
-- box for suitcases/bags
+- box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - steak knife block
 - plans with eitan & leslie
 - plans with andrew

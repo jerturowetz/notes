@@ -2,6 +2,8 @@
 
 microphone bag
 rack bag for transport
+tape measure
+king talc
 
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - 8 chnl TRS snake (planet waves)
