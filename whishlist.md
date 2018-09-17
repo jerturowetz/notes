@@ -1,9 +1,7 @@
 # Wishlist
 
-rack bag for transport
-tape measure
-king talc
-
+- rack bag for transport
+- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - 8 chnl TRS snake (planet waves)
 - 4+RU rack case w/power
@@ -20,6 +18,11 @@ king talc
 - Earphone wrap thingy
 - $100 [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - $20 ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
+- shoe storage for closet
+- steak knife block
+- Dresser
+- king talc & brush
+- tape measure
 
 ## Kate stuff
 

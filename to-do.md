@@ -1,10 +1,14 @@
 # Jer's To-Do List
 
-- shoe storage for closet
+- Get mailing addresses for those missing
+- find a tent replacement
+- organize bday
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
-- steak knife block
+- Cancel spotify premium
+- Tip Alan at trerr to tree
 - plans with eitan & leslie
 - plans with andrew
+- Wedding thank you cards
 - Email Ben Miller re drupal
 - Send out hosting reminders re cancelling WP Engine
 - Ruby Tracks, SJ Tracks
@@ -21,18 +25,9 @@
 - DJ Pro app return conf number 1439520765
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 
-## Wedding to do
-
-- Cancel spotify
-- Tip Alan at trerr to tree
-- pay myriam
-- Get mailing addresses
-- thank you cards
-
-
 ## Outstanding Bills
 
-- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- pay myriam
 - $125 Mickey
 - $??? Madi Tech Aarons computer
 - $200 Agg, Andrew, Joe gifts
