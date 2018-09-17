@@ -24,6 +24,13 @@
 - king talc & brush
 - tape measure
 
+## Outstanding Bills
+
+- Pay myriam for photos
+- $125 Mickey
+- $200 Agg, Andrew, Joe gifts
+- $??? Aaron computer
+
 ## Kate stuff
 
 - how to be famius, the only story, ordinary people (books for ref)

@@ -1,43 +1,54 @@
 # Jer's To-Do List
 
-- Plans with Kalin
-- setup shared github
-- Bart 25$ for duty
+- Tip Alan from tree-to-tree 1-819-429-1110
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
+- shoe storage for closet
+- box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
+- Get mailing addresses for those missing
+
 - setup kates bday
 - set up my bday
-- Zone missing orders
-- shoe storage for closet
-- Get mailing addresses for those missing
-- find a tent replacement
-- organize bday
-- box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
-- Cancel spotify premium
-- Tip Alan at trerr to tree
+- Plans with Kalin
 - plans with eitan & leslie
 - plans with andrew
-- Wedding thank you cards
-- Email Ben Miller re drupal
-- Send out hosting reminders re cancelling WP Engine
+
+- setup shared github
+- Bart 25$ for duty
+- request Dell payout $$
+- Tip Alan from the tree-to-tree
+- Call: Nancy, Phillipe, Joe
 - Ruby Tracks, SJ Tracks
-- Call: Nancy
-- Pick up drums chez Mike M
+- Wedding thank you cards
+- Zone missing orders
+- DJ Pro app return conf number 1439520765
 - Hem jeans
+- Pick up drums chez Mike M
+- Life insurance
 - Warn shakti of email changes & Shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- [$60/yr Capitol One Card](http://bit.ly/28Os44b)
-- Life insurance
-- DJ Pro app return conf number 1439520765
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 
-## Outstanding Bills
+## WP Engine Migrations
 
-- pay myriam
-- $125 Mickey
-- $??? Madi Tech Aarons computer
-- $200 Agg, Andrew, Joe gifts
+- Send out emails of warning:
+  - ~~ADS~~
+  - ~~Standard~~
+  - ~~VSF~~
+  - ~~Carly~~
+  - ~~WI Vaccs~~
+  - Shakti
+  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
+- Perform actual migrations
+  - ADS
+  - Standard
+  - VSF
+  - Carly
+  - WI Vaccs
+  - Shakti
+  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
+- Sucre to Godaddy
 
 ## Psych help
 
@@ -70,18 +81,6 @@
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
-
---
-
-## Groceries
-
-- lasagna ingredients
-- buddah bowl stuff?
-- greek yogurt, boston lettuce, pita bread, big tomato, cucumber, chic peas
-- haddock, mint, sun dried tomatoe in oil
-- Spatch cocke chicken on parchment paper, rubbed with butter and cooked with patates and brussel sprouts
-
---
 
 ## Code study
 
