@@ -66,6 +66,7 @@
 - IEC-6X4 (short power cords, any type)
 - Naiant inline attenuators (24db mic) x2
 - Floor fan
+- Reaper, Ableton Live, Cubase
 
 ### Crashes to try
 
