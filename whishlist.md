@@ -33,6 +33,7 @@
 
 ## Kate stuff
 
+- [Chateau du cirque](https://www.chateau-cirque.com/)
 - how to be famius, the only story, ordinary people (books for ref)
 - canadian living magazine for book suggestions
 - exacto knife
