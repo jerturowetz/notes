@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Organize ruby stems properly named
+- Send wedding pics to Goose, Ricardo, Raoul, David
 - Plans with Kalin
 - plans with andrew
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
@@ -7,7 +9,6 @@
 - Test remote desktop
 - Mini putt plans
 - A dark room (game)
-- Organize ruby stems properly named
 - Tip Alan from tree-to-tree 1-819-429-1110
 - Get mailing addresses for those missing
 - Call: Nancy, Phillipe, Joe
