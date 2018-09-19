@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Organize ruby stems
+- Organize ruby stems properly named
 - Tip Alan from tree-to-tree 1-819-429-1110
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
 - shoe storage for closet
