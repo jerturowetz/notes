@@ -1,20 +1,15 @@
 # Jer's To-Do List
 
-- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- set up remote desktop
-- Organize ruby stems properly named
-- Tip Alan from tree-to-tree 1-819-429-1110
-- shoe storage for closet
-- box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
-- Get mailing addresses for those missing
-
-- set up my bday
 - Plans with Kalin
 - plans with andrew
-
-- Bart 25$ for duty
-- request Dell payout $$
+- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
+- Test remote desktop
+- Mini putt plans
+- A dark room (game)
+- Organize ruby stems properly named
+- Tip Alan from tree-to-tree 1-819-429-1110
+- Get mailing addresses for those missing
 - Call: Nancy, Phillipe, Joe
 - Ruby Tracks, SJ Tracks
 - Wedding thank you cards
