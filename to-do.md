@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- Get ableton Live
 - Organize ruby stems
 - Tip Alan from tree-to-tree 1-819-429-1110
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
