@@ -1,6 +1,8 @@
 # Jer's To-Do List
 
-- Organize ruby stems properly named
+- Set up Ruby ABleton Project & metros
+- Redco order? Naiant order?
+- Set up recording rig for drums
 - Send wedding pics to Goose, Ricardo, Raoul, David
 - Plans with Kalin
 - plans with andrew
