@@ -1,9 +1,10 @@
 # Jer's To-Do List
 
-- Organize camera uploads
+- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
+- set up remote desktop
 - Organize ruby stems properly named
 - Tip Alan from tree-to-tree 1-819-429-1110
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
 - shoe storage for closet
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - Get mailing addresses for those missing
@@ -25,7 +26,6 @@
 - Warn shakti of email changes & Shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
-- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 
 ## WP Engine Migrations
