@@ -24,6 +24,9 @@
 - steak knife block
 - king talc & brush
 - tape measure
+- Sauté pan
+- 16-Quart Stock Pot
+- 12-Quart Stock Pot
 
 ## Outstanding Bills
 

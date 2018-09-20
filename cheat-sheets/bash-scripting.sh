@@ -1,8 +1,9 @@
 #!/bin/bash
+#
+# The shell style ghuide by google is great
+# https://google.github.io/styleguide/shell.xml#File_Header
 
-## Bash, loop through folders
-
-# Loops trough D and then you can do whatever
+# Loops trough folders and then you can do whatever
 for D in *; do
     if [ -d "${D}" ]; then
         echo "${D}"
@@ -15,13 +16,7 @@ for D in *; do [ -d "${D}" ] && my_command; done
 # Or an even more concise version (thanks @enzotib). Note that in this version each value of D will have a trailing slash
 for D in */; do my_command; done
 
-# --------------------------------------------------------- #
-# prepend_to_file ()                                        #
-# Prepends string to given file                             #
-# Parameter: $file_name                                     #
-# Parameter: $prepend_string                                #
-# Returns: 0 on success, $E_BADFILE if file not present     #
-# --------------------------------------------------------- #
+# example function
 prepend_to_file () {
 
 	local file_name = "${1}"

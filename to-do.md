@@ -1,18 +1,17 @@
 # Jer's To-Do List
 
-- Ruby tracks normalize all vox (95) & guitars (75)
-- Mini putt plans
-- Set up Ruby ABleton Project & metros
-- Redco order? Naiant order?
-- Set up recording rig for drums
+- Finalize mini putt plans
 - Plans with Kalin
-- plans with andrew
-- Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- A dark room (game)
+- plans with andrew for dinner
+- Set up Ruby Ableton Project, metros & normalize
 - Tip Alan from tree-to-tree 1-819-429-1110
 - Get mailing addresses for those missing
 - Call: Nancy, Phillipe, Joe
+- Get a family doctor [Matt: Dr. Barbara Evans, Goldman Herzl Family Practice Centre, 514-340-8253]
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
+- Redco order?
+- Naiant order?
+- Set up recording rig for drums
 - Ruby Tracks, SJ Tracks
 - Wedding thank you cards
 - Zone missing orders
@@ -24,26 +23,6 @@
 - AA Roaul notes
 - Get guitar case from Rachel
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
-
-## WP Engine Migrations
-
-- Send out emails of warning:
-  - ~~ADS~~
-  - ~~Standard~~
-  - ~~VSF~~
-  - ~~Carly~~
-  - ~~WI Vaccs~~
-  - Shakti
-  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
-- Perform actual migrations
-  - ADS
-  - Standard
-  - VSF
-  - Carly
-  - WI Vaccs
-  - Shakti
-  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
-- Sucre to Godaddy
 
 ## Psych help
 
