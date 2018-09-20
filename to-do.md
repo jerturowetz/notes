@@ -70,6 +70,9 @@
 
 ### Path
 
+- [Preload with Webpack](https://www.smashingmagazine.com/2017/02/web-development-reading-list-168/)
+- [Responsive Images Now Landed In WordPress Core](https://www.smashingmagazine.com/2015/12/responsive-images-in-wordpress-core/)
+- [WordPress Responsive Images With Art Direction](https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/)
 - need to get on auto-prefixer...
 - Wordpress & webpack
 - [wordpress security as a process](https://www.smashingmagazine.com/2018/06/wordpress-security-as-a-process/)
