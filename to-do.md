@@ -1,16 +1,14 @@
 # Jer's To-Do List
 
 - Ruby tracks normalize all vox (95) & guitars (75)
+- Mini putt plans
 - Set up Ruby ABleton Project & metros
 - Redco order? Naiant order?
 - Set up recording rig for drums
-- Send wedding pics to Goose, Ricardo, Raoul, David
 - Plans with Kalin
 - plans with andrew
 - Get a family doctor [Matt: Dr. Barbara Evans, Herzl Clinic, 514-340-8253]
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- Test remote desktop
-- Mini putt plans
 - A dark room (game)
 - Tip Alan from tree-to-tree 1-819-429-1110
 - Get mailing addresses for those missing
