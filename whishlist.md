@@ -1,5 +1,6 @@
 # Wishlist
 
+- rolling cars fof sound gea
 - Ribba frame & photo of Kate diving for Cathy Xmas
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
