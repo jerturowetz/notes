@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Ruby tracks normalize all vox (95) & guitars (75)
 - Set up Ruby ABleton Project & metros
 - Redco order? Naiant order?
 - Set up recording rig for drums
