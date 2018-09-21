@@ -1,19 +1,18 @@
 # Jer's To-Do List
 
-- All clad warranty
 - Finalize mini putt plans
-- Plans with Kalin
-- plans with andrew for dinner
-- Set up Ruby Ableton Project, metros & normalize
+- Normalize NoMatt tracks
 - Tip Alan from tree-to-tree 1-819-429-1110
 - Get mailing addresses for those missing
+- Plans with Kalin
+- plans with andrew for dinner
 - Call: Nancy, Phillipe, Joe
 - Get a family doctor [Matt: Dr. Barbara Evans, Goldman Herzl Family Practice Centre, 514-340-8253]
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
 - Redco order?
 - Naiant order?
-- Set up recording rig for drums
-- Ruby Tracks, SJ Tracks
+- Set up recording rig & track template
+- Prep Ruby Tracks
 - Wedding thank you cards
 - Zone missing orders
 - DJ Pro app return conf number 1439520765
