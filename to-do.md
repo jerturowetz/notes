@@ -70,6 +70,8 @@
 
 ### Path
 
+- [What are wordpress hooks](https://learnwoo.com/what-are-wordpress-hooks/)
+- [START UNIT TESTING EXISTING WORDPRESS CODE](https://carlalexander.ca/how-to-start-unit-testing-wordpress-code/)
 - [Preload with Webpack](https://www.smashingmagazine.com/2017/02/web-development-reading-list-168/)
 - [Responsive Images Now Landed In WordPress Core](https://www.smashingmagazine.com/2015/12/responsive-images-in-wordpress-core/)
 - [WordPress Responsive Images With Art Direction](https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/)
