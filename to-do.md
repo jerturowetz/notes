@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+- wooden circular brush for kate
+- booze
+- plan din sum
+- plan kates karaoke bday (booze, equipmebt)
 - Finalize mini putt plans
 - Normalize NoMatt tracks
 - Tip Alan from tree-to-tree 1-819-429-1110
