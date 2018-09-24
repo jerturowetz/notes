@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- clean ears
 - wooden circular brush for kate
 - booze
 - plan din sum
