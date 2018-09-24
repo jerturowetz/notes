@@ -1,26 +1,21 @@
 # Wishlist
 
-- Attenuators
-- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- 8 chnl TRS snake (planet waves?)
-- 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- Bench Vise
+- 8 chnl TRS snake (planet waves ?)
+- 4+RU rack case w/power
 - shop towels or cloths
+- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Various
 
 - wooden circular brush for kate
-- Ribba frame & photo of Kate diving for Cathy Xmas
 - MSR Hubba Hubba NX Footprint
 - Home power strip/cube
 - Wool socks
 - Gear to patch hole behind stove
 - Running Shoes
 - Earphone wrap thingy
-- $20 ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
-- shoe storage for closet
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - steak knife block
 - tape measure
@@ -36,6 +31,7 @@
 
 ## Kate stuff
 
+- Ribba frame & photo of Kate diving (for Cathy Xmas)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - how to be famius, the only story, ordinary people (books for ref)
 - canadian living magazine for book suggestions
@@ -58,6 +54,7 @@
 
 ## Music gear
 
+- power drill
 - $450 Radial Key Largo (for Travis main)
 - $100 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand

@@ -1,26 +1,27 @@
 # Jer's To-Do List
 
+- Update Lastpass Medicare Card image
+- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
+- Ear Cleaning CLSC
+  - CLSC DE CÔTE-DES-NEIGES (3725, rue Saint-Denis, 514-731‑8531)
+  - CLSC DES FAUBOURGS (2260, rue Parthenais, 514-527‑2361; post 2600)
+- Bring mouse to BK
 - booze trade in
-- clean ears
-- wooden circular brush for kate
-- plan din sum
-- plan kates karaoke bday (booze, equipmebt)
 - Finalize mini putt plans
+- plan kates karaoke bday (booze, equipment)
+- plan dim sum
 - Normalize NoMatt tracks
 - Tip Alan from tree-to-tree 1-819-429-1110
 - Get mailing addresses for those missing
 - Plans with Kalin
 - plans with andrew for dinner
 - Call: Nancy, Phillipe, Joe
-- Get a family doctor [Matt: Dr. Barbara Evans, Goldman Herzl Family Practice Centre, 514-340-8253]
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- Naiant order?
 - Set up recording rig & track template
 - Prep Ruby Tracks
+- Honeymoon cool stops
+- Registry missing items
 - Wedding thank you cards
-- Zone missing orders
 - DJ Pro app return conf number 1439520765
-- Hem jeans
 - Pick up drums chez Mike M
 - Life insurance
 - Warn shakti of email changes & Shut down rackspace
