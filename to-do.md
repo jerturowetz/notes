@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- rocky tix
+
 - Finalize mini putt plans
 - plan kates karaoke bday (booze, equipment)
 - plan dim sum
