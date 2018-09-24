@@ -1,5 +1,10 @@
 # Recipie ideas
 
+- seared tuna
+- pulled pork
+- Best fries
+- steak fries
+- Fried chicken
 - [Carne Adovada](https://www.seriouseats.com/2012/12/the-food-lab-how-to-make-carne-adovada-chili-braised-pork.html)
 - [Beef Barbacoa](https://www.seriouseats.com/2012/04/better-than-chipotles-beef-barbacoa-tacos.html)
 - Spatch cocke chicken on parchment paper, rubbed with butter and cooked with patates and brussel sprouts

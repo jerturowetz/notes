@@ -1,5 +1,6 @@
 # Wishlist
 
+- Attenuators
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - 8 chnl TRS snake (planet waves)
@@ -10,6 +11,7 @@
 
 ## Various
 
+- wooden circular brush for kate
 - Ribba frame & photo of Kate diving for Cathy Xmas
 - MSR Hubba Hubba NX Footprint
 - Home power strip/cube
@@ -22,11 +24,9 @@
 - shoe storage for closet
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - steak knife block
-- king talc & brush
 - tape measure
 - Sauté pan
-- 16-Quart Stock Pot
-- 12-Quart Stock Pot
+- 12 or 16-Quart Stock Pot
 
 ## Outstanding Bills
 

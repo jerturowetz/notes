@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
-- wooden circular brush for kate
-- booze
+- booze trade in
 - plan din sum
 - plan kates karaoke bday (booze, equipmebt)
 - Finalize mini putt plans
@@ -13,7 +12,6 @@
 - Call: Nancy, Phillipe, Joe
 - Get a family doctor [Matt: Dr. Barbara Evans, Goldman Herzl Family Practice Centre, 514-340-8253]
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- Redco order?
 - Naiant order?
 - Set up recording rig & track template
 - Prep Ruby Tracks
