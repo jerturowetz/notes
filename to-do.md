@@ -1,6 +1,8 @@
 # Jer's To-Do List
 
 - booze trade in
+- clean ears
+- wooden circular brush for kate
 - plan din sum
 - plan kates karaoke bday (booze, equipmebt)
 - Finalize mini putt plans

@@ -3,7 +3,7 @@
 - Attenuators
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
-- 8 chnl TRS snake (planet waves)
+- 8 chnl TRS snake (planet waves?)
 - 4+RU rack case w/power
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - Bench Vise
@@ -19,14 +19,13 @@
 - Gear to patch hole behind stove
 - Running Shoes
 - Earphone wrap thingy
-- $100 [Raven 20l Backpack](https://www.fjallraven.com/raven-20l)
 - $20 ea [Logitech Unifying reciever](https://www.amazon.ca/Logitech-910-005235-USB-Unifying-Receiver/dp/B072JW9LT8/) x2
 - shoe storage for closet
 - box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 - steak knife block
 - tape measure
 - Sauté pan
-- 12 or 16-Quart Stock Pot
+- 12 Quart Stock Pot
 
 ## Outstanding Bills
 
