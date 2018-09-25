@@ -1,24 +1,24 @@
 # Groceries
 
-Milk
-Butter
-OJ
-Potatoes
-Carrots
-Apples
-Bananas
-Balsamic (good)
-Honey
-Shells, Penne
-Meat (chick, pork, fish)
-Ice cream
-kit kat
-Kd
-Coffee filters #2
-Cheddar
-Bread
-Tomatoes
-greens (kale, beans)
-NA beer
-Lemon
-Garlic
+- Milk
+- Butter
+- OJ
+- Potatoes
+- Carrots
+- Apples
+- Bananas
+- Balsamic (good)
+- Honey
+- Shells, Penne
+- Meat (chick, pork, fish)
+- Ice cream
+- kit kat
+- Kd
+- Coffee filters #2
+- Cheddar
+- Bread
+- Tomatoes
+- greens (kale, beans)
+- NA beer
+- Lemon
+- Garlic
