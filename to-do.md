@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
 - rocky tix
+- cute meat temp list
 
 - Finalize mini putt plans
 - plan kates karaoke bday (booze, equipment)
