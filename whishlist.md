@@ -2,7 +2,7 @@
 
 - $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- 8 chnl TRS snake (planet waves ?)
+- 10-12 chnl TRS snake
 - 4+RU rack case w/power
 - shop towels or cloths
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
