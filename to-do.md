@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - rocky tix
-- cute meat temp list
 
 - Finalize mini putt plans
 - plan kates karaoke bday (booze, equipment)
@@ -16,7 +15,6 @@
 - Get mailing addresses for those missing
 
 - Tip Alan from tree-to-tree 1-819-429-1110
-- Update Lastpass Medicare Card image
 - [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
 - booze trade in
 - Set up recording rig & track template
