@@ -20,3 +20,5 @@ Bread
 Tomatoes
 greens (kale, beans)
 NA beer
+Lemon
+Garlic
