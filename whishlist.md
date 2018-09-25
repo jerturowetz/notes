@@ -64,10 +64,12 @@
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
+- Overheads
 - IEC-6X4 (short power cords, any type)
 - Naiant inline attenuators (24db mic) x2
 - Floor fan
 - Reaper, Ableton Live, Cubase
+- sennheiser e901
 
 ### Crashes to try
 
