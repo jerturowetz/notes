@@ -17,3 +17,6 @@
 - Kd
 - Balsamic (good)
 - Honey
+- Dijon regular
+- Dijon deli style
+- Sweet chili sauce
