@@ -1,77 +1,70 @@
-tomato bourrata salad
-andrews turkey in a pot
-aonething cast iron (zoe?)
+# Jer's Thanksgiving Dinner
+
+Andrews turkey in a pot
+something in cast iron (zoe?)
 something dutch oven (rara)
 turkey in my oven
 somethibg on thr bbq
 
+## dessert
 
-turkey
-mashed potatoes (advance)
-gravy
-sausage gravy
-green beans
-corn bread
-cranberry relish
-glazed carrots
-stuffing
-holiday roadted veg
-green bean casserole
-sweet potTo cassrrole
+- pecan pie
+- apple pie
+- pumpkin pie
+- Charlotte russe
+- almond ice cream
+- lemon jelly
+- hickory nut cake
+
+## Order
+
+- Meat pies/sausage rolls from TA pies
+- Roasted veg from TA pies ?
+- Mashed from TA pies ?
+
+- Raw Turkey from somewhere
+
+## Prepare
+
+- Cheese & crackers
+- Olives (toothpicks)
+- Fruit (grapes, berries, whatever)
+
+- Turkey
+- Tomato bourrata salad
+
+
+
+- Cranberry relish
+- (sausage?) gravy (with/without droppings)
+- Regular stuffing or [Skillet sausage stuffing](https://www.tasteofhome.com/recipes/skillet-sausage-stuffing/)
+- Baked Cornucopia
+- skillet green beans (EZ)
+
+- [Polish stuffed eggs](https://www.thespruceeats.com/polish-stuffed-eggs-jajka-faszerowany-recipe-1135637)
+- Parsnip fritters
+- [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
+- Cornbread/Cornbread dressing
+- (brown butter) mashed potatoes
+
 butternut squash soup
-
-bacon candied sweet potatoes
-roasted brussel sprouts
-roadted sweet patates
-pecan pie
-pumpkin pie
-apple pie
-hravy without droppings
-sweet potato casserole
-skillet green beans
-
-
-brown hutter mashed potatoes
-
-
-
-ed waterfowl, venison, ham, lobster, clams, berries, fruit, pumpkin, and squash.
-
-creamed asparagus tips
-snowflakef potatoes
-oyster stew
-baked carrits
-fruit salad
-meat pie
-
-
-oysters on half shell
 cream of chicken soup
-fried smelts
-sauce tartare
-baked squash
-boiled onions
-parsnip fritters
-olives
-chicken salad
-venison pastry
-pumpkin pie
-mince pie
-Charlotte russe
+oyster or seafood stew
 
-almond ice cream
-lemon jelly
-hickory nut cake
+roasted brussel sprouts/asparagus
+Turnips
+Butternut squash
+holiday roasted vegetables
+glazed/baked carrots
 
-cheese, fruits, coffee, tea
-
-
-coffee machine
-table
-chairs
-
-
+sweet potato casserole
+[Skillet hassleback sweet potatoes](https://www.tasteofhome.com/recipes/skillet-hasselback-sweet-potatoes/)
 
 ## gear
-charcoal
-newspaper
+
+- charcoal
+- newspaper
+- coffee
+- lemons
+- Big aluminum foil
+- Pumpkins to carve

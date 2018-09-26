@@ -1,6 +1,7 @@
 # Wishlist
 
-- $70 Ideal Industries Stripmaster Wire Stripper - 16 to 26 AWG
+- Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
+- Heat Gun
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - 10-12 chnl TRS snake
 - 4+RU rack case w/power
@@ -24,7 +25,6 @@
 
 ## Outstanding Bills
 
-- Pay myriam for photos
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - $??? Aaron computer
@@ -70,6 +70,7 @@
 - Floor fan
 - Reaper, Ableton Live, Cubase
 - sennheiser e901
+- Lowden O12C guitar (gomm) or Ovation Adamas 1581-KK (king)
 
 ### Crashes to try
 

@@ -1,42 +1,56 @@
 # Jer's To-Do List
 
-- Thanksgiving menu
-- rocky tix
-- Finalize mini putt plans
-- plan kates karaoke bday (booze, equipment)
-- plan dim sum
-- Plans with Kalin
-- plans with andrew for dinner
-- Call: Nancy, Phillipe, Joe
-
-- Normalize NoMatt tracks
-- Prep Ruby Tracks
-- Registry missing items
-- Get mailing addresses for those missing
-
-- Tip Alan from tree-to-tree 1-819-429-1110
-- [GP Waiting List](http://gamf.gouv.qc.ca/index_en.html)
-- booze trade in
-- Set up recording rig & track template
+- Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
+- Kate bday presents (maybe manicure)
+- plan kates bday (booze, equipment)
 - Honeymoon cool stops
-- Wedding thank you cards
+- Share a sale payment?
 - DJ Pro app return conf number 1439520765
+- Call: Nancy, Phillipe, Joe
+- Plans with Kalin
+- Plans with andrew for dinner
 - Pick up drums chez Mike M
 - Life insurance
-- Warn shakti of email changes & Shut down rackspace
+- Warn shakti of email changes & shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
+- plan dim sum (Juan, Irena)
+- Plans with Kosta
+
+## Wedding
+
+- Thank yous
+  - Get mailing addresses for those missing
+  - Choose mailer template for thank yous
+  - Choose photos for thank yous
+  - Find a printer & print thank yous
+- booze trade in
+- Registry missing items
+
+## Thanksgiving
+
+- Find table to borrow
+- Find chairs
+- coffee machine
+- Need eating supplied (cutlery, plates etc)
+- Menu
+
+## Music
+
+- Normalize NoMatt tracks
+- Set up recording rig & track template
+- Prep Ruby Tracks
+- SJ tracks
 
 ## Psych help
 
-- DHCEU CLininc to geta shrink / dermo referral
+- Get dermo referral
+- Get psychiatrist referral
 - Dr D. Sookman, 514-934-1934, ext 34290
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
-- [Centre Dollard-Cormier](http://dependancemontreal.ca/programmes-et-services/adultes)
-- [Douglas?](http://www.douglas.qc.ca/?locale=en)
-- Foundation TOC : 514-727-0012
+- [Douglas](http://www.douglas.qc.ca/?locale=en)
 
 ## Musician's Insurance
 
