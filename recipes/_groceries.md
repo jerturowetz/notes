@@ -2,18 +2,9 @@
 
 - Milk
 - Butter
-- OJ
-- Potatoes
-- Carrots
 - Apples
 - Bananas
-- Balsamic (good)
-- Honey
-- Shells, Penne
-- Meat (chick, pork, fish)
-- Ice cream
-- kit kat
-- Kd
+- Penne
 - Coffee filters #2
 - Cheddar
 - Bread
@@ -22,3 +13,14 @@
 - NA beer
 - Lemon
 - Garlic
+- Ice cream
+
+- OJ
+- Potatoes
+- Carrots
+- Balsamic (good)
+- Honey
+- Shells
+- Meat (chick, pork, fish)
+- kit kat
+- Kd
