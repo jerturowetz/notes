@@ -1,26 +1,19 @@
 # Groceries
 
-- Milk
-- Butter
 - Apples
 - Bananas
-- Penne
-- Coffee filters #2
-- Cheddar
-- Bread
 - Tomatoes
 - greens (kale, beans)
-- NA beer
+- Potatoes
 - Lemon
 - Garlic
-- Ice cream
-
+- Cheddar
+- Bread
 - OJ
-- Potatoes
-- Carrots
+- Meat (chick, pork, fish)
+- Butter
+- NA beer
+- Shells, Penne
+- Kd
 - Balsamic (good)
 - Honey
-- Shells
-- Meat (chick, pork, fish)
-- kit kat
-- Kd
