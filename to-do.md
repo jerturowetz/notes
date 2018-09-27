@@ -76,11 +76,9 @@
 
 ## Code study
 
-- [How I learnt webpack 3 and created a Jekyll and webpack boilerplate](https://medium.com/learning-lab/5-how-i-learnt-webpack-3-and-created-a-jekyll-and-webpack-boilerplate-edd86645fd5e)
 - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
 - [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
 - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
-- [Jekyll & Webpack, Integrated!](https://github.com/allizad/jekyll-webpack)
 - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
 
 ### Path

@@ -33,8 +33,6 @@ somethibg on thr bbq
 - Turkey
 - Tomato bourrata salad
 
-
-
 - Cranberry relish
 - (sausage?) gravy (with/without droppings)
 - Regular stuffing or [Skillet sausage stuffing](https://www.tasteofhome.com/recipes/skillet-sausage-stuffing/)
