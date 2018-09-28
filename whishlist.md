@@ -1,11 +1,11 @@
 # Wishlist
 
 - Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
-- Heat Gun
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-- 10-12 chnl TRS snake
 - 4+RU rack case w/power
-- shop towels or cloths
+
+
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
+
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Various
@@ -54,9 +54,8 @@
 
 ## Music gear
 
-- power drill
+- 10-12 chnl TRS snake
 - $450 Radial Key Largo (for Travis main)
-- $100 StageBug SB-2 (for Travis access)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
@@ -71,6 +70,13 @@
 - Reaper, Ableton Live, Cubase
 - sennheiser e901
 - Lowden O12C guitar (gomm) or Ovation Adamas 1581-KK (king)
+- Heat Gun
+- shop towels or cloths
+- Power drill
+- Pegboard hooks
+- SCrewdriver set
+- Hex key set
+- Table top tool organiser (cutters, needle nose pliers)
 
 ### Crashes to try
 

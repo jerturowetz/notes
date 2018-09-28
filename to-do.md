@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Marie matts amp?
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Kate bday presents (maybe manicure)
 - plan kates bday (booze, equipment)
