@@ -1,11 +1,9 @@
 # Jer's To-Do List
 
-- Marie matts amp?
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Kate bday presents (maybe manicure)
 - plan kates bday (booze, equipment)
 - Honeymoon cool stops
-- Share a sale payment?
 - DJ Pro app return conf number 1439520765
 - Call: Nancy, Phillipe, Joe
 - Plans with Kalin
@@ -18,16 +16,6 @@
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - plan dim sum (Juan, Irena)
 - Plans with Kosta
-
-## Wedding
-
-- Thank yous
-  - Get mailing addresses for those missing
-  - Choose mailer template for thank yous
-  - Choose photos for thank yous
-  - Find a printer & print thank yous
-- booze trade in
-- Registry missing items
 
 ## Thanksgiving
 
@@ -43,6 +31,16 @@
 - Set up recording rig & track template
 - Prep Ruby Tracks
 - SJ tracks
+
+## Wedding
+
+- Thank yous
+  - Get mailing addresses for those missing
+  - Choose mailer template for thank yous
+  - Choose photos for thank yous
+  - Find a printer & print thank yous
+- booze trade in
+- Registry missing items
 
 ## Psych help
 
@@ -124,7 +122,7 @@
 - [Analytics academy](https://analytics.google.com/analytics/academy/)
 - [Cloudflar 101](https://support.cloudflare.com/hc/en-us/sections/200820158-Cloudflare-101)
 - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
-- [Google Tag Manager Example Container ](https://github.com/thenextweb/gtm)
+- [Google Tag Manager Example Container](https://github.com/thenextweb/gtm)
 - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
 - [Theme testing](https://codex.wordpress.org/Theme_Development#Theme_Testing_Process)
 - [Atlassian git tutorial](https://www.atlassian.com/git/tutorials/)

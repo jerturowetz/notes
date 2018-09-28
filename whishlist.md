@@ -2,10 +2,8 @@
 
 - Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
 - 4+RU rack case w/power
-
-
+- Build wheel board
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
-
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Various
@@ -65,18 +63,14 @@
 - AKG D112
 - Overheads
 - IEC-6X4 (short power cords, any type)
-- Naiant inline attenuators (24db mic) x2
-- Floor fan
 - Reaper, Ableton Live, Cubase
 - sennheiser e901
-- Lowden O12C guitar (gomm) or Ovation Adamas 1581-KK (king)
 - Heat Gun
 - shop towels or cloths
 - Power drill
 - Pegboard hooks
-- SCrewdriver set
-- Hex key set
-- Table top tool organiser (cutters, needle nose pliers)
+- Screwdriver set & Hex key set
+- Table top tool organiser (for cutters, needle nose pliers)
 
 ### Crashes to try
 
