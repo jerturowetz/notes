@@ -9,7 +9,8 @@
 ## Various
 
 - wooden circular brush for kate
-- MSR Hubba Hubba NX Footprint
+- $55 MSR Hubba Hubba NX Footprint
+- $20 MSR Groundhog Tent Stake Kit
 - Home power strip/cube
 - Wool socks
 - Gear to patch hole behind stove
