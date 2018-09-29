@@ -8,6 +8,7 @@
 
 ## Various
 
+- petzl headlamps
 - wooden circular brush for kate
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
