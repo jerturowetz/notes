@@ -1,8 +1,26 @@
 # Groceries
 
+coriander
+pepper
+paprika
+chili
+crushed chilies
+onion powder
+
+thing to grind gibger
+
+
+
+
 - Apples
+- pasta noodles (linguini, penne)
 - Bananas
 - Tomatoes
+- peppers
+- garlic
+- cheddar
+- lemon
+- ebglish muff
 - greens (kale, beans)
 - Potatoes
 - Lemon
