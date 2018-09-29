@@ -20,4 +20,3 @@ _Warning: You will most likely not need all of the salt. In some cases, less tha
 Transfer the turkey to a rack set in a rimmed baking sheet, and refrigerate, uncovered, for 12 to 24 hours - if refrigerating for longer loosely cover turkey with plastic wrap or cheesecloth before refrigerating & let it rest for up to 3 days.
 
 Without rinsing, roast using whatever recipie, omitting any additional salting steps called for in those recipes.
-

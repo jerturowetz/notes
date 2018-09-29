@@ -21,7 +21,6 @@ somethibg on thr bbq
 - Meat pies/sausage rolls from TA pies
 - Roasted veg from TA pies ?
 - Mashed from TA pies ?
-
 - Raw Turkey from somewhere
 
 ## Prepare
@@ -29,16 +28,16 @@ somethibg on thr bbq
 - Cheese & crackers
 - Olives (toothpicks)
 - Fruit (grapes, berries, whatever)
-
 - Turkey
 - Tomato bourrata salad
-
 - Cranberry relish
-- (sausage?) gravy (with/without droppings)
-- Regular stuffing or [Skillet sausage stuffing](https://www.tasteofhome.com/recipes/skillet-sausage-stuffing/)
-- Baked Cornucopia
-- skillet green beans (EZ)
+- [julia child vinaigrette](https://www.newsobserver.com/living/article210606649.html)
+- skillet green beans
+- [classic dressing](https://www.bonappetit.com/recipe/simple-is-best-dressing)
 
+
+- (sausage?) gravy (with/without droppings)
+- Baked Cornucopia
 - [Polish stuffed eggs](https://www.thespruceeats.com/polish-stuffed-eggs-jajka-faszerowany-recipe-1135637)
 - Parsnip fritters
 - [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
@@ -57,6 +56,15 @@ glazed/baked carrots
 
 sweet potato casserole
 [Skillet hassleback sweet potatoes](https://www.tasteofhome.com/recipes/skillet-hasselback-sweet-potatoes/)
+
+
+
+
+
+
+
+
+
 
 ## gear
 
