@@ -1,5 +1,11 @@
 # Wishlist
 
+pails for cables (or ikea things for ivar)
+cable box for travis
+better power barbfor travis (2 sides)
+tuner forbyanin
+xlr fem to 1/4 male short
+
 - Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
 - 4+RU rack case w/power
 - Build wheel board
