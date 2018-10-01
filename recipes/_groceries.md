@@ -1,12 +1,16 @@
 # Groceries
 
-- cheddar
+- Cheddar
 - OJ
 - Honey
-- Sweet chili
+- Sweet chili sauce
+- Medium freezer bags
+- TP/Paper Towels
 
 ## spice store
 
-- pepper
-- chilli powder
+- Pepper
+- Chilli powder
 - onion powder
+- Hungarian sweet paprika
+- Smoked paprika

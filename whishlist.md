@@ -1,20 +1,13 @@
 # Wishlist
 
-pails for cables (or ikea things for ivar)
-cable box for travis
-better power barbfor travis (2 sides)
-tuner forbyanin
-xlr fem to 1/4 male short
-
-- Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
 - 4+RU rack case w/power
-- Build wheel board
+- Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Various
 
-- petzl headlamps
+- Petzl headlamps
 - wooden circular brush for kate
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
@@ -28,6 +21,7 @@ xlr fem to 1/4 male short
 - tape measure
 - Sauté pan
 - 12 Quart Stock Pot
+- Pan scraper
 
 ## Outstanding Bills
 
@@ -37,6 +31,7 @@ xlr fem to 1/4 male short
 
 ## Kate stuff
 
+- POÄNG chair bright colors
 - Ribba frame & photo of Kate diving (for Cathy Xmas)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - how to be famius, the only story, ordinary people (books for ref)
@@ -60,6 +55,7 @@ xlr fem to 1/4 male short
 
 ## Music gear
 
+- XLRF to 1/4 M short
 - 10-12 chnl TRS snake
 - $450 Radial Key Largo (for Travis main)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
@@ -79,6 +75,10 @@ xlr fem to 1/4 male short
 - Pegboard hooks
 - Screwdriver set & Hex key set
 - Table top tool organiser (for cutters, needle nose pliers)
+- $30 cable box for travis
+- Better power for travis
+- Tuner for Yamin
+- Build wheel board
 
 ### Crashes to try
 
@@ -95,3 +95,12 @@ xlr fem to 1/4 male short
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
+
+## IKEA
+
+- 3x SOCKERBIT Storage box 503.161.82
+- 1x SOCKERBIT Storage box with lid 603.160.68
+- 2x SOCKERBIT Box with lid, white 403.160.69
+- OBSERVATÖR clip on basket
+- ivar hooks for cables
+- little gruntal hooks x2 packs

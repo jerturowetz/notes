@@ -1,37 +1,13 @@
 # Jer's To-Do List
 
-- get gear from yams
+- Message Andrew from le mastiff for party
+- research bag care for Fjällräven
+- shoe care items for leather sneakers
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Kate bday presents (maybe manicure)
-- plan kates bday (booze, equipment)
-- Honeymoon cool stops
-- DJ Pro app return conf number 1439520765
+- Plan kates bday (booze, equipment)
 - Call: Nancy, Phillipe, Joe
-- Plans with Kalin
-- Plans with andrew for dinner
-- Pick up drums chez Mike M
-- Life insurance
-- Warn shakti of email changes & shut down rackspace
-- AA Roaul notes
-- Get guitar case from Rachel
-- [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
-- plan dim sum (Juan, Irena)
-- Plans with Kosta
-
-## Thanksgiving
-
-- Find table to borrow
-- Find chairs
-- coffee machine
-- Need eating supplied (cutlery, plates etc)
-- Menu
-
-## Music
-
-- Normalize NoMatt tracks
-- Set up recording rig & track template
-- Prep Ruby Tracks
-- SJ tracks
+- Honeymoon cool stops
 
 ## Wedding
 
@@ -51,6 +27,27 @@
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Douglas](http://www.douglas.qc.ca/?locale=en)
+
+## Music
+
+- Normalize NoMatt tracks
+- Set up recording rig & track template
+- Prep Ruby Tracks
+- SJ tracks
+
+## Various
+
+- DJ Pro app return conf number 1439520765
+- Plans with Kalin
+- Plans with andrew for dinner
+- plan dim sum (Juan, Irena)
+- Plans with Kosta
+- Pick up drums chez Mike M
+- Life insurance
+- Warn shakti of email changes & shut down rackspace
+- AA Roaul notes
+- Get guitar case from Rachel
+- [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 
 ## Musician's Insurance
 
