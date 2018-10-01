@@ -36,7 +36,6 @@
 
 ## Various
 
-- DJ Pro app return conf number 1439520765
 - Plans with Kalin
 - Plans with andrew for dinner
 - plan dim sum (Juan, Irena)
