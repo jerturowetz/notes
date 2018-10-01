@@ -7,54 +7,85 @@
 
 ## Various
 
-- Petzl headlamps
-- wooden circular brush for kate
+- Microplane
+- Gear to patch hole behind stove
+- Petzl headlamp x2
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
-- Home power strip/cube
 - Wool socks
-- Gear to patch hole behind stove
-- Running Shoes
+- Winter boots
 - Earphone wrap thingy
-- box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
-- steak knife block
-- tape measure
-- Sauté pan
-- 12 Quart Stock Pot
+- Tape measure
 - Pan scraper
-
-## Outstanding Bills
-
+- POÄNG chair (bright colors, yellow)
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - $??? Aaron computer
 
 ## Kate stuff
 
-- POÄNG chair bright colors
-- Ribba frame & photo of Kate diving (for Cathy Xmas)
-- [Chateau du cirque](https://www.chateau-cirque.com/)
-- how to be famius, the only story, ordinary people (books for ref)
-- canadian living magazine for book suggestions
-- exacto knife
-- [Take Kate to a danse show](https://www.quebecdanse.org/)
-- [Make a sweater](https://www.entripy.com/)
-- Panda shirt cross-eyed-bear lyrics
-- $500 Banjo
+- Wooden circular brush
+- Exacto knife
+- Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
-- $90 suck it hoodie (Tshirt time.com)
-- [Hawaii T](http://fresh-tops.com/hawaii-white-t-shirt/)
-- [Do Nothing Club hat](http://fresh-tops.com/do-nothing-white-hat/)
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
+- For Cathy: Book on Jean Chrétien
+- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
+- suck it hoodie (Tshirt time.com or entripy.com)
 - ugly dino xmas sweater
-- Kim gift :: TV show : Grand Hotel
-- Kate's Uncle Movie Day - (FX2, Body Parts & Defcon 4)
-- Stewart Museaum
-- santiago ramón y cajal prints
-- cretien book CATHY
-- tshirt "not really drinking"
+- Santiago Ramon Y Cajal Art
+- See _Canadian Living_ magazine for book suggestions
+
+### Books
+
+- Women Talking by Miriam Toews
+- Hot Milk by Deborah Levy
+- Split Tooth by Tanya Tagaq
+- Something for Everyone by Lisa Moore
+- The Chronicles of Narmo by Caitlin Moran
+- Moranifesto by Caitlin Moran
+- Hunger: A Memoir of (My) Body by Roxane Gay
+- The Cows by Dawn O'Porter
+- Bad Feminist by Roxane Gay
+- Animal: The Autobiography of a Female Body by Sara Pascoe
+
+### Xmas ideas
+
+- KISMET socks to support big brothers big sisters
+- [IKEA foundation](https://www.ikeafoundation.org/)
+- [Me to We](https://shop.metowe.com/)
+- [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
+- [$60 Charging keychain tassle](https://www.casetify.com/product/iphone-tassel-leather-charging-cable-noir)
+- [$50 Square Valet Tray](https://www.leatherology.com/square-valet-tray-beige-leather-ginger/)
+- [Flint - mini lint roller](https://meetflint.com/)
+- [Horace Jewlery](https://horacejewelry.com/)
+- [Simons](https://www.simons.ca/en)
+- [Portfranc](https://www.portfranc.co/)
+- [Audvik](https://audvik.com/)
+- [C'est Beau](https://cestbeau.co/en/)
+- [WWF Symbolic Adoption Kit](https://shop.wwf.ca/collections/adoptions)
+- [Nil Apparel](https://nilapparel.com/)
+- [One of a kind](https://oneofakindonlineshop.com/)
+- [Indigo](https://www.chapters.indigo.ca)
+- [Garment Steamer](https://reliablecorporation.com)
+
+## IKEA
+
+- 3x SOCKERBIT Storage box 503.161.82
+- 1x SOCKERBIT Storage box with lid 603.160.68
+- 2x SOCKERBIT Box with lid, white 403.160.69
+- 2x OBSERVATÖR clip on basket
+- ivar hooks
+- little gruntal hooks x2 packs
+- Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 
 ## Music gear
 
+- Microphone case
+- $300 GAS A-10
+- 50' thinner gray XLR x4
+- $600 Mixer case
 - XLRF to 1/4 M short
 - 10-12 chnl TRS snake
 - $450 Radial Key Largo (for Travis main)
@@ -95,12 +126,3 @@
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
-
-## IKEA
-
-- 3x SOCKERBIT Storage box 503.161.82
-- 1x SOCKERBIT Storage box with lid 603.160.68
-- 2x SOCKERBIT Box with lid, white 403.160.69
-- OBSERVATÖR clip on basket
-- ivar hooks for cables
-- little gruntal hooks x2 packs
