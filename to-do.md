@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- email andrew re party rates andrewsoulis@cafelemastiff.com
+- make dermo apt
 - research bag care for Fjällräven
 - shoe care items for leather sneakers
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
@@ -20,7 +22,6 @@
 
 ## Psych help
 
-- Get dermo referral
 - Get psychiatrist referral
 - Dr D. Sookman, 514-934-1934, ext 34290
 - [IUSMM Research](http://www.iusmm.ca/research.html)
