@@ -25,6 +25,7 @@
 - sautee pan
 - roasting pan
 - fat seperator
+- julia child cookbook
 
 ## Kate stuff
 
