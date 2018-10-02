@@ -1,11 +1,14 @@
 # Jer's Thanksgiving Dinner
 
+- is nick coming
 - coffee machine (RARA)
 - change pie order to butter chk
 - Find chairs (RARA, David?)
+- gravy boat
 - Print recipies
 - order Rustique desserts
 - Pick up rustique desserts
+- orer dinner rolls
 - Pick up pies at TA (paid) [SAT]
 - Pick up turkey ($50) [WED]
 - Marche run (fruit) [SAT]
@@ -25,27 +28,26 @@
 - Tomato bourrata salad
 - Cranberry relish
 - Traditional dressing
+- [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
+- [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
+http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/
 
-- Gravy
 
 - [Polish stuffed eggs](https://www.thespruceeats.com/polish-stuffed-eggs-jajka-faszerowany-recipe-1135637)
 - [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
 - [julia child vinaigrette](https://www.newsobserver.com/living/article210606649.html)
 - [Turkey Confit](https://www.saveur.com/article/Recipes/Turkey-Confit)
-- Gravy (with/without droppings)
 - Baked Cornucopia (if so, grab marble cheese and green & purple grapes)
-- Parsnip fritters
-- Cornbread/Cornbread dressing
 - (brown butter) mashed potatoes
 
 Alton brown green bean casserole
-Other kind of casserole
 Skillet greens (Brussel, green beans)
 roasted brussel sprouts/asparagus
 Turnips
 Butternut squash
 holiday roasted vegetables
 glazed/baked carrots
+
 sweet potato casserole
 [Skillet hassleback sweet potatoes](https://www.tasteofhome.com/recipes/skillet-hasselback-sweet-potatoes/)
 https://www.averiecooks.com/honey-roasted-sweet-potatoes-with-honey-cinnamon-dip/

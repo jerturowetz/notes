@@ -7,6 +7,7 @@
 
 ## Various
 
+- small cotton spice bags
 - Microplane
 - Gear to patch hole behind stove
 - Petzl headlamp x2
@@ -21,6 +22,9 @@
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - $??? Aaron computer
+- sautee pan
+- roasting pan
+- fat seperator
 
 ## Kate stuff
 
