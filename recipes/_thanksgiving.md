@@ -1,5 +1,6 @@
 # Jer's Thanksgiving Dinner
 
+- send juan cornucopia
 - coffee machine (RARA)
 - change pie order to butter chk
 - Find chairs (RARA, David?)
@@ -58,3 +59,4 @@ https://www.averiecooks.com/parmesan-and-herb-roasted-potatoes/
 - Newspaper
 - Coffee
 - Big aluminum foil
+- vanilla ice cream

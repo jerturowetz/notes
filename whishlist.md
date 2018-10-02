@@ -21,6 +21,7 @@
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - $??? Aaron computer
+- julia child cookbook
 
 ## Kate stuff
 
