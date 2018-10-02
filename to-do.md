@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+ada lea
+friday at thr rialto
+badge epoche
+
 - email andrew re party rates andrewsoulis@cafelemastiff.com
 - make dermo apt
 - research bag care for Fjällräven
