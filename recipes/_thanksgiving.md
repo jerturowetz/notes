@@ -1,15 +1,12 @@
 # Jer's Thanksgiving Dinner
 
-- is nick coming
-- send juan cornucopia
 - coffee machine (RARA)
-- change pie order to butter chk
 - Find chairs (RARA, David?)
 - gravy boat
 - Print recipies
 - order Rustique desserts
 - Pick up rustique desserts
-- orer dinner rolls
+- orer dinner rolls?
 - Pick up pies at TA (paid) [SAT]
 - Pick up turkey ($50) [WED]
 - Marche run (fruit) [SAT]
@@ -25,39 +22,32 @@
 
 ## Prepare
 
+- Andrew's dressing (350 deg 30 mins) @ZOE
+- pies/sausage rolls @ ZOE - same time - tray for rolls
+- MAYBE MAKE FRITTERS THERE ?
+
 - Turkey
 - Tomato bourrata salad
 - Cranberry relish
-- Traditional dressing
 - [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
 - [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
-http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/
-
-
-- [Polish stuffed eggs](https://www.thespruceeats.com/polish-stuffed-eggs-jajka-faszerowany-recipe-1135637)
+- [parsnip fritters](http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/)
+- BBQ grilled veg (eggplant, zuccini, corn, asparagus, mushrooms, garlic)
+- 2 trays roast veg (carrots, parsnips, sweet potato, butternut squash, maybe broccoli, coliflower, rutebega)
+- herbs chopped for veg (sage, thyme, parsley, chives) & dried cran & rosemary & toasted pecans
 - [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
-- [julia child vinaigrette](https://www.newsobserver.com/living/article210606649.html)
-- [Turkey Confit](https://www.saveur.com/article/Recipes/Turkey-Confit)
-- Baked Cornucopia (if so, grab marble cheese and green & purple grapes)
-- (brown butter) mashed potatoes
-
-Alton brown green bean casserole
-Skillet greens (Brussel, green beans)
-roasted brussel sprouts/asparagus
-Turnips
-Butternut squash
-holiday roasted vegetables
-glazed/baked carrots
-
-sweet potato casserole
-[Skillet hassleback sweet potatoes](https://www.tasteofhome.com/recipes/skillet-hasselback-sweet-potatoes/)
-https://www.averiecooks.com/honey-roasted-sweet-potatoes-with-honey-cinnamon-dip/
-https://www.averiecooks.com/parmesan-and-herb-roasted-potatoes/
+- [BBQ Meatballs](https://sortedfood.com/recipe/bbqmeatballs)
+- skillet green beans
+- Alton brown green bean casserole
+- [Scalloped potatoes](https://www.ricardocuisine.com/en/recipes/4915-scalloped-potatoes-the-best)
+- [Mashed potatoes](https://www.youtube.com/watch?v=rf1PUq3l0Zw)
+- [Mashed potatoes](https://www.ricardocuisine.com/en/recipes/4913-mashed-potatoes-with-garlic-and-rosemary----)
 
 ## gear
 
+- half sheets
 - Good balsamic vinegar
-- Charcoal
+- Charcoal?
 - Newspaper
 - Coffee
 - Big aluminum foil
