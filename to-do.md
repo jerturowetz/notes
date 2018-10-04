@@ -114,6 +114,7 @@
   - [Vanilla JS](https://vanillajsguides.com/)
   - [Vanilla JS Academy](https://vanillajsacademy.com/)
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
+  - [SVG compressor](https://vecta.io/nano)
 - Analytics/SEO:
   - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
   - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
