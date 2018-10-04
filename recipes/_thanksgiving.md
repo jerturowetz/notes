@@ -15,7 +15,6 @@
   - Pick up pies at TA (paid) [SUN]
   - Arhoma run (croissants, biscuits) [SUN]
 
-
 ## gear
 
 - half sheets
@@ -26,8 +25,6 @@
 - Big aluminum foil
 - vanilla ice cream
 - little bowls
-
-
 
 ## Set up
 
@@ -53,6 +50,9 @@ andrew dressing
 - prepare veg oil and herb concoction for roasting
 - [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
 - [parsnip fritters](http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/)
+- [parsnip fritters](https://bacon-wrappedbarbells.com/2015/06/19/sweet-potato-and-parsnips-fritters-with-bacon-and-green-onions/)
+- [parsnip fritters](https://www.odt.co.nz/lifestyle/food-wine/season-spiced-parsnip-fritters)
+- [parsnip fritters](https://www.healthylittlefoodies.com/carrot-and-parsnip-fritters/)
 - [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
 - [BBQ Meatballs](https://sortedfood.com/recipe/bbqmeatballs)
 - corn
