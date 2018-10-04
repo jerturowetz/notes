@@ -2,7 +2,8 @@
 
 - 4+RU rack case w/power
 - Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?)
+- heat gun
+- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Various
@@ -82,14 +83,10 @@
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
 - ivar hooks
-- little gruntal hooks x2 packs
 - Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 
 ## Music gear
 
-- Microphone case
-- $300 GAS A-10
-- 50' thinner gray XLR x4
 - $600 Mixer case
 - XLRF to 1/4 M short
 - 10-12 chnl TRS snake
@@ -101,20 +98,16 @@
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - AKG D112
-- Overheads
-- IEC-6X4 (short power cords, any type)
-- Reaper, Ableton Live, Cubase
+- Overheads, whatever
+- IEC-6X4 (short power cords)
+- Reaper
 - sennheiser e901
-- Heat Gun
 - shop towels or cloths
 - Power drill
 - Pegboard hooks
 - Screwdriver set & Hex key set
 - Table top tool organiser (for cutters, needle nose pliers)
-- $30 cable box for travis
 - Better power for travis
-- Tuner for Yamin
-- Build wheel board
 
 ### Crashes to try
 
