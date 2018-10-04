@@ -13,6 +13,24 @@ You'll need a good pair of poultry shears for this. There are a few guides, they
 
 ## Cooking the bird
 
+## Grocery list
+
+- turkey (1kg/2ppl)
+- 3 large yellow onions
+- Celery
+- Carrots
+- Vegetable oil
+- Garlic
+- Thyme
+- Chives
+- Parsley
+- Sage
+- Shallot
+- 2 sticks butter
+- Bay leaves
+- low-sodium chicken or turkey broth
+- Flour
+
 ### Ingredients
 
 - 1 turkey (12 to 14 pounds?)

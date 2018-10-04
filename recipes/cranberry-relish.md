@@ -4,6 +4,15 @@ Makes about 3-4 cups
 
 [Original post](https://www.thekitchenwhisperer.net/2012/11/13/the-best-cranberry-relish-ever-no-really-like-ever/)
 
+## Grocery list
+
+- Sugar
+- Cranberry juice
+- Ginger
+- Ground cinnamon
+- 16 oz fresh cranberries
+- 1 orange
+
 ## Ingredients
 
 - 1 cups granulated sugar (can add a bit)

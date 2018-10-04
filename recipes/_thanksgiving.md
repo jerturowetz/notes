@@ -3,45 +3,18 @@
 - coffee machine (RARA)
 - Find chairs (RARA, David?)
 - gravy boat
+- Put Renu/David/Zoe on cheese & cracers & olives duty
 - Print recipies
-- order Rustique desserts
-- Pick up rustique desserts
-- orer dinner rolls?
-- Pick up pies at TA (paid) [SAT]
-- Pick up turkey ($50) [WED]
-- Marche run (fruit) [SAT]
-- Arhoma run #1 (bread for dressing) [FRI]
-- Arhoma run (croissants, biscuits) [SUN]
-- Set up Turkey [THURS-FRIDAY]
+- order dinner rolls
+- Set up Turkey [THURS late]
+- SAT:
+  - Pick up Wine [SAT]
+  - Pick up rustique desserts [SAT]
+  - Marche run (fruit & veg) [SAT]
+- SUN:
+  - Pick up pies at TA (paid) [SUN]
+  - Arhoma run (croissants, biscuits) [SUN]
 
-## Set up
-
-- Cheese & crackers
-- Olives (toothpicks)
-- Fruit (grapes, berries, whatever)
-
-## Prepare
-
-- Andrew's dressing (350 deg 30 mins) @ZOE
-- pies/sausage rolls @ ZOE - same time - tray for rolls
-- MAYBE MAKE FRITTERS THERE ?
-
-- Turkey
-- Tomato bourrata salad
-- Cranberry relish
-- [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
-- [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
-- [parsnip fritters](http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/)
-- BBQ grilled veg (eggplant, zuccini, corn, asparagus, mushrooms, garlic)
-- 2 trays roast veg (carrots, parsnips, sweet potato, butternut squash, maybe broccoli, coliflower, rutebega)
-- herbs chopped for veg (sage, thyme, parsley, chives) & dried cran & rosemary & toasted pecans
-- [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
-- [BBQ Meatballs](https://sortedfood.com/recipe/bbqmeatballs)
-- skillet green beans
-- Alton brown green bean casserole
-- [Scalloped potatoes](https://www.ricardocuisine.com/en/recipes/4915-scalloped-potatoes-the-best)
-- [Mashed potatoes](https://www.youtube.com/watch?v=rf1PUq3l0Zw)
-- [Mashed potatoes](https://www.ricardocuisine.com/en/recipes/4913-mashed-potatoes-with-garlic-and-rosemary----)
 
 ## gear
 
@@ -52,3 +25,81 @@
 - Coffee
 - Big aluminum foil
 - vanilla ice cream
+- little bowls
+
+
+
+## Set up
+
+- Cheese & crackers
+- Olives (toothpicks)
+- Fruit (grapes, berries, whatever)
+
+## Provided by others
+
+ricardo mashed
+andrew dressing
+
+## Menu
+
+- Turkey
+- Tomato bourrata salad (drizzle pre prepped for application)
+- Cranberry relish
+
+- [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
+- BBQ grilled veg (eggplant, zuccini, corn, asparagus, mushrooms, garlic)
+- 2 trays roast veg (carrots, parsnips, sweet potato, butternut squash, maybe broccoli, coliflower, rutebega)
+- herbs chopped for veg (sage, thyme, parsley, chives) & dried cran & rosemary & toasted pecans
+- prepare veg oil and herb concoction for roasting
+- [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
+- [parsnip fritters](http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/)
+- [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
+- [BBQ Meatballs](https://sortedfood.com/recipe/bbqmeatballs)
+- corn
+
+- Alton brown green bean casserole
+- skillet green beans
+
+## total ingredients ist
+
+## serving
+
+go over final list here and choose serving containers
+
+## Timeline
+
+### Zoe's place
+
+- 4:00
+  - preheat oven to 400
+  - 1st round veg goes on 1/2 sheet and placed on bottom rack
+  - 1st round veg is removed and placed in pan in warming drawer (low)
+  - Oven lowered to 3:50
+  - ??casserole of some type goes in the oven??
+  - Andrew's dressing (350 deg 30 mins) goes in the oven
+  - 2nd round veg goes in on bottom
+  - do anything you need to do stovetop now
+  - Andrews dressing exits and transferred to warming drawer
+  - oven turned up to broil for about 5 mins (keep an eye on veg)
+  - then transfer and toss with other veg and move to warming drawer
+
+### My place
+
+- 4:45
+  - fry fritters - straight to warming drawer
+- 5:00
+  - warming drawer set to low
+- 5:20:
+  - cranberry relish,transfer to serving contaners and place in warming drawer
+  - pre-dripping gravy should be prepped by this point
+  - salad exits fridge
+- 5:30
+  - turkey exits oven & rests
+  - Pies go in @375
+  - Cover cranberry relish & place in warming drawer
+- 5:40
+  - gravy time (Andrew?)
+  - carve turkey (Me)
+  - sausage rolls go in to oven (NEED TRAY)
+  - salad drizzle applied
+  
