@@ -2,6 +2,7 @@
 
 - Institut De Readaptation Lindsay-Gingras( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
+- Figure out alternative headphone system for rehearsal space
 - shoe care items for leather sneakers
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Kate bday presents (maybe manicure)
