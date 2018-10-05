@@ -2,19 +2,6 @@
 
 [Original post](https://www.averiecooks.com/classic-traditional-thanksgiving-stuffing/)
 
-## Grocery list
-
-- 1 cup (2 sticks) unsalted butter
-- 1 pound day-old white French bread
-- 1 extra-large sweet Vidalia or yellow onion
-- Celery
-- Italian flat-leaf parsley
-- Fresh sage
-- Fresh rosemary
-- Fresh thyme
-- 2 1/2 cups low-sodium chicken broth
-- 2 large eggs
-
 ## Ingredients
 
 - 1 cup (2 sticks) unsalted butter, divided in 4

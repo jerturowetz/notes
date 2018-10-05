@@ -1,70 +1,116 @@
 # Jer's Thanksgiving Dinner
 
-- coffee machine (RARA)
-- Find chairs (RARA, David?)
-- gravy boat
-- Put Renu/David/Zoe on cheese & cracers & olives duty
-- Print recipies
-- order dinner rolls
-- Set up Turkey [THURS late]
-- SAT:
-  - Pick up Wine [SAT]
-  - Pick up rustique desserts [SAT]
-  - Marche run (fruit & veg) [SAT]
-- SUN:
-  - Pick up pies at TA (paid) [SUN]
-  - Arhoma run (croissants, biscuits) [SUN]
-
-## gear
-
-- half sheets
-- Good balsamic vinegar
-- Charcoal?
-- Newspaper
-- Coffee
-- Big aluminum foil
-- vanilla ice cream
-- little bowls
-
-## Set up
-
-- Cheese & crackers
-- Olives (toothpicks)
-- Fruit (grapes, berries, whatever)
-
-## Provided by others
-
-ricardo mashed
-andrew dressing
-
-## Menu
-
-- Turkey
-- Tomato bourrata salad (drizzle pre prepped for application)
-- Cranberry relish
-
 - [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
 - BBQ grilled veg (eggplant, zuccini, corn, asparagus, mushrooms, garlic)
 - 2 trays roast veg (carrots, parsnips, sweet potato, butternut squash, maybe broccoli, coliflower, rutebega)
 - herbs chopped for veg (sage, thyme, parsley, chives) & dried cran & rosemary & toasted pecans
 - prepare veg oil and herb concoction for roasting
-- [parsnip fritters](https://www.youtube.com/watch?v=WD0Y9e8EYwE)
-- [parsnip fritters](http://dishingupthedirt.com/recipes/spring-parsnip-herb-fritters-with-garlic-yogurt-sauce/)
-- [parsnip fritters](https://bacon-wrappedbarbells.com/2015/06/19/sweet-potato-and-parsnips-fritters-with-bacon-and-green-onions/)
-- [parsnip fritters](https://www.odt.co.nz/lifestyle/food-wine/season-spiced-parsnip-fritters)
-- [parsnip fritters](https://www.healthylittlefoodies.com/carrot-and-parsnip-fritters/)
-- [Barbecued Meatballs](https://www.tasteofhome.com/recipes/barbecued-meatballs/)
-- [BBQ Meatballs](https://sortedfood.com/recipe/bbqmeatballs)
-- corn
-
 - Alton brown green bean casserole
 - skillet green beans
 
-## total ingredients ist
 
-## serving
+- Print recipies
+- Figure out serving containers
+- Figure out any accompaniments
+- FIgure out where food warms
+- Set up Turkey [FRI]
+- SAT:
+  - check out arhoma for rolls
+  - Pick up Wine
+  - Pick up rustique desserts
+  - Marche run (fruit & veg)
+- SUN:
+  - Pick up pies at TA (paid)
+  - $50 - Pick up pies at Rustique (10:30 am)
+  - Arhoma run (croissants, biscuits)
 
-go over final list here and choose serving containers
+## Provided by others
+
+- Mashed potato (Ricardo)
+- Dressing (Andrew)
+
+## Menu
+
+- Cheese & crackers
+- Olives (toothpicks)
+- Fruit (strawberries, blueberries)
+
+- Turkey
+- Tomato bourrata salad (drizzle pre prepped for application)
+- Cranberry relish
+- Corn on the cob
+- Brussel sprouts
+- Parsnip fritters w/garlic yogurt sauce
+- BBQ meatballs
+
+## Shopping list
+
+- Check for items below, if dont have add to shopping list:
+  - Sugar
+  - Ground cinnamon
+  - low-sodium chicken or turkey broth
+  - Flour
+  - 2 sticks butter
+  - Bay leaves
+  - Vegetable oil
+  - Olive OIl
+  - Garlic
+  - Honey (2 tbps)
+  - Flour
+  - 2 large eggs
+  - dried oregano
+  - cumin
+  - garlic powder
+  - smoked paprika
+  - soy sauce
+  - brown sugar
+  - 1/3 cup honey
+  - 1/2 cup ketchup
+- This is gear I might need to buy/borrow:
+  - half sheets
+  - Gravy separator
+  - little bowls
+  - coffee machine
+  - Folding chairs
+  - Gravy boat
+
+- Cheese & crackers
+- Olives (toothpicks)
+- Ice at Dep
+- Tub of vanilla ice cream
+- Fruit (grapes, berries, whatever)
+- Thyme
+- Chives
+- Parsley
+- Sage
+- Shallot
+- Load of cherry tomatoes for that salad
+- Burrata
+- Basil
+- Good balsamic vinegar
+- 3 large yellow onions
+- 2 large red onion
+- Celery
+- Carrots
+- Cranberry juice
+- Ginger
+- 1 orange
+- 3lbs (1500g) Brussels sprouts
+- 14 ears corn
+- Big aluminum foil
+- Charcoal?
+- Newspaper
+- Plain goat or cows milk yogurt
+- Dill
+- Lemon
+- grapeseed oil (frying parsnips)
+- 500 ml pineapple juice
+- 1.5lb beef mince
+- 1.5lb pork mince
+- 4lbs parsnips (like 12 med sized)
+- 2 lbs russet potato (4 large)
+- 1 bunch of scallions
+- Coriander/cilantro
 
 ## Timeline
 
