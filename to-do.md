@@ -9,6 +9,7 @@
 - Plan kates bday (booze, equipment)
 - Call: Nancy, Phillipe, Joe
 - Honeymoon cool stops
+- Cancel spotify premium
 
 ## Wedding
 
