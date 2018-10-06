@@ -1,40 +1,37 @@
 # Jer's Thanksgiving Dinner
 
-- [Gravy](https://www.delish.com/holiday-recipes/thanksgiving/a22646698/turkey-gravy-without-drippings-recipe/)
-- BBQ grilled veg (eggplant, zuccini, corn, asparagus, mushrooms, garlic)
-- 2 trays roast veg (carrots, parsnips, sweet potato, butternut squash, maybe broccoli, coliflower, rutebega)
-- herbs chopped for veg (sage, thyme, parsley, chives) & dried cran & rosemary & toasted pecans
-- prepare veg oil and herb concoction for roasting
-- Alton brown green bean casserole
-- skillet green beans
-
-
-- Print recipies
+- Print recipies?
 - Figure out serving containers
 - Figure out any accompaniments
-- FIgure out where food warms
-- Set up Turkey [FRI]
+- Figure out where food warms
+- who is on olives?
+- who is on coffee machine?
+
 - SAT:
-  - check out arhoma for rolls
-  - Pick up Wine
-  - Pick up rustique desserts
-  - Marche run (fruit & veg)
+  - Kitchen equipment run (if necess):
+    - half sheets
+    - Gravy separator
+    - little bowls
+    - Gravy boat
+  - Check out arhoma for rolls
+  - Pick up wine at Cathy's
+  - $?? Marche run (fruit & veg)
+
 - SUN:
-  - Pick up pies at TA (paid)
-  - $50 - Pick up pies at Rustique (10:30 am)
-  - Arhoma run (croissants, biscuits)
+  - Pick up Ice
+  - $?? Arhoma run (dinner rolls, baguette)
+  - $00 Pick up pies at TA (paid)
+  - $50 Pick up pies at Rustique (10:30 am)
 
 ## Provided by others
 
 - Mashed potato (Ricardo)
 - Dressing (Andrew)
+- Cheese, crackers & olives
 
 ## Menu
 
-- Cheese & crackers
-- Olives (toothpicks)
 - Fruit (strawberries, blueberries)
-
 - Turkey
 - Tomato bourrata salad (drizzle pre prepped for application)
 - Cranberry relish
@@ -42,75 +39,68 @@
 - Brussel sprouts
 - Parsnip fritters w/garlic yogurt sauce
 - BBQ meatballs
+- Gravy
+- 2 trays roast veg
+- Green bean casserole
 
 ## Shopping list
 
-- Check for items below, if dont have add to shopping list:
-  - Sugar
-  - Ground cinnamon
-  - low-sodium chicken or turkey broth
-  - Flour
-  - 2 sticks butter
-  - Bay leaves
-  - Vegetable oil
-  - Olive OIl
-  - Garlic
-  - Honey (2 tbps)
-  - Flour
-  - 2 large eggs
-  - dried oregano
-  - cumin
-  - garlic powder
-  - smoked paprika
+- Grocery store:
+  - Honey
+  - Tub of vanilla ice cream
+  - Cranberry juice
+  - pineapple juice
+  - panko bread crumbs
   - soy sauce
-  - brown sugar
-  - 1/3 cup honey
-  - 1/2 cup ketchup
-- This is gear I might need to buy/borrow:
-  - half sheets
-  - Gravy separator
-  - little bowls
-  - coffee machine
-  - Folding chairs
-  - Gravy boat
+  - low-sodium chicken or turkey broth
+  - Big aluminum foil
+  - Plain goat or cows milk yogurt
+  - 1 cup half-and-half
+  - Potato starch (wtf is this)
+  - Unsalted butter
+  - toasted pecans
 
-- Cheese & crackers
-- Olives (toothpicks)
-- Ice at Dep
-- Tub of vanilla ice cream
-- Fruit (grapes, berries, whatever)
-- Thyme
-- Chives
-- Parsley
-- Sage
-- Shallot
-- Load of cherry tomatoes for that salad
-- Burrata
-- Basil
-- Good balsamic vinegar
-- 3 large yellow onions
-- 2 large red onion
-- Celery
-- Carrots
-- Cranberry juice
-- Ginger
-- 1 orange
-- 3lbs (1500g) Brussels sprouts
-- 14 ears corn
-- Big aluminum foil
-- Charcoal?
-- Newspaper
-- Plain goat or cows milk yogurt
-- Dill
-- Lemon
-- grapeseed oil (frying parsnips)
-- 500 ml pineapple juice
-- 1.5lb beef mince
-- 1.5lb pork mince
-- 4lbs parsnips (like 12 med sized)
-- 2 lbs russet potato (4 large)
-- 1 bunch of scallions
-- Coriander/cilantro
+- Butcher/fancy marche:
+  - 1.5lb beef mince 20% fat or more
+  - 1.5lb pork mince 20% fat or more
+  - Clarified butter (or other whole cooking fat or oil)
+  - Burrata or Bocconccini
+  - Olive Oil (OPT)
+  - grapeseed oil (frying parsnips)
+  - Good balsamic vinegar
+
+- Spice store:
+  - smoked paprika
+  - garlic powder
+
+- Veg:
+  - Fruit (strawberries, blueberries)
+  - Load of cherry tomatoes for that salad
+  - 5 large yellow onions
+  - 2 large red onion
+  - 1 bunch of scallions
+  - Shallot
+  - Garlic
+  - Ginger
+  - 1 orange
+  - 3lbs (1500g) Brussels sprouts
+  - 1 pound fresh green beans
+  - 14 ears corn
+  - 12 oz mushrooms
+  - Lemon
+  - 4lbs parsnips (like 12 med sized)
+  - 2 lbs russet potato (4 large)
+  - Celery
+  - Carrots  
+
+- Herbs:
+  - Coriander/cilantro
+  - Thyme
+  - Chives
+  - Parsley
+  - Sage
+  - Basil
+  - Dill
 
 ## Timeline
 

@@ -2,7 +2,6 @@
 
 [STICKY SLOW-COOKER BBQ MEATBALLS](https://sortedfood.com/recipe/bbqmeatballs)
 
-
 ## Ingredients
 
 ### Sauce
