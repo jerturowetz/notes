@@ -1,6 +1,7 @@
 # Jer's Thanksgiving Dinner
 
 - Print recipies?
+- borrow gravy boat
 - Figure out serving containers
 - Figure out any accompaniments
 - Figure out where food warms
@@ -8,11 +9,11 @@
 - who is on coffee machine?
 
 - SAT:
+  - print recipies
   - Kitchen equipment run (if necess):
     - half sheets
     - Gravy separator
     - little bowls
-    - Gravy boat
   - Check out arhoma for rolls
   - Pick up wine at Cathy's
   - $?? Marche run (fruit & veg)
@@ -28,20 +29,6 @@
 - Mashed potato (Ricardo)
 - Dressing (Andrew)
 - Cheese, crackers & olives
-
-## Menu
-
-- Fruit (strawberries, blueberries)
-- Turkey
-- Tomato bourrata salad (drizzle pre prepped for application)
-- Cranberry relish
-- Corn on the cob
-- Brussel sprouts
-- Parsnip fritters w/garlic yogurt sauce
-- BBQ meatballs
-- Gravy
-- 2 trays roast veg
-- Green bean casserole
 
 ## Shopping list
 
