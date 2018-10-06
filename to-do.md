@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Institut De Readaptation Lindsay-Gingras( room 474, 4th floor, pavillion lindsay )
+- Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
 - Figure out alternative headphone system for rehearsal space
 - shoe care items for leather sneakers
