@@ -5,7 +5,6 @@
 - Figure out serving containers
 - Figure out any accompaniments
 - Figure out where food warms
-- who is on olives?
 - who is on coffee machine?
 
 - SAT:
@@ -14,14 +13,14 @@
     - half sheets
     - Gravy separator
     - little bowls
-  - Check out arhoma for rolls
   - Pick up wine at Cathy's
   - $?? Marche run (fruit & veg)
+  - grocery run
 
 - SUN:
   - Pick up Ice
-  - $?? Arhoma run (dinner rolls, baguette)
-  - $00 Pick up pies at TA (paid)
+  - $20 Arhoma run (dinner rolls, baguette, breakfast)
+  - Pick up pies at TA (paid)
   - $50 Pick up pies at Rustique (10:30 am)
 
 ## Provided by others
@@ -29,65 +28,6 @@
 - Mashed potato (Ricardo)
 - Dressing (Andrew)
 - Cheese, crackers & olives
-
-## Shopping list
-
-- Grocery store:
-  - Honey
-  - Tub of vanilla ice cream
-  - Cranberry juice
-  - pineapple juice
-  - panko bread crumbs
-  - soy sauce
-  - low-sodium chicken or turkey broth
-  - Big aluminum foil
-  - Plain goat or cows milk yogurt
-  - 1 cup half-and-half
-  - Potato starch (wtf is this)
-  - Unsalted butter
-  - toasted pecans
-
-- Butcher/fancy marche:
-  - 1.5lb beef mince 20% fat or more
-  - 1.5lb pork mince 20% fat or more
-  - Clarified butter (or other whole cooking fat or oil)
-  - Burrata or Bocconccini
-  - Olive Oil (OPT)
-  - grapeseed oil (frying parsnips)
-  - Good balsamic vinegar
-
-- Spice store:
-  - smoked paprika
-  - garlic powder
-
-- Veg:
-  - Fruit (strawberries, blueberries)
-  - Load of cherry tomatoes for that salad
-  - 5 large yellow onions
-  - 2 large red onion
-  - 1 bunch of scallions
-  - Shallot
-  - Garlic
-  - Ginger
-  - 1 orange
-  - 3lbs (1500g) Brussels sprouts
-  - 1 pound fresh green beans
-  - 14 ears corn
-  - 12 oz mushrooms
-  - Lemon
-  - 4lbs parsnips (like 12 med sized)
-  - 2 lbs russet potato (4 large)
-  - Celery
-  - Carrots  
-
-- Herbs:
-  - Coriander/cilantro
-  - Thyme
-  - Chives
-  - Parsley
-  - Sage
-  - Basil
-  - Dill
 
 ## Timeline
 
