@@ -5,6 +5,9 @@
 - OJ
 - Chicken
 - Lunch meat
+- Eggs
+- Breakfast sausage
+- Bacon
 - Fish
 - Sweet chili sauce
 - Medium & L freezer bags
