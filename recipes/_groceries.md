@@ -2,9 +2,8 @@
 
 - Cheddar
 - OJ
-- Honey
 - Sweet chili sauce
-- Medium freezer bags
+- Medium & L freezer bags
 - TP/Paper Towels
 
 ## spice store
@@ -13,4 +12,4 @@
 - Chilli powder
 - onion powder
 - Hungarian sweet paprika
-- Smoked paprika
+
