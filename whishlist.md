@@ -30,6 +30,7 @@
 
 ## Kate stuff
 
+- new kate atkinson book
 - Wooden circular brush
 - Exacto knife
 - Used banjo
