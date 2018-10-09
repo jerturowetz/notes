@@ -11,9 +11,11 @@
 - Fish
 - Sweet chili sauce
 - Medium & L freezer bags
+- Dish soap
 - TP/Paper Towels
 - All purpose kitchen cleanr
 - Bathroom cleaner
+- Oven cleaner
 
 ## spice store
 
