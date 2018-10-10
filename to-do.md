@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- kill wall street journal
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
 - Figure out alternative headphone system for rehearsal space
