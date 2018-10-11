@@ -27,6 +27,7 @@
 - roasting pan
 - fat seperator
 - julia child cookbook
+- Le creuset 28
 
 ## Kate stuff
 

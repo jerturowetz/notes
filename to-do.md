@@ -86,6 +86,7 @@
 ### Path
 
 - Various:
+  - [How to Use Google Matched Content to Show Related Posts in WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-use-google-matched-content-to-show-related-posts-in-wordpress/)
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
   - [Internationalization Best Practices](https://www.w3.org/International/geo/html-tech/tech-lang.html#ri20060630.133615821)

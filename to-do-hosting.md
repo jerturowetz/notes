@@ -1,23 +1,14 @@
 # WP Engine Migrations
 
-## Task list
+## Environments to migrate
 
-- Send out emails of warning:
-  - ~~ADS~~
-  - ~~Standard~~
-  - ~~VSF~~
-  - ~~Carly~~
-  - ~~WI Vaccs~~
-  - Shakti
-  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
-- Perform actual migrations
-  - ADS
-  - Standard
-  - VSF
-  - Carly
-  - WI Vaccs
-  - Shakti
-  - Kalin various (JC Venture, nixie, mclariviere, Kalin)
+- ~~Standard~~
+- ~~Carly~~
+- ~~WI Vaccs~~
+- ADS
+- VSF
+- Shakti
+- Kalin various (JC Venture, mclariviere, Kalin)
 - Sucre to Godaddy
 
 --
@@ -50,12 +41,12 @@ Jeremy
 
 ## Info needed for migration
 
--wpengine install name that needs to be transferred: wivacuums
+-wpengine install name that needs to be transferred: carly
 
 -wpengine name for the Origin account: kpdesign
--Support PIN: B83961 
+-Support PIN: B83961
 -owner-level email address the account is under: j.turowetz@gmail.com
 
--wpengine name for the receiving account: aspirateurwest
--Support PIN: B44754 
+-wpengine name for the receiving account: carlywfridman
+-Support PIN: B90011
 -owner-level email address the account is under: j.turowetz@gmail.com
