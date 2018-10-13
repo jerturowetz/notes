@@ -8,6 +8,7 @@
 
 ## Various
 
+- 13" x 10"h x 20"ish long for bags 
 - small cotton spice bags
 - Microplane
 - Gear to patch hole behind stove
