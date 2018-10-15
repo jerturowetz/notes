@@ -39,6 +39,8 @@
 
 ## Various
 
+- mortar n pestle
+- spice containers
 - 13" x 10"h x 20"ish long for bags
 - small cotton spice bags
 - Microplane
