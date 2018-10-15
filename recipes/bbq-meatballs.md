@@ -8,10 +8,10 @@
 
 - 1 large red onion, diced small
 - 2 cloves garlic, diced small
-- 250 ml pineapple juice
-- 1 tsp smoked paprika
-- 1 tbsp soy sauce
-- 1/4 cup brown sugar
+- 500 ml pineapple juice
+- 2 tsp smoked paprika
+- 2 tbsp soy sauce
+- 1/3 cup brown sugar
 - 1/3 cup honey
 - 1/2 cup ketchup
 

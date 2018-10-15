@@ -1,14 +1,45 @@
 # Wishlist
 
+- Kate sweater at COS
 - 4+RU rack case w/power
 - Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
 - heat gun
 - Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
+## Kate stuff
+
+- Transcrption by kate atkinson
+- Wooden circular brush
+- Exacto knife
+- Used banjo
+- Print & frame OWLTURD's "We Go Forward" comic for kate
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
+- For Cathy: Book on Jean Chrétien
+- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
+- suck it hoodie (Tshirt time.com or entripy.com)
+- ugly dino xmas sweater
+- Santiago Ramon Y Cajal Art
+- See _Canadian Living_ magazine for book suggestions
+
+### Books
+
+- Life After Life by kate atkinson
+- Women Talking by Miriam Toews
+- Hot Milk by Deborah Levy
+- Split Tooth by Tanya Tagaq
+- Something for Everyone by Lisa Moore
+- The Chronicles of Narmo by Caitlin Moran
+- Moranifesto by Caitlin Moran
+- Hunger: A Memoir of (My) Body by Roxane Gay
+- The Cows by Dawn O'Porter
+- Bad Feminist by Roxane Gay
+- Animal: The Autobiography of a Female Body by Sara Pascoe
+
 ## Various
 
-- 13" x 10"h x 20"ish long for bags 
+- 13" x 10"h x 20"ish long for bags
 - small cotton spice bags
 - Microplane
 - Gear to patch hole behind stove
@@ -28,36 +59,6 @@
 - roasting pan
 - fat seperator
 - julia child cookbook
-- Le creuset 28
-
-## Kate stuff
-
-- new kate atkinson book
-- Wooden circular brush
-- Exacto knife
-- Used banjo
-- Print & frame OWLTURD's "We Go Forward" comic for kate
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
-- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
-- For Cathy: Book on Jean Chrétien
-- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
-- suck it hoodie (Tshirt time.com or entripy.com)
-- ugly dino xmas sweater
-- Santiago Ramon Y Cajal Art
-- See _Canadian Living_ magazine for book suggestions
-
-### Books
-
-- Women Talking by Miriam Toews
-- Hot Milk by Deborah Levy
-- Split Tooth by Tanya Tagaq
-- Something for Everyone by Lisa Moore
-- The Chronicles of Narmo by Caitlin Moran
-- Moranifesto by Caitlin Moran
-- Hunger: A Memoir of (My) Body by Roxane Gay
-- The Cows by Dawn O'Porter
-- Bad Feminist by Roxane Gay
-- Animal: The Autobiography of a Female Body by Sara Pascoe
 
 ### Xmas ideas
 

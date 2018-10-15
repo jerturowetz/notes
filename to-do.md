@@ -1,5 +1,14 @@
 # Jer's To-Do List
 
+- Lunches:
+  - waldorf salad
+  - italian chicken salad
+  - buffalo chickpea wraps
+  - whole chicken
+- Grocery run
+- Buy Kate's presents (book, brush, )
+- Plan Sunday dinner
+- [Karafun Karaoke software trial](https://www.karafun.com/subscribe.html)
 - Figure out alternative headphone system for rehearsal space
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
