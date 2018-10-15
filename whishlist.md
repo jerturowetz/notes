@@ -1,10 +1,8 @@
 # Wishlist
 
 - Kate sweater at COS
-- 4+RU rack case w/power
-- Ideal Industries Stripmaster Wire Stripper, 16 to #26 AWG
-- heat gun
-- Build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
+- 4+RU rack case w/power (at least 10" deep)
+- Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Kate stuff
@@ -37,35 +35,9 @@
 - Bad Feminist by Roxane Gay
 - Animal: The Autobiography of a Female Body by Sara Pascoe
 
-## Various
-
-- mortar n pestle
-- spice containers
-- 13" x 10"h x 20"ish long for bags
-- small cotton spice bags
-- Microplane
-- Gear to patch hole behind stove
-- Petzl headlamp x2
-- $55 MSR Hubba Hubba NX Footprint
-- $20 MSR Groundhog Tent Stake Kit
-- Wool socks
-- Winter boots
-- Earphone wrap thingy
-- Tape measure
-- Pan scraper
-- POÄNG chair (bright colors, yellow)
-- $125 Mickey
-- $200 Agg, Andrew, Joe gifts
-- $??? Aaron computer
-- sautee pan
-- roasting pan
-- fat seperator
-- julia child cookbook
-
 ### Xmas ideas
 
 - KISMET socks to support big brothers big sisters
-- [IKEA foundation](https://www.ikeafoundation.org/)
 - [Me to We](https://shop.metowe.com/)
 - [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
 - [$60 Charging keychain tassle](https://www.casetify.com/product/iphone-tassel-leather-charging-cable-noir)
@@ -82,6 +54,33 @@
 - [Indigo](https://www.chapters.indigo.ca)
 - [Garment Steamer](https://reliablecorporation.com)
 
+## Winter boots
+
+- Casual winter boot
+  - The North Face MEN'S BACK-TO-BERKELEY REDUX LEATHER
+- Around the house
+  - Bogs Classic Ultra Mid
+  - Sorel whatever
+- Serious winter boot
+  - Columbia MEN'S BUGABOOT PLUS III XTM OMNI-HEAT BOOTS -65F/-54C
+  - Lowa MEN'S RENEGADE ICE GTX G3 INSULATED BOOTS -13F/-25C
+  - Lowa MEN'S HUNTER GTX EXTREME
+  - Lowa MEN'S WENDELSTEIN BOOTS
+  - The North Face Chilkat 400 (OGL #1)
+  - Vasque Snowburban II UltraDry (OGL #2)
+
+## Various
+
+- Wool socks
+- dental pick
+- Pan scraper
+- Gear to patch hole behind stove
+- $55 MSR Hubba Hubba NX Footprint
+- $20 MSR Groundhog Tent Stake Kit
+- $125 Mickey
+- $200 Agg, Andrew, Joe gifts
+- $??? Aaron computer
+
 ## IKEA
 
 - 3x SOCKERBIT Storage box 503.161.82
@@ -93,9 +92,11 @@
 
 ## Music gear
 
+- Heat gun
+- pegboard hooks loop, plier holder, bins, baskets
+- $200 10-14 chnel TRS snake
 - $600 Mixer case
 - XLRF to 1/4 M short
-- 10-12 chnl TRS snake
 - $450 Radial Key Largo (for Travis main)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
@@ -103,13 +104,10 @@
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
-- AKG D112
 - Overheads, whatever
 - IEC-6X4 (short power cords)
 - Reaper
-- sennheiser e901
-- shop towels or cloths
-- Power drill
+- sennheiser e901/other kick mics (not d112?)
 - Pegboard hooks
 - Screwdriver set & Hex key set
 - Table top tool organiser (for cutters, needle nose pliers)

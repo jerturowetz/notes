@@ -1,23 +1,17 @@
 # Jer's To-Do List
 
-- Lunches:
-  - waldorf salad
-  - italian chicken salad
-  - buffalo chickpea wraps
-  - whole chicken
-- Grocery run
-- Buy Kate's presents (book, brush, )
-- Plan Sunday dinner
-- [Karafun Karaoke software trial](https://www.karafun.com/subscribe.html)
+- Pick up speakers/cables chez Yamin
 - Figure out alternative headphone system for rehearsal space
+- Grocery run
+- Buy Kate's presents (book, brush, COS)
+- Plan Sunday dinner
+- Try out Karaoke software
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
-- Kate bday presents (maybe manicure)
-- Plan kates bday (booze, equipment)
 - Call: Nancy, Phillipe, Joe
 - Honeymoon cool stops
-- Cancel spotify premium
+- Cancel spotify premium & karafun
 
 ## Wedding
 
@@ -26,7 +20,6 @@
   - Choose mailer template for thank yous
   - Choose photos for thank yous
   - Find a printer & print thank yous
-- booze trade in
 - Registry missing items
 
 ## Psych help
