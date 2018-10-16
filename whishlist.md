@@ -1,6 +1,5 @@
 # Wishlist
 
-- Kate sweater at COS
 - 4+RU rack case w/power (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -33,7 +32,6 @@
 - Hunger: A Memoir of (My) Body by Roxane Gay
 - The Cows by Dawn O'Porter
 - Bad Feminist by Roxane Gay
-- Animal: The Autobiography of a Female Body by Sara Pascoe
 
 ### Xmas ideas
 

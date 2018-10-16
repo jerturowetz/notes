@@ -4,18 +4,15 @@
 
 - 3 large sweet potatoes
 - 3 large portobello mushrooms
-- grape tomatoes
 - basil pesto
 - roasted red peppers
 - toasted slivered almonds
 - Italian parsley
-- Oranges
 - Brussel sprouts on vine
 - soup stock paste (like Better Than Bouillon), miso paste
 
 ### Butcher
 
-- Whole chicken
 - Flank steak
 - Sunday dinner pork
 
@@ -40,17 +37,11 @@
 ## Provigo/whatever
 
 - hot sauce
-- Butter
 - Ketchup
-- Olive Oil
-- Peanut oil
-- Bacon (loads)
-- Eggs
-- soup stock paste (like Better Than Bouillon), miso paste, curry paste
 - frozen corn, peas & carrots
 - Breakfast sausage
 - Medium & L freezer bags
-- TP & Paper Towels
+- Paper Towels
 - All purpose kitchen cleaner
 - Bathroom cleaner
 - Oven cleaner

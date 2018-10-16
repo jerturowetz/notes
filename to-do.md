@@ -5,7 +5,6 @@
 - Grocery run
 - Buy Kate's presents (book, brush, COS)
 - Plan Sunday dinner
-- Try out Karaoke software
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
