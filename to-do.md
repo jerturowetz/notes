@@ -1,15 +1,22 @@
 # Jer's To-Do List
 
-- Pick up speakers/cables chez Yamin
 - Figure out alternative headphone system for rehearsal space
-- Grocery run
-- Make bristol Boards for Sat
-- Buy Kate's book
+- Check back on Fer Sher edits & send to Yamin
 - Plan Sunday dinner
-- Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
+- Plan bristol boards for SAT
+
+- Pick up speakers/cables chez Yamin
+- Grocery run
+- Buy bristol boards for sat
+- Make bristol boards for SAT
+- Buy Kate's book
+- Nintendo eshop gift card (vbucks for fortnite)
+
+- Cancel WealthSimple auto-deposit
 - Research bag care for Fjällräven
+- Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
-- Call: Nancy, Phillipe, Joe
+- Call: Nancy, Phillipe
 - Honeymoon cool stops
 - Cancel spotify premium & karafun
 
@@ -32,6 +39,7 @@
 
 ## Music
 
+- Prep Steve tracks & RME setup
 - Set up recording rig & track template
 - Prep Ruby Tracks
 - SJ tracks
@@ -119,6 +127,7 @@
   - [Vanilla JS Academy](https://vanillajsacademy.com/)
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
   - [SVG compressor](https://vecta.io/nano)
+  - [Best Make Tutorial](https://www.youtube.com/watch?v=GExnnTaBELk&list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&index=2)
 - Analytics/SEO:
   - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
   - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
