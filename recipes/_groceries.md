@@ -10,6 +10,7 @@
 - Italian parsley
 - Brussel sprouts on vine
 - soup stock paste (like Better Than Bouillon), miso paste
+- Aluminum foil
 
 ### Butcher
 
