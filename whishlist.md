@@ -11,18 +11,18 @@
 - Exacto knife
 - Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
-- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
-- For Cathy: Book on Jean Chrétien
 - [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
 - suck it hoodie (Tshirt time.com or entripy.com)
 - ugly dino xmas sweater
 - Santiago Ramon Y Cajal Art
-- See _Canadian Living_ magazine for book suggestions
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
+- For Cathy: Book on Jean Chrétien
 
 ### Books
 
-- Life After Life by kate atkinson
+Note: See _Canadian Living_ magazine for book suggestions
+
 - Women Talking by Miriam Toews
 - Hot Milk by Deborah Levy
 - Split Tooth by Tanya Tagaq
