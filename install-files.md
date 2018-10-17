@@ -12,7 +12,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
 
 ## Via installers
 
-- 4k video downloader
 - 7zip
 - Adobe Acrobat Pro
 - Adobe Acrobat Reader
@@ -31,8 +30,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
   - checkout as-is commit unix
   - symlinks on
 - Google Chrome
-- Handbrake
-- HeidiSQL
 - Mozilla Firefox Developer Edition
 - MS Office
 - MS Visual Studio Code
@@ -47,21 +44,14 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Quicktime
 - Ruby
 - Safari
-- SkyFonts (need to install google fonts manually)
-- Skype
 - Slack desktop
 - Stardock Fences
-- Steam
 - Docker
-- MP3 Tag
-- TeamViewer
-- Twitter
-- uTorrent
+- RDP
 - VLC
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
-- LaunchBox & RetroArch (_Do not_ use the installer version)
 
 ## PHP
 
