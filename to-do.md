@@ -3,7 +3,8 @@
 - Pick up speakers/cables chez Yamin
 - Figure out alternative headphone system for rehearsal space
 - Grocery run
-- Buy Kate's presents (book, brush, COS)
+- Make bristol Boards for Sat
+- Buy Kate's book
 - Plan Sunday dinner
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Research bag care for Fjällräven

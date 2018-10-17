@@ -166,3 +166,21 @@ Erase the following reg key:
 - Set `Default personal templates location` to that folder
 
 *Note* You might also want to go to `Save` options and set the default save path to desktop
+
+### Adding more to git bash
+
+## Xpdf
+
+[Xpdf](http://www.xpdfreader.com/index.html) is a handy utility for manipulating PDF files. 
+
+- Download the [windows version "Xpdf tools"](http://www.xpdfreader.com/download.html).
+- Extract zip.
+- Copy the contents of `xpdf-tools-win-4.00\bin64\` into your `Git\mingw64\bin\`.
+- Check the [docs](http://www.xpdfreader.com/support.html) to get started with tools such as `pdftotext` and `pdftopng`.
+
+## make
+
+- Go to [ezwinports](https://sourceforge.net/projects/ezwinports/files/).
+- Download `make-4.1-2-without-guile-w32-bin.zip` (get the version without guile).
+- Extract zip.
+- Copy the contents to your `Git\mingw64\` merging the folders, but do NOT overwrite/replace any existing files. 
