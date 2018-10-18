@@ -1,23 +1,21 @@
 # Jer's To-Do List
 
-- Figure out alternative headphone system for rehearsal space
-- Check back on Fer Sher edits & send to Yamin
 - Plan Sunday dinner
-- Plan bristol boards for SAT
-
-- Pick up speakers/cables chez Yamin
-- Grocery run
-- Buy bristol boards for sat
-- Make bristol boards for SAT
-- Buy Kate's book
-- Nintendo eshop gift card (vbucks for fortnite)
-
-- Cancel WealthSimple auto-deposit
+- Friday daytime:
+  - Buy bristol boards
+  - Pick up speakers/cables chez Yamin
+  - Buy Kate's book
+  - Nintendo eshop gift card (vbucks for fortnite)
+- Friday nightime:
+  - Make bristol boards
+  - Pack sound gear
+  - Pack hole punch & string
+  
+- Sunday dinner grocery run
 - Research bag care for Fjällräven
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Call: Nancy, Phillipe
-- Honeymoon cool stops
 - Cancel spotify premium & karafun
 
 ## Wedding
