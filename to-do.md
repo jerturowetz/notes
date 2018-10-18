@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Plan Sunday dinner
+- Sunday dinner grocery run
 - Friday daytime:
   - Buy bristol boards
   - Pick up speakers/cables chez Yamin
@@ -10,8 +10,10 @@
   - Make bristol boards
   - Pack sound gear
   - Pack hole punch & string
-  
-- Sunday dinner grocery run
+- pickup milk crates
+- Seal doors & windows for winter
+- Clean front closet
+- Clean out shed
 - Research bag care for Fjällräven
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
