@@ -10,7 +10,6 @@
 - Italian parsley
 - Brussel sprouts on vine
 - soup stock paste (like Better Than Bouillon), miso paste
-- Aluminum foil
 
 ### Butcher
 
@@ -46,3 +45,7 @@
 - All purpose kitchen cleaner
 - Bathroom cleaner
 - Oven cleaner
+- aluminum foil
+- laundry detergent
+- garbage bags
+- flour

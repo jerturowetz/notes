@@ -1,5 +1,6 @@
 # Wishlist
 
+- winter sealant
 - $70 Amazon
 - $150 Wealth Simple
 - 4+RU rack case w/power (at least 10" deep)
