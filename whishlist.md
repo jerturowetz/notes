@@ -72,6 +72,9 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ## Various
 
+- $280 USD Q Acoustics 3020 bookshelf speakers
+- $250 Audioengine B1 Premium Bluetooth Music Receiver
+- $50 Monoprice Bluetooth Streaming Music Receiver
 - Wool socks
 - dental pick
 - Pan scraper
