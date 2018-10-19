@@ -73,7 +73,6 @@ Note: See _Canadian Living_ magazine for book suggestions
 - $250 Audioengine B1 Premium Bluetooth Music Receiver
 - $50 Monoprice Bluetooth Streaming Music Receiver
 - Wool socks
-- dental pick
 - Pan scraper
 - Gear to patch hole behind stove
 - $55 MSR Hubba Hubba NX Footprint
@@ -93,6 +92,7 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ## Music gear
 
+- dental pick
 - Heat gun
 - pegboard hooks loop, plier holder, bins, baskets
 - $200 10-14 chnel TRS snake

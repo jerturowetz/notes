@@ -2,8 +2,6 @@
 
 - Sunday dinner grocery run
 - Friday daytime:
-  - Buy bristol boards
-  - Pick up speakers/cables chez Yamin
   - Buy Kate's book
   - Nintendo eshop gift card (vbucks for fortnite)
 - Friday nightime:
