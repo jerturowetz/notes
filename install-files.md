@@ -53,6 +53,11 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
 
+## WebP codecs etc
+
+- [WEBM DirectShow Filters](https://www.webmproject.org/tools/)
+- [webp codec](https://developers.google.com/speed/webp/download)
+
 ## PHP
 
 Grab the latest version of php from the [php website](http://windows.php.net/download/) (e.g. VC14 x64). Make sure to get a _Thread Safe_ version if you want to run apache.
