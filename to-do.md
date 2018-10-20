@@ -1,14 +1,7 @@
 # Jer's To-Do List
 
-- Sunday dinner grocery run
-- Friday daytime:
-  - Buy Kate's book
-  - Nintendo eshop gift card (vbucks for fortnite)
-- Friday nightime:
-  - Make bristol boards
-  - Pack sound gear
-  - Pack hole punch & string
-- pickup milk crates
+- Pickup/find Nintendo eshop gift card (vbucks for fortnite)
+- milk crates?
 - Seal doors & windows for winter
 - Clean front closet
 - Clean out shed

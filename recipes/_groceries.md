@@ -1,42 +1,41 @@
 # Groceries
 
-## For Bday Dinner
-
-- baster
+- Pepperoni
+- Mozerlla
+- Pizza Sauce
+- Meat
+- Curry paste
+- Miso Paste
+- Frozen corn, peas & carrots
+- Oven cleaner
+- Laundry detergent
+- Mayo
+- Shampoo
+- Baster
 
 ## Jean Talon Market
 
 - Brussel sprouts on vine/other veg
 - Italian parsley
-- cilantro
+- Cilantro
 - Carrots
-- Celery
-- toasted slivered almonds
+- Toasted slivered almonds
 - 3 large sweet potatoes
 - 3 large portobello mushrooms
-- basil pesto
-- roasted red peppers
+- Basil pesto
+- Roasted red peppers
 
-### Butcher
+## Butcher
 
-- Flank steak
 - 2kg max pork joint
 
-### spice store
+## Spice store
 
 - Pepper
 - Chilli powder
 - onion powder
 - Hungarian sweet paprika
 
-### Chinese grocery
+## Chinese grocery
 
 - noodles
-
-## Later
-
-- Meat
-- curry paste
-- frozen corn, peas & carrots
-- Oven cleaner
-- laundry detergent
