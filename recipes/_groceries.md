@@ -4,17 +4,17 @@
 - Curry paste
 - Miso Paste
 - Frozen corn, peas & carrots
-- Oven cleaner
 - Laundry detergent
 - bleach
 - Mayo
 - Shampoo
-- Baster
 - pepper
 - mexican chili powder
 - Toasted slivered almonds
 - Basil pesto
-- Roasted red peppers
+- Ice cream
+- Meat
+- Pasta sauce (2)
 
 ## Butcher
 
@@ -23,3 +23,4 @@
 ## Chinese grocery
 
 - noodles
+- duck

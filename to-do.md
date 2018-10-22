@@ -1,7 +1,7 @@
 # Jer's To-Do List
 
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
-- milk crates?
+- milk crates
 - Seal doors & windows for winter
 - Clean front closet
 - Clean out shed
