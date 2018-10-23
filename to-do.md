@@ -9,7 +9,6 @@
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
 - Call: Nancy, Phillipe
-- Cancel spotify premium & karafun
 
 ## Wedding
 

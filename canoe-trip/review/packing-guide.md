@@ -1,3 +1,5 @@
+# H&T: Individual packing guide
+
 Sleeping Bag / Quilts
 Note: All the bags here are for 4-season but not extreme conditions (20°F / -7°C) - while the Katabatic has a higher temp rating, it performs well at 20°F
 

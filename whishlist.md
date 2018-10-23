@@ -1,23 +1,17 @@
 # Wishlist
 
-mortar and pestle
-spice geinder
-
 - 4+RU rack case w/power (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
 ## Kate stuff
 
-- Transcrption by kate atkinson
 - Wooden circular brush
 - Exacto knife
 - Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
-- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
-- suck it hoodie (Tshirt time.com or entripy.com)
-- ugly dino xmas sweater
 - Santiago Ramon Y Cajal Art
+- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
 - For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
 - For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
 - For Cathy: Book on Jean Chrétien
@@ -26,6 +20,7 @@ spice geinder
 
 Note: See _Canadian Living_ magazine for book suggestions
 
+- Transcrption by kate atkinson
 - Women Talking by Miriam Toews
 - Hot Milk by Deborah Levy
 - Split Tooth by Tanya Tagaq
@@ -72,9 +67,6 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ## Various
 
-- $280 USD Q Acoustics 3020 bookshelf speakers
-- $250 Audioengine B1 Premium Bluetooth Music Receiver
-- $50 Monoprice Bluetooth Streaming Music Receiver
 - Wool socks
 - Pan scraper
 - Gear to patch hole behind stove
@@ -83,6 +75,8 @@ Note: See _Canadian Living_ magazine for book suggestions
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - $??? Aaron computer
+- mortar and pestle
+- spice grinder
 
 ## IKEA
 

@@ -1,6 +1,4 @@
-# Medkit packing list
-
-## Various
+# H&T: Medkit packing list
 
 - 20 each latex free gauze pads s,m & l (both non-stick & normal)
 - Adventure Medical Sam Splint
@@ -28,16 +26,14 @@
 - lighter or matches & fire starter
 - Emergency blanket
 - Fingernail clippers
-- Tampons
-- maxi pads
+- Tampons & maxi pads
 - Ez Dose Pill Pouches
 - Victorinox Classic SD
 - Iodine / Emergency water treatment
 - Glowsticks
 - Duct tape
 - Spare plastic poncho
-- Condoms
-- Matches / lighter / firestarters
+- Matches/lighter/firestarters
 - Lantern Candle
 - Packages of hot drinks
 
