@@ -2,6 +2,7 @@
 
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
 - milk crates
+- BKDSN - add wpengine deploys to webhooks in slack
 - Seal doors & windows for winter
 - Clean front closet
 - Clean out shed

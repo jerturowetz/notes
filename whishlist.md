@@ -20,7 +20,7 @@
 
 Note: See _Canadian Living_ magazine for book suggestions
 
-- Transcrption by kate atkinson
+- Transcrption by Kate Atkinson
 - Women Talking by Miriam Toews
 - Hot Milk by Deborah Levy
 - Split Tooth by Tanya Tagaq
