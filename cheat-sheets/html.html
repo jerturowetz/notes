@@ -36,8 +36,31 @@ Modern browsers fetch /favicon.ico automatically and asynchronously. So don't 
 	</head>
 	<body>
 		<main>
-			<article><article>
+			<article>
+
+				<!-- IMAGES -->
+
+				<!-- use sizes to set how the image will display, optionally with media queries
+				use srcset to define multiple versions of the image (and their size) -->
+				<img src="images/space-needle.jpg" sizes="(max-width: 40em) 100vw, 50vw"
+				srcset="images/space-needle.jpg 200w, images/space-needle-2x.jpg 400w, images/space-needle-hd.jpg 600w">
+
+				<!-- if you desire multiple sources by size or image type, use the <picture> element with <source> -->
+				<!-- whats cool about this is browsers that caont support will fall back, this also applies for unknown types -->
+				<picture>
+					<source media="(max-width: 30em)" sizes="(max-width: 500px) 50vw, 10vw" type="image/vnd.ms-photo"
+					srcset="images/small/space-needle.jxr 200w, images/small/space-needle-2x.jxr 400w,
+					images/small/space-needle-hd.jxr 600w">
+
+					<source media="(max-width: 30em)" sizes="(max-width: 500px) 50vw, 10vw" type="image/jpg"
+					srcset="images/small/space-needle.jpg 200w, images/small/space-needle-2x.jpg 400w,
+					images/small/space-needle-hd.jpg 600w">
+
+					<img src="space-needle.jpg" alt="Space Needle">
+				</picture>
+
+			</article>
 		</main>
+
 	</body>
 </html>
-</article>
