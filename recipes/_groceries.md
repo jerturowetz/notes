@@ -12,8 +12,6 @@
 - mexican chili powder
 - Toasted slivered almonds
 - Basil pesto
-- Ice cream
-- Meat
 - Pasta sauce (2)
 
 ## Butcher
@@ -24,3 +22,7 @@
 
 - noodles
 - duck
+
+## Spice store
+
+- chili blend
