@@ -40,7 +40,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
   - make sure to use x64 versions for both
   - adding both to path
   - don't install in `\program files\`
-- imagemagick
+- imagemagick - *Install C headers*
 - Quicktime
 - Ruby
 - Safari
