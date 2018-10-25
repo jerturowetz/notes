@@ -13,10 +13,15 @@
 - Toasted slivered almonds
 - Basil pesto
 - Pasta sauce (2)
+- Butter
+- Milk
+- Coffee
 
 ## Butcher
 
 - 4 pound (2 kg) boneless pork shoulder or butt
+- Flank steak
+- Seafood?
 
 ## Chinese grocery
 
