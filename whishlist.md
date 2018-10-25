@@ -6,6 +6,7 @@
 
 ## Kate stuff
 
+- Ikea socks
 - Wooden circular brush
 - Exacto knife
 - Used banjo
