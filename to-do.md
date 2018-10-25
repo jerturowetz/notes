@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- add to do for cult article semantics
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
 - milk crates
 - BKDSN - add wpengine deploys to webhooks in slack
