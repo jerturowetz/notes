@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- failed: ImageMagick-6.9.10-14-Q16-x64-dll.exe
 - add to do for cult article semantics
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
 - milk crates
