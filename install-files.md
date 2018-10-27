@@ -40,7 +40,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
   - make sure to use x64 versions for both
   - adding both to path
   - don't install in `\program files\`
-- imagemagick - *Install C headers*
 - Quicktime
 - Ruby
 - Safari
@@ -52,6 +51,18 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
+
+## ImageMagick and the nonsense with add ons
+
+- Install AFTER installing the ruby dev kit
+- Make sure to install a 6.x version and not 7 (theres one in the `Install Files` folder)
+- Install to a location _without_ spaces (eg `C:\ImageMagick-6.9.10-Q16-HDRI`)
+- Install development headers and libraries for C and C++
+- Install ImageMagicObject OLE Control for VBscript, Visual Basic, and WSH
+
+Following a successful install, install the rmagick gem
+
+    gem install rmagick -- --with-opt-dir=C:\ImageMagick-6.9.10-Q16-HDRI
 
 ## WebP codecs etc
 
@@ -179,3 +190,6 @@ Erase the following reg key:
 - Download `make-4.1-2-without-guile-w32-bin.zip` (get the version without guile).
 - Extract zip.
 - Copy the contents to your `Git\mingw64\` merging the folders, but do NOT overwrite/replace any existing files. 
+
+
+
