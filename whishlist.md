@@ -8,7 +8,6 @@
 ## Kate stuff
 
 - Ikea socks
-- Wooden circular brush
 - Exacto knife
 - Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
