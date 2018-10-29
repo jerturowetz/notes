@@ -1,5 +1,19 @@
 # Groceries
 
+
+dinner with david
+
+
+apples
+creme fraiche
+duck fat
+baguette
+honey
+pepper
+
+
+
+
 - Meat
 - Curry paste
 - Miso Paste
