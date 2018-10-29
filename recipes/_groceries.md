@@ -1,20 +1,6 @@
 # Groceries
 
-
-dinner with david
-
-
-apples
-creme fraiche
-duck fat
-baguette
-honey
-pepper
-
-
-
-
-- Meat
+- Meat & fish
 - Curry paste
 - Miso Paste
 - Frozen corn, peas & carrots
@@ -22,13 +8,10 @@ pepper
 - bleach
 - Mayo
 - Shampoo
-- pepper
 - mexican chili powder
 - Toasted slivered almonds
 - Basil pesto
 - Pasta sauce (2)
-- Butter
-- Milk
 - Coffee
 
 ## Butcher
