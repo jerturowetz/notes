@@ -5,6 +5,23 @@
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 
+## Bebe books
+
+- Mayo Clinic Guide to Pregnancy
+- The Big Fat Activity Book for Pregnant People - Jordan Reid and Erin Williams
+- Haines Guide to Babies
+- Expecting Better - Emily Oster
+
+### Maybe
+
+- Happiest Baby on the Block
+- Baby-Led Weaning
+- Simplicity Parenting - Kim somebody
+- Raising Lifelong Learners - Calkins
+- The Girlfriends' Guide to Pregnancy - Vicki Iovine
+- The Birth Partner - Penny Simkin
+- The Expectant Father: The Ultimate Guide for Dads-to-Be
+
 ## Kate stuff
 
 - Ikea socks
