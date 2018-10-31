@@ -30,6 +30,7 @@ only system and admin have permission to write to hosts by deafault - be sure to
   - checkout as-is commit unix
   - symlinks on
 - Google Chrome
+- ImageMagick (istall as admin w/ C+ and VBscript extras)
 - Mozilla Firefox Developer Edition
 - MS Office
 - MS Visual Studio Code
@@ -51,18 +52,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
-
-## ImageMagick and the nonsense with add ons
-
-- Install AFTER installing the ruby dev kit
-- Make sure to install a 6.x version and not 7 (theres one in the `Install Files` folder)
-- Install to a location _without_ spaces (eg `C:\ImageMagick-6.9.10-Q16-HDRI`)
-- Install development headers and libraries for C and C++
-- Install ImageMagicObject OLE Control for VBscript, Visual Basic, and WSH
-
-Following a successful install, install the rmagick gem
-
-    gem install rmagick -- --with-opt-dir=C:\ImageMagick-6.9.10-Q16-HDRI
 
 ## WebP codecs etc
 
