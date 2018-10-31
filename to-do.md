@@ -1,17 +1,16 @@
 # Jer's To-Do List
 
 - add to do for cult article semantics
+- BKDSN - add wpengine deploys to webhooks in slack
+- Go to bookstore
+- Hardware store (windows sealant & tape)
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
 - milk crates
-- BKDSN - add wpengine deploys to webhooks in slack
-- BKDSN - better restriction for dev site
-- Seal doors & windows for winter
 - Clean front closet
 - Clean out shed
 - Research bag care for Fjällräven
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
-- Tip Alan from tree-to-tree 1-819-430-6548 (Michael gave me your no 1-819-429-1110)
-- Call: Nancy, Phillipe
+- Call: Nancy
 
 ## Wedding
 
