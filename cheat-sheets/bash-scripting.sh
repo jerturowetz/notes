@@ -30,3 +30,11 @@ prepend_to_file () {
 	return 0;
 
 }
+
+
+
+
+
+
+
+mogrify -quality 90 -resize 1920x1920\> *.jpg

@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+- $200 CC
+- $??? Communauto
+
 - add to do for cult article semantics
 - BKDSN - add wpengine deploys to webhooks in slack
 - Go to bookstore
