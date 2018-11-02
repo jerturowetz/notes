@@ -30,7 +30,6 @@ only system and admin have permission to write to hosts by deafault - be sure to
   - checkout as-is commit unix
   - symlinks on
 - Google Chrome
-- ImageMagick (istall as admin w/ C+ and VBscript extras)
 - Mozilla Firefox Developer Edition
 - MS Office
 - MS Visual Studio Code
@@ -124,6 +123,31 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
     composer global require phploc/phploc
     composer global require phpmd/phpmd
     composer global require squizlabs/php_codesniffer
+
+## Install ImageMagick & rmagick
+
+Only do this _after_ installing ruby & jekyll (as I imagine you're gonna want rmagick for jekyll)
+
+### ImageMagick install steps
+
+- Install an [older .dll version of ImageMagick](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-6.9.6-0-Q16-HDRI-x64-dll.exe). There's also a copy in my `Install Files` folder.
+- The version of Imagemagick should match the system version of ruby (x86, x64)
+- The install path should be a folder without spaces (e.g. `c:\imagemagick`)
+- Do not install as admin
+- Choose the options for:
+  - _Add application directory to system path_
+  - _Install development headers and libraries for C and C++_
+  - _Install ImageMagickObject OLE Control for VBscript, Visual Basic and WSH_
+
+### Rmagick install steps
+
+In a Windows comand prompt (not admin), type the following (assuming `c:\imagemagick` is your install path):
+
+    gem install rmagick --platform=ruby -- --with-opt-lib="c:/imagemagick/lib" --with-opt-include="c:/imagemagick/include"
+
+### Rmagick path issues
+
+Copy all `CORE_*` files from the imagemagick install folder to the `ruby\bin` folder.
 
 ## Stuff to sync
 
