@@ -1,12 +1,14 @@
 # Wishlist
 
-- Bsuit, plugs and THT
+- Ikea pegboard unit for front closet (storing bags etc)
+- plugs and THT, maybe suit & syringe thing
 - Incandescent lightbulbs and red light bulb for the laundry room
 - 4+RU rack case w/power (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
 - Mayo Clinic Guide to a Healthy Pregnancy
+- The Haynes Baby Manual: Conception to Two Years b
 
 ## Kate stuff
 

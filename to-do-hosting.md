@@ -5,7 +5,7 @@
 - ~~Standard~~
 - ~~Carly~~
 - ~~WI Vaccs~~
-- ADS
+- ~~ADS~~
 - VSF
 - Shakti
 - Kalin various (JC Venture, mclariviere, Kalin)
@@ -41,12 +41,12 @@ Jeremy
 
 ## Info needed for migration
 
--wpengine install name that needs to be transferred: carly
+-wpengine install name that needs to be transferred: adsdata
 
--wpengine name for the Origin account: kpdesign
--Support PIN: B83961
+-wpengine name for the Origin account: bkdsn
+-Support PIN: B22795 
 -owner-level email address the account is under: j.turowetz@gmail.com
 
--wpengine name for the receiving account: carlywfridman
--Support PIN: B90011
+-wpengine name for the receiving account: adsdataca
+-Support PIN: B30187
 -owner-level email address the account is under: j.turowetz@gmail.com

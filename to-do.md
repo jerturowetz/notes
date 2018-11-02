@@ -1,14 +1,13 @@
 # Jer's To-Do List
 
+- Get measurements of front closet for pegboard
+- Figure out front closet storage
 - Plans with Kalin & Raoul Movie night (or george's comedy)
-- BKDSN - add wpengine deploys to webhooks in slack
-- Research bag care for Fjällräven
-- Hair cut
-- Pickup/find Nintendo eshop gift card (vbucks for fortnite)
-- milk crates
-- add to do for cult article semantics
+- Send Joanna Nintendo Gift Card info
 - Weekend tasks:
+  - Hair cut
   - Hardware store (windows sealant & tape)
+  - Milk crates
   - Clean front closet
   - Clean out shed
   - Seal windows
