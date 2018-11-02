@@ -1,38 +1,19 @@
 # Wishlist
 
+- Bsuit, plugs and THT
 - Incandescent lightbulbs and red light bulb for the laundry room
 - 4+RU rack case w/power (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-
-## Bebe books
-
-- Mayo Clinic Guide to Pregnancy
-- The Big Fat Activity Book for Pregnant People - Jordan Reid and Erin Williams
-- Haines Guide to Babies
-- Expecting Better - Emily Oster
-
-### Maybe
-
-- Happiest Baby on the Block
-- Baby-Led Weaning
-- Simplicity Parenting - Kim somebody
-- Raising Lifelong Learners - Calkins
-- The Girlfriends' Guide to Pregnancy - Vicki Iovine
-- The Birth Partner - Penny Simkin
-- The Expectant Father: The Ultimate Guide for Dads-to-Be
+- The Big Fat Activity Book For Pregnant People
+- Mayo Clinic Guide to a Healthy Pregnancy
 
 ## Kate stuff
 
-- Ikea socks
-- Exacto knife
 - Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
 - Santiago Ramon Y Cajal Art
-- [Do Nothing Club hat](https://www.etsy.com/ca/listing/216436785/do-nothing-club-hat-white)
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
-- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
-- For Cathy: Book on Jean Chrétien
+- X-Acto Knife
 
 ### Books
 
@@ -41,17 +22,14 @@ Note: See _Canadian Living_ magazine for book suggestions
 - Transcrption by Kate Atkinson
 - Women Talking by Miriam Toews
 - Hot Milk by Deborah Levy
-- Split Tooth by Tanya Tagaq
 - Something for Everyone by Lisa Moore
 - The Chronicles of Narmo by Caitlin Moran
-- Moranifesto by Caitlin Moran
-- Hunger: A Memoir of (My) Body by Roxane Gay
-- The Cows by Dawn O'Porter
-- Bad Feminist by Roxane Gay
 
 ### Xmas ideas
 
-- KISMET socks to support big brothers big sisters
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
+- For Cathy: Book on Jean Chrétien
 - [Me to We](https://shop.metowe.com/)
 - [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
 - [$60 Charging keychain tassle](https://www.casetify.com/product/iphone-tassel-leather-charging-cable-noir)
@@ -106,9 +84,9 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ## Music gear
 
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
 - dental pick
 - Heat gun
-- pegboard hooks loop, plier holder, bins, baskets
 - $200 10-14 chnel TRS snake
 - $600 Mixer case
 - XLRF to 1/4 M short
@@ -122,11 +100,9 @@ Note: See _Canadian Living_ magazine for book suggestions
 - Overheads, whatever
 - IEC-6X4 (short power cords)
 - Reaper
-- sennheiser e901/other kick mics (not d112?)
-- Pegboard hooks
+- Sennheiser e901/other kick mics (not d112?)
 - Screwdriver set & Hex key set
 - Table top tool organiser (for cutters, needle nose pliers)
-- Better power for travis
 
 ### Crashes to try
 

@@ -8,7 +8,6 @@
 - milk crates
 - add to do for cult article semantics
 - Weekend tasks:
-  - Go to bookstore
   - Hardware store (windows sealant & tape)
   - Clean front closet
   - Clean out shed
