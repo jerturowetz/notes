@@ -1,19 +1,34 @@
 # Jer's To-Do List
 
-- $200 CC
-- $??? Communauto
-
-- add to do for cult article semantics
+- Plans with Kalin & Raoul Movie night (or george's comedy)
 - BKDSN - add wpengine deploys to webhooks in slack
-- Go to bookstore
-- Hardware store (windows sealant & tape)
+- Research bag care for Fjällräven
+- Hair cut
 - Pickup/find Nintendo eshop gift card (vbucks for fortnite)
 - milk crates
-- Clean front closet
-- Clean out shed
-- Research bag care for Fjällräven
+- add to do for cult article semantics
+- Weekend tasks:
+  - Go to bookstore
+  - Hardware store (windows sealant & tape)
+  - Clean front closet
+  - Clean out shed
+  - Seal windows
+  - Groceries
+- Bills:
+  - $200 CC
+  - $??? Communauto
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
-- Call: Nancy
+- Call: Nancy, Joe
+- plan dim sum (Juan, Irena)
+- Pick up drums chez Mike M
+- Life insurance
+- Warn shakti of email changes & shut down rackspace
+- AA Roaul notes
+- Get guitar case from Rachel
+- Kosta - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
+- Stewart Museaum
+- [Chateau du cirque](https://www.chateau-cirque.com/)
+- [Take Kate to a danse show](https://www.quebecdanse.org/)
 
 ## Wedding
 
@@ -26,8 +41,6 @@
 
 ## Psych help
 
-- Get psychiatrist referral
-- Dr D. Sookman, 514-934-1934, ext 34290
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Douglas](http://www.douglas.qc.ca/?locale=en)
@@ -38,23 +51,6 @@
 - Set up recording rig & track template
 - Prep Ruby Tracks
 - SJ tracks
-
-## Various
-
-- Plans with Kalin
-- Plans with andrew for dinner
-- plan dim sum (Juan, Irena)
-- Plans with Kosta
-- Pick up drums chez Mike M
-- Life insurance
-- Warn shakti of email changes & shut down rackspace
-- AA Roaul notes
-- Get guitar case from Rachel
-- [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
-- Kate's Uncle Movie Day - (FX2, Body Parts & Defcon 4)
-- Stewart Museaum
-- [Chateau du cirque](https://www.chateau-cirque.com/)
-- [Take Kate to a danse show](https://www.quebecdanse.org/)
 
 ## Musician's Insurance
 

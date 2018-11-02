@@ -102,7 +102,6 @@ Note: See _Canadian Living_ magazine for book suggestions
 - 1x SOCKERBIT Storage box with lid 603.160.68
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
-- ivar hooks
 - Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
 
 ## Music gear

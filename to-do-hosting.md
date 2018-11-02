@@ -9,7 +9,7 @@
 - VSF
 - Shakti
 - Kalin various (JC Venture, mclariviere, Kalin)
-- Sucre to Godaddy
+- Sucre to Godaddy or Jekyll
 
 --
 
