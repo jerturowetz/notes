@@ -3,7 +3,6 @@
 - Get measurements of front closet for pegboard
 - Figure out front closet storage
 - Plans with Kalin & Raoul Movie night (or george's comedy)
-- Send Joanna Nintendo Gift Card info
 - Weekend tasks:
   - Hair cut
   - Hardware store (windows sealant & tape)
