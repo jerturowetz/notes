@@ -1,14 +1,16 @@
 # Groceries
 
 - Meat & fish
+- Milk
 - Curry paste
 - Miso Paste
 - Frozen corn, peas & carrots
 - Laundry detergent
-- bleach
-- Mayo
+- Bleach
+- Women's shaving gel
 - Shampoo
-- mexican chili powder
+- Mayo
+- Mexican chili powder
 - Toasted slivered almonds
 - Basil pesto
 - Pasta sauce (2)
@@ -17,8 +19,6 @@
 ## Butcher
 
 - 4 pound (2 kg) boneless pork shoulder or butt
-- Flank steak
-- Seafood?
 
 ## Chinese grocery
 
