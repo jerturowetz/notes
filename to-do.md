@@ -1,16 +1,11 @@
 # Jer's To-Do List
 
-- Get measurements of front closet for pegboard
-- Figure out front closet storage
+- Seal windows
+- Clean front closet (get measurements of front closet for pegboard)
 - Plans with Kalin & Raoul Movie night (or george's comedy)
-- Weekend tasks:
-  - Hair cut
-  - Hardware store (windows sealant & tape)
-  - Milk crates
-  - Clean front closet
-  - Clean out shed
-  - Seal windows
-  - Groceries
+- Follow up with WP Engine affiliate team re $100 october payment & missing ADS transaction
+- Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
+- Clean out shed
 - Bills:
   - $200 CC
   - $??? Communauto
@@ -29,10 +24,10 @@
 
 ## Wedding
 
+- Choose photos for thank yous
 - Thank yous
   - Get mailing addresses for those missing
   - Choose mailer template for thank yous
-  - Choose photos for thank yous
   - Find a printer & print thank yous
 - Registry missing items
 
