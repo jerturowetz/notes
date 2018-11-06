@@ -29,7 +29,6 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ### Xmas ideas
 
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
 - For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
 - For Cathy: Book on Jean Chrétien
 - [Me to We](https://shop.metowe.com/)
@@ -47,6 +46,7 @@ Note: See _Canadian Living_ magazine for book suggestions
 - [One of a kind](https://oneofakindonlineshop.com/)
 - [Indigo](https://www.chapters.indigo.ca)
 - [Garment Steamer](https://reliablecorporation.com)
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
 
 ## Winter boots
 

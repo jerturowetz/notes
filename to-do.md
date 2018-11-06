@@ -1,21 +1,17 @@
 # Jer's To-Do List
 
-- up mu sleeve by big lonely
-- bkdsn canonical links
-- bkdsn analytics & search console
-- bkdsn schema type, address
 - Seal windows
 - Clean front closet (get measurements of front closet for pegboard)
-- Plans with Kalin & Raoul Movie night (or george's comedy)
+- Clean out shed
 - Follow up with WP Engine affiliate team re $100 october payment & missing ADS transaction
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
-- Clean out shed
 - Bills:
   - $200 CC
   - $??? Communauto
 - Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Call: Nancy, Joe
 - plan dim sum (Juan, Irena)
+- Plans with Kalin & Raoul Movie night (or george's comedy)
 - Pick up drums chez Mike M
 - Life insurance
 - Warn shakti of email changes & shut down rackspace
@@ -80,7 +76,6 @@
 ### Path
 
 - Various:
-  - [How to Use Google Matched Content to Show Related Posts in WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-use-google-matched-content-to-show-related-posts-in-wordpress/)
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
   - [Internationalization Best Practices](https://www.w3.org/International/geo/html-tech/tech-lang.html#ri20060630.133615821)
