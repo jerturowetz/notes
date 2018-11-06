@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+- up mu sleeve by big lonely
+- bkdsn canonical links
+- bkdsn analytics & search console
+- bkdsn schema type, address
 - Seal windows
 - Clean front closet (get measurements of front closet for pegboard)
 - Plans with Kalin & Raoul Movie night (or george's comedy)

@@ -15,6 +15,12 @@
 - Basil pesto
 - Pasta sauce (2)
 - Coffee
+- bread
+- butter
+- tooth paste
+- toilet paper
+- shreddies
+- bananas, oranges, apples
 
 ## Butcher
 
