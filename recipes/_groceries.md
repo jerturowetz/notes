@@ -1,26 +1,36 @@
 # Groceries
 
-- Meat & fish
-- Milk
 - Curry paste
 - Miso Paste
+- Vanilla greek yoghurt
 - Frozen corn, peas & carrots
-- Laundry detergent
-- Bleach
-- Women's shaving gel
-- Shampoo
-- Mayo
 - Mexican chili powder
 - Toasted slivered almonds
+- shreddies
 - Basil pesto
 - Pasta sauce (2)
-- Coffee
-- bread
-- butter
-- tooth paste
+- KD
+- dry noodles
 - toilet paper
-- shreddies
-- bananas, oranges, apples
+- Laundry detergent
+- Bleach
+
+## Pharmacy
+
+- toothpaste
+- shaving gel
+- shampoo
+
+## Marche
+
+- bananas
+- oranges/mandarins
+- apples
+- carrots
+- beans
+- broccoli
+- kale,spinach or arugula
+- blueberries or stawberries
 
 ## Butcher
 
@@ -28,7 +38,8 @@
 
 ## Chinese grocery
 
-- noodles
+- noodles (fresh and frozen)
+- dumplings
 - duck
 
 ## Spice store

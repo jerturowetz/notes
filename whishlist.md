@@ -1,5 +1,7 @@
 # Wishlist
 
+- earplugs
+- headphones and headphones wrap
 - Ikea pegboard unit for front closet (storing bags etc)
 - plugs and THT, maybe suit & syringe thing
 - Incandescent lightbulbs and red light bulb for the laundry room
