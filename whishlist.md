@@ -1,5 +1,12 @@
 # Wishlist
 
+Power for rack (Furman, middle atlantic)
+Rack Mount Brush Panel 1U
+
+
+
+Injection Molded 2U Studio Flyer Rack Case
+
 vasque 10 with wool socks fits
 timberland 9 a bit snug with wool socks (but 9,9.5 are good)
 
