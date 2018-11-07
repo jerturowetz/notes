@@ -1,5 +1,25 @@
 # Wishlist
 
+vasque 10 with wool socks fits
+timberland 9 a bit snug with wool socks (but 9,9.5 are good)
+
+
+water bittle for kate for work
+maybe glass
+
+craig.n.joey@gmail.com
+send some comp sci sci stuff
+check out craig apache read
+
+
+
+timberland chocorua winter version size 9 is great
+the other one would be a 9.5
+
+
+
+- rolling cart
+- rack pass through
 - earplugs
 - headphones and headphones wrap
 - Ikea pegboard unit for front closet (storing bags etc)
