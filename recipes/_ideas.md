@@ -2,9 +2,7 @@
 
 ## This week
 
-- waldorf salad
 - [buffalo chickpea wraps](https://minimalistbaker.com/spicy-buffalo-chickpea-wraps/)
-- Roast chicken
 - [Italian chicken sandwich](https://www.thekitchn.com/recipe-italian-chicken-salad-sandwiches-80069)
 - [Sweet potato wraps](https://www.thekitchn.com/recipe-roasted-sweet-potato-wraps-with-caramelized-onions-and-pesto-167367)
 - BBQ Duck & fried vegetables
@@ -22,7 +20,7 @@
 - steak fries
 - Fried chicken
 - Vegetarian Lasagna
-- Hanger steak
+- [One pot sticky chicen wings](https://www.foodandwine.com/recipes/one-pot-sticky-chicken-wings)
 - [Spatchcock chicken on parchment paper, rubbed with butter and cooked with patates and brussel sprouts](https://natashaskitchen.com/spatchcock-chicken-recipe-video/)
 - [Braised lamb shoulder](https://www.seriouseats.com/recipes/2018/02/braised-lamb-shoulder-with-dried-chiles-and-dates.html)
 - [Cube steak v1](https://www.seriouseats.com/recipes/2010/11/cube-steak-a-la-salisbury-recipe.html)
