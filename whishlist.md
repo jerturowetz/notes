@@ -2,44 +2,48 @@
 
 Power for rack (Furman, middle atlantic)
 Rack Mount Brush Panel 1U
-
-
-
+Workshop Magnifying glass
+hand scribe
 Injection Molded 2U Studio Flyer Rack Case
 
-vasque 10 with wool socks fits
-timberland 9 a bit snug with wool socks (but 9,9.5 are good)
 
-
-water bittle for kate for work
-maybe glass
-
-craig.n.joey@gmail.com
-send some comp sci sci stuff
-check out craig apache read
-
-
-
-timberland chocorua winter version size 9 is great
-the other one would be a 9.5
-
-
-
-- rolling cart
+- rolling cart for bottom of rack
 - rack pass through
 - earplugs
 - headphones and headphones wrap
 - Ikea pegboard unit for front closet (storing bags etc)
 - plugs and THT, maybe suit & syringe thing
-- Incandescent lightbulbs and red light bulb for the laundry room
 - 4+RU rack case w/power (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
+
+- Incandescent lightbulbs and red light bulb for the laundry room
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
 - Mayo Clinic Guide to a Healthy Pregnancy
 - The Haynes Baby Manual: Conception to Two Years b
 
+- Wool socks
+- Pan scraper
+- Gear to patch hole behind stove
+- $55 MSR Hubba Hubba NX Footprint
+- $20 MSR Groundhog Tent Stake Kit
+- $125 Mickey
+- $200 Agg, Andrew, Joe gifts
+- $??? Aaron computer
+- mortar and pestle
+- spice grinder
+- YETI Rambler 26 water bottle
+- Platypus DuoLock SoftBottle
+
+- Bogs Classic Ultra Mid or Sorel casual boots
+- Serious winter boot (heat/traction)
+
 ## Kate stuff
+
+- Takeya Classic Glass Water Bottle with Silicone Sleeve, 22 oz, Cobalt
+- Eva Solo 1/2-Liter Drinking Bottle
+- S'ip by S'well Water Bottle
+- Bkr Tutu Water Bottle
 
 - Used banjo
 - Print & frame OWLTURD's "We Go Forward" comic for kate
@@ -76,34 +80,6 @@ Note: See _Canadian Living_ magazine for book suggestions
 - [Indigo](https://www.chapters.indigo.ca)
 - [Garment Steamer](https://reliablecorporation.com)
 - For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
-
-## Winter boots
-
-- Casual winter boot
-  - The North Face MEN'S BACK-TO-BERKELEY REDUX LEATHER
-- Around the house
-  - Bogs Classic Ultra Mid
-  - Sorel whatever
-- Serious winter boot
-  - Columbia MEN'S BUGABOOT PLUS III XTM OMNI-HEAT BOOTS -65F/-54C
-  - Lowa MEN'S RENEGADE ICE GTX G3 INSULATED BOOTS -13F/-25C
-  - Lowa MEN'S HUNTER GTX EXTREME
-  - Lowa MEN'S WENDELSTEIN BOOTS
-  - The North Face Chilkat 400 (OGL #1)
-  - Vasque Snowburban II UltraDry (OGL #2)
-
-## Various
-
-- Wool socks
-- Pan scraper
-- Gear to patch hole behind stove
-- $55 MSR Hubba Hubba NX Footprint
-- $20 MSR Groundhog Tent Stake Kit
-- $125 Mickey
-- $200 Agg, Andrew, Joe gifts
-- $??? Aaron computer
-- mortar and pestle
-- spice grinder
 
 ## IKEA
 
