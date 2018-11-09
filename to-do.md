@@ -1,8 +1,5 @@
 # Jer's To-Do List
 
-up good foot
-down bad foot 
-
 - Seal windows
 - Clean front closet (get measurements of front closet for pegboard)
 - Clean out shed
