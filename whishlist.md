@@ -1,27 +1,14 @@
 # Wishlist
 
-Power for rack (Furman, middle atlantic)
-Rack Mount Brush Panel 1U
-Workshop Magnifying glass
-hand scribe
-Injection Molded 2U Studio Flyer Rack Case
-
-
-- rolling cart for bottom of rack
-- rack pass through
-- earplugs
-- headphones and headphones wrap
-- Ikea pegboard unit for front closet (storing bags etc)
-- plugs and THT, maybe suit & syringe thing
-- 4+RU rack case w/power (at least 10" deep)
+- Power for rack (Furman, middle atlantic)
+- Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
-
+- headphones and headphones wrap
 - Incandescent lightbulbs and red light bulb for the laundry room
 - $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
 - Mayo Clinic Guide to a Healthy Pregnancy
-- The Haynes Baby Manual: Conception to Two Years b
-
+- The Haynes Baby Manual: Conception to Two Years
 - Wool socks
 - Pan scraper
 - Gear to patch hole behind stove
@@ -34,7 +21,6 @@ Injection Molded 2U Studio Flyer Rack Case
 - spice grinder
 - YETI Rambler 26 water bottle
 - Platypus DuoLock SoftBottle
-
 - Bogs Classic Ultra Mid or Sorel casual boots
 - Serious winter boot (heat/traction)
 
@@ -91,6 +77,10 @@ Note: See _Canadian Living_ magazine for book suggestions
 
 ## Music gear
 
+- rolling cart for bottom of rack
+- earplugs
+- Workshop Magnifying glass
+- hand scribe
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
 - dental pick
 - Heat gun
