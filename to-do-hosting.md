@@ -6,7 +6,7 @@
 - ~~Carly~~
 - ~~WI Vaccs~~
 - ~~ADS~~
-- VSF
+- ~~VSF~~
 - Shakti
 - Kalin various (JC Venture, mclariviere, Kalin)
 - Sucre to Godaddy or Jekyll
@@ -41,12 +41,12 @@ Jeremy
 
 ## Info needed for migration
 
--wpengine install name that needs to be transferred: adsdata
+-wpengine install name that needs to be transferred: vsfservices
 
 -wpengine name for the Origin account: bkdsn
--Support PIN: B22795 
+-Support PIN: B22795
 -owner-level email address the account is under: j.turowetz@gmail.com
 
--wpengine name for the receiving account: adsdataca
--Support PIN: B30187
+-wpengine name for the receiving account: vsfndg
+-Support PIN: B47741
 -owner-level email address the account is under: j.turowetz@gmail.com
