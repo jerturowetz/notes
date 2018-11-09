@@ -24,49 +24,6 @@
 - Bogs Classic Ultra Mid or Sorel casual boots
 - Serious winter boot (heat/traction)
 
-## Kate stuff
-
-- Takeya Classic Glass Water Bottle with Silicone Sleeve, 22 oz, Cobalt
-- Eva Solo 1/2-Liter Drinking Bottle
-- S'ip by S'well Water Bottle
-- Bkr Tutu Water Bottle
-
-- Used banjo
-- Print & frame OWLTURD's "We Go Forward" comic for kate
-- Santiago Ramon Y Cajal Art
-- X-Acto Knife
-
-### Books
-
-Note: See _Canadian Living_ magazine for book suggestions
-
-- Transcrption by Kate Atkinson
-- Women Talking by Miriam Toews
-- Hot Milk by Deborah Levy
-- Something for Everyone by Lisa Moore
-- The Chronicles of Narmo by Caitlin Moran
-
-### Xmas ideas
-
-- For Cathy: Ribba frame & photo of Kate diving (for Cathy Xmas)
-- For Cathy: Book on Jean Chrétien
-- [Me to We](https://shop.metowe.com/)
-- [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
-- [$60 Charging keychain tassle](https://www.casetify.com/product/iphone-tassel-leather-charging-cable-noir)
-- [$50 Square Valet Tray](https://www.leatherology.com/square-valet-tray-beige-leather-ginger/)
-- [Flint - mini lint roller](https://meetflint.com/)
-- [Horace Jewlery](https://horacejewelry.com/)
-- [Simons](https://www.simons.ca/en)
-- [Portfranc](https://www.portfranc.co/)
-- [Audvik](https://audvik.com/)
-- [C'est Beau](https://cestbeau.co/en/)
-- [WWF Symbolic Adoption Kit](https://shop.wwf.ca/collections/adoptions)
-- [Nil Apparel](https://nilapparel.com/)
-- [One of a kind](https://oneofakindonlineshop.com/)
-- [Indigo](https://www.chapters.indigo.ca)
-- [Garment Steamer](https://reliablecorporation.com)
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
-
 ## IKEA
 
 - 3x SOCKERBIT Storage box 503.161.82
@@ -74,6 +31,47 @@ Note: See _Canadian Living_ magazine for book suggestions
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
 - Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
+- Ribba Frames for Cathy & Kate prints
+
+## Xmas stuff
+
+- [Flint - mini lint roller](https://meetflint.com/)
+- [Me to We](https://shop.metowe.com/)
+- [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
+- [C'est Beau](https://cestbeau.co/en/)
+- [WWF Symbolic Adoption Kit](https://shop.wwf.ca/collections/adoptions)
+- [One of a kind](https://oneofakindonlineshop.com/)
+- [Indigo](https://www.chapters.indigo.ca)
+- [Horace Jewlery](https://horacejewelry.com/)
+- [Garment Steamer](https://reliablecorporation.com)
+- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+
+### Kate
+
+- Eva Solo 1/2-Liter Drinking Bottle
+- S'ip by S'well Water Bottle (maybe 2)
+- X-Acto Knife
+- Used banjo
+- Print & frame OWLTURD's "We Go Forward" (3 col = IKEA ribba 31x41cm)
+- Santiago Ramon Y Cajal Art
+- Transcrption by Kate Atkinson
+- Women Talking by Miriam Toews
+- Hot Milk by Deborah Levy
+- The Chronicles of Narmo by Caitlin Moran
+
+### Cathy
+
+- Ribba 41x51cm black (keep matt)
+- Print photo @ 16"x12" (maybe bigger with border)
+- Book on Jean Chrétien
+
+### Kim
+
+- Women Talking by Miriam Toews
+
+### Chris & Lori
+
+### Max & Molly
 
 ## Music gear
 
