@@ -7,6 +7,7 @@
 - Mexican chili powder
 - Toasted slivered almonds
 - shreddies
+- cheerios
 - Basil pesto
 - Pasta sauce (2)
 - KD
@@ -20,6 +21,7 @@
 - toothpaste
 - shaving gel
 - shampoo
+- floss
 
 ## Marche
 
