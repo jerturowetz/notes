@@ -20,7 +20,7 @@
 - mortar and pestle
 - spice grinder
 - YETI Rambler 26 water bottle
-- Platypus DuoLock SoftBottle
+- Platypus DuoLock SoftBottle or Vapur Element Bottle
 - Bogs Classic Ultra Mid or Sorel casual boots
 - Serious winter boot (heat/traction)
 
@@ -78,7 +78,7 @@ Note: See _Canadian Living_ magazine for book suggestions
 ## Music gear
 
 - rolling cart for bottom of rack
-- earplugs
+- good earplugs
 - Workshop Magnifying glass
 - hand scribe
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
