@@ -1,7 +1,11 @@
 # Jer's To-Do List
 
+starficker
+
 up good foot
 down bad foot 
+
+bad foot is right 
 
 - Seal windows
 - Clean front closet (get measurements of front closet for pegboard)
