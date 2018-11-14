@@ -1,39 +1,25 @@
 # Jer's To-Do List
 
-- rename spro `develop` branch to `dev`
 - Check flight to LIH on points
-
-Zero G academy
-Honey Select
-Waifu Academy Asuka/Shiela
-
+- FIll out wedding thank yous
+- Wedding registry missing items
 - Clean front closet (get measurements of front closet for pegboard)
-- Clean out shed
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
+- Warn shakti of email changes & shut down rackspace
 - Bills:
   - $200 CC
-  - $??? Communauto
+  - $500ish Communauto
+  - Bell $80
 - Call: Nancy, Joe
-- plan dim sum (Juan, Irena)
-- Plans with Kalin & Raoul Movie night (or george's comedy)
+- Plan dim sum (Juan, Irena)
+- Plans with Kalin & Raoul Movie night
 - Pick up drums chez Mike M
-- Life insurance
-- Warn shakti of email changes & shut down rackspace
 - AA Roaul notes
 - Get guitar case from Rachel
-- Kosta - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - Stewart Museaum
+- Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
-
-## Wedding
-
-- Choose photos for thank yous
-- Thank yous
-  - Get mailing addresses for those missing
-  - Choose mailer template for thank yous
-  - Find a printer & print thank yous
-- Registry missing items
 
 ## Psych help
 
@@ -79,6 +65,12 @@ Waifu Academy Asuka/Shiela
 
 ### Path
 
+- PHP:
+  - [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
+  - [Php 5 tutorial](https://www.w3schools.com/php/)
+  - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
+  - [Better PHP](https://www.youtube.com/user/betterphp)
+  - [PHP academy](https://www.youtube.com/user/phpacademy)
 - Various:
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
@@ -114,6 +106,7 @@ Waifu Academy Asuka/Shiela
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
   - [SVG compressor](https://vecta.io/nano)
   - [Best Make Tutorial](https://www.youtube.com/watch?v=GExnnTaBELk&list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&index=2)
+  - Add ruby sprokets and the jekyll asset pipeline
 - Analytics/SEO:
   - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
   - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
@@ -148,9 +141,3 @@ Waifu Academy Asuka/Shiela
   - [Behat autmated testing](http://behat.org/en/latest/)
   - [Even more and better wordpress testing](http://wptest.io/)
   - [10up wp_mock](https://github.com/10up/wp_mock)
-- PHP:
-  - [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
-  - [Php 5 tutorial](https://www.w3schools.com/php/)
-  - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
-  - [Better PHP](https://www.youtube.com/user/betterphp)
-  - [PHP academy](https://www.youtube.com/user/phpacademy)
