@@ -1,23 +1,15 @@
 # Jer's To-Do List
 
-starficker
+Zero G academy
+Honey Select
+Waifu Academy Asuka/Shiela
 
-mini porto for cathy
-
-up good foot
-down bad foot 
-
-bad foot is right 
-
-- Seal windows
 - Clean front closet (get measurements of front closet for pegboard)
 - Clean out shed
-- Follow up with WP Engine affiliate team re $100 october payment & missing ADS transaction
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Bills:
   - $200 CC
   - $??? Communauto
-- Institut De Readaptation Lindsay-Gingras 6363 ( room 474, 4th floor, pavillion lindsay )
 - Call: Nancy, Joe
 - plan dim sum (Juan, Irena)
 - Plans with Kalin & Raoul Movie night (or george's comedy)
