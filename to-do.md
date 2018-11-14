@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+- rename spro `develop` branch to `dev`
+- Check flight to LIH on points
+
 Zero G academy
 Honey Select
 Waifu Academy Asuka/Shiela
