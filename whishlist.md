@@ -92,7 +92,7 @@
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
-- Overheads, whatever
+- Another Rode M3 for overheads
 - IEC-6X4 (short power cords)
 - Reaper
 - Sennheiser e901/other kick mics (not d112?)
