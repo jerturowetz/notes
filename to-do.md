@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Check flight to LIH on points
+
 Zero G academy
 Honey Select
 Waifu Academy Asuka/Shiela
