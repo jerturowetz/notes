@@ -58,19 +58,19 @@
 
 ## Code study
 
-- [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
-- [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
-- [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
-- [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
-
-### Path
-
 - PHP:
   - [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
   - [Php 5 tutorial](https://www.w3schools.com/php/)
   - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
   - [Better PHP](https://www.youtube.com/user/betterphp)
   - [PHP academy](https://www.youtube.com/user/phpacademy)
+- Jekyll:
+  - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
+  - [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
+  - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
+  - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
+  - add versioning to js & css
+  - Add ruby sprokets and the jekyll asset pipeline
 - Various:
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
@@ -106,14 +106,12 @@
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
   - [SVG compressor](https://vecta.io/nano)
   - [Best Make Tutorial](https://www.youtube.com/watch?v=GExnnTaBELk&list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&index=2)
-  - Add ruby sprokets and the jekyll asset pipeline
 - Analytics/SEO:
   - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
   - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
   - [Bing webmaster guidelines](https://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)
   - [Analytics academy](https://analytics.google.com/analytics/academy/)
   - screaming frog 101
-  - [Tell Google about localized versions of your page](https://support.google.com/webmasters/answer/189077?hl=en)
 - Wordpress:
   - [THE BEGINNER’S GUIDE TO CREATING A THEME WITH UNDERSCORES](https://torquemag.io/2017/08/beginners-guide-to-creating-a-theme-underscores/)
   - [The Ultimate Guide to Image Optimization in Wordpress](https://www.proteusthemes.com/blog/ultimate-guide-image-optimization-wordpress/)
