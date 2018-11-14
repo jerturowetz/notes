@@ -8,7 +8,7 @@ Be sure whatever internal audio device is set to 48/24 quality
 
 ## Set permissions on hosts file
 
-only system and admin have permission to write to hosts by deafault - be sure to add permission for your user so that things like host updaters and editors can make changes to it without needing to run them as admin
+only system and admin have permission to write to hosts by default - be sure to add permission for your user so that things like host updaters and editors can make changes to it without needing to run them as admin
 
 ## Via installers
 
@@ -203,6 +203,3 @@ Erase the following reg key:
 - Download `make-4.1-2-without-guile-w32-bin.zip` (get the version without guile).
 - Extract zip.
 - Copy the contents to your `Git\mingw64\` merging the folders, but do NOT overwrite/replace any existing files. 
-
-
-
