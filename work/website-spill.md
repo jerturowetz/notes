@@ -1,5 +1,19 @@
 # Old list for review & delete
 
+## Items that should each be their own step
+
+Analytics
+Syntax and Symantics for HTML5
+Schema review & setup
+Sitemaps
+Search COnsole integration, Bing & Yandex too
+RIch snippet setup
+Twitter cards / Facebook OG data setup
+Structured data setup
+Robots.txt config and ignores
+Hreflang setup
+Canonical strategy
+
 ## time tracking for an actual build
 
 2x3 hr metings with clients
