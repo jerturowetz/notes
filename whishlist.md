@@ -62,7 +62,7 @@
 
 - Ribba 41x51cm black (keep matt)
 - Print photo @ 16"x12" (maybe bigger with border)
-- Book on Jean Chrétien
+- MY STORIES, MY TIMES by Jean Chrétien
 
 ### Kim
 
