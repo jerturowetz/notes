@@ -1,15 +1,12 @@
 # Jer's To-Do List
 
 - Check flight to LIH on points
+- Pay CC ($200 + whatever)
 - FIll out wedding thank yous
 - Wedding registry missing items
 - Clean front closet (get measurements of front closet for pegboard)
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
-- Bills:
-  - $200 CC
-  - $500ish Communauto
-  - Bell $80
 - Call: Nancy, Joe
 - Plan dim sum (Juan, Irena)
 - Plans with Kalin & Raoul Movie night
