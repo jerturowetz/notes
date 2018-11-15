@@ -1,21 +1,15 @@
 # Wishlist
 
-what do I need for the north?
-
-Case for RME
-Cables, Mics, stands?
-
 - Power for rack (Furman, middle atlantic)
 - Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - headphones and headphones wrap
 - Incandescent lightbulbs and red light bulb for the laundry room
-- $??? [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
 - Mayo Clinic Guide to a Healthy Pregnancy
 - The Haynes Baby Manual: Conception to Two Years
 - Wool socks
-- Pan scraper
 - Gear to patch hole behind stove
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
