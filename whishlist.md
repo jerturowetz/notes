@@ -1,5 +1,10 @@
 # Wishlist
 
+what do I need for the north?
+
+Case for RME
+Cables, Mics, stands?
+
 - Power for rack (Furman, middle atlantic)
 - Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
