@@ -1,25 +1,31 @@
 # Groceries
 
-- Ginger ale: extravagant co    
-- Curry paste
+- Ginger ale (extravagant cans)
+
+- 2 Green onions
+- Small cabbage
+- Jalapeno
+- Galic
+- 2 Limes, 1 Lemon
+- corn tortillas
+- 1 to 1.5 lbs of snapper/sole/tilapia/rockfish/catfish
+- Coffee
+
 - Miso Paste
 - Vanilla greek yoghurt
-- Frozen corn, peas & carrots
 - Mexican chili powder
-- Toasted slivered almonds
-- shreddies
-- cheerios
+- Better Almonds
+- shreddies & Cheerios
 - Basil pesto
 - Pasta sauce (2)
 - KD
-- dry noodles
-- toilet paper
+- Dry noodles
+- Toilet paper
 - Laundry detergent
 - Bleach
 
 ## Pharmacy
 
-- toothpaste
 - shaving gel
 - shampoo
 - floss
@@ -32,7 +38,7 @@
 - carrots
 - beans
 - broccoli
-- kale,spinach or arugula
+- kale, spinach or arugula
 - blueberries or stawberries
 
 ## Butcher
@@ -44,7 +50,3 @@
 - noodles (fresh and frozen)
 - dumplings
 - duck
-
-## Spice store
-
-- chili blend
