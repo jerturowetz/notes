@@ -15,9 +15,6 @@
 - $20 MSR Groundhog Tent Stake Kit
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- $??? Aaron computer
-- mortar and pestle
-- spice grinder
 - YETI Rambler 26 water bottle
 - Platypus DuoLock SoftBottle or Vapur Element Bottle
 - Bogs Classic Ultra Mid or Sorel casual boots
@@ -30,47 +27,22 @@
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
 - Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
-- Ribba Frames for Cathy & Kate prints
 
 ## Xmas stuff
 
-- [Flint - mini lint roller](https://meetflint.com/)
-- [Me to We](https://shop.metowe.com/)
+- Ribba Frame Black 31x41cm [303.784.25] (KATE)
+- Ribba Frame Black 41x51cm [303.784.30] (CATHY)
+- Print OWLTURD's "We Go Forward"
+- Print photo @ 16"x12" (maybe bigger with border)
 - [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
 - [C'est Beau](https://cestbeau.co/en/)
-- [WWF Symbolic Adoption Kit](https://shop.wwf.ca/collections/adoptions)
-- [One of a kind](https://oneofakindonlineshop.com/)
-- [Indigo](https://www.chapters.indigo.ca)
 - [Horace Jewlery](https://horacejewelry.com/)
-- [Garment Steamer](https://reliablecorporation.com)
-- For Kim: [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Hotel_(TV_series))
+- [Me to We](https://shop.metowe.com/)
 
-### Kate
+## Kate
 
-- Eva Solo 1/2-Liter Drinking Bottle
-- S'ip by S'well Water Bottle (maybe 2)
-- X-Acto Knife
 - Used banjo
-- Print & frame OWLTURD's "We Go Forward" (3 col = IKEA ribba 31x41cm)
 - Santiago Ramon Y Cajal Art
-- Transcrption by Kate Atkinson
-- Women Talking by Miriam Toews
-- Hot Milk by Deborah Levy
-- The Chronicles of Narmo by Caitlin Moran
-
-### Cathy
-
-- Ribba 41x51cm black (keep matt)
-- Print photo @ 16"x12" (maybe bigger with border)
-- MY STORIES, MY TIMES by Jean Chrétien
-
-### Kim
-
-- Women Talking by Miriam Toews
-
-### Chris & Lori
-
-### Max & Molly
 
 ## Music gear
 
