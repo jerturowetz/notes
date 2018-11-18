@@ -4,7 +4,7 @@ Below are notes regarding my setup of fresh Windows 10 systems for development.
 
 ## Audio device settings
 
-Be sure whatever internal audio device is set to 48/24 quality
+Be sure whatever internal audio device is set to 44,1/24 quality
 
 ## Set permissions on hosts file
 
