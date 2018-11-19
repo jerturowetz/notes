@@ -9,7 +9,7 @@ Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x1
 another rona clear plastic bin for ski wear
 
 - Check flight to LIH on points
-- Pay CC ($200 + whatever)
+- Pay CC ($400 + whatever)
 - FIll out wedding thank yous
 - Wedding registry missing items
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
