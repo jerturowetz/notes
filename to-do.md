@@ -8,12 +8,10 @@ Box for memories (need to store bimders)
 Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 another rona clear plastic bin for ski wear
 
-
 - Check flight to LIH on points
 - Pay CC ($200 + whatever)
 - FIll out wedding thank yous
 - Wedding registry missing items
-- Clean front closet (get measurements of front closet for pegboard)
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
 - Call: Nancy, Joe
