@@ -11,4 +11,5 @@ boiled green beans
 2 mins
 
 Spatchcock chicken (2)
-45 mins @475
+45 mins @475 too high
+45 mins @400 too low
