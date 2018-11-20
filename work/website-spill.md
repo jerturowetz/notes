@@ -2,10 +2,12 @@
 
 ## Items that should each be their own step
 
+Get on Google my business
+Bet on equivalents of search console, analytivs and my business on bing , yandex and apple stuff
 Analytics
 Syntax and Symantics for HTML5
 Schema review & setup
-Sitemaps
+Sitemaps - what to exclude (signup, verification, utility pages)
 Search COnsole integration, Bing & Yandex too
 RIch snippet setup
 Twitter cards / Facebook OG data setup
