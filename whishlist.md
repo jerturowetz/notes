@@ -1,5 +1,15 @@
 # Wishlist
 
+dry bags (old version)
+cano bags
+sea to summit event compression/dry sacks S,S,M () have an XL
+Mustang survival life jacket CO2
+Mess Kit Bag
+Stackable plates/cups
+Better mess kit (pot plates cooking utensils)
+bag for stove
+better long johns/shirt
+
 - Power for rack (Furman, middle atlantic)
 - Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
