@@ -8,6 +8,8 @@
 - Dry noodles
 - tomatoes
 - broccolis
+- med abd large ziplock bags
+- pickles
 
 ## Pharmacy
 
