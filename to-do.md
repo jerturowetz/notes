@@ -83,7 +83,6 @@ another rona clear plastic bin for ski wear
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
   - [Internationalization Best Practices](https://www.w3.org/International/geo/html-tech/tech-lang.html#ri20060630.133615821)
-  - [WPEngine API](https://wpengineapi.com/?utm_medium=email)
   - [Servers for hackers](https://serversforhackers.com/)
   - [Semantic Versioning 2.0.0](https://semver.org/)
   - [Google Web Fundamentals](https://developers.google.com/web/)
