@@ -1,5 +1,9 @@
 # Wishlist
 
+palladium soze 10
+boggs 9
+
+
 dry bags (old version)
 cano bags
 sea to summit event compression/dry sacks S,S,M () have an XL
