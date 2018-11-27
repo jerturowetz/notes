@@ -1,38 +1,22 @@
 # Wishlist
 
+- [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
+- [Finnish Baby Box](https://www.finnishbabybox.com/en/)
 - Power for rack (Furman, middle atlantic)
 - Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - headphones and headphones wrap
-- Incandescent lightbulbs and red light bulb for the laundry room
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
-- Mayo Clinic Guide to a Healthy Pregnancy
-- The Haynes Baby Manual: Conception to Two Years
-- Wool socks
+- Mayo Clinic Guide to a Healthy Pregnancy and/or The Haynes Baby Manual: Conception to Two Years
 - Gear to patch hole behind stove
-- $55 MSR Hubba Hubba NX Footprint
-- $20 MSR Groundhog Tent Stake Kit
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - YETI Rambler 26 water bottle
 - Platypus DuoLock SoftBottle or Vapur Element Bottle
-- Bogs Classic Ultra Mid (size 9) or Sorel casual boots
-- palladium size 10
-- Serious winter boot (heat/traction)
-- better long johns/shirt
-- dry bags (old version)
-- canoe bags
-- sea to summit event compression/dry sacks S,S,M () have an XL
-- Better mess kit (pot plates cooking utensils)
-- Mess Kit Bag
-- Stackable plates/cups
-- bag for stove
-- Boxes for shoes for front closet, maybe 2? (30"w, 14.45"h, 18"d (d doesnt relly matter)
-- Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
-- Storage for summer/winter wear?
-- Organizer binder thing for tax stuff
-- another rona clear plastic bin for ski wear?
+- Moar winter boots:
+  - Bogs Classic Ultra Mid (size 9) or Sorel casual boots (??)
+  - Something serioues for heat & traction (Keen Durand Polar, The North Face Chilkat 400, Vasque Snowburban II UltraDry)
 
 ## IKEA
 
@@ -40,7 +24,8 @@
 - 1x SOCKERBIT Storage box with lid 603.160.68
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
-- Box for day bags (14"w x whatever" w x 10.5" high - clear plastic?)
+- Boxes for shoes for front closet, maybe 2? (30"w, 14.45"h, 18"d (d doesnt relly matter)
+- Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
 
 ## Xmas stuff
 
