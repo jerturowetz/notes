@@ -1,14 +1,8 @@
-# The post
+# Benchmark : Back-end lead
 
-Hi there,
+## Leads
 
-I'm a member of a team currently looking for the final founding partner, specifically to lead back-end development on a platform we are building called Benchmark Me.
-
-This person would have a managment role (defining the technologies & approach, overseeing a hired staff)
-
-Ideally, this individual would be working part time for sweat equity during our develpment phase for 32 weeks from August; but could also get a hybrid of salary and sweat equity during this phase depending on needs. As this is a stragey position, we're looking for team members more than employees and someone to help drive the vision of our product (a really cool product, come sign our NDA and find out all about it).
-
-Then we can specify a job title and description during the development phase, how that role would evolve at the go-to-market phase, with the possibility of a career path leading to CTO.
+- [Céline Bensoussan](https://www.linkedin.com/in/celinebensoussan/)
 
 ## Resources
 
@@ -17,22 +11,24 @@ Then we can specify a job title and description during the development phase, ho
 - [R-Ladies Montreal](https://www.meetup.com/rladies-montreal/)
 - [Tech Witches](https://www.meetup.com/Tech-Witches/)
 
-## Why I'm wrigint you
+## Back-end lead (VP back-end technology)
 
-There's a very specific reason I'm reaching out to you - I'm not some recruiter, I'm the lead front end/full stack strategy partner on this project
+Benchmark Me is a friendly, fun and inclusive young start-up based in Montreal, whose guiding principles of transparency, trust and integrity inform all that we do. We are working to build an online social media and statistical platform where everyone has a voice to share their opinions, desires and experiences in a meaningful way as well as gain insight on how these ideas relate to those of others.
 
-and it's very important to me and the team that this position be filled by a woman or someone femme identifying as we're already too dude-heavy
-so if you know of anyone who might be interested in this osition, would be willing to 
-announce it at your meetups
-or are willing to have me come and announce it so that I can Q&A
-I'd appreciate it.
+Leading the architecture and design of our web-based platform, our back-end lead will work alongside our front-end lead, help manage a team of 3 to 5 full-time developers during an initial 32-week FTM start-up phase and then transition to product owner as we go to first round funding & eventually to market. In addition to providing in-depth technical delivery, this is a strategic role that will develop the vision of the product and how it works. Because of this, the position entails a component of ownership in the company, a directorship position among several founding partners and the strong possibility transitioning to CTO at go-market time. As such, we only want to attract people interested in being dedicated to a technically creative and original project for the long-haul. We are also invested in this position being filled by a woman or someone female-identifying, as there isn't equal representation of women in tech and we'd like to be a company that helps change that.
+
+A variety of compensation options are open for discussion, with work hours ranging from part-time transitioning to full-time after our development period or full-time from the start and compensation combining sweat equity with pay at or exceeding standard market values in pretty much nay combination you'd like.
+
+The ideal candidate should have a minimum 5 years of industry experience with core competencies in web application back-end design. Additional experience and skills in database design, data science or statistical computation are considered prime assets as is a master's level in business education (though not a requirement). Only candidates with experience managing projects or leading teams will be considered.
+
+We look forward to meeting with you & thanks for your time.
 
 ## Requirements
 
-- 5+ years working as a back end developer or equivalent experience
-- Experience managing small to medium sized dev teams (code reviews, designing tests, revision management, 1on1s)
+- 5+ years working as a back-end developer or equivalent experience
+- Experience managing small to medium sized dev teams (code reviews, designing tests, revision management, 1-on-1s)
 - The ability to design, write and test high-quality code. You'll dictate what languages we use - we anticipate Python, Rust, Golang, MySQL, C but are open to whatever.
-- Database management experience (sharding, retrieval techniques, scalable models, security, etc)
+- Database management experience (sharding, retrieval techniques, scalable models, security, etc.)
 - Experience working with Linux environments, resilient and scalable platforms are an asset (we are NOT open to .net)
 - Experience working in a continuous integration environment with unit tests and automated tests as part of the development flow
 - Experience with real time data processing and modelling (and Elastisearch would be good too)
@@ -40,5 +36,7 @@ I'd appreciate it.
 - Experience designing with infrastructure in mind (AWS Console, RDS, EC2, S3, bucket, CloudFormation, DynamoDB)
 - The other usual stuff like having a solid grasp of REST, AGILE, ticketing techniques for easy team management
 - Bilingual an asset
-- Front end experience (javascript, react, whatever) an asset to facilitate with the front end team
+- Front end experience (JavaScript, react, whatever) an asset to facilitate with the front-end team
 - Female/Trans an asset
+
+I read somewhere that women tend to respond less when they are uncertain about requirements while men respond even if they only match a few. If you're female-identifying and have gotten this far please don't be afraid to get in touch with us even if you're a little uncertain.
