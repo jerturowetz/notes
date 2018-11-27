@@ -1,19 +1,5 @@
 # Wishlist
 
-palladium soze 10
-boggs 9
-
-
-dry bags (old version)
-cano bags
-sea to summit event compression/dry sacks S,S,M () have an XL
-Mustang survival life jacket CO2
-Mess Kit Bag
-Stackable plates/cups
-Better mess kit (pot plates cooking utensils)
-bag for stove
-better long johns/shirt
-
 - Power for rack (Furman, middle atlantic)
 - Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
@@ -31,8 +17,22 @@ better long johns/shirt
 - $200 Agg, Andrew, Joe gifts
 - YETI Rambler 26 water bottle
 - Platypus DuoLock SoftBottle or Vapur Element Bottle
-- Bogs Classic Ultra Mid or Sorel casual boots
+- Bogs Classic Ultra Mid (size 9) or Sorel casual boots
+- palladium size 10
 - Serious winter boot (heat/traction)
+- better long johns/shirt
+- dry bags (old version)
+- canoe bags
+- sea to summit event compression/dry sacks S,S,M () have an XL
+- Better mess kit (pot plates cooking utensils)
+- Mess Kit Bag
+- Stackable plates/cups
+- bag for stove
+- Boxes for shoes for front closet, maybe 2? (30"w, 14.45"h, 18"d (d doesnt relly matter)
+- Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
+- Storage for summer/winter wear?
+- Organizer binder thing for tax stuff
+- another rona clear plastic bin for ski wear?
 
 ## IKEA
 
@@ -44,6 +44,7 @@ better long johns/shirt
 
 ## Xmas stuff
 
+- Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Ribba Frame Black 31x41cm [303.784.25] (KATE)
 - Ribba Frame Black 41x51cm [303.784.30] (CATHY)
 - Print OWLTURD's "We Go Forward"
