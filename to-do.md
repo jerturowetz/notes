@@ -3,7 +3,6 @@
 Benchmark - Front end milestones
 Benchmark - Job desc for back end lead
 CULT - Check out the la presse mobile experience
-
 Boxes for shoes for front closet, maybe 2? (30"w, 14.45"h, 18"d (d doesnt relly matter)
 Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
 Storage for summer/winter wear?
@@ -13,7 +12,7 @@ Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x1
 another rona clear plastic bin for ski wear
 
 - Check flight to LIH on points
-- Pay CC ($400 + whatever)
+- Pay CC ($300 + whatever)
 - FIll out wedding thank yous
 - Wedding registry missing items
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
