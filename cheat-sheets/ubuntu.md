@@ -45,3 +45,11 @@ You can verify your ssl at [ssllabs.com](https://www.ssllabs.com/ssltest/analyze
 Certificates need to be renewed every 90 days or so. We used to need to add something to crontab, but `python-certbot-nginx` does this for us automagically. Test it with the following:
 
     sudo certbot renew --dry-run
+
+## Add a deployment user
+
+- [Add a deployment user](https://serversforhackers.com/c/ssh-for-easier-deployment)
+
+They got this wrong: `usermod -G -a www-data satis`
+
+it should be: `usermod -a -G www-data satis`
