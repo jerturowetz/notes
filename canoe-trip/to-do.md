@@ -41,3 +41,19 @@
 - $40-45/day - Kevlar Canoe (230-320 deposit)
 - $3/person/day - PDF (50 deposit)
 - $10/day - 60L Barrel pack (50 deposit)
+
+## Gear-up
+
+- $55 MSR Hubba Hubba NX Footprint
+- $20 MSR Groundhog Tent Stake Kit
+- Mess kit:
+  - MSR Alpine 4 pot set
+  - plates/cups set
+  - Tarp
+  - Knives, spatula, spoon
+- Canoe bag(s)
+- Old-style sealine or sea-to-summit dry bags
+- Sea to summit event compression/dry sacks S,S,M (have an XL)
+- Coated silnylon stuff sack dedicated for fuel
+- 8-ounce-size baby bottle liner (Playtex Nurser System Soft Bottle Liner)
+- MSR replcaemnt o-rings (like a dozen)
