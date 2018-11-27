@@ -1,13 +1,11 @@
 # Jer's To-Do List
 
 Benchmark - Front end milestones
-Benchmark - Job desc for back end lead
 CULT - Check out the la presse mobile experience
 Boxes for shoes for front closet, maybe 2? (30"w, 14.45"h, 18"d (d doesnt relly matter)
 Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
 Storage for summer/winter wear?
 Organizer binder thing for tax stuff
-Box for memories (need to store bimders)
 Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 another rona clear plastic bin for ski wear
 
