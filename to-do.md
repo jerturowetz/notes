@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Telus add mom as billing entity
 - Benchmark - Front end milestones
 - CULT - Check out the la presse mobile experience
 - Check flight to LIH on points
