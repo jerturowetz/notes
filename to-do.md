@@ -8,8 +8,6 @@
 - Wedding registry missing items
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
-- Call: Nancy, Joe
-- Plan dim sum (Juan, Irena)
 - Plans with Kalin & Raoul Movie night
 - Pick up drums chez Mike M
 - AA Roaul notes
