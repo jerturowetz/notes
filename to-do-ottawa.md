@@ -1,9 +1,19 @@
-# Stuff to do in Ottawa
+# [Stuff to do in Ottawa](https://github.com/jerturowetz/notes/blob/master/to-do-ottawa.md)
 
-## Tourist stuff
+## Activities/touristy stuff
 
+- **National Gallery**
 - Nature and war museums
-- National Art Gallery
+
+### Skating
+
+- Rideau Canal
+- Rink of Dreams
+- Parliament Hill rink
+
+### Various
+
+- Open blues jam at the Rainbow Bistro (Sunday afternoon)
 
 ## Food & drink
 
@@ -57,19 +67,3 @@
 - Babylon
 - Rainbow
 - 27 Club
-
-## Activities
-
-### Musee stuff
-
-- **National Gallery**
-
-### Skating
-
-- Rideau Canal
-- Rink of Dreams
-- Parliament Hill rink
-
-### Various
-
-- Open blues jam at the Rainbow Bistro (Sunday afternoon)
