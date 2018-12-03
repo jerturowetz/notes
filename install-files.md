@@ -51,6 +51,7 @@ only system and admin have permission to write to hosts by default - be sure to 
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
+- SOpify theme kit
 
 ## WebP codecs etc
 
