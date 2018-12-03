@@ -1,5 +1,6 @@
 # Wishlist
 
+- [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
 - [Finnish Baby Box](https://www.finnishbabybox.com/en/)
 - Power for rack (Furman, middle atlantic)
