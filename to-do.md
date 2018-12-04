@@ -4,7 +4,7 @@
 - Benchmark - Front end milestones
 - CULT - Check out the la presse mobile experience
 - Check flight to LIH on points
-- Pay CC ($300 + whatever)
+- Pay CC ($600 + whatever)
 - FIll out wedding thank yous
 - Wedding registry missing items
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)

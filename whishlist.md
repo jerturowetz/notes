@@ -2,12 +2,10 @@
 
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-- [Finnish Baby Box](https://www.finnishbabybox.com/en/)
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Power for rack (Furman, middle atlantic)
-- Injection Molded 2U Studio Flyer Rack Case or 4+RU rack case (at least 10" deep)
 - Buy or build a snake ($100 30ft 12 channel snake cable & 10 Male, 2 female XLR connectors - labels?, def need heat shrink)
 - headphones and headphones wrap
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - The Big Fat Activity Book For Pregnant People
 - Mayo Clinic Guide to a Healthy Pregnancy and/or The Haynes Baby Manual: Conception to Two Years
 - Gear to patch hole behind stove
