@@ -1,5 +1,12 @@
 # Wishlist
 
+- Packable hat
+- Neck warmer
+- Leather gloves, liner gloves, ski gloves or mitts, kombi mitts
+- Water storage for winter camping
+- YETI Rambler 26 water bottle
+- Vapur Element Bottle
+- Petzl core battery
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -11,8 +18,6 @@
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- YETI Rambler 26 water bottle
-- Platypus DuoLock SoftBottle or Vapur Element Bottle
 - Moar winter boots:
   - Bogs Classic Ultra Mid (size 9) or Sorel casual boots (??)
   - Something serioues for heat & traction (Keen Durand Polar, The North Face Chilkat 400, Vasque Snowburban II UltraDry)
