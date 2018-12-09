@@ -3,11 +3,10 @@
 - Packable hat
 - Neck warmer
 - Leather gloves, liner gloves, ski gloves or mitts, kombi mitts
-- Water storage for winter camping
+- Water storage for winter camping (MSR bags?)
 - YETI Rambler 26 water bottle
 - Vapur Element Bottle
-- Petzl core battery
-- travel headphones & headphones wrap
+- Petzl core battery x2
 - The Big Fat Activity Book For Pregnant People
 - Gear to patch hole behind stove
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
@@ -67,6 +66,9 @@
 - Screwdriver set & Hex key set
 - IEM system (3 users)
 - More acoustic panels
+- Short IEC cords
+- 3 input power & cable for rack travel
+- Studio flyer
 
 ### Crashes to try
 

@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Check out Elisare Issac
 - Telus add mom as billing entity
 - Benchmark - Front end milestones
 - CULT - Check out the la presse mobile experience
