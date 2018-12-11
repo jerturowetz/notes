@@ -1,21 +1,30 @@
 # Groceries
 
+- Draino
+- paper towels
+- oranges
+- lemon
+- green leaf
+- bananas
+- pickled beets
+- smoked salmon & bagels
+- red oion
+- some type of fish
+- shreddies
+- shells
+- KD x2
+- perrier
+- na beer
+- dumplings
+- banana bread ingredients
 - Miso Paste
 - Mexican chili powder
 - Better Almonds
 - Basil pesto
-- Pasta sauce (2)
-- Dry noodles
 - tomatoes
 - broccolis
 - med abd large ziplock bags
 - pickles
-
-## Pharmacy
-
-- shaving gel
-- shampoo
-- floss
 
 ## Butcher
 
