@@ -14,6 +14,7 @@
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- dualshock 4
 - Moar winter boots:
   - Bogs Classic Ultra Mid (size 9) or Sorel casual boots (??)
   - Something serioues for heat & traction (Keen Durand Polar, The North Face Chilkat 400, Vasque Snowburban II UltraDry)
@@ -45,7 +46,8 @@
 ## Music gear
 
 - Power for rack (Furman, middle atlantic)
-- Good earplugs
+- Stdio FLyer is like the best carry on item for me
+- Good earplugs (vibes, vic firth)
 - Workshop Magnifying glass
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
 - dental pick
@@ -70,6 +72,8 @@
 - Short IEC cords
 - 3 input power & cable for rack travel
 - Studio flyer
+- Fender full mood distortion
+- Amp
 
 ### Crashes to try
 
