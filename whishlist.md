@@ -1,8 +1,10 @@
 # Wishlist
 
+- inuit style mitts
+- kombi style mitts
 - Packable hat
 - Neck warmer
-- Leather gloves, liner gloves, ski gloves or mitts, kombi mitts
+- liner gloves, ski gloves or mitts
 - Water storage for winter camping (MSR bags?)
 - YETI Rambler 26 water bottle
 - Vapur Element Bottle
