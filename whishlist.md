@@ -28,6 +28,7 @@
 
 ## Xmas stuff
 
+- ikea wrapping paper
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Ribba Frame Black 31x41cm [303.784.25] (KATE) - MAYBE CHANGE
 - Ribba Frame Black 41x51cm [303.784.30] (CATHY)
