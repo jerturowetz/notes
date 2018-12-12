@@ -1,5 +1,9 @@
 # Wishlist
 
+- $295.89 Communauto
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- $125 Mickey
+- $200 Agg, Andrew, Joe gifts
 - Packable hat
 - Neck warmer
 - Leather gloves, liner gloves, ski gloves or mitts, kombi mitts
@@ -11,9 +15,6 @@
 - Gear to patch hole behind stove
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- $125 Mickey
-- $200 Agg, Andrew, Joe gifts
 - dualshock 4
 - Moar winter boots:
   - Bogs Classic Ultra Mid (size 9) or Sorel casual boots (??)

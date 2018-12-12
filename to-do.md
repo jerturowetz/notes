@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- Make turkey order for xmas
 - Check out Elisare Issac
 - Telus add mom as billing entity
 - Benchmark - Front end milestones
