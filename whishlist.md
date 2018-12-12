@@ -1,6 +1,6 @@
 # Wishlist
 
-- deering goodtime banjo
+- USB key
 - inuit style mitts
 - kombi style mitts
 - Packable hat
@@ -9,6 +9,7 @@
 - Water storage for winter camping (MSR bags?)
 - YETI Rambler 26 water bottle
 - Vapur Element Bottle
+- Another PEtzl headlamp
 - Petzl core battery x2
 - The Big Fat Activity Book For Pregnant People
 - Gear to patch hole behind stove
@@ -43,7 +44,7 @@
 
 ## Kate
 
-- Used banjo
+- deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 
 ## Music gear
