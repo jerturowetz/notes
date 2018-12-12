@@ -4,12 +4,16 @@
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- USB key
+- inuit style mitts
+- kombi style mitts
 - Packable hat
 - Neck warmer
-- Leather gloves, liner gloves, ski gloves or mitts, kombi mitts
+- liner gloves, ski gloves or mitts
 - Water storage for winter camping (MSR bags?)
 - YETI Rambler 26 water bottle
 - Vapur Element Bottle
+- Another PEtzl headlamp
 - Petzl core battery x2
 - The Big Fat Activity Book For Pregnant People
 - Gear to patch hole behind stove
@@ -41,7 +45,7 @@
 
 ## Kate
 
-- Used banjo
+- deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 
 ## Music gear
