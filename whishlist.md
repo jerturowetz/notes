@@ -1,5 +1,6 @@
 # Wishlist
 
+- deering goodtime banjo
 - inuit style mitts
 - kombi style mitts
 - Packable hat
