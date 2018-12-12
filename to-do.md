@@ -1,7 +1,12 @@
 # Jer's To-Do List
 
-- Make turkey order for xmas
-- Check out Elisare Issac
+- Check out:
+  - Elisare Issac
+  - experimental eskimos
+  - colonialism on steroids
+  - i hope inuits will be free again 
+  - aptn future history
+  - if i was your girl by russo 
 - Telus add mom as billing entity
 - Benchmark - Front end milestones
 - CULT - Check out the la presse mobile experience
