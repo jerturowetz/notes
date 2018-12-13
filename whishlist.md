@@ -1,6 +1,7 @@
 # Wishlist
 
 - $295.89 Communauto
+- $800 ish CC
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts

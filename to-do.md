@@ -1,18 +1,15 @@
 # Jer's To-Do List
 
+- Check flight to LIH on points
+- FIll out wedding thank yous
 - Check out:
   - Elisare Issac
   - experimental eskimos
   - colonialism on steroids
-  - i hope inuits will be free again 
+  - i hope inuits will be free again
   - aptn future history
   - if i was your girl by russo 
 - Telus add mom as billing entity
-- Benchmark - Front end milestones
-- CULT - Check out the la presse mobile experience
-- Check flight to LIH on points
-- Pay CC ($600 + whatever)
-- FIll out wedding thank yous
 - Wedding registry missing items
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
