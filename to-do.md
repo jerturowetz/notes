@@ -1,16 +1,9 @@
 # Jer's To-Do List
 
 - Check flight to LIH on points
-- FIll out wedding thank yous
-- Check out:
-  - Elisare Issac
-  - experimental eskimos
-  - colonialism on steroids
-  - i hope inuits will be free again
-  - aptn future history
-  - if i was your girl by russo 
-- Telus add mom as billing entity
+- Fedding thank yous finish
 - Wedding registry missing items
+- Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
 - Plans with Kalin & Raoul Movie night
@@ -24,6 +17,7 @@
 
 ## Psych help
 
+- Any psych really as I have refeeral now
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Douglas](http://www.douglas.qc.ca/?locale=en)
