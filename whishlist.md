@@ -1,5 +1,18 @@
 # Wishlist
 
+- TRS M ends
+- TRS F or 2.5mm F for hosa cables
+- Cable, 3.5mm connector & support for vic firth headphons
+- Velcor wire wraps
+- XLR F & M ??
+- TRS M
+- like 2 TRS F
+- Desktop mic stand (for holding solder)
+- Desktop Magnify glass for workshop
+- alligator clmps for holding wires and stuff
+- OnStage short boom stands
+- Sound dampening stands
+
 - $295.89 Communauto
 - $800 ish CC
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
