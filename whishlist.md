@@ -1,5 +1,6 @@
 # Wishlist
 
+- lg Bluetooth adaptor
 - TRS M ends
 - TRS F or 2.5mm F for hosa cables
 - Cable, 3.5mm connector & support for vic firth headphons
@@ -34,9 +35,7 @@
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
 - dualshock 4
-- Moar winter boots:
-  - Bogs Classic Ultra Mid (size 9) or Sorel casual boots (??)
-  - Something serioues for heat & traction (Keen Durand Polar, The North Face Chilkat 400, Vasque Snowburban II UltraDry)
+- Bogs Classic Ultra Mid (size 9)
 
 ## IKEA
 
@@ -45,17 +44,7 @@
 - 2x SOCKERBIT Box with lid, white 403.160.69
 - 2x OBSERVATÖR clip on basket
 - Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
-
-## Xmas stuff
-
-- ikea wrapping paper
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Ribba Frame Black 31x41cm [303.784.25] (KATE) - MAYBE CHANGE
-- Ribba Frame Black 41x51cm [303.784.30] (CATHY)
-- [LUSH Charity Pot](https://www.lush.ca/en/body/body-lotions/charity-pot/9999905236.html)
-- [C'est Beau](https://cestbeau.co/en/)
-- [Horace Jewlery](https://horacejewelry.com/)
-- [Me to We](https://shop.metowe.com/)
 
 ## Kate
 
