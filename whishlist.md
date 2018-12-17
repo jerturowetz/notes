@@ -1,40 +1,16 @@
 # Wishlist
 
-- lg Bluetooth adaptor
-- TRS M ends
-- TRS F or 2.5mm F for hosa cables
-- Cable, 3.5mm connector & support for vic firth headphons
-- Velcor wire wraps
-- XLR F & M ??
-- TRS M
-- like 2 TRS F
-- Desktop mic stand (for holding solder)
-- Desktop Magnify glass for workshop
-- alligator clmps for holding wires and stuff
-- OnStage short boom stands
-- Sound dampening stands
-
-- $295.89 Communauto
-- $800 ish CC
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- LG Bluetooth adaptor x2
+- USB key
+- $600 ish CC
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- USB key
-- inuit style mitts
-- kombi style mitts
-- Packable hat
-- Neck warmer
-- liner gloves, ski gloves or mitts
-- Water storage for winter camping (MSR bags?)
-- YETI Rambler 26 water bottle
-- Vapur Element Bottle
-- Another PEtzl headlamp
-- Petzl core battery x2
+- Kombi style mitts & Packable hat
+- Another headlamp & PETZL core battery x2
 - The Big Fat Activity Book For Pregnant People
 - Gear to patch hole behind stove
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-- dualshock 4
 - Bogs Classic Ultra Mid (size 9)
 
 ## IKEA
@@ -53,35 +29,52 @@
 
 ## Music gear
 
-- Power for rack (Furman, middle atlantic)
-- Stdio FLyer is like the best carry on item for me
+### Organize here
+
+- TRS M ends
+- TRS F or 2.5mm F for hosa cables
+- Cable, 3.5mm connector & support for vic firth headphons
+- XLR F & M ??
+- TRS M
+- like 2 TRS F
+- XLRF to 1/4 F short, cable style
+- Desktop mic stand (for holding solder)
+- OnStage short boom stands
+
+--
+
+- $200 10-14 chnel TRS snake
+- Gear for floor snake (12 chnl cable & connectors & heat shrink)
 - Good earplugs (vibes, vic firth)
+- Some type of temporary headphone amp
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- Reflex drum pad
 - Workshop Magnifying glass
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- dental pick
+- Dental pick (set?)
 - Heat gun
-- $200 10-14 chnel TRS snake
+- Heat shrink in bulk
+- Screwdriver set
+- Hex key set
+- Velcro wire wraps
+- Jokari round cable stripper or Secura Coaxial Cable Stripper
+- Big alligator plastic clamps
+- IEC-6X4 (short power cords) x4
 - $600 Mixer case
-- XLRF to 1/4 F short, cable style
 - $450 Radial Key Largo (for Travis main)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- Granelli labs 57 or Wilkinson Audio SM57 head caps
-- Another Rode M3 for overheads?
-- IEC-6X4 (short power cords)
-- Reaper
-- Sennheiser e901/other kick mics (not d112?)
-- Screwdriver set & Hex key set
-- IEM system (3 users)
 - More acoustic panels
-- Short IEC cords
-- 3 input power & cable for rack travel
-- Studio flyer
-- Fender full mood distortion
-- Amp
+- Granelli labs 57 or Wilkinson Audio SM57 head caps
+- Various stereo DIs (bass, keys, guitar)
+- Another Rode M3 for overheads?
+- Sennheiser e901/other kick mics (not d112?)
+- Guitar amp
+- Keyboard stand & power
+- 4-6 RU padded rack case for me & power unit with front plug
 
 ### Crashes to try
 
