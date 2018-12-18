@@ -1,7 +1,7 @@
 # Jer's To-Do List
 
 - Check flight to LIH on points
-- Fedding thank yous finish
+- Wedding thank yous finish
 - Wedding registry missing items
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)

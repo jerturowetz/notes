@@ -1,6 +1,6 @@
 # Wishlist
 
-- LG Bluetooth adaptor x2
+- Logitech Unifying reciever
 - USB key
 - $600 ish CC
 - $125 Mickey
@@ -29,52 +29,57 @@
 
 ## Music gear
 
-### Organize here
-
-- TRS M ends
-- TRS F or 2.5mm F for hosa cables
-- Cable, 3.5mm connector & support for vic firth headphons
-- XLR F & M ??
-- TRS M
-- like 2 TRS F
-- XLRF to 1/4 F short, cable style
-- Desktop mic stand (for holding solder)
-- OnStage short boom stands
-
---
-
-- $200 10-14 chnel TRS snake
-- Gear for floor snake (12 chnl cable & connectors & heat shrink)
+- Mic stand for hoding solder
+- Mic amp clamps/whatever
+- TRS-F for headpnonee ext repair x2
+- TRS end for vic firth headphones
+- Cable strain relief for Vic firth Headphones
+- Cable for vic firth headphones (+ spare)
+- $300 12-16 chnl TRS snake (15-30ft)
+- power bar for dylan
+- Sharpies
+- Artist tape
 - Good earplugs (vibes, vic firth)
 - Some type of temporary headphone amp
+- Right angled XLRF/XLRM 15 foot cables - for drums
+- wire organizer
+- Short TRS to XLRF cables x4
+- Short TRS to XLRM cables x4
+- Short TRS cables
+- Spare ends
+  - TRS x4
+  - XLR-M x4
+  - XLR-F x4
+- Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- Reflex drum pad
-- Workshop Magnifying glass
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Dental pick (set?)
-- Heat gun
-- Heat shrink in bulk
-- Screwdriver set
-- Hex key set
-- Velcro wire wraps
-- Jokari round cable stripper or Secura Coaxial Cable Stripper
-- Big alligator plastic clamps
-- IEC-6X4 (short power cords) x4
 - $600 Mixer case
+- Reflex drum pad (it's silent)
 - $450 Radial Key Largo (for Travis main)
 - K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
 - Primacoustic KickStand and K&M 21160 Boom arm for kick
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- More acoustic panels
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
-- Various stereo DIs (bass, keys, guitar)
+- Various DIs (bass, keys, guitar)
 - Another Rode M3 for overheads?
 - Sennheiser e901/other kick mics (not d112?)
+- Another snare mic
+- Room mics
 - Guitar amp
+- Mic stands for Tom mics
 - Keyboard stand & power
-- 4-6 RU padded rack case for me & power unit with front plug
+- Mic pres & ADAT conversion for drums
+
+--
+
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
+- Screwdriver set
+- Hex key set
+- Velcro wire wraps
+- Jokari cable stripper
+- IEC-6X4 (short power cords) x4
+- small battery power drill (rack screws/guitar winding)
 
 ### Crashes to try
 
