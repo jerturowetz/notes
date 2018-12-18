@@ -2,16 +2,17 @@
 
 - Logitech Unifying reciever
 - USB key
-- $600 ish CC
-- $125 Mickey
-- $200 Agg, Andrew, Joe gifts
 - Kombi style mitts & Packable hat
 - Another headlamp & PETZL core battery x2
-- The Big Fat Activity Book For Pregnant People
 - Gear to patch hole behind stove
+- $600ish CC
+- $125 Mickey
+- $200 Agg, Andrew, Joe gifts
+- The Big Fat Activity Book For Pregnant People
+- Bogs Classic Ultra Mid (size 9)
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-- Bogs Classic Ultra Mid (size 9)
 
 ## IKEA
 
@@ -29,18 +30,20 @@
 
 ## Music gear
 
-- Mic stand for hoding solder
 - Mic amp clamps/whatever
 - TRS-F for headpnonee ext repair x2
 - TRS end for vic firth headphones
 - Cable strain relief for Vic firth Headphones
 - Cable for vic firth headphones (+ spare)
 - $300 12-16 chnl TRS snake (15-30ft)
+- Some type of temporary headphone amp
+
+--
+
 - power bar for dylan
 - Sharpies
 - Artist tape
 - Good earplugs (vibes, vic firth)
-- Some type of temporary headphone amp
 - Right angled XLRF/XLRM 15 foot cables - for drums
 - wire organizer
 - Short TRS to XLRF cables x4
@@ -51,7 +54,6 @@
   - XLR-M x4
   - XLR-F x4
 - Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - $600 Mixer case
 - Reflex drum pad (it's silent)
 - $450 Radial Key Largo (for Travis main)
@@ -80,6 +82,8 @@
 - Jokari cable stripper
 - IEC-6X4 (short power cords) x4
 - small battery power drill (rack screws/guitar winding)
+- desktop mic stand (for holding solder)
+- SMall aliigator clamps
 
 ### Crashes to try
 
