@@ -1,6 +1,5 @@
 # Wishlist
 
-- Logitech Unifying reciever
 - USB key
 - Kombi style mitts & Packable hat
 - Another headlamp & PETZL core battery x2
@@ -25,67 +24,10 @@
 
 ## Kate
 
-- deering goodtime banjo
+- Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 
-## Music gear
-
-- Mic amp clamps/whatever
-- TRS-F for headpnonee ext repair x2
-- TRS end for vic firth headphones
-- Cable strain relief for Vic firth Headphones
-- Cable for vic firth headphones (+ spare)
-- $300 12-16 chnl TRS snake (15-30ft)
-- Some type of temporary headphone amp
-
---
-
-- power bar for dylan
-- Sharpies
-- Artist tape
-- Good earplugs (vibes, vic firth)
-- Right angled XLRF/XLRM 15 foot cables - for drums
-- wire organizer
-- Short TRS to XLRF cables x4
-- Short TRS to XLRM cables x4
-- Short TRS cables
-- Spare ends
-  - TRS x4
-  - XLR-M x4
-  - XLR-F x4
-- Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
-- $600 Mixer case
-- Reflex drum pad (it's silent)
-- $450 Radial Key Largo (for Travis main)
-- K&M 21021 or 21430 (or old Atlas) Overhead microphone stand
-- Primacoustic KickStand and K&M 21160 Boom arm for kick
-- Primacoustic CrashGuard x2
-- Primacoustic CrashGuard 421 x2
-- Little bit of foam for top of overheads
-- Granelli labs 57 or Wilkinson Audio SM57 head caps
-- Various DIs (bass, keys, guitar)
-- Another Rode M3 for overheads?
-- Sennheiser e901/other kick mics (not d112?)
-- Another snare mic
-- Room mics
-- Guitar amp
-- Mic stands for Tom mics
-- Keyboard stand & power
-- Mic pres & ADAT conversion for drums
-
---
-
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Screwdriver set
-- Hex key set
-- Velcro wire wraps
-- Jokari cable stripper
-- IEC-6X4 (short power cords) x4
-- small battery power drill (rack screws/guitar winding)
-- desktop mic stand (for holding solder)
-- SMall aliigator clamps
-
-### Crashes to try
+## Crashes
 
 - 18"+ K custom Dark Crash
 - 18"+ K Dark Thin Crash
@@ -94,9 +36,94 @@
 - 18"+ A Adevis crash
 - 20"+ K Crash Ride
 
-### Rides to try
+## Rides
 
 - 22" K custom ride
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
+
+## Other music
+
+- Sharpies & Artist tape
+- Logitech Unifying reciever
+- $300 12-16 chnl TRS snake (15-30ft)
+- Some type of temporary headphone amp
+- Short TRS cables x4
+- TRSF for headpnonee ext repair x2
+- TRSM ends for vic firth headphones
+- Cable strain relief for Vic firth Headphones ?
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- Vic Firth or 3M isolation headphones
+- Amp clamp or similar (amps)
+- On stage tiny base mic stand (amps)
+
+### Monitoring
+
+#### Temporary
+
+- $30 Behringer MICROAMP HA400 Headphone Amp
+- Some type of headphone amp? Behringer powerplay or other?
+
+#### Future monitor system
+
+Should decide between the following for price:
+
+- behringer monitoring system
+- Hear Back OCTO
+- FURMAN HDS-6 & HR-6
+
+The key components are:
+
+- 3 mixers (expandable to 4 later for me)
+- Power over ethernet
+- Price
+- Minimize channel use
+
+I think I'm most into the octo, but i guess i should grab whatever is cheaper
+
+### Other
+
+- Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
+- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
+- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
+- Spare TRS & XLR M/F connectors (5 each?)
+- $600 Mixer case
+- $450 Radial Key Largo (for Travis main)
+- Various DIs (bass, keys, guitar) def a PRO DI
+- K&M 259 & 210/8 mic stand (toms)
+- K&M Mic Stands 210/8 x2 (vox)
+- K&M 21021 or 21430 or old Atlas or On-Stage SMS7630 Overhead microphone stand
+- Primacoustic KickStand and K&M 21160 Boom arm for kick
+- Primacoustic CrashGuard x2
+- Primacoustic CrashGuard 421 x2
+- Little bit of foam for top of overheads
+- Mic pres & ADAT conversion for drums
+- New Rack unit & Power for above
+- Missing mics for drums:
+  - Hats (Sennheiser MKH-416)
+  - OH pair (AKG 416)
+  - Room pair (Royer R-122, ouch)
+  - 2nd SD top mic
+  - Kick (Telefunken m-82, Sennheiser e901)
+- $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
+- Neutrik powercon for furman power bars
+- Granelli labs 57 or Wilkinson Audio SM57 head caps
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
+- Screwdriver set
+- Hex key set
+- Velcro wire wraps
+- Jokari cable stripper
+- IEC-6X4 (short power cords) x4
+- small battery power drill (rack screws/guitar winding)
+- desktop mic stand (for holding solder) (on-stage ds8200)
+- Small alligator clamps
+- Hanging Wire Rack
+- Better tool organizer for adaptors
+- Guitar amp
+- Keyboard stand & power
+- Zoom H6
+- Sennheiser e906 (guitars)
+- AKG C414 x2 (toms, violin, guitars, room)
+- AKG 460 for Acoustic guitar
+- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
