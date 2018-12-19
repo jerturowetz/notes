@@ -1,30 +1,29 @@
 # Groceries
 
+- Bagels
+- Cinnamon sticks
+- Apple cider
+
+--
+
 - Draino
 - paper towels
-- oranges
-- lemon
-- green leaf
 - bananas
 - pickled beets
-- smoked salmon & bagels
-- red oion
-- some type of fish
+- pickles
 - shreddies
-- shells
+- shells/penne
 - KD x2
+- some type of fish
 - perrier
-- na beer
-- dumplings
+- n/a beer
 - banana bread ingredients
-- Miso Paste
 - Mexican chili powder
-- Better Almonds
 - Basil pesto
 - tomatoes
 - broccolis
-- med abd large ziplock bags
-- pickles
+- Apples
+- med & large ziplock bags
 
 ## Butcher
 
