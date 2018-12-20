@@ -45,6 +45,7 @@
 
 ## Other music
 
+- Grease pencil for whiteboard
 - Sharpies & Artist tape
 - Logitech Unifying reciever
 - $300 12-16 chnl TRS snake (15-30ft)
