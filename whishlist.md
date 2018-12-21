@@ -1,6 +1,5 @@
 # Wishlist
 
-- USB key
 - Kombi style mitts & Packable hat
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
@@ -68,23 +67,15 @@
 
 #### Future monitor system
 
-Should decide between the following for price:
+I'm most into the octo, but grab whatever is cheaper
 
 - behringer monitoring system
 - Hear Back OCTO
 - FURMAN HDS-6 & HR-6
 
-The key components are:
-
-- 3 mixers (expandable to 4 later for me)
-- Power over ethernet
-- Price
-- Minimize channel use
-
-I think I'm most into the octo, but i guess i should grab whatever is cheaper
-
 ### Other
 
+- Hosa GXX-195 Inline Phase Reverse XLR Barrel x5
 - Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
@@ -128,3 +119,5 @@ I think I'm most into the octo, but i guess i should grab whatever is cheaper
 - AKG C414 x2 (toms, violin, guitars, room)
 - AKG 460 for Acoustic guitar
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
+- Sennheiser e835 (vocal mic with better rejection than 58)
+- Audix om5 (vocal mic with max rejection, less tolerant tho)
