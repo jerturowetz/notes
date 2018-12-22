@@ -1,5 +1,15 @@
 # Xmas menu
 
+## To-do
+
+- prep turkey
+- Fish store
+- pick up sausage rolls
+- marche run
+- grocery store
+
+## Menu
+
 Appetizers:
 
 - 2 dozen sausage rolls
