@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- kill spotify premium
 - Check flight to LIH on points
 - Wedding thank yous finish
 - Wedding registry missing items
