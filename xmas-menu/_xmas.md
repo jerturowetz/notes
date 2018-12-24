@@ -1,13 +1,5 @@
 # Xmas menu
 
-## To-do
-
-- prep turkey
-- Fish store
-- pick up sausage rolls
-- marche run
-- grocery store
-
 ## Menu
 
 Appetizers:
@@ -31,7 +23,6 @@ Dessert:
 - Mandarins
 - After 8s
 - Ferrero Roche
-- Maybe a pie
 
 ## Grocery list for the 24th
 
@@ -69,3 +60,7 @@ Dessert:
 - 1oz potato starch
 - 1 pound day-old white French bread
 - Salted butter
+
+## prep list
+
+
