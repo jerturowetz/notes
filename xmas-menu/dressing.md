@@ -27,10 +27,6 @@
 
 ### Day of
 
-Whisk 1 1/4 cups broth and eggs in a small bowl. Add to bread mixture; fold gently until thoroughly combined. Transfer to prepared dish, cover with foil, and bake until an instant-read thermometer inserted into the center of dressing registers 160°, about 40 minutes.
-
-Bake dressing, uncovered, until set and top is browned and crisp, 40-45 minutes longer (if chilled, add 10-15 minutes).
-
 - Preheat oven to 350° & spray a 9×13-inch pan or 3-quart baking dish with cooking spray; set aside
 - Place bread in large bowl; set aside
 - In a large skillet, melt 3/4 cup (1 1/2 sticks) of butter over medium-high heat
@@ -42,7 +38,7 @@ Bake dressing, uncovered, until set and top is browned and crisp, 40-45 minutes 
 - Pour in to baking dish
 - Dice the remaining 1/4 cup (half of 1 stick) butter into 8 to 10 pieces and evenly dot the butter over the top of the stuffing
 - Cover with foil and bake until instant-read thermometer reads 160°, about 40 minutes
-- Uncover and bake for an additional 40 to 45 minutes, or until top is as lightly golden browned as desired
+- Uncover and bake for an additional 40 to 45 minutes, or until top is as lightly golden browned as desired (if chilled, add 10-15 minutes).
 - Serve immediately
 
 ### Cooking notes
