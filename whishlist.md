@@ -1,6 +1,7 @@
 # Wishlist
 
-- Kombi style mitts & Packable hat
+- Packable hat
+- liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $600ish CC
@@ -44,11 +45,7 @@
 
 ## Other music
 
-- Grease pencil for whiteboard
-- Sharpies & Artist tape
-- Logitech Unifying reciever
 - $300 12-16 chnl TRS snake (15-30ft)
-- Some type of temporary headphone amp
 - Short TRS cables x4
 - TRSF for headpnonee ext repair x2
 - TRSM ends for vic firth headphones
@@ -62,15 +59,8 @@
 
 #### Temporary
 
-- $30 Behringer MICROAMP HA400 Headphone Amp
-- Some type of headphone amp? Behringer powerplay or other?
-
-#### Future monitor system
-
-I'm most into the octo, but grab whatever is cheaper
-
-- behringer monitoring system
-- Hear Back OCTO
+- $30 Behringer MICROAMP HA400 Headphone Amp or othet temp headphone amp
+- Hear Back brain & OCTO
 - FURMAN HDS-6 & HR-6
 
 ### Other
