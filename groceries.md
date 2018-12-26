@@ -1,11 +1,12 @@
 # Groceries
 
-- Bagels
-- Cinnamon sticks
-- Apple cider
-
---
-
+- all purpose cleaner
+- toilet cleaner
+- potatoes
+- grapeseed oil
+- olive oil
+- milk
+- greens
 - Draino
 - paper towels
 - bananas
@@ -15,8 +16,6 @@
 - shells/penne
 - KD x2
 - some type of fish
-- perrier
-- n/a beer
 - banana bread ingredients
 - Mexican chili powder
 - Basil pesto
