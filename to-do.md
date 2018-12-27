@@ -1,9 +1,8 @@
 # Jer's To-Do List
 
-- kill spotify premium
-- Check flight to LIH on points
-- Wedding thank yous finish
-- Wedding registry missing items
+- SJ recording
+- $182 itinerary conf # 740-0806-616-917
+- Wedding thank yous
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
@@ -22,13 +21,6 @@
 - [IUSMM Research](http://www.iusmm.ca/research.html)
 - [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
 - [Douglas](http://www.douglas.qc.ca/?locale=en)
-
-## Music
-
-- Prep Steve tracks & RME setup
-- Set up recording rig & track template
-- Prep Ruby Tracks
-- SJ tracks
 
 ## Musician's Insurance
 
