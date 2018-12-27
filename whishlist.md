@@ -1,5 +1,7 @@
 # Wishlist
 
+- kindle or whatever
+- Rona entrepot plastic bins x2
 - Kombi style mitts & Packable hat
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove

@@ -15,6 +15,22 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 
+## Call re pregnancy
+
+- ~~Joyce~~
+- ~~Riva~~
+- ~~randee~~
+- ~~gary~~
+- matthew
+- maureen
+- linda
+- Nancy
+- Carol
+- cousin carol
+- pearl
+- tom
+- kyla
+
 ## Psych help
 
 - Any psych really as I have refeeral now
