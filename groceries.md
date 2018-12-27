@@ -1,29 +1,29 @@
 # Groceries
 
-- Bagels
-- Cinnamon sticks
-- Apple cider
-
---
-
-- Draino
-- paper towels
+- potatoes
+- green leaf
+- apples
+- broccoli
+- tomatoes
 - bananas
+- eggs
+- bread
+- bbq sauce
 - pickled beets
 - pickles
 - shreddies
 - shells/penne
 - KD x2
 - some type of fish
-- perrier
-- n/a beer
 - banana bread ingredients
 - Mexican chili powder
 - Basil pesto
-- tomatoes
-- broccolis
-- Apples
 - med & large ziplock bags
+- grapeseed oil
+- olive oil
+- Draino
+- toilet bowl cleaner
+- all purpose cleaner
 
 ## Butcher
 

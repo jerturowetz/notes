@@ -3,24 +3,17 @@
 - kindle or whatever
 - Rona entrepot plastic bins x2
 - Kombi style mitts & Packable hat
+- Packable hat
+- liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $600ish CC
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- The Big Fat Activity Book For Pregnant People
 - Bogs Classic Ultra Mid (size 9)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-
-## IKEA
-
-- 3x SOCKERBIT Storage box 503.161.82
-- 1x SOCKERBIT Storage box with lid 603.160.68
-- 2x SOCKERBIT Box with lid, white 403.160.69
-- 2x OBSERVATÖR clip on basket
-- Boxes for bags (for side closet) 8" to 12" h, 13" to 16" d, w doesnt really matter but more than d (moe than 18
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
@@ -44,13 +37,9 @@
 - 22" K dark medium ride
 - 22" A Medium Ride
 
-## Other music
+## Rehersal space
 
-- Grease pencil for whiteboard
-- Sharpies & Artist tape
-- Logitech Unifying reciever
 - $300 12-16 chnl TRS snake (15-30ft)
-- Some type of temporary headphone amp
 - Short TRS cables x4
 - TRSF for headpnonee ext repair x2
 - TRSM ends for vic firth headphones
@@ -62,17 +51,8 @@
 
 ### Monitoring
 
-#### Temporary
-
-- $30 Behringer MICROAMP HA400 Headphone Amp
-- Some type of headphone amp? Behringer powerplay or other?
-
-#### Future monitor system
-
-I'm most into the octo, but grab whatever is cheaper
-
-- behringer monitoring system
-- Hear Back OCTO
+- $30 Behringer MICROAMP HA400 Headphone Amp or othet temp headphone amp
+- Hear Back brain & OCTO
 - FURMAN HDS-6 & HR-6
 
 ### Other
