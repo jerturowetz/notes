@@ -1,15 +1,14 @@
 # Groceries
 
-- all purpose cleaner
-- toilet cleaner
 - potatoes
-- grapeseed oil
-- olive oil
-- milk
-- greens
-- Draino
-- paper towels
+- green leaf
+- apples
+- broccoli
+- tomatoes
 - bananas
+- eggs
+- bread
+- bbq sauce
 - pickled beets
 - pickles
 - shreddies
@@ -19,10 +18,12 @@
 - banana bread ingredients
 - Mexican chili powder
 - Basil pesto
-- tomatoes
-- broccolis
-- Apples
 - med & large ziplock bags
+- grapeseed oil
+- olive oil
+- Draino
+- toilet bowl cleaner
+- all purpose cleaner
 
 ## Butcher
 
