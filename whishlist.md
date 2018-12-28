@@ -1,6 +1,9 @@
 # Wishlist
 
 - Brabantia waste bin
+- kindle or whatever
+- Rona entrepot plastic bins x2
+- Kombi style mitts & Packable hat
 - Packable hat
 - liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
