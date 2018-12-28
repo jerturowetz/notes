@@ -1,5 +1,6 @@
 # Wishlist
 
+- Brabantia waste bin
 - Packable hat
 - liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
