@@ -2,16 +2,13 @@
 
 - potatoes
 - green leaf
-- apples
 - broccoli
-- tomatoes
 - bananas
 - eggs
 - bread
 - bbq sauce
 - pickled beets
 - pickles
-- shreddies
 - shells/penne
 - KD x2
 - some type of fish
