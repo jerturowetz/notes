@@ -62,27 +62,31 @@
 ### Other
 
 - Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
-- $600 Mixer case
-- $450 Radial Key Largo (for Travis main)
-- Various DIs (bass, keys, guitar) def a PRO DI
-- K&M 259 & 210/8 mic stand (toms)
-- K&M Mic Stands 210/8 x2 (vox)
-- K&M 21021 or 21430 or old Atlas or On-Stage SMS7630 Overhead microphone stand
-- Primacoustic KickStand and K&M 21160 Boom arm for kick
+- Missing mics for drums:
+  - Audio Technica 2020 (OH)
+  - Room (Rode something, Audio Technica 4040)
+  - Kick OUT (Telefunken m-82, Sennheiser e901)
+- Tiny desktop mic stand (room)
+- K&M 259 or 25960 x2 (snare top, floor tom)
+- K&M 210/8 or 252 (rack tom)
+- Better clips for 421s
+- K&M 210/8 or 21021 x2 (OH)
+- K&M 259 or 25960 x2 (amps)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
 - Mic pres & ADAT conversion for drums
 - New Rack unit & Power for above
-- Missing mics for drums:
-  - Hats (Sennheiser MKH-416)
-  - OH pair (AKG 416 or another 2020)
-  - Room pair (Royer R-122, ouch, 4040)
-  - 2nd SD top mic
-  - Kick (Telefunken m-82, Sennheiser e901)
+
+--
+
+- Granelli labs 57 or Wilkinson Audio SM57 head caps
+- desktop mic stand (for holding solder) (on-stage ds8200)
+- $600 Mixer case
+- $450 Radial Key Largo (for Travis main)
+- Various DIs (bass, keys, guitar) def a PRO DI
 - $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
 - Neutrik powercon for furman power bars
-- Granelli labs 57 or Wilkinson Audio SM57 head caps
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
 - Screwdriver set
 - Hex key set
@@ -90,7 +94,6 @@
 - Jokari cable stripper
 - IEC-6X4 (short power cords) x4
 - small battery power drill (rack screws/guitar winding)
-- desktop mic stand (for holding solder) (on-stage ds8200)
 - Small alligator clamps
 - Hanging Wire Rack
 - Better tool organizer for adaptors
@@ -98,8 +101,7 @@
 - Keyboard stand & power
 - Zoom H6
 - Sennheiser e906 (guitars)
-- AKG C414 x2 (toms, violin, guitars, room)
-- AKG 460 for Acoustic guitar
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
+- AKG 460 for Acoustic guitar
 - Sennheiser e835 (vocal mic with better rejection than 58)
 - Audix om5 (vocal mic with max rejection, less tolerant tho)
