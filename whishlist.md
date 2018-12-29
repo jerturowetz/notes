@@ -2,15 +2,11 @@
 
 - Vic Firth American Classic 5A sticks
 - Brabantia waste bin
-- kindle or whatever
-- Rona entrepot plastic bins x2
 - Packable hat
-- liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- Bogs Classic Ultra Mid (size 9)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
@@ -41,8 +37,7 @@
 
 - $300 12-16 chnl TRS snake (15-30ft)
 - XLR ends for short cables (4 each min)
-- Spare cable for XLR
-- Short TRS cables x4
+- regular balanced cable @ trs ends ( short trs patch)
 - TRSF for headpnonee ext repair x2
 - TRSM ends for vic firth headphones
 - Cable strain relief for Vic firth Headphones ?
@@ -51,8 +46,11 @@
 - Amp clamp or similar (amps)
 - On stage tiny base mic stand x2 (amps, Room)
 - Spare TRS & XLR M/F connectors (5 each?)
+- 18db-20db Inline attenuator x4
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
+
+Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 
 ### Monitoring
 
@@ -62,8 +60,6 @@
 
 ### Other
 
-- 18db-20db Inline attenuator x4
-- Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - Missing mics for drums:
   - Audio Technica 2020 (OH)
   - Room (Rode something, Audio Technica 4040)
