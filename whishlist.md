@@ -1,5 +1,6 @@
 # Wishlist
 
+- Vic Firth American Classic 5A sticks
 - Brabantia waste bin
 - kindle or whatever
 - Rona entrepot plastic bins x2
@@ -61,6 +62,7 @@
 
 ### Other
 
+- 18db-20db Inline attenuator x4
 - Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - Missing mics for drums:
   - Audio Technica 2020 (OH)
