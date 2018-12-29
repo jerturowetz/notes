@@ -3,12 +3,10 @@
 - Brabantia waste bin
 - kindle or whatever
 - Rona entrepot plastic bins x2
-- Kombi style mitts & Packable hat
 - Packable hat
 - liner gloves & ski gloves
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
-- $600ish CC
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Bogs Classic Ultra Mid (size 9)
@@ -41,6 +39,8 @@
 ## Rehersal space
 
 - $300 12-16 chnl TRS snake (15-30ft)
+- XLR ends for short cables (4 each min)
+- Spare cable for XLR
 - Short TRS cables x4
 - TRSF for headpnonee ext repair x2
 - TRSM ends for vic firth headphones
@@ -48,7 +48,10 @@
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
 - Amp clamp or similar (amps)
-- On stage tiny base mic stand (amps)
+- On stage tiny base mic stand x2 (amps, Room)
+- Spare TRS & XLR M/F connectors (5 each?)
+- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
+- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
 
 ### Monitoring
 
@@ -58,11 +61,7 @@
 
 ### Other
 
-- Hosa GXX-195 Inline Phase Reverse XLR Barrel x5
 - Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
-- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
-- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
-- Spare TRS & XLR M/F connectors (5 each?)
 - $600 Mixer case
 - $450 Radial Key Largo (for Travis main)
 - Various DIs (bass, keys, guitar) def a PRO DI
@@ -77,8 +76,8 @@
 - New Rack unit & Power for above
 - Missing mics for drums:
   - Hats (Sennheiser MKH-416)
-  - OH pair (AKG 416)
-  - Room pair (Royer R-122, ouch)
+  - OH pair (AKG 416 or another 2020)
+  - Room pair (Royer R-122, ouch, 4040)
   - 2nd SD top mic
   - Kick (Telefunken m-82, Sennheiser e901)
 - $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
