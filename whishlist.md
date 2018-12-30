@@ -36,16 +36,29 @@
 ## Rehersal space
 
 - $300 12-16 chnl TRS snake (15-30ft)
-- XLR ends for short cables (4 each min)
-- regular balanced cable @ trs ends ( short trs patch)
-- TRSF for headpnonee ext repair x2
-- TRSM ends for vic firth headphones
+
+builds
+ahort xlr patxh
+ahort trs patch
+==
+xlr x4ea nickel
+trsm x8 nickel
+trsf x2
+trsm x1 headphones
+
+spares (like 4 xlr, trs each nickel, 4 xlr each black)
+
+
+balanced medium light cable (x20ft)
+
+
+
 - Cable strain relief for Vic firth Headphones ?
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
 - Amp clamp or similar (amps)
-- On stage tiny base mic stand x2 (amps, Room)
-- Spare TRS & XLR M/F connectors (5 each?)
+- On stage tiny base mic stand x3 (amps, Room)
+
 - 18db-20db Inline attenuator x4
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
 - $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
