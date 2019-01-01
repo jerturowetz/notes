@@ -1,13 +1,11 @@
 # Groceries
 
-- potatoes
-- green leaf
+- butter
+- coffee
 - broccoli
 - bananas
 - eggs
-- bread
 - bbq sauce
-- pickled beets
 - pickles
 - shells/penne
 - KD x2
