@@ -17,15 +17,19 @@
 
 ### Meatballs
 
-- 1lb beef mince
-- 1lb pork mince
-- 2 tsp dried oregano
-- 2 tsp ground cumin
-- 2 tsp salt
-- 1 tsp ground black pepper
-- 1 tsp garlic granules
+- 1.5lb beef mince
+- 1.5lb pork mince
+- 3 tsp dried oregano
+- 3 tsp ground cumin
+- 3 tsp salt
+- 2 tsp ground black pepper
+- 2 tsp garlic granules
 
 ## Directions
 
-- Sauce needs like 2 hrs on slow cooker
-- Balls maybe do in a pan and then toss in
+- In a med cast iron on med heat, work in batches to cook meatballs about 2-3 mins per side
+- Once complete set aside
+- Toss onions, garlic into fond and maybe use a bit of wine to deglaze
+- brown for 3 minutes and then toss in other ingredients
+- bring to a bubble (not boil) then redice and simmer for 2 hrs
+- toss in meatballs, redice to low and simmer for another hour
