@@ -1,6 +1,5 @@
 # Wishlist
 
-- Vic Firth American Classic 5A sticks
 - Brabantia waste bin
 - Packable hat
 - Another headlamp & PETZL core battery x2
@@ -35,6 +34,7 @@
 
 ## Rehersal space
 
+- Vic Firth American Classic 5A sticks
 - 18db-20db Inline attenuator x4
 - Cable strain relief for Vic firth Headphones ?
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
