@@ -35,35 +35,30 @@
 
 ## Rehersal space
 
-- $300 12-16 chnl TRS snake (15-30ft)
-
-builds
-ahort xlr patxh
-ahort trs patch
-==
-xlr x4ea nickel
-trsm x8 nickel
-trsf x2
-trsm x1 headphones
-
-spares (like 4 xlr, trs each nickel, 4 xlr each black)
-
-
-balanced medium light cable (x20ft)
-
-
-
+- 18db-20db Inline attenuator x4
 - Cable strain relief for Vic firth Headphones ?
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
 - Amp clamp or similar (amps)
 - On stage tiny base mic stand x3 (amps, Room)
 
-- 18db-20db Inline attenuator x4
-- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FRX-BAG x4 ea (blue or orange cable for right angle)
-- $80us Canare L-4E6S Quad mic Cable x60', Neutrik NC3MXX-BAG & Neutrik NC3FXX-BAG x4 ea (red cable)
+--
 
-Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
+- Redco order:
+  - $80us Canare L-4E6S Quad mic Cable x60'
+  - 12 channel cable for floor snake
+  - 12-16 channel cable for trs snake
+  - balanced medium light cable (for 8 short cables & spare)
+- Mouser order:
+  - Neutrik NJ3FC6-BAG x2 (headphone ext)
+  - Neutrik NP3X (headphones)
+  - Neutrik NC3MXX-BAG x4
+  - Neutrik NC3FXX-BAG x4
+  - Neutrik NC3MXX x4
+  - Neutrik NC3FXX x4
+  - Neutrik NP3X x8 (patches)
+  - Neutrik NP3X x24-32 (trs snake)
+  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4 (floor snake)
 
 ### Monitoring
 
@@ -86,8 +81,6 @@ Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
-- Mic pres & ADAT conversion for drums
-- New Rack unit & Power for above
 
 --
 
@@ -95,6 +88,8 @@ Parts for floor snake (8 xlr M, 4 XLR F, 12 channel cable)
 - desktop mic stand (for holding solder) (on-stage ds8200)
 - $600 Mixer case
 - $450 Radial Key Largo (for Travis main)
+- Mic pres & ADAT conversion for drums
+- New Rack unit & Power for above
 - Various DIs (bass, keys, guitar) def a PRO DI
 - $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
 - Neutrik powercon for furman power bars
