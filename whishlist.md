@@ -35,8 +35,7 @@
 ## Rehersal space
 
 - Vic Firth American Classic 5A sticks
-- 18db-20db Inline attenuator x4
-- Cable strain relief for Vic firth Headphones ?
+- 18db Inline attenuator x4
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
 - Amp clamp or similar (amps)
@@ -70,12 +69,11 @@
 
 - Missing mics for drums:
   - Audio Technica 2020 (OH)
-  - Room (Rode something, Audio Technica 4040)
+  - Room (Rode something, Audio Technica 4050, 4040)
   - Kick OUT (Telefunken m-82, Sennheiser e901)
 - Tiny desktop mic stand (room)
 - K&M 259 or 25960 x2 (snare top, floor tom)
 - K&M 210/8 or 252 (rack tom)
-- Better clips for 421s
 - K&M 210/8 or 21021 x2 (OH)
 - K&M 259 or 25960 x2 (amps)
 - Primacoustic CrashGuard x2
