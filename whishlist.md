@@ -68,11 +68,10 @@
 ### Other
 
 - Missing mics for drums:
-  - Audio Technica 2020 (OH)
-  - Room (Audio Technica 4050, 4040)
-  - Kick OUT (Telefunken m-82, Sennheiser e901)
-  - Floor general (EV 635A)
-  - Kit WURST (sm57)
+  - 2020 for 2nd OH
+  - Telefunken M60 (Snare top)
+  - EV 635A (floor)
+  - Audio Technica 4040 &/or 4050 (Room)
 - Tiny desktop mic stand (room)
 - K&M 259 or 25960 x2 (snare top, floor tom)
 - K&M 210/8 or 252 or 26145 (rack tom)
@@ -114,3 +113,4 @@
 - AKG 460 for Acoustic guitar
 - Sennheiser e835 (vocal mic with better rejection than 58)
 - Audix om5 (vocal mic with max rejection, less tolerant tho)
+- Ludwig Supraphonic 14" x 6.5"
