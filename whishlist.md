@@ -69,13 +69,15 @@
 
 - Missing mics for drums:
   - Audio Technica 2020 (OH)
-  - Room (Rode something, Audio Technica 4050, 4040)
+  - Room (Audio Technica 4050, 4040)
   - Kick OUT (Telefunken m-82, Sennheiser e901)
+  - Floor general (EV 635A)
+  - Kit WURST (sm57)
 - Tiny desktop mic stand (room)
 - K&M 259 or 25960 x2 (snare top, floor tom)
-- K&M 210/8 or 252 (rack tom)
+- K&M 210/8 or 252 or 26145 (rack tom)
 - K&M 210/8 or 21021 x2 (OH)
-- K&M 259 or 25960 x2 (amps)
+- Boom stand for Wurst
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
