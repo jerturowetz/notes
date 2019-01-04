@@ -1,5 +1,6 @@
 # Wishlist
 
+- 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipda and mixer
 - Brabantia waste bin
 - Packable hat
@@ -116,3 +117,5 @@
 - Audix om5 (vocal mic with max rejection, less tolerant tho)
 - Ludwig Supraphonic 14" x 6.5"
 - Radial Tonebone JX2 Pro switcher
+- ProCo rat distortion
+- MS2000, Pro-One, MS2000, Juno 6, Korg M1, roland tb303
