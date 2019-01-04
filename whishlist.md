@@ -84,6 +84,9 @@
 
 --
 
+- $97 3DWaves Dual Tier Stands For The Yamaha Reface Synthesizers
+- Dual tier keyboard stand (Quicklok, sequenz)
+- Good powered mon (EV ZLX-12P or QSC K10/k12)
 - Granelli labs 57 or Wilkinson Audio SM57 head caps
 - desktop mic stand (for holding solder) (on-stage ds8200)
 - $600 Mixer case
