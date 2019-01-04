@@ -1,5 +1,6 @@
 # Wishlist
 
+- Rode SC4 for plugging ipda and mixer
 - Brabantia waste bin
 - Packable hat
 - Another headlamp & PETZL core battery x2
@@ -114,3 +115,4 @@
 - Sennheiser e835 (vocal mic with better rejection than 58)
 - Audix om5 (vocal mic with max rejection, less tolerant tho)
 - Ludwig Supraphonic 14" x 6.5"
+- Radial Tonebone JX2 Pro switcher
