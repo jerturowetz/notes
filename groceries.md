@@ -5,6 +5,8 @@
 - #2 filters
 - milk
 - eggs
+- lemons
+- garlic
 - broccoli
 - bananas
 - bbq sauce

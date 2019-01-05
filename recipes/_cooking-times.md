@@ -13,3 +13,6 @@ boiled green beans
 Spatchcock chicken (2)
 45 mins @475 too high
 45 mins @400 too low
+
+pancakes
+atovetop at 4, youll need to give it a min to get up

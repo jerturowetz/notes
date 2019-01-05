@@ -69,6 +69,7 @@
 
 ### Other
 
+- Floor tom 16"
 - Missing mics for drums:
   - 2020 for 2nd OH
   - Telefunken M60 (Snare top)
@@ -119,3 +120,4 @@
 - Radial Tonebone JX2 Pro switcher
 - ProCo rat distortion
 - MS2000, Pro-One, MS2000, Juno 6, Korg M1, roland tb303
+- Better Drum pres
