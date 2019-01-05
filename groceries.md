@@ -2,9 +2,11 @@
 
 - butter
 - coffee
+- #2 filters
+- milk
+- eggs
 - broccoli
 - bananas
-- eggs
 - bbq sauce
 - pickles
 - shells/penne
@@ -16,7 +18,6 @@
 - med & large ziplock bags
 - grapeseed oil
 - olive oil
-- Draino
 - toilet bowl cleaner
 - all purpose cleaner
 
