@@ -1,7 +1,10 @@
 # Wishlist
 
+- 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
+- High Lighters (home & space)
+- Metal ruler x2
 - 3/4" console tape and/or scribble tape
-- Rode SC4 for plugging ipda and mixer
+- Rode SC4 for plugging ipad and mixer
 - Brabantia waste bin
 - Packable hat
 - Another headlamp & PETZL core battery x2
@@ -36,12 +39,13 @@
 
 ## Rehersal space
 
+- On stage tiny base mic stand x3 (amps, Room)
+- Short boom stand K&M 259, 25960 or On stage x2 (snare top, floor tom)
+- Amp clamp or similar (amps)
 - Vic Firth American Classic 5A sticks
 - 18db Inline attenuator x4
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
-- Amp clamp or similar (amps)
-- On stage tiny base mic stand x3 (amps, Room)
 
 --
 
@@ -75,8 +79,6 @@
   - Telefunken M60 (Snare top)
   - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
-- Tiny desktop mic stand (room)
-- K&M 259 or 25960 x2 (snare top, floor tom)
 - K&M 210/8 or 252 or 26145 (rack tom)
 - K&M 210/8 or 21021 x2 (OH)
 - Boom stand for Wurst
