@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Send to Matt Hills: [Beat detective](https://www.youtube.com/watch?v=p6ePSB-4ugE)
 - SJ recording
 - $182 itinerary conf # 740-0806-616-917
 - Wedding thank yous
