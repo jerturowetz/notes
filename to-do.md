@@ -144,3 +144,5 @@
   - [Behat autmated testing](http://behat.org/en/latest/)
   - [Even more and better wordpress testing](http://wptest.io/)
   - [10up wp_mock](https://github.com/10up/wp_mock)
+  - [Customizing the WordPress Query](https://www.billerickson.net/customize-the-wordpress-query/)
+  - [How to Use One Query to Run Multiple Loops](https://premium.wpmudev.org/blog/how-to-use-one-query-to-run-multiple-loops/)
