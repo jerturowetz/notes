@@ -1,27 +1,50 @@
 # Groceries
 
-- butter
-- coffee
-- #2 filters
+- Plain greek yogurt
+- Shreddies
+- Honey
+- Lemonade/Juice
+- Perrier
+- Dijon Mustard
+- Soy Sauce
+- Jam
+- brown bread
+- Montreal Bagels & smoke salmon
 - milk
+- butter
+- #2 filters
 - eggs
 - lemons
+- Raddishes
+- Apples
+- Red onion
+- Ketchup
 - garlic
-- broccoli
-- bananas
+- Bag of carrots
+- Kaft Singles
 - bbq sauce
 - pickles
 - shells/penne
 - KD x2
+- flour
 - some type of fish
-- banana bread ingredients
-- Mexican chili powder
+- Meat to freeze
+- Meat for chicken soups
+- Noodles for chicken soups
 - Basil pesto
 - med & large ziplock bags
+- Sesame Oil
 - grapeseed oil
 - olive oil
 - toilet bowl cleaner
 - all purpose cleaner
+- draino
+
+## Spice store
+
+- Mexican chili powder
+- Rosemary
+- Thyme
 
 ## Butcher
 
