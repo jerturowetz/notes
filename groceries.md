@@ -1,41 +1,41 @@
 # Groceries
 
-- Plain greek yogurt
+- Veg:
+  - Lemonade/Juice
+  - garlic
+  - Bag of carrots
+  - lemons
+  - Raddishes
+  - Apples
+  - Red onion
+  - Tomatoes
+- Dairy:
+  - Kaft Singles
+  - Plain greek yogurt
+  - butter
+- Meats etc:
+  - some type of fish?
+  - Meat to freeze?
+  - Meat for chicken soups
+  - Noodles for chicken soups
+  - Montreal Bagels & smoke salmon
 - Shreddies
 - Honey
-- Lemonade/Juice
-- Perrier
 - Dijon Mustard
 - Soy Sauce
 - Jam
-- brown bread
-- Montreal Bagels & smoke salmon
-- milk
-- butter
 - #2 filters
-- eggs
-- lemons
-- Raddishes
-- Apples
-- Red onion
 - Ketchup
-- garlic
-- Bag of carrots
-- Kaft Singles
 - bbq sauce
 - pickles
 - shells/penne
 - KD x2
 - flour
-- some type of fish
-- Meat to freeze
-- Meat for chicken soups
-- Noodles for chicken soups
-- Basil pesto
-- med & large ziplock bags
 - Sesame Oil
 - grapeseed oil
 - olive oil
+- Perrier
+- med & large ziplock bags
 - toilet bowl cleaner
 - all purpose cleaner
 - draino
