@@ -1,8 +1,12 @@
 # Wishlist
 
-Also build a dual xlr balanced cable, long enough
-maybe some short ones too
-
+- Thunderbolt dongle/dock for desktop setup:
+  - USBx2 back 1 front
+  - power for xps
+  - dual monitor (DP or HDMI, whatever)
+  - Power
+  - Network
+  - AUdio
 - 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
 - High Lighters (home & space)
 - Metal ruler x2
@@ -14,9 +18,12 @@ maybe some short ones too
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- $500-600 thunderbolt eGPU setup
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
-- [USBC to HDMI adaptor](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
+- USBC to HDMI adaptors:
+  - [Heres one](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
+  - [And another](https://www.amazon.com/Adapter-Converters-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
@@ -51,6 +58,8 @@ maybe some short ones too
 - Vic Firth or 3M isolation headphones
 
 --
+
+Also build dual xlr balanced cables 1 long 1 short
 
 - Redco order:
   - $80us Canare L-4E6S Quad mic Cable x60'
