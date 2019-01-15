@@ -1,5 +1,8 @@
 # Wishlist
 
+Also build a dual xlr balanced cable, long enough
+maybe some short ones too
+
 - 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
 - High Lighters (home & space)
 - Metal ruler x2
