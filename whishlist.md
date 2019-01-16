@@ -1,12 +1,10 @@
 # Wishlist
 
-- Thunderbolt dongle/dock for desktop setup:
-  - USBx2 back 1 front
-  - power for xps
-  - dual monitor (DP or HDMI, whatever)
-  - Power
-  - Network
-  - Audio
+- $600 GIGABYTE Gaming Box RX 580 8G
+- $20 AmazonBasics USB 3.0 to Gigabit Ethernet
+- USBC to HDMI adaptors:
+  - [Heres one](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
+  - [And another](https://www.amazon.com/Adapter-Converters-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3)
 - 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
 - High Lighters (home & space)
 - Metal ruler x2
@@ -18,12 +16,8 @@
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- $500-600 thunderbolt eGPU setup
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
-- USBC to HDMI adaptors:
-  - [Heres one](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-  - [And another](https://www.amazon.com/Adapter-Converters-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
