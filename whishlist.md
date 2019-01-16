@@ -6,7 +6,7 @@
   - dual monitor (DP or HDMI, whatever)
   - Power
   - Network
-  - AUdio
+  - Audio
 - 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
 - High Lighters (home & space)
 - Metal ruler x2
