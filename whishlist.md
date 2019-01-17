@@ -1,15 +1,15 @@
 # Wishlist
 
 - $600 GIGABYTE Gaming Box RX 580 8G
+- $100 500GB SSD for laptop
 - $20 AmazonBasics USB 3.0 to Gigabit Ethernet
-- USBC to HDMI adaptors:
-  - [Heres one](https://www.amazon.ca/Adaptor%EF%BC%8C-Multiport-Charging-ChromeBook-Converter/dp/B07G82ZW1D/)
-  - [And another](https://www.amazon.com/Adapter-Converters-Adaptor-Macbook-Chromebook/dp/B074HZMCQ3)
+
 - 8.5" x 11" & 8.5" x 5.5" notebooks (home & space)
 - High Lighters (home & space)
 - Metal ruler x2
 - 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipad and mixer
+
 - Brabantia waste bin
 - Packable hat
 - Another headlamp & PETZL core battery x2
@@ -44,7 +44,7 @@
 ## Rehersal space
 
 - On stage tiny base mic stand x3 (amps, Room)
-- Short boom stand K&M 259, 25960 or On stage x2 (snare top, floor tom)
+- Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
 - Amp clamp or similar (amps)
 - Vic Firth American Classic 5A sticks
 - 18db Inline attenuator x4

@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Book a haircut
 - REF for broken EQ 459-26
 - Send to Matt Hills: [Beat detective](https://www.youtube.com/watch?v=p6ePSB-4ugE)
 - SJ recording
