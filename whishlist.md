@@ -9,7 +9,7 @@
 - Metal ruler x2
 - 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipad and mixer
-
+- $50 eju from bettys toy box
 - Brabantia waste bin
 - Packable hat
 - Another headlamp & PETZL core battery x2
