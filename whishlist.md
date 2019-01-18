@@ -36,6 +36,7 @@
 
 ## Rehersal space
 
+- BSS FCS-960 EQ
 - Vic Firth American Classic 5A sticks
 - 18db Inline attenuator x4
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
@@ -57,17 +58,21 @@
   - Audio Technica 4040 &/or 4050 (Room)
   - AKG D112
   - Kick out?
-
-- K&M 210/8 or 252 or 26145 (rack tom)
-- K&M 210/8 or 21021 x2 (OH)
-- Boom stand for Wurst
-- desktop mic stand (for holding solder) (on-stage ds8200)
-- On stage tiny base mic stand x3 (amps, Room)
-- Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
+- Mic stands
+  - K&M 210/8 or 252 or 26145 (rack tom)
+  - K&M 210/8 or 21021 x2 (OH)
+  - Boom stand for Wurst
+  - Desktop mic stand (for holding solder) (on-stage ds8200)
+  - On stage tiny base mic stand x3 (amps, Room)
+  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
 
 --
 
 Also build dual xlr balanced cables 1 long 1 short
+rca male to 3.5mm fem adaptor
+3.5mm male to rca fem
+3.5mm male to 1/4" TS 15'
+3.5mm to dual rca F
 
 - Redco order:
   - $80us Canare L-4E6S Quad mic Cable x60'
