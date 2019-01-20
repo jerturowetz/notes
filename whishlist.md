@@ -1,5 +1,6 @@
 # Wishlist
 
+- USBc to Something USB & VGA (power?)
 - $600 GIGABYTE Gaming Box RX 580 8G
 - $100 500GB SSD for laptop
 - $20 AmazonBasics USB 3.0 to Gigabit Ethernet
@@ -38,7 +39,6 @@
 
 - BSS FCS-960 EQ
 - Vic Firth American Classic 5A sticks
-- 18db Inline attenuator x4
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
 - 8.5" x 11" & 8.5" x 5.5" notebooks
@@ -110,3 +110,4 @@ rca male to 3.5mm fem adaptor
 - Guitar amp
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - Ludwig Supraphonic 14" x 6.5"
+- Small portable sound card (red, rme, maudio?)

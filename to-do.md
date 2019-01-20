@@ -1,8 +1,7 @@
 # Jer's To-Do List
 
-- Book a haircut
+- Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
-- Send to Matt Hills: [Beat detective](https://www.youtube.com/watch?v=p6ePSB-4ugE)
 - SJ recording
 - $182 itinerary conf # 740-0806-616-917
 - Wedding thank yous
