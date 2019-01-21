@@ -37,6 +37,8 @@
 
 ## Rehersal space
 
+- More Ikea open bins
+- usbc vga (?power)
 - BSS FCS-960 EQ
 - Vic Firth American Classic 5A sticks
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
@@ -44,13 +46,10 @@
 - 8.5" x 11" & 8.5" x 5.5" notebooks
 - High Lighters
 - Metal ruler x2
-- Hand soap, tp, Paper towels
-- More Ikea open bins
-- usbc vga (?power)
 - furman plug lock (travis)
 - 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipad and mixer
-- $30 Behringer MICROAMP HA400 Headphone Amp or othet temp headphone amp
+- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp
 - Missing mics for drums:
   - 2020 for 2nd OH
   - Telefunken M60 (Snare top)

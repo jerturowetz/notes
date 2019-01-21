@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Bring Tp, soap & paper towels to the space
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 - SJ recording
