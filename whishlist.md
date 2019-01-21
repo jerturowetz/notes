@@ -37,6 +37,7 @@
 
 ## Rehersal space
 
+- Something for smell in space
 - More Ikea open bins
 - usbc vga (?power)
 - BSS FCS-960 EQ
