@@ -1,5 +1,7 @@
 # Wishlist
 
+- can opener
+- abrasive xloths
 - USBc to Something USB & VGA (power?)
 - $600 GIGABYTE Gaming Box RX 580 8G
 - $100 500GB SSD for laptop
