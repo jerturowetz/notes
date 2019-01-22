@@ -42,7 +42,7 @@
 - $3/person/day - PDF (50 deposit)
 - $10/day - 60L Barrel pack (50 deposit)
 
-## Gear-up
+## Gear-up (summer/3 season items)
 
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
@@ -53,7 +53,23 @@
   - Knives, spatula, spoon
 - Canoe bag(s)
 - Old-style sealine or sea-to-summit dry bags
-- Sea to summit event compression/dry sacks S,S,M (have an XL)
-- Coated silnylon stuff sack dedicated for fuel
-- 8-ounce-size baby bottle liner (Playtex Nurser System Soft Bottle Liner)
+- Sea to summit event compression/dry sacks S,S,M,M (have an XL)
 - MSR replcaemnt o-rings (like a dozen)
+
+walkies/emergency radio
+solar charger
+headlamp
+Another tent
+sleeping bag
+sleeping pad
+Darn tough socks x3
+long underwear top & bottom
+sweater thing (sleece, wool, something with a collar)
+Fleece/wool vest
+clothes (shorts, shirts)
+packable down something
+rain gear top & bottom
+windbreaker top
+summer hat
+hiking boots
+water shoes
