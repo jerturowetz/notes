@@ -1,6 +1,6 @@
 # Wishlist
 
-- can opener
+- Can opener
 - abrasive xloths
 - USBc to Something USB & VGA (power?)
 - $600 GIGABYTE Gaming Box RX 580 8G
@@ -113,3 +113,38 @@ rca male to 3.5mm fem adaptor
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - Ludwig Supraphonic 14" x 6.5"
 - Small portable sound card (red, rme, maudio?)
+
+## Canoe camping (3 season)
+
+- $55 MSR Hubba Hubba NX Footprint
+- $20 MSR Groundhog Tent Stake Kit
+
+
+
+- Mess kit:
+  - MSR Alpine 4 pot set
+  - plates/cups set
+  - Tarp
+  - Knives, spatula, spoon
+- Canoe bag(s)
+- Old-style sealine or sea-to-summit dry bags
+- Sea to summit event compression/dry sacks S,S,M,M (have an XL)
+- MSR replcaemnt o-rings (like a dozen)
+
+walkies/emergency radio
+solar charger
+headlamp
+Another tent
+sleeping bag
+sleeping pad
+Darn tough socks x3
+long underwear top & bottom
+sweater thing (sleece, wool, something with a collar)
+Fleece/wool vest
+clothes (shorts, shirts)
+packable down something
+rain gear top & bottom
+windbreaker top
+summer hat
+hiking boots
+water shoes
