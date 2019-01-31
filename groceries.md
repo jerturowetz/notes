@@ -1,11 +1,13 @@
 # Groceries
 
-- Oj
-- Shreddies
+- kraft cheese
+- potatoes
+- english muffins
+- OJ
+- meats
 
 ## Spice store
 
-- Mexican chili powder
 - Rosemary
 - Thyme
 
