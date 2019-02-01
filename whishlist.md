@@ -15,6 +15,7 @@
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- Logitech C920 or C922 webcam
 
 ## Kate
 
@@ -118,33 +119,27 @@ rca male to 3.5mm fem adaptor
 
 - $55 MSR Hubba Hubba NX Footprint
 - $20 MSR Groundhog Tent Stake Kit
-
-
+- Canoe bag(s)
+- Old-style sealine or sea-to-summit dry bags
+- Sea to summit event compression/dry sacks S,S,M,M (have an XL)
+- MSR replcaemnt o-rings (a dozen or so)
+- Another tent
+- Sleeping bag
+- Sleeping pad
 
 - Mess kit:
   - MSR Alpine 4 pot set
   - plates/cups set
-  - Tarp
+  - minimalist tarp with holes everywhere
   - Knives, spatula, spoon
-- Canoe bag(s)
-- Old-style sealine or sea-to-summit dry bags
-- Sea to summit event compression/dry sacks S,S,M,M (have an XL)
-- MSR replcaemnt o-rings (like a dozen)
-
-walkies/emergency radio
-solar charger
-headlamp
-Another tent
-sleeping bag
-sleeping pad
-Darn tough socks x3
-long underwear top & bottom
-sweater thing (sleece, wool, something with a collar)
-Fleece/wool vest
-clothes (shorts, shirts)
-packable down something
-rain gear top & bottom
-windbreaker top
-summer hat
-hiking boots
-water shoes
+- Clothes:
+  - Darn tough socks x3
+  - long underwear top & bottom
+  - sweater thing (sleece, wool, something with a collar)
+  - Fleece/wool vest
+  - clothes (shorts, shirts)
+  - packable down something
+  - rain gear top & bottom
+  - windbreaker top
+  - hiking boots
+  - Hat
