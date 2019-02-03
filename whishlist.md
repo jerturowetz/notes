@@ -2,10 +2,8 @@
 
 - Can opener
 - abrasive xloths
-- USBc to Something USB & VGA (power?)
-- $600 GIGABYTE Gaming Box RX 580 8G
+- usbc & vga for practice soace
 - $100 500GB SSD for laptop
-- $20 AmazonBasics USB 3.0 to Gigabit Ethernet
 - $50 eju from bettys toy box
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
@@ -21,6 +19,8 @@
 
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
+- Danny's Coiffure (t shirt)
+- aveda products
 
 ## Crashes
 
