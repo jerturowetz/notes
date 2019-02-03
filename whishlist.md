@@ -1,5 +1,6 @@
 # Wishlist
 
+- Layrite hair stuff
 - Can opener
 - abrasive xloths
 - USBc to Something USB & VGA (power?)

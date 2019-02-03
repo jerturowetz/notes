@@ -1,10 +1,20 @@
 # Groceries
 
+- qtips
+- hand soap
+- paper towels
+- milk
+- bleach
+- washer soap
+- meats
+- green leaf
+- green veg
+- orange veg
+- sugar
 - kraft cheese
 - potatoes
 - english muffins
 - OJ
-- meats
 
 ## Spice store
 
