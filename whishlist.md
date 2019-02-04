@@ -48,7 +48,7 @@
 - 8.5" x 11" & 8.5" x 5.5" notebooks
 - High Lighters
 - Metal ruler x2
-- furman plug lock (travis)
+- Furman plug lock (travis)
 - 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipad and mixer
 - $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp
@@ -69,18 +69,15 @@
 
 --
 
-Also build dual xlr balanced cables 1 long 1 short
-rca male to 3.5mm fem adaptor
-3.5mm male to rca fem
-3.5mm male to 1/4" TS 15'
-3.5mm to dual rca F
-
 - Redco order:
   - $80us Canare L-4E6S Quad mic Cable x60'
   - 12 channel cable for floor snake
   - 12-16 channel cable for trs snake
   - balanced medium light cable (for 8 short cables & spare)
 - Mouser order:
+  - dual RCA M to 3.5mm F adaptor
+  - dual RCA F to 3.5mm M adaptor
+  - dual RCA M to dual 1/4" TS 15'
   - Neutrik NJ3FC6-BAG x2 (headphone ext)
   - Neutrik NP3X (headphones)
   - Neutrik NC3MXX-BAG x4
@@ -90,6 +87,12 @@ rca male to 3.5mm fem adaptor
   - Neutrik NP3X x8 (patches)
   - Neutrik NP3X x24-32 (trs snake)
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4 (floor snake)
+
+Also build dual xlr balanced cables 1 long (50'), 2 short (5'):
+
+- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x60'
+- Neutrik NC3MXX x6
+- Neutrik NC3FXX x6
 
 ### Other
 
