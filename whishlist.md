@@ -3,7 +3,6 @@
 - Layrite hair stuff
 - Can opener
 - abrasive cloths
-- usbc & vga for practice soace
 - $100 500GB SSD for laptop
 - $?? rest of PC stuff and $50 eju from bettys toy box
 - Brabantia waste bin
@@ -14,7 +13,6 @@
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Logitech C920 or C922 webcam
 
 ## Kate
 
@@ -43,7 +41,6 @@
 
 - Something for smell in space
 - More Ikea open bins
-- usbc vga (?power)
 - BSS FCS-960 EQ
 - Vic Firth American Classic 5A sticks
 - Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
