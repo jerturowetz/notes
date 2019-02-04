@@ -6,9 +6,6 @@
 - [Italian chicken sandwich](https://www.thekitchn.com/recipe-italian-chicken-salad-sandwiches-80069)
 - [Sweet potato wraps](https://www.thekitchn.com/recipe-roasted-sweet-potato-wraps-with-caramelized-onions-and-pesto-167367)
 - BBQ Duck & fried vegetables
-
-## Review
-
 - [Dutch ooven ideas](https://www.thekitchn.com/use-your-dutch-oven-20-dinner-recipes-to-make-right-now-240183)
 - [How to flatten a chicken](https://recipesorreservations.com/2012/08/06/how-to-split-and-flatten-a-chicken-for-grilling/)
 - [Lunch ideas](https://www.thekitchn.com/how-to-only-eat-a-bunch-snacks-for-lunch-260407)
@@ -32,4 +29,3 @@
 - [Beef Barbacoa](https://www.seriouseats.com/2012/04/better-than-chipotles-beef-barbacoa-tacos.html)
 - [Bakd red lentil falafel salad](https://www.thekitchn.com/recipe-baked-red-lentil-falafel-salad-recipes-from-the-kitchn-201268)
 - [Tofu & broccoli salad w/peanut butter dressing](https://www.thekitchn.com/recipe-peanut-butter-broccoli-and-tofu-salad-232445)
-- [Instan noodle cups](https://www.thekitchn.com/how-to-make-diy-instant-noodle-cups-222560#_)
