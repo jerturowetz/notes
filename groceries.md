@@ -2,7 +2,6 @@
 
 - qtips
 - Cleaning sprays for jam space
-
 - washer soap
 - meats
 - green leaf
