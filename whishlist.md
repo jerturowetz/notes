@@ -2,10 +2,10 @@
 
 - Layrite hair stuff
 - Can opener
-- abrasive xloths
+- abrasive cloths
 - usbc & vga for practice soace
 - $100 500GB SSD for laptop
-- $50 eju from bettys toy box
+- $?? rest of PC stuff and $50 eju from bettys toy box
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
