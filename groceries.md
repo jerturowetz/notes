@@ -1,19 +1,13 @@
 # Groceries
 
 - qtips
-- hand soap
-- paper towels
-- milk
-- bleach
+- Cleaning sprays for jam space
+
 - washer soap
 - meats
 - green leaf
-- green veg
-- orange veg
-- sugar
-- kraft cheese
+- Crappy white bread/english muffins
 - potatoes
-- english muffins
 - OJ
 
 ## Spice store
