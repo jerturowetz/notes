@@ -1,30 +1,12 @@
 # Wishlist
 
---
-
-## REVIEW
-
-- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp
+- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp (over bal?>)
 - Stereo to Stereo cable & mic stand clamp/tray
-
-- Vic Firth American Classic 5A sticks
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
-- Vic Firth or 3M isolation headphones
-- 8.5" x 11" & 8.5" x 5.5" notebooks
-- High Lighters
-- Metal ruler x2
-- 3/4" console tape and/or scribble tape
-- Rode SC4 for plugging ipad and mixer
-- Something for smell in space
-- More Ikea open bins
-
---
-
 - Layrite hair stuff
 - Can opener
 - abrasive cloths
 - $100 500GB SSD for laptop
-- $?? rest of PC stuff and $50 eju from bettys toy box
+- $50 eju from bettys toy box
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
@@ -39,7 +21,8 @@
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t shirt)
-- aveda products
+- Aveda products
+- Choker
 
 ## Crashes
 
@@ -59,6 +42,16 @@
 
 ## Rehersal space
 
+- Vic Firth American Classic 5A sticks
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- Vic Firth or 3M isolation headphones
+- 8.5" x 11" & 8.5" x 5.5" notebooks
+- High Lighters
+- Metal ruler x2
+- 3/4" console tape and/or scribble tape
+- Rode SC4 for plugging ipad and mixer
+- Something for smell in space
+- More Ikea open bins
 - Missing mics for drums:
   - 2020 for 2nd OH
   - Telefunken M60 (Snare top)
