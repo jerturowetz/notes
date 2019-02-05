@@ -1,12 +1,16 @@
 # Jer's To-Do List
 
-- Book st marys apt
-- dall david re pediatrician
+- old-style musician people and their hangers on
+- Find a newborn carseat/stroller/system
+- Wedding thank yous
+- Book st marys apt 
+- Call david re pediatrician
+- Log in to day care list
+- Kate push present
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 - SJ recording
 - $182 itinerary conf # 740-0806-616-917
-- Wedding thank yous
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
@@ -23,17 +27,17 @@
 
 - ~~Joyce~~
 - ~~Riva~~
-- ~~randee~~
-- ~~gary~~
-- matthew
-- maureen
-- linda
+- ~~Randee~~
+- ~~Gary~~
+- Matthew
+- Maureen
+- Linda
 - Nancy
 - Carol
-- cousin carol
-- pearl
-- tom
-- kyla
+- Cousin carol
+- Pearl
+- Tom
+- Kyla
 
 ## Psych help
 

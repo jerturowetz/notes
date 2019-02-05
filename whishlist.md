@@ -1,5 +1,25 @@
 # Wishlist
 
+--
+
+## REVIEW
+
+- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp
+- Stereo to Stereo cable & mic stand clamp/tray
+
+- Vic Firth American Classic 5A sticks
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- Vic Firth or 3M isolation headphones
+- 8.5" x 11" & 8.5" x 5.5" notebooks
+- High Lighters
+- Metal ruler x2
+- 3/4" console tape and/or scribble tape
+- Rode SC4 for plugging ipad and mixer
+- Something for smell in space
+- More Ikea open bins
+
+--
+
 - Layrite hair stuff
 - Can opener
 - abrasive cloths
@@ -39,19 +59,6 @@
 
 ## Rehersal space
 
-- Something for smell in space
-- More Ikea open bins
-- BSS FCS-960 EQ
-- Vic Firth American Classic 5A sticks
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
-- Vic Firth or 3M isolation headphones
-- 8.5" x 11" & 8.5" x 5.5" notebooks
-- High Lighters
-- Metal ruler x2
-- Furman plug lock (travis)
-- 3/4" console tape and/or scribble tape
-- Rode SC4 for plugging ipad and mixer
-- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp
 - Missing mics for drums:
   - 2020 for 2nd OH
   - Telefunken M60 (Snare top)
@@ -69,52 +76,51 @@
 
 --
 
+Drop snake #1: 8 XLR, 4 TRS return
+
 - Redco order:
-  - $80us Canare L-4E6S Quad mic Cable x60'
-  - 12 channel cable for floor snake
-  - 12-16 channel cable for trs snake
-  - balanced medium light cable (for 8 short cables & spare)
+  - $80us RED Canare L-4E6S Quad mic Cable x60' (4 cables)
+  - 12 channel cable for floor snake (kijiji?)
+  - balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
+
 - Mouser order:
   - dual RCA M to 3.5mm F adaptor
   - dual RCA F to 3.5mm M adaptor
-  - dual RCA M to dual 1/4" TS 15'
-  - Neutrik NJ3FC6-BAG x2 (headphone ext)
-  - Neutrik NP3X (headphones)
-  - Neutrik NC3MXX-BAG x4
-  - Neutrik NC3FXX-BAG x4
-  - Neutrik NC3MXX x4
-  - Neutrik NC3FXX x4
+  - Neutrik NJ3FC6-BAG x2 (for headphone ext repairs)
+  - Neutrik NP3X (for vic firth headphone repair)
+  - Neutrik NC3MXX-BAG x4 (red cables)
+  - Neutrik NC3FXX-BAG x4 (red cables)
   - Neutrik NP3X x8 (patches)
-  - Neutrik NP3X x24-32 (trs snake)
+  - Neutrik NC3MXX x4 (patches)
+  - Neutrik NC3FXX x4 (patches)
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4 (floor snake)
 
-Also build dual xlr balanced cables 1 long (50'), 2 short (5'):
+Also build dual xlr balanced cables 1 long (50'), 2 short (10'):
 
-- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x60'
+- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x70'
 - Neutrik NC3MXX x6
 - Neutrik NC3FXX x6
 
 ### Other
 
-- In ear system
+- BSS FCS-960 EQ
+- In ear system (Hearback)
 - Floor tom 16"
 - Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
 - Little bit of foam for top of overheads
 - Good powered mon (EV ZLX-12P or QSC K10/k12)
-- $450 Radial Key Largo (for Travis main)
-- Various DIs (bass, keys, guitar) def a PRO DI
+- Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
 - $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
+- Furman plug lock (travis)
 - Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
 - Screwdriver set
-- nut driver set
+- Nut driver set
 - Velcro wire wraps
 - IEC-6X4 (short power cords) x4
-- small battery power drill (rack screws/guitar winding)
-- Guitar amp
+- Small power drill (rack screws/guitar winding)
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - Ludwig Supraphonic 14" x 6.5"
-- Small portable sound card (red, rme, maudio?)
 
 ## Canoe camping (3 season)
 
