@@ -1,11 +1,10 @@
 # Jer's To-Do List
 
 - old-style musician people and their hangers on
-- Find a newborn carseat/stroller/system
 - Wedding thank yous
-- Book st marys apt 
-- Call david re pediatrician
+- Book st marys apt
 - Log in to day care list
+- Find a newborn carseat/stroller/system
 - Kate push present
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26

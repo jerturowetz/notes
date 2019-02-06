@@ -1,10 +1,7 @@
 # Wishlist
 
-- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp (over bal?>)
-- Stereo to Stereo cable & mic stand clamp/tray
-- Layrite hair stuff
-- Can opener
-- abrasive cloths
+- $30 Behringer MICROAMP HA400 Headphone Amp
+- Stereo to Stereo cable & mic stand mounting plate (FEMALE)
 - $100 500GB SSD for laptop
 - $50 eju from bettys toy box
 - Brabantia waste bin
@@ -15,6 +12,34 @@
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
+
+## Cables
+
+Patches & repairs:
+
+- Balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
+- Neutrik NJ3FC6 x2 (for headphone ext repairs)
+- Neutrik NP3X x2 (for vic firth headphone repair)
+- Neutrik NP3X x8 (patches)
+- Neutrik NC3MXX x4 (patches)
+- Neutrik NC3FXX x4 (patches)
+
+More cables:
+
+- $160 RED Canare L-4E6S Quad mic Cable x120' (8 cables)
+- Neutrik NC3MXX-BAG x8 (red cables)
+- Neutrik NC3FXX-BAG x8 (red cables)
+
+Fix and complete drop snake (8 send, 4 ret):
+
+- Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+- 12 channel cable for floor snake
+
+xlr balanced pairs (50'x1, 10'x2):
+
+- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x70'
+- Neutrik NC3MXX x6
+- Neutrik NC3FXX x6
 
 ## Kate
 
@@ -67,35 +92,10 @@
   - On stage tiny base mic stand x3 (amps, Room)
   - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
 
---
-
-Drop snake #1: 8 XLR, 4 TRS return
-
-- Redco order:
-  - $80us RED Canare L-4E6S Quad mic Cable x60' (4 cables)
-  - 12 channel cable for floor snake (kijiji?)
-  - balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
-
-- Mouser order:
-  - dual RCA M to 3.5mm F adaptor
-  - dual RCA F to 3.5mm M adaptor
-  - Neutrik NJ3FC6-BAG x2 (for headphone ext repairs)
-  - Neutrik NP3X (for vic firth headphone repair)
-  - Neutrik NC3MXX-BAG x4 (red cables)
-  - Neutrik NC3FXX-BAG x4 (red cables)
-  - Neutrik NP3X x8 (patches)
-  - Neutrik NC3MXX x4 (patches)
-  - Neutrik NC3FXX x4 (patches)
-  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4 (floor snake)
-
-Also build dual xlr balanced cables 1 long (50'), 2 short (10'):
-
-- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x70'
-- Neutrik NC3MXX x6
-- Neutrik NC3FXX x6
-
 ### Other
 
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
 - BSS FCS-960 EQ
 - In ear system (Hearback)
 - Floor tom 16"
