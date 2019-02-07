@@ -1,13 +1,12 @@
 # Groceries
 
-- qtips
+- Q-tips
 - Cleaning sprays for jam space
-- washer soap
+- Washer soap
 - meats
 - green leaf
-- Crappy white bread/english muffins
 - potatoes
-- OJ
+- Cheese
 
 ## Spice store
 
