@@ -15,6 +15,9 @@
 
 ## Cables
 
+[Studiowiring.com](http://www.studiowiring.com/)
+[Custom DB25 Snakes](https://www.proaudiola.com/product-p/8-m2932-db-custom-2-p.htm)
+
 Patches & repairs:
 
 - Balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
