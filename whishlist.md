@@ -2,6 +2,9 @@
 
 - iphone cable for space
 - Hadn cream, advil, hand sanitizer for space
+- Office calendar with multiple months for jam space
+- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp (over bal?>)
+- Stereo to Stereo cable & mic stand clamp/tray
 - $30 Behringer MICROAMP HA400 Headphone Amp
 - Stereo to Stereo cable & mic stand mounting plate (FEMALE)
 - $100 500GB SSD for laptop
