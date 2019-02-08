@@ -1,10 +1,8 @@
 # Wishlist
 
+- Office calendar with multiple months for jam space
 - $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp (over bal?>)
 - Stereo to Stereo cable & mic stand clamp/tray
-- Layrite hair stuff
-- Can opener
-- abrasive cloths
 - $100 500GB SSD for laptop
 - $50 eju from bettys toy box
 - Brabantia waste bin
