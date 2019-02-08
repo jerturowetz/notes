@@ -1,12 +1,18 @@
 # Groceries
 
+- n/a beer
+- Hadn cream, advil, hand sanitizer for space
 - Q-tips
 - Cleaning sprays for jam space
 - Washer soap
 - meats
-- green leaf
+- green leaf (kale, argugula)
 - potatoes
 - Cheese
+- Apples
+- Bananas
+- Butter
+- Milk
 
 ## Spice store
 
