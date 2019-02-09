@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- 438-992-2557
+- 925PRESTIGE
 - old-style musician people and their hangers on
 - Wedding thank yous
 - Book st marys apt
