@@ -1,17 +1,14 @@
 # Jer's To-Do List
 
-- 438-992-2557
-- 925PRESTIGE
+- Allen Heath mixer repair stereo channels (all but 11 are fucky)
+- REF for broken EQ 459-26
 - old-style musician people and their hangers on
 - Wedding thank yous
 - Book st marys apt
 - Log in to day care list
 - Find a newborn carseat/stroller/system
 - Kate push present
-- Allen Heath mixer repair stereo channels (all but 11 are fucky)
-- REF for broken EQ 459-26
 - SJ recording
-- $182 itinerary conf # 740-0806-616-917
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
@@ -23,6 +20,11 @@
 - Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
+
+## Carrie's party info
+
+- 438-992-2557
+- 925PRESTIGE
 
 ## Call re pregnancy
 

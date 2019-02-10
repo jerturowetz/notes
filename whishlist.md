@@ -1,13 +1,5 @@
 # Wishlist
 
-- iphone cable for space
-- Office calendar with multiple months for jam space
-- $30 Behringer MICROAMP HA400 Headphone Amp or other temp headphone amp (over bal?>)
-- Stereo to Stereo cable & mic stand clamp/tray
-- $30 Behringer MICROAMP HA400 Headphone Amp
-- Stereo to Stereo cable & mic stand mounting plate (FEMALE)
-- $100 500GB SSD for laptop
-- $50 eju from bettys toy box
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
@@ -17,10 +9,15 @@
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
-## Cables
+## Kate
 
-[Studiowiring.com](http://www.studiowiring.com/)
-[Custom DB25 Snakes](https://www.proaudiola.com/product-p/8-m2932-db-custom-2-p.htm)
+- Deering goodtime banjo
+- Santiago Ramon Y Cajal Art
+- Danny's Coiffure (t shirt)
+- Aveda products
+- Choker
+
+## Cables
 
 Patches & repairs:
 
@@ -42,19 +39,54 @@ Fix and complete drop snake (8 send, 4 ret):
 - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
 - 12 channel cable for floor snake
 
-xlr balanced pairs (50'x1, 10'x2):
+## Rehersal space
 
-- Mogami W3106 or Gotham GAC-2prflt Dual balanced line cable x70'
-- Neutrik NC3MXX x6
-- Neutrik NC3FXX x6
-
-## Kate
-
-- Deering goodtime banjo
-- Santiago Ramon Y Cajal Art
-- Danny's Coiffure (t shirt)
-- Aveda products
-- Choker
+- iPhone cable for space
+- Ziplock bags
+- Shoe storage
+- Pegboard hooks for tape
+- larger size IKEA bins
+- More Ikea open bins
+- Office calendar with multiple months for jam space
+- Vic Firth American Classic 5A sticks
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- Vic Firth or 3M isolation headphones
+- 8.5" x 11" & 8.5" x 5.5" notebooks
+- High Lighters
+- Metal ruler x2
+- 3/4" console tape and/or scribble tape
+- Rode SC4 for plugging ipad and mixer
+- Something for smell in space
+- Missing mics for drums:
+  - 2020 for 2nd OH
+  - Telefunken M60 (Snare top)
+  - EV 635A (floor)
+  - Audio Technica 4040 &/or 4050 (Room)
+  - AKG D112
+  - Kick out?
+- Mic stands
+  - K&M 210/8 or 252 or 26145 (rack tom)
+  - K&M 210/8 or 21021 x2 (OH)
+  - Boom stand for Wurst
+  - Desktop mic stand (for holding solder) (on-stage ds8200)
+  - On stage tiny base mic stand x3 (amps, Room)
+  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
+- BSS FCS-960 EQ
+- In ear system (Hearback)
+- Primacoustic CrashGuard x2
+- Primacoustic CrashGuard 421 x2
+- Little bit of foam for top of overheads
+- Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
+- $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
+- Screwdriver set
+- Nut driver set
+- Velcro wire wraps
+- IEC-6X4 (short power cords) x4
+- Small power drill (rack screws/guitar winding)
+- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 
 ## Crashes
 
@@ -72,56 +104,6 @@ xlr balanced pairs (50'x1, 10'x2):
 - 22" K dark medium ride
 - 22" A Medium Ride
 
-## Rehersal space
-
-- Vic Firth American Classic 5A sticks
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
-- Vic Firth or 3M isolation headphones
-- 8.5" x 11" & 8.5" x 5.5" notebooks
-- High Lighters
-- Metal ruler x2
-- 3/4" console tape and/or scribble tape
-- Rode SC4 for plugging ipad and mixer
-- Something for smell in space
-- More Ikea open bins
-- Missing mics for drums:
-  - 2020 for 2nd OH
-  - Telefunken M60 (Snare top)
-  - EV 635A (floor)
-  - Audio Technica 4040 &/or 4050 (Room)
-  - AKG D112
-  - Kick out?
-- Mic stands
-  - K&M 210/8 or 252 or 26145 (rack tom)
-  - K&M 210/8 or 21021 x2 (OH)
-  - Boom stand for Wurst
-  - Desktop mic stand (for holding solder) (on-stage ds8200)
-  - On stage tiny base mic stand x3 (amps, Room)
-  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
-
-### Other
-
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
-- BSS FCS-960 EQ
-- In ear system (Hearback)
-- Floor tom 16"
-- Primacoustic CrashGuard x2
-- Primacoustic CrashGuard 421 x2
-- Little bit of foam for top of overheads
-- Good powered mon (EV ZLX-12P or QSC K10/k12)
-- Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
-- $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
-- Furman plug lock (travis)
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Screwdriver set
-- Nut driver set
-- Velcro wire wraps
-- IEC-6X4 (short power cords) x4
-- Small power drill (rack screws/guitar winding)
-- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- Ludwig Supraphonic 14" x 6.5"
-
 ## Canoe camping (3 season)
 
 - $55 MSR Hubba Hubba NX Footprint
@@ -134,19 +116,22 @@ xlr balanced pairs (50'x1, 10'x2):
 - Sleeping bag
 - Sleeping pad
 
-- Mess kit:
-  - MSR Alpine 4 pot set
-  - plates/cups set
-  - minimalist tarp with holes everywhere
-  - Knives, spatula, spoon
-- Clothes:
-  - Darn tough socks x3
-  - long underwear top & bottom
-  - sweater thing (sleece, wool, something with a collar)
-  - Fleece/wool vest
-  - clothes (shorts, shirts)
-  - packable down something
-  - rain gear top & bottom
-  - windbreaker top
-  - hiking boots
-  - Hat
+Mess kit stuff:
+
+- MSR Alpine 4 pot set
+- plates/cups set
+- minimalist tarp with holes everywhere
+- Knives, spatula, spoon
+
+Clothes:
+
+- Darn tough socks x3
+- long underwear top & bottom
+- sweater thing (sleece, wool, something with a collar)
+- Fleece/wool vest
+- clothes (shorts, shirts)
+- packable down something
+- rain gear top & bottom
+- windbreaker top
+- hiking boots
+- Hat
