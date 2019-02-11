@@ -1,30 +1,5 @@
 # Wishlist
 
-- Shoe storage
-- Pegboard hooks for tape
-- larger size IKEA bins
-- More Ikea open bins
-- Office calendar with multiple months for jam space
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
-- 8.5" x 11" & 8.5" x 5.5" notebooks
-- High Lighters
-- Metal ruler x2
-- 3/4" console tape and/or scribble tape
-- Something for smell in space
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
-- Primacoustic CrashGuard x2
-- Primacoustic CrashGuard 421 x2
-- Little bit of foam for top of overheads
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Screwdriver set
-- Nut driver set
-- Velcro wire wraps
-- IEC-6X4 (short power cords) x4
-- Small power drill (rack screws/guitar winding)
-
---
-
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
@@ -66,6 +41,27 @@ More cables:
 
 ## Rehersal space
 
+- Desktop storage
+- Mount for Headphone AMP (pedal power/screw in cable?)
+- Pegboard hooks for tape
+- larger size IKEA bins & 2 more open bins
+- Office calendar with multiple months for jam space
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- High Lighters
+- Metal ruler x2
+- 3/4" console tape and/or scribble tape
+- Something for smell in space
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
+- Primacoustic CrashGuard x2
+- Primacoustic CrashGuard 421 x2
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
+- Screwdriver set
+- Nut driver set
+- IEC-6X4 (short power cords) x4
+
+--
+
 - Vic Firth American Classic 5A sticks
 - Vic Firth or 3M isolation headphones
 - Rode SC4 for plugging ipad and mixer
@@ -86,6 +82,8 @@ More cables:
 - In ear system (Hearback)
 - Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
+- 10RU slant rack with 6RU (or more) lower flight case (rolling?)
+- 8 or 10RU shock mount road case with casters
 
 ## Crashes
 

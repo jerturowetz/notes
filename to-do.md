@@ -1,6 +1,8 @@
 # Jer's To-Do List
 
-- old-style musician people and their hangers on
+- Resto for vals day:
+  - Maison Publique
+  - Impasto
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 - Wedding thank yous
