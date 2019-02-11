@@ -1,8 +1,8 @@
 # Jer's To-Do List
 
+- old-style musician people and their hangers on
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
-- old-style musician people and their hangers on
 - Wedding thank yous
 - Book st marys apt
 - Log in to day care list

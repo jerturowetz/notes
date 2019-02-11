@@ -1,20 +1,45 @@
 # Wishlist
 
+- Shoe storage
+- Pegboard hooks for tape
+- larger size IKEA bins
+- More Ikea open bins
+- Office calendar with multiple months for jam space
+- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
+- 8.5" x 11" & 8.5" x 5.5" notebooks
+- High Lighters
+- Metal ruler x2
+- 3/4" console tape and/or scribble tape
+- Something for smell in space
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
+- Primacoustic CrashGuard x2
+- Primacoustic CrashGuard 421 x2
+- Little bit of foam for top of overheads
+- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
+- Screwdriver set
+- Nut driver set
+- Velcro wire wraps
+- IEC-6X4 (short power cords) x4
+- Small power drill (rack screws/guitar winding)
+
+--
+
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
 
+- Aveda products
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t shirt)
-- Aveda products
 - Choker
 
 ## Cables
@@ -28,42 +53,28 @@ Patches & repairs:
 - Neutrik NC3MXX x4 (patches)
 - Neutrik NC3FXX x4 (patches)
 
+Fix and complete drop snake (8 send, 4 ret):
+
+- Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+- 12 channel cable for floor snake
+
 More cables:
 
 - $160 RED Canare L-4E6S Quad mic Cable x120' (8 cables)
 - Neutrik NC3MXX-BAG x8 (red cables)
 - Neutrik NC3FXX-BAG x8 (red cables)
 
-Fix and complete drop snake (8 send, 4 ret):
-
-- Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-- 12 channel cable for floor snake
-
 ## Rehersal space
 
-- iPhone cable for space
-- Ziplock bags
-- Shoe storage
-- Pegboard hooks for tape
-- larger size IKEA bins
-- More Ikea open bins
-- Office calendar with multiple months for jam space
 - Vic Firth American Classic 5A sticks
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
 - Vic Firth or 3M isolation headphones
-- 8.5" x 11" & 8.5" x 5.5" notebooks
-- High Lighters
-- Metal ruler x2
-- 3/4" console tape and/or scribble tape
 - Rode SC4 for plugging ipad and mixer
-- Something for smell in space
 - Missing mics for drums:
   - 2020 for 2nd OH
   - Telefunken M60 (Snare top)
   - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
   - AKG D112
-  - Kick out?
 - Mic stands
   - K&M 210/8 or 252 or 26145 (rack tom)
   - K&M 210/8 or 21021 x2 (OH)
@@ -71,21 +82,9 @@ Fix and complete drop snake (8 send, 4 ret):
   - Desktop mic stand (for holding solder) (on-stage ds8200)
   - On stage tiny base mic stand x3 (amps, Room)
   - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
 - BSS FCS-960 EQ
 - In ear system (Hearback)
-- Primacoustic CrashGuard x2
-- Primacoustic CrashGuard 421 x2
-- Little bit of foam for top of overheads
 - Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
-- $30us/ea Furman SS6B surge protectors (ebay used) for drums & bass area
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Screwdriver set
-- Nut driver set
-- Velcro wire wraps
-- IEC-6X4 (short power cords) x4
-- Small power drill (rack screws/guitar winding)
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 
 ## Crashes
@@ -112,7 +111,6 @@ Fix and complete drop snake (8 send, 4 ret):
 - Old-style sealine or sea-to-summit dry bags
 - Sea to summit event compression/dry sacks S,S,M,M (have an XL)
 - MSR replcaemnt o-rings (a dozen or so)
-- Another tent
 - Sleeping bag
 - Sleeping pad
 
