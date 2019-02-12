@@ -1,5 +1,10 @@
 # Groceries
 
+better thab bouillion
+noodles
+skin on chicken
+canola oil
+
 - n/a beer
 - Hadn cream, advil, hand sanitizer for space
 - Q-tips
