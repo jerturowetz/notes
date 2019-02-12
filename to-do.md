@@ -1,13 +1,11 @@
 # Jer's To-Do List
 
-- Resto for vals day:
-  - Maison Publique
-  - Impasto
+- Get addresses Charlie Goose, Kyla Clark
+- Reserve Impasto for val's day
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 - Wedding thank yous
 - Book st marys apt
-- Log in to day care list
 - Find a newborn carseat/stroller/system
 - Kate push present
 - SJ recording
@@ -22,11 +20,6 @@
 - Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
-
-## Carrie's party info
-
-- 438-992-2557
-- 925PRESTIGE
 
 ## Call re pregnancy
 

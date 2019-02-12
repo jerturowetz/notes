@@ -14,7 +14,7 @@
 - Aveda products
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
-- Danny's Coiffure (t shirt)
+- Danny's Coiffure (t-shirt)
 - Choker
 
 ## Cables
@@ -64,26 +64,24 @@ More cables:
 
 - Vic Firth American Classic 5A sticks
 - Vic Firth or 3M isolation headphones
-- Rode SC4 for plugging ipad and mixer
+- Rode SC4 for plugging iPad and mixer
 - Missing mics for drums:
   - 2020 for 2nd OH
-  - Telefunken M60 (Snare top)
   - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
   - AKG D112
 - Mic stands
-  - K&M 210/8 or 252 or 26145 (rack tom)
+  - K&M 210/8 or 252 (rack tom)
   - K&M 210/8 or 21021 x2 (OH)
-  - Boom stand for Wurst
-  - Desktop mic stand (for holding solder) (on-stage ds8200)
   - On stage tiny base mic stand x3 (amps, Room)
-  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick
+  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
 - BSS FCS-960 EQ
 - In ear system (Hearback)
-- Various DIs (bass, keys, guitar), maybe Key Large for Travis mains
+- Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - 10RU slant rack with 6RU (or more) lower flight case (rolling?)
-- 8 or 10RU shock mount road case with casters
+- 10RU+ shock mount road case with casters
+- Patchbay (proaudiola has best prices)
 
 ## Crashes
 

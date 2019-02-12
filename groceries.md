@@ -1,14 +1,16 @@
 # Groceries
 
-better thab bouillion
-noodles
-skin on chicken
-canola oil
-
-- n/a beer
 - Hadn cream, advil, hand sanitizer for space
 - Q-tips
 - Cleaning sprays for jam space
+- milk
+- oj
+- better than bouillion
+- noodles
+- skin-on chicken
+- canola oil
+- veg oil
+- n/a beer
 - Washer soap
 - meats
 - green leaf (kale, argugula)
