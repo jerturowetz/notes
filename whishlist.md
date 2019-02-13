@@ -1,15 +1,15 @@
 # Wishlist
 
-- mic stand on stage attachment bar or Accessory Holder to mount thingy
+- mic stand on stage attachment bar or accessory holder to mount headphone amp
 - TRS snake (2x8chnl or 16chnl)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- [Finnish baby box](https://www.finnishbabybox.com/en/)
+- Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- [Finnish baby box](https://www.finnishbabybox.com/en/)
-- Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
 
