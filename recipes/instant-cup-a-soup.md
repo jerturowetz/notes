@@ -6,7 +6,7 @@ The ingredents listed below are more suggestions than a hard line (use pork, tof
 
 ## Ingredients (per soup)
 
-- 2 tsp better than boiuillion
+- 1 full tsp better than boiuillion
 - 1/2 tsp chili garlic sauce
 - 1/2 cup pre-cooked room temp frozen veg
 - 1/4 cup pulled chicken
