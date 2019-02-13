@@ -3,6 +3,7 @@
 - Hadn cream, advil, hand sanitizer for space
 - Q-tips
 - Cleaning sprays for jam space
+- coffee
 - milk
 - oj
 - better than bouillion
@@ -13,6 +14,7 @@
 - n/a beer
 - Washer soap
 - meats
+- fish
 - green leaf (kale, argugula)
 - potatoes
 - Cheese
