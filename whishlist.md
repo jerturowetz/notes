@@ -1,5 +1,7 @@
 # Wishlist
 
+- mic stand on stage attachment bar or Accessory Holder to mount thingy
+- TRS snake (2x8chnl or 16chnl)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
@@ -59,6 +61,9 @@ More cables:
 - Screwdriver set
 - Nut driver set
 - IEC-6X4 (short power cords) x4
+- Ampeg knob
+- Ampeg casters
+- K&M Stands 16080 x2
 
 --
 
@@ -82,6 +87,7 @@ More cables:
 - 10RU slant rack with 6RU (or more) lower flight case (rolling?)
 - 10RU+ shock mount road case with casters
 - Patchbay (proaudiola has best prices)
+- Mixer patch panel
 
 ## Crashes
 
