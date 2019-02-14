@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- bring headphones to space
 - Get addresses Charlie Goose, Kyla Clark
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
