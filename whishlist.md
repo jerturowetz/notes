@@ -64,6 +64,7 @@ More cables:
 - Ampeg knob
 - Ampeg casters
 - K&M Stands 16080 x2
+- DJ laptop stand
 
 --
 
