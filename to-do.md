@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- bring headphones to space
 - Get addresses Charlie Goose, Kyla Clark
 - Reserve Impasto for val's day
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
