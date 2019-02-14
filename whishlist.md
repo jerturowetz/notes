@@ -1,7 +1,5 @@
 # Wishlist
 
-- mic stand on stage attachment bar or accessory holder to mount headphone amp
-- TRS snake (2x8chnl or 16chnl)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -43,28 +41,23 @@ More cables:
 
 ## Rehersal space
 
-- Desktop storage
+- TRS snake (2x8chnl or 16chnl)
 - Mount for Headphone AMP (pedal power/screw in cable?)
-- Pegboard hooks for tape
 - larger size IKEA bins & 2 more open bins
-- Office calendar with multiple months for jam space
-- Decent ear plugs (Etymotic Research, Alpine, Hearos, Vibes, Vic Firth)
-- High Lighters
-- Metal ruler x2
+- Downbeats or Zildjian ear plugs
+- Pegboard:
+  - Hook set
+  - Wire Baskets
+  - Paper towel holder
 - 3/4" console tape and/or scribble tape
 - Something for smell in space
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
-- Primacoustic CrashGuard x2
 - Primacoustic CrashGuard 421 x2
-- Stanley Hardware 819841 Pegboard Hook Assortment, 51-Piece
-- Screwdriver set
-- Nut driver set
-- IEC-6X4 (short power cords) x4
+- Primacoustic SplashGuard x2
 - Ampeg knob
 - Ampeg casters
 - K&M Stands 16080 x2
-- DJ laptop stand
 
 --
 
@@ -78,10 +71,10 @@ More cables:
   - AKG D112
 - Mic stands
   - K&M 210/8 or 252 (rack tom)
-  - K&M 210/8 or 21021 x2 (OH)
-  - On stage tiny base mic stand x3 (amps, Room)
   - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
-- BSS FCS-960 EQ
+  - On stage tiny base mic stand x3 (amps, room)
+  - K&M 210/8 or 21021 x2 (OH)
+  - BSS FCS-960 EQ
 - In ear system (Hearback)
 - Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)

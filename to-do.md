@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - Get addresses Charlie Goose, Kyla Clark
-- Reserve Impasto for val's day
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 - Wedding thank yous
