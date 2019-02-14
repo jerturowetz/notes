@@ -58,9 +58,6 @@ More cables:
 - Ampeg knob
 - Ampeg casters
 - K&M Stands 16080 x2
-
---
-
 - Vic Firth American Classic 5A sticks
 - Vic Firth or 3M isolation headphones
 - Rode SC4 for plugging iPad and mixer
@@ -72,9 +69,8 @@ More cables:
 - Mic stands
   - K&M 210/8 or 252 (rack tom)
   - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
-  - On stage tiny base mic stand x3 (amps, room)
   - K&M 210/8 or 21021 x2 (OH)
-  - BSS FCS-960 EQ
+- BSS FCS-960 EQ
 - In ear system (Hearback)
 - Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
