@@ -41,6 +41,7 @@ More cables:
 
 ## Rehersal space
 
+- Headphone hanger
 - TRS snake (2x8chnl or 16chnl)
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)
