@@ -1,27 +1,26 @@
 # Groceries
 
-- Hadn cream, advil, hand sanitizer for space
-- Q-tips
+- hand sanitizer & wipes for space
 - Cleaning sprays for jam space
-- coffee
-- milk
+- Q-tips
 - oj
-- better than bouillion
-- noodles
-- skin-on chicken
-- canola oil
-- veg oil
-- n/a beer
-- Washer soap
-- meats
-- fish
-- green leaf (kale, argugula)
-- potatoes
+- milk
+- Butter
 - Cheese
 - Apples
 - Bananas
-- Butter
-- Milk
+- green leaf (kale, argugula)
+- potatoes
+- skin-on chicken
+- fish
+- meats
+- coffee
+- canola oil
+- veg oil
+- better than bouillion
+- noodles
+- n/a beer
+- Washer soap
 
 ## Spice store
 
