@@ -1,12 +1,15 @@
 # Jer's To-Do List
 
-- bring headphones to space
-- Get addresses Charlie Goose, Kyla Clark
+- Remind Kate ultrasound #3
+- Book st marys apt for pre natal
+- Find a newborn carseat/stroller/system
+- Wedding thank yous
+- Plan Ottawa:
+  - place to stay
+  - reserve car
+  - plans with pals
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
-- Wedding thank yous
-- Book st marys apt
-- Find a newborn carseat/stroller/system
 - Kate push present
 - SJ recording
 - Telus add mom as billing entity

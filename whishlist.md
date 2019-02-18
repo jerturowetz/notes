@@ -83,6 +83,14 @@ More cables:
 - 10RU+ shock mount road case with casters
 - Patchbay (proaudiola has best prices)
 - Mixer patch panel
+- Better short stand for kick (K&M for weight of mic)
+- Kopul CBT-12 12-in-1 Cable Tester
+- Multi-meter
+- tic trace
+- BatteryTester
+- Pry bar
+- Whirlwind Qbox
+- Radial ProAV1 or Whirlwind pcDI
 
 ## Crashes
 
