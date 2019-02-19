@@ -45,7 +45,6 @@ More cables:
 - TRS snake (2x8chnl or 16chnl)
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)
-- larger size IKEA bins & 2 more open bins
 - Downbeats or Zildjian ear plugs
 - Pegboard:
   - Hook set
@@ -59,30 +58,21 @@ More cables:
 - Primacoustic SplashGuard x2
 - Ampeg knob
 - Ampeg casters
-- K&M Stands 16080 x2
-- rug
+- K&M 16080 x2
+- rug (ikea good prices)
 - Sabian grip disc
 - Vic Firth American Classic 5A sticks
-- Vic Firth or 3M isolation headphones
-
 - Rode SC4 for plugging iPad and mixer
 - Missing mics for drums:
   - 2020 for 2nd OH
   - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
   - AKG D112
-- Mic stands
-  - K&M 210/8 or 252 (rack tom)
-  - Short boom stand K&M 259, 25960 or On stage x3 (snare top, floor tom, kick)
-  - K&M 210/8 or 21021 x2 (OH)
+  - sm57 x2
+- K&M 210/8 or 252 (rack tom)
 - BSS FCS-960 EQ
-- In ear system (Hearback)
 - Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- 10RU slant rack with 6RU (or more) lower flight case (rolling?)
-- 10RU+ shock mount road case with casters
-- Patchbay (proaudiola has best prices)
-- Mixer patch panel
 
 ## Crashes
 
