@@ -91,6 +91,8 @@ More cables:
 - Pry bar
 - Whirlwind Qbox
 - Radial ProAV1 or Whirlwind pcDI
+- Mic-W i436 measurement microphone
+- iphne apps: AudioTools & Spectrum Analyzer RTA
 
 ## Crashes
 
