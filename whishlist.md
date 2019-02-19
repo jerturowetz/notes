@@ -1,5 +1,15 @@
 # Wishlist
 
+
+dj rig:
+
+laptop stand
+2ru travel rack case (not for djing)
+small interface w/2 pre
+58 & mini stand (have)
+ref speaker?
+
+
 hand cream, wipes, hand sanitier
 
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -68,7 +78,7 @@ More cables:
   - 2020 for 2nd OH
   - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
-  - AKG D112
+  - AKG D112 or senheuser e901
   - sm57 x2
 - K&M 210/8 or 252 (rack tom)
 - BSS FCS-960 EQ
