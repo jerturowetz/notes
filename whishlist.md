@@ -1,5 +1,7 @@
 # Wishlist
 
+hand cream, wipes, hand sanitier
+
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -41,7 +43,6 @@ More cables:
 
 ## Rehersal space
 
-- Headphone hanger
 - TRS snake (2x8chnl or 16chnl)
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)
@@ -75,14 +76,8 @@ More cables:
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - 10RU slant rack with 6RU (or more) lower flight case (rolling?)
 - 10RU+ shock mount road case with casters
-- Patchbay (proaudiola has best prices)
-- Mixer patch panel
 - Better short stand for kick (K&M for weight of mic)
-- Kopul CBT-12 12-in-1 Cable Tester
-- Multi-meter
-- tic trace
 - BatteryTester
-- Pry bar
 - Whirlwind Qbox
 - Radial ProAV1 or Whirlwind pcDI
 - Mic-W i436 measurement microphone
