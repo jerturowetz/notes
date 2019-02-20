@@ -1,19 +1,18 @@
 # Groceries
 
-- hand sanitizer & wipes for space
-- Cleaning sprays for jam space
+- hand sanitizer, hand cream, wipes (for space)
+- Cleaning sprays (for space)
 - Q-tips
-- oj
+- OJ
 - milk
 - Butter
 - Cheese
-- Apples
 - Bananas
 - green leaf (kale, argugula)
 - potatoes
 - skin-on chicken
 - fish
-- meats
+- other meats
 - coffee
 - canola oil
 - veg oil
@@ -33,6 +32,5 @@
 
 ## Chinese grocery
 
-- noodles (fresh and frozen)
+- noodles (frozen ?)
 - dumplings
-- duck

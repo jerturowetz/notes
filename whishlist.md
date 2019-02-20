@@ -1,22 +1,8 @@
 # Wishlist
 
-$350 US centrance mixerface
-
-wishbone amp hook
-
-dj rig:
-
-laptop stand
-2ru travel rack case (not for djing)
-small interface w/2 pre
-58 & mini stand (have)
-ref speaker?
-
-hand cream, wipes, hand sanitier
-
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
-- Frame for Nicks print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
@@ -25,6 +11,7 @@ hand cream, wipes, hand sanitier
 
 ## Kate
 
+- Amy Rosen cookbook
 - Aveda products
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
@@ -55,7 +42,6 @@ More cables:
 
 ## Rehersal space
 
-- TRS snake (2x8chnl or 16chnl)
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)
 - Downbeats or Zildjian ear plugs
@@ -77,11 +63,18 @@ More cables:
 - Vic Firth American Classic 5A sticks
 - Rode SC4 for plugging iPad and mixer
 - Missing mics for drums:
+  - EV 635A
   - 2020 for 2nd OH
-  - EV 635A (floor)
   - Audio Technica 4040 &/or 4050 (Room)
-  - AKG D112 or senheuser e901
   - sm57 x2
+  - Sennheiser e901 (kick)
+  - Sennheiser e602 (floor)
+  - EV 635A (floor)
+  - Shure Beta 56A (guit)
+  - Electro-Voice RE20 (guit)
+
+  - palmer pdi-09 for guitar di (after fx)
+
 - K&M 210/8 or 252 (rack tom)
 - BSS FCS-960 EQ
 - Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
@@ -93,7 +86,9 @@ More cables:
 - Whirlwind Qbox
 - Radial ProAV1 or Whirlwind pcDI
 - Mic-W i436 measurement microphone
-- iphne apps: AudioTools & Spectrum Analyzer RTA
+- iPhone apps: AudioTools & Spectrum Analyzer RTA
+- $40 ea Wishbone amp hook x2
+- $350 US centrance mixerface
 
 ## Crashes
 

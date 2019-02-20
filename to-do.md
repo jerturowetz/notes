@@ -1,12 +1,14 @@
 # Jer's To-Do List
 
-- Remind Kate ultrasound #3
+- Gclip, ozone5, modern7th, classic deathcore, JST transify
+- Pick up snake from graham
+- City of Montreal compost bin
 - Book st marys apt for pre natal
-- Find a newborn carseat/stroller/system
+- Find a newborn carseat/stroller/system (graco?)
 - Wedding thank yous
-- Plan Ottawa:
-  - place to stay
-  - reserve car
+- Plan Ottawa (stay friday night, leame sat PM be home lateish):
+  - place to stay (AirBnB)
+  - reserve car (just friday am from 9 or 10 to sat pm 11:30)
   - plans with pals
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
