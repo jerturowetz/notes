@@ -1,5 +1,8 @@
 # Wishlist
 
+$350 US centrance mixerface
+
+wishbone amp hook
 
 dj rig:
 
@@ -8,7 +11,6 @@ laptop stand
 small interface w/2 pre
 58 & mini stand (have)
 ref speaker?
-
 
 hand cream, wipes, hand sanitier
 
