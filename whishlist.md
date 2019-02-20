@@ -62,19 +62,19 @@ More cables:
 - Sabian grip disc
 - Vic Firth American Classic 5A sticks
 - Rode SC4 for plugging iPad and mixer
-- Missing mics for drums:
-  - EV 635A
-  - 2020 for 2nd OH
+- Missing mics:
+  - Sennheiser BF 504 (snare top)
+  - EV 635A (drum WURST on floor)
+  - 2020 (OH)
+  - Sennheiser e901 (kick)
+  - Beyerdynamic M 201 (snare side)
+  - Shure Beta 98AD (snare bottom)
   - Audio Technica 4040 &/or 4050 (Room)
   - sm57 x2
-  - Sennheiser e901 (kick)
-  - Sennheiser e602 (floor)
-  - EV 635A (floor)
-  - Shure Beta 56A (guit)
+  - Sennheiser e602 (floor tom)
   - Electro-Voice RE20 (guit)
-
+  - Audio-Technica AT4051 (cymbals close mic)
   - palmer pdi-09 for guitar di (after fx)
-
 - K&M 210/8 or 252 (rack tom)
 - BSS FCS-960 EQ
 - Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
