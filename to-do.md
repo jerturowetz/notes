@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Gclip, ozone5, modern7th, classic deathcore, JST transify
+- Rhythm Designer RD-808
 - Pick up snake from graham
 - City of Montreal compost bin
 - Book st marys apt for pre natal
