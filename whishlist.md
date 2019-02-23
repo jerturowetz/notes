@@ -1,5 +1,7 @@
 # Wishlist
 
+- 1/4" Male to TRS short x4
+- $80 Seagate Backup Plus Slim 2TB Portable External Hard Drive
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")

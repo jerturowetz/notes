@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar, 
+- learn oxford
 - Rhythm Designer RD-808
 - Pick up snake from graham
 - City of Montreal compost bin
