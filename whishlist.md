@@ -11,6 +11,7 @@
 
 ## Kate
 
+- book: we cast a shadow
 - Amy Rosen cookbook
 - Aveda products
 - Deering goodtime banjo
