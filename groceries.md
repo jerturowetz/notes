@@ -1,5 +1,10 @@
 # Groceries
 
+- cheddar cheese
+- milk
+- bandanas
+- apples
+
 - tylonol
 - hand sanitizer, hand cream, wipes (for space)
 - Cleaning sprays (for space)
