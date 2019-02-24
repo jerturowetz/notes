@@ -1,8 +1,5 @@
 # Wishlist
 
-- matches 
-- 1/4" Male to TRS short x4
-- $80 Seagate Backup Plus Slim 2TB Portable External Hard Drive
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -14,7 +11,7 @@
 
 ## Kate
 
-- book: we cast a shadow
+- Book: we cast a shadow
 - Amy Rosen cookbook
 - Aveda products
 - Deering goodtime banjo
@@ -27,6 +24,7 @@
 Patches & repairs:
 
 - Balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
+- Headphone replacment cable (reg balanced cable?)
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
@@ -46,6 +44,9 @@ More cables:
 
 ## Rehersal space
 
+- matches
+- 1/4" Male to TRS short x4
+- Elastics
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)
 - Downbeats or Zildjian ear plugs
