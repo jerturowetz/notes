@@ -1,29 +1,22 @@
 # Groceries
 
-- cheddar cheese
-- milk
-- bandanas
-- apples
-
 - tylonol
+- smoked salmon
+- seafood
 - hand sanitizer, hand cream, wipes (for space)
 - Cleaning sprays (for space)
 - Q-tips
 - OJ
-- milk
-- Butter
-- Cheese
-- Bananas
+- sliced cheese
 - green leaf (kale, argugula)
 - potatoes
 - skin-on chicken
 - fish
 - other meats
-- coffee
+- eggs
 - canola oil
 - veg oil
 - better than bouillion
-- noodles
 - n/a beer
 - Washer soap
 
