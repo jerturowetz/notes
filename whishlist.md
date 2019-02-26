@@ -1,5 +1,10 @@
 # Wishlist
 
+10 ft cable x6 (blue)
+15 ft cable x6 (red)
+xlr passthrough
+bass case
+
 - febreez
 - bamboo air purifying bag
 - bike hook
@@ -56,7 +61,7 @@ More cables:
 ## Rehersal space
 
 - matches
-- 1/4" Male to TRS short x4
+- XLR female to TRS short x4
 - Elastics
 - Mount for Headphone AMP (pedal power/screw in cable?)
 - reflex drum pad (really quiet)

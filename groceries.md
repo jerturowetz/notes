@@ -1,5 +1,7 @@
 # Groceries
 
+- soap ahower
+- dish soap
 - tylonol
 - smoked salmon
 - seafood
