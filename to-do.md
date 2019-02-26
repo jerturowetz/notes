@@ -1,14 +1,17 @@
 # Jer's To-Do List
 
+- Upload ruby songs to bandcamp/soundcloud
+- Add ruby tacks to spotify
+
 - book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
 - learn oxford
-- Rhythm Designer RD-808
 - fix manulife insurance (my name is wrong)
-- Pick up snake from graham
-- City of Montreal compost bin
-- Book st marys apt for pre natal
-
+- Schedule dental checkup @ kates dentist
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- Book st marys apt for pre natal (April 27-28, https://www.childbirth-education.com/)
 - Wedding thank yous
+- Kate push present
+- SJ recording
 - Find a newborn carseat/stroller/system (graco?)
 - Plan Ottawa (stay friday night, leame sat PM, be home late)
   - place to stay (AirBnB)
@@ -16,8 +19,6 @@
   - plans with pals
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
-- Kate push present
-- SJ recording
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
