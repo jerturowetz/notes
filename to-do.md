@@ -1,23 +1,13 @@
 # Jer's To-Do List
 
-Recorded at Delicate/Automatic, Engineered and mixed by Matthew Hills
-
-http://www.corps-plus.com/
-for back
-http://www.cdvmontreal.ca/
-for teeth
-
-
-- Upload ruby songs to bandcamp/soundcloud
-- Add ruby tacks to spotify
-
-- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
-- learn oxford
-- fix manulife insurance (my name is wrong)
-- Schedule dental checkup @ kates dentist
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- R&C distrokid
+- R&C Google, Apple, SPotify Artist profile pages
+- http://www.corps-plus.com/ for back
 - Book st marys apt for pre natal (April 27-28, https://www.childbirth-education.com/)
 - Wedding thank yous
+- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
+- learn oxford
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
 - Kate push present
 - SJ recording
 - Find a newborn carseat/stroller/system (graco?)
