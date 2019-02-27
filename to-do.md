@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+Recorded at Delicate/Automatic, Engineered and mixed by Matthew Hills
+
+http://www.corps-plus.com/
+for back
+http://www.cdvmontreal.ca/
+for teeth
+
+
 - Upload ruby songs to bandcamp/soundcloud
 - Add ruby tacks to spotify
 
