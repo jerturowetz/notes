@@ -1,20 +1,6 @@
 # Wishlist
 
-10 ft cable x6 (blue)
-15 ft cable x6 (red)
-xlr passthrough
-bass case
-
-- febreez
-- bamboo air purifying bag
-- bike hook
-- plastic organizer
-- heat shrink
-- square plastic storage
-- jars, caddy
-- Desktop Organizer
-- cable gland joints for headphones
-- universal accessory holder
+- Bike hook
 - [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
@@ -60,6 +46,19 @@ More cables:
 
 ## Rehersal space
 
+- 10 ft cable x6 (blue)
+- 15 ft cable x6 (red)
+- xlr passthrough
+- bass case
+- plastic organizer
+- heat shrink
+- square plastic storage
+- jars, caddy
+- Desktop Organizer
+- cable gland joints for headphones
+- universal accessory holder
+- febreez
+- bamboo air purifying bag
 - matches
 - XLR female to TRS short x4
 - Elastics
