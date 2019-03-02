@@ -1,30 +1,27 @@
 # Groceries
 
-cheese slices fancy
-tonatoes
-carrits
-salad ingredients
-
-milk
-coke
-apple something
-bread for grilled cheese
-
-- soap ahower
-- dish soap
-- tylonol
-- smoked salmon
-- seafood
-- hand sanitizer, hand cream, wipes (for space)
-- Cleaning sprays (for space)
-- Q-tips
+- tonatoes
+- carrits
+- salad ingredients
+- bread for grilled cheese
+- Milk
 - OJ
-- skin-on chicken
+- cheese slices fancy
+- smoked salmon
 - fish
+- skin-on chicken
 - other meats
+- coke
+- apple something
 - better than bouillion
 - n/a beer
 - Washer soap
+- soap for shower
+- dish soap
+- tylonol
+- hand sanitizer, hand cream, wipes (for space)
+- Cleaning sprays (for space)
+- Q-tips
 
 ## Spice store
 
