@@ -1,5 +1,6 @@
 # Wishlist
 
+- SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
 - Bike hook
 - [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
