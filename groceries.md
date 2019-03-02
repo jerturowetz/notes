@@ -1,5 +1,15 @@
 # Groceries
 
+cheese slices fancy
+tonatoes
+carrits
+salad ingredients
+
+milk
+coke
+apple something
+bread for grilled cheese
+
 - soap ahower
 - dish soap
 - tylonol
@@ -9,15 +19,9 @@
 - Cleaning sprays (for space)
 - Q-tips
 - OJ
-- sliced cheese
-- green leaf (kale, argugula)
-- potatoes
 - skin-on chicken
 - fish
 - other meats
-- eggs
-- canola oil
-- veg oil
 - better than bouillion
 - n/a beer
 - Washer soap
