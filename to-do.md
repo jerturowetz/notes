@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
-- R&C Google, Apple, SPotify Artist profile pages
+- Fix R&C artist stuff
+- R&C Google, Apple, Spotify Artist profile pages
 - http://www.corps-plus.com/ for back
 - Book st marys apt for pre natal (April 27-28, https://www.childbirth-education.com/)
 - Wedding thank yous

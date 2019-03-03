@@ -1,8 +1,6 @@
 # Groceries
 
-- bread for grilled cheese
-- Milk
-- OJ
+- Bread for grilled cheese
 - smoked salmon
 - fish
 - skin-on chicken
