@@ -1,18 +1,12 @@
 # Groceries
 
-- tonatoes
-- carrits
-- salad ingredients
 - bread for grilled cheese
 - Milk
 - OJ
-- cheese slices fancy
 - smoked salmon
 - fish
 - skin-on chicken
 - other meats
-- coke
-- apple something
 - better than bouillion
 - n/a beer
 - Washer soap
