@@ -1,14 +1,17 @@
 # Groceries
 
+- soap for shower
+- coffee
 - Bread for grilled cheese
 - smoked salmon
+
 - fish
 - skin-on chicken
-- other meats
+- other meats?
+
 - better than bouillion
 - n/a beer
 - Washer soap
-- soap for shower
 - dish soap
 - tylonol
 - hand sanitizer, hand cream, wipes (for space)
