@@ -7,8 +7,6 @@
 - Washer soap
 - dish soap
 - tylonol
-- hand sanitizer(for space)
-- cleaning spray (for space)
 - Q-tips
 
 ## Spice store

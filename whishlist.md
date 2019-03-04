@@ -1,5 +1,7 @@
 # Wishlist
 
+- hand sanitizer (for space)
+- cleaning spray (for space)
 - [Bass case v1](https://www.amazon.ca/ChromaCast-Bass-Guitar-Padded-Gig/dp/B00CKYVW2O/)
 - [Bass case v2](https://www.amazon.ca/Fender-FB405-Multi-Fit-Electric-Guitar/dp/B06Y1XSBFS/)
 - [Electric guitar case](https://www.amazon.ca/Fender-FE405-Multi-Fit-Electric-Guitar/dp/B06Y28CWZL/)
