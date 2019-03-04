@@ -1,16 +1,14 @@
 # Groceries
 
+- Buns
+- Multigrain bread
 - soap for shower
-- coffee
 - Bread for grilled cheese
 - smoked salmon
-
 - fish
 - skin-on chicken
 - other meats?
-
 - better than bouillion
-- n/a beer
 - Washer soap
 - dish soap
 - tylonol

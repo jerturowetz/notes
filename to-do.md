@@ -1,14 +1,23 @@
 # Jer's To-Do List
 
-- Fix R&C artist stuff
+## Now
+
+- Graham snake
+- Pick up gift cert at scandinave
+- Print a few more thank yous
+- Find a used baby bjorn
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- Allen Heath mixer repair stereo channels (all but 11 are fucky)
+- REF for broken EQ 459-26
+
+## Various
+
+- choose frame for kates print & get it printed
+- Did i send perry a thank you card?
 - R&C Google, Apple, Spotify Artist profile pages
 - kent monkman @ mccord
-- R&C Google, Apple, SPotify Artist profile pages
-- http://www.corps-plus.com/ for back
-- Book st marys apt for pre natal (April 27-28, https://www.childbirth-education.com/)
-- Wedding thank yous
+- Final check of thank yous
 - book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
 - Kate push present
 - SJ recording
 - Find a newborn carseat/stroller/system (graco?)
@@ -16,8 +25,6 @@
   - place to stay (AirBnB)
   - reserve car (just friday am from 9 or 10 to sat pm 11:30)
   - plans with pals
-- Allen Heath mixer repair stereo channels (all but 11 are fucky)
-- REF for broken EQ 459-26
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
