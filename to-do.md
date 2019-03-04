@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- kent monkman @ mccord
 - R&C Google, Apple, SPotify Artist profile pages
 - http://www.corps-plus.com/ for back
 - Book st marys apt for pre natal (April 27-28, https://www.childbirth-education.com/)
