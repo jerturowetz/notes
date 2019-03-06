@@ -26,6 +26,7 @@
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
 - Choker
+- gap jeans size 6
 
 ## Cables
 
