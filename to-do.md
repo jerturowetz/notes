@@ -9,7 +9,9 @@
 - Print shop:
   - a few more thank yous
   - Sal Salis
-- Ikea ribba 50x70cm (002.688.76)
+- IKEA:
+  - ribba 50x70cm (002.688.76)
+  - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
 - City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26

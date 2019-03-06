@@ -1,8 +1,9 @@
 # Wishlist
 
 - [bike hook](https://www.amazon.ca/Mountain-Bicycle-Storage-Rack-Wall-Mounted/dp/B00WBFRYJM/)
+- [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
 
-
+- SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
 
 - air freshener for space
 - matches
@@ -11,16 +12,14 @@
 - cable gland joints for headphones
 - Mount for Headphone AMP (pedal power/screw in cable?)
 
-
-
 - chair hooks ikea
 - hand sanitizer (for space)
 - cleaning spray (for space)
 - [Bass case v1](https://www.amazon.ca/ChromaCast-Bass-Guitar-Padded-Gig/dp/B00CKYVW2O/)
 - [Bass case v2](https://www.amazon.ca/Fender-FB405-Multi-Fit-Electric-Guitar/dp/B06Y1XSBFS/)
 - [Electric guitar case](https://www.amazon.ca/Fender-FE405-Multi-Fit-Electric-Guitar/dp/B06Y28CWZL/)
-- SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
-- [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
+
+
 
 
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -31,6 +30,7 @@
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- moar plastic tupperware
 
 ## Kate
 
