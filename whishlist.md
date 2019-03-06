@@ -1,13 +1,28 @@
 # Wishlist
 
+- [bike hook](https://www.amazon.ca/Mountain-Bicycle-Storage-Rack-Wall-Mounted/dp/B00WBFRYJM/)
+
+
+
+- air freshener for space
+- matches
+- elastic bands
+- heat shrink
+- cable gland joints for headphones
+- Mount for Headphone AMP (pedal power/screw in cable?)
+
+
+
+- chair hooks ikea
 - hand sanitizer (for space)
 - cleaning spray (for space)
 - [Bass case v1](https://www.amazon.ca/ChromaCast-Bass-Guitar-Padded-Gig/dp/B00CKYVW2O/)
 - [Bass case v2](https://www.amazon.ca/Fender-FB405-Multi-Fit-Electric-Guitar/dp/B06Y1XSBFS/)
 - [Electric guitar case](https://www.amazon.ca/Fender-FE405-Multi-Fit-Electric-Guitar/dp/B06Y28CWZL/)
 - SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
-- Bike hook
 - [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
+
+
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -27,7 +42,9 @@
 - Danny's Coiffure (t-shirt)
 - Choker
 
-## Cables
+## Rehersal space
+
+### Cables
 
 Patches & repairs:
 
@@ -46,75 +63,64 @@ Fix and complete drop snake (8 send, 4 ret):
 
 More cables:
 
-- $160 RED Canare L-4E6S Quad mic Cable x120' (8 cables)
-- Neutrik NC3MXX-BAG x8 (red cables)
-- Neutrik NC3FXX-BAG x8 (red cables)
+- $40 USD BROWN Canare L-4E6S Quad mic Cable x60' (10' cables x 8)
+- $60 USD RED Canare L-4E6S Quad mic Cable x120' (15' cables x8)
+- Neutrik NC3MXX-BAG x16
+- Neutrik NC3FXX-BAG x16
 
-## Rehersal space
+### Missing mics
 
-- 10 ft cable x6 (blue)
-- 15 ft cable x6 (red)
-- xlr passthrough
-- bass case
-- plastic organizer
-- heat shrink
+- Sennheiser BF 504 (snare top)
+- EV 635A (drum WURST on floor)
+- 2020 (OH)
+- Sennheiser e901 (kick)
+- Beyerdynamic M 201 (snare side)
+- Shure Beta 98AD (snare bottom)
+- Audio Technica 4040 &/or 4050 (Room)
+- sm57 x2
+- Sennheiser e602 (floor tom)
+- Electro-Voice RE20 (guit)
+- Audio-Technica AT4051 (cymbals close mic)
+
+### DIs
+
+- Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
+- palmer pdi-09 for guitar di (after fx)
+- Radial ProAV1 or Whirlwind pcDI
+
+### Mic stands
+
+- K&M 210/8 or 252 (rack tom)
+- K&M 16080 x2
+- Better short mic stand for kick
+- $40 ea Wishbone amp hook x2
+
+### Pegboard & workspace
+
+- Hook set
+- Wire Baskets
+- Paper towel holder
 - square plastic storage
-- jars, caddy
+- Jars, caddy
 - Desktop Organizer
-- cable gland joints for headphones
-- universal accessory holder
-- febreez
-- bamboo air purifying bag
-- matches
-- XLR female to TRS short x4
-- Elastics
-- Mount for Headphone AMP (pedal power/screw in cable?)
-- reflex drum pad (really quiet)
+
+### extras
+
 - Downbeats or Zildjian ear plugs
-- Pegboard:
-  - Hook set
-  - Wire Baskets
-  - Paper towel holder
 - 3/4" console tape and/or scribble tape
-- Something for smell in space
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
+- 1RU xlr passthrough & 1 RU brush panel
+- Rode SC4 for plugging iPad and mixer
+- BSS FCS-960 EQ
+- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
+- Whirlwind Qbox
+- $350 US centrance mixerface
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - Ampeg knob
 - Ampeg casters
-- K&M 16080 x2
-- rug (ikea good prices)
+- Rug (ikea has good prices)
 - Sabian grip disc
-- Vic Firth American Classic 5A sticks
-- Rode SC4 for plugging iPad and mixer
-- Missing mics:
-  - Sennheiser BF 504 (snare top)
-  - EV 635A (drum WURST on floor)
-  - 2020 (OH)
-  - Sennheiser e901 (kick)
-  - Beyerdynamic M 201 (snare side)
-  - Shure Beta 98AD (snare bottom)
-  - Audio Technica 4040 &/or 4050 (Room)
-  - sm57 x2
-  - Sennheiser e602 (floor tom)
-  - Electro-Voice RE20 (guit)
-  - Audio-Technica AT4051 (cymbals close mic)
-  - palmer pdi-09 for guitar di (after fx)
-- K&M 210/8 or 252 (rack tom)
-- BSS FCS-960 EQ
-- Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
-- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- 10RU slant rack with 6RU (or more) lower flight case (rolling?)
-- 10RU+ shock mount road case with casters
-- Better short stand for kick (K&M for weight of mic)
-- BatteryTester
-- Whirlwind Qbox
-- Radial ProAV1 or Whirlwind pcDI
-- Mic-W i436 measurement microphone
-- iPhone apps: AudioTools & Spectrum Analyzer RTA
-- $40 ea Wishbone amp hook x2
-- $350 US centrance mixerface
+- reflex drum pad (really quiet)
 
 ## Crashes
 

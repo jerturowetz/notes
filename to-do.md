@@ -1,30 +1,34 @@
 # Jer's To-Do List
 
-## Now
-
 - Graham snake
+- Stop by steves:
+  - XLR female to TRS short x4
+  - RCA M to 3.5mm F adaptor
+  - RCA F to 3.5mm M adaptor
 - Pick up gift cert at scandinave
-- Print a few more thank yous
-- Find a used baby bjorn
+- Print shop:
+  - a few more thank yous
+  - Sal Salis
+- Ikea ribba 50x70cm (002.688.76)
 - City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
 - Allen Heath mixer repair stereo channels (all but 11 are fucky)
 - REF for broken EQ 459-26
 
 ## Various
 
-- choose frame for kates print & get it printed
-- Did i send perry a thank you card?
-- R&C Google, Apple, Spotify Artist profile pages
 - kent monkman @ mccord
 - Final check of thank yous
-- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
-- Kate push present
-- SJ recording
-- Find a newborn carseat/stroller/system (graco?)
+- Find a used baby bjorn
 - Plan Ottawa (stay friday night, leame sat PM, be home late)
   - place to stay (AirBnB)
   - reserve car (just friday am from 9 or 10 to sat pm 11:30)
   - plans with pals
+- Did i send perry a thank you card?
+- R&C Google, Apple, Spotify Artist profile pages
+- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
+- Kate push present
+- SJ recording
+- Find a newborn carseat/stroller/system (graco?)
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
