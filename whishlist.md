@@ -2,35 +2,26 @@
 
 - [bike hook](https://www.amazon.ca/Mountain-Bicycle-Storage-Rack-Wall-Mounted/dp/B00WBFRYJM/)
 - [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
-
 - SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
-
 - air freshener for space
-- matches
 - elastic bands
 - heat shrink
 - cable gland joints for headphones
 - Mount for Headphone AMP (pedal power/screw in cable?)
 
-- chair hooks ikea
-- hand sanitizer (for space)
-- cleaning spray (for space)
 - [Bass case v1](https://www.amazon.ca/ChromaCast-Bass-Guitar-Padded-Gig/dp/B00CKYVW2O/)
 - [Bass case v2](https://www.amazon.ca/Fender-FB405-Multi-Fit-Electric-Guitar/dp/B06Y1XSBFS/)
 - [Electric guitar case](https://www.amazon.ca/Fender-FE405-Multi-Fit-Electric-Guitar/dp/B06Y28CWZL/)
 
-
-
-
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Brabantia waste bin
+- Brabantia waste bin;
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
-- moar plastic tupperware
 
 ## Kate
 
@@ -47,34 +38,29 @@
 
 ### Cables
 
-Patches & repairs:
+#### Redco
 
 - Balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
 - Headphone replacment cable (reg balanced cable?)
+- $40 USD BROWN Canare L-4E6S Quad mic Cable x60' (10' cables x 8)
+- $60 USD RED Canare L-4E6S Quad mic Cable x120' (15' cables x8)
+
+#### Mouser
+
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
 - Neutrik NC3MXX x4 (patches)
 - Neutrik NC3FXX x4 (patches)
-
-Fix and complete drop snake (8 send, 4 ret):
-
-- Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-- 12 channel cable for floor snake
-
-More cables:
-
-- $40 USD BROWN Canare L-4E6S Quad mic Cable x60' (10' cables x 8)
-- $60 USD RED Canare L-4E6S Quad mic Cable x120' (15' cables x8)
-- Neutrik NC3MXX-BAG x16
-- Neutrik NC3FXX-BAG x16
+- Neutrik NC3MXX-BAG x16 (for regular xlr cables)
+- Neutrik NC3FXX-BAG x16 (for regular xlr cables)
 
 ### Missing mics
 
 - Sennheiser BF 504 (snare top)
 - EV 635A (drum WURST on floor)
 - 2020 (OH)
-- Sennheiser e901 (kick)
+- Sennheiser e901, Heil PR40 (kick)
 - Beyerdynamic M 201 (snare side)
 - Shure Beta 98AD (snare bottom)
 - Audio Technica 4040 &/or 4050 (Room)
@@ -82,6 +68,11 @@ More cables:
 - Sennheiser e602 (floor tom)
 - Electro-Voice RE20 (guit)
 - Audio-Technica AT4051 (cymbals close mic)
+- Blue Microphones Hummingbird (single mic for drums)
+- Neuman km84 pair
+- MKH 418-S
+- SEN MKH 40 (pair)
+- Sony D50 or Zoom
 
 ### DIs
 
@@ -107,6 +98,11 @@ More cables:
 
 ### extras
 
+- Rowie clamp
+- Pedco Clamps (2 or 3) and mice adaptors
+- Fix and complete drop snake (8 send, 4 ret):
+  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+  - 12 channel cable for floor snake
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape and/or scribble tape
 - 1RU xlr passthrough & 1 RU brush panel
