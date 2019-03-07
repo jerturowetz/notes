@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Figure out mount for Headphone AMP (pedal power/screw in cable?)
+- Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
 - Stop by steves:
   - XLR female to TRS short x4

@@ -1,20 +1,6 @@
 # Wishlist
 
-- [bike hook](https://www.amazon.ca/Mountain-Bicycle-Storage-Rack-Wall-Mounted/dp/B00WBFRYJM/)
-- [ethernet](https://www.amazon.ca/Cable-Matters-Ethernet-Adapter-Gigabit/dp/B00X4S587K/)
-- SoundMAGIC E10 Noise Isolating In-Ear Earphones (Red)
-- air freshener for space
-- elastic bands
-- heat shrink
-- cable gland joints for headphones
-- Mount for Headphone AMP (pedal power/screw in cable?)
-
-- [Bass case v1](https://www.amazon.ca/ChromaCast-Bass-Guitar-Padded-Gig/dp/B00CKYVW2O/)
-- [Bass case v2](https://www.amazon.ca/Fender-FB405-Multi-Fit-Electric-Guitar/dp/B06Y1XSBFS/)
-- [Electric guitar case](https://www.amazon.ca/Fender-FE405-Multi-Fit-Electric-Guitar/dp/B06Y28CWZL/)
-
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Brabantia waste bin;
@@ -98,6 +84,10 @@
 
 ### extras
 
+- air freshener for space
+- elastic bands
+- heat shrink
+- cable gland joints for headphones
 - Rowie clamp
 - Pedco Clamps (2 or 3) and mice adaptors
 - Fix and complete drop snake (8 send, 4 ret):
