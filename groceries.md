@@ -1,8 +1,12 @@
 # Groceries
 
+multigrain bread
+apples
+bananas
+
 - Bread for grilled cheese
 - fish
-- skin-on chicken
+- skin-on/skin off chicken
 - other meats?
 - Washer soap
 - dish soap
