@@ -3,8 +3,8 @@
 multigrain bread
 apples
 bananas
+Compost bags and recycling bags
 
-- Bread for grilled cheese
 - fish
 - skin-on/skin off chicken
 - other meats?
