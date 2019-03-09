@@ -1,15 +1,15 @@
 # Groceries
 
-multigrain bread
-apples
-bananas
-Compost bags and recycling bags
+- Spicy Italian sausage
+- Ground pork and beef
+- Bacon
+- breakfast sausage
 
-- fish
-- skin-on/skin off chicken
-- other meats?
+- OJ
+- broccoli
 - Washer soap
-- dish soap
+- ziplock bags
+- recycling bags
 - tylonol
 - Q-tips
 
