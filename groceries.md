@@ -5,6 +5,8 @@
 - Bacon
 - breakfast sausage
 
+- Vegetable oil
+- Canola oil
 - OJ
 - broccoli
 - Washer soap
