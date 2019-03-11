@@ -6,7 +6,7 @@ xlrf to 1/4m short as f x4
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Brabantia waste bin;
+- Brabantia waste bin
 - Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
