@@ -4,7 +4,6 @@
 - Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
 - Stop by steves:
-  - XLR female to TRS short x4
   - RCA M to 3.5mm F adaptor
   - RCA F to 3.5mm M adaptor
 - Pick up gift cert at scandinave
