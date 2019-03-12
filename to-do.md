@@ -18,6 +18,8 @@
 - IKEA:
   - ribba 50x70cm (002.688.76)
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- REF for broken EQ 459-26
 
 ## Various
 

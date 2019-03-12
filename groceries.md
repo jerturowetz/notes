@@ -17,6 +17,8 @@
 - ziplock bags
 - saran wrap
 - recycling bags
+- toulet paper
+- paper towels
 - tylonol
 - Q-tips
 
