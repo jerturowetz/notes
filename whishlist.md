@@ -81,6 +81,8 @@
 
 ### extras
 
+- 5/8-27 tap
+- 5/8-27 mounting plate
 - CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
 - Pedco Ultra Clamp Assembly with 1/4"-20 Screw
 - OnStage TMO1 Multi Clamp Microphone Mount

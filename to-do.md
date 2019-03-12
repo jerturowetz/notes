@@ -1,41 +1,32 @@
 # Jer's To-Do List
 
-- Figure out mount for Headphone AMP (pedal power/screw in cable?)
-- Yorkville Sound Midstand Mic Extension Mount
-
-- Bill Carly at x2 rate (like 4 hours?)
-- Graham snake
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
-- Allen Heath mixer repair stereo channels (all but 11 are fucky)
-- REF for broken EQ 459-26
-- Stop by steves:
-  - RCA M to 3.5mm F adaptor
-  - RCA F to 3.5mm M adaptor
-- Pick up gift cert at scandinave
-- Print shop:
-  - a few more thank yous
-  - Sal Salis
-- IKEA:
-  - ribba 50x70cm (002.688.76)
-  - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
-- REF for broken EQ 459-26
-
-## Various
-
-- kent monkman @ mccord
-- Final check of thank yous
-- Find a used baby bjorn
 - Plan Ottawa (stay friday night, leame sat PM, be home late)
   - place to stay (AirBnB)
   - reserve car (just friday am from 9 or 10 to sat pm 11:30)
   - plans with pals
+- Print shop:
+  - a few more thank yous
+  - Sal Salis
+- Stop by steves:
+  - RCA M to 3.5mm F adaptor
+  - RCA F to 3.5mm M adaptor
+- Bill Carly at x2 rate (like 4 hours?)
+- Graham snake
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- Solotech for refund on broken EQ 459-26
+- Pick up gift cert at scandinave
+- IKEA:
+  - ribba 50x70cm (002.688.76)
+  - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
+- Last thank yous
+- Find a used baby bjorn
+
+## Various
+
 - Did i send perry a thank you card?
-- R&C Google, Apple, Spotify Artist profile pages
 - book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
 - Kate push present
 - SJ recording
-- Find a newborn carseat/stroller/system (graco?)
 - Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace

@@ -1,18 +1,18 @@
 # Groceries
 
-- Spicy Italian sausage
-- Ground pork and beef
-- Bacon
-- breakfast sausage
-
-- Vegetable oil
-- Canola oil
-- moar cheddar
-- apples
-- n/a beer
 - OJ
 - broccoli
 - green leaf
+- apples
+- Fancy cheddar
+- Spicy Italian sausage
+- breakfast sausage
+- Ground pork and beef
+- Bacon
+- Whole chicken
+- Vegetable oil x2
+- Canola oil
+- n/a beer
 - Washer soap
 - ziplock bags
 - saran wrap
