@@ -1,13 +1,8 @@
 # Wishlist
 
-mic clips
-xlrf to 1/4m short as f x4
-
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Brabantia waste bin
-- Another headlamp & PETZL core battery x2
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
@@ -21,7 +16,6 @@ xlrf to 1/4m short as f x4
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
 - Choker
-- gap jeans size 6
 
 ## Rehersal space
 
@@ -87,6 +81,12 @@ xlrf to 1/4m short as f x4
 
 ### extras
 
+- CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
+- Pedco Ultra Clamp Assembly with 1/4"-20 Screw
+- OnStage TMO1 Multi Clamp Microphone Mount
+- Apex cradlemount mic clips
+- Heat gun
+- mic clips
 - air freshener for space
 - elastic bands
 - heat shrink

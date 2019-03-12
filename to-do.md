@@ -1,10 +1,14 @@
 # Jer's To-Do List
 
 - Figure out mount for Headphone AMP (pedal power/screw in cable?)
+- Yorkville Sound Midstand Mic Extension Mount
+
 - Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- Allen Heath mixer repair stereo channels (all but 11 are fucky)
+- REF for broken EQ 459-26
 - Stop by steves:
-  - XLR female to TRS short x4
   - RCA M to 3.5mm F adaptor
   - RCA F to 3.5mm M adaptor
 - Pick up gift cert at scandinave
@@ -14,9 +18,6 @@
 - IKEA:
   - ribba 50x70cm (002.688.76)
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
-- Allen Heath mixer repair stereo channels (all but 11 are fucky)
-- REF for broken EQ 459-26
 
 ## Various
 
