@@ -2,7 +2,6 @@
 
 - Plan Ottawa (stay friday night, leame sat PM, be home late)
   - place to stay (AirBnB)
-  - reserve car (just friday am from 9 or 10 to sat pm 11:30)
   - plans with pals
 - Print shop:
   - a few more thank yous
@@ -23,7 +22,6 @@
 
 ## Various
 
-- Did i send perry a thank you card?
 - book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
 - Kate push present
 - SJ recording

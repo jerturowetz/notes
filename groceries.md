@@ -1,9 +1,10 @@
 # Groceries
 
+- Milk
 - OJ
 - broccoli
-- green leaf
 - apples
+- Bananas
 - Fancy cheddar
 - Spicy Italian sausage
 - breakfast sausage
@@ -12,12 +13,11 @@
 - Whole chicken
 - Vegetable oil x2
 - Canola oil
-- n/a beer
 - Washer soap
 - ziplock bags
 - saran wrap
 - recycling bags
-- toulet paper
+- toilet paper
 - paper towels
 - tylonol
 - Q-tips
