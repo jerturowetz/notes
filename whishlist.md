@@ -78,12 +78,8 @@
 - square plastic storage
 - Jars, caddy
 - Desktop Organizer
-
-### extras
-
 - Pens, Hi lighters
-- Notepad
-- Desktop plastic storage
+- Notepads
 - scisors
 - Nut Driver set
 - Screw driver set
