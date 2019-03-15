@@ -81,6 +81,15 @@
 
 ### extras
 
+- Pens, Hi lighters
+- Notepad
+- Desktop plastic storage
+- scisors
+- Nut Driver set
+- Screw driver set
+- Tie wraps
+- cable velcro
+- Pen Holder
 - 5/8-27 tap
 - 5/8-27 mounting plate
 - CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
