@@ -3,6 +3,7 @@
 - Kate call CLSC for vax
 - Kate communauto
 - BKDSN T4
+- level full size
 - Plan Ottawa (stay friday night, leame sat PM, be home late)
   - place to stay (AirBnB)
   - plans with pals

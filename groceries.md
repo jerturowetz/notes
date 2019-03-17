@@ -2,25 +2,18 @@
 
 - Milk
 - OJ
-- broccoli
-- apples
-- Bananas
-- Fancy cheddar
+- coffee
 - Spicy Italian sausage
 - breakfast sausage
 - Ground pork and beef
 - Bacon
 - Whole chicken
-- Vegetable oil x2
-- Canola oil
 - Washer soap
 - ziplock bags
 - saran wrap
 - recycling bags
-- toilet paper
 - paper towels
-- tylonol
-- Q-tips
+- tylonol, advil for home & work
 
 ## Spice store
 
@@ -34,4 +27,4 @@
 ## Chinese grocery
 
 - noodles (frozen ?)
-- dumplings
+- duck, pork
