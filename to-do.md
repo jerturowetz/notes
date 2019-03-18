@@ -1,10 +1,13 @@
 # Jer's To-Do List
 
 - 2x4 board
-- Kate communauto
 - BKDSN T4
-- level full size
-- Plan Ottawa (stay friday night, leame sat PM, be home late)
+- Bill Carly at x2 rate (like 4 hours?)
+- Graham snake
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
+- Solotech for refund on broken EQ 459-26
+- Pick up gift cert at scandinave
+- Plan Ottawa (stay friday night, leame sat PM, be home late):
   - place to stay (AirBnB)
   - plans with pals
 - Print shop:
@@ -13,11 +16,6 @@
 - Stop by steves:
   - RCA M to 3.5mm F adaptor
   - RCA F to 3.5mm M adaptor
-- Bill Carly at x2 rate (like 4 hours?)
-- Graham snake
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
-- Solotech for refund on broken EQ 459-26
-- Pick up gift cert at scandinave
 - IKEA:
   - ribba 50x70cm (002.688.76)
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
