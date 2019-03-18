@@ -7,7 +7,6 @@
 - breakfast sausage
 - Ground pork and beef
 - Bacon
-- Whole chicken
 - Washer soap
 - ziplock bags
 - saran wrap

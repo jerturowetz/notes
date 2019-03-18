@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- 2x4 board
 - Kate call CLSC for vax
 - Kate communauto
 - BKDSN T4
