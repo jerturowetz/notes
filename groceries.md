@@ -2,17 +2,17 @@
 
 - Milk
 - OJ
-- coffee
+- Coffee
 - Spicy Italian sausage
 - breakfast sausage
 - Ground pork and beef
 - Bacon
 - Washer soap
 - ziplock bags
-- saran wrap
-- recycling bags
-- paper towels
-- tylonol, advil for home & work
+- Saran wrap
+- Recycling bags
+- Paper towels
+- Tylonol, Advil for home & work
 
 ## Spice store
 
