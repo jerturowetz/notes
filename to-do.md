@@ -1,8 +1,8 @@
 # Jer's To-Do List
 
-- 2x4 board
-- BKDSN T4
+- 2x4 for bike hook & 3" wood screws
 - Bill Carly at x2 rate (like 4 hours?)
+- BKDSN T4
 - Graham snake
 - City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
 - Solotech for refund on broken EQ 459-26

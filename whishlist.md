@@ -19,17 +19,18 @@
 
 ## Rehersal space
 
-### Cables
-
-#### Redco
+### Redco
 
 - 50' Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 60' USD BROWN Canare L-4E6S Quad mic Cable (10' cables x 6)
-- 120' USD RED Canare L-4E6S Quad mic Cable (15' cables x8)
+- 60' BROWN Canare L-4E6S Quad mic cable (10' cables x6)
+- 90' BLUE Canare L-4E6S Quad mic cable (15' cables x6)
+- 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
+- Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
+- Redco 1U Punched XLR Rack Panels (8holes)
 
-#### Mouser
+### Mouser
 
-- 3.5mm ends
+- 3.5mm ends x4
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
@@ -38,37 +39,50 @@
 - Neutrik NC3MXX-BAG x16 (for regular xlr cables)
 - Neutrik NC3FXX-BAG x16 (for regular xlr cables)
 
-### Missing mics
+### Mics
 
-- Sennheiser BF 504 (snare top)
 - EV 635A (drum WURST on floor)
 - 2020 (OH)
-- Sennheiser e901, Heil PR40 or whatever (kick)
-- Beyerdynamic M 201 (snare side)
-- Shure Beta 98AD (snare bottom)
 - Audio Technica 4040 &/or 4050 (Room)
-- sm57 x2
-- Sennheiser e602 (floor tom)
+- Shure Beta 98AD (snare bottom - frees up a 57)
+- Angled '57
+- Kick in & Kick out
 - Electro-Voice RE20 (guit)
-- Audio-Technica AT4051 (cymbals close mic)
-- Blue Microphones Hummingbird (single mic for drums)
-- Neuman km84 pair
-- MKH 418-S
-- SEN MKH 40 (pair)
-- Sony D50 or Zoom
 
 ### DIs
 
-- Various DIs (bass, keys, guitar), maybe Key Largo for Travis mains
-- palmer pdi-09 for guitar di (after fx)
+- Key Largo
+- JDI stereo (for active bass)
+- JDV stereo (for passive bass)
+- Palmer pdi-09 for guitar di (after fx) x2
 - Radial ProAV1 or Whirlwind pcDI
+- Radial box to convert for iPhone
+- Rack DI ?
 
 ### Mic stands
 
-- K&M 210/8 or 252 (rack tom)
-- K&M 16080 x2
-- Better short mic stand for kick
 - $40 ea Wishbone amp hook x2
+- K&M 210/8 or 252 (rack tom)
+- K&M 16080 headphone holder x2
+- Better short mic stand for kick & snare
+- Better tall stands for OHs
+- Sandbags
+
+## Crashes
+
+- 18"+ K custom Dark Crash
+- 18"+ K Dark Thin Crash
+- 18"+ A Thin Crash
+- 18"+ A Medium thin Crash
+- 18"+ A Adevis crash
+- 20"+ K Crash Ride
+
+## Rides
+
+- 22" K custom ride
+- 24" K Light Ride
+- 22" K dark medium ride
+- 22" A Medium Ride
 
 ### Pegboard & workspace
 
@@ -119,50 +133,3 @@
 - Rug (ikea has good prices)
 - Sabian grip disc
 - reflex drum pad (really quiet)
-
-## Crashes
-
-- 18"+ K custom Dark Crash
-- 18"+ K Dark Thin Crash
-- 18"+ A Thin Crash
-- 18"+ A Medium thin Crash
-- 18"+ A Adevis crash
-- 20"+ K Crash Ride
-
-## Rides
-
-- 22" K custom ride
-- 24" K Light Ride
-- 22" K dark medium ride
-- 22" A Medium Ride
-
-## Canoe camping (3 season)
-
-- $55 MSR Hubba Hubba NX Footprint
-- $20 MSR Groundhog Tent Stake Kit
-- Canoe bag(s)
-- Old-style sealine or sea-to-summit dry bags
-- Sea to summit event compression/dry sacks S,S,M,M (have an XL)
-- MSR replcaemnt o-rings (a dozen or so)
-- Sleeping bag
-- Sleeping pad
-
-Mess kit stuff:
-
-- MSR Alpine 4 pot set
-- plates/cups set
-- minimalist tarp with holes everywhere
-- Knives, spatula, spoon
-
-Clothes:
-
-- Darn tough socks x3
-- long underwear top & bottom
-- sweater thing (sleece, wool, something with a collar)
-- Fleece/wool vest
-- clothes (shorts, shirts)
-- packable down something
-- rain gear top & bottom
-- windbreaker top
-- hiking boots
-- Hat
