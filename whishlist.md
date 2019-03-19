@@ -120,9 +120,14 @@
   - 12 channel cable for floor snake
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape and/or scribble tape
+- Video prodcution Sandbags
 - 1RU xlr passthrough & 1 RU brush panel
 - Rode SC4 for plugging iPad and mixer
 - BSS FCS-960 EQ
+- Sansamp DI
+- Tuner
+- Powered mon for drums
+- Powered mon for vox
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - Whirlwind Qbox
 - $350 US centrance mixerface
