@@ -1,18 +1,22 @@
 # Groceries
 
-- Milk
+- Radishes
+- fancy cheddar
+- reg cheddar
+- bread
+- wraps
 - OJ
-- Coffee
+- Apple something
 - Spicy Italian sausage
 - breakfast sausage
 - Ground pork and beef
-- Bacon
+- Apple cider vinigre
+- Regular tea
 - Washer soap
-- ziplock bags
 - Saran wrap
 - Recycling bags
 - Paper towels
-- Tylonol, Advil for home & work
+- tylonol, advil for home & work
 
 ## Spice store
 
