@@ -1,5 +1,6 @@
 # Wishlist
 
+- Kosher Style (deliver to home)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -10,7 +11,6 @@
 ## Kate
 
 - Book: we cast a shadow
-- Amy Rosen cookbook
 - Aveda products
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
@@ -23,13 +23,13 @@
 
 #### Redco
 
-- Balanced medium light cable for patches (1', 1.5' & 2' pairs, can get plenty of extra cable it's affordable)
-- Headphone replacment cable (reg balanced cable?)
-- $40 USD BROWN Canare L-4E6S Quad mic Cable x60' (10' cables x 8)
-- $60 USD RED Canare L-4E6S Quad mic Cable x120' (15' cables x8)
+- 50' Redco TGS-01 balanced medium light cable (for patches & headphone repair)
+- 60' USD BROWN Canare L-4E6S Quad mic Cable (10' cables x 6)
+- 120' USD RED Canare L-4E6S Quad mic Cable (15' cables x8)
 
 #### Mouser
 
+- 3.5mm ends
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
@@ -43,7 +43,7 @@
 - Sennheiser BF 504 (snare top)
 - EV 635A (drum WURST on floor)
 - 2020 (OH)
-- Sennheiser e901, Heil PR40 (kick)
+- Sennheiser e901, Heil PR40 or whatever (kick)
 - Beyerdynamic M 201 (snare side)
 - Shure Beta 98AD (snare bottom)
 - Audio Technica 4040 &/or 4050 (Room)
@@ -72,6 +72,7 @@
 
 ### Pegboard & workspace
 
+- level full size
 - Hook set
 - Wire Baskets
 - Paper towel holder
