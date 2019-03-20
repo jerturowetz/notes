@@ -98,8 +98,8 @@
   - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
   - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
   - add versioning to js & css
-  - Add ruby sprokets and the jekyll asset pipeline
 - Various:
+  - [Rust guide](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp)
   - [New search console](https://support.google.com/webmasters/topic/7440006?hl=en&ref_topic=4558844)
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
   - [Bash Guide for beginners - interactive scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_08.html)
