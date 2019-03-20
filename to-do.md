@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- window cleaner
 - 2x4 for bike hook & 3" wood screws
 - Bill Carly at x2 rate (like 4 hours?)
 - BKDSN T4
