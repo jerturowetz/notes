@@ -1,22 +1,21 @@
 # Groceries
 
 - Radishes
-- fancy cheddar
-- reg cheddar
-- bread
-- wraps
-- OJ
-- Apple something
+- Carrots
+- Green leaf
+- Reg & fancy cheddar
+- bread & wraps
+- OJ, Apple whatever
 - Spicy Italian sausage
-- breakfast sausage
+- Breakfast sausage
 - Ground pork and beef
-- Apple cider vinigre
+- Apple cider vinaigre
 - Regular tea
 - Washer soap
 - Saran wrap
 - Recycling bags
 - Paper towels
-- tylonol, advil for home & work
+- Tylonol for kate
 
 ## Spice store
 
