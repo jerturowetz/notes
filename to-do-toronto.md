@@ -2,25 +2,26 @@
 
 ## Sights
 
-https://ago.ca/
+AGO
+MOCA
+Toronto Ref library
+ROM
+Aga Kahn Museaum
+
 Cinesphere
+CN Tower
+
 Evergreen brick works
 David A Balfour park
-Moca
-Toronto Ref library
 High Park
+Allan Gardens
+
 West QUeen West shopping
 Geary Ave
+
+## Night out
+
 Woody's (drag show)
-Allan Gardens
-CN Tower
-ROM museaum
-Aga Kahn Museaum
-Streetcar Crowsnest theater
-DDO
-
-## Food & drink
-
 Saint Lawrence Market
 Scarborough cheap eats
 Little tibet
