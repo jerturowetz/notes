@@ -1,29 +1,30 @@
 # Jer's To-Do List
 
-- get dimensions for sex box 32cm
 - get screw size for shelves (concrete drill bit)
-- window cleaner
+- Stop by steves:
+  - RCA M to 3.5mm F adaptor
+  - RCA F to 3.5mm M adaptor
+- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514-872-0311)
+- Solotech for refund on broken EQ 459-26
+- Plan Ottawa (stay friday night, leame sat PM, be home late):
+  - place to stay (AirBnB)
+  - plans with pals
 - 2x4 for bike hook & 3" wood screws
 - Bill Carly at x2 rate (like 4 hours?)
 - BKDSN T4
 - Graham snake
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514 872-0311)
-- Solotech for refund on broken EQ 459-26
 - Pick up gift cert at scandinave
-- Plan Ottawa (stay friday night, leame sat PM, be home late):
-  - place to stay (AirBnB)
-  - plans with pals
+- Last thank yous
+- Find a used baby bjorn
+- Joceline re window washing
 - Print shop:
   - a few more thank yous
   - Sal Salis
-- Stop by steves:
-  - RCA M to 3.5mm F adaptor
-  - RCA F to 3.5mm M adaptor
 - IKEA:
   - ribba 50x70cm (002.688.76)
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
-- Last thank yous
-- Find a used baby bjorn
+  - KVARNVIK 704.128.75
+  - BESTÅ 003.075.52
 
 ## Various
 

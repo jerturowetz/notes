@@ -1,5 +1,6 @@
 # Wishlist
 
+- Shure SE215 replacements
 - usbc displayport
 - portable charger
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -123,7 +124,6 @@
 - 3/4" console tape and/or scribble tape
 - Video prodcution Sandbags
 - 1RU xlr passthrough & 1 RU brush panel
-- Rode SC4 for plugging iPad and mixer
 - BSS FCS-960 EQ
 - Sansamp DI
 - Tuner
@@ -139,3 +139,11 @@
 - Rug (ikea has good prices)
 - Sabian grip disc
 - reflex drum pad (really quiet)
+- dj laptop stand/riser
+- SPD-SX
+- ems vocoder 2000
+- Little Phatty
+- MS2000
+- Electro Voice RE-15 (drummer vox)
+- Electro-Harmonix Memory Toy delay pedal
+- Radial JISO for running BAL into iphone
