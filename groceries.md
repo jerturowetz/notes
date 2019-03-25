@@ -1,14 +1,24 @@
 # Groceries
 
+- fresh fruit
+- bananas
+- Apples
 - Radishes
 - Carrots
 - Green leaf
 - Reg & fancy cheddar
-- bread & wraps
+- multigrain bread & wraps
 - OJ, Apple whatever
 - Spicy Italian sausage
 - Breakfast sausage
 - Ground pork and beef
+- dijon
+- pickled eggplant
+- perrier
+- pizza sauce
+- penne
+- pasta sauce x3 (not tomtoes)
+- sambal olek
 - Apple cider vinaigre
 - Regular tea
 - Washer soap

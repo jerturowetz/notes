@@ -1,8 +1,7 @@
 # Jer's To-Do List
 
-- get simensions for sex box
+- get dimensions for sex box 32cm
 - get screw size for shelves (concrete drill bit)
-- cancel spotify
 - window cleaner
 - 2x4 for bike hook & 3" wood screws
 - Bill Carly at x2 rate (like 4 hours?)
