@@ -1,11 +1,9 @@
 # Jer's To-Do List
 
+- system for tv, torrenting, netflix
+- system for gaming
+
 - get screw size for shelves (concrete drill bit)
-- Stop by steves:
-  - RCA M to 3.5mm F adaptor
-  - RCA F to 3.5mm M adaptor
-- City of Montreal compost bin (201 Laurier est open until 5pm, call in advance 514-872-0311)
-- Solotech for refund on broken EQ 459-26
 - Plan Ottawa (stay friday night, leame sat PM, be home late):
   - place to stay (AirBnB)
   - plans with pals

@@ -1,6 +1,8 @@
 # Wishlist
 
-- Shure SE215 replacements
+
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
 - usbc displayport
 - portable charger
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
