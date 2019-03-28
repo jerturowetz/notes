@@ -169,3 +169,6 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 - Radial JISO for running BAL into iphone
 - bulk 7A sticks
 - bulk 5A sticks
+- ditto looper
+- Bass preamp(SansAmp, Aguilar tone hammer, Darkglass Microtubes b7k ultra)
+- Bass distortion (Bass Big Muff, Aguilar Aggro, Boss bass overdrive)
