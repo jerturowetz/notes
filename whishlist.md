@@ -1,10 +1,12 @@
 # Wishlist
 
-
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
+- system for gaming (external card?)
+- Better monitor
 - usbc displayport
 - portable charger
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
+- $250 Nvidia Shield TV
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -20,6 +22,22 @@
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
 - Choker
+
+## Games
+
+Games to get on the iPad or Sheild. Might wanna look through the steam wishlist to see others that might be moved here.
+
+- Wayward Souls
+- The Quest
+- Across Age
+- Oceanhorn
+- Monument Valley
+- A Dark Room
+- Final Fantasy XV Pocket Edition
+- Final Fantasy IX
+- Mage Gauntlet
+- Lineage2
+- Severed
 
 ## Rehersal space
 
@@ -149,3 +167,5 @@
 - Electro Voice RE-15 (drummer vox)
 - Electro-Harmonix Memory Toy delay pedal
 - Radial JISO for running BAL into iphone
+- bulk 7A sticks
+- bulk 5A sticks

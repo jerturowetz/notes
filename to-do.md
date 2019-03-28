@@ -1,8 +1,5 @@
 # Jer's To-Do List
 
-- system for tv, torrenting, netflix
-- system for gaming
-
 - get screw size for shelves (concrete drill bit)
 - Plan Ottawa (stay friday night, leame sat PM, be home late):
   - place to stay (AirBnB)
@@ -23,6 +20,7 @@
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
   - KVARNVIK 704.128.75
   - BESTÅ 003.075.52
+- Bootlegger, L'Authentique Thursday hip hop jam
 
 ## Various
 
