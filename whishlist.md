@@ -1,11 +1,14 @@
 # Wishlist
 
+- Headphone roll up thingy
+
 - system for gaming (external card?)
-- Better monitor
-- usbc displayport
-- portable charger
+- Portable charger/powerbrick
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
+
+
+
 - $250 Nvidia Shield TV
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
@@ -41,14 +44,26 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 
 ## Rehersal space
 
+- Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
+- Redco 1U Punched XLR Rack Panels (8holes)
+
+
+
+
+
 ### Redco
+
+?? cabelling
+
+Red, orange, grey
+thin cable in a color
+short quad cable
+short low profile cable
 
 - 50' Redco TGS-01 balanced medium light cable (for patches & headphone repair)
 - 60' BROWN Canare L-4E6S Quad mic cable (10' cables x6)
 - 90' BLUE Canare L-4E6S Quad mic cable (15' cables x6)
 - 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
-- Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
-- Redco 1U Punched XLR Rack Panels (8holes)
 
 ### Mouser
 
@@ -70,6 +85,7 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 - Angled '57
 - Kick in & Kick out
 - Electro-Voice RE20 (guit)
+- Electro Voice RE-15 (drummer vox)
 
 ### DIs
 
@@ -80,17 +96,21 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 - Radial ProAV1 or Whirlwind pcDI
 - Radial box to convert for iPhone
 - Rack DI ?
+- Radial JISO for running BAL into iphone
 
 ### Mic stands
 
+- mic clips
+- Primacoustic CrashGuard 421 x2
+- Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
 - K&M 210/8 or 252 (rack tom)
 - K&M 16080 headphone holder x2
 - Better short mic stand for kick & snare
 - Better tall stands for OHs
-- Sandbags
+- Mic stand sandbags
 
-## Crashes
+### Crashes
 
 - 18"+ K custom Dark Crash
 - 18"+ K Dark Thin Crash
@@ -99,76 +119,67 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 - 18"+ A Adevis crash
 - 20"+ K Crash Ride
 
-## Rides
+### Rides
 
 - 22" K custom ride
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
 
-### Pegboard & workspace
+### Workbench/Other
 
-- level full size
 - Hook set
 - Wire Baskets
-- Paper towel holder
-- square plastic storage
-- Jars, caddy
-- Desktop Organizer
+- Desktop storage (plastic boxes, jars, caddies, organizer, Pen Holder)
 - Pens, Hi lighters
 - Notepads
 - scisors
+- air freshener
+- elastic bands
 - Nut Driver set
 - Screw driver set
 - Tie wraps
+- Downbeats or Zildjian ear plugs
+- 3/4" console tape and/or scribble tape
+- Ampeg knob
+- Ampeg casters
+- Rug (ikea has good prices)
+- Sabian grip disc
+- reflex drum pad (really quiet)
 - cable velcro
-- Pen Holder
+- heat shrink
+- bulk 7A sticks
+- bulk 5A sticks
+- Fix and complete drop snake (8 send, 4 ret):
+  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+  - 12 channel cable for floor snake
+
+
+
+
+
+
+
+- better clutch
+- dj laptop stand/riser
+- SPD-SX
+- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
+- Whirlwind Qbox
+- $350 US centrance mixerface
 - 5/8-27 tap
 - 5/8-27 mounting plate
 - CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
 - Pedco Ultra Clamp Assembly with 1/4"-20 Screw
 - OnStage TMO1 Multi Clamp Microphone Mount
 - Apex cradlemount mic clips
-- Heat gun
-- mic clips
-- air freshener for space
-- elastic bands
-- heat shrink
 - cable gland joints for headphones
 - Rowie clamp
 - Pedco Clamps (2 or 3) and mice adaptors
-- Fix and complete drop snake (8 send, 4 ret):
-  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-  - 12 channel cable for floor snake
-- Downbeats or Zildjian ear plugs
-- 3/4" console tape and/or scribble tape
-- Video prodcution Sandbags
 - 1RU xlr passthrough & 1 RU brush panel
-- BSS FCS-960 EQ
-- Sansamp DI
-- Tuner
 - Powered mon for drums
 - Powered mon for vox
-- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- Whirlwind Qbox
-- $350 US centrance mixerface
-- Primacoustic CrashGuard 421 x2
-- Primacoustic SplashGuard x2
-- Ampeg knob
-- Ampeg casters
-- Rug (ikea has good prices)
-- Sabian grip disc
-- reflex drum pad (really quiet)
-- dj laptop stand/riser
-- SPD-SX
-- ems vocoder 2000
-- Little Phatty
-- MS2000
-- Electro Voice RE-15 (drummer vox)
-- Electro-Harmonix Memory Toy delay pedal
-- Radial JISO for running BAL into iphone
-- bulk 7A sticks
-- bulk 5A sticks
-- ditto looper
-- Bass preamp(SansAmp, Aguilar tone hammer, Darkglass Microtubes b7k ultra)
-- Bass distortion (Bass Big Muff, Aguilar Aggro, Boss bass overdrive)
+- passthrough for mix wiz
+- rack DI
+- rack power
+- Phone cam mount & attachment for DI box
+- JB30 talkback mic

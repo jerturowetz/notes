@@ -1,10 +1,12 @@
 # Jer's To-Do List
 
-- get screw size for shelves (concrete drill bit)
-- Plan Ottawa (stay friday night, leame sat PM, be home late):
-  - place to stay (AirBnB)
-  - plans with pals
-- 2x4 for bike hook & 3" wood screws
+- HW store:
+  - Level
+  - White screws for shelves
+  - Concrete drill bit & anchors
+  - 2x4 for bike hook & 3" wood screws
+
+- Invite Jamie to ottawa show
 - Bill Carly at x2 rate (like 4 hours?)
 - BKDSN T4
 - Graham snake
@@ -20,7 +22,24 @@
   - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
   - KVARNVIK 704.128.75
   - BESTÅ 003.075.52
+  - storage box for xmas
+  - storage boxes for clothes
 - Bootlegger, L'Authentique Thursday hip hop jam
+
+## Fer Sher info
+
+When we upload to Spotify we must include full legal names (even RZA is required to do this) - so ill need the name listed on yer drivers license/passport
+
+Fer Sher is:
+
+bass - oscan evans
+guitar - yamin weiss
+guitar - ben evans
+vocals - ali o
+drums - jeremy turowetz
+
+recorded on mars in montreal
+recorded, mixed, mastered by ben evans
 
 ## Various
 
