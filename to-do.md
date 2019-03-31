@@ -8,6 +8,9 @@ Ottawa april 5 w/ @0robor0fficial & @bosky.band @ @pressedottawa
 🎶🎶🎶
 
 - HW store:
+  - auper glue
+  - big pads for table
+  - method
   - Level
   - Concrete drill bit re anchors
   - Concrete anchors & white screws for shelves
