@@ -1,11 +1,19 @@
 # Jer's To-Do List
 
+My band Fer Sher is dropping our first single Sunday. Come see us live:
+🎶🎶🎶
+Mtl april 4 w/ @gguullffeerr & @wearestandards @ casa del popolo
+🎶🎶🎶
+Ottawa april 5 w/ @0robor0fficial & @bosky.band @ @pressedottawa
+🎶🎶🎶
+
 - HW store:
   - Level
-  - White screws for shelves
-  - Concrete drill bit & anchors
-  - 2x4 for bike hook & 3" wood screws
-
+  - Concrete drill bit re anchors
+  - Concrete anchors & white screws for shelves
+  - Concrete anchors & Screws for new chair hanger
+  - 3/4" quarter round for thingy
+  - 3" wood screws
 - Invite Jamie to ottawa show
 - Bill Carly at x2 rate (like 4 hours?)
 - BKDSN T4
