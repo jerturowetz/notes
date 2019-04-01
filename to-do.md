@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+- Check apple/itunes profiles for bands, claim missing
+- Claim Fer Sher's [google play artist](https://play.google.com/music/publish/)
+- Claim all 3 bands knowledge panels on google
 - Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
 - Pick up gift cert at scandinave
