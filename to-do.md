@@ -1,23 +1,5 @@
 # Jer's To-Do List
 
-My band Fer Sher is dropping our first single Sunday. Come see us live:
-🎶🎶🎶
-Mtl april 4 w/ @gguullffeerr & @wearestandards @ casa del popolo
-🎶🎶🎶
-Ottawa april 5 w/ @0robor0fficial & @bosky.band @ @pressedottawa
-🎶🎶🎶
-
-- HW store:
-  - auper glue
-  - big pads for table
-  - method
-  - Level
-  - Concrete drill bit re anchors
-  - Concrete anchors & white screws for shelves
-  - Concrete anchors & Screws for new chair hanger
-  - 3/4" quarter round for thingy
-  - 3" wood screws
-- Invite Jamie to ottawa show
 - Bill Carly at x2 rate (like 4 hours?)
 - BKDSN T4
 - Graham snake
@@ -29,8 +11,6 @@ Ottawa april 5 w/ @0robor0fficial & @bosky.band @ @pressedottawa
   - a few more thank yous
   - Sal Salis
 - IKEA:
-  - ribba 50x70cm (002.688.76)
-  - [Ikea hook for folding chairs](https://www.ikea.com/ca/en/catalog/products/40350143/)
   - KVARNVIK 704.128.75
   - BESTÅ 003.075.52
   - storage box for xmas

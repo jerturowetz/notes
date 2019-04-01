@@ -1,5 +1,15 @@
 # Groceries
 
+paper towels
+toilet paper
+kleenex
+lysol all purpose
+recycling bags
+panko
+
+
+
+
 - fresh fruit
 - bananas
 - Apples
