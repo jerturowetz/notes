@@ -1,40 +1,31 @@
 # Groceries
 
-paper towels
-toilet paper
-kleenex
-lysol all purpose
-recycling bags
-panko
-
-
-
-
+- panko
 - fresh fruit
 - bananas
 - Apples
 - Radishes
-- Carrots
 - Green leaf
 - Reg & fancy cheddar
-- multigrain bread & wraps
-- OJ, Apple whatever
+- multigrain bread
+- Apple juice
 - Spicy Italian sausage
 - Breakfast sausage
 - Ground pork and beef
-- dijon
+- Dijon
 - pickled eggplant
-- perrier
 - pizza sauce
 - penne
-- pasta sauce x3 (not tomtoes)
+- pasta sauce x3 (not tomatoe sauce)
 - sambal olek
 - Apple cider vinaigre
 - Regular tea
-- Washer soap
 - Saran wrap
 - Recycling bags
 - Paper towels
+- toilet paper
+- kleenex
+- lysol all purpose
 - Tylonol for kate
 
 ## Spice store

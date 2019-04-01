@@ -1,12 +1,11 @@
 # Jer's To-Do List
 
 - Bill Carly at x2 rate (like 4 hours?)
-- BKDSN T4
 - Graham snake
 - Pick up gift cert at scandinave
 - Last thank yous
 - Find a used baby bjorn
-- Joceline re window washing
+- Find baby thermometer
 - Print shop:
   - a few more thank yous
   - Sal Salis
@@ -16,28 +15,9 @@
   - storage box for xmas
   - storage boxes for clothes
 - Bootlegger, L'Authentique Thursday hip hop jam
-
-## Fer Sher info
-
-When we upload to Spotify we must include full legal names (even RZA is required to do this) - so ill need the name listed on yer drivers license/passport
-
-Fer Sher is:
-
-bass - oscan evans
-guitar - yamin weiss
-guitar - ben evans
-vocals - ali o
-drums - jeremy turowetz
-
-recorded on mars in montreal
-recorded, mixed, mastered by ben evans
-
-## Various
-
 - book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
 - Kate push present
 - SJ recording
-- Telus add mom as billing entity
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
 - Plans with Kalin & Raoul Movie night
