@@ -1,25 +1,24 @@
 # Jer's To-Do List
 
-- Check apple/itunes profiles for bands, claim missing
-- Claim Fer Sher's [google play artist](https://play.google.com/music/publish/)
+- Song w/Juan
+- add profile photos for fer sher gplay, spotify, itunes
 - Claim all 3 bands knowledge panels on google
 - Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
 - Pick up gift cert at scandinave
-- Last thank yous
 - Find a used baby bjorn
 - Find baby thermometer
 - Print shop:
   - a few more thank yous
   - Sal Salis
+- Last thank yous
 - IKEA:
   - KVARNVIK 704.128.75
   - BESTÅ 003.075.52
   - storage box for xmas
   - storage boxes for clothes
 - Bootlegger, L'Authentique Thursday hip hop jam
-- book a ruby show, after the 15th march - helen of joy, tugawar, hyesa etc, bet nwar, march of the worm &tugawar
-- Kate push present
+- book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
 - SJ recording
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
@@ -80,6 +79,7 @@
 ## Code study
 
 - PHP:
+  - [Legit good php course](https://www.killerphp.com/tutorials/php-objects-page-3/)
   - [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
   - [Php 5 tutorial](https://www.w3schools.com/php/)
   - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
