@@ -1,13 +1,14 @@
 # Groceries
 
+- Greek yogurt
 - panko
 - fresh fruit
 - bananas
 - Apples
 - Radishes
-- Green leaf
 - Reg & fancy cheddar
 - multigrain bread
+- Bagels
 - Apple juice
 - Spicy Italian sausage
 - Breakfast sausage

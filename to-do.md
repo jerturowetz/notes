@@ -92,6 +92,8 @@
   - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
   - add versioning to js & css
 - Various:
+  - [Awesome testings resources](https://github.com/TheJambo/awesome-testing)
+  - [Avocpde collab tool](https://avocode.com/)
   - [Rust guide](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp)
   - [New search console](https://support.google.com/webmasters/topic/7440006?hl=en&ref_topic=4558844)
   - [Bash user input](https://stackoverflow.com/questions/1989439/shell-function-to-prompt-for-and-return-input)
