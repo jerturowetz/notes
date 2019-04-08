@@ -1,5 +1,8 @@
 # Groceries
 
+- eggs
+- butter
+- duck fat
 - Greek yogurt
 - panko
 - fresh fruit

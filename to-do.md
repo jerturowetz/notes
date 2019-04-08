@@ -92,6 +92,7 @@
   - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
   - add versioning to js & css
 - Various:
+  - [Browsh, text-based browser](https://www.brow.sh/) 
   - [Awesome testings resources](https://github.com/TheJambo/awesome-testing)
   - [Avocpde collab tool](https://avocode.com/)
   - [Rust guide](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp)
