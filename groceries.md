@@ -1,15 +1,12 @@
 # Groceries
 
+- Apples, Bananas
+- Green leaf & green sides
+- Ground pork and beef
+- Saucisse for freeze
 - duck fat
 - Greek yogurt plain
 - panko
-- fresh fruit
-- bananas
-- Apples
-- Ground pork and beef
-- saucisse for freeze
-
-- Dijon
 - pickled eggplant
 - pizza sauce
 - penne
@@ -18,8 +15,9 @@
 - Regular tea
 - Saran wrap
 - Paper towels
-- kleenex
+- Kleenex
 - lysol all purpose
+- Oven cleaner
 - Tylonol for kate
 
 ## Spice store

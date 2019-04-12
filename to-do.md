@@ -85,13 +85,25 @@
   - [Laracasts: PHP](https://laracasts.com/series/php-for-beginners)
   - [Better PHP](https://www.youtube.com/user/betterphp)
   - [PHP academy](https://www.youtube.com/user/phpacademy)
-- Jekyll:
-  - [jekyll-webpack](https://github.com/clenemt/jekyll-webpack/blob/master/README.md)
-  - [Plugging Webpack to Jekyll Powered Pages](https://www.jonathan-petitcolas.com/2016/08/12/plugging-webpack-to-jekyll-powered-pages.html)
-  - [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate/blob/master/README.md)
-  - [Webpack Asset Managment](https://webpack.js.org/guides/asset-management/)
-  - add versioning to js & css
+  - [Intor to php7](https://teamtreehouse.com/library/introduction-to-php7)
+- Gatsby (things I have w/jekyll)
+  - sitemaps
+  - multilang
+  - assets pipeline
+  - css/js versioning
 - Various:
+  - [React Introduction](https://medium.freecodecamp.org/react-introduction-for-people-who-know-just-enough-jquery-to-get-by-2019-version-28a4b4316d1a)
+  - [Netlify Dev](https://www.netlify.com/products/dev/)
+  - [Netlify CLI](https://www.netlify.com/docs/cli/)
+  - [Let your JS variables be constant](https://blog.pragmatists.com/let-your-javascript-variables-be-constant-1633e56a948d)
+  - [JS style guide](https://standardjs.com/)
+  - [ES Ling](https://davidwalsh.name/eslint)
+  - [Structured data using Schema.org: an Introduction](https://www.contentkingapp.com/academy/schema/)
+  - [CSS zero to hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16)
+  - [SaaS landing pages](https://www.cortes.design/post/best-saas-landing-page-examples-inspiration)
+  - [Master Keyword Research in 7 Days](https://nickeubanks.com/master-keyword-research/)
+  - [Docker basics](https://vsupalov.com/6-docker-basics/)
+  - [RSCSS](https://rscss.io/)
   - [Browsh, text-based browser](https://www.brow.sh/) 
   - [Awesome testings resources](https://github.com/TheJambo/awesome-testing)
   - [Avocpde collab tool](https://avocode.com/)
@@ -132,6 +144,8 @@
   - [Analytics academy](https://analytics.google.com/analytics/academy/)
   - screaming frog 101
 - Wordpress:
+  - [The Ultimate Mega Guide to Using Video With WordPress](https://premium.wpmudev.org/blog/video-wordpress/)
+  - [GUTENBERG AND CI/CD AT WORDCAMP NORDIC](https://wpengine.com/blog/gutenberg-and-ci-cd-at-wordcamp-nordic/)
   - [The Ultimate Guide to Image Optimization in Wordpress](https://www.proteusthemes.com/blog/ultimate-guide-image-optimization-wordpress/)
   - [Responsive Images Now Landed In WordPress Core](https://www.smashingmagazine.com/2015/12/responsive-images-in-wordpress-core/)
   - [WordPress Responsive Images With Art Direction](https://www.smashingmagazine.com/2016/09/responsive-images-in-wordpress-with-art-direction/)
@@ -145,6 +159,7 @@
   - [Deploying Wordpress like a pro](https://www.berriart.com/talks/wordpress-deployment/#/8/4)
   - [From Good to Great: Coding Standards and WordPress](https://hs.wpengine.com/recorded-webinar-good2great-coding-stds-wp)
   - [Wordpress: The right way](https://www.wptherightway.org/en/)
+  - [Parent Post From Another Post Type](https://1fix.io/blog/2016/02/05/parent-from-another-cpt/)
 - Testing/CI:
   - [travis and wordpress](https://github.com/BracketSpace/Notification/blob/develop/.travis.yml)
   - [Getting started with continuous integration and WordPress | The Man in the Arena](https://carlalexander.ca/continuous-integration-wordpress/)
