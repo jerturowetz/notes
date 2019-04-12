@@ -7,6 +7,8 @@
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 
+rack effects for vox
+gate/limiter/comp for vox amp
 
 
 - $250 Nvidia Shield TV
