@@ -1,16 +1,9 @@
 # Wishlist
 
 - Headphone roll up thingy
-
-- system for gaming (external card?)
 - Portable charger/powerbrick
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
-
-rack effects for vox
-gate/limiter/comp for vox amp
-
-
 - $250 Nvidia Shield TV
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - [Finnish baby box](https://www.finnishbabybox.com/en/)
@@ -48,10 +41,6 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 
 - Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
 - Redco 1U Punched XLR Rack Panels (8holes)
-
-
-
-
 
 ### Redco
 
@@ -185,3 +174,5 @@ short low profile cable
 - rack power
 - Phone cam mount & attachment for DI box
 - JB30 talkback mic
+- rack effects for vox
+- gate/limiter/comp for vox amp

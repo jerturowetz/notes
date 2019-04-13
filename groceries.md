@@ -19,6 +19,11 @@
 - lysol all purpose
 - Oven cleaner
 - Tylonol for kate
+- regular mustard
+- lemons
+- bleack
+- clr bathroom cleaner
+
 
 ## Spice store
 
