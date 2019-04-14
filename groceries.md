@@ -33,7 +33,6 @@
 - Greek yogurt plain
 - panko
 - Jam
-- pickled eggplant
 - pizza sauce
 - penne
 - pasta sauce x3 (not tomatoe sauce)
@@ -46,17 +45,8 @@
 - Kleenex
 - lysol all purpose
 - regular mustard
-- bleach
 - clr bathroom cleaner
 - Extra virgin olive oil
+- draio
+- windex
 
-### Tapas
-
-- Oven Cleaner
-- Regular Olive Oil
-- Crunchy bread
-- Spanish onion
-- 3 chili peppers
-- 6 cloves garlic
-- 2 tomatoes
-- sherry vinegar
