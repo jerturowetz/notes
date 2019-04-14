@@ -4,6 +4,7 @@
 
 - Rosemary
 - Thyme
+- sweet spansh paprik
 
 ## Butcher
 
