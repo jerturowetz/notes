@@ -4,7 +4,7 @@
 
 - Rosemary
 - Thyme
-- sweet spansh paprik
+- sweet spansh paprika
 
 ## Butcher
 
@@ -42,12 +42,11 @@
 - Whole black pepper
 - Coarse Salt
 - Saran wrap
+- regular mustard
+- Extra virgin olive oil
 - Paper towels
 - Kleenex
-- lysol all purpose
-- regular mustard
 - clr bathroom cleaner
-- Extra virgin olive oil
+- lysol all purpose
 - draio
 - windex
-
