@@ -24,32 +24,38 @@
 
 ## Metro
 
-- Apples, Bananas
-- Green leaf & green sides
-- garlic
-- Potatoes
-- Lemons
 - Ground pork and beef
 - Saucisse for freeze
 - duck fat
-- milk
-- orange juice
-- Greek yogurt plain
-- panko
-- Jam
-- pizza sauce
-- penne
 - pasta sauce x3 (not tomatoe sauce)
 - Apple cider vinaigre
+- regular mustard
+- OJ
+- Greek yogurt plain
+- panko
 - Regular tea
 - Whole black pepper
 - Coarse Salt
-- Saran wrap
-- regular mustard
 - Extra virgin olive oil
+- Saran wrap
 - Paper towels
 - Kleenex
 - clr bathroom cleaner
 - lysol all purpose
-- draio
+- draino
 - windex
+
+--
+
+- Bananas
+- Green leaf & green sides
+- Potatoes
+- milk
+- Creme fraiche
+- Kraft singles
+- Jam
+- pizza sauce
+- penne
+- Dish soap
+- n/A beer
+- chippies
