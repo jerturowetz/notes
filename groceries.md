@@ -24,15 +24,19 @@
 
 ## Metro
 
+- Kraft singles
+- Bananas
 - Ground pork and beef
 - Saucisse for freeze
 - duck fat
-- pasta sauce x3 (not tomatoe sauce)
 - Apple cider vinaigre
 - regular mustard
 - OJ
 - Greek yogurt plain
 - panko
+- penne
+- sundried in oil
+- kd
 - Regular tea
 - Whole black pepper
 - Coarse Salt
@@ -45,17 +49,3 @@
 - draino
 - windex
 
---
-
-- Bananas
-- Green leaf & green sides
-- Potatoes
-- milk
-- Creme fraiche
-- Kraft singles
-- Jam
-- pizza sauce
-- penne
-- Dish soap
-- n/A beer
-- chippies
