@@ -15,9 +15,12 @@
 - noodles (frozen ?)
 - duck, pork
 
-## Pharmacy
+## Pharmacy/HW
 
 - Tylonol for kate
+- Duct Tape
+- Toothpaste
+- Swiffer dusters
 
 ## Metro
 
