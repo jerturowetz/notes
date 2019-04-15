@@ -28,24 +28,23 @@
 - Bananas
 - Ground pork and beef
 - Saucisse for freeze
-- duck fat
+- Duck fat
 - Apple cider vinaigre
-- regular mustard
+- American mustard
 - OJ
 - Greek yogurt plain
-- panko
-- penne
-- sundried in oil
-- kd
+- Panko
+- Penne
+- Sundried tomatoes in oil
+- KD
 - Regular tea
 - Whole black pepper
-- Coarse Salt
+- Coarse salt
 - Extra virgin olive oil
 - Saran wrap
 - Paper towels
 - Kleenex
 - clr bathroom cleaner
-- lysol all purpose
-- draino
-- windex
-
+- Lysol all purpose
+- Draino
+- Windex
