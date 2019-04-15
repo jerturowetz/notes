@@ -1,28 +1,21 @@
 # Jer's To-Do List
 
-zoloft
-lamictal
-seroquîl / prilexa
-
-societe d onomastique 
-
-- Song w/Juan
-- add profile photos for fer sher gplay, spotify, itunes
-- Claim all 3 bands knowledge panels on google
-- Bill Carly at x2 rate (like 4 hours?)
-- Graham snake
-- Pick up gift cert at scandinave
-- Find a used baby bjorn
-- Find baby thermometer
 - Print shop:
   - a few more thank yous
   - Sal Salis
-- Last thank yous
+- Find baby thermometer
+- Graham snake
+- Song w/Juan
+- Claim band knowledge panels on Google
+- Bill Carly at x2 rate (like 4 hours?)
+- Pick up gift cert at scandinave
+- Find a used baby bjorn
+- Do my last thank yous
 - IKEA:
   - KVARNVIK 704.128.75
   - BESTÅ 003.075.52
   - storage box for xmas
-  - storage boxes for clothes
+  - storage boxes for clothes/winter boots
 - Bootlegger, L'Authentique Thursday hip hop jam
 - book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
 - SJ recording
@@ -37,35 +30,38 @@ societe d onomastique
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 
-## Call re pregnancy
-
-- ~~Joyce~~
-- ~~Riva~~
-- ~~Randee~~
-- ~~Gary~~
-- Matthew
-- Maureen
-- Linda
-- Nancy
-- Carol
-- Cousin carol
-- Pearl
-- Tom
-- Kyla
-
-## Psych help
-
-- Any psych really as I have refeeral now
-- [IUSMM Research](http://www.iusmm.ca/research.html)
-- [KIERON O'CONNOR](http://www.iusmm.ca/kieronoconnor.html)
-- [Douglas](http://www.douglas.qc.ca/?locale=en)
-
-## Musician's Insurance
+**Musician's insurance:**
 
 - Organize list of items (serail #s)
 - Obtain/research replacement value for all listed items
 - Find a company that insures for predefined value
 - Get a quote, apply, whatever
+
+**Shrink:**
+
+- Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
+- Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
+
+## Call re pregnancy
+
+- Matthew
+- Kyla
+
+## Food
+
+- [How to flatten a chicken](https://recipesorreservations.com/2012/08/06/how-to-split-and-flatten-a-chicken-for-grilling/)
+- [roast chicken w/ patates and brussel sprouts](https://natashaskitchen.com/spatchcock-chicken-recipe-video/)
+- [Bravvas sauce](https://www.196flavors.com/spain-patatas-bravas/)
+- [buffalo chickpea wraps](https://minimalistbaker.com/spicy-buffalo-chickpea-wraps/)
+- [Italian chicken sandwich](https://www.thekitchn.com/recipe-italian-chicken-salad-sandwiches-80069)
+- [Sweet potato wraps](https://www.thekitchn.com/recipe-roasted-sweet-potato-wraps-with-caramelized-onions-and-pesto-167367)
+- [One pot sticky chicen wings](https://www.foodandwine.com/recipes/one-pot-sticky-chicken-wings)
+- [Braised lamb shoulder](https://www.seriouseats.com/recipes/2018/02/braised-lamb-shoulder-with-dried-chiles-and-dates.html)
+- [Legit good kale hot pcockes](https://www.thekitchn.com/recipe-spiced-lentil-sweet-potato-and-kale-whole-wheat-pockets-181100)
+- [Carne Adovada](https://www.seriouseats.com/2012/12/the-food-lab-how-to-make-carne-adovada-chili-braised-pork.html)
+- [Beef Barbacoa](https://www.seriouseats.com/2012/04/better-than-chipotles-beef-barbacoa-tacos.html)
+- Best fries
+- Vegetarian Lasagna
 
 ## Calendar Idea
 
@@ -98,6 +94,7 @@ societe d onomastique
   - assets pipeline
   - css/js versioning
 - Various:
+  - [CSS variables](https://leaverou.github.io/talks/css-variables/)
   - [React Introduction](https://medium.freecodecamp.org/react-introduction-for-people-who-know-just-enough-jquery-to-get-by-2019-version-28a4b4316d1a)
   - [Netlify Dev](https://www.netlify.com/products/dev/)
   - [Netlify CLI](https://www.netlify.com/docs/cli/)
