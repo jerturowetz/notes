@@ -1,5 +1,11 @@
 # Jer's To-Do List
 
+zoloft
+lamictal
+seroquîl / prilexa
+
+societe d onomastique 
+
 - Song w/Juan
 - add profile photos for fer sher gplay, spotify, itunes
 - Claim all 3 bands knowledge panels on google
