@@ -1,12 +1,12 @@
 # Wishlist
 
+- Rasbperry pi & access for box
 - Headphone roll up thingy
 - Portable charger/powerbrick
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 - $250 Nvidia Shield TV
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- [Finnish baby box](https://www.finnishbabybox.com/en/)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
 - $125 Mickey
@@ -44,14 +44,9 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 
 ### Redco
 
-?? cabelling
-
-Red, orange, grey
-thin cable in a color
-short quad cable
-short low profile cable
-
-- 50' Redco TGS-01 balanced medium light cable (for patches & headphone repair)
+- 50' GRAY Low profile cable for short patches
+- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
+- 30' ORANGE Canare L-4E6S Quad mic cable (5' cables x6)
 - 60' BROWN Canare L-4E6S Quad mic cable (10' cables x6)
 - 90' BLUE Canare L-4E6S Quad mic cable (15' cables x6)
 - 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
