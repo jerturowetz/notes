@@ -1,10 +1,12 @@
 # Jer's To-Do List
 
+- carlomanuel@gmx.ch
 - Print shop:
   - a few more thank yous
   - Sal Salis
 - Find baby thermometer
 - Graham snake
+- Call Matthew & Kyla re baby
 - Song w/Juan
 - Claim band knowledge panels on Google
 - Bill Carly at x2 rate (like 4 hours?)
@@ -41,11 +43,6 @@
 
 - Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
-
-## Call re pregnancy
-
-- Matthew
-- Kyla
 
 ## Food
 
