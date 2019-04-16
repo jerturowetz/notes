@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- carlomanuel@gmx.ch
 - Print shop:
   - a few more thank yous
   - Sal Salis
