@@ -1,18 +1,11 @@
 # Wishlist
 
-
-mortar
-
-- yamin needs
-  - tuner
-  - power
-  - overdrive
-  - something for tapping
-  - little cables
-
-- Rasbperry pi & access for box
-- Headphone roll up thingy
 - $250 Nvidia Shield TV
+- Rasbperry pi & access for box
+- mortar and pestal
+- spice grinder
+- 12" non stick
+- Headphone roll up thingy
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
@@ -105,6 +98,12 @@ mortar
 
 ### Workbench/Other
 
+- yamin needs
+  - tuner
+  - power
+  - overdrive
+  - something for tapping
+  - little cables
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 - Hook set
@@ -132,8 +131,6 @@ mortar
 - Fix and complete drop snake (8 send, 4 ret):
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
   - 12 channel cable for floor snake
-
-
 - better clutch
 - dj laptop stand/riser
 - SPD-SX
