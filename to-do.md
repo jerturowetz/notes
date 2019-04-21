@@ -1,18 +1,9 @@
 # Jer's To-Do List
 
-
-yamin needs
-tuner
-power
-overdrive
-something for tapping
-little cables
-
-
-
 - Print shop:
   - a few more thank yous
   - Sal Salis
+  
 - Find baby thermometer
 - Graham snake
 - Call Matthew & Kyla re baby

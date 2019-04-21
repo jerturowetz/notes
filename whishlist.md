@@ -1,10 +1,14 @@
 # Wishlist
 
+- yamin needs
+  - tuner
+  - power
+  - overdrive
+  - something for tapping
+  - little cables
+
 - Rasbperry pi & access for box
 - Headphone roll up thingy
-- Portable charger/powerbrick
-- RCA M to 3.5mm F adaptor
-- RCA F to 3.5mm M adaptor
 - $250 Nvidia Shield TV
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -20,22 +24,6 @@
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
 - Choker
-
-## Games
-
-Games to get on the iPad or Sheild. Might wanna look through the steam wishlist to see others that might be moved here.
-
-- Wayward Souls
-- The Quest
-- Across Age
-- Oceanhorn
-- Monument Valley
-- A Dark Room
-- Final Fantasy XV Pocket Edition
-- Final Fantasy IX
-- Mage Gauntlet
-- Lineage2
-- Severed
 
 ## Rehersal space
 
@@ -114,6 +102,8 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 
 ### Workbench/Other
 
+- RCA M to 3.5mm F adaptor
+- RCA F to 3.5mm M adaptor
 - Hook set
 - Wire Baskets
 - Desktop storage (plastic boxes, jars, caddies, organizer, Pen Holder)
@@ -139,11 +129,6 @@ Games to get on the iPad or Sheild. Might wanna look through the steam wishlist 
 - Fix and complete drop snake (8 send, 4 ret):
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
   - 12 channel cable for floor snake
-
-
-
-
-
 
 
 - better clutch
