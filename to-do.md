@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+
+Add plum rewards to phone
+add capitol one to phone
+
+
+
+
 - Print shop:
   - a few more thank yous
   - Sal Salis
