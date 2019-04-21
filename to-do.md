@@ -1,10 +1,8 @@
 # Jer's To-Do List
 
 
-Add plum rewards to phone
-add capitol one to phone
-
-
+2 large sealable bins for winter coats & xmas
+med clear ikea bin for boots 
 
 
 - Print shop:

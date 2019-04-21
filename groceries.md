@@ -5,6 +5,8 @@
 - Rosemary
 - Thyme
 - sweet spansh paprika
+- hot paprika
+- garlic
 
 ## Butcher
 
@@ -24,11 +26,12 @@
 
 ## Metro
 
+- miso paste
+- dish soap
 - Kraft singles
 - Bananas
 - Ground pork and beef
 - Saucisse for freeze
-- Duck fat
 - Apple cider vinaigre
 - American mustard
 - OJ
