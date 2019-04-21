@@ -26,25 +26,35 @@
 
 ## Metro
 
-- miso paste
-- dish soap
-- Kraft singles
+- Cheddar chesse
+- Parm
+- Strawerries, blueberries
 - Bananas
+- chk breast
+- smoked salmon/bagels
+- fish for freezing
 - Ground pork and beef
-- Saucisse for freeze
+- Saucisse for freez
+- breakfast sausage for freeze x2
+- Milk
+- Kraft singles
 - Apple cider vinaigre
 - American mustard
 - OJ
 - Greek yogurt plain
 - Panko
 - Penne
+- miso paste
 - Sundried tomatoes in oil
 - KD
 - Regular tea
 - Whole black pepper
 - Coarse salt
 - Extra virgin olive oil
+- Ice cream
 - Saran wrap
+- Large tinfoil
+- dish soap
 - Paper towels
 - Kleenex
 - clr bathroom cleaner
