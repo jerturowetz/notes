@@ -1,14 +1,9 @@
 # Jer's To-Do List
 
-
-2 large sealable bins for winter coats & xmas
-med clear ikea bin for boots 
-
-
+- wateproof bag for swim & googles
 - Print shop:
   - a few more thank yous
   - Sal Salis
-  
 - Find baby thermometer
 - Graham snake
 - Call Matthew & Kyla re baby
@@ -20,9 +15,9 @@ med clear ikea bin for boots
 - Do my last thank yous
 - IKEA:
   - KVARNVIK 704.128.75
-  - BESTÅ 003.075.52
-  - storage box for xmas
-  - storage boxes for clothes/winter boots
+  - SAMLA strage box 301.029.74 (boots) *double check to make sure will fit incloset on bottom
+  - KLÄMTARE Large Box 702.923.64 (winter jackets)
+  - KLÄMTARE med box 102.923.62 (xmas)
 - Bootlegger, L'Authentique Thursday hip hop jam
 - book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
 - SJ recording
