@@ -78,6 +78,7 @@
 ## Code study
 
 - PHP:
+  - [PHP arrays](https://developer.hyvor.com/tutorials/php/arrays)
   - [Legit good php course](https://www.killerphp.com/tutorials/php-objects-page-3/)
   - [Taking PHP seriously](https://slack.engineering/taking-php-seriously-cf7a60065329)
   - [Php 5 tutorial](https://www.w3schools.com/php/)
