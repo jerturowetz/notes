@@ -30,25 +30,24 @@
 - Parm
 - Strawerries, blueberries
 - Bananas
-- chk breast
+- Chk breast
 - smoked salmon/bagels
-- fish for freezing
+- Fish for freezing
 - Ground pork and beef
 - Saucisse for freez
 - breakfast sausage for freeze x2
 - Milk
 - Kraft singles
 - Apple cider vinaigre
-- American mustard
+- Rice vinager (unseasoned)
 - OJ
 - Greek yogurt plain
 - Panko
 - Penne
-- miso paste
 - Sundried tomatoes in oil
 - KD
 - Regular tea
-- Whole black pepper
+- Whole black pepper (mill?)
 - Coarse salt
 - Extra virgin olive oil
 - Ice cream
@@ -57,7 +56,5 @@
 - dish soap
 - Paper towels
 - Kleenex
-- clr bathroom cleaner
-- Lysol all purpose
+- CLR bathroom cleaner
 - Draino
-- Windex
