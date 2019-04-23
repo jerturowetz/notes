@@ -1,10 +1,14 @@
 # Jer's To-Do List
 
+- [Learn terrerium](https://www.reddit.com/r/TTVreborn)
 - wateproof bag for swim & googles
 - Print shop:
   - a few more thank yous
   - Sal Salis
-- Find baby thermometer
+- Find baby thermometer:
+  - [The Bump](https://www.thebump.com/a/best-baby-thermometer)
+  - [Other options](https://www.mayoclinic.org/diseases-conditions/fever/in-depth/thermometers/art-20046737)
+  - [butt](https://www.amazon.com/Vicks-Thermometer-Temperature-Flexible-Digital/dp/B0002AHVZU)
 - Graham snake
 - Call Matthew & Kyla re baby
 - Song w/Juan
@@ -138,13 +142,19 @@
   - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
   - [SVG compressor](https://vecta.io/nano)
   - [Best Make Tutorial](https://www.youtube.com/watch?v=GExnnTaBELk&list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw&index=2)
+  - [TRANSCRIPT: INTRINSIC WEB DESIGN WITH JEN SIMMONS (THE BIG WEB SHOW)](https://www.zeldman.com/2018/05/02/transcript-intrinsic-web-design-with-jen-simmons-the-big-web-show/)
+  - [A Sneak Peek At Intrinsic Web Design](https://medium.com/level-up-web/a-sneak-peek-at-intrinsic-web-design-cb179eea7c9e)
+  - [How to Write an Awesome GitHub README](https://dev.to/healeycodes/how-to-write-an-awesome-github-readme-2ldc)
+  - [The Tedium of Managing Code](https://alistapart.com/column/the-tedium-of-managing-code/)
+  - [Applying srcset: choosing the right sizes for responsive images at different breakpoints](https://medium.com/hceverything/applying-srcset-choosing-the-right-sizes-for-responsive-images-at-different-breakpoints-a0433450a4a3)
+  - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
 - Analytics/SEO:
   - [The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
   - [How to Stop Spam Bots from Ruining Your Analytics Referral Data](https://moz.com/blog/how-to-stop-spam-bots-from-ruining-your-analytics-referral-data)
   - [Bing webmaster guidelines](https://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)
   - [Analytics academy](https://analytics.google.com/analytics/academy/)
-  - screaming frog 101
 - Wordpress:
+  - Gutenberg blocks
   - [The Ultimate Mega Guide to Using Video With WordPress](https://premium.wpmudev.org/blog/video-wordpress/)
   - [GUTENBERG AND CI/CD AT WORDCAMP NORDIC](https://wpengine.com/blog/gutenberg-and-ci-cd-at-wordcamp-nordic/)
   - [The Ultimate Guide to Image Optimization in Wordpress](https://www.proteusthemes.com/blog/ultimate-guide-image-optimization-wordpress/)
