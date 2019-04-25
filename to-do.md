@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- skirt, s size thibgy
 - [Learn terrerium](https://www.reddit.com/r/TTVreborn)
 - wateproof bag for swim & googles
 - Print shop:
