@@ -1,13 +1,12 @@
 # Jer's To-Do List
 
-- Reschedule DR apt
-- Find baby thermometer:
-  - [The Bump](https://www.thebump.com/a/best-baby-thermometer)
-  - [Other options](https://www.mayoclinic.org/diseases-conditions/fever/in-depth/thermometers/art-20046737)
-  - [butt](https://www.amazon.com/Vicks-Thermometer-Temperature-Flexible-Digital/dp/B0002AHVZU)
+- Book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
+- Book Fer Sher
+- Possible show dates
+  - May 16, 18, 19, 23, 30, 31
+  - June 1, 2, 6, 7, 8, 9, 13, 14, 15, 16
 - Call Matthew & Kyla re baby
 - Bill Carly at x2 rate (like 4 hours?)
-- book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
 - Graham snake
 - Song w/Juan
 - **Print shop:**

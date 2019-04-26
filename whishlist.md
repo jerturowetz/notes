@@ -1,10 +1,20 @@
 # Wishlist
 
+## MARS gear rigs
+
+### Mixer case
+
+Mixer case w/front panel for patching
+Power?
+
+### Power Amp Rack
+
 - skirt
-- trs to ttrs
+- trs to ttrs other
 - Furman plug lock
 - Power y-splitter
 - Cheap pedal power fro trav pedals
+
 - Rasbperry pi & access for box
 - mortar and pestal
 - spice grinder
