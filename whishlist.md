@@ -1,5 +1,10 @@
 # Wishlist
 
+- skirt
+- trs to ttrs
+- Furman plug lock
+- Power y-splitter
+- Cheap pedal power fro trav pedals
 - Rasbperry pi & access for box
 - mortar and pestal
 - spice grinder
