@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Reschedule DR apt
 - Find baby thermometer:
   - [The Bump](https://www.thebump.com/a/best-baby-thermometer)
   - [Other options](https://www.mayoclinic.org/diseases-conditions/fever/in-depth/thermometers/art-20046737)
