@@ -1,8 +1,11 @@
 # Jer's To-Do List
 
 - Book a ruby show (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
-- Book Fer Sher
-- Possible show dates
+- Book Fer Sher show
+- RUBY Possible show dates
+  - May 16, 18, 19
+  - June 9, 13, 14, 15, 16
+- FER SHER Possible show dates
   - May 16, 18, 19, 23, 30, 31
   - June 1, 2, 6, 7, 8, 9, 13, 14, 15, 16
 - Call Matthew & Kyla re baby

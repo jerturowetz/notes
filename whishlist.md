@@ -15,6 +15,21 @@ Power?
 - Power y-splitter
 - Cheap pedal power fro trav pedals
 
+
+I want stereo returns available at vocal snake
+Mount headphone box to mic stand
+
+
+
+
+
+
+
+
+
+--
+
+- ttrs >> trs & aux cable
 - Rasbperry pi & access for box
 - mortar and pestal
 - spice grinder
