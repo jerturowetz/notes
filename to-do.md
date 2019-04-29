@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Inquire about communauto deposit for Kate
+- Listen to Steve's GDrive recording
 - RUBY Possible show dates (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
   - May 16, 18, 19
   - June 9, 13, 14, 15, 16
