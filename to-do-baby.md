@@ -1,5 +1,6 @@
 # Baby To-Do List
 
+- day care stalking
 - Buy baby bjorn
 - Get some new games for pre-hospital (maybe go to store together)
 - Call Matthew & Kyla re baby
