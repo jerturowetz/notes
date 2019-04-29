@@ -9,8 +9,6 @@
   - May 16, 18, 19, 23, 30, 31
   - June 1, 2, 6, 7, 8, 9, 13, 14, 15, 16
 - Pick up gift cert at scandinave
-- Find a used baby bjorn
-- Call Matthew & Kyla re baby
 - Bill Carly at x2 rate (like 4 hours?)
 - Graham snake
 - **Print shop:**

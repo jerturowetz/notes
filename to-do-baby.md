@@ -1,6 +1,8 @@
 # Baby To-Do List
 
-- Baby Bjorn (with newborn insert)
+- Buy baby bjorn
+- Get some new games for pre-hospital (maybe go to store together)
+- Call Matthew & Kyla re baby
 - Hemorrhoid cream
 - Get the number for the birthing center (add to my binder)
 - Ask david for clinic location, deal with as necessary
@@ -43,11 +45,7 @@
 ## Review with Kate
 
 - Baby sling
-- how does kate feel about drequency of vagibal exams
-- how does kate fel about drugs
-- belly belt ?
-- massage creams for rubdowns
-- Figure out some games fo early labor (cards etc)
+- Belly belt
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
@@ -59,10 +57,10 @@
 
 ## Hospital notes
 
-- Birth plan: no students please
-- Kate doesn't need an exam every hour (residents), I'll keep notes of time and results of exam
-- ask about tounge tie in baby
+- Drugs: wanna try laughing gas & walking epidural before HxC epidural
 - Try and wait for the epidura so that you can walk as much as possible (lik to 5, 6cm)
+- Kate doesn't need an exam every hour, I'll keep notes of time and results of exam
+- Ask about tounge tie in baby
 - Find the ice machine and microwave when we arrive
 - Get chairs in the room asap as Kate will wanna change positions
 
@@ -78,15 +76,26 @@
 - extra clothes, socks, underwear
 - Sports bras
 - Nursing bra
+- Toiletries
+- Lip balm
 
 ## Hospital food supplies
 
 - Vanilla greek yogurt
+- Cheese
+- Apples
+- Carrots
+- Broccolis
+- Mini cereals (bowl style)
+- Prep boxed meals for both maybe?
+- PB & J on brown bread
+- Raisins
 
 ## My hopsital bag
 
+- Massage creams for rubdowns
 - Large Ziplock bags
-- Notebook
+- Jeremy binder
 - Something to do (cards)
 - Towel
 - Pillow
@@ -95,9 +104,9 @@
 - Phone charger
 - Power bank
 - Power bar
-- Notebook for tracking exams and measures
 - Water bottles (nalgene)
 - kleenex
+- Toiletries
 
 ## Baby's hospital bag
 
