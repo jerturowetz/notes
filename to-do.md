@@ -1,7 +1,9 @@
 # Jer's To-Do List
 
+- Review Unito policy info & complete HR signup
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
+  - Can I bring my own monitor?
   - Ask Laura if I need any of these:
     - LastPass
     - JIRA
