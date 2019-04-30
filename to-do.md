@@ -1,6 +1,20 @@
 # Jer's To-Do List
 
-- Inquire about communauto deposit for Kate
+- **Unito:**
+  - Ask Laura if I need any of these:
+    - LastPass
+    - JIRA
+    - Wrike
+    - Trello
+    - Intercom
+    - Zendesk
+    - SignNow
+    - Xero
+  - Review the quicklinks section
+  - what is a _knowledge worker_
+  - There are a few blog posts re Asana refresher or blog os something?
+  - I do not at all understand the graph in _Decision Making Framework_
+  - In the wellnes plan thing, review the asana project on How to track
 - Listen to Steve's GDrive recording
 - RUBY Possible show dates (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
   - May 16, 18, 19
@@ -33,12 +47,16 @@
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
-**Shrink:**
+## Kate follow up
+
+- communauto
+
+## Shrink
 
 - Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 
-**Musician's insurance:**
+## Musician's insurance
 
 - Organize list of items (serail #s)
 - Obtain/research replacement value for all listed items

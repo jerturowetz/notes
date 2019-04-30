@@ -9,7 +9,6 @@ Power?
 
 ### Power Amp Rack
 
-- skirt
 - trs to ttrs other
 - Furman plug lock
 - Power y-splitter
@@ -30,11 +29,13 @@ Mount headphone box to mic stand
 --
 
 - ttrs >> trs & aux cable
+- skirt
+- Baby Bjorn
+- [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Rasbperry pi & access for box
 - mortar and pestal
 - spice grinder
-- Headphone roll up thingy
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
 - $125 Mickey
