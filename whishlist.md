@@ -1,35 +1,6 @@
 # Wishlist
 
-## MARS gear rigs
-
-### Mixer case
-
-Mixer case w/front panel for patching
-Power?
-
-### Power Amp Rack
-
-- trs to ttrs other
-- Furman plug lock
-- Power y-splitter
-- Cheap pedal power fro trav pedals
-
-
-I want stereo returns available at vocal snake
-Mount headphone box to mic stand
-
-
-
-
-
-
-
-
-
---
-
 - ttrs >> trs & aux cable
-- skirt
 - Baby Bjorn
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
@@ -127,6 +98,9 @@ Mount headphone box to mic stand
 
 ### Workbench/Other
 
+- Furman plug lock
+- Power y-splitter
+- Cheap pedal power fro trav pedals
 - yamin needs
   - tuner
   - power
