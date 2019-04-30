@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
   - Ask Laura if I need any of these:
     - LastPass
