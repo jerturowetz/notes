@@ -53,6 +53,7 @@
 ## Kate follow up
 
 - communauto
+- To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
 

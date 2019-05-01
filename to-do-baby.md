@@ -1,39 +1,24 @@
 # Baby To-Do List
 
-- Buy baby bjorn
-- Get some new games for pre-hospital (maybe go to store together)
-- Call Matthew & Kyla re baby
+- Find out if our 3 people can be seperate people
 - Hemorrhoid cream
-- Get the number for the birthing center (add to my binder)
-- Ask david for clinic location, deal with as necessary
-- Call local CLSC and inquire about post-natal services & home care
-- Get up to date on baby cpr (schedule a class)
-- Cream for baby scratches?
-- Explore cheap air conditioning (portable unit, annoying windows?)
-- buy milk storage bags & learn how they work
-- Learn about our pump
-- Figure out how to cancel a family doctor
-- Kate family doctor (call ST Marys clinic maybe)
-- borrow breastfeeding pillow from joanna
-- Explore order-at-home groceries (provigo/metro/IGA delivery)
-- Review (add to jeremy hospital binder):
-  - Massage positions
-  - Breastfeeding positions
-  - Stages of labor, their lengths and the types/durations of contractions
-  - Meds for after birth
-- Make an after hospital baby binder w/:
-  - poop sheets
-  - feeding log
-  - sleeping log
-  - notes on how many feeds is normal (8-12 feeds in a 24 hour period
-- Add nightly massage for wrist strengthentype/duration of contractions
-- Get a jeremy binder (add guide sheets, 811 reminder)
+- Get some new games for pre-hospital (maybe go to store together)
 - Find a big-gulp cup with a straw
 - Order a sac magique and add to packing list
+- Need some machanism to store ice cubes & apply them (add this to packing list)
+- Call local CLSC and inquire about post-natal services & home care
+- Explore cheap air conditioning (portable unit, annoying windows?)
+- buy milk storage bags & learn how they work
+- Explore order-at-home groceries (provigo/metro/IGA delivery)
+- Buy baby bjorn
+- Call Matthew & Kyla re baby
+- Get up to date on baby cpr (schedule a class)
+- Learn about our pump
+- borrow breastfeeding pillow from joanna
+- Make binders (Jeremy hospital, baby at home)
+- Add nightly massage for wrist strengthentype/duration of contractions
 - Ask cathy re goceries
 - find someone to clean the house
-- Need some machanism to store ice cubes & apply them (add this to packing list)
-- how to get cbc radio on computer
 - Prep music selection
   - Hamilton
   - Rent
@@ -41,6 +26,22 @@
   - Soundtracks
   - Pop music
   - Slow dance playlist
+- Review (add to jeremy hospital binder):
+  - Massage positions
+  - Breastfeeding positions
+  - Stages of labor, their lengths and the types/durations of contractions
+  - Meds for after birth
+
+## STuff for my binder
+
+- St Mary's Birth Center 514-345-3511; ext 3406
+- St Mary's Family Medicine 514-734-2677
+- poop sheets
+- feeding log
+- sleeping log
+- notes on how many feeds is normal (8-12 feeds in a 24 hour period
+- add guide sheets
+- 811 reminder
 
 ## Review with Kate
 
@@ -132,6 +133,7 @@
 - Hemorrhoid help:
   - Tucks wipes with witch hazel
   - Hemorrhoid cream
+- frangrance free soap (Cetaphil Antibacterial Cleansing Bar)
 
 ### Grocery list
 
