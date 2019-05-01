@@ -1,5 +1,7 @@
 # Baby To-Do List
 
+- Get some swaddlers (use the cupon at the store)
+- meal for kate & jade
 - Find out if our 3 people can be seperate people
 - day care stalking
 - Hemorrhoid cream
@@ -17,7 +19,6 @@
 - Learn about our pump
 - borrow breastfeeding pillow from joanna
 - Make binders (Jeremy hospital, baby at home)
-- Add nightly massage for wrist strengthentype/duration of contractions
 - Ask cathy re goceries
 - find someone to clean the house
 - Prep music selection
