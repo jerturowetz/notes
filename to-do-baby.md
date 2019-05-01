@@ -1,6 +1,7 @@
 # Baby To-Do List
 
 - Find out if our 3 people can be seperate people
+- day care stalking
 - Hemorrhoid cream
 - Get some new games for pre-hospital (maybe go to store together)
 - Find a big-gulp cup with a straw
