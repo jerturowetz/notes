@@ -1,13 +1,15 @@
 # Baby To-Do List
 
+- Find a big-gulp cup with a straw
+- Order a sac magique and add to packing list
+- buy a raspberry pi rig
+- Hemorrhoid cream
+
 - Get some swaddlers (use the cupon at the store)
 - meal for kate & jade
 - Find out if our 3 people can be seperate people
 - day care stalking
-- Hemorrhoid cream
 - Get some new games for pre-hospital (maybe go to store together)
-- Find a big-gulp cup with a straw
-- Order a sac magique and add to packing list
 - Need some machanism to store ice cubes & apply them (add this to packing list)
 - Call local CLSC and inquire about post-natal services & home care
 - Explore cheap air conditioning (portable unit, annoying windows?)
@@ -69,6 +71,7 @@
 
 ## Kate's hospital bag
 
+- Magazines
 - Washclothes for head
 - Maxi pads (there are maternity-specific ones apparently)
 - Adult diapers

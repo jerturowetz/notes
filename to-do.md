@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Review Unito policy info & complete HR signup
+- Finish Unito life insurance and submit
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
   - Can I bring my own monitor?
