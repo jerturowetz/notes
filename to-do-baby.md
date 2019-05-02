@@ -1,42 +1,22 @@
 # Baby To-Do List
 
-- Find a big-gulp cup with a straw
-- Order a sac magique and add to packing list
-- buy a raspberry pi rig
-- Hemorrhoid cream
-
 - Get some swaddlers (use the cupon at the store)
-- meal for kate & jade
-- Find out if our 3 people can be seperate people
-- day care stalking
+- Day care stalking
 - Get some new games for pre-hospital (maybe go to store together)
-- Need some machanism to store ice cubes & apply them (add this to packing list)
-- Call local CLSC and inquire about post-natal services & home care
-- Explore cheap air conditioning (portable unit, annoying windows?)
+- Learn about our pump
 - buy milk storage bags & learn how they work
 - Explore order-at-home groceries (provigo/metro/IGA delivery)
-- Buy baby bjorn
-- Call Matthew & Kyla re baby
 - Get up to date on baby cpr (schedule a class)
-- Learn about our pump
+- find someone to clean the house
 - borrow breastfeeding pillow from joanna
 - Make binders (Jeremy hospital, baby at home)
-- Ask cathy re goceries
-- find someone to clean the house
-- Prep music selection
-  - Hamilton
-  - Rent
-  - Relaxing hippie stuff
-  - Soundtracks
-  - Pop music
-  - Slow dance playlist
 - Review (add to jeremy hospital binder):
   - Massage positions
   - Breastfeeding positions
   - Stages of labor, their lengths and the types/durations of contractions
   - Meds for after birth
 
-## STuff for my binder
+## Stuff for my binder
 
 - St Mary's Birth Center 514-345-3511; ext 3406
 - St Mary's Family Medicine 514-734-2677

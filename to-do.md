@@ -1,21 +1,32 @@
 # Jer's To-Do List
 
-- Finish Unito life insurance and submit
+- Prep music selection (download to phone)
+  - Hamilton
+  - Rent
+  - Relaxing hippie stuff
+  - Soundtracks
+  - Pop music
+  - Slow dance playlist
+
+- Call local CLSC and inquire about post-natal services & home care
+- Explore cheap air conditioning (portable unit, annoying windows?)
+- Need some machanism to store ice cubes & apply them (add this to packing list)
+- Ask cathy re goceries
+- Call Matthew & Kyla re baby
+- meal for kate & jade
+- Find out if our 3 people can be seperate people
+- explore/create accounts for:
+  - LastPass
+  - JIRA
+  - Wrike
+  - Trello
+- [Nvidia mount external storage case # 190501-001016 via help](https://nvidia.custhelp.com/app/answers/detail/a_id/4681/kw/submit%20feedback)
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
-  - Can I bring my own monitor?
-  - Ask Laura if I need any of these:
-    - LastPass
-    - JIRA
-    - Wrike
-    - Trello
-    - Intercom
-    - Zendesk
-    - SignNow
-    - Xero
+  - Finish Unito life insurance and submit
   - Review the quicklinks section
   - what is a _knowledge worker_
-  - There are a few blog posts re Asana refresher or blog os something?
+  - Do an asana refresher
   - I do not at all understand the graph in _Decision Making Framework_
   - In the wellnes plan thing, review the asana project on How to track
 - Listen to Steve's GDrive recording

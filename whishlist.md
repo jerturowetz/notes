@@ -37,6 +37,17 @@ comp/limiter/whatever for PA vox
 
 --
 
+- Baby Bjorn
+- Find a big-gulp cup with a straw
+- Order a sac magique and add to packing list
+- buy a raspberry pi rig
+- Hemorrhoid cream
+- Rasberry pi rig
+- Binder
+- Notebook
+- Keyboard
+- HDMI cable
+- desk clamp power strip
 - Long micro usb cable
 - ttrs >> trs & aux cable
 - Baby Bjorn
