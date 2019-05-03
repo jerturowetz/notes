@@ -1,42 +1,6 @@
 # Wishlist
 
-## rig setup
-
-- **Amp rack:**
-  - Power
-  - Comp/gate whatever
-  - Make a panel:
-    - Speakon F out x2
-    - XLR M in x2
-- **Mixer:**
-  - Mixer case with rack below
-  - Power
-  - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
-  - Headphone amp will go here?
-  - Rack FX (Vox or Master?)
-
-
-
-
-Mixer DI outs >> RME
-RME mix >> Mixer
-
-DIs ?
-Headphone amp
-comp/limiter/whatever for PA vox
-
-
-
-
-
-- Fix and complete drop snake (8 send, 4 ret):
-  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-  - 12 channel cable for floor snake
-- Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
-- Redco 1U Punched XLR Rack Panels (8holes)
-
---
-
+- Device Lab responsive dev stand
 - Baby Bjorn
 - Find a big-gulp cup with a straw
 - Order a sac magique and add to packing list
@@ -71,6 +35,26 @@ comp/limiter/whatever for PA vox
 - Choker
 
 ## Rehersal space
+
+### Rigs
+
+- **Amp rack:**
+  - Power
+  - Comp/gate whatever
+  - Make a panel:
+    - Speakon F out x2
+    - XLR M in x2
+- **Mixer:**
+  - Mixer case with rack below
+  - Power
+  - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
+  - Hearback system & Cat6 patch panel
+  - Rack FX (Vox or Master?)
+- **Record ??**
+  - 6ru + rack space
+  - dj laptop stand/riser
+  - ??? Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
+  - ??? Redco 1U Punched XLR Rack Panels (8holes)
 
 ### Redco
 
@@ -170,7 +154,6 @@ comp/limiter/whatever for PA vox
 - bulk 7A sticks
 - bulk 5A sticks
 - better clutch
-- dj laptop stand/riser
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - $350 US centrance mixerface
 - 5/8-27 tap
@@ -189,3 +172,10 @@ comp/limiter/whatever for PA vox
 - JB30 talkback mic
 - Mixer lamp
 - Whirlwind Qbox
+- Cubase
+- Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
+- Can probably also get an accessory tray for a spare keyboard
+- Furman power for keys
+- Fix and complete drop snake (8 send, 4 ret)
+  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+  - 12 channel cable for floor snake

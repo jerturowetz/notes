@@ -1,13 +1,7 @@
 # Jer's To-Do List
 
-- Prep music selection (download to phone)
-  - Hamilton
-  - Rent
-  - Relaxing hippie stuff
-  - Soundtracks
-  - Pop music
-  - Slow dance playlist
-
+- Add kates cc to lastpass
+- BK email agencies
 - Call local CLSC and inquire about post-natal services & home care
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
@@ -15,30 +9,26 @@
 - Call Matthew & Kyla re baby
 - meal for kate & jade
 - Find out if our 3 people can be seperate people
-- explore/create accounts for:
-  - LastPass
-  - JIRA
-  - Wrike
-  - Trello
-- [Nvidia mount external storage case # 190501-001016 via help](https://nvidia.custhelp.com/app/answers/detail/a_id/4681/kw/submit%20feedback)
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
-  - Finish Unito life insurance and submit
+  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
+  - [Setup Authy](https://authy.com/)
+  - encrypt HD
+  - Submit unito life insurance
   - Review the quicklinks section
   - what is a _knowledge worker_
   - Do an asana refresher
   - I do not at all understand the graph in _Decision Making Framework_
   - In the wellnes plan thing, review the asana project on How to track
-- Listen to Steve's GDrive recording
-- RUBY Possible show dates (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
+- **Apps:**
+  - Some type of wave editor like audition?
+  - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
+- **RUBY Possible show dates** (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
   - May 16, 18, 19
   - June 9, 13, 14, 15, 16
-- FER SHER Possible show dates
+- **FER SHER Possible show dates**
   - May 16, 18, 19, 23, 30, 31
   - June 1, 2, 6, 7, 8, 9, 13, 14, 15, 16
-- Pick up gift cert at scandinave
-- Bill Carly at x2 rate (like 4 hours?)
-- Graham snake
 - **Print shop:**
   - a few more thank yous
   - Sal Salis
@@ -47,6 +37,9 @@
   - SAMLA strage box 301.029.74 (boots) *double check to make sure will fit incloset on bottom
   - KLÄMTARE Large Box 702.923.64 (winter jackets)
   - KLÄMTARE med box 102.923.62 (xmas)
+- Listen to Steve's GDrive recording
+- Pick up gift cert at scandinave
+- Bill Carly at x2 rate (like 4 hours?)
 - Song w/Juan
 - Do my last thank yous
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
@@ -60,6 +53,31 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
+
+## Games for review
+
+- Prey for the Gods
+- Project Winter
+- My Time at Portia
+- Onimusha Warlords
+- Darksiders 3
+- Witcher Tales
+- Call of Cthulu
+- Tamriel Unlimited
+- Atlas
+- Ark Survival Evolved
+- Divinity 2 Original Sin
+- Killing Floor 2
+- Rocket League
+- Witcher 3 Wild Hunt
+- Outward
+- Morphite
+- Underworld Ascendant
+- Thronebreaker
+- Legend of Skyfish
+- Vampyr
+- Star Control Orighins
+- Immortal Unchained
 
 ## Kate follow up
 
