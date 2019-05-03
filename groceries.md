@@ -26,6 +26,7 @@
 
 ## Metro
 
+- splenda
 - Cheddar chesse
 - Parm
 - Strawerries, blueberries

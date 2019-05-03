@@ -1,5 +1,18 @@
 # Wishlist
 
+- Device Lab responsive dev stand
+- Baby Bjorn
+- Find a big-gulp cup with a straw
+- Order a sac magique and add to packing list
+- buy a raspberry pi rig
+- Hemorrhoid cream
+- Rasberry pi rig
+- Binder
+- Notebook
+- Keyboard
+- HDMI cable
+- desk clamp power strip
+- Long micro usb cable
 - ttrs >> trs & aux cable
 - Baby Bjorn
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
@@ -23,8 +36,25 @@
 
 ## Rehersal space
 
-- Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
-- Redco 1U Punched XLR Rack Panels (8holes)
+### Rigs
+
+- **Amp rack:**
+  - Power
+  - Comp/gate whatever
+  - Make a panel:
+    - Speakon F out x2
+    - XLR M in x2
+- **Mixer:**
+  - Mixer case with rack below
+  - Power
+  - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
+  - Hearback system & Cat6 patch panel
+  - Rack FX (Vox or Master?)
+- **Record ??**
+  - 6ru + rack space
+  - dj laptop stand/riser
+  - ??? Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
+  - ??? Redco 1U Punched XLR Rack Panels (8holes)
 
 ### Redco
 
@@ -59,18 +89,16 @@
 
 ### DIs
 
-- Key Largo
+- Key Largo vs Rack
 - JDI stereo (for active bass)
 - JDV stereo (for passive bass)
 - Palmer pdi-09 for guitar di (after fx) x2
 - Radial ProAV1 or Whirlwind pcDI
-- Radial box to convert for iPhone
-- Rack DI ?
 - Radial JISO for running BAL into iphone
 
 ### Mic stands
 
-- mic clips
+- Mic clips
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
@@ -101,12 +129,6 @@
 - Furman plug lock
 - Power y-splitter
 - Cheap pedal power fro trav pedals
-- yamin needs
-  - tuner
-  - power
-  - overdrive
-  - something for tapping
-  - little cables
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 - Hook set
@@ -131,14 +153,8 @@
 - heat shrink
 - bulk 7A sticks
 - bulk 5A sticks
-- Fix and complete drop snake (8 send, 4 ret):
-  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-  - 12 channel cable for floor snake
 - better clutch
-- dj laptop stand/riser
-- SPD-SX
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- Whirlwind Qbox
 - $350 US centrance mixerface
 - 5/8-27 tap
 - 5/8-27 mounting plate
@@ -149,13 +165,17 @@
 - cable gland joints for headphones
 - Rowie clamp
 - Pedco Clamps (2 or 3) and mice adaptors
-- 1RU xlr passthrough & 1 RU brush panel
 - Powered mon for drums
 - Powered mon for vox
-- passthrough for mix wiz
-- rack DI
 - rack power
 - Phone cam mount & attachment for DI box
 - JB30 talkback mic
-- rack effects for vox
-- gate/limiter/comp for vox amp
+- Mixer lamp
+- Whirlwind Qbox
+- Cubase
+- Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
+- Can probably also get an accessory tray for a spare keyboard
+- Furman power for keys
+- Fix and complete drop snake (8 send, 4 ret)
+  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
+  - 12 channel cable for floor snake
