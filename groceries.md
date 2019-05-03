@@ -5,8 +5,8 @@
 - Rosemary
 - Thyme
 - sweet spansh paprika
-- hot paprika
-- garlic
+- hungarian hot paprika
+- granulated garlic
 
 ## Butcher
 
