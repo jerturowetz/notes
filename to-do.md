@@ -1,8 +1,10 @@
 # Jer's To-Do List
 
-- Add kates cc to lastpass
-- BK email agencies
 - Call local CLSC and inquire about post-natal services & home care
+- Learn about our pump
+- buy milk storage bags & learn how they work
+- Explore order-at-home groceries (provigo/metro/IGA delivery)
+- Get up to date on baby cpr (schedule a class)
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
 - Ask cathy re goceries
