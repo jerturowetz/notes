@@ -26,6 +26,13 @@
 
 ## Metro
 
+- Ketchup
+- Dish soap
+- Milk
+- Bananas
+- Apples
+- bread
+- sliced cheese
 - splenda
 - Cheddar chesse
 - Parm
