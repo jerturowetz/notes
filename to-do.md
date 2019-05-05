@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Tags archives should not show to do list items. Other items?
+- rethink xmas gear & winter coat storage
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
 - buy milk storage bags & learn how they work
@@ -36,9 +38,6 @@
   - Sal Salis
 - **IKEA:**
   - KVARNVIK 704.128.75
-  - SAMLA strage box 301.029.74 (boots) *double check to make sure will fit incloset on bottom
-  - KLÄMTARE Large Box 702.923.64 (winter jackets)
-  - KLÄMTARE med box 102.923.62 (xmas)
 - Listen to Steve's GDrive recording
 - Pick up gift cert at scandinave
 - Bill Carly at x2 rate (like 4 hours?)
