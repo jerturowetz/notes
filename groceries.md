@@ -26,43 +26,35 @@
 
 ## Metro
 
-- Ketchup
 - Dish soap
+- Ketchup
 - Milk
-- Bananas
 - Apples
-- bread
-- sliced cheese
+
 - splenda
+- sliced cheese
 - Cheddar chesse
 - Parm
 - Strawerries, blueberries
-- Bananas
 - Chk breast
-- smoked salmon/bagels
 - Fish for freezing
 - Ground pork and beef
 - Saucisse for freez
 - breakfast sausage for freeze x2
-- Milk
-- Kraft singles
 - Apple cider vinaigre
 - Rice vinager (unseasoned)
 - OJ
 - Greek yogurt plain
-- Panko
 - Penne
 - Sundried tomatoes in oil
 - KD
 - Regular tea
 - Whole black pepper (mill?)
 - Coarse salt
+- Regular Olive Oil
 - Extra virgin olive oil
-- Ice cream
 - Saran wrap
 - Large tinfoil
-- dish soap
-- Paper towels
 - Kleenex
 - CLR bathroom cleaner
 - Draino
