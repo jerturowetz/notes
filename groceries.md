@@ -26,15 +26,8 @@
 
 ## Metro
 
-- Dish soap
-- Ketchup
-- Milk
-- Apples
-
-- splenda
 - sliced cheese
 - Cheddar chesse
-- Parm
 - Strawerries, blueberries
 - Chk breast
 - Fish for freezing
@@ -43,9 +36,8 @@
 - breakfast sausage for freeze x2
 - Apple cider vinaigre
 - Rice vinager (unseasoned)
-- OJ
 - Greek yogurt plain
-- Penne
+- Pennep
 - Sundried tomatoes in oil
 - KD
 - Regular tea
