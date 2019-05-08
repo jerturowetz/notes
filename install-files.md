@@ -51,7 +51,8 @@ only system and admin have permission to write to hosts by default - be sure to 
 - Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
-- SOpify theme kit
+- Shopify theme kit
+- [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
 
 ## WebP codecs etc
 
