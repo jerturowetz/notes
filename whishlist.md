@@ -1,5 +1,7 @@
 # Wishlist
 
+- car lighter plug
+- small always packed grocery bag
 - Device Lab responsive dev stand
 - Baby Bjorn
 - Find a big-gulp cup with a straw
