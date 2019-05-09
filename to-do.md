@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- move unito lastpass items to unito
+- organize bk vs jer lastpass
 - Tags archives should not show to do list items. Other items?
 - rethink xmas gear & winter coat storage
 - Call local CLSC and inquire about post-natal services & home care
