@@ -1,5 +1,10 @@
 # Wishlist
 
+- SC4
+- Computer keyboard
+- Workshop desktop storage
+- Mouser order
+- Desktop audio
 - car lighter plug
 - small always packed grocery bag
 - Device Lab responsive dev stand
