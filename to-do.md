@@ -1,5 +1,10 @@
 # Jer's To-Do List
 
+- BKDSN
+  - Blog post format for bart
+  - Guide for Bart on how to deploy changes
+  - Local agencies
+  - Lastpass organize (move items to personal where appropriate)
 - move unito lastpass items to unito
 - organize bk vs jer lastpass
 - Tags archives should not show to do list items. Other items?
@@ -17,6 +22,10 @@
 - Find out if our 3 people can be seperate people
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
+  - Add me to Unito Google Oraginzation
+  - Add me to other analytics tools
+  - Give me domain access for adding records / else what is pipeline for adding records
+  - Google search console not set up for me?
   - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
   - [Setup Authy](https://authy.com/)
   - encrypt HD
@@ -81,6 +90,69 @@
 - Vampyr
 - Star Control Orighins
 - Immortal Unchained
+
+the witcher 2
+final fantasy xv (windows
+dragon quest xi
+immortal unchained
+vampyr
+dark sould remastered
+kingdonm come deliverance
+outward steam
+thronebreaker witcher
+legend of the skyfish
+trials of cold steel
+pathfinder kingmaker
+islands of nyne
+killing floor 2
+witcher 3 wild hunt
+ark survival evolved
+boundless
+switchblade
+fractured lands
+post scriptum
+divinity original sin 2
+far cry 5
+elder scrolls online summerset
+sunset overdrive
+dead by daylight
+arkham knight
+Zone of the enders MARS
+argo
+Crossout
+tree of savior
+Far Cry new dawn
+ReCore definitive edition
+spacelords
+tera
+soulworker
+paladins
+realm royale
+captain spirit
+mega man 11
+x4 foundations
+life is strange 2
+Reigns: game of thrones
+my memory of us
+cardlife: cardboard
+assasins cree dodyssey
+My Hero Ones Justice
+Infliction
+Underworld Ascendant
+The quiet man
+Call of Cthulu
+Mutant year zero road to eden
+Darkseiders 3
+dusk
+catherine classic
+atlas
+onimusha warlords
+my time in portia
+fimbul
+Project winter
+praey for the gods
+risk of rain
+assasins creed 3 remastered (uplay)
 
 ## Kate follow up
 
