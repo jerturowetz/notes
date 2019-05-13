@@ -1,11 +1,11 @@
 # Wishlist
 
-- SC4
+- Ereader
+- SC4 & aux cables
 - Computer keyboard
 - Workshop desktop storage
 - Mouser order
 - Desktop audio
-- car lighter plug
 - small always packed grocery bag
 - Device Lab responsive dev stand
 - Baby Bjorn
@@ -14,8 +14,6 @@
 - Hemorrhoid cream
 - Binder
 - Notebook
-- Keyboard
-- ttrs >> trs & aux cable
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")

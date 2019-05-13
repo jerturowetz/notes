@@ -1,13 +1,5 @@
 # Jer's To-Do List
 
-firing offense
-
-tasks files conversations
-only a canadian business can do this bcause we're everybodys friend
-its part of our culture and dna
-Marks acronym list review
-wtf is an OKR
-
 - BKDSN
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
@@ -30,6 +22,11 @@ wtf is an OKR
 - Find out if our 3 people can be seperate people
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
 - **Unito:**
+  - tasks files conversations
+  - only a canadian business can do this bcause we're everybodys friend
+  - its part of our culture and dna
+  - Marks acronym list review
+  - wtf is an OKR
   - Add me to Unito Google Oraginzation
   - Add me to other analytics tools
   - Give me domain access for adding records / else what is pipeline for adding records
