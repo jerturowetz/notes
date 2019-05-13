@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+firing offense
+
+tasks files conversations
+only a canadian business can do this bcause we're everybodys friend
+its part of our culture and dna
+Marks acronym list review
+wtf is an OKR
+
 - BKDSN
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
@@ -31,7 +39,6 @@
   - encrypt HD
   - Submit unito life insurance
   - Review the quicklinks section
-  - what is a _knowledge worker_
   - Do an asana refresher
   - I do not at all understand the graph in _Decision Making Framework_
   - In the wellnes plan thing, review the asana project on How to track
