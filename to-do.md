@@ -1,34 +1,14 @@
 # Jer's To-Do List
 
-- **Unito:**
-  - ANyone: How to add personal tasks to asana
-  - Laura breastfeeding time issues
-  - Creative cloud apps
-  - Review what to join w/Laura
-  - Sarah:
-    - Door code
-    - How to add bebe time to Collage
-  - Marks acronym list review
-    - wtf is an OKR, why will my brain not retain this
-  - In the wellnes plan thing, review the asana project on How to track
-  - [Setup Authy](https://authy.com/)
-  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
-  - Do wrike tutorial
-  - Do an asana refresher
-  - Set up automatic calendar event dupliction for items mon-friday during work hours
-  - Obtain access:
-    - Add me to Unito Google Oraginzation & search console
-    - Prey subscription
-    - Eric Repo setup & accounts
-    - Laura analytics access
+- **CULT**
+  - Tags archives should not show to do list items. Other items?
+  - BOM 2019 logo
+  - Add last column to home page
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
   - Local agencies
   - Lastpass organize (move items to personal where appropriate)
-- move unito lastpass items to unito
-- organize bk vs jer lastpass
-- Tags archives should not show to do list items. Other items?
 - rethink xmas gear & winter coat storage
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
@@ -38,10 +18,13 @@
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
 - Ask cathy re goceries
-- Call Matthew & Kyla re baby
-- meal for kate & jade
+- Call Kyla re baby
+- Meal for Jade
 - Find out if our 3 people can be seperate people
-- Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
+- Bill Carly at x2 rate (like 4 hours?)
+
+--
+
 - **Apps:**
   - Some type of wave editor like audition?
   - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
@@ -58,7 +41,6 @@
   - KVARNVIK 704.128.75
 - Listen to Steve's GDrive recording
 - Pick up gift cert at scandinave
-- Bill Carly at x2 rate (like 4 hours?)
 - Song w/Juan
 - Do my last thank yous
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
