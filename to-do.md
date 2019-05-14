@@ -1,26 +1,26 @@
 # Jer's To-Do List
 
 - **Unito:**
-  - security finish stuff
-  - password move
-  - cal sync
-  - tasks files conversations
-  - only a canadian business can do this bcause we're everybodys friend
-  - its part of our culture and dna
+  - ANyone: How to add personal tasks to asana
+  - Laura breastfeeding time issues
+  - Creative cloud apps
+  - Review what to join w/Laura
+  - Sarah:
+    - Door code
+    - How to add bebe time to Collage
   - Marks acronym list review
-  - wtf is an OKR
-  - Add me to Unito Google Oraginzation
-  - Add me to other analytics tools
-  - Give me domain access for adding records / else what is pipeline for adding records
-  - Google search console not set up for me?
-  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
-  - [Setup Authy](https://authy.com/)
-  - encrypt HD
-  - Submit unito life insurance
-  - Review the quicklinks section
-  - Do an asana refresher
-  - I do not at all understand the graph in _Decision Making Framework_
+    - wtf is an OKR, why will my brain not retain this
   - In the wellnes plan thing, review the asana project on How to track
+  - [Setup Authy](https://authy.com/)
+  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
+  - Do wrike tutorial
+  - Do an asana refresher
+  - Set up automatic calendar event dupliction for items mon-friday during work hours
+  - Obtain access:
+    - Add me to Unito Google Oraginzation & search console
+    - Prey subscription
+    - Eric Repo setup & accounts
+    - Laura analytics access
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
