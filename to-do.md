@@ -1,6 +1,27 @@
 # Jer's To-Do List
 
-- BKDSN
+- **Unito:**
+  - security finish stuff
+  - password move
+  - cal sync
+  - tasks files conversations
+  - only a canadian business can do this bcause we're everybodys friend
+  - its part of our culture and dna
+  - Marks acronym list review
+  - wtf is an OKR
+  - Add me to Unito Google Oraginzation
+  - Add me to other analytics tools
+  - Give me domain access for adding records / else what is pipeline for adding records
+  - Google search console not set up for me?
+  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
+  - [Setup Authy](https://authy.com/)
+  - encrypt HD
+  - Submit unito life insurance
+  - Review the quicklinks section
+  - Do an asana refresher
+  - I do not at all understand the graph in _Decision Making Framework_
+  - In the wellnes plan thing, review the asana project on How to track
+- **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
   - Local agencies
@@ -21,24 +42,6 @@
 - meal for kate & jade
 - Find out if our 3 people can be seperate people
 - Get replacement SIN by bringing my birth certificate to the Guy Favreau Complex (suite 034 or 103)
-- **Unito:**
-  - tasks files conversations
-  - only a canadian business can do this bcause we're everybodys friend
-  - its part of our culture and dna
-  - Marks acronym list review
-  - wtf is an OKR
-  - Add me to Unito Google Oraginzation
-  - Add me to other analytics tools
-  - Give me domain access for adding records / else what is pipeline for adding records
-  - Google search console not set up for me?
-  - [Finish Wrike Setup](https://www.wrike.com/workspace.htm?acc=861032)
-  - [Setup Authy](https://authy.com/)
-  - encrypt HD
-  - Submit unito life insurance
-  - Review the quicklinks section
-  - Do an asana refresher
-  - I do not at all understand the graph in _Decision Making Framework_
-  - In the wellnes plan thing, review the asana project on How to track
 - **Apps:**
   - Some type of wave editor like audition?
   - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
