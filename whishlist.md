@@ -1,5 +1,10 @@
 # Wishlist
 
+- Short iPhone/iPad cables x2
+- iPhone/iPad testing station
+- Desktop power bars that don't suck
+- Maybe multicharge docking thingy
+- USB C PD power for xps 9350
 - Ereader
 - SC4 & aux cables
 - Computer keyboard
