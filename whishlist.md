@@ -1,5 +1,7 @@
 # Wishlist
 
+- home ext chords
+- laptop charger
 - Ereader
 - SC4 & aux cables
 - Computer keyboard
