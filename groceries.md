@@ -64,3 +64,19 @@
 - Kleenex
 - CLR bathroom cleaner
 - Draino
+
+kraft singles
+cheddar
+potatoes
+tonyaoes
+leaf greens
+other greens
+sandwitch stuff
+pickles 
+
+udon
+bread
+garlic
+sauage
+chike  breast
+chicken thights 
