@@ -1,9 +1,14 @@
 # Jer's To-Do List
 
+- Fix Juans computer
+- **Camplift**
 - **CULT**
   - Tags archives should not show to do list items. Other items?
   - BOM 2019 logo
   - Add last column to home page
+  - Photos page basic update
+  - Print page basic update
+  - Events triage
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
