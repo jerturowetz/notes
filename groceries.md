@@ -28,8 +28,11 @@
 
 ## Metro
 
+- Multigrain bread
 - Cheddar chesse
 - Strawerries, blueberries
+- leaf greens
+- other greens
 - Broccoli
 - Carrots
 - Patates
@@ -37,20 +40,22 @@
 - Apples
 - Bananas
 - Tomatoes
+- Garlic
 - Chk breast
+- Chk thighs
 - Fish for freezing
 - Ground pork and beef
 - Saucisse for freez
 - breakfast sausage for freeze x2
 - Creme fraiche
 - Milk
-- Butter
 - Sliced cheese
 - Greek yogurt vanilla & plain
 - Coffee
 - Penne, Tagliatelli, Linguini
 - 2 Pasta Sauce
 - Apple cider vinaigre
+- Pickles
 - Rice vinager (unseasoned)
 - Sundried tomatoes in oil
 - KD
@@ -64,19 +69,3 @@
 - Kleenex
 - CLR bathroom cleaner
 - Draino
-
-kraft singles
-cheddar
-potatoes
-tonyaoes
-leaf greens
-other greens
-sandwitch stuff
-pickles 
-
-udon
-bread
-garlic
-sauage
-chike  breast
-chicken thights 
