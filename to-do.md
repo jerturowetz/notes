@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+- Print shop confirm
+- is F&O open subday?
+- canni return F&O atuff to diff stores
 - Fix Juans computer
 - **Camplift**
 - **CULT**
