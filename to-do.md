@@ -3,12 +3,17 @@
 - Print shop confirm
 - is F&O open subday?
 - canni return F&O atuff to diff stores
-- Fix Juans computer
 - **Camplift**
+  - Add banner to FB
+  - French content
+  - Draft HP
+  - Get at Xav
 - **CULT**
   - Tags archives should not show to do list items. Other items?
-  - BOM 2019 logo
-  - Add last column to home page
+  - Fix the BOM logo section
+  - Set HP columns headers to look like other columns
+  - Set HP columns to sort bnased on most recent
+  - Set up margins on cats/hp to make a bit more sense
   - Photos page basic update
   - Print page basic update
   - Events triage
@@ -17,6 +22,7 @@
   - Guide for Bart on how to deploy changes
   - Local agencies
   - Lastpass organize (move items to personal where appropriate)
+- Fix Juans computer
 - rethink xmas gear & winter coat storage
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
@@ -62,6 +68,16 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
+
+## Flicks
+
+- Three Peaks
+- Judy
+- Leto
+- The Farewell
+- Non-Fiction
+- Aniara
+- Shadow 2019
 
 ## Games for review
 
