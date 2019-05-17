@@ -5,6 +5,8 @@
 - Desktop power bars that don't suck
 - Maybe multicharge docking thingy
 - USB C PD power for xps 9350
+- home ext chords
+- laptop charger
 - Ereader
 - SC4 & aux cables
 - Computer keyboard
