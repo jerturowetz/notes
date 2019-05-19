@@ -25,6 +25,9 @@
 - Toothpaste
 - Swiffer dusters
 - Hand soap
+- cotton pads
+- soap
+- toothpaste 
 
 ## Metro
 

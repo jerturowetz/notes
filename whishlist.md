@@ -41,6 +41,8 @@
 
 ### Rigs
 
+get an aux in to the workbench 
+
 - **Amp rack:**
   - Power
   - Comp/gate whatever
