@@ -182,3 +182,9 @@
 - Fix and complete drop snake (8 send, 4 ret)
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
   - 12 channel cable for floor snake
+- pick holder for mic stands
+- di for oscar
+- furman power for me
+- guitar stands
+- more amp clamps for abss amp
+- moongels
