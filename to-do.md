@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - Print shop confirm
-- is F&O open subday?
 - canni return F&O atuff to diff stores
 - Fix Juans computer
 - **Camplift**
@@ -153,7 +152,7 @@ assasins creed 3 remastered (uplay)
 
 ## Kate follow up
 
-- communauto
+- communauto, proof of renewal of license
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
