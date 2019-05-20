@@ -1,14 +1,13 @@
 # Wishlist
 
-- Duct tape for home
-- Better ext chord for baby area
+- hand soap fnacy
+- hair stuff
+- roll up power bar for home
+- better micro usb cable
 - Short iPhone/iPad cables x2
-- iPhone/iPad testing station
 - Desktop power bars that don't suck
 - Maybe multicharge docking thingy
 - USB C PD power for xps 9350
-- home ext chords
-- laptop charger
 - Ereader
 - SC4 & aux cables
 - Computer keyboard
@@ -17,12 +16,9 @@
 - Desktop audio
 - small always packed grocery bag
 - Device Lab responsive dev stand
-- Baby Bjorn
-- Find a big-gulp cup with a straw
 - Order a sac magique and add to packing list
 - Hemorrhoid cream
-- Binder
-- Notebook
+- Binder & loose leaf
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")

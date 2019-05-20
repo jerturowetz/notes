@@ -19,22 +19,10 @@
 - dumplings
 - duck, pork
 
-## Pharmacy/HW
-
-- Hair stuff
-- Toothpaste
-- Swiffer dusters
-- Hand soap
-- Shower soap
-- cotton pads
-- Dish soap
-- bbq charcoal
-- Kleenex
-- CLR bathroom cleaner
-- Draino
-
 ## Metro
 
+- Swiffer dusters
+- bbq charcoal
 - WHole chk
 - Bacon
 - Sadwich stuff

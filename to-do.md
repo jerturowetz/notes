@@ -20,7 +20,6 @@
   - Local agencies
   - Lastpass organize (move items to personal where appropriate)
 - Fix Juans computer
-- rethink xmas gear & winter coat storage
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
 - buy milk storage bags & learn how they work
