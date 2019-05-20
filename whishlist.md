@@ -1,5 +1,7 @@
 # Wishlist
 
+- Duct tape for home
+- Better ext chord for baby area
 - Short iPhone/iPad cables x2
 - iPhone/iPad testing station
 - Desktop power bars that don't suck

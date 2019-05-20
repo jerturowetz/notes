@@ -1,7 +1,5 @@
 # Jer's To-Do List
 
-- Print shop confirm
-- canni return F&O atuff to diff stores
 - **Camplift**
   - Add banner to FB
   - French content
@@ -102,73 +100,72 @@
 - Vampyr
 - Star Control Orighins
 - Immortal Unchained
-
-the witcher 2
-final fantasy xv (windows
-dragon quest xi
-immortal unchained
-vampyr
-dark sould remastered
-kingdonm come deliverance
-outward steam
-thronebreaker witcher
-legend of the skyfish
-trials of cold steel
-pathfinder kingmaker
-islands of nyne
-killing floor 2
-witcher 3 wild hunt
-ark survival evolved
-boundless
-switchblade
-fractured lands
-post scriptum
-divinity original sin 2
-far cry 5
-elder scrolls online summerset
-sunset overdrive
-dead by daylight
-arkham knight
-Zone of the enders MARS
-argo
-Crossout
-tree of savior
-Far Cry new dawn
-ReCore definitive edition
-spacelords
-tera
-soulworker
-paladins
-realm royale
-captain spirit
-mega man 11
-x4 foundations
-life is strange 2
-Reigns: game of thrones
-my memory of us
-cardlife: cardboard
-assasins cree dodyssey
-My Hero Ones Justice
-Infliction
-Underworld Ascendant
-The quiet man
-Call of Cthulu
-Mutant year zero road to eden
-Darkseiders 3
-dusk
-catherine classic
-atlas
-onimusha warlords
-my time in portia
-fimbul
-Project winter
-praey for the gods
-risk of rain
-assasins creed 3 remastered (uplay)
+- the witcher 2
+- final fantasy xv (windows
+- dragon quest xi
+- immortal unchained
+- vampyr
+- dark sould remastered
+- kingdonm come deliverance
+- outward steam
+- thronebreaker witcher
+- legend of the skyfish
+- trials of cold steel
+- pathfinder kingmaker
+- islands of nyne
+- killing floor 2
+- witcher 3 wild hunt
+- ark survival evolved
+- boundless
+- switchblade
+- fractured lands
+- post scriptum
+- divinity original sin 2
+- far cry 5
+- elder scrolls online summerset
+- sunset overdrive
+- dead by daylight
+- arkham knight
+- Zone of the enders MARS
+- argo
+- Crossout
+- tree of savior
+- Far Cry new dawn
+- ReCore definitive edition
+- spacelords
+- tera
+- soulworker
+- paladins
+- realm royale
+- captain spirit
+- mega man 11
+- x4 foundations
+- life is strange 2
+- Reigns: game of thrones
+- my memory of us
+- cardlife: cardboard
+- assasins cree dodyssey
+- My Hero Ones Justice
+- Infliction
+- Underworld Ascendant
+- The quiet man
+- Call of Cthulu
+- Mutant year zero road to eden
+- Darkseiders 3
+- dusk
+- catherine classic
+- atlas
+- onimusha warlords
+- my time in portia
+- fimbul
+- Project winter
+- praey for the gods
+- risk of rain
+- assasins creed 3 remastered (uplay)
 
 ## Kate follow up
 
-- communauto, proof of renewal of license
+- communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
