@@ -27,14 +27,13 @@
 - Hand soap
 - cotton pads
 - soap
-- toothpaste 
+- toothpaste
 
 ## Metro
 
-- hospital snacks?
+- Dish soap
 - bbq charcoal
 - bbq food
-- Raddishe
 - Saran wrap
 - Large tinfoil
 - Kleenex
