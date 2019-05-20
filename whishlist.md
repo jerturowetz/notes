@@ -1,6 +1,7 @@
 # Wishlist
 
 - hand soap fnacy
+- wide tinfoil
 - hair stuff
 - roll up power bar for home
 - better micro usb cable

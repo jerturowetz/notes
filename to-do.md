@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- videotron internet & phone vs current packages 
+
 - **Camplift**
   - Add banner to FB
   - French content

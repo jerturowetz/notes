@@ -21,10 +21,6 @@
 
 ## Metro
 
-- Swiffer dusters
-- bbq charcoal
-- WHole chk
-- Bacon
+- WHole chl
 - Sadwich stuff
-- Saran wrap
 - Large tinfoil
