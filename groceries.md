@@ -21,21 +21,22 @@
 
 ## Pharmacy/HW
 
-- Duct Tape
+- Hair stuff
 - Toothpaste
 - Swiffer dusters
 - Hand soap
+- Shower soap
 - cotton pads
-- soap
-- toothpaste
-
-## Metro
-
 - Dish soap
 - bbq charcoal
-- bbq food
-- Saran wrap
-- Large tinfoil
 - Kleenex
 - CLR bathroom cleaner
 - Draino
+
+## Metro
+
+- WHole chk
+- Bacon
+- Sadwich stuff
+- Saran wrap
+- Large tinfoil

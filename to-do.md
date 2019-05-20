@@ -33,6 +33,17 @@
 - Meal for Jade
 - Find out if our 3 people can be seperate people
 - Bill Carly at x2 rate (like 4 hours?)
+- Get some swaddlers (use the cupon at the store)
+- Day care stalking
+- Get some new games for pre-hospital (maybe go to store together)
+- find someone to clean the house
+- borrow breastfeeding pillow from joanna
+- Make binders (Jeremy hospital, baby at home)
+- Review (add to jeremy hospital binder):
+  - Massage positions
+  - Breastfeeding positions
+  - Stages of labor, their lengths and the types/durations of contractions
+  - Meds for after birth
 
 --
 
