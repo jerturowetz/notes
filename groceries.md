@@ -31,42 +31,10 @@
 
 ## Metro
 
-- Multigrain bread
-- Cheddar chesse
-- Strawerries, blueberries
-- leaf greens
-- other greens
-- Broccoli
-- Carrots
-- Patates
-- Raddish
-- Apples
-- Bananas
-- Tomatoes
-- Garlic
-- Chk breast
-- Chk thighs
-- Fish for freezing
-- Ground pork and beef
-- Saucisse for freez
-- breakfast sausage for freeze x2
-- Creme fraiche
-- Milk
-- Sliced cheese
-- Greek yogurt vanilla & plain
-- Coffee
-- Penne, Tagliatelli, Linguini
-- 2 Pasta Sauce
-- Apple cider vinaigre
-- Pickles
-- Rice vinager (unseasoned)
-- Sundried tomatoes in oil
-- KD
-- Regular tea
-- Whole black pepper (mill?)
-- Coarse salt
-- Regular Olive Oil
-- Extra virgin olive oil
+- hospital snacks?
+- bbq charcoal
+- bbq food
+- Raddishe
 - Saran wrap
 - Large tinfoil
 - Kleenex
