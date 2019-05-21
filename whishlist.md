@@ -1,5 +1,6 @@
 # Wishlist
 
+- peri care bottle
 - hand soap fnacy
 - wide tinfoil
 - hair stuff
