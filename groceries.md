@@ -21,6 +21,5 @@
 
 ## Metro
 
-- WHole chl
-- Sadwich stuff
-- Large tinfoil
+- Whole chicken
+- Sandwich stuff

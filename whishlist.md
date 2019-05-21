@@ -2,29 +2,23 @@
 
 - peri care bottle
 - hand soap fnacy
+- Fancy hand soap
 - wide tinfoil
 - hair stuff
+- Hemorrhoid cream
 - roll up power bar for home
-- better micro usb cable
-- Short iPhone/iPad cables x2
-- Desktop power bars that don't suck
-- Maybe multicharge docking thingy
-- USB C PD power for xps 9350
 - Ereader
 - SC4 & aux cables
+- better micro usb cable
+- Short iPhone/iPad cables x2
+- Desktop power bar that doesn't suck
+- USB C PD power for xps 9350
 - Computer keyboard
-- Workshop desktop storage
-- Mouser order
 - Desktop audio
-- small always packed grocery bag
+- small, always packed grocery bag
 - Device Lab responsive dev stand
-- Order a sac magique and add to packing list
-- Hemorrhoid cream
+- Sac magique
 - Binder & loose leaf
-- [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 
@@ -36,12 +30,13 @@
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
 - Choker
+- [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Rehersal space
 
 ### Rigs
 
-get an aux in to the workbench 
+get an aux in to the workbench
 
 - **Amp rack:**
   - Power
@@ -131,6 +126,7 @@ get an aux in to the workbench
 
 ### Workbench/Other
 
+- Desktop storage
 - Furman plug lock
 - Power y-splitter
 - Cheap pedal power fro trav pedals
@@ -190,3 +186,4 @@ get an aux in to the workbench
 - guitar stands
 - more amp clamps for abss amp
 - moongels
+- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
