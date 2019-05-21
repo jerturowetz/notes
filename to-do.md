@@ -1,10 +1,7 @@
 # Jer's To-Do List
 
-- videotron internet & phone vs current packages 
-
+- videotron internet & phone vs current packages
 - **Camplift**
-  - Add banner to FB
-  - French content
   - Draft HP
   - Get at Xav
 - **CULT**
@@ -77,6 +74,8 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
+- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- Gear to patch hole behind stove
 
 ## Flicks
 
