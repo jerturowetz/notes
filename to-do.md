@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- videotron internet & phone vs current packages
 - **Camplift**
   - Draft HP
   - Get at Xav
@@ -27,8 +26,7 @@
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
 - Ask cathy re goceries
-- Call Kyla re baby
-- Meal for Jade
+- Call Matthew, Kyla re baby
 - Find out if our 3 people can be seperate people
 - Bill Carly at x2 rate (like 4 hours?)
 - Get some swaddlers (use the cupon at the store)
@@ -76,6 +74,7 @@
 - Bootlegger, L'Authentique Thursday hip hop jam
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
+- videotron phone & internet
 
 ## Flicks
 
