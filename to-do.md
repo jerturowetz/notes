@@ -88,90 +88,40 @@
 
 ## Games for review
 
-- Prey for the Gods
-- Project Winter
-- My Time at Portia
-- Onimusha Warlords
-- Darksiders 3
-- Witcher Tales
-- Call of Cthulu
-- Tamriel Unlimited
-- Atlas
-- Ark Survival Evolved
-- Divinity 2 Original Sin
-- Killing Floor 2
-- Rocket League
-- Witcher 3 Wild Hunt
-- Outward
-- Morphite
-- Underworld Ascendant
-- Thronebreaker
-- Legend of Skyfish
-- Vampyr
-- Star Control Orighins
-- Immortal Unchained
-- the witcher 2
-- final fantasy xv (windows
-- dragon quest xi
-- immortal unchained
-- vampyr
-- dark sould remastered
-- kingdonm come deliverance
-- outward steam
-- thronebreaker witcher
-- legend of the skyfish
-- trials of cold steel
-- pathfinder kingmaker
-- islands of nyne
-- killing floor 2
-- witcher 3 wild hunt
-- ark survival evolved
-- boundless
-- switchblade
-- fractured lands
-- post scriptum
-- divinity original sin 2
-- far cry 5
-- elder scrolls online summerset
-- sunset overdrive
-- dead by daylight
 - arkham knight
-- Zone of the enders MARS
-- argo
-- Crossout
-- tree of savior
-- Far Cry new dawn
-- ReCore definitive edition
-- spacelords
-- tera
-- soulworker
-- paladins
-- realm royale
-- captain spirit
-- mega man 11
-- x4 foundations
-- life is strange 2
-- Reigns: game of thrones
-- my memory of us
-- cardlife: cardboard
-- assasins cree dodyssey
-- My Hero Ones Justice
-- Infliction
-- Underworld Ascendant
-- The quiet man
-- Call of Cthulu
-- Mutant year zero road to eden
-- Darkseiders 3
-- dusk
-- catherine classic
-- atlas
-- onimusha warlords
-- my time in portia
-- fimbul
-- Project winter
-- praey for the gods
-- risk of rain
 - assasins creed 3 remastered (uplay)
+- captain spirit
+- dark sould remastered
+- Divinity 2 Original Sin
+- dragon quest xi
+- elder scrolls online summerset
+- final fantasy xv (windows version)
+- kingdonm come deliverance
+- legend of the skyfish
+- mega man 11
+- My Hero Ones Justice
+- my memory of us
+- My Time at Portia
+- Outward
+- pathfinder kingmaker
+- Prey for the Gods
+- Project winter
+- realm royale
+- ReCore definitive edition
+- risk of rain
+- Rocket League
+- soulworker
+- spacelords
+- sunset overdrive
+- Tamriel Unlimited
+- tera
+- the witcher 2
+- thronebreaker witcher
+- tree of savior
+- trials of cold steel
+- Underworld Ascendant
+- Witcher 3 Wild Hunt
+- Zone of the enders MARS
 
 ## Kate follow up
 
