@@ -1,5 +1,19 @@
 # Jer's To-Do List
 
+- freezies for hospital
+- wmergency carseat choice
+- bottles
+- lay off the pacifier for a month
+- newborn burping
+- pack a bathin suit for baby time
+- get magazines
+- get cards, flash catds, inagery 
+- birthing center triage (4th floor)
+contractiobs strong, 2-3 mins apart (9only note i need)
+
+- pre made meals
+- videotron internet & phone vs current packages 
+
 - **Camplift**
   - Draft HP
   - Get at Xav
