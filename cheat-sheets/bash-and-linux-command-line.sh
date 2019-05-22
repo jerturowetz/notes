@@ -8,6 +8,9 @@
 cp -a ~/source/. ~/dest/
 mv  -v ~/Downloads/* ~/Videos/
 
+# note "folder" will be created
+scp -r USER@SERVER.net:~/some/folder .
+
 ## Symbolic links
 
 sudo ln -s /usr/local/nginx/conf/ /etc/nginx    # symlink a folder
