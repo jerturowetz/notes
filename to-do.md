@@ -104,36 +104,18 @@ contractiobs strong, 2-3 mins apart (9only note i need)
 
 - arkham knight
 - assasins creed 3 remastered (uplay)
-- captain spirit
-- dark sould remastered
 - Divinity 2 Original Sin
 - dragon quest xi
-- elder scrolls online summerset
+- elder scrolls online
 - final fantasy xv (windows version)
-- kingdonm come deliverance
 - legend of the skyfish
-- mega man 11
-- My Hero Ones Justice
-- my memory of us
-- My Time at Portia
 - Outward
 - pathfinder kingmaker
 - Prey for the Gods
-- Project winter
-- realm royale
-- ReCore definitive edition
 - risk of rain
-- Rocket League
-- soulworker
-- spacelords
 - sunset overdrive
-- Tamriel Unlimited
 - tera
-- the witcher 2
 - thronebreaker witcher
-- tree of savior
-- trials of cold steel
-- Underworld Ascendant
 - Witcher 3 Wild Hunt
 - Zone of the enders MARS
 
