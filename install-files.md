@@ -112,7 +112,7 @@ Use the wizard at [xdebug.org](https://xdebug.org) to find the version you need 
 
     npm install -g gulp-cli grunt-cli eslint-cli stylelint-cli
 
-    gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm
+    gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
 
 ### Maybe also some composer extensions
 
