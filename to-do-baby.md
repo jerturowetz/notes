@@ -2,6 +2,8 @@
 
 ## Stuff for my binder
 
+- [Emergency car seat](https://www.amazon.ca/Chicco-KeyFit-Infant-Seat-Orion/dp/B07FMXX5VP/)
+- [Emergency car seat complete system](https://www.amazon.ca/Chicco-Bravo-System-Orion-Black/dp/B07FMPZ1D6/)
 - St Mary's Birth Center 514-345-3511; ext 3406
 - St Mary's Family Medicine 514-734-2677
 - poop sheets
