@@ -7,10 +7,7 @@
 - sweet spansh paprika
 - hungarian hot paprika
 - granulated garlic
-
-## Butcher
-
-- 4 pound (2 kg) boneless pork shoulder or butt
+- dried oregano
 
 ## Chinese grocery
 
@@ -19,7 +16,18 @@
 - dumplings
 - duck, pork
 
-## Metro
+--
 
-- Whole chicken
-- Sandwich stuff
+big mortar and pestle, italian wood
+
+--
+
+kale
+coleslaw mix (green and red cabbage plus carrots)
+cilantro
+fresh parsley
+4 limes
+3 head garlic
+sour orange juice
+oregano leaves
+bacon
