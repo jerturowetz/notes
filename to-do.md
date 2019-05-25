@@ -1,7 +1,8 @@
 # Jer's To-Do List
 
+- cult keep tags under a ceryain no of characters 
+- car 2 go
 - freezies for hospital
-- wmergency carseat choice
 - bottles
 - lay off the pacifier for a month
 - newborn burping
