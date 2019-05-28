@@ -8,14 +8,14 @@
 
 ## Copying from s3
 
-    aws s3 cp s3://largefs-standardnet/standardnet/wp-content/uploads/ ./ --recursive
+    aws s3 cp s3://YOURBUCKET/SOMEFOLDER/ ./ --recursive
 
 ## Sync s3 Bucket folder (or entire bucket)
 
-    aws s3 sync s3://largefs-standardpro/standardpro/wp-content/uploads/ ./ --quiet
+    aws s3 sync s3://YOURBUCKET/SOMEFOLDER/ ./ --quiet
 
 ## List S3 repo objects
 
-    aws s3api list-objects --bucket largefs-standardnet --output json --query "[sum(Contents[].Size), length(Contents[])]"
+    aws s3api list-objects --bucket YOURBUCKET --output json --query "[sum(Contents[].Size), length(Contents[])]"
 
-    aws s3 ls --summarize --human-readable --recursive s3://largefs-standardnet/
+    aws s3 ls --summarize --human-readable --recursive s3://YOURBUCKET/
