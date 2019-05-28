@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
-- cult keep tags under a ceryain no of characters 
+- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
+- cult keep tags under a ceryain no of characters
 - car 2 go
 - freezies for hospital
 - bottles
