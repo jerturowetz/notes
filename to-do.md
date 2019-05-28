@@ -2,6 +2,9 @@
 
 - See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - cult keep tags under a ceryain no of characters
+- work antihistamines
+- figure out diaper service
+- cult keep tags under a ceryain no of characters 
 - car 2 go
 - freezies for hospital
 - bottles
