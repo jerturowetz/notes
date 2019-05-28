@@ -1,5 +1,8 @@
 # Wishlist
 
+birthday candles for work
+
+big mortar and pestle, italian wood pestle
 - peri care bottle
 - hand soap fnacy
 - Fancy hand soap

@@ -1,14 +1,5 @@
 # Groceries
 
-## Spice store
-
-- Rosemary
-- Thyme
-- sweet spansh paprika
-- hungarian hot paprika
-- granulated garlic
-- dried oregano
-
 ## Chinese grocery
 
 - noodles (frozen ?)
@@ -16,18 +7,15 @@
 - dumplings
 - duck, pork
 
---
+## Metro
 
-big mortar and pestle, italian wood
-
---
-
-kale
-coleslaw mix (green and red cabbage plus carrots)
-cilantro
-fresh parsley
-4 limes
-3 head garlic
-sour orange juice
-oregano leaves
-bacon
+- multigrain bread
+- bagels
+- burger buns
+- bananas
+- apples
+- honey
+- red wine vinaiger
+- cereal for kate
+- whole chk x2
+- ground pork

@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- work antihistamines
+- figure out diaper service
 - cult keep tags under a ceryain no of characters 
 - car 2 go
 - freezies for hospital
