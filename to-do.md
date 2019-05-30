@@ -1,41 +1,38 @@
 # Jer's To-Do List
 
-- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- cult keep tags under a ceryain no of characters
-- work antihistamines
-- figure out diaper service
-- cult keep tags under a ceryain no of characters 
-- car 2 go
-- freezies for hospital
-- bottles
-- lay off the pacifier for a month
-- newborn burping
-- pack a bathin suit for baby time
-- get magazines
-- get cards, flash catds, inagery 
-- birthing center triage (4th floor)
-contractiobs strong, 2-3 mins apart (9only note i need)
-
-- pre made meals
-- videotron internet & phone vs current packages 
-
+- **Cult stuff**
 - **Camplift**
   - Draft HP
   - Get at Xav
-- **CULT**
-  - Tags archives should not show to do list items. Other items?
-  - Fix the BOM logo section
-  - Set HP columns headers to look like other columns
-  - Set HP columns to sort bnased on most recent
-  - Set up margins on cats/hp to make a bit more sense
-  - Photos page basic update
-  - Print page basic update
-  - Events triage
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
   - Local agencies
   - Lastpass organize (move items to personal where appropriate)
+- **Apps:**
+  - Wave editor (Wavelab, soundforge or audition)
+  - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
+
+- Dentist surgeon follow up
+- GASM follow up
+- Bill Carly at x2 rate (like 4 hours?)
+
+--
+
+- Retirement planning
+- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
+- work antihistamines
+- figure out diaper service
+- car 2 go
+- freezies for hospital
+- bottles
+- newborn burping
+- pack a bathin suit for baby time
+- get magazines
+- get cards, flash catds, inagery
+- birthing center triage (4th floor): contractiobs strong, 2-3 mins apart (9only note i need)
+- pre made meals
+- videotron internet & phone vs current packages
 - Fix Juans computer
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
@@ -44,10 +41,7 @@ contractiobs strong, 2-3 mins apart (9only note i need)
 - Get up to date on baby cpr (schedule a class)
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
-- Ask cathy re goceries
 - Call Matthew, Kyla re baby
-- Find out if our 3 people can be seperate people
-- Bill Carly at x2 rate (like 4 hours?)
 - Get some swaddlers (use the cupon at the store)
 - Day care stalking
 - Get some new games for pre-hospital (maybe go to store together)
@@ -59,23 +53,6 @@ contractiobs strong, 2-3 mins apart (9only note i need)
   - Breastfeeding positions
   - Stages of labor, their lengths and the types/durations of contractions
   - Meds for after birth
-
---
-
-- **Apps:**
-  - Some type of wave editor like audition?
-  - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
-- **RUBY Possible show dates** (helen of joy, hyesa, bet nwar, march of the worm & tugawar)
-  - May 16, 18, 19
-  - June 9, 13, 14, 15, 16
-- **FER SHER Possible show dates**
-  - May 16, 18, 19, 23, 30, 31
-  - June 1, 2, 6, 7, 8, 9, 13, 14, 15, 16
-- **Print shop:**
-  - a few more thank yous
-  - Sal Salis
-- **IKEA:**
-  - KVARNVIK 704.128.75
 - Listen to Steve's GDrive recording
 - Pick up gift cert at scandinave
 - Song w/Juan
@@ -94,16 +71,6 @@ contractiobs strong, 2-3 mins apart (9only note i need)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
 - videotron phone & internet
-
-## Flicks
-
-- Three Peaks
-- Judy
-- Leto
-- The Farewell
-- Non-Fiction
-- Aniara
-- Shadow 2019
 
 ## Games for review
 
@@ -126,7 +93,7 @@ contractiobs strong, 2-3 mins apart (9only note i need)
 
 ## Kate follow up
 
-- communauto
+- Communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
