@@ -22,10 +22,6 @@
   - 12-18 liners fir cloth diapers
   - verdun rentable diapers (les grenouilles vertes)
 
-## Dr Comeau Q&A
-
-- Can Kate have advil immedialty aftr birth?
-
 ## Hospital notes
 
 - Drugs: wanna try laughing gas & walking epidural before HxC epidural
