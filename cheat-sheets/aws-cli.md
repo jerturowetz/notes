@@ -1,21 +1,27 @@
 # Cheat sheet : AWS CLI
 
-## Setting environment variables
+## Setting local environment variables for cli
 
-    export AWS_PROFILE=whateverProfile
-    export AWS_ACCESS_KEY_ID=whateverID
-    export AWS_SECRET_ACCESS_KEY=whateverKEY
+    export AWS_PROFILE=someProfile
+    export AWS_ACCESS_KEY_ID=someID
+    export AWS_SECRET_ACCESS_KEY=someKey
 
-## Copying from s3
-
-    aws s3 cp s3://YOURBUCKET/SOMEFOLDER/ ./ --recursive
-
-## Sync s3 Bucket folder (or entire bucket)
-
-    aws s3 sync s3://YOURBUCKET/SOMEFOLDER/ ./ --quiet
-
-## List S3 repo objects
-
-    aws s3api list-objects --bucket YOURBUCKET --output json --query "[sum(Contents[].Size), length(Contents[])]"
+## List S3 objects
 
     aws s3 ls --summarize --human-readable --recursive s3://YOURBUCKET/
+
+## List S3 objects inb a specific folder
+
+    aws s3 ls --summarize --human-readable --recursive s3://YOURBUCKET/SOMEFOLDER/
+
+## Copy folder to s3
+
+    aws s3 cp ./SOMEFOLDER/ s3://YOURBUCKET/SOMEFOLDER/ --recursive
+
+## Sync specific folder to s3
+
+    aws s3 sync ./SOMEFOLDER/ s3://YOURBUCKET/SOMEFOLDER/
+
+## Erase the content of a specific folder
+
+    aws s3 rm s3://YOURBUCKET/SOMEFOLDER/ --recursive
