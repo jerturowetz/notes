@@ -1,14 +1,7 @@
 # Wishlist
 
-- coasters for office
-
 - big mortar and pestle, italian wood
-birthday candles for work
-
-big mortar and pestle, italian wood pestle
-- peri care bottle
-- hand soap fnacy
-- Fancy hand soap
+- birthday candles for work
 - wide tinfoil
 - hair stuff
 - Hemorrhoid cream
