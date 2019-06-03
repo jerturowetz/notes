@@ -18,8 +18,10 @@
 - burger buns
 - bananas
 - apples
-- honey
 - red wine vinaiger
-- cereal for kate
 - whole chk x2
 - ground pork
+- kd
+- fun cheddar cheese
+- toilet paper
+- paper towel

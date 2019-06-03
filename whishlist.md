@@ -1,6 +1,10 @@
 # Wishlist
 
 - coasters for office
+- cathy xmas cheese knife 
+
+Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- Gear to patch hole behind stove
 
 - big mortar and pestle, italian wood
 birthday candles for work
