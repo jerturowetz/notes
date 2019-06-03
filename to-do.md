@@ -7,21 +7,17 @@
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
-  - Local agencies
-  - Lastpass organize (move items to personal where appropriate)
 - **Apps:**
   - Wave editor (Wavelab, soundforge or audition)
   - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
-
 - Dentist surgeon follow up
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
+- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
+- work antihistamines
 
 --
 
-- Retirement planning
-- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- work antihistamines
 - figure out diaper service
 - car 2 go
 - freezies for hospital
@@ -42,7 +38,6 @@
 - Explore cheap air conditioning (portable unit, annoying windows?)
 - Need some machanism to store ice cubes & apply them (add this to packing list)
 - Call Matthew, Kyla re baby
-- Get some swaddlers (use the cupon at the store)
 - Day care stalking
 - Get some new games for pre-hospital (maybe go to store together)
 - find someone to clean the house
@@ -59,17 +54,13 @@
 - Do my last thank yous
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
-- Plans with Kalin & Raoul Movie night
 - Pick up drums chez Mike M
 - AA Roaul notes
-- Get guitar case from Rachel
 - Stewart Museaum
 - Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
-- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Gear to patch hole behind stove
 - videotron phone & internet
 
 ## Games for review
