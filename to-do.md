@@ -1,57 +1,43 @@
 # Jer's To-Do List
 
+- car 2 go (emailed, waiting on reply)
+- videotron internet & phone vs current packages
+- Do my last thank yous
 - **Cult stuff**
 - **Camplift**
+  - Review French content for inconsistencies
+  - Review nav contact button
+  - Get new image from Jo
   - Draft HP
   - Get at Xav
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
-- **Apps:**
-  - Wave editor (Wavelab, soundforge or audition)
-  - Alternative to indesign (Affinity Designer, Inkscape, Sketch)
 - Dentist surgeon follow up
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
-- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- work antihistamines
 
 --
 
-- figure out diaper service
-- car 2 go
-- freezies for hospital
+- Make binders (Jeremy hospital, baby at home)
 - bottles
+- figure out diaper service
 - newborn burping
-- pack a bathin suit for baby time
-- get magazines
-- get cards, flash catds, inagery
-- birthing center triage (4th floor): contractiobs strong, 2-3 mins apart (9only note i need)
 - pre made meals
-- videotron internet & phone vs current packages
 - Fix Juans computer
 - Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
-- buy milk storage bags & learn how they work
 - Explore order-at-home groceries (provigo/metro/IGA delivery)
 - Get up to date on baby cpr (schedule a class)
 - Explore cheap air conditioning (portable unit, annoying windows?)
-- Need some machanism to store ice cubes & apply them (add this to packing list)
 - Call Matthew, Kyla re baby
-- Day care stalking
-- Get some new games for pre-hospital (maybe go to store together)
+- Day care stalking:
+  - See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - find someone to clean the house
 - borrow breastfeeding pillow from joanna
-- Make binders (Jeremy hospital, baby at home)
-- Review (add to jeremy hospital binder):
-  - Massage positions
-  - Breastfeeding positions
-  - Stages of labor, their lengths and the types/durations of contractions
-  - Meds for after birth
 - Listen to Steve's GDrive recording
 - Pick up gift cert at scandinave
 - Song w/Juan
-- Do my last thank yous
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
 - Pick up drums chez Mike M
@@ -73,7 +59,6 @@
 - final fantasy xv (windows version)
 - legend of the skyfish
 - Outward
-- pathfinder kingmaker
 - Prey for the Gods
 - risk of rain
 - sunset overdrive

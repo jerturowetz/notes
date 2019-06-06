@@ -2,8 +2,13 @@
 
 ## Stuff for my binder
 
+- Massage positions
+- Breastfeeding positions
+- Stages of labor, their lengths and the types/durations of contractions
+- Meds for after birth
 - [Emergency car seat](https://www.amazon.ca/Chicco-KeyFit-Infant-Seat-Orion/dp/B07FMXX5VP/)
 - [Emergency car seat complete system](https://www.amazon.ca/Chicco-Bravo-System-Orion-Black/dp/B07FMPZ1D6/)
+- birthing center triage (4th floor): contractiobs strong, 2-3 mins apart (only note i need really)
 - St Mary's Birth Center 514-345-3511; ext 3406
 - St Mary's Family Medicine 514-734-2677
 - poop sheets

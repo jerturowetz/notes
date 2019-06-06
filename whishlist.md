@@ -1,14 +1,14 @@
 # Wishlist
 
-- cathy xmas cheese knife
-Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Gear to patch hole behind stove
-- big mortar and pestle, italian wood
-- wide tinfoil
-- hair stuff
+- Ice bag
+- Binder
+- cards, flash catds, imagery
 - Hemorrhoid cream
-- roll up power bar for home
-- Ereader
+- Magazines
+
+- Get some new games for pre-hospital (maybe go to store together)
+- buy milk storage bags & learn how they work
+
 - SC4 & aux cables
 - better micro usb cable
 - Short iPhone/iPad cables x2
@@ -17,9 +17,20 @@ Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"
 - Computer keyboard
 - Desktop audio
 - small, always packed grocery bag
+- shure easphone cleaner
+
+--
+
+- Ereader
+- cathy xmas cheese knife
+- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- Gear to patch hole behind stove
+- big mortar and pestle, italian wood
+- wide tinfoil
+- hair stuff
+- Roll up power bar for home
 - Device Lab responsive dev stand
 - Sac magique
-- Binder & loose leaf
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 
@@ -30,14 +41,13 @@ Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"
 - Deering goodtime banjo
 - Santiago Ramon Y Cajal Art
 - Danny's Coiffure (t-shirt)
-- Choker
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Rehersal space
 
 ### Rigs
 
-get an aux in to the workbench
+Get an aux in to the workbench
 
 - **Amp rack:**
   - Power
