@@ -25,3 +25,7 @@
 ## Erase the content of a specific folder
 
     aws s3 rm s3://YOURBUCKET/SOMEFOLDER/ --recursive
+
+## Copy all files from the root of the bucket, but not copy any sub-folders
+
+    aws s3 cp s3://my-bucket s3://my-bucket/destination --recursive --exclude "*/*"
