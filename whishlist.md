@@ -1,14 +1,6 @@
 # Wishlist
 
 - Ice bag
-- Binder
-- cards, flash catds, imagery
-- Hemorrhoid cream
-- Magazines
-
-- Get some new games for pre-hospital (maybe go to store together)
-- buy milk storage bags & learn how they work
-
 - SC4 & aux cables
 - better micro usb cable
 - Short iPhone/iPad cables x2
@@ -17,7 +9,15 @@
 - Computer keyboard
 - Desktop audio
 - small, always packed grocery bag
-- shure easphone cleaner
+- shure earphone cleaner
+
+- Binder
+- cards, flash catds, imagery
+- Hemorrhoid cream
+- Magazines
+
+- Get some new games for pre-hospital (maybe go to store together)
+- buy milk storage bags & learn how they work
 
 --
 
