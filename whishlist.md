@@ -4,19 +4,19 @@
 - SC4 & aux cables
 - better micro usb cable
 - Short iPhone/iPad cables x2
+
+- shure earphone cleaner
+- Computer keyboard
+
 - Desktop power bar that doesn't suck
 - USB C PD power for xps 9350
-- Computer keyboard
+
 - Desktop audio
 - small, always packed grocery bag
-- shure earphone cleaner
 
 - Binder
-- cards, flash catds, imagery
 - Hemorrhoid cream
 - Magazines
-
-- Get some new games for pre-hospital (maybe go to store together)
 - buy milk storage bags & learn how they work
 
 --
@@ -26,8 +26,6 @@
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Gear to patch hole behind stove
 - big mortar and pestle, italian wood
-- wide tinfoil
-- hair stuff
 - Roll up power bar for home
 - Device Lab responsive dev stand
 - Sac magique
