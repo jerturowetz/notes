@@ -1,6 +1,8 @@
 # Jer's To-Do List
 
-- car 2 go (emailed, waiting on reply)
+- get a compost bin
+- charge instax
+- need to addbto binder we dont consent to an episionony
 - videotron internet & phone vs current packages
 - Do my last thank yous
 - **Cult stuff**

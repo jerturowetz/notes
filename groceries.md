@@ -13,11 +13,7 @@
 
 ## Metro
 
-- multigrain bread
-- bagels
 - burger buns
-- bananas
-- apples
 - red wine vinaiger
 - whole chk x2
 - ground pork
@@ -25,3 +21,5 @@
 - fun cheddar cheese
 - toilet paper
 - paper towel
+- compost bags
+- black garbage bags
