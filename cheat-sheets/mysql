@@ -1,0 +1,4 @@
+mysql
+show databases;
+use DATABSE_name
+SELECT ID, POST_TITLE FROM wp_posts WHERE post_content LIKE '%cheese%' AND post_status = 'publish';
