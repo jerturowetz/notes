@@ -1,26 +1,25 @@
 # Wishlist
 
+- ipad keyboard
+- corsair compact keyboard
+- shure earphone cleaner
+
 - Ice bag
 - SC4 & aux cables
 - better micro usb cable
 - Short iPhone/iPad cables x2
 
-- shure earphone cleaner
-- Computer keyboard
-
-- Desktop power bar that doesn't suck
-- USB C PD power for xps 9350
-
-- Desktop audio
-- small, always packed grocery bag
-
 - Binder
 - Hemorrhoid cream
 - Magazines
-- buy milk storage bags & learn how they work
+- milk storage bags & learn how they work
 
 --
 
+- Desktop power bar that doesn't suck
+- USB C PD power for xps 9350
+- Desktop audio
+- small, always packed grocery bag
 - Ereader
 - cathy xmas cheese knife
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -46,6 +45,9 @@
 ### Rigs
 
 Get an aux in to the workbench
+
+furman power fir me
+
 
 - **Amp rack:**
   - Power
@@ -104,6 +106,7 @@ Get an aux in to the workbench
 - Palmer pdi-09 for guitar di (after fx) x2
 - Radial ProAV1 or Whirlwind pcDI
 - Radial JISO for running BAL into iphone
+- some guitar DI for reamp
 
 ### Mic stands
 
@@ -186,14 +189,11 @@ Get an aux in to the workbench
 - Cubase
 - Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
 - Can probably also get an accessory tray for a spare keyboard
-- Furman power for keys
 - Fix and complete drop snake (8 send, 4 ret)
   - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
   - 12 channel cable for floor snake
 - pick holder for mic stands
-- di for oscar
-- furman power for me
 - guitar stands
-- more amp clamps for abss amp
+- more amp clamps for bass amp
 - moongels
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
