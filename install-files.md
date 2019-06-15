@@ -12,6 +12,7 @@ only system and admin have permission to write to hosts by default - be sure to 
 
 ## Via installers
 
+- Chocolatey (if doesnt ship with windows)
 - 7zip
 - Adobe Acrobat Pro
 - Adobe Acrobat Reader
@@ -53,6 +54,14 @@ only system and admin have permission to write to hosts by default - be sure to 
 - lame x64
 - Shopify theme kit
 - [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
+
+## jq
+
+From an elevatoed command prompt: `chocolatey install jq`
+
+## Git setup
+
+git config --global push.followTags true
 
 ## WebP codecs etc
 
