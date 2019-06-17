@@ -4,32 +4,18 @@
 - corsair compact keyboard
 - shure earphone cleaner
 
-- Ice bag
-- SC4 & aux cables
-- better micro usb cable
-- Short iPhone/iPad cables x2
-
-- Binder
-- Hemorrhoid cream
-- Magazines
-- milk storage bags & learn how they work
-
 --
 
+- milk storage bags & learn how they work
 - Desktop power bar that doesn't suck
-- USB C PD power for xps 9350
-- Desktop audio
-- small, always packed grocery bag
-- Ereader
-- cathy xmas cheese knife
-- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Gear to patch hole behind stove
-- big mortar and pestle, italian wood
-- Roll up power bar for home
 - Device Lab responsive dev stand
+- Ereader
+- Cathy xmas cheese knife
+- Gear to patch hole behind stove
 - Sac magique
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 
 ## Kate
 
@@ -45,9 +31,7 @@
 ### Rigs
 
 Get an aux in to the workbench
-
 furman power fir me
-
 
 - **Amp rack:**
   - Power
@@ -139,19 +123,14 @@ furman power fir me
 
 ### Workbench/Other
 
-- Desktop storage
 - Furman plug lock
 - Power y-splitter
-- Cheap pedal power fro trav pedals
+- Cheap pedal power for trav pedals & small keys
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 - Hook set
 - Wire Baskets
-- Desktop storage (plastic boxes, jars, caddies, organizer, Pen Holder)
-- Pens, Hi lighters
-- Notepads
 - scisors
-- air freshener
 - elastic bands
 - Nut Driver set
 - Screw driver set
@@ -163,10 +142,7 @@ furman power fir me
 - Rug (ikea has good prices)
 - Sabian grip disc
 - reflex drum pad (really quiet)
-- cable velcro
 - heat shrink
-- bulk 7A sticks
-- bulk 5A sticks
 - better clutch
 - Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
 - $350 US centrance mixerface
@@ -181,19 +157,13 @@ furman power fir me
 - Pedco Clamps (2 or 3) and mice adaptors
 - Powered mon for drums
 - Powered mon for vox
-- rack power
 - Phone cam mount & attachment for DI box
 - JB30 talkback mic
 - Mixer lamp
 - Whirlwind Qbox
-- Cubase
 - Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
 - Can probably also get an accessory tray for a spare keyboard
-- Fix and complete drop snake (8 send, 4 ret)
-  - Neutrik NC3MXX x8 & Neutrik NC3FXX x4
-  - 12 channel cable for floor snake
 - pick holder for mic stands
 - guitar stands
-- more amp clamps for bass amp
 - moongels
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)

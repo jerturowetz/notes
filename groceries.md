@@ -19,7 +19,4 @@
 - ground pork
 - kd
 - fun cheddar cheese
-- toilet paper
-- paper towel
-- compost bags
 - black garbage bags
