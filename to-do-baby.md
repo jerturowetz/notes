@@ -2,12 +2,11 @@
 
 ## Stuff for my binder
 
+- need to add to binder we dont consent to an episionony
 - Massage positions
 - Breastfeeding positions
 - Stages of labor, their lengths and the types/durations of contractions
 - Meds for after birth
-- [Emergency car seat](https://www.amazon.ca/Chicco-KeyFit-Infant-Seat-Orion/dp/B07FMXX5VP/)
-- [Emergency car seat complete system](https://www.amazon.ca/Chicco-Bravo-System-Orion-Black/dp/B07FMPZ1D6/)
 - birthing center triage (4th floor): contractiobs strong, 2-3 mins apart (only note i need really)
 - St Mary's Birth Center 514-345-3511; ext 3406
 - St Mary's Family Medicine 514-734-2677
@@ -21,7 +20,6 @@
 ## Review with Kate
 
 - Baby sling
-- Belly belt
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
@@ -118,7 +116,6 @@
 - Cheddar cheese block
 - Milk
 - Ground coffee
-- MORE
 
 ## Post baby to-dos
 

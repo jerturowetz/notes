@@ -106,3 +106,6 @@ df -h # h is for human-readable
 ## Estimate file space usage `du`
 
 du -h --max-depth=1 # see size breakdown for contents of current folder
+
+## Compare current folder and a remote folder
+diff <(ssh USER@SOMEPLACE.com find /FOLDER/SUBFOLDER -printf '\"%P\\n\"' | sort) <(find . -printf "%P\n" | sort)
