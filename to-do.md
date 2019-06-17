@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- _Born Stale_
+- magazines : smith frankie, mom
 - get a compost bin
 - charge instax
 - need to addbto binder we dont consent to an episionony
