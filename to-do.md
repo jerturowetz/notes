@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- clean linked in recruiters
 - _Born Stale_
 - magazines : smith frankie, mom
 - get a compost bin
