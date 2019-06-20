@@ -2,6 +2,10 @@
 
 - Kate look into magazine subs (frankie)
 - Fer sher make keys
+- clean linked in recruiters
+- _Born Stale_
+- magazines : smith frankie, mom
+- get a compost bin
 - review baby to dos
 - charge instax
 - get a compost bin
