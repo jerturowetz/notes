@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Kate look into magazine subs (frankie)
+- Fer sher make keys
 - review baby to dos
 - charge instax
 - get a compost bin
@@ -62,6 +64,12 @@
 - risk of rain
 - thronebreaker witcher
 - Zone of the enders MARS
+
+## Movies
+
+- see you yesterday
+- starfish
+- creed
 
 ## Kate follow up
 

@@ -1,5 +1,9 @@
 # Wishlist
 
+- Anker micro usb cables x2
+- L shaped USB to usb
+- Desktop power bar that doesn't suck
+- Laptop usbc power (more than 45w)
 - ipad keyboard
 - corsair compact keyboard
 - shure earphone cleaner
@@ -7,9 +11,9 @@
 --
 
 - milk storage bags & learn how they work
-- Desktop power bar that doesn't suck
 - Device Lab responsive dev stand
 - Ereader
+- Power brick
 - Cathy xmas cheese knife
 - Gear to patch hole behind stove
 - Sac magique
