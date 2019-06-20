@@ -4,7 +4,7 @@
 - L shaped USB to usb
 - Desktop power bar that doesn't suck
 - Laptop usbc power (more than 45w)
-- ipad keyboard
+- ipad keyboard (air 2)
 - corsair compact keyboard
 - shure earphone cleaner
 
@@ -12,7 +12,7 @@
 
 - milk storage bags & learn how they work
 - Device Lab responsive dev stand
-- Ereader
+- eReader
 - Power brick
 - Cathy xmas cheese knife
 - Gear to patch hole behind stove
