@@ -13,6 +13,7 @@
 
 ## Metro
 
+- mayo
 - burger buns
 - red wine vinaiger
 - whole chk x2
