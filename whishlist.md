@@ -1,5 +1,6 @@
 # Wishlist
 
+- Bigger USB key
 - Anker micro usb cables x2
 - L shaped USB to usb
 - Desktop power bar that doesn't suck
