@@ -1,5 +1,6 @@
 # Wishlist
 
+- asian soup bowls
 - Bigger USB key
 - Anker micro usb cables x2
 - L shaped USB to usb
@@ -21,6 +22,7 @@
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
+- power brick
 
 ## Kate
 
