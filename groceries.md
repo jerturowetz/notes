@@ -7,13 +7,12 @@
 ## Chinese grocery
 
 - noodles (frozen ?)
-- Noodles Raw
 - dumplings
+- Noodles Raw
 - duck, pork
 
 ## Metro
 
-- mayo
 - burger buns
 - red wine vinaiger
 - whole chk x2
@@ -22,3 +21,7 @@
 - fun cheddar cheese
 - black garbage bags
 - splenda
+- butter
+- pasta noodles
+- cream
+- mushrooms
