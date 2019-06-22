@@ -1,34 +1,28 @@
 # Jer's To-Do List
 
-- Kate look into magazine subs (frankie)
-- Fer sher make keys
-- clean linked in recruiters
-- _Born Stale_
-- magazines : smith frankie, mom
-- get a compost bin
 - review baby to dos
 - charge instax
-- get a compost bin
 - Do my last thank yous
-- Dentist surgeon follow up
-- GASM follow up
-- Bill Carly at x2 rate (like 4 hours?)
+- Fer sher make keys
 - Make binders (Jeremy hospital, baby at home)
 - bottles
 - figure out diaper service
 - newborn burping
 - pre made meals
-- Fix Juans computer
-- get juan freezies
-- Call local CLSC and inquire about post-natal services & home care
 - Learn about our pump
 - Explore order-at-home groceries (provigo/metro/IGA delivery)
-- Get up to date on baby cpr (schedule a class)
+- borrow breastfeeding pillow from joanna
 - Explore cheap air conditioning (portable unit, annoying windows?)
-- Call Matthew, Kyla re baby
 - Day care stalking
 - See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- borrow breastfeeding pillow from joanna
+- Fix Juans computer
+- look into magazine subs for kate (frankie, smith, mom)
+- _Born Stale_
+- get a compost bin
+- Dentist surgeon follow up
+- GASM follow up
+- Bill Carly at x2 rate (like 4 hours?)
+- Call local CLSC and inquire about post-natal services & home care
 - Pick up gift cert at scandinave
 - **Cult stuff**
 - **Camplift**

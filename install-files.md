@@ -37,6 +37,7 @@ only system and admin have permission to write to hosts by default - be sure to 
 - NodeJS
 - Oracle VirtualBox
 - PO Edit
+- Postman
 - Python 2 & 3
   - make sure to use x64 versions for both
   - adding both to path
