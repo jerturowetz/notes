@@ -25,3 +25,5 @@
 - pasta noodles
 - cream
 - mushrooms
+- N/A beer
+- Juice/other

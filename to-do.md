@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- internet extenders
 - review baby to dos
 - charge instax
 - Do my last thank yous
