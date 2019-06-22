@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- go to the pool & then hari kana
+- add adobe stuff to ipad
 - review baby to dos
 - charge instax
 - Do my last thank yous
