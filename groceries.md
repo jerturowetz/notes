@@ -1,4 +1,7 @@
-# Groceries
+## Pharmacy
+
+- purell everybody until first vaccinations
+- baby advil for fever
 
 ## Butcher
 
@@ -13,17 +16,10 @@
 
 ## Metro
 
-- burger buns
 - red wine vinaiger
-- whole chk x2
 - ground pork
 - kd
 - fun cheddar cheese
 - black garbage bags
 - splenda
-- butter
-- pasta noodles
 - cream
-- mushrooms
-- N/A beer
-- Juice/other

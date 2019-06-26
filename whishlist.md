@@ -1,5 +1,6 @@
 # Wishlist
 
+- baby gun earmuffs
 - asian soup bowls
 - Bigger USB key
 - Anker micro usb cables x2

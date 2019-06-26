@@ -1,5 +1,44 @@
 # Jer's To-Do List
 
+## Stuff for my binder
+
+- St Mary's Family Medicine 514-734-2677
+- poop sheets
+- feeding log
+- sleeping log
+
+clsc apt
+
+tounge tie in baby
+Learn about night training (3 mobths)
+
+Figure out all the diaper situation:
+  - biodegradable newborn (honest company) nati brand also
+  - 12-18 liners fir cloth diapers
+  - verdun rentable diapers (les grenouilles vertes)
+
+
+gyno apt in 6 weeks
+if pad fills with blood, or if clot (meaty distarge) go to emergency
+afte about 10 days it turns to mucus
+wally needs to see david in 2 weeks
+
+get drops at pharmacy for vitamin d (1 drop a day for 6 months (or until switch off breast milk))
+
+clsc will call us
+
+## pi setup
+
+videotron internet (100) & mobile (8) is like 120 (call in)
+
+better router (asus)
+wifi extender
+
+
+
+
+--
+
 - internet extenders
 - go to the pool & then hari kana
 - add adobe stuff to ipad
@@ -71,9 +110,11 @@
 - see you yesterday
 - starfish
 - creed
+- mesrin
 
 ## Kate follow up
 
+- communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
