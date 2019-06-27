@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+
+davids c'inic
+514-933-4490
+
+add address 
+
+
 ## Stuff for my binder
 
 - St Mary's Family Medicine 514-734-2677
@@ -47,24 +54,17 @@ wifi extender
 - Do my last thank yous
 - Fer sher make keys
 - Make binders (Jeremy hospital, baby at home)
-- bottles
-- figure out diaper service
-- newborn burping
+- learn abouy baby bottles
 - pre made meals
 - Learn about our pump
-- Explore order-at-home groceries (provigo/metro/IGA delivery)
 - borrow breastfeeding pillow from joanna
-- Explore cheap air conditioning (portable unit, annoying windows?)
 - Day care stalking
 - See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Fix Juans computer
-- look into magazine subs for kate (frankie, smith, mom)
-- _Born Stale_
 - get a compost bin
 - Dentist surgeon follow up
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
-- Call local CLSC and inquire about post-natal services & home care
 - Pick up gift cert at scandinave
 - **Cult stuff**
 - **Camplift**
