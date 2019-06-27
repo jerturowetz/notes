@@ -1,11 +1,12 @@
+# Groceries
+
 ## Pharmacy
 
-- purell everybody until first vaccinations
 - baby advil for fever
 
 ## Butcher
 
-4-5lb Skin-on, bone-in, pork shoulder
+- 4-5lb Skin-on, bone-in, pork shoulder
 
 ## Chinese grocery
 
@@ -16,14 +17,9 @@
 
 ## Metro
 
-- red wine vinaiger
-- ground pork
-- kd
-- fun cheddar cheese
-- black garbage bags
-- splenda
-- cream
-
-- cheddar cheese x2
-- sandwich meat
-
+- Red wine vinaiger
+- Ground pork
+- Black garbage bags
+- Splenda
+- Cream
+- Sandwich meat
