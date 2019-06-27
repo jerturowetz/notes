@@ -1,6 +1,38 @@
 # Jer's To-Do List
 
 
+freeze excess milk before bed 
+
+price tags
+
+To warm your milk, place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F). Alternatively, use a bottle warmer. Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave, as this can overheat your milk.
+Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat (see above).
+
+waterproof labels and ink for breastmilk
+
+dont shake or stir vigerously
+
+
+
+Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (59 to 118 milliliters), and then adjust as needed. Also consider storing smaller portions — 1 to 2 ounces (30 to 59 milliliters) — for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
+
+For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
+For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
+
+
+
+You can add freshly expressed breast milk to refrigerated or frozen milk you expressed earlier in the same day. However, thoroughly cool the freshly expressed breast milk in the refrigerator or a cooler with ice packs before adding it to previously chilled or frozen milk. Don't add warm breast milk to frozen breast milk because it will cause the frozen milk to partially thaw.
+
+Room temperature. Freshly expressed breast milk can be kept at room temperature for up to six hours. However, use or proper storage within four hours is optimal. If the room is especially warm, the limit is also four hours.
+Insulated cooler. Freshly expressed breast milk can be stored in an insulated cooler with ice packs for up to one day.
+Refrigerator. Freshly expressed breast milk can be stored in the back of the refrigerator for up to five days in clean conditions. However, use or freezer storage within three days is optimal.
+Deep freezer. Freshly expressed breast milk can be stored in the back of a deep freezer for up to 12 months. However, using the frozen milk within six months is optimal.
+
+
+
+
+
+
 davids c'inic
 514-933-4490
 
