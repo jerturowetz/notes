@@ -23,3 +23,7 @@
 - black garbage bags
 - splenda
 - cream
+
+- cheddar cheese x2
+- sandwich meat
+
