@@ -1,6 +1,10 @@
 # Jer's To-Do List
 
 
+sheild remote batteries 
+CR 2032 (3V)
+
+
 freeze excess milk before bed 
 
 price tags

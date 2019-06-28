@@ -2,6 +2,7 @@
 
 - purell everybody until first vaccinations
 - baby advil for fever
+- fabric cleaner
 
 ## Butcher
 
