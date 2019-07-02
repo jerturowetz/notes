@@ -1,11 +1,12 @@
 # Jer's To-Do List
 
+10 inch shelves for anti bathroom closet 
+
+Add to grocery list: resolve, bleach, laundry soap, cheddar cheese, freezies, ice cream sandwiches,
+Greek yogurt, fruit, 
 
 sheild remote batteries 
 CR 2032 (3V)
-
-
-freeze excess milk before bed 
 
 price tags
 
