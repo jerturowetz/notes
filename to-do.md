@@ -1,6 +1,27 @@
 # Jer's To-Do List
 
 For babies 0-1 weeks old, 2-2 oz. (30-60 mL) per feeding
+10 inch shelves for anti bathroom closet 
+
+Add to grocery list: resolve, bleach, laundry soap, cheddar cheese, freezies, ice cream sandwiches,
+Greek yogurt, fruit, 
+
+sheild remote batteries 
+CR 2032 (3V)
+
+price tags
+
+To warm your milk, place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F). Alternatively, use a bottle warmer. Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave, as this can overheat your milk.
+Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat (see above).
+
+waterproof labels and ink for breastmilk
+
+dont shake or stir vigerously
+
+
+
+Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (59 to 118 milliliters), and then adjust as needed. Also consider storing smaller portions — 1 to 2 ounces (30 to 59 milliliters) — for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
+
 For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
 For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
 

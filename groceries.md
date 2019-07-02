@@ -3,6 +3,7 @@
 ## Pharmacy
 
 - baby advil for fever
+- fabric cleaner
 
 ## Butcher
 
