@@ -1,42 +1,26 @@
 # Jer's To-Do List
 
+For babies 0-1 weeks old, 2-2 oz. (30-60 mL) per feeding
+For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
+For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
 
-freeze excess milk before bed 
+## Supplies
 
-price tags
 
-To warm your milk, place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F). Alternatively, use a bottle warmer. Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave, as this can overheat your milk.
-Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat (see above).
+
+bottles for storing milk & lids
+bottle sucker for the baby
+price tags/labels for bottles
 
 waterproof labels and ink for breastmilk
 
 dont shake or stir vigerously
+gyno apt in 6 weeks
+davids clinic 514-933-4490 address?
 
+tounge tie in baby
 
-
-Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (59 to 118 milliliters), and then adjust as needed. Also consider storing smaller portions — 1 to 2 ounces (30 to 59 milliliters) — for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
-
-For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
-For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
-
-
-
-You can add freshly expressed breast milk to refrigerated or frozen milk you expressed earlier in the same day. However, thoroughly cool the freshly expressed breast milk in the refrigerator or a cooler with ice packs before adding it to previously chilled or frozen milk. Don't add warm breast milk to frozen breast milk because it will cause the frozen milk to partially thaw.
-
-Room temperature. Freshly expressed breast milk can be kept at room temperature for up to six hours. However, use or proper storage within four hours is optimal. If the room is especially warm, the limit is also four hours.
-Insulated cooler. Freshly expressed breast milk can be stored in an insulated cooler with ice packs for up to one day.
-Refrigerator. Freshly expressed breast milk can be stored in the back of the refrigerator for up to five days in clean conditions. However, use or freezer storage within three days is optimal.
-Deep freezer. Freshly expressed breast milk can be stored in the back of a deep freezer for up to 12 months. However, using the frozen milk within six months is optimal.
-
-
-
-
-
-
-davids c'inic
-514-933-4490
-
-add address 
+Learn about night training (3 mobths)
 
 
 ## Stuff for my binder
@@ -46,25 +30,20 @@ add address
 - feeding log
 - sleeping log
 
-clsc apt
-
-tounge tie in baby
-Learn about night training (3 mobths)
-
-Figure out all the diaper situation:
-  - biodegradable newborn (honest company) nati brand also
-  - 12-18 liners fir cloth diapers
-  - verdun rentable diapers (les grenouilles vertes)
 
 
-gyno apt in 6 weeks
-if pad fills with blood, or if clot (meaty distarge) go to emergency
-afte about 10 days it turns to mucus
-wally needs to see david in 2 weeks
+## Warming milk
 
-get drops at pharmacy for vitamin d (1 drop a day for 6 months (or until switch off breast milk))
+Place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F) or use a bottle warmer.
 
-clsc will call us
+Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave.
+
+Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat.
+
+
+
+
+
 
 ## pi setup
 
@@ -73,27 +52,29 @@ videotron internet (100) & mobile (8) is like 120 (call in)
 better router (asus)
 wifi extender
 
-
+get crave log in from kate
 
 
 --
 
-- internet extenders
-- go to the pool & then hari kana
-- add adobe stuff to ipad
-- review baby to dos
-- charge instax
-- Do my last thank yous
-- Fer sher make keys
-- Make binders (Jeremy hospital, baby at home)
-- learn abouy baby bottles
 - pre made meals
 - Learn about our pump
-- borrow breastfeeding pillow from joanna
-- Day care stalking
-- See if my unito status qualifies me for [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
+
+- videotron phone & internet
+
+- Put purelle in diaper bag
+- Figure out all the diaper situation:
+  - biodegradable newborn (honest company) nati brand also
+  - 12-18 liners fir cloth diapers
+  - verdun rentable diapers (les grenouilles vertes)
+- internet extenders
+- add adobe stuff to iPad?
+
+- Do my last thank yous
+- Fer sher make keys
+- Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Fix Juans computer
-- get a compost bin
+- Get a compost bin
 - Dentist surgeon follow up
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
@@ -122,7 +103,6 @@ wifi extender
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
-- videotron phone & internet
 
 ## Games for review
 
@@ -131,7 +111,6 @@ wifi extender
 - dragon quest xi
 - elder scrolls online
 - legend of the skyfish
-- Outward
 - Prey for the Gods
 - risk of rain
 - thronebreaker witcher
@@ -144,9 +123,10 @@ wifi extender
 - creed
 - mesrin
 
+
 ## Kate follow up
 
-- communauto
+- Communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
