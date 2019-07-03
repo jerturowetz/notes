@@ -1,23 +1,17 @@
 # Wishlist
 
+- medela bottle nipple for newborns
+- price tags/labels for bottles
 - asian soup bowls
-- Bigger USB key
-- Anker micro usb cables x2
-- L shaped USB to usb
 - Desktop power bar that doesn't suck
 - Laptop usbc power (more than 45w)
-- iPad keyboard (air 2)
 - corsair compact keyboard
 - shure earphone cleaner
-
---
-
 - Device Lab responsive dev stand
 - eReader
 - Power brick
 - Cathy xmas cheese knife
 - Gear to patch hole behind stove
-- Sac magique
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")

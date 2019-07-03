@@ -1,96 +1,9 @@
 # Jer's To-Do List
 
-For babies 0-1 weeks old, 2-2 oz. (30-60 mL) per feeding
-10 inch shelves for anti bathroom closet 
-
-Add to grocery list: resolve, bleach, laundry soap, cheddar cheese, freezies, ice cream sandwiches,
-Greek yogurt, fruit, 
-
-sheild remote batteries 
-CR 2032 (3V)
-
-price tags
-
-To warm your milk, place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F). Alternatively, use a bottle warmer. Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave, as this can overheat your milk.
-Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat (see above).
-
-waterproof labels and ink for breastmilk
-
-dont shake or stir vigerously
-
-
-
-Fill individual containers with the milk your baby will need for one feeding. You might start with 2 to 4 ounces (59 to 118 milliliters), and then adjust as needed. Also consider storing smaller portions — 1 to 2 ounces (30 to 59 milliliters) — for unexpected situations or delays in regular feedings. Breast milk expands as it freezes, so don't fill containers to the brim.
-
-For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
-For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
-
-## Supplies
-
-
-
-bottles for storing milk & lids
-bottle sucker for the baby
-price tags/labels for bottles
-
-waterproof labels and ink for breastmilk
-
-dont shake or stir vigerously
-gyno apt in 6 weeks
-davids clinic 514-933-4490 address?
-
-tounge tie in baby
-
-Learn about night training (3 mobths)
-
-
-## Stuff for my binder
-
-- St Mary's Family Medicine 514-734-2677
-- poop sheets
-- feeding log
-- sleeping log
-
-
-
-## Warming milk
-
-Place the breast milk bottle or bag into a cup, jug or bowl of lukewarm water for a few minutes to bring it to body temperature (37 °C or 99 °F) or use a bottle warmer.
-
-Do not allow the temperature to go above 40 °C (104 °F), and do not use a microwave.
-
-Gently swirl the bottle or bag, without shaking or stirring, to mix any separated fat.
-
-
-
-
-
-
-## pi setup
-
-videotron internet (100) & mobile (8) is like 120 (call in)
-
-better router (asus)
-wifi extender
-
-get crave log in from kate
-
-
---
-
-- pre made meals
-- Learn about our pump
-
-- videotron phone & internet
-
-- Put purelle in diaper bag
-- Figure out all the diaper situation:
-  - biodegradable newborn (honest company) nati brand also
-  - 12-18 liners fir cloth diapers
-  - verdun rentable diapers (les grenouilles vertes)
-- internet extenders
-- add adobe stuff to iPad?
-
+- Ask Joceline about stairs
+- videotron internet (100) & mobile (8) is like 120 (call in)
+- Find 10 inch shelves for anti bathroom closet
+- wifi extenders
 - Do my last thank yous
 - Fer sher make keys
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
@@ -100,6 +13,10 @@ get crave log in from kate
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
 - Pick up gift cert at scandinave
+- Figure out all the diaper situation:
+  - biodegradable newborn (honest company) nati brand also
+  - 12-18 liners fir cloth diapers
+  - verdun rentable diapers (les grenouilles vertes)
 - **Cult stuff**
 - **Camplift**
   - Review French content for inconsistencies
@@ -125,28 +42,20 @@ get crave log in from kate
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
-## Games for review
+## Baby binder info
 
-- assasins creed 3 remastered (uplay)
-- Divinity 2 Original Sin
-- dragon quest xi
-- elder scrolls online
-- legend of the skyfish
-- Prey for the Gods
-- risk of rain
-- thronebreaker witcher
-- Zone of the enders MARS
+Dr David Martens
+514-933-4490
+4269 Rue Sainte-Catherine West H3Z 3J8
 
-## Movies
+### Baby breastmlk notes
 
-- see you yesterday
-- starfish
-- creed
-- mesrin
-
+For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
+For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
 
 ## Kate follow up
 
+- gyno apt in 6 weeks
 - Communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 

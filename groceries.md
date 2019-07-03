@@ -18,9 +18,19 @@
 
 ## Metro
 
+- milk
+- bananas
+- green leaf
+- cheddar cheese
+- freezies
+- Greek yogurt
+- fruit
 - Red wine vinaiger
 - Ground pork
 - Black garbage bags
-- Splenda
 - Cream
 - Sandwich meat
+- toilet paper
+- laundry soap
+- resolve stain cleaner
+- bleach
