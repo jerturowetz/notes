@@ -19,16 +19,14 @@
 ## Metro
 
 - milk
-- bananas
+- lemonaid
 - green leaf
 - cheddar cheese
+- sliced cheese
 - freezies
-- Greek yogurt
-- fruit
 - Red wine vinaiger
 - Ground pork
 - Black garbage bags
-- Cream
 - Sandwich meat
 - toilet paper
 - laundry soap
