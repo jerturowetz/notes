@@ -1,6 +1,8 @@
 # Wishlist
 
-- medela bottle nipple for newborns
+- backseat baby mirror
+- golf umbrella
+- belts
 - price tags/labels for bottles
 - asian soup bowls
 - Desktop power bar that doesn't suck

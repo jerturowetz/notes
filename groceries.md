@@ -4,6 +4,7 @@
 
 - baby advil for fever
 - fabric cleaner
+- loratadine
 
 ## Butcher
 
@@ -18,17 +19,7 @@
 
 ## Metro
 
-- milk
-- lemonaid
-- green leaf
-- cheddar cheese
-- sliced cheese
-- freezies
 - Red wine vinaiger
 - Ground pork
 - Black garbage bags
-- Sandwich meat
-- toilet paper
 - laundry soap
-- resolve stain cleaner
-- bleach

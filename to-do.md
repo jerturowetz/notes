@@ -1,10 +1,10 @@
 # Jer's To-Do List
 
-- Ask Joceline about stairs
+- Book vacation time from 5th to 9th of August
 - videotron internet (100) & mobile (8) is like 120 (call in)
 - Find 10 inch shelves for anti bathroom closet
 - wifi extenders
-- Do my last thank yous
+- more last thank yous
 - Fer sher make keys
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Fix Juans computer

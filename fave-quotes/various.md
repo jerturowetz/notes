@@ -1,6 +1,9 @@
 # Various & Unsorted Quotes
 
-> ...And learn to be happy with what you have I not look at Tom Dick and Harry because you never know whats happening behind closed doors. - Judy
+
+Jacob Weisberg, Facebook had addicted us and sold our eyeballs to advertisers. In return, it made us “selfish, disagreeable, and lonely, while corroding democracy, truth, and economic equality.”
+
+> ...And learn to be happy with what you have I try not to compare to Tom, Dick and Harry because you never know whats happening behind closed doors. - Judy
 
 > And if ever things should look bleak, let me pass on to you something that I have learnt with my 7 less years on this planet than you; whatever the consequences of my actions have been, I have never regretted being hopeful.  
 > – Perry Perdue, <cite>A loving letter, 09/19/2014</cite>
