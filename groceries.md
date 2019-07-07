@@ -2,6 +2,8 @@
 
 ## Pharmacy
 
+- Newborn diapers
+- Adult diapers
 - baby advil for fever
 - fabric cleaner
 - loratadine
@@ -19,9 +21,9 @@
 
 ## Metro
 
+- Milk
 - Mayo
 - Fruits
-- Banana
 - multigrain bread
 - Red wine vinaiger
 - Ground pork
