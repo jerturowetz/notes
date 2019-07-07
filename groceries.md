@@ -19,7 +19,10 @@
 
 ## Metro
 
+- Mayo
+- Fruits
+- Banana
 - Red wine vinaiger
 - Ground pork
 - Black garbage bags
-- laundry soap
+- Laundry soap
