@@ -22,6 +22,7 @@
 - Mayo
 - Fruits
 - Banana
+- multigrain bread
 - Red wine vinaiger
 - Ground pork
 - Black garbage bags

@@ -2,8 +2,6 @@
 
 - backseat baby mirror
 - golf umbrella
-- belts
-- price tags/labels for bottles
 - asian soup bowls
 - Desktop power bar that doesn't suck
 - Laptop usbc power (more than 45w)
