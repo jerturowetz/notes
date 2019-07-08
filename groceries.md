@@ -2,11 +2,7 @@
 
 ## Pharmacy
 
-- Newborn diapers
-- Adult diapers
 - baby advil for fever
-- fabric cleaner
-- loratadine
 
 ## Butcher
 
@@ -21,11 +17,7 @@
 
 ## Metro
 
-- Milk
-- Mayo
-- Fruits
-- multigrain bread
+- hot dog buns & cole slaw
+- paper towels
 - Red wine vinaiger
-- Ground pork
 - Black garbage bags
-- Laundry soap
