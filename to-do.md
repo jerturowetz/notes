@@ -40,21 +40,9 @@
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
-## Baby binder info
-
-Dr David Martens
-514-933-4490
-4269 Rue Sainte-Catherine West H3Z 3J8
-
-### Baby breastmlk notes
-
-For babies 1-2 weeks old, 2-3 oz. (60-90 mL) per feeding
-For babies 1-6 months, 3-5 oz. (90-150 mL) per feeding
-
 ## Kate follow up
 
 - gyno apt in 6 weeks
-- Communauto
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink

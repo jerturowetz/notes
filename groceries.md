@@ -3,6 +3,7 @@
 ## Pharmacy
 
 - baby advil for fever
+- scotch guard
 
 ## Butcher
 
