@@ -1,5 +1,6 @@
 # Wishlist
 
+- baby bedsheets and wet guards
 - backseat baby mirror
 - golf umbrella
 - asian soup bowls
@@ -10,7 +11,6 @@
 - Device Lab responsive dev stand
 - eReader
 - Power brick
-- Cathy xmas cheese knife
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
