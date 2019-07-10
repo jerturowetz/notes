@@ -2,7 +2,7 @@
 
 - Book vacation time from 5th to 9th of August
 - videotron internet (100) & mobile (8) is like 120 (call in)
-- Find 10 inch shelves for anti bathroom closet
+- Build 10 inch shelves for anti bathroom closet
 - wifi extenders
 - more last thank yous
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)

@@ -148,22 +148,16 @@ furman power fir me
 - $350 US centrance mixerface
 - 5/8-27 tap
 - 5/8-27 mounting plate
-- CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
-- Pedco Ultra Clamp Assembly with 1/4"-20 Screw
 - OnStage TMO1 Multi Clamp Microphone Mount
 - Apex cradlemount mic clips
 - cable gland joints for headphones
 - Rowie clamp
-- Pedco Clamps (2 or 3) and mice adaptors
-- Powered mon for drums
-- Powered mon for vox
+- pedco Clamps (2 or 3) and mic adaptors
+- Pedco Ultra Clamp Assembly with 1/4"-20 Screw
+- CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
 - Phone cam mount & attachment for DI box
 - JB30 talkback mic
-- Mixer lamp
 - Whirlwind Qbox
 - Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
 - Can probably also get an accessory tray for a spare keyboard
-- pick holder for mic stands
-- guitar stands
-- moongels
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
