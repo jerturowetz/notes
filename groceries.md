@@ -18,6 +18,7 @@
 
 ## Metro
 
+- large ziplock bags
 - hot dog buns & cole slaw
 - paper towels
 - Red wine vinaiger
