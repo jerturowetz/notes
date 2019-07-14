@@ -1,10 +1,6 @@
 # Jer's To-Do List
 
-monday july 15 10:30
-block a main floor
-room 3334
-doctor Koenekoop
-
+- Dr Koenekoop, monday july 15 10:30, block a main floor, room 3334
 - Book vacation time from 5th to 9th of August
 - videotron internet (100) & mobile (8) is like 120 (call in)
 - Build 10 inch shelves for anti bathroom closet

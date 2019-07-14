@@ -2,6 +2,8 @@
 
 ## Pharmacy
 
+- regualr advil
+- pad liners
 - baby advil for fever
 - scotch guard
 
@@ -18,8 +20,9 @@
 
 ## Metro
 
+- Ice cream bars
+- Granola bars
 - large ziplock bags
-- hot dog buns & cole slaw
 - paper towels
 - Red wine vinaiger
 - Black garbage bags
