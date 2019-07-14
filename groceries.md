@@ -22,6 +22,10 @@
 
 - Ice cream bars
 - Granola bars
+- perrier
+- n/a beer
+- bananas
+- green leaf
 - large ziplock bags
 - paper towels
 - Red wine vinaiger
