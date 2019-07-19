@@ -1,21 +1,17 @@
 # Wishlist
 
-- baby bedsheets and wet guards
 - backseat baby mirror
-- golf umbrella
 - asian soup bowls
-- Desktop power bar that doesn't suck
-- Laptop usbc power (more than 45w)
+- Power bar for besta w/5+ plugs & USB
 - corsair compact keyboard
 - shure earphone cleaner
 - Device Lab responsive dev stand
-- eReader
+- eReader (kindle?)
 - Power brick
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- power brick
 
 ## Kate
 

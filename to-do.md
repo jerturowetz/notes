@@ -1,9 +1,12 @@
 # Jer's To-Do List
 
-- call grimpys ‭+1 (514) 866-9010‬
-- Book vacation time from 5th to 9th of August
+- Figure out all the diaper situation:
+  - biodegradable newborn (honest company) nati brand also
+  - 12-18 liners fir cloth diapers
+  - verdun rentable diapers (les grenouilles vertes)
+- call grumpys 514-866-9010‬
+- Book vacation time for Oct 4th & Sept 10-15
 - videotron internet (100) & mobile (8) is like 120 (call in)
-- Build 10 inch shelves for anti bathroom closet
 - wifi extenders
 - more last thank yous
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
@@ -12,10 +15,6 @@
 - GASM follow up
 - Bill Carly at x2 rate (like 4 hours?)
 - Pick up gift cert at scandinave
-- Figure out all the diaper situation:
-  - biodegradable newborn (honest company) nati brand also
-  - 12-18 liners fir cloth diapers
-  - verdun rentable diapers (les grenouilles vertes)
 - **Cult stuff**
 - **Camplift**
   - Review French content for inconsistencies
@@ -43,7 +42,6 @@
 
 ## Kate follow up
 
-- gyno apt in 6 weeks
 - To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
