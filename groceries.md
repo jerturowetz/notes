@@ -3,7 +3,6 @@
 ## Pharmacy
 
 - wipes
-- regualr advil
 - baby advil for fever
 - scotch guard
 
