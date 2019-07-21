@@ -20,7 +20,7 @@
 
 ## Provigo
 
-- Multigrain bread
+- Milk
 - Granola bars
 - Butter
 - Lemon
