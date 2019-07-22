@@ -1,5 +1,7 @@
 # Wishlist
 
+- toothpicks
+- diaper backpack
 - backseat baby mirror
 - asian soup bowls
 - Power bar for besta w/5+ plugs & USB
