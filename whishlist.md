@@ -1,5 +1,6 @@
 # Wishlist
 
+- storage for film
 - toothpicks
 - diaper backpack
 - backseat baby mirror

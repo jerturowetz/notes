@@ -23,3 +23,6 @@
 - Granola bars
 - Butter
 - Lemon
+- coke 0
+- na beer
+- stawberries
