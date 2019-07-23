@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- pay hst owed
+- lower moms telus bill (phone is paid)
 - Call mid city air, 600 sq feet 514-931-3571
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
