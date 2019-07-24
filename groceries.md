@@ -2,7 +2,6 @@
 
 ## Pharmacy
 
-- wipes
 - baby advil for fever
 - scotch guard
 
@@ -26,3 +25,6 @@
 - coke 0
 - na beer
 - stawberries
+- red peppers
+- little tomatoes
+

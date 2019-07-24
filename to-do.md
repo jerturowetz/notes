@@ -1,6 +1,8 @@
 # Jer's To-Do List
 
 - Call mid city air, 600 sq feet 514-931-3571 midcite@gmail.com
+- pay hst owed
+- lower moms telus bill (phone is paid)
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers

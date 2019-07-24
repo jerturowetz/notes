@@ -1,6 +1,7 @@
 # Wishlist
 
 - storage for film
+- mexican beer glasses
 - toothpicks
 - diaper backpack
 - backseat baby mirror
