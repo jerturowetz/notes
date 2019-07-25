@@ -1,5 +1,6 @@
 # Wishlist
 
+- Kobo
 - storage for film
 - mexican beer glasses
 - toothpicks

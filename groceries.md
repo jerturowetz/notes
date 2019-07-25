@@ -18,15 +18,13 @@
 
 ## Provigo
 
-- Milk
-- Granola bars
-- Butter
 - Lemon
-- coke 0
-- na beer
 - stawberries
 - red peppers
 - little tomatoes
 - parm
-
-
+- Milk
+- Butter
+- Granola bars
+- coke 0
+- na beer

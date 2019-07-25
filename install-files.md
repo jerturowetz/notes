@@ -64,6 +64,14 @@ From an elevatoed command prompt: `chocolatey install jq`
 
 git config --global push.followTags true
 
+## Set NPM to use bash instead of cmd on windows
+
+    npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"
+
+Delete the config with:
+
+    npm config delete script-shell
+
 ## WebP codecs etc
 
 - [WEBM DirectShow Filters](https://www.webmproject.org/tools/)
@@ -201,7 +209,7 @@ Erase the following reg key:
 
 ## Xpdf
 
-[Xpdf](http://www.xpdfreader.com/index.html) is a handy utility for manipulating PDF files. 
+[Xpdf](http://www.xpdfreader.com/index.html) is a handy utility for manipulating PDF files.
 
 - Download the [windows version "Xpdf tools"](http://www.xpdfreader.com/download.html).
 - Extract zip.
@@ -213,4 +221,4 @@ Erase the following reg key:
 - Go to [ezwinports](https://sourceforge.net/projects/ezwinports/files/).
 - Download `make-4.1-2-without-guile-w32-bin.zip` (get the version without guile).
 - Extract zip.
-- Copy the contents to your `Git\mingw64\` merging the folders, but do NOT overwrite/replace any existing files. 
+- Copy the contents to your `Git\mingw64\` merging the folders, but do NOT overwrite/replace any existing files.
