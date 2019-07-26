@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- karnivool, apc, tool
+- jam space key card
 - Call mid city air, 600 sq feet 514-931-3571 midcite@gmail.com
 - pay hst owed
 - lower moms telus bill (phone is paid)
