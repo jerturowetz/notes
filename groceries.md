@@ -19,6 +19,7 @@
 ## Provigo
 
 - Milk
+- Yogurt
 - Granola bars
 - Butter
 - Lemon
