@@ -31,5 +31,7 @@
 - sliced cheese
 - na beer
 - Pickles
+- Toilet paper
+- Paper towels
 
 Meals??
