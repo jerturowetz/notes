@@ -22,6 +22,9 @@
 - Yogurt
 - Granola bars
 - Butter
+- sliced cheese
+- bread
+- meats
 - Lemon
 - coke 0
 - na beer
