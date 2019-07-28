@@ -18,20 +18,18 @@
 
 ## Provigo
 
-- bread (Multgrain & grilled cheese)
+- bread (Multgrain)
 - Bagels
 - Lemons
 - stawberries
 - red peppers
-- Green leaf
 - little tomatoes
-- meats for the week
 - Smoked salmon
 - Milk
-- Yogurt
 - Eggs
 - Butter
 - sliced cheese
-- coke 0
 - na beer
 - Pickles
+
+Meals??
