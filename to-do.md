@@ -1,8 +1,8 @@
 # Jer's To-Do List
 
-- karnivool, apc, tool
 - jam space key card
-- Call mid city air, 600 sq feet 514-931-3571 midcite@gmail.com
+- videotron internet (100) & mobile (8) is like 120 (call in)
+- Follow up with mid city air (514-931-3571)
 - pay hst owed
 - lower moms telus bill (phone is paid)
 - Figure out all the diaper situation:
@@ -11,7 +11,6 @@
   - verdun rentable diapers (les grenouilles vertes)
 - call grumpys 514-866-9010‬
 - Book vacation time for Oct 4th & Sept 10-15
-- videotron internet (100) & mobile (8) is like 120 (call in)
 - wifi extenders
 - more last thank yous
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
