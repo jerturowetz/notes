@@ -18,13 +18,19 @@
 
 ## Provigo
 
+- bread
+
 - Lemon
 - stawberries
 - red peppers
 - little tomatoes
-- parm
+
+- meats for the week
+
 - Milk
+- Yogurt
 - Butter
-- Granola bars
+- sliced cheese
+
 - coke 0
 - na beer

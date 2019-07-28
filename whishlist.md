@@ -1,6 +1,7 @@
 # Wishlist
 
 - Kobo
+- mube
 - storage for film
 - toothpicks
 - diaper backpack
