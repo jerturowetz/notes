@@ -18,12 +18,7 @@
 
 ## Provigo
 
-- bread (Multgrain)
 - Bagels
-- Lemons
-- stawberries
-- red peppers
-- little tomatoes
 - Smoked salmon
 - Milk
 - Eggs
@@ -31,7 +26,4 @@
 - sliced cheese
 - na beer
 - Pickles
-- Toilet paper
 - Paper towels
-
-Meals??
