@@ -1,7 +1,20 @@
 # Wishlist
 
+242 Ballantyne Ave. North
+Montreal, Quebec
+H4X 2C2
+
+Montreal West, Quebec
+H4X 2C2
+I left out West before by mistake 
+Sorry
+
+
+mini shelf for router etc
+water bottle
+Pillow cases
+Pillows
 - Kobo
-- mube
 - storage for film
 - toothpicks
 - diaper backpack
