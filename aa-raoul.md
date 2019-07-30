@@ -1,4 +1,4 @@
-# Jeremy Turowetz QUealifications Re Website Work - web@aa87.org
+# Jeremy Turowetz Quaalifications - web@aa87.org
 
 Hi Raoul,
 
@@ -22,16 +22,15 @@ _January 2015 - April 2015_
 
 ## Developer qualifications
 
-I work full time at [BKDSN](http://bkdsn.com) as a web developer. I've managed projects for several serious clients including Brother, Reebok, Telus and VSM. Below you'll find links to some of my more recent projects:
+I work full time at [Unito](https://unito.io) as a web developer. In my agency experience I managed projects for large clients including Brother, Reebok, Telus and VSM. Below you'll find links to some of my more recent projects:
 
-- [ADS Data](https://www.adsdata.ca/)
-- [Apotheon strategies](http://apotheon.ca/)
+- [Cult MTL](https://cultmtl.com)
+- [Camp LIFT](https://camplift.com)
+- [EZ Stud Out](https://ezstudout.com/)
 - [VSF Services](https://www.vsfservices.ca/)
-- [Sucre and Sweet](https://sucreandsweet.com/)
-- [The Devils Trap](http://www.thedevilstrap.com/)
 - [Standard Products](http://www.standardpro.com/)
 
-If you like, you can also look at my [personal website](https://jerturowetz.github.io/) and my [Professional CV](https://jerturowetz.github.io/cv.html)
+If you like, you can also look at my [personal website](https://jerturowetz.github.io/) or my [professional CV](https://jerturowetz.github.io/cv.html)
 
 ## General availability
 
@@ -41,4 +40,4 @@ As we discussed, if it would help you out, I'd be happy to consider a position o
 
 If you're interested in my help, the next steps would be for me to meet with you and the team so that we can discuss priorities as well as set a loose timeline for getting me access to required resources.
 
-I'm available Monday, Tuesday, Wednesday evenings after 6pm and most weekends. ???
+I'm available Monday, Tuesday, Wednesday evenings after 6pm and most weekends.
