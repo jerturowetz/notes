@@ -1,25 +1,27 @@
 # Jer's To-Do List
 
-- jam space key card
+- Pick up drums chez Mike M (June?)
+- Book vacation time for Oct 4th & Sept 10-15
+- last thank yous
+- Pick up gift cert at scandinave
 - videotron internet (100) & mobile (8) is like 120 (call in)
 - Follow up with mid city air (514-931-3571)
 - pay hst owed
 - lower moms telus bill (phone is paid)
+- jam space key card
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
   - verdun rentable diapers (les grenouilles vertes)
 - call grumpys 514-866-9010‬
-- Book vacation time for Oct 4th & Sept 10-15
-- wifi extenders
-- more last thank yous
+- Bill Carly at x2 rate (like 4 hours?)
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- Fix Juans computer
 - Dentist surgeon follow up
 - GASM follow up
-- Bill Carly at x2 rate (like 4 hours?)
-- Pick up gift cert at scandinave
-- **Cult stuff**
+
+--
+
+- **Cult stuff (see readme)**
 - **Camplift**
   - Review French content for inconsistencies
   - Review nav contact button
@@ -29,11 +31,12 @@
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
+
+--
+
 - Listen to Steve's GDrive recording
-- Song w/Juan
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
-- Pick up drums chez Mike M
 - AA Roaul notes
 - Stewart Museaum
 - Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
