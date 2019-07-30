@@ -29,9 +29,6 @@
 - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
-
---
-
 - Listen to Steve's GDrive recording
 - Song w/Juan
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
@@ -43,10 +40,6 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
-
-## Kate follow up
-
-- To cancel a family doctor [contact the RAMQ](http://www.ramq.gouv.qc.ca/en/contact-us/citizens/Pages/contact-us.aspx)
 
 ## Shrink
 
