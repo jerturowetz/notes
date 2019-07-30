@@ -19,8 +19,8 @@ Do you know that I know it?
 Escape is all temporary, arbitrary highs
 It wouldn't take much to carry, help might make it light
 
-
 ## Chorus in 2
+
 Why i can't find my place
 Find the way
 To something more than temporary, temporary

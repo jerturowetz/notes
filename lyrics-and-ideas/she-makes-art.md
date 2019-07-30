@@ -2,8 +2,8 @@
 
 She makes art
 at night
-With heads 
+With heads
 And trees
 With ease
 Denies
-But I caught her 
+But I caught her

@@ -16,7 +16,6 @@ Take note of these weathered hands
 Worn raw through suffrage
 A callused heart can wait a long time
 
-
 Fill your need
 Feed your greed
 And you'll see
@@ -35,11 +34,7 @@ ive paid my time
 
 hey man sink your shallow grin
 
-
-
 Hey man don't you settle in
-
-
 
 You've lived by little worth
 Smooth smile and thieving hands
@@ -47,15 +42,10 @@ Well my skin's been cracked
 By blood and toi
 I've worked these fields
 
-
 My bones raised battlements
 While yours been taking bread
 
-
-
 The roads of this broken earth
-
 
 I'll make this ground run red
 You'll see what to suffer is
-
