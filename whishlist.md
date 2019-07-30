@@ -1,19 +1,9 @@
 # Wishlist
 
-242 Ballantyne Ave. North
-Montreal, Quebec
-H4X 2C2
-
-Montreal West, Quebec
-H4X 2C2
-I left out West before by mistake 
-Sorry
-
-
-mini shelf for router etc
-water bottle
-Pillow cases
-Pillows
+- mini shelf for router etc
+- water bottle
+- Pillow cases
+- Pillows
 - Kobo
 - storage for film
 - toothpicks
@@ -24,7 +14,6 @@ Pillows
 - corsair compact keyboard
 - shure earphone cleaner
 - Device Lab responsive dev stand
-- eReader (kindle?)
 - Power brick
 - Gear to patch hole behind stove
 - $125 Mickey
