@@ -4,6 +4,10 @@
 
 - baby advil for fever
 - scotch guard
+- anti persperant
+- toothpaste
+- floss
+- hair stuff
 
 ## Butcher
 
@@ -18,6 +22,8 @@
 
 ## Provigo
 
+- #2 coffee filters
+- coffee
 - Bagels
 - Smoked salmon
 - Milk

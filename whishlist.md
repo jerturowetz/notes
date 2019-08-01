@@ -1,6 +1,7 @@
 # Wishlist
 
-- mini shelf for router etc
+- milk storage
+- mini shelf for router etc (14"deep 22"across)
 - water bottle
 - Pillow cases
 - Pillows
