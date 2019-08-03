@@ -3,7 +3,6 @@
 ## Pharmacy
 
 - baby advil for fever
-- scotch guard
 - anti persperant
 - toothpaste
 - floss
@@ -26,10 +25,13 @@
 - coffee
 - Bagels
 - Smoked salmon
-- Milk
 - Eggs
 - Butter
 - sliced cheese
 - na beer
 - Pickles
 - Paper towels
+
+- milk
+- yogurt
+- granola bars

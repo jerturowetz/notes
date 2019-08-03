@@ -1,5 +1,6 @@
 # Wishlist
 
+- phone for kate
 - milk storage
 - mini shelf for router etc (14"deep 22"across)
 - water bottle
