@@ -1,22 +1,27 @@
 # Wishlist
 
-- phone for kate
-- milk storage
-- mini shelf for router etc (14"deep 22"across)
+- marley earphones
+- milk storage storage
+- Phone for Kate
+- kobo
+- sneakers
+- shure earphone cleaner
+- pikster size 0
+- Device Lab responsive dev stand
+
+--
+
+- for besta:
+  - power bar
+  - little shelf or mounting board (14" deep, 22" wide)
+  - charging station
 - water bottle
 - Pillow cases
 - Pillows
-- Kobo
 - storage for film
-- toothpicks
-- diaper backpack
 - backseat baby mirror
 - asian soup bowls
-- Power bar for besta w/5+ plugs & USB
-- corsair compact keyboard
-- shure earphone cleaner
-- Device Lab responsive dev stand
-- Power brick
+- Thinner power brick
 - Gear to patch hole behind stove
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
@@ -24,6 +29,7 @@
 
 ## Kate
 
+- rolling pin
 - Book: we cast a shadow
 - Aveda products
 - Deering goodtime banjo
@@ -37,19 +43,25 @@
 
 Get an aux in to the workbench
 furman power fir me
+skb or whatever travel rack case
+mic travel case (small)
 
 - **Amp rack:**
+  - have rack
+  - vent panels
   - Power
   - Comp/gate whatever
   - Make a panel:
     - Speakon F out x2
-    - XLR M in x2
+    - XLR M or combo TRS in x2
 - **Mixer:**
   - Mixer case with rack below
   - Power
   - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
   - Hearback system & Cat6 patch panel
   - Rack FX (Vox or Master?)
+  
+  
 - **Record ??**
   - 6ru + rack space
   - dj laptop stand/riser
@@ -67,7 +79,7 @@ furman power fir me
 
 ### Mouser
 
-- 3.5mm ends x4
+- Amphenol KS3P (3.5 mm plug) x4
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
@@ -86,6 +98,7 @@ furman power fir me
 - Kick in & Kick out
 - Electro-Voice RE20 (guit)
 - Electro Voice RE-15 (drummer vox)
+- Sennheiser e906 (guitar)
 
 ### DIs
 
@@ -96,18 +109,6 @@ furman power fir me
 - Radial ProAV1 or Whirlwind pcDI
 - Radial JISO for running BAL into iphone
 - some guitar DI for reamp
-
-### Mic stands
-
-- Mic clips
-- Primacoustic CrashGuard 421 x2
-- Primacoustic SplashGuard x2
-- $40 ea Wishbone amp hook x2
-- K&M 210/8 or 252 (rack tom)
-- K&M 16080 headphone holder x2
-- Better short mic stand for kick & snare
-- Better tall stands for OHs
-- Mic stand sandbags
 
 ### Crashes
 
@@ -128,41 +129,45 @@ furman power fir me
 
 ### Workbench/Other
 
+- heat shrink
+- 5/8-27 tap
+- 5/8-27 mounting plate
+- OnStage TMO1 Multi Clamp Microphone Mount
+- cable gland joints for headphone repairs
+
+--
+
+- (used?) Audio Technica ATH-M50(x) headphones
 - Furman plug lock
 - Power y-splitter
-- Cheap pedal power for trav pedals & small keys
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
 - Hook set
 - Wire Baskets
 - scisors
 - elastic bands
+- toothpicks
 - Nut Driver set
 - Screw driver set
-- Tie wraps
 - Downbeats or Zildjian ear plugs
-- 3/4" console tape and/or scribble tape
+- 3/4" console tape
 - Ampeg knob
 - Ampeg casters
-- Rug (ikea has good prices)
+- Rug
 - Sabian grip disc
 - reflex drum pad (really quiet)
-- heat shrink
 - better clutch
-- Audio Technica ATH-M50x headphones (used ATH-M50 are fine too)
-- $350 US centrance mixerface
-- 5/8-27 tap
-- 5/8-27 mounting plate
-- OnStage TMO1 Multi Clamp Microphone Mount
 - Apex cradlemount mic clips
-- cable gland joints for headphones
-- Rowie clamp
-- pedco Clamps (2 or 3) and mic adaptors
-- Pedco Ultra Clamp Assembly with 1/4"-20 Screw
-- CAMVATE Crab Clamp with 5/8"-27 Ball Head Mount for Microphone
-- Phone cam mount & attachment for DI box
-- JB30 talkback mic
-- Whirlwind Qbox
+- Rowie, pedco & camvate clamps
 - Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
 - Can probably also get an accessory tray for a spare keyboard
 - [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
+- Mic clips
+- Primacoustic CrashGuard 421 x2
+- Primacoustic SplashGuard x2
+- $40 ea Wishbone amp hook x2
+- K&M 210/8 or 252 (rack tom)
+- K&M 16080 headphone holder x2
+- Better short mic stand for kick & snare
+- Better tall stands for OHs
+- Mic stand sandbags

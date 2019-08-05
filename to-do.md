@@ -1,13 +1,10 @@
 # Jer's To-Do List
 
 - Pick up drums chez Mike M (June?)
-- Book vacation time for Oct 4th & Sept 10-15
 - last thank yous
 - Pick up gift cert at scandinave
 - videotron internet (100) & mobile (8) is like 120 (call in)
-- Follow up with mid city air (514-931-3571)
 - pay hst owed
-- lower moms telus bill (phone is paid)
 - jam space key card
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
