@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Pick up EQ @Audio Technique (514-597-0707)
 - Pay HST owed
 - jam space key card
 - Pick up drums chez Mike M (June?)

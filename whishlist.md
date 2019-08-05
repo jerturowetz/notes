@@ -5,7 +5,7 @@
 - Phone for Kate
 - kobo
 - sneakers
-- shure earphone cleaner
+- shure earphone cleaners
 - pikster size 0
 - Device Lab responsive dev stand
 
@@ -15,6 +15,7 @@
   - power bar
   - little shelf or mounting board (14" deep, 22" wide)
   - charging station
+- $99 schiit Fulla desktop amplifier
 - water bottle
 - Pillow cases
 - Pillows
@@ -46,11 +47,10 @@ furman power fir me
 skb or whatever travel rack case
 mic travel case (small)
 
-- **Amp rack:**
-  - have rack
-  - vent panels
+- **Amp rack (have rack):**
   - Power
   - Comp/gate whatever
+  - vent panels
   - Make a panel:
     - Speakon F out x2
     - XLR M or combo TRS in x2
@@ -60,8 +60,7 @@ mic travel case (small)
   - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
   - Hearback system & Cat6 patch panel
   - Rack FX (Vox or Master?)
-  
-  
+
 - **Record ??**
   - 6ru + rack space
   - dj laptop stand/riser
@@ -171,3 +170,5 @@ mic travel case (small)
 - Better short mic stand for kick & snare
 - Better tall stands for OHs
 - Mic stand sandbags
+- JB30 talkback mic
+- $350 Centrance mixerface
