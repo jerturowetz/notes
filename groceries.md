@@ -31,7 +31,3 @@
 - na beer
 - Pickles
 - Paper towels
-
-- milk
-- yogurt
-- granola bars
