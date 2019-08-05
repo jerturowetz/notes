@@ -1,17 +1,18 @@
 # Jer's To-Do List
 
-- Pick up drums chez Mike M (June?)
-- last thank yous
-- Pick up gift cert at scandinave
-- videotron internet (100) & mobile (8) is like 120 (call in)
-- pay hst owed
+- Pay HST owed
 - jam space key card
+- Pick up drums chez Mike M (June?)
+- Bill Carly at x2 rate (like 4 hours?)
+- Bill LIFT first $750
+- Last thank you cards
+- Pick up gift cert at Sandinave
+- Videotron internet (100) & mobile (8) is like 120 (call in)
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
   - verdun rentable diapers (les grenouilles vertes)
 - call grumpys 514-866-9010‬
-- Bill Carly at x2 rate (like 4 hours?)
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Dentist surgeon follow up
 - GASM follow up
@@ -23,9 +24,8 @@
   - Review French content for inconsistencies
   - Review nav contact button
   - Get new image from Jo
-  - Draft HP
-  - Get at Xav
-- **BKDSN**
+  - Setup basic HP
+  - **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
 
