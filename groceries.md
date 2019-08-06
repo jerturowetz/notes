@@ -28,6 +28,9 @@
 - Eggs
 - Butter
 - sliced cheese
+- Mustard
 - na beer
 - Pickles
 - Paper towels
+- granola bars
+- perrier
