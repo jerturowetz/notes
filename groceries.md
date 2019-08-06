@@ -35,3 +35,11 @@
 - milk
 - yogurt
 - granola bars
+
+--
+
+eggs
+sliced cheese
+pickles
+regular mustard
+perrier
