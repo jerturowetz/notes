@@ -1,13 +1,13 @@
 # Jer's To-Do List
 
+- Add Salty01 to patreon follows
 - Pick up EQ @Audio Technique (514-597-0707)
 - Pay HST owed
-- jam space key card
 - Pick up drums chez Mike M (June?)
 - Bill Carly at x2 rate (like 4 hours?)
 - Bill LIFT first $750
 - Last thank you cards
-- Pick up gift cert at Sandinave
+- Pick up gift cert at Scandinave
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
