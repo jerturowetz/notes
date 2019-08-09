@@ -16,7 +16,7 @@ EOF
 }
 
 ## Check for a passed variable and call usage if missing
-SOME_PASSED_VARIABLE="${1}"
+SOME_PASSED_VARIABLE="$1"
 
 if [[ -z $SOME_PASSED_VARIABLE ]]
 then
@@ -26,8 +26,8 @@ fi
 
 # Loops trough folders and then you can do whatever
 for D in *; do
-    if [ -d "${D}" ]; then
-        echo "${D}"
+    if [ -d "$D" ]; then
+        echo "$D"
     fi
 done
 
@@ -40,14 +40,15 @@ for D in */; do my_command; done
 # example function
 prepend_to_file () {
 
-	local file_name = "${1}"
-	local prepend_string = "${2}"
+	local file_name="$1"
+	local prepend_string="$2"
 
 	if [ ! -f "${file_name}" ]; then
-		return $E_BADFILE;
+		return "$E_BADFILE";
     fi
 
-	mv "${file_name}" "${prepend_string}--${file_name}"
+	mv "$file_name" "$prepend_string--$file_name"
 	return 0;
 
 }
+
