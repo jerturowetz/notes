@@ -1,5 +1,12 @@
 # Wishlist
 
+- White shoelaces
+- water bottle
+- Danny coifure tshirt
+
+--
+
+- Hair stuff
 - marley earphones
 - milk storage storage
 - Phone for Kate
@@ -16,7 +23,6 @@
   - little shelf or mounting board (14" deep, 22" wide)
   - charging station
 - $99 schiit Fulla desktop amplifier
-- water bottle
 - Pillow cases
 - Pillows
 - storage for film

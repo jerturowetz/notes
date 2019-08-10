@@ -3,14 +3,6 @@
 ## Pharmacy
 
 - baby advil for fever
-- anti persperant
-- toothpaste
-- floss
-- hair stuff
-
-## Butcher
-
-- 4-5lb Skin-on, bone-in, pork shoulder
 
 ## Chinese grocery
 
@@ -21,7 +13,7 @@
 
 ## Provigo
 
-- #2 coffee filters
+- no. 2 coffee filters
 - coffee
 - Bagels
 - Smoked salmon

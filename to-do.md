@@ -2,7 +2,6 @@
 
 - Add Salty01 to patreon follows
 - Pick up EQ @Audio Technique (514-597-0707)
-- Pay HST owed
 - Pick up drums chez Mike M (June?)
 - Bill Carly at x2 rate (like 4 hours?)
 - Bill LIFT first $750
@@ -17,6 +16,7 @@
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Dentist surgeon follow up
 - GASM follow up
+- Dermatologist follow up (it aint advil)
 
 --
 
