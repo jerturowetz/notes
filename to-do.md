@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- Add Salty01 to patreon follows
 - Pick up EQ @Audio Technique (514-597-0707)
 - Pick up drums chez Mike M (June?)
 - Bill Carly at x2 rate (like 4 hours?)
@@ -8,6 +7,10 @@
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Videotron internet (100) & mobile (8) is like 120 (call in)
+
+whats the number
+whats the contract date
+
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
