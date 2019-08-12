@@ -3,7 +3,6 @@
 ## Pharmacy
 
 - baby advil for fever
-- shaving cream
 
 ## Chinese grocery
 
@@ -14,29 +13,27 @@
 
 ## Provigo
 
-- no. 2 coffee filters
-- coffee
+- green leaf
+- red pepper
+- Hard tomatoe
+- apples
+- strawberries
 - Bagels
 - Multi grain bread
 - Grilled cheese white bread
+- hot dog buns
+- sandwich meat
 - Smoked salmon
 - Eggs
 - Butter
 - yogurt
 - sliced cheese
 - Mustard
-- na beer
 - Pickles
+- no. 2 coffee filters
+- coffee
 - Paper towels
-- granola bars
+- n/a beer
 - perrier
 - coke 0
-- green leaf
-- red pepper
-- apples
-- strawberries
-- sandwich meat
-- hot dog buns
-- hard tomatoe
-
 
