@@ -3,6 +3,7 @@
 ## Pharmacy
 
 - baby advil for fever
+- shaving cream
 
 ## Chinese grocery
 
@@ -16,9 +17,12 @@
 - no. 2 coffee filters
 - coffee
 - Bagels
+- Multi grain bread
+- Grilled cheese white bread
 - Smoked salmon
 - Eggs
 - Butter
+- yogurt
 - sliced cheese
 - Mustard
 - na beer
@@ -26,3 +30,13 @@
 - Paper towels
 - granola bars
 - perrier
+- coke 0
+- green leaf
+- red pepper
+- apples
+- strawberries
+- sandwich meat
+- hot dog buns
+- hard tomatoe
+
+

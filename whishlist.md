@@ -1,8 +1,8 @@
 # Wishlist
 
-- White shoelaces
 - water bottle
 - Danny coifure tshirt
+- more tupperware
 
 --
 
