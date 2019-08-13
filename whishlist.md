@@ -1,23 +1,16 @@
 # Wishlist
 
-- water bottle
-- Danny coifure tshirt
-- more tupperware
-
---
-
 - Hair stuff
 - marley earphones
 - milk storage storage
-- Phone for Kate
 - kobo
-- sneakers
 - shure earphone cleaners
 - pikster size 0
 - Device Lab responsive dev stand
 
 --
 
+- phone for kate
 - for besta:
   - power bar
   - little shelf or mounting board (14" deep, 22" wide)
@@ -27,7 +20,9 @@
 - Pillows
 - storage for film
 - backseat baby mirror
+- more tupperware
 - asian soup bowls
+- water bottle
 - Thinner power brick
 - Gear to patch hole behind stove
 - $125 Mickey
@@ -41,8 +36,8 @@
 - Book: we cast a shadow
 - Aveda products
 - Deering goodtime banjo
+- Danny coiffure (t shirt)
 - Santiago Ramon Y Cajal Art
-- Danny's Coiffure (t-shirt)
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Rehersal space
