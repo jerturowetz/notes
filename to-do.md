@@ -1,16 +1,12 @@
 # Jer's To-Do List
 
+- Videotron internet (100) & mobile (8) is like 120 (call in)
+- Last thank you cards
+- Pick up gift cert at Scandinave
 - Pick up EQ @Audio Technique (514-597-0707)
 - Pick up drums chez Mike M (June?)
 - Bill Carly at x2 rate (like 4 hours?)
 - Bill LIFT first $750
-- Last thank you cards
-- Pick up gift cert at Scandinave
-- Videotron internet (100) & mobile (8) is like 120 (call in)
-
-whats the number
-whats the contract date
-
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
@@ -44,6 +40,14 @@ whats the contract date
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
+
+## Blogs to follow
+
+- [99u](https://99u.adobe.com/articles)
+- Torque
+- CRA
+- Vanity fair
+- [Matej Latin](https://matejlatin.co.uk/)
 
 ## Shrink
 
