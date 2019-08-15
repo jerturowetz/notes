@@ -41,14 +41,6 @@
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
-## Blogs to follow
-
-- [99u](https://99u.adobe.com/articles)
-- Torque
-- CRA
-- Vanity fair
-- [Matej Latin](https://matejlatin.co.uk/)
-
 ## Shrink
 
 - Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
