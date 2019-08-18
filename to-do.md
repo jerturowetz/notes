@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Get Juan & Irenes cleaning person
+- Sign up for Gemfury
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
 - Pick up gift cert at Scandinave
