@@ -3,8 +3,6 @@
 ## Pharmacy
 
 - baby advil for fever
-- Wipes (for home & out)
-- Diapers
 
 ## Chinese grocery
 
@@ -18,20 +16,20 @@
 - green leaf
 - red pepper
 - Hard tomatoe
-- apples
 - strawberries
 - Bagels
 - Multi grain bread
-- Grilled cheese white bread
 - sandwich meat
 - Smoked salmon
 - Eggs
 - Butter
-- Yogurt
 - Pickles
+- ketchup
+- regular mustard
 - no. 2 coffee filters
 - Coffee
 - Paper towels
 - n/a beer
 - perrier
-- coke 0
+- wipes
+- diapers
