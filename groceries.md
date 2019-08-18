@@ -1,9 +1,5 @@
 # Groceries
 
-## Pharmacy
-
-- baby advil for fever
-
 ## Chinese grocery
 
 - noodles (frozen ?)
