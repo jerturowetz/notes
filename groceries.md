@@ -11,8 +11,8 @@
 
 - green leaf
 - red pepper
-- tiny carrits
-- Hard tomatoe
+- tiny carrots
+- hard tomatoe
 - strawberries
 - Bagels
 - Multi grain bread
@@ -29,30 +29,22 @@
 - Paper towels
 - n/a beer
 - perrier
+- Ice cream sandwiches
+- Freezies
 
 ## Barbacoa
 
-1 whole dried New Mexico, costeño, or choricero chili, seeds and stem removed (see note)
-1 whole chile ancho or pasilla, seeds and stem removed (see note)
-1 whole chile negro, seeds and stem removed (see note)
-
+1 dried New Mexico, costeño, or choricero chili
+1 chile ancho or pasilla
+1 chile negro
 small onion
 garlic
-
-ground cumin
-ground cloves
-dried oregano
-
-4 chipotle chilis packed in adobo, roughly chopped, with 2 tablespoons adobo sauce
-1/4 cup apple cider vinegar
-
-
-fish sauce
+4 chipotle chilis packed in adobo
+adobo sauce
 4pb chuck-eye roast
 1lb oxtails
 Warm corn tortillas
-
-onions, cilantro, salsa, limes, and other condiments for serving
+onions, cilantro, salsa, limes
 
 ## pork tenderloin
 
