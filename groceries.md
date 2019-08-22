@@ -1,5 +1,10 @@
 # Groceries
 
+## Pharmacy
+
+- tylonol cold daytime
+- toothbrush & toothpaste (for work)
+
 ## Chinese grocery
 
 - noodles (frozen ?)
