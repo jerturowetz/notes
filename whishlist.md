@@ -1,12 +1,9 @@
 # Wishlist
 
-- baby headphones
-- Hair stuff
-- marley earphones
+- Winter boots
 - milk storage storage
 - kobo
 - shure earphone cleaners
-- pikster size 0
 - Device Lab responsive dev stand
 
 --
@@ -17,11 +14,9 @@
   - little shelf or mounting board (14" deep, 22" wide)
   - charging station
 - $99 schiit Fulla desktop amplifier
-- Pillow cases
 - Pillows
 - storage for film
 - backseat baby mirror
-- more tupperware
 - asian soup bowls
 - water bottle
 - Thinner power brick
