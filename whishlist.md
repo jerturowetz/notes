@@ -41,30 +41,26 @@
 
 ### Rigs
 
-Get an aux in to the workbench
-furman power fir me
-skb or whatever travel rack case
-mic travel case (small)
-
 - **Amp rack (have rack):**
   - Power
   - Comp/gate whatever
-  - vent panels
-  - Make a panel:
-    - Speakon F out x2
-    - XLR M or combo TRS in x2
+  - Vent panels
+  - Custom panel (Speakon F out x2 & combo XLR/TRS in x2)
 - **Mixer:**
-  - Mixer case with rack below
   - Power
+  - Mixer case with rack below
   - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
-  - Hearback system & Cat6 patch panel
   - Rack FX (Vox or Master?)
-
-- **Record ??**
-  - 6ru + rack space
+  - Would love a hearback system too w/CAT passthroug
+- **Record**
+  - Power w/front plug
   - dj laptop stand/riser
   - ??? Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
   - ??? Redco 1U Punched XLR Rack Panels (8holes)
+- **Extra**
+  - Get an aux in to the workbench
+  - skb or whatever travel rack case
+  - mic travel case (small)
 
 ### Redco
 
