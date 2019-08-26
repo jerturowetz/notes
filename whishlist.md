@@ -4,27 +4,19 @@
 - kobo
 - shure earphone cleaners
 - Device Lab responsive dev stand
-- corsair keyboard
-
-## cathy
-
-larger cutting board
-chefs knife
 
 --
 
-- phone for kate
-- for besta:
+- for Besta:
   - power bar
   - little shelf or mounting board (14" deep, 22" wide)
   - charging station
-- $99 schiit Fulla desktop amplifier
+- $99 Schiit Fulla desktop amplifier
 - storage for film
-- backseat baby mirror
-- asian soup bowls
-- water bottle
-- Thinner power brick
+- Backseat baby mirror
+- Water bottle
 - Gear to patch hole behind stove
+- Corsair keyboard
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -32,13 +24,18 @@ chefs knife
 
 ## Kate
 
-- rolling pin
+- Rolling pin
 - Book: we cast a shadow
 - Aveda products
 - Deering goodtime banjo
-- Danny coiffure (t shirt)
+- Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
+
+## Cathy
+
+- Larger cutting board
+- Chefs knife
 
 ## Rehersal space
 
@@ -145,7 +142,7 @@ mic travel case (small)
 - RCA F to 3.5mm M adaptor
 - Hook set
 - Wire Baskets
-- scisors
+- scissors
 - elastic bands
 - toothpicks
 - Nut Driver set

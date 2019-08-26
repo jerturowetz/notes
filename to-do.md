@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- sens kate 1178
+- Send kate $1178
 - Get Juan & Irenes cleaning person
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
@@ -27,7 +27,7 @@
   - Review nav contact button
   - Get new image from Jo
   - Setup basic HP
-  - **BKDSN**
+- **BKDSN**
   - Blog post format for bart
   - Guide for Bart on how to deploy changes
 
