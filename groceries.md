@@ -2,8 +2,8 @@
 
 ## Pharmacy
 
-- tylonol cold daytime
-- toothbrush & toothpaste (for work)
+- tylonol cold for baby
+- floss for work
 
 ## Chinese grocery
 
@@ -16,25 +16,15 @@
 
 - green leaf
 - red pepper
-- tiny carrots
 - hard tomatoe
 - strawberries
-- Bagels
-- Multi grain bread
 - sandwich meat
-- Smoked salmon
-- Eggs
+- Smoked salmon & bagels
 - Butter
 - Milk
-- Pickles
-- ketchup
-- regular mustard
-- no. 2 coffee filters
-- Coffee
-- Paper towels
+- OJ
 - n/a beer
 - perrier
-- Ice cream sandwiches
 - Freezies
 
 ## Barbacoa
@@ -57,3 +47,7 @@ onions, cilantro, salsa, limes
 barbecue sauce
 small head cauliflower
 green beans
+
+## other
+
+scored pork shoulder

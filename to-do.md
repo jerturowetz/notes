@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- sens kate 1178
 - Get Juan & Irenes cleaning person
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards

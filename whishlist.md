@@ -1,10 +1,15 @@
 # Wishlist
 
 - Winter boots
-- milk storage storage
 - kobo
 - shure earphone cleaners
 - Device Lab responsive dev stand
+- corsair keyboard
+
+## cathy
+
+larger cutting board
+chefs knife
 
 --
 
@@ -14,7 +19,6 @@
   - little shelf or mounting board (14" deep, 22" wide)
   - charging station
 - $99 schiit Fulla desktop amplifier
-- Pillows
 - storage for film
 - backseat baby mirror
 - asian soup bowls
