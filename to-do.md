@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Send kate $1178
+- Find carpentry class for kate
 - Get Juan & Irenes cleaning person
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
