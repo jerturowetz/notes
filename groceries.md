@@ -26,6 +26,7 @@
 - n/a beer
 - perrier
 - Freezies
+- Bleach
 
 ## Barbacoa
 
