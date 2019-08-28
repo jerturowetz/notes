@@ -3,7 +3,6 @@
 ## Pharmacy
 
 - tylonol cold for baby
-- floss for work
 
 ## Chinese grocery
 
@@ -20,13 +19,9 @@
 - strawberries
 - sandwich meat
 - Smoked salmon & bagels
-- Butter
-- Milk
-- OJ
 - n/a beer
 - perrier
 - Freezies
-- Bleach
 
 ## Barbacoa
 
