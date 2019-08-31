@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Add Wallys NIREC to LaPlace
 - Find carpentry class for kate
 - Get Juan & Irenes cleaning person
 - Videotron internet (100) & mobile (8) is like 120 (call in)
