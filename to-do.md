@@ -18,6 +18,7 @@
 - Dentist surgeon follow up
 - GASM follow up
 - Dermatologist follow up (it aint advil)
+- Mount Pi, hard drive & stuff to a little board
 
 --
 

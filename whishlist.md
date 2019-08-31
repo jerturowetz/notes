@@ -6,23 +6,15 @@
 - shure earphone cleaners
 - Device Lab responsive dev stand
 - Send Kate $200 for Fredricton flight
-
---
-
-- for Besta:
-  - power bar
-  - little shelf or mounting board (14" deep, 22" wide)
-  - charging station
-- $99 Schiit Fulla desktop amplifier
 - storage for film
 - Backseat baby mirror
 - Water bottle
 - Gear to patch hole behind stove
-- Corsair keyboard
 - $125 Mickey
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
+- Bass
 
 ## Kate
 
@@ -53,16 +45,9 @@
   - Mixer case with rack below
   - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
   - Rack FX (Vox or Master?)
-  - Would love a hearback system too w/CAT passthroug
 - **Record**
   - Power w/front plug
   - dj laptop stand/riser
-  - ??? Redco R1268/1UK-PBS Brush panel (DSS-* colored lettering plates & XXR-* or XCR-* colored rings for attenuator end)
-  - ??? Redco 1U Punched XLR Rack Panels (8holes)
-- **Extra**
-  - Get an aux in to the workbench
-  - skb or whatever travel rack case
-  - mic travel case (small)
 
 ### Redco
 
@@ -133,6 +118,9 @@
 
 --
 
+- Send a stereo out ot the workbench
+- SKB or whatever travel rack case
+- Mic travel case (small)
 - (used?) Audio Technica ATH-M50(x) headphones
 - Furman plug lock
 - Power y-splitter
