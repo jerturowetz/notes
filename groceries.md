@@ -13,12 +13,16 @@
 
 ## Provigo
 
+- Eggs
+- Dish soap
 - green leaf
 - red pepper
-- hard tomatoe
+- tomatoes
 - strawberries
 - sandwich meat
+- Bacon
 - Smoked salmon & bagels
+- Banan bread ingredients
 - n/a beer
 - perrier
 - Freezies

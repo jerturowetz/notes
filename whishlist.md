@@ -1,9 +1,11 @@
 # Wishlist
 
+- Sea to Summit Event dry sacks (have a XL)
 - Winter boots
 - kobo
 - shure earphone cleaners
 - Device Lab responsive dev stand
+- Send Kate $200 for Fredricton flight
 
 --
 
