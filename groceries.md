@@ -2,7 +2,7 @@
 
 ## Pharmacy
 
-- tylonol cold for baby
+- tylonol cold for baby (tempra)
 
 ## Chinese grocery
 
