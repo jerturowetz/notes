@@ -1,5 +1,6 @@
 # Wishlist
 
+- Milk storage bags
 - Sea to Summit Event dry sacks (have a XL)
 - Winter boots
 - kobo
