@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Visit Judy Pavillion C, room 824D
 - Add Wallys NIREC to LaPlace
 - Find carpentry class for kate
 - Get Juan & Irenes cleaning person
