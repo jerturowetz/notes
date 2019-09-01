@@ -14,18 +14,18 @@
 ## Provigo
 
 - Eggs
-- Dish soap
 - green leaf
 - red pepper
 - tomatoes
+- patates
+- green sides
 - strawberries
+- dinner meats
 - sandwich meat
-- Bacon
-- Smoked salmon & bagels
-- Banan bread ingredients
 - n/a beer
 - perrier
 - Freezies
+- ice cream sandwiches
 
 ## Barbacoa
 
