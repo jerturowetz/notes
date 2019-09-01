@@ -3,6 +3,7 @@
 ## Pharmacy
 
 - tylonol cold for baby
+- soap
 
 ## Chinese grocery
 
@@ -13,6 +14,7 @@
 
 ## Provigo
 
+- sugar
 - Eggs
 - Dish soap
 - green leaf
