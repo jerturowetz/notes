@@ -1,9 +1,5 @@
 # Groceries
 
-## Pharmacy
-
-- tylonol cold for baby (tempra)
-
 ## Chinese grocery
 
 - noodles (frozen ?)
