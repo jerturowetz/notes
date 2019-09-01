@@ -1,10 +1,5 @@
 # Groceries
 
-## Pharmacy
-
-- tylonol cold for baby
-- soap
-
 ## Chinese grocery
 
 - noodles (frozen ?)
@@ -14,20 +9,23 @@
 
 ## Provigo
 
-- sugar
+- stir fry stuff
+- burger buns
+- ground beef
 - Eggs
-- Dish soap
 - green leaf
 - red pepper
 - tomatoes
+- patates
+- green sides
 - strawberries
+- dinner meats
 - sandwich meat
-- Bacon
-- Smoked salmon & bagels
-- Banan bread ingredients
+- Sugar
 - n/a beer
 - perrier
 - Freezies
+- ice cream sandwiches
 
 ## Barbacoa
 
