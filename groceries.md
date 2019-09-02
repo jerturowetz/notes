@@ -9,9 +9,6 @@
 
 ## Provigo
 
-- stir fry stuff
-- burger buns
-- ground beef
 - Eggs
 - green leaf
 - red pepper
@@ -26,6 +23,36 @@
 - perrier
 - Freezies
 - ice cream sandwiches
+
+====
+
+boneless skinless chixken breast
+can diced tomatoes
+can pinto beans
+can black beans
+can chickpeas
+can chipotle pepper in adobo sauce
+brown rice
+corn tortilla
+
+tonatoes & lettuce
+corn
+green cabbage
+bell pepper
+jalapeno
+yellow & red onion
+garlic
+sweet potatoes
+limes
+avocado
+cilantro
+zucchini
+poblano pepper
+
+coriander seeds
+cayenne pepper
+chili powder
+paprika
 
 ## Barbacoa
 
