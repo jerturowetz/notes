@@ -26,6 +26,8 @@
 
 ====
 
+review recipies!
+
 boneless skinless chixken breast
 can diced tomatoes
 can pinto beans
@@ -35,46 +37,9 @@ can chipotle pepper in adobo sauce
 brown rice
 corn tortilla
 
-tonatoes & lettuce
-corn
-green cabbage
-bell pepper
-jalapeno
-yellow & red onion
-garlic
-sweet potatoes
-limes
-avocado
-cilantro
-zucchini
-poblano pepper
+## Recipies
 
-coriander seeds
-cayenne pepper
-chili powder
-paprika
+- sheet pan pork tenderloin
+- beef barbacoa
+- pork shoulder
 
-## Barbacoa
-
-1 dried New Mexico, costeño, or choricero chili
-1 chile ancho or pasilla
-1 chile negro
-small onion
-garlic
-4 chipotle chilis packed in adobo
-adobo sauce
-4pb chuck-eye roast
-1lb oxtails
-Warm corn tortillas
-onions, cilantro, salsa, limes
-
-## pork tenderloin
-
-1.5 lb pork tenderloin
-barbecue sauce
-small head cauliflower
-green beans
-
-## other
-
-scored pork shoulder
