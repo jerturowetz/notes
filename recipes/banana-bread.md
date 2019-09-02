@@ -17,7 +17,8 @@
 - Dissolve baking soda in sour cream
 - Beat butter, sugar, eggs and vanilla until light and fluffy
 - Add sour cream to batter
-- Add bananas alternately with dry ingredients
+- Add bananas alternately with flour
 - Mix until blended
+- fold in chocolate chips
 - Pour into greased baking pan.
-- Bake at 350 degrees for 45-50 minutes.
+- Bake at 335 degrees for 60 minutes.

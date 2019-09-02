@@ -7,6 +7,14 @@
 - Noodles Raw
 - duck, pork
 
+## Taco night
+
+- Brown rice
+- Flour tortillas
+- Can of diced tomatoes
+- Can pinto beans
+- can chipotle pepper in adobo sauce
+
 ## Provigo
 
 - Eggs
@@ -18,24 +26,13 @@
 - strawberries
 - dinner meats
 - sandwich meat
+- Mayonaise
+- Relish
 - Sugar
 - n/a beer
 - perrier
 - Freezies
 - ice cream sandwiches
-
-====
-
-review recipies!
-
-boneless skinless chixken breast
-can diced tomatoes
-can pinto beans
-can black beans
-can chickpeas
-can chipotle pepper in adobo sauce
-brown rice
-corn tortilla
 
 ## Recipies
 
