@@ -7,16 +7,9 @@
 - Noodles Raw
 - duck, pork
 
-## Taco night
-
-- Brown rice
-- Flour tortillas
-- Can of diced tomatoes
-- Can pinto beans
-- can chipotle pepper in adobo sauce
-
 ## Provigo
 
+- can chipotle pepper in adobo sauce
 - Eggs
 - green leaf
 - red pepper
@@ -39,4 +32,3 @@
 - sheet pan pork tenderloin
 - beef barbacoa
 - pork shoulder
-
