@@ -48,14 +48,11 @@
 - Place peppers/onions on other sheet - bake for 15 mins (toss halfway)
 - Heat blac eans in a pan for 3 mins w/salt, paprkia and cilantro
 
-### Tem 3: Marinated chicken
-
-
-Make sals?
-Diced red onion, crumbled queso fresco, diced avocado, shredded red cabbage, cilantro
+### Item 3: Marinated chicken
 
 ### Item 4: Sides
 
-Guac
-Salsa
-Corn
+- Guac
+- Salsa
+- Corn
+- Diced red onion, crumbled queso fresco, diced avocado, shredded red cabbage, cilantro
