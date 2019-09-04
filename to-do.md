@@ -1,16 +1,15 @@
 # Jer's To-Do List
 
+- Fredricton car rental (compare 8-9th to 8-10th)
+- Vermont car rental (dates?)
 - Visit Judy Pavillion C, room 824D
 - Add Wallys NIREC to LaPlace
 - Find carpentry class for kate
-- Get Juan & Irenes cleaning person
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Pick up EQ @Audio Technique (514-597-0707)
 - Pick up drums chez Mike M (June?)
-- Bill Carly at x2 rate (like 4 hours?)
-- Bill LIFT first $750
 - Figure out all the diaper situation:
   - biodegradable newborn (honest company) nati brand also
   - 12-18 liners fir cloth diapers
