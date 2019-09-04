@@ -45,6 +45,24 @@
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
+## New music
+
+- tool
+- big wreck
+- Sjowgren "seventeen" and "beginners"
+- Roses and Sacrifice by The Avett Brothers
+- Bronx
+- Lydia kepinski premier juin
+- anima by Thom Yorke
+- petit biscuit presence
+- Halfway to Nowhere by Chelou
+- adult desire by craig werden
+- indigo river tiber
+- the new folk sound of terry callier
+- hearts i break horses
+- Eric Bachmann No Recover
+- Invisible el jardin de los presentes
+
 ## Shrink
 
 - Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
