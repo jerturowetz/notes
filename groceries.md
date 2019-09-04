@@ -12,20 +12,15 @@
 - can chipotle pepper in adobo sauce
 - Eggs
 - green leaf
-- red pepper
-- tomatoes
 - patates
 - green sides
-- strawberries
-- dinner meats
-- sandwich meat
+- Meat
 - Mayonaise
 - Relish
 - Sugar
 - n/a beer
-- perrier
 - Freezies
-- ice cream sandwiches
+- Ice cream sandwiches
 
 ## Recipies
 
