@@ -9,18 +9,19 @@
 
 ## Provigo
 
-- can chipotle pepper in adobo sauce
 - Eggs
 - green leaf
 - patates
 - green sides
-- Meat
+- Multigrain bread
+- Meats
+- Milk
+- can chipotle peppers in adobo sauce
 - Mayonaise
 - Relish
 - Sugar
 - n/a beer
 - Freezies
-- Ice cream sandwiches
 
 ## Recipies
 
