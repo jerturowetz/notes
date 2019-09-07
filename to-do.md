@@ -1,9 +1,7 @@
 # Jer's To-Do List
 
-- Fredricton car rental (compare 8-9th to 8-10th)
 - Vermont car rental (dates?)
 - Visit Judy Pavillion C, room 824D
-- Add Wallys NIREC to LaPlace
 - Find carpentry class for kate
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
@@ -47,8 +45,6 @@
 
 ## New music
 
-- tool
-- big wreck
 - Sjowgren "seventeen" and "beginners"
 - Roses and Sacrifice by The Avett Brothers
 - Bronx
