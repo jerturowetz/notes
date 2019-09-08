@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Remove Visa CC from Adele and add Mastercard
 - Vermont car rental (dates?)
 - Visit Judy Pavillion C, room 824D
 - Find carpentry class for kate
