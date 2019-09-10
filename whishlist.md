@@ -1,5 +1,14 @@
 # Wishlist
 
+
+rubyandclement.bandcamp.com
+fersher.bandcamp.com
+
+
+
+
+
+- power bank
 - Milk storage bags
 - Sea to Summit Event dry sacks (have a XL)
 - Winter boots
@@ -19,6 +28,7 @@
 
 ## Kate
 
+- ereader
 - Rolling pin
 - Book: we cast a shadow
 - Aveda products
@@ -27,10 +37,19 @@
 - Santiago Ramon Y Cajal Art
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
+## Chris & Lori
+
+- non-stick pan
+- mortar
+- thermapen
+
 ## Cathy
 
+- epicurian cutting board
 - Larger cutting board
 - Chefs knife
+- knife sharpening
+- thermapen
 
 ## Rehersal space
 
