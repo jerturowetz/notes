@@ -1,13 +1,5 @@
 # Wishlist
 
-
-rubyandclement.bandcamp.com
-fersher.bandcamp.com
-
-
-
-
-
 - power bank
 - Milk storage bags
 - Sea to Summit Event dry sacks (have a XL)
