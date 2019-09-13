@@ -2,8 +2,6 @@
 
 - Remove Visa CC from Adele and add Mastercard
 - Vermont car rental (dates?)
-- Visit Judy Pavillion C, room 824D
-- Find carpentry class for kate
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
 - Pick up gift cert at Scandinave

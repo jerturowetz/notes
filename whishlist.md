@@ -1,14 +1,12 @@
 # Wishlist
 
-- power bank
-- Milk storage bags
-- Sea to Summit Event dry sacks (have a XL)
+- USB C to Dual HDMI
+- Bass
+- iPhone SE
 - Winter boots
 - kobo
 - shure earphone cleaners
 - Device Lab responsive dev stand
-- Send Kate $200 for Fredricton flight
-- storage for film
 - Backseat baby mirror
 - Water bottle
 - Gear to patch hole behind stove
@@ -16,7 +14,6 @@
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
-- Bass
 
 ## Kate
 
@@ -24,9 +21,10 @@
 - Rolling pin
 - Book: we cast a shadow
 - Aveda products
-- Deering goodtime banjo
+- Deering goodtime banjo (or washburn)
 - Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
+- Carpentry class
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Chris & Lori
@@ -41,7 +39,8 @@
 - Larger cutting board
 - Chefs knife
 - knife sharpening
-- thermapen
+- thermapen or Lavatools thermowand
+- Marley headphones
 
 ## Rehersal space
 
@@ -138,9 +137,7 @@
 - Power y-splitter
 - RCA M to 3.5mm F adaptor
 - RCA F to 3.5mm M adaptor
-- Hook set
-- Wire Baskets
-- scissors
+- slim medical scissors
 - elastic bands
 - toothpicks
 - Nut Driver set

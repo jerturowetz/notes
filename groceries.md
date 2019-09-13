@@ -11,6 +11,7 @@
 
 - Eggs
 - green leaf
+- bananes
 - patates
 - green sides
 - Multigrain bread
