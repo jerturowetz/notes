@@ -1,14 +1,6 @@
 # Wishlist
 
-skb travel rack
-rack drawer for dock
-dock:
-2 video
-ethernet
-usb
-
-- unstable unicorns card game 
-- USB C to Dual HDMI
+- unstable unicorns card game
 - Bass
 - iPhone SE
 - Winter boots
