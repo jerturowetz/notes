@@ -1,22 +1,13 @@
 # Wishlist
 
-25' HDMI x2
-USB C to dual HDMI
-ext chords for mon
-case for mon
-mon stand
-quick release vesa mount
-
-
-
-
-
-gift for vero & falco
-
-
+- iPhone SE
+- Frame & print commissions family photo
+- Kate Bday present
+- gift for vero & falco
+- Sharpies
+- Milk crates
 - unstable unicorns card game
 - Bass
-- iPhone SE
 - Winter boots
 - kobo
 - shure earphone cleaners
@@ -28,6 +19,15 @@ gift for vero & falco
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
+
+## Karaoke stuff
+
+- USB C to dual HDMI adaptor
+- 25' HDMI cable x2
+- 25' black ext cord
+- Collapsible LCD panel stand
+- Mic stand bag
+- Laptop DJ stand
 
 ## Kate
 

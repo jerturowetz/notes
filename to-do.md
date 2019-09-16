@@ -1,6 +1,10 @@
 # Jer's To-Do List
 
+- Prep for TD apt
+- Finalize plans with Matt/Trav, Andrew K, Lorraine & Tim
 - Remove Visa CC from Adele and add Mastercard
+- Add waldo docs to LastPass
+- Add Wlado BANQ
 - Vermont car rental (dates?)
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards

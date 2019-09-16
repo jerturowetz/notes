@@ -1,4 +1,4 @@
-## Cheat sheet : ImageMagick
+# Cheat sheet : ImageMagick
 
 Run operation on all files in a particular folder:
 
