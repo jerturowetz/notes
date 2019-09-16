@@ -9,20 +9,10 @@
 
 ## Provigo
 
-- Eggs
+
 - green leaf
-- bananes
-- patates
-- green sides
-- Multigrain bread
-- Meats
-- Milk
 - can chipotle peppers in adobo sauce
-- Mayonaise
-- Relish
-- Sugar
 - n/a beer
-- Freezies
 
 ## Recipies
 

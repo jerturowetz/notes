@@ -1,6 +1,5 @@
 # Jer's To-Do List
 
-- golden slumbers beatles song
 - Remove Visa CC from Adele and add Mastercard
 - Vermont car rental (dates?)
 - Videotron internet (100) & mobile (8) is like 120 (call in)

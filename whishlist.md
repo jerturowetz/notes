@@ -1,5 +1,10 @@
 # Wishlist
 
+25' HDMI x2
+USB C to dual HDMI
+ext chords for mon
+
+
 - unstable unicorns card game
 - Bass
 - iPhone SE
