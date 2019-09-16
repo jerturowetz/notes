@@ -3,6 +3,15 @@
 25' HDMI x2
 USB C to dual HDMI
 ext chords for mon
+case for mon
+mon stand
+quick release vesa mount
+
+
+
+
+
+gift for vero & falco
 
 
 - unstable unicorns card game
