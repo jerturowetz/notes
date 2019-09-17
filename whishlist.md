@@ -1,5 +1,8 @@
 # Wishlist
 
+- baby cold insert car seat
+- thanksgiving costume
+- baby bjorn cover 
 - iPhone SE
 - Frame & print commissions family photo
 - Kate Bday present

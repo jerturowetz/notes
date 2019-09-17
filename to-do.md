@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- dates for kates other rolls
+- order uniclo
 - Prep for TD apt
 - Finalize plans with Matt/Trav, Andrew K, Lorraine & Tim
 - Remove Visa CC from Adele and add Mastercard
