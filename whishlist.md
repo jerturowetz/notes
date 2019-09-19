@@ -1,8 +1,22 @@
 # Wishlist
 
+- USB C to dual HDMI adaptor
+- Another SM58
+- 25' HDMI cable x2
+- 25' black ext cord
+- Laptop DJ stand
+
+build xlr cables (super short & 25')
+laptop DI improvments
+other reverse DI to headphones
+box for spare bits
+cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
+
+- [Long HDMI cables](https://www.amazon.ca/gp/product/B00LM1W43C/)
+- [Sweaters](https://www.uniqlo.com/ca/en/products/E419190-000)
 - baby cold insert car seat
-- thanksgiving costume
-- baby bjorn cover 
+- baby thanksgiving costume
+- baby bjorn cover
 - iPhone SE
 - Frame & print commissions family photo
 - Kate Bday present
@@ -22,15 +36,6 @@
 - $200 Agg, Andrew, Joe gifts
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
-
-## Karaoke stuff
-
-- USB C to dual HDMI adaptor
-- 25' HDMI cable x2
-- 25' black ext cord
-- Collapsible LCD panel stand
-- Mic stand bag
-- Laptop DJ stand
 
 ## Kate
 
