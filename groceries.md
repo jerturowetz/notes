@@ -9,8 +9,14 @@
 
 ## Provigo
 
-
+- Bread
+- Bananas
 - green leaf
+- garlic
+- lemon
+- Salmon
+- Milk
+- Coffee
 - can chipotle peppers in adobo sauce
 - n/a beer
 
