@@ -5,7 +5,7 @@
 - 25' HDMI cable x2
 - 25' black ext cord
 - Laptop DJ stand
-
+print & frame anniversary photo
 build xlr cables (super short & 25')
 laptop DI improvments
 other reverse DI to headphones
