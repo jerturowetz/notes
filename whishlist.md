@@ -54,6 +54,7 @@ cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
 - non-stick pan
 - mortar
 - thermapen
+- MAX: the magus
 
 ## Cathy
 
@@ -188,3 +189,4 @@ cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
 - Mic stand sandbags
 - JB30 talkback mic
 - $350 Centrance mixerface
+- DB technologies monitor

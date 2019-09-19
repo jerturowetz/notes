@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Call Karina (514-578-3796) to schedule cleaning person
 - dates for kates other rolls
 - order uniclo
 - Prep for TD apt
