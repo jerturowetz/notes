@@ -1,35 +1,25 @@
 # Wishlist
 
+- print & frame anniversary photo
+- Food processor
+- xlr cable stuff for (super short & 25')
 - USB C to dual HDMI adaptor
-- Another SM58
-- 25' HDMI cable x2
-- 25' black ext cord
 - Laptop DJ stand
-print & frame anniversary photo
-build xlr cables (super short & 25')
-laptop DI improvments
-other reverse DI to headphones
-box for spare bits
-cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
-
-- [Long HDMI cables](https://www.amazon.ca/gp/product/B00LM1W43C/)
+- Ext chord for monitor
+- [Long HDMI cables](https://www.amazon.ca/gp/product/B00LM1W43C/) x2
 - [Sweaters](https://www.uniqlo.com/ca/en/products/E419190-000)
 - baby cold insert car seat
-- baby thanksgiving costume
 - baby bjorn cover
+- baby thanksgiving costume
 - iPhone SE
-- Frame & print commissions family photo
 - Kate Bday present
 - gift for vero & falco
 - Sharpies
 - Milk crates
 - unstable unicorns card game
-- Bass
 - Winter boots
 - kobo
-- shure earphone cleaners
 - Device Lab responsive dev stand
-- Backseat baby mirror
 - Water bottle
 - Gear to patch hole behind stove
 - $125 Mickey
@@ -190,3 +180,8 @@ cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
 - JB30 talkback mic
 - $350 Centrance mixerface
 - DB technologies monitor
+- Another SM58
+- laptop DI improvments
+- other reverse DI to headphones
+- box for spare bits
+- cables for iPhone/laptop to mixer (3.5mm to dual 1/4")

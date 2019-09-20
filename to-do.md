@@ -1,15 +1,13 @@
 # Jer's To-Do List
 
+- Vermont car rental (dates?)
+- Videotron internet (100) & mobile (8) is like 120 (call in)
 - Call Karina (514-578-3796) to schedule cleaning person
-- dates for kates other rolls
+- dates for kates other rolls of film
 - order uniclo
 - Prep for TD apt
 - Finalize plans with Matt/Trav, Andrew K, Lorraine & Tim
 - Remove Visa CC from Adele and add Mastercard
-- Add waldo docs to LastPass
-- Add Wlado BANQ
-- Vermont car rental (dates?)
-- Videotron internet (100) & mobile (8) is like 120 (call in)
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Pick up EQ @Audio Technique (514-597-0707)
