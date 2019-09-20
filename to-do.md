@@ -1,11 +1,13 @@
 # Jer's To-Do List
 
+- Will be closing my Wealth Simple TFSA.
+- Increase TFSA savings with Yuri
+- Get a family accountant (Yuri's contact or guttman)
 - Vermont car rental (dates?)
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Call Karina (514-578-3796) to schedule cleaning person
 - dates for kates other rolls of film
 - order uniclo
-- Prep for TD apt
 - Finalize plans with Matt/Trav, Andrew K, Lorraine & Tim
 - Remove Visa CC from Adele and add Mastercard
 - Last thank you cards

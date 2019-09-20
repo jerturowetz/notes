@@ -9,6 +9,7 @@
 
 ## Provigo
 
+- Olive oil
 - Bread
 - Bananas
 - green leaf
