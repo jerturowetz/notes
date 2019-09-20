@@ -1,9 +1,26 @@
 # Jer's To-Do List
 
+budget
+communauto
+mars
+services online
+phone
+
+
+
+
+house cleanung
+internet
+savings for waldo
+rent
+hydro
+insurance
+
+
+
 - Call Karina (514-578-3796) to schedule cleaning person
 - dates for kates other rolls
 - order uniclo
-- Prep for TD apt
 - Finalize plans with Matt/Trav, Andrew K, Lorraine & Tim
 - Remove Visa CC from Adele and add Mastercard
 - Add waldo docs to LastPass
