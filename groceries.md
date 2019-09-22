@@ -9,17 +9,11 @@
 
 ## Provigo
 
-- Olive oil
-- Bread
-- Bananas
-- green leaf
-- garlic
-- lemon
-- Salmon
-- Milk
-- Coffee
 - can chipotle peppers in adobo sauce
 - n/a beer
+- coffee
+- ziplock med & latge
+- recycling bags
 
 ## Recipies
 
