@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+- Plans with Matt/Trav
+- Plans with Fong
+- Plans with Gerald
+- Pklans with Andrew K
+- Plans with Kosta Patrik
+- Plans with David
+- Closing my Wealth Simple TFSA
+- confirm shut down of personal savings TD
 - check monitor at space re detachable vesa
 - build a karaoke gear box
 - Will be closing my Wealth Simple TFSA.

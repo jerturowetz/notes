@@ -1,39 +1,19 @@
 # Wishlist
 
-oxi clean pump vel
-containers for baby clothes
-burger buns 
-cable matters usbc dock w/2 hdmi
-
-kobo libra h2o
-kindle paperwhite
-new great long underwear
-ski gear
-magnetic hooks for stove
-magnes for the fridge 
-
-
-
-
-cobtainers for under cabinets 
-
-7" tall x 16" deep x less than 16 wide
-
-top shelf:
-9x15x5tall (2)
-
-
-containers for anti vathroom closet:
-
-
-??
-
-
-bass pedàboard
-bass and case
-
-
-
+- Clear tape
+- cable matters usbc dock w/2 hdmi
+- kobo libra h2o
+- kindle paperwhite
+- new great long underwear
+- ski gear
+- Fridge magnets
+- Containers:
+  - Under cabinets:
+    - 7" tall x 16" deep x less than 16 wide (on floor)
+    - 9x15x5tall (2) (top shelf:)
+  - Anti bathroom closet:
+    - ??
+- bass and case
 - print & frame anniversary photo
 - Food processor
 - xlr cable stuff for (super short & 25')
@@ -50,7 +30,6 @@ bass and case
 - Milk crates
 - unstable unicorns card game
 - Winter boots
-- kobo
 - Device Lab responsive dev stand
 - Water bottle
 - Gear to patch hole behind stove
