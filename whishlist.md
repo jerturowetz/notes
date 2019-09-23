@@ -26,6 +26,11 @@ top shelf:
 containers for anti vathroom closet:
 
 
+??
+
+
+bass pedàboard
+bass and case
 
 
 
