@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- check monitor at space re detachable vesa
+- build a karaoke gear box
 - Will be closing my Wealth Simple TFSA.
 - Increase TFSA savings with Yuri
 - Get a family accountant (Yuri's contact or guttman)

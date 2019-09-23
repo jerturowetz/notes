@@ -3,7 +3,14 @@
 oxi clean pump vel
 containers for baby clothes
 burger buns 
+cable matters usbc dock w/2 hdmi
 
+kobo libra h2o
+kindle paperwhite
+new great long underwear
+ski gear
+magnetic hooks for stove
+magnes for the fridge 
 
 
 
@@ -16,6 +23,8 @@ top shelf:
 9x15x5tall (2)
 
 
+containers for anti vathroom closet:
+
 
 
 
@@ -23,13 +32,11 @@ top shelf:
 - print & frame anniversary photo
 - Food processor
 - xlr cable stuff for (super short & 25')
-- USB C to dual HDMI adaptor
 - Laptop DJ stand
 - Ext chord for monitor
-- [Long HDMI cables](https://www.amazon.ca/gp/product/B00LM1W43C/) x2
+- [Long HDMI cable](https://www.amazon.ca/gp/product/B00LM1W43C/)
 - [Sweaters](https://www.uniqlo.com/ca/en/products/E419190-000)
 - baby cold insert car seat
-- baby bjorn cover
 - baby thanksgiving costume
 - iPhone SE
 - Kate Bday present
