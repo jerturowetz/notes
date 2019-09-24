@@ -1,5 +1,9 @@
 # Wishlist
 
+- Short USB & Lightning cables
+- Anker powercore 10000
+- Sea to Summit Event Compression Dry Sack,Medium
+- Archival Negatives Storage Sheets
 - Clear tape
 - cable matters usbc dock w/2 hdmi
 - kobo libra h2o
@@ -166,6 +170,8 @@
 - toothpicks
 - Nut Driver set
 - Screw driver set
+- Pegboard baskets
+- Pegboard hooks
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape
 - Ampeg knob

@@ -1,14 +1,13 @@
 # Jer's To-Do List
 
-- Vermont car rental (dates?)
+- Vermont car rental (dates?) - (438) 238-1230
+- Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
 - Call grumpys 514-866-9010‬
-- Videotron internet (100) & mobile (8) is like 120 (call in)
-- Closemy Wealth Simple TFSA
-- Confirm shut down of personal savings TD
+- Close my Wealth Simple TFSA
+- Close my persona savings account
 - Plans with Gerald (montreal breakfast)
 - Plans with Kosta Patrik (Oct 25, nov 1)
-- Plans with Matt & Travis (next week Tuesday)
 - Plans with Andrew K
 - Plans with David
 - Plans with Lorraine & Tim
@@ -42,22 +41,6 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
-
-## New music
-
-- Sjowgren "seventeen" and "beginners"
-- Roses and Sacrifice by The Avett Brothers
-- Bronx
-- Lydia kepinski premier juin
-- anima by Thom Yorke
-- petit biscuit presence
-- Halfway to Nowhere by Chelou
-- adult desire by craig werden
-- indigo river tiber
-- the new folk sound of terry callier
-- hearts i break horses
-- Eric Bachmann No Recover
-- Invisible el jardin de los presentes
 
 ## Shrink
 
