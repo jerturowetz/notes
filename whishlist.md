@@ -1,50 +1,31 @@
 # Wishlist
 
-- Short USB & Lightning cables
-- Anker powercore 10000
-- Sea to Summit Event Compression Dry Sack,Medium
-- Archival Negatives Storage Sheets
-- Clear tape
-- cable matters usbc dock w/2 hdmi
-- kobo libra h2o
-- kindle paperwhite
-- new great long underwear
-- ski gear
-- Fridge magnets
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
     - 9x15x5tall (2) (top shelf:)
   - Anti bathroom closet:
     - ??
-- bass and case
-- print & frame anniversary photo
-- Food processor
-- xlr cable stuff for (super short & 25')
-- Laptop DJ stand
-- Ext chord for monitor
-- [Long HDMI cable](https://www.amazon.ca/gp/product/B00LM1W43C/)
-- [Sweaters](https://www.uniqlo.com/ca/en/products/E419190-000)
+- Anker powercore 10000
+- Sea to Summit Event Compression Dry Sack,Medium
+- Archival Negatives Storage Sheets
+- kobo libra h2o
+- kindle paperwhite
 - baby cold insert car seat
 - baby thanksgiving costume
-- iPhone SE
-- Kate Bday present
 - gift for vero & falco
-- Sharpies
-- Milk crates
-- unstable unicorns card game
 - Winter boots
-- Device Lab responsive dev stand
 - Water bottle
 - Gear to patch hole behind stove
-- $125 Mickey
 - $200 Agg, Andrew, Joe gifts
+- Frame for comissioned anniversary photo
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
 
 ## Kate
 
-- ereader
+- iPhone SE
+- eReader
 - Rolling pin
 - Book: we cast a shadow
 - Aveda products
@@ -63,14 +44,19 @@
 
 ## Cathy
 
-- epicurian cutting board
+- Marley headphones
+- Epicurian cutting board
 - Larger cutting board
 - Chefs knife
 - knife sharpening
-- thermapen or Lavatools thermowand
-- Marley headphones
+- Thermapen or Lavatools thermowand
 
 ## Rehersal space
+
+- bass and case
+- xlr cable stuff for (super short & 25')
+- Laptop DJ stand
+- Ext chord for monitor
 
 ### Rigs
 
