@@ -33,6 +33,7 @@
 - Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
 - Carpentry class
+- Come from away tickets
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Chris & Lori
