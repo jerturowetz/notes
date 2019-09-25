@@ -144,6 +144,8 @@
 
 --
 
+- Velcro cable ties
+- hdmi cable caps (that attach to cable)
 - Send a stereo out ot the workbench
 - SKB or whatever travel rack case
 - Mic travel case (small)
