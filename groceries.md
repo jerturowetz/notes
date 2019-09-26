@@ -12,7 +12,7 @@
 - can chipotle peppers in adobo sauce
 - n/a beer
 - coffee
-- ziplock med & latge
+- ziplock med & large
 - recycling bags
 
 ## Recipies
