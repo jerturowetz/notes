@@ -13,7 +13,9 @@
 - n/a beer
 - coffee
 - ziplock med & large
-- recycling bags
+- recycling bags (75L)
+- compost bags
+- toilet paper
 
 ## Recipies
 

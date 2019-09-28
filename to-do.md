@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- unsub spotify
+- add audible book
 - Vermont car rental (dates?) - (438) 238-1230
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
