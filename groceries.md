@@ -16,6 +16,7 @@
 - recycling bags (75L)
 - compost bags
 - toilet paper
+- coffee filters
 
 ## Recipies
 
