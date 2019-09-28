@@ -1,5 +1,6 @@
 # Wishlist
 
+- shure mic bags x3
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
