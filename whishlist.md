@@ -5,6 +5,7 @@ for ubito:
 3.5mm to dual 1/4"
 
 
+- shure mic bags x3
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
@@ -148,6 +149,8 @@ for ubito:
 - xlr cable stuff for (super short & 25')
 - Laptop DJ stand
 - Ext chord for monitor
+- Velcro cable ties
+- hdmi cable caps (that attach to cable)
 - Send a stereo out ot the workbench
 - SKB or whatever travel rack case
 - Mic travel case (small)

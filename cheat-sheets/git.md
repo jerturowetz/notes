@@ -12,6 +12,8 @@
     git ls-remote # get a list of remote references
     git remote show # get a list of remote references
 
+    git reset --hard @{u} # restes local branch to state of remote
+
 ## Removing files
 
     git rm filename # deletes file and stages removal
