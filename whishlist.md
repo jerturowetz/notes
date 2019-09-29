@@ -1,5 +1,6 @@
 # Wishlist
 
+grease for stroller tire wheels
 
 for ubito:
 3.5mm to dual 1/4"
