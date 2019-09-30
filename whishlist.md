@@ -1,9 +1,9 @@
 # Wishlist
 
-- more 58s
+- mec or baggu bag for cables when travelling
+- mec tiny stuff sacks forvrazer other
 - short lightning cables
 - for unito: 3.5mm to dual 1/4"
-- better tie & belt storage
 - grease for stroller tire wheels
 - shure mic bags x3
 - Containers:
@@ -14,7 +14,6 @@
     - ??
 - Anker powercore 10000
 - Sea to Summit Event Compression Dry Sack,Medium
-- Archival Negatives Storage Sheets
 - kobo libra h2o
 - kindle paperwhite
 - baby cold insert car seat
@@ -196,3 +195,4 @@
 - other reverse DI to headphones
 - box for spare bits
 - cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
+- more 58s
