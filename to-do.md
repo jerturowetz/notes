@@ -1,30 +1,24 @@
 # Jer's To-Do List
 
-- unsub spotify
-- add audible book
+- Plan meal for this weekend
+- Order Turkeys for thanksgiving
 - Vermont car rental (dates?) - (438) 238-1230
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
 - Call grumpys 514-866-9010‬
 - Close my Wealth Simple TFSA
-- Close my persona savings account
-- Plans with Gerald (montreal breakfast)
-- Plans with Kosta Patrik (Oct 25, nov 1)
 - Plans with Andrew K
-- Plans with David
 - Plans with Lorraine & Tim
-- check monitor at space re detachable vesa
 - build a karaoke gear box
 - Call Karina (514-578-3796) to schedule cleaning person
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Pick up EQ @Audio Technique (514-597-0707)
-- Pick up drums chez Mike M (June?)
+- Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Dentist surgeon follow up
 - GASM follow up
 - Dermatologist follow up (it aint advil)
-- Mount Pi, hard drive & stuff to a little board
 - **Cult stuff (see readme)**
 - **Camplift**
   - Review French content for inconsistencies

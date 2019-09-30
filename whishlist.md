@@ -1,15 +1,10 @@
 # Wishlist
 
-- mec or baggu bag for cables when travelling
-- mec tiny stuff sacks forvrazer other
-- short lightning cables
-- for unito: 3.5mm to dual 1/4"
-- grease for stroller tire wheels
-- shure mic bags x3
+- non-stick pan for chris & Lori
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
-    - 9x15x5tall (2) (top shelf:)
+    - 5" tall x 15" deep x 9" wide (2, top shelf)
   - Anti bathroom closet:
     - ??
 - Anker powercore 10000
@@ -29,6 +24,7 @@
 
 ## Kate
 
+- Men's wallet
 - iPhone SE
 - eReader
 - Rolling pin
@@ -40,13 +36,6 @@
 - Carpentry class
 - Come from away tickets
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
-
-## Chris & Lori
-
-- non-stick pan
-- mortar
-- thermapen
-- MAX: the magus
 
 ## Cathy
 
@@ -196,3 +185,7 @@
 - box for spare bits
 - cables for iPhone/laptop to mixer (3.5mm to dual 1/4")
 - more 58s
+- Pearl Export floor tom
+- Extra Snare stad
+- Better snare stand
+- shure mic bags x3
