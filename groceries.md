@@ -7,15 +7,18 @@
 - Noodles Raw
 - duck, pork
 
+## Can tire
+
+- big box for kate clothes
+- cables & adapters box fir space
+
 ## Provigo
 
+- malt vinager
+- Brown sugar
 - can chipotle peppers in adobo sauce
 - n/a beer
-- coffee
 - ziplock med & large
-- recycling bags (75L)
-- compost bags
-- toilet paper
 - coffee filters
 
 ## Recipies
