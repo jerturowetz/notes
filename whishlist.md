@@ -1,10 +1,8 @@
 # Wishlist
 
-
-for ubito:
-3.5mm to dual 1/4"
-
-
+- more 58s
+- short lightning cables
+- for unito: 3.5mm to dual 1/4"
 - shure mic bags x3
 - Containers:
   - Under cabinets:
