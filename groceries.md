@@ -9,6 +9,10 @@
 
 ## Provigo
 
+- ice cream sadwiches
+- soy sauce
+- sesame oil
+- peanut butter
 - malt vinager
 - Brown sugar
 - can chipotle peppers in adobo sauce
