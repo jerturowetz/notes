@@ -1,6 +1,10 @@
 # Wishlist
 
+- Hyperion for Evan
 - non-stick pan for chris & Lori
+- baby cold insert car seat
+- baby thanksgiving costume
+
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
@@ -11,8 +15,6 @@
 - Sea to Summit Event Compression Dry Sack,Medium
 - kobo libra h2o
 - kindle paperwhite
-- baby cold insert car seat
-- baby thanksgiving costume
 - gift for vero & falco
 - Winter boots
 - Water bottle

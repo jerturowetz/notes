@@ -1,15 +1,12 @@
 # Jer's To-Do List
 
 - Plan meal for this weekend
-- Order Turkeys for thanksgiving
-- Vermont car rental (dates?) - (438) 238-1230
+- Order Turkeys for thanksgiving (2.5kg & ??? kg)
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
 - Call grumpys 514-866-9010‬
-- Close my Wealth Simple TFSA
 - Plans with Andrew K
 - Plans with Lorraine & Tim
-- build a karaoke gear box
 - Call Karina (514-578-3796) to schedule cleaning person
 - Last thank you cards
 - Pick up gift cert at Scandinave
