@@ -1,23 +1,23 @@
 # Wishlist
 
-- non-stick pan for Chris & Lori
 - Wallet for kate
-- Clear Lens Eye Glasses,black,one size fits most
-- fake beard
+- Fake beard
+
+- non-stick pan for Chris & Lori
+
+- Clear Lens Eye Glasses, one size fits most
 - Hyperion for Evan
 - baby cold insert car seat
-- baby thanksgiving costume
-- baby halloween costume
 - Anker powercore 10000
+- kindle paperwhite
 
 --
 
-- kobo libra h2o
-- kindle paperwhite
 - gift for vero & falco
+- kobo libra h2o
 - Winter boots
 - Water bottle
-- Sea to Summit Event Compression Dry Sack,Medium
+- Sea to Summit Event Compression Dry Sack, Medium
 - Gear to patch hole behind stove
 - Containers:
   - Under cabinets:
