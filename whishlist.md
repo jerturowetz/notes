@@ -1,24 +1,30 @@
 # Wishlist
 
+- non-stick pan for Chris & Lori
+- Wallet for kate
+- Clear Lens Eye Glasses,black,one size fits most
+- fake beard
 - Hyperion for Evan
-- non-stick pan for chris & Lori
 - baby cold insert car seat
 - baby thanksgiving costume
+- baby halloween costume
+- Anker powercore 10000
 
+--
+
+- kobo libra h2o
+- kindle paperwhite
+- gift for vero & falco
+- Winter boots
+- Water bottle
+- Sea to Summit Event Compression Dry Sack,Medium
+- Gear to patch hole behind stove
 - Containers:
   - Under cabinets:
     - 7" tall x 16" deep x less than 16 wide (on floor)
     - 5" tall x 15" deep x 9" wide (2, top shelf)
   - Anti bathroom closet:
     - ??
-- Anker powercore 10000
-- Sea to Summit Event Compression Dry Sack,Medium
-- kobo libra h2o
-- kindle paperwhite
-- gift for vero & falco
-- Winter boots
-- Water bottle
-- Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
 - Frame for comissioned anniversary photo
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -26,13 +32,11 @@
 
 ## Kate
 
-- Men's wallet
-- iPhone SE
 - eReader
 - Rolling pin
 - Book: we cast a shadow
 - Aveda products
-- Deering goodtime banjo (or washburn)
+- Deering goodtime banjo
 - Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
 - Carpentry class
@@ -46,7 +50,6 @@
 - Larger cutting board
 - Chefs knife
 - knife sharpening
-- Thermapen or Lavatools thermowand
 
 ## Rehersal space
 
@@ -191,3 +194,4 @@
 - Extra Snare stad
 - Better snare stand
 - shure mic bags x3
+- UGREEN 3.5mm to Dual 1/4 Inch Cable
