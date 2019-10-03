@@ -1,16 +1,13 @@
 # Jer's To-Do List
 
-- Plan meal for this weekend
-- Order Turkeys for thanksgiving (2.5kg & ??? kg)
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
-- Call grumpys 514-866-9010‬
 - Plans with Andrew K
-- Plans with Lorraine & Tim
 - Call Karina (514-578-3796) to schedule cleaning person
 - Last thank you cards
 - Pick up gift cert at Scandinave
-- Pick up EQ @Audio Technique (514-597-0707)
+- Unsubscribe from America's Test Kitchen
+- Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - Dentist surgeon follow up
