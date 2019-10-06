@@ -2,7 +2,7 @@
 
 - Send Chris & Lori a card:
   > Dear Miller Nesbits, We just wanted to say thank you one more time for a beautiful week in Fredericton, and a super-fun night out at Harvest. After all, nothing expresses gratitude like a 12” non-stick frying pan (it’s nothing fancy, but it’s the one we have and it does a good job!). All our love, Kate, Jeremy and Wally
-- Make a save the date card for the thing (Sunday December 01)
+- Make a save the date card or print version for the thing (Sunday December 01)
 - Get a babysitter for Sunday December 01 @2pm
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
