@@ -1,6 +1,9 @@
 # Wishlist
 
-- Freezer organizers
+43 cm wide
+50 cm tall
+39 cm deep
+
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
 - Pioneer Wallet
@@ -59,12 +62,10 @@
 
 ### Redco
 
-- 50' GRAY Low profile cable for short patches
+- 50' BLUE Mogami W2893 Low profile cable for short patches
 - 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 30' ORANGE Canare L-4E6S Quad mic cable (5' cables x6)
-- 60' BROWN Canare L-4E6S Quad mic cable (10' cables x6)
-- 90' BLUE Canare L-4E6S Quad mic cable (15' cables x6)
-- 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
+- 60' ORANGE Canare L-4E6S Quad mic cable (10' cables x6)
+- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
 
 ### Mouser
 
@@ -74,8 +75,8 @@
 - Neutrik NP3X x8 (patches)
 - Neutrik NC3MXX x4 (patches)
 - Neutrik NC3FXX x4 (patches)
-- Neutrik NC3MXX-BAG x16 (for regular xlr cables)
-- Neutrik NC3FXX-BAG x16 (for regular xlr cables)
+- Neutrik NC3MXX-BAG x12 (for regular xlr cables)
+- Neutrik NC3FXX-BAG x12 (for regular xlr cables)
 
 ### Mics
 
@@ -83,10 +84,8 @@
 - 2020 (OH)
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
-- Angled '57
-- Kick in & Kick out
+- Angled '57 
 - Electro-Voice RE20 (guit)
-- Electro Voice RE-15 (drummer vox)
 - Sennheiser e906 (guitar)
 
 ### DIs
@@ -124,18 +123,14 @@
 - OnStage TMO1 Multi Clamp Microphone Mount
 - cable gland joints for headphone repairs
 - SKB or whatever travel rack case
-- Mic travel case (small)
-- (used?) Audio Technica ATH-M50(x) headphones
+- Used Audio Technica ATH-M50(x) headphones
 - Furman plug lock
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape
 - Ampeg knob
 - Ampeg casters
-- reflex drum pad (really quiet)
 - better clutch
 - Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
-- [Matt's Amp tweed mesh](https://nextgenguitars.ca/categories/cab-case-parts/grill-cloth-piping.html)
-- Mic clips
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
@@ -145,4 +140,4 @@
 - Mic stand sandbags
 - Another SM58
 - 3.5mm to dual 1/4"
-- shure mic bags x3
+- shure mic bags & clips

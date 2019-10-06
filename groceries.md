@@ -9,15 +9,9 @@
 
 ## Provigo
 
+- OJ
 - ice cream sadwiches
-- soy sauce
-- sesame oil
-- peanut butter
-- malt vinager
-- Brown sugar
-- can chipotle peppers in adobo sauce
-- ziplock med & large
-- coffee filters
+- can chipotle peppers
 
 ## Recipies
 
