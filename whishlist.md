@@ -1,5 +1,6 @@
 # Wishlist
 
+- Freezer organizers
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
 - Pioneer Wallet
@@ -28,7 +29,6 @@
 - Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
 - Carpentry class
-- Come from away tickets
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 
 ## Cathy
@@ -123,7 +123,6 @@
 - 5/8-27 mounting plate
 - OnStage TMO1 Multi Clamp Microphone Mount
 - cable gland joints for headphone repairs
-- Laptop DJ stand
 - SKB or whatever travel rack case
 - Mic travel case (small)
 - (used?) Audio Technica ATH-M50(x) headphones
