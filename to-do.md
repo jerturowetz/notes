@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Print Jeremiess photo
+- Reprint anniversary photo (16x12)
 - Send Chris & Lori a card:
   > Dear Miller Nesbits, We just wanted to say thank you one more time for a beautiful week in Fredericton, and a super-fun night out at Harvest. After all, nothing expresses gratitude like a 12” non-stick frying pan (it’s nothing fancy, but it’s the one we have and it does a good job!). All our love, Kate, Jeremy and Wally
 - Make a save the date card or print version for the thing (Sunday December 01)
@@ -62,3 +64,18 @@
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
+
+## Piracy
+
+art of self defence
+ad astra
+burial of kojo
+plus one
+last blaxk man in san fran
+the mountain
+birds of passage
+shadow
+ash is purest white
+parasite
+once upon a time in hollywood
+long days journey into night

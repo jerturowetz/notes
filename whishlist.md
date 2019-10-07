@@ -1,8 +1,7 @@
 # Wishlist
 
-43 cm wide
-50 cm tall
-39 cm deep
+- snake
+
 
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
@@ -18,7 +17,7 @@
     - 7" tall x 16" deep x less than 16 wide (on floor)
     - 5" tall x 15" deep x 9" wide (2, top shelf)
   - Anti bathroom closet:
-    - ??
+    - 17" wide x 15" deep x 20" tall
 - $200 Agg, Andrew, Joe gifts
 - Frame for comissioned anniversary photo
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
@@ -87,6 +86,7 @@
 - Angled '57 
 - Electro-Voice RE20 (guit)
 - Sennheiser e906 (guitar)
+- AKG D112
 
 ### DIs
 
