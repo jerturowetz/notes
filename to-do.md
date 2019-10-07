@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Sell old winter boots
 - Print Jeremiess photo
 - Reprint anniversary photo (16x12)
 - Send Chris & Lori a card:
