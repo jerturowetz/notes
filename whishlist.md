@@ -1,6 +1,7 @@
 # Wishlist
 
-- snake
+- 12 send, 4 ret XLR snake
+- 4 send xlr snake
 
 
 - Fake beard
