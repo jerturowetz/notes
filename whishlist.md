@@ -6,7 +6,7 @@
 - gift for vero & falco
 - kobo libra h2o
 - Winter boots
-- Water bottle
+- MiiR or Soma water bottle
 - Sea to Summit Event Compression Dry Sack, Medium
 - Gear to patch hole behind stove
 - Containers:
