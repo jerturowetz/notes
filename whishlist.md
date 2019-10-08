@@ -20,7 +20,7 @@
   - Anti bathroom closet:
     - 17" wide x 15" deep x 20" tall
 - $200 Agg, Andrew, Joe gifts
-- Frame for comissioned anniversary photo
+- RAMSBORG 16x20" frame 12 16 (comissioned anniversary photo)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
 
@@ -84,7 +84,7 @@
 - 2020 (OH)
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
-- Angled '57 
+- Angled '57
 - Electro-Voice RE20 (guit)
 - Sennheiser e906 (guitar)
 - AKG D112
