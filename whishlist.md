@@ -1,9 +1,5 @@
 # Wishlist
 
-- 12 send, 4 ret XLR snake
-- 4 send xlr snake
-
-
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
 - Pioneer Wallet

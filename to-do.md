@@ -66,17 +66,17 @@
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
 
-## Piracy
+## Piracy (review)
 
-art of self defence
-ad astra
-burial of kojo
-plus one
-last blaxk man in san fran
-the mountain
-birds of passage
-shadow
-ash is purest white
-parasite
-once upon a time in hollywood
-long days journey into night
+- art of self defence
+- ad astra
+- burial of kojo
+- plus one
+- last blaxk man in san fran
+- the mountain
+- birds of passage
+- shadow
+- ash is purest white
+- parasite
+- once upon a time in hollywood
+- long days journey into night
