@@ -3,7 +3,7 @@
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
 - Pioneer Wallet
-- gift for vero & falco
+- gift for vero & falco (fun lamp)
 - kobo libra h2o
 - Winter boots
 - MiiR or Soma water bottle
@@ -19,6 +19,9 @@
 - RAMSBORG 16x20" frame 12 16 (comissioned anniversary photo)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
+
+jewish cookbook for joanna
+
 
 ## Kate
 

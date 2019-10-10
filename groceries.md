@@ -12,6 +12,7 @@
 - OJ
 - ice cream sadwiches
 - can chipotle peppers
+- Cream cheese
 
 ## Recipies
 
