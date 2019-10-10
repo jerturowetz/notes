@@ -16,12 +16,9 @@
   - Anti bathroom closet:
     - 17" wide x 15" deep x 20" tall
 - $200 Agg, Andrew, Joe gifts
-- RAMSBORG 16x20" frame 12 16 (comissioned anniversary photo)
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
-
-jewish cookbook for joanna
-
+- Jewish cookbook for joanna
 
 ## Kate
 
