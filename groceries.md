@@ -10,9 +10,9 @@
 ## Provigo
 
 - OJ
-- ice cream sadwiches
 - can chipotle peppers
-- Cream cheese
+- Bacon
+- Eggs
 
 ## Recipies
 

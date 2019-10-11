@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Call Karina (514-578-3796) to schedule cleaning person
 - Sell old winter boots
 - Send Chris & Lori a card:
   > Dear Miller Nesbits, We just wanted to say thank you one more time for a beautiful week in Fredericton, and a super-fun night out at Harvest. After all, nothing expresses gratitude like a 12” non-stick frying pan (it’s nothing fancy, but it’s the one we have and it does a good job!). All our love, Kate, Jeremy and Wally
@@ -7,15 +8,13 @@
 - Get a babysitter for Sunday December 01 @2pm
 - Videotron internet (100) & mobile (8) is like 120 (call in)
 - Get a family accountant (Yuri's contact or guttman)
-- Plans with Andrew K
-- Call Karina (514-578-3796) to schedule cleaning person
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Unsubscribe from America's Test Kitchen
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- Dentist surgeon follow up
+- Dr Kakon dentist 514-843-4895 (Dentist surgeon follow up)
 - GASM follow up
 - Dermatologist follow up (it aint advil)
 - **Cult stuff (see readme)**
