@@ -29,7 +29,7 @@ You'll need a good pair of poultry shears for this. There are a few guides, they
 - 2 sticks butter, cut into 1/4-inch slices
 - Kosher salt and freshly ground black pepper
 - 2 bay leaves
-- 1 1/2 quarts low-sodium chicken or turkey broth
+- 6cups low-sodium chicken or turkey broth
 - 4 tbsp flour
 
 ### Directions
