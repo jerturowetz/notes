@@ -10,10 +10,20 @@
 ## Provigo
 
 - OJ
+- n/a beer
+- bread 
 - can chipotle peppers
 - Bacon
-- Eggs
+- Paper towels
 - Tinfoil
+- yogurt
+- fruit
+- pizza ingredien ya
+- tomatoes
+- leafy green
+- lemon
+- bananas
+- night snacks
 
 ## Recipies
 

@@ -1,5 +1,7 @@
 # Jer's To-Do List
 
+- Publi sac atop delivering to us
+- Take the Monday off after kuujuuarapiik
 - Call Karina (514-578-3796) to schedule cleaning person
 - Sell old winter boots
 - Send Chris & Lori a card:
