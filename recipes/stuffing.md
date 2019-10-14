@@ -1,21 +1,22 @@
 # [Recipe : Simple Is Best Dressing](https://www.bonappetit.com/recipe/simple-is-best-dressing)
 
-Made this for 2019 thanksgiving dinner with Wade & Duncan, it was a hit. However it was way too much for 5 people so I've adjusted quantites below. Use the original quantites for large parties.
+Made this for 2019 thanksgiving dinner with Wade & Duncan. It was a hit, however it was way too much for 5 people. Reduce quantities if serving 5-6 people. If more, keep as is.
 
 ## Ingredients
 
 - 1 & 1/2 sticks unsalted butter and a bit extra for the baing dish
-- 1 Loaf sourdough, torn and dried overnight
-- 2 1/2 cups chopped yellow onions
-- 1 1/2 cups 1/4-inch slices celery
-- 1/2 cup chopped flat-leaf parsley
+- 2 loafs sourdough, torn and dried overnight
+- 2 1/2 cups chopped yellow onions (~1 super big)
+- 1 1/2 cups 1/4-inch slices celery (~ 4 stalks)
+- 1/2 cup chopped flat-leaf parsley (1/3 head)
 - 2 tablespoons chopped fresh sage
 - 1 tablespoon chopped fresh rosemary
 - 1 tablespoon chopped fresh thyme
+- 1 tablespoon chopped fresh savory
 - 2 teaspoons kosher salt
 - 1 teaspoon freshly ground black pepper
 - 2 1/2 cups low-sodium chicken broth, divided
-- 2 large eggs
+- 3 large eggs
 
 ## Directions
 
