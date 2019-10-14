@@ -7,7 +7,7 @@ I made way too much food and there was a lot of waste but I did learn a few thin
 - Make fewer things
 - Make simpler things
 
-## Menu
+## 2018 super menu
 
 This was the menu (for 14), not counting cheese, baguettes, olives & BBQ meatballs for when people arrived
 
@@ -27,7 +27,7 @@ This was the menu (for 14), not counting cheese, baguettes, olives & BBQ meatbal
 - Meat pies from TA
 - Dinner rolls
 
-### A better menu
+### A better 2018 menu
 
 This would still likely be a bit too much, but more under control.
 
@@ -40,3 +40,16 @@ This would still likely be a bit too much, but more under control.
 - Brussel sprouts
 - 1 tray roast veg
 - 2 dozen sausage rolls
+
+## 2019 Menu for Wade & Duncan
+
+This menu was really good, but we might have had one too many heavy veg dishes. We used a few carrots and 3 sweet potatoes, which were the weakest but most abundan item. I've adjusted the menu below to be perfect.
+
+- Turkey
+- ~Roast sweet potatoes & carrots~ 1/2 sheet Roast carrots & parsnips
+- Pan fried brussel sprouts
+- Stuffing
+- Smashed potatoes
+- Gravy
+- Cranberry Jam (from Cathy)
+- Fried mushrooms
