@@ -1,6 +1,8 @@
 # [Recipe : Simple Is Best Dressing](https://www.bonappetit.com/recipe/simple-is-best-dressing)
 
-## INGREDIENTS
+Made this for 2019 thanksgiving dinner with Wade & Duncan, it was a hit. However it was way too much for 5 people so I've adjusted quantites below. Use the original quantites for large parties.
+
+## Ingredients
 
 - 1 & 1/2 sticks unsalted butter and a bit extra for the baing dish
 - 1 Loaf sourdough, torn and dried overnight
@@ -15,10 +17,21 @@
 - 2 1/2 cups low-sodium chicken broth, divided
 - 2 large eggs
 
-## RECIPE PREPARATION
+## Directions
 
-Preheat oven to 250°. Butter a 13x9x2-inch baking ldish and set aside. Scatter bread in a single layer on a rimmed baking sheet. Bake, stirring occasionally, until dried out, about 1 hour. Let cool; transfer to a very large bowl.
+### Pre prep
 
-Meanwhile, melt 3/4 cup butter in a large skillet over medium-high heat; add onions and celery. Stir often until just beginning to brown, about 10 minutes. Add to bowl with bread; stir in herbs, salt, and pepper. Drizzle in 1 1/4 cups broth and toss gently. Let cool.
+- Dry bread overnight and finish in a 250°F oven for about 1 hour.
+- Let cool & transfer to a _very_ large bowl (a canning pot works too).
 
-Preheat oven to 350°. Whisk 1 1/4 cups broth and eggs in a small bowl. Add to bread mixture; fold gently until thoroughly combined. Transfer to prepared dish, cover with foil, and bake until an instant-read thermometer inserted into the center of dressing registers 160°, about 40 minutes.
+### Day of
+
+- Preheat oven to 350°
+- Butter a 13x9x2-inch baking dish and set aside
+- Melt butter in a large skillet over medium-high heat; add onions & celery. Stir often until beginning to brown (~ 10 mins).
+- Add butter & veg to bowl with bread. Stir, adding in herbs, salt, and pepper.
+- Drizzle in 1 1/4 cups broth and toss gently. Let cool.
+- Whisk 1 1/4 cups broth and eggs in a small bowl
+- Right before baking, gently fold eggs & broth mix with bread mixture until thoroughly combined.
+- Transfer to prepared dish, cover with foil, and bake until an instant-read thermometer inserted into the center of dressing registers 160° (~40 mins).
+- Remove tinfoil and finish uncovered for 5 mins
