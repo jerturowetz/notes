@@ -17,7 +17,7 @@
 
 ## RECIPE PREPARATION
 
-Preheat oven to 250°. Butter a 13x9x2-inch baking dish and set aside. Scatter bread in a single layer on a rimmed baking sheet. Bake, stirring occasionally, until dried out, about 1 hour. Let cool; transfer to a very large bowl.
+Preheat oven to 250°. Butter a 13x9x2-inch baking ldish and set aside. Scatter bread in a single layer on a rimmed baking sheet. Bake, stirring occasionally, until dried out, about 1 hour. Let cool; transfer to a very large bowl.
 
 Meanwhile, melt 3/4 cup butter in a large skillet over medium-high heat; add onions and celery. Stir often until just beginning to brown, about 10 minutes. Add to bowl with bread; stir in herbs, salt, and pepper. Drizzle in 1 1/4 cups broth and toss gently. Let cool.
 
