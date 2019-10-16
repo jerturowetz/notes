@@ -11,19 +11,13 @@
 
 - OJ
 - n/a beer
-- bread 
 - can chipotle peppers
-- Bacon
 - Paper towels
-- Tinfoil
-- yogurt
-- fruit
-- pizza ingredien ya
-- tomatoes
+- milk
+- pizza ingredients
+- butter
 - leafy green
-- lemon
-- bananas
-- night snacks
+- fruit
 
 ## Recipies
 
