@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- BMO logib
 - Publi sac atop delivering to us
 - Take the Monday off after kuujuuarapiik
 - Call Karina (514-578-3796) to schedule cleaning person

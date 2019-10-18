@@ -1,5 +1,6 @@
 # Wishlist
 
+- fridge magnets
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
 - Pioneer Wallet
