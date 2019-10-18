@@ -12,12 +12,13 @@
 - OJ
 - n/a beer
 - can chipotle peppers
-- Paper towels
 - milk
 - pizza ingredients
 - butter
-- leafy green
+- eggs
+- kraft cheese
 - fruit
+- multigrain bread
 
 ## Recipies
 
