@@ -38,25 +38,6 @@
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 - Bootlegger, L'Authentique Thursday hip hop jam
 
-## Thanksgiving prep
-
-### Chopped veg
-
-- 2 onions peeled & halved
-- 4 onions, roughly chopped
-- 4 stalks celery, roughly chopped
-- 3 large carrots, roughly chopped
-
-### Butter mixture
-
-- 48 sprigs thyme
-- 16 medium cloves garlic
-- 1 cup roughly chopped chives
-- 1 cup fresh parsley leaves
-- 1 cup fresh sage leaves
-- 4 medium shallot
-- 2 big blocks butter
-
 ## Shrink
 
 - Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
@@ -86,15 +67,11 @@
 
 ## Piracy (review)
 
-- art of self defence
 - ad astra
 - burial of kojo
-- plus one
-- last blaxk man in san fran
 - the mountain
 - birds of passage
 - shadow
 - ash is purest white
-- parasite
 - once upon a time in hollywood
 - long days journey into night
