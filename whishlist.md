@@ -1,11 +1,9 @@
 # Wishlist
 
 - Food processor or blender
-- wire rack          
 - fridge magnets
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most
-- Pioneer Wallet
 - gift for vero & falco (fun lamp)
 - kobo libra h2o
 - Winter boots

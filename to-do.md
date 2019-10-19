@@ -63,12 +63,14 @@
 
 ## Piracy (review)
 
-- ad astra
-- burial of kojo
 - the mountain
+- ad astra
 - birds of passage
 - shadow
-- ash is purest white
+- parasite
+- burial of kojo
 - once upon a time in hollywood
-- long days journey into night
-- woman at war
+- ash is purest white
+- the mandalorian
+- movie about not telling the grandam shes dying
+- still life
