@@ -1,7 +1,6 @@
 # Jer's To-Do List
 
 - Take the Monday off after kuujuuarapiik
-- Call Karina (514-578-3796) to schedule cleaning person
 - Sell old winter boots
 - Make a save the date card or print version for the thing (Sunday December 01)
 - Get a babysitter for Sunday December 01 @2pm
@@ -72,3 +71,4 @@
 - ash is purest white
 - once upon a time in hollywood
 - long days journey into night
+- woman at war

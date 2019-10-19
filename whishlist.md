@@ -1,5 +1,7 @@
 # Wishlist
 
+- Food processor or blender
+- wire rack          
 - fridge magnets
 - Fake beard
 - Clear Lens Eye Glasses, one size fits most

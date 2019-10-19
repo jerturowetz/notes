@@ -10,15 +10,8 @@
 ## Provigo
 
 - OJ
-- n/a beer
 - can chipotle peppers
-- milk
 - pizza ingredients
-- butter
-- eggs
-- kraft cheese
-- fruit
-- multigrain bread
 
 ## Recipies
 
