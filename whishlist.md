@@ -1,5 +1,7 @@
 # Wishlist
 
+- sharpies
+- wooden kite spool
 - Food processor or blender
 - fridge magnets
 - Fake beard
@@ -25,9 +27,10 @@
 
 - Book: we cast a shadow
 - Aveda products
+- roots gift cert
 - Deering goodtime banjo
-- Danny coiffure t shirt
 - Santiago Ramon Y Cajal Art
+- dry sac of sorts for pool
 - Carpentry class
 - [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 

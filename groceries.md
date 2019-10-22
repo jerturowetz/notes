@@ -1,5 +1,7 @@
 # Groceries
 
+2660
+
 ## Chinese grocery
 
 - noodles (frozen ?)
@@ -12,6 +14,9 @@
 - OJ
 - can chipotle peppers
 - pizza ingredients
+- Light bulbs
+- lemon
+- bananas
 
 ## Recipies
 
