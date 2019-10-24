@@ -32,6 +32,21 @@
 
 ## Kuujjuarapik important information
 
+### Gear
+
+- Buy:
+  - Good drummer monitor headphones
+  - Audio technical monitor headphones
+- Stuff I have:
+  - Headphones splitter box
+  - ext chords
+  - Headphone extensions
+  - SM58
+  - Headphones
+  - In ears
+  - Adaptors
+  - Headphone extensions
+
 ### Phone numbers
 
 - Bailey (514-808-9083)
@@ -75,5 +90,9 @@
 - once upon a time in hollywood
 - ash is purest white
 - the mandalorian
-- movie about not telling the grandam shes dying
 - still life
+- burning
+- shoplifters
+- The Farewell
+- The Souvenir
+- Diane
