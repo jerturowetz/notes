@@ -1,7 +1,7 @@
 # Jer's To-Do List
 
 - Sell old winter boots
-- Videotron internet (100) & mobile (8) is like 120 (call in)
+- cancel bell
 - Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
 - Pick up gift cert at Scandinave
@@ -96,3 +96,4 @@
 - The Farewell
 - The Souvenir
 - Diane
+- Queen and slim

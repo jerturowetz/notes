@@ -1,11 +1,11 @@
 # Wishlist
 
+birkensocks waterproof sandals
+
+- hair stuff at work
 - sharpies
-- wooden kite spool
 - Food processor or blender
 - fridge magnets
-- Fake beard
-- Clear Lens Eye Glasses, one size fits most
 - gift for vero & falco (fun lamp)
 - kobo libra h2o
 - Winter boots
@@ -64,8 +64,9 @@
 
 - 50' BLUE Mogami W2893 Low profile cable for short patches
 - 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 60' ORANGE Canare L-4E6S Quad mic cable (10' cables x6)
+- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
 - 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
+
 
 ### Mouser
 

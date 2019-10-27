@@ -1,7 +1,5 @@
 # Groceries
 
-2660
-
 ## Chinese grocery
 
 - noodles (frozen ?)
@@ -16,7 +14,21 @@
 - pizza ingredients
 - Light bulbs
 - lemon
-- bananas
+- regular & extra virgin olive oil
+- tomatoes
+- greens
+- skin on chicken thighs
+- minced meat
+- dish soap
+- fish
+- laundry soap
+- bleach
+- coffee
+
+pepperoni
+cotton pads
+
+
 
 ## Recipies
 
