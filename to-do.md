@@ -36,7 +36,7 @@
 
 - Buy:
   - Good drummer monitor headphones
-  - Audio technical monitor headphones
+  - Audio technica monitor headphones
 - Stuff I have:
   - Headphones splitter box
   - ext chords
@@ -84,8 +84,6 @@
 - the mountain
 - ad astra
 - birds of passage
-- shadow
-- parasite
 - burial of kojo
 - once upon a time in hollywood
 - ash is purest white
