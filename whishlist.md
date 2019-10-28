@@ -1,7 +1,8 @@
 # Wishlist
 
-birkensocks waterproof sandals
-
+- Audio technica ath-m50x
+- Direct Sound Isolation Headphones
+- birkensocks waterproof sandals
 - hair stuff at work
 - sharpies
 - Food processor or blender
