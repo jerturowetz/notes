@@ -1,7 +1,7 @@
 # Wishlist
 
-birkensocks waterproof sandals
-
+- birkensocks waterproof sandals
+- waterproof gloves
 - hair stuff at work
 - sharpies
 - Food processor or blender

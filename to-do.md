@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- mini souris on kijiji baby snowsuit
 - Sell old winter boots
 - cancel bell
 - Get a family accountant (Yuri's contact or guttman)

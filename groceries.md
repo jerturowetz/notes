@@ -11,10 +11,8 @@
 
 - OJ
 - can chipotle peppers
-- pizza ingredients
 - Light bulbs
-- lemon
-- regular & extra virgin olive oil
+- regular olive oil
 - tomatoes
 - greens
 - skin on chicken thighs
@@ -23,12 +21,6 @@
 - fish
 - laundry soap
 - bleach
-- coffee
-
-pepperoni
-cotton pads
-
-
 
 ## Recipies
 
