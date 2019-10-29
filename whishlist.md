@@ -2,7 +2,6 @@
 
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
-
 - waterproof gloves
 - birkensocks waterproof sandals
 - sharpies
@@ -23,6 +22,19 @@
 - Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
 - Frame for Gary's print (11" x 14")
 - Jewish cookbook for joanna
+
+## Gym bag
+
+- shorts
+- tshirt
+- gym towel
+- spare socks
+- spare boxers
+- flip flops
+- regular towel
+- soap
+- lock
+- Anti persperant
 
 ## Kate
 
