@@ -1,14 +1,12 @@
 # Wishlist
 
-- birkensocks waterproof sandals
-- waterproof gloves
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
+
+- waterproof gloves
 - birkensocks waterproof sandals
-- hair stuff at work
 - sharpies
 - Food processor or blender
-- fridge magnets
 - gift for vero & falco (fun lamp)
 - kobo libra h2o
 - Winter boots
@@ -69,7 +67,6 @@
 - 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
 - 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
 - 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
-
 
 ### Mouser
 
