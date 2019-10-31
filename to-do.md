@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- fix boots
 - mini souris on kijiji baby snowsuit
 - Sell old winter boots
 - cancel bell

@@ -38,6 +38,7 @@
 
 ## Kate
 
+- Pedicure @ Primrose
 - Book: we cast a shadow
 - Aveda products
 - roots gift cert
