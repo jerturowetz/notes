@@ -3,28 +3,20 @@
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
 - waterproof gloves
-- birkensocks waterproof sandals
-- sharpies
-- Food processor or blender
-- gift for vero & falco (fun lamp)
-- kobo libra h2o
 - Winter boots
 - MiiR or Soma water bottle
+- gift for vero & falco (fun lamp)
 - Sea to Summit Event Compression Dry Sack, Medium
 - Gear to patch hole behind stove
-- Containers:
-  - Under cabinets:
-    - 7" tall x 16" deep x less than 16 wide (on floor)
-    - 5" tall x 15" deep x 9" wide (2, top shelf)
-  - Anti bathroom closet:
-    - 17" wide x 15" deep x 20" tall
+- Containers Under cabinets:
+  - 7" tall x 16" deep x less than 16 wide (on floor)
+  - 5" tall x 15" deep x 9" wide (2, top shelf)
 - $200 Agg, Andrew, Joe gifts
-- Frame for _Nicks_ print (original frame size: 16"x20", original mat opening: 12"x13.5")
-- Frame for Gary's print (11" x 14")
 - Jewish cookbook for joanna
 
 ## Gym bag
 
+- Actual bag
 - shorts
 - tshirt
 - gym towel
@@ -38,6 +30,7 @@
 
 ## Kate
 
+- birkensocks waterproof sandals
 - Pedicure @ Primrose
 - Book: we cast a shadow
 - Aveda products

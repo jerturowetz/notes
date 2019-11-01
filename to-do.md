@@ -1,8 +1,8 @@
 # Jer's To-Do List
 
 - fix boots
-- mini souris on kijiji baby snowsuit
 - Sell old winter boots
+- mini souris on kijiji baby snowsuit
 - cancel bell
 - Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
@@ -14,16 +14,6 @@
 - Dr Kakon dentist 514-843-4895 (Dentist surgeon follow up)
 - GASM follow up
 - Dermatologist follow up (it aint advil)
-- **parresia.ca**
-  - basic framework
-  - deploy setup
-- **Cult stuff (see readme)**
-- **Camplift**
-  - Review French content for inconsistencies
-  - Review nav contact button
-  - Get new image from Jo
-  - Setup basic HP
-- Listen to Steve's GDrive recording
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
 - Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
@@ -51,8 +41,13 @@
 
 ### Phone numbers
 
-- Bailey (514-808-9083)
-- Christian ()
+- Bailey Watson
+  Bwatson@fusionjeunesse.org
+  514-808-9083
+- Christian Brun del Re
+  chrisbrundelre@hotmail.com
+- Matthew Schleck
+  mschleck@fusionjeunesse.org
 
 ## Shrink
 
