@@ -9,35 +9,32 @@
 
 ## Provigo
 
-- OJ
-- can chipotle peppers
-- Light bulbs
-- regular olive oil
 - tomatoes
 - greens
+- carrots
+- lemons
+- fruits
+- cheddar cheese
+- multigrain bread
+- bagels
 - skin on chicken thighs
 - minced meat
-- dish soap
 - fish
+- OJ
+- milk
+- Butter
+- yogurt
+- eggs
+- can chipotle peppers
+- kd
+- dijon
+- regular olive oil
+- coffee
+- dish soap
 - laundry soap
 - bleach
-
-milk
-fruit
-yogurt
-multigrain bread
-cheddar cheese
-eggs
-dijon
-leaf grees
-carrots
-tomatoes
-lemons
-ice cream sandwiches
-coffee
-kd
-bagels
-pancake mix
+- Light bulbs
+- ice cream sandwiches
 
 ## Recipies
 
