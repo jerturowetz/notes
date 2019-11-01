@@ -22,6 +22,23 @@
 - laundry soap
 - bleach
 
+milk
+fruit
+yogurt
+multigrain bread
+cheddar cheese
+eggs
+dijon
+leaf grees
+carrots
+tomatoes
+lemons
+ice cream sandwiches
+coffee
+kd
+bagels
+pancake mix
+
 ## Recipies
 
 - sheet pan pork tenderloin
