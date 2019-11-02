@@ -12,22 +12,23 @@
 - tomatoes
 - greens
 - carrots
+- mushrooms
 - lemons
 - Garlic
-- fruits
 - cheddar cheese
 - multigrain bread
-- bagels
+- bagels or whatever
 - skin on chicken thighs
 - burgers/minced meat
-- spicy saudagaes
+- spicy sausages
 - fish
 - OJ
 - Butter
 - yogurt
+- Pesto
 - eggs
 - can chipotle peppers
-- kd
+- kd x2
 - dijon
 - Popcorn
 - regular olive oil
@@ -38,6 +39,8 @@
 - draino
 - Light bulbs
 - ice cream sandwiches
+- toilet paper
+- paper towel
 
 ## Recipies
 
