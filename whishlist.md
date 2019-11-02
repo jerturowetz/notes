@@ -1,35 +1,36 @@
 # Wishlist
 
-- Buy
-  - Good drummer monitor headphones
-  - Audio technica monitor headphones
+- Container store:
+  - 1 Linus Large Divided Freezer Bin Clear 10076999
+  - 2 Linus Small Divided Freezer Bin Clear 10076997
+  - 1 Linus Large Deep Drawer Bins Clear 10071135
+  - 1 Tosca Basket w/ Wooden Handles Black/Natural 10077297
 
+--
 
-  stuff to repair headphone xt
+- [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
+- Waterproof leather work gloves
+- Ski gloves
 
-
-2 medium mec stuff sacks
-hesdpjone wrap
-besta power bar
-besta gear storahe
-besta charging station
-freezer organizers
-ice cube trays
-
-- dubarry rain jacket
+- stuff to repair headphone xt (see below)
+- Xmas presents (see bleow)
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
-- waterproof gloves
+- GK UltraPhones
+- Sea to Summit Event Compression Dry Sack, Medium x2
+- Various mec stuff sacs for baby stuff
+- Gear to patch hole behind stove
 - Winter boots
+- Winter Jacket
+- ice cube trays
 - MiiR or Soma water bottle
 - gift for vero & falco (fun lamp)
-- Sea to Summit Event Compression Dry Sack, Medium
-- Gear to patch hole behind stove
-- Containers Under cabinets:
-  - 7" tall x 16" deep x less than 16 wide (on floor)
-  - 5" tall x 15" deep x 9" wide (2, top shelf)
+- Besta power bar
+- Besta gear elastic tray
+- Besta charging station
 - $200 Agg, Andrew, Joe gifts
 - Jewish cookbook for joanna
+- dubarry rain jacket
 
 ## Gym bag
 
@@ -48,11 +49,11 @@ ice cube trays
 ## Kate
 
 - birkensocks waterproof sandals
-- Pedicure @ Primrose
-- Book: we cast a shadow
 - Aveda products
 - roots gift cert
 - Deering goodtime banjo
+- Pedicure @ Primrose
+- Book: we cast a shadow
 - Santiago Ramon Y Cajal Art
 - dry sac of sorts for pool
 - Carpentry class
