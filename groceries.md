@@ -13,26 +13,29 @@
 - greens
 - carrots
 - lemons
+- Garlic
 - fruits
 - cheddar cheese
 - multigrain bread
 - bagels
 - skin on chicken thighs
-- minced meat
+- burgers/minced meat
+- spicy saudagaes
 - fish
 - OJ
-- milk
 - Butter
 - yogurt
 - eggs
 - can chipotle peppers
 - kd
 - dijon
+- Popcorn
 - regular olive oil
 - coffee
 - dish soap
 - laundry soap
 - bleach
+- draino
 - Light bulbs
 - ice cream sandwiches
 
