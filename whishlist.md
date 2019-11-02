@@ -1,9 +1,17 @@
 # Wishlist
 
+- Buy
+  - Good drummer monitor headphones
+  - Audio technica monitor headphones
+
+
+  stuff to repair headphone xt
+
+
 2 medium mec stuff sacks
 hesdpjone wrap
 besta power bar
-besta gear storahe 
+besta gear storahe
 besta charging station
 freezer organizers
 ice cube trays

@@ -1,7 +1,5 @@
 # Jer's To-Do List
 
-- fix boots
-- Sell old winter boots
 - mini souris on kijiji baby snowsuit
 - cancel bell
 - Get a family accountant (Yuri's contact or guttman)
@@ -16,30 +14,22 @@
 - Dermatologist follow up (it aint advil)
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
 - Warn shakti of email changes & shut down rackspace
-- Kosta: [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
+- [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
-- Send Christian gear list for Kuujjuarapik
-- Organize cab sharing with Christian & Bailey
 
 ## Kuujjuarapik important information
 
 ### Gear
 
-- Buy:
-  - Good drummer monitor headphones
-  - Audio technica monitor headphones
-- Stuff I have:
-  - Headphones splitter box
-  - ext chords
-  - Headphone extensions
-  - SM58
-  - Headphones
-  - In ears
-  - Adaptors
-  - Headphone extensions
+- Headphones & in ears
+- Headphones splitter box
+- Headphone extensions
+- ext chords
+- SM58
+- Adaptors
 
-### Phone numbers
+### Contact info
 
 - Bailey Watson
   Bwatson@fusionjeunesse.org
@@ -75,20 +65,3 @@
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
-
-## Piracy (review)
-
-- the mountain
-- ad astra
-- birds of passage
-- burial of kojo
-- once upon a time in hollywood
-- ash is purest white
-- the mandalorian
-- still life
-- burning
-- shoplifters
-- The Farewell
-- The Souvenir
-- Diane
-- Queen and slim
