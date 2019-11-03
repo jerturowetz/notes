@@ -1,17 +1,9 @@
 # Wishlist
 
-- Container store:
-  - 1 Linus Large Divided Freezer Bin Clear 10076999
-  - 2 Linus Small Divided Freezer Bin Clear 10076997
-  - 1 Linus Large Deep Drawer Bins Clear 10071135
-  - 1 Tosca Basket w/ Wooden Handles Black/Natural 10077297
-
---
-
 - [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
 - Waterproof leather work gloves
 - Ski gloves
-
+- nail scossors
 - stuff to repair headphone xt (see below)
 - Xmas presents (see bleow)
 - Audio technica ath-m50x
