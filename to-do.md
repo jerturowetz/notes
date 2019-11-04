@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- Rent car for Freddy (dec 23-dec 28) maybe a day earlier so we can leave early on the 23rd
 - mini souris on kijiji baby snowsuit
 - cancel bell
 - Get a family accountant (Yuri's contact or guttman)
