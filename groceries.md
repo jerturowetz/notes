@@ -9,26 +9,8 @@
 
 ## Provigo
 
-- greens
-- mushrooms
-- Garlic
-- burgers/minced meat
-- spicy sausages
-- fish
-- OJ
-- yogurt
-- can chipotle peppers
-- kd x2
-- Popcorn
-- coffee
-- dish soap
-- laundry soap
-- bleach
-- draino
-- Light bulbs
-- ice cream sandwiches
-- toilet paper
-- paper towel
+- frozen spinach
+- can chipotle peppersp
 - glass pepper mill
 
 ## Recipies
