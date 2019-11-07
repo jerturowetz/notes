@@ -1,5 +1,22 @@
 # Wishlist
 
+
+coats
+morth face
+fjallraven
+
+arcteryx
+
+pajar/kanuk
+
+everlane
+https://www.everlane.com/collections/mens-outerwear
+
+the bay
+
+
+
+
 - [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
 - Waterproof leather work gloves
 - Ski gloves
@@ -40,6 +57,7 @@
 
 ## Kate
 
+- simons gloves
 - birkensocks waterproof sandals
 - Aveda products
 - roots gift cert
