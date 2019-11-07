@@ -1,5 +1,6 @@
 # Wishlist
 
+- mini souris baby snowsuit (Kijiji)
 - [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
 - Waterproof leather work gloves
 - Ski gloves
