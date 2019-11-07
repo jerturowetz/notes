@@ -1,6 +1,7 @@
 # Jer's To-Do List
 
 - videotron account number: 7705-2006-0011
+- Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Get a family accountant (Yuri's contact or guttman)

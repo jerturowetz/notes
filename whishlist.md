@@ -1,5 +1,15 @@
 # Wishlist
 
+- Winter Jacket:
+  - Sports Expert:
+    - North Face
+    - Columbia
+    - kanuk
+  - Fjallraven
+  - Arcteryx
+  - Pajar
+  - [Everlane](https://www.everlane.com/collections/mens-outerwear)
+  - The bay
 - mini souris baby snowsuit (Kijiji)
 - [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
 - Waterproof leather work gloves
@@ -14,7 +24,6 @@
 - Various mec stuff sacs for baby stuff
 - Gear to patch hole behind stove
 - Winter boots
-- Winter Jacket
 - ice cube trays
 - MiiR or Soma water bottle
 - gift for vero & falco (fun lamp)
@@ -41,6 +50,7 @@
 
 ## Kate
 
+- simons gloves
 - birkensocks waterproof sandals
 - Aveda products
 - roots gift cert
