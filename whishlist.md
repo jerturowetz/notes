@@ -1,30 +1,16 @@
 # Wishlist
 
-
-coats
-morth face
-fjallraven
-
-arcteryx
-
-pajar/kanuk
-
-everlane
-https://www.everlane.com/collections/mens-outerwear
-
-the bay
-
-
-
-0513-000-99-438
-
-22-29 noon 
-
-$515
-
-
-
-
+- Winter Jacket:
+  - Sports Expert:
+    - North Face
+    - Columbia
+    - kanuk
+  - Fjallraven
+  - Arcteryx
+  - Pajar
+  - [Everlane](https://www.everlane.com/collections/mens-outerwear)
+  - The bay
+- mini souris baby snowsuit (Kijiji)
 - [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
 - Waterproof leather work gloves
 - Ski gloves
@@ -38,7 +24,6 @@ $515
 - Various mec stuff sacs for baby stuff
 - Gear to patch hole behind stove
 - Winter boots
-- Winter Jacket
 - ice cube trays
 - MiiR or Soma water bottle
 - gift for vero & falco (fun lamp)

@@ -1,12 +1,10 @@
 # Jer's To-Do List
 
-- cancel audible (get last book)
-- Rent car for Freddy (dec 23-dec 28) maybe a day earlier so we can leave early on the 23rd
-- mini souris on kijiji baby snowsuit
-- cancel bell
+- videotron account number: 7705-2006-0011
 - Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
 - Pick up gift cert at Scandinave
+- Get a family accountant (Yuri's contact or guttman)
 - Unsubscribe from America's Test Kitchen (after DEC)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
