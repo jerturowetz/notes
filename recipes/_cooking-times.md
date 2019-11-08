@@ -1,5 +1,8 @@
 # General ref for cooking times
 
+pulled pork keep at 250 and cook all day (like 8 hours)
+
+
 ## Chicken skewers
 
 med/high heat cast iron
