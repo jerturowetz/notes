@@ -1,7 +1,5 @@
 # Jer's To-Do List
 
-- videotron account number: 7705-2006-0011
-- Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Get a family accountant (Yuri's contact or guttman)
@@ -9,7 +7,6 @@
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
-- Dr Kakon dentist 514-843-4895 (Dentist surgeon follow up)
 - GASM follow up
 - Dermatologist follow up (it aint advil)
 - Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
