@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+add hs user id to amplitude event (and what other data?)
+
+13"x16(or17" marlow concept art
+grey house 9x7 (has a bit of matt bleed so a bigger frame 
+sj poster 11x16.75
+rocket ship poster 11x17
+
 - videotron account number: 7705-2006-0011
 - Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
