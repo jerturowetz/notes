@@ -1,5 +1,6 @@
 # Wishlist
 
+- Hair stuff & toothpase for office
 - Winter Jacket:
   - Sports Expert:
     - North Face
