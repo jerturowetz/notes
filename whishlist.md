@@ -1,13 +1,13 @@
 # Wishlist
 
 - Hair stuff & toothpase for office
+
 - Winter Jacket:
   - Sports Expert:
     - North Face
     - Columbia
     - kanuk
   - Fjallraven
-  - Arcteryx
   - Pajar
   - [Everlane](https://www.everlane.com/collections/mens-outerwear)
   - The bay
@@ -17,17 +17,12 @@
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
 - mini souris baby snowsuit (Kijiji)
-- [Seaskin water proof glove](https://www.sealskinz.ca/gloves/outdoor-gloves-black.htm)
-- Waterproof leather work gloves
-- Ski gloves
-- nail scossors
 - stuff to repair headphone xt (see below)
 - Xmas presents (see bleow)
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
 - GK UltraPhones
 - Sea to Summit Event Compression Dry Sack, Medium x2
-- Various mec stuff sacs for baby stuff
 - Gear to patch hole behind stove
 - Winter boots
 - ice cube trays
@@ -38,7 +33,6 @@
 - Besta charging station
 - $200 Agg, Andrew, Joe gifts
 - Jewish cookbook for joanna
-- dubarry rain jacket
 
 ## Gym bag
 
