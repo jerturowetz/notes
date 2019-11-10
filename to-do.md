@@ -1,5 +1,9 @@
 # Jer's To-Do List
 
+
+https://www.cloudflare.com/en-ca/plans/#Workers
+
+
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Get a family accountant (Yuri's contact or guttman)
