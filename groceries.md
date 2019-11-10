@@ -9,17 +9,18 @@
 
 ## Provigo
 
+- Skinless boneless chicken
+- Side for butter chicken (bread)
+- Greens for butter chicken (broccoli)
+
+- Fruits
 - Yogurt
-- butter chicken stuff
-- green leaf
-- tomato
-- NA beer
-- Bananas
 - Multigrain bread
 - bagels/eng muffins/rolls
+- NA beer
+
 - Coffee
 - OJ
-- Fruits
 - stuff for smoothies
 - Spicy marinated eggplant
 - pickled beets
