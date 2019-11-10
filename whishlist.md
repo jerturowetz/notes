@@ -1,7 +1,7 @@
 # Wishlist
 
 - Hair stuff & toothpase for office
-
+- olang boots
 - Winter Jacket:
   - Sports Expert:
     - North Face

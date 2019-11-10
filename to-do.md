@@ -62,3 +62,11 @@
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
+
+## Piracy
+
+- ready or not
+- ad astra
+- Dr Sleep
+- Queen & Slim
+- The Rythm secion

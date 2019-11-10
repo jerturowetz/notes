@@ -11,9 +11,13 @@
 
 - Milk
 - Multigrain bread
+- bagels/eng muffins/rolls
 - Coffee
 - OJ
-- frozen spinach
+- Fruits
+- stuff for smoothies
+- Spicy marinated eggplant
+- pickled beets
 - can chipotle peppersp
 - glass pepper mill
 
