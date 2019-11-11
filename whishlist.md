@@ -1,16 +1,12 @@
 # Wishlist
 
 - Hair stuff & toothpase for office
-- olang boots
 - Winter Jacket:
-  - Sports Expert:
-    - North Face
-    - Columbia
-    - kanuk
+  - North Face
+  - kanuk
   - Fjallraven
   - Pajar
   - [Everlane](https://www.everlane.com/collections/mens-outerwear)
-  - The bay
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
@@ -25,7 +21,6 @@
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - Winter boots
-- ice cube trays
 - MiiR or Soma water bottle
 - gift for vero & falco (fun lamp)
 - Besta power bar
