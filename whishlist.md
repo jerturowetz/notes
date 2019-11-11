@@ -1,8 +1,7 @@
 # Wishlist
 
-
-Sperry Men’s Cold Bay Sport Ice
-
+- Winter boots:
+  - Sperry Men’s Cold Bay Sport Ice
 - Hair stuff & toothpase for office
 - Winter Jacket:
   - North Face
@@ -23,7 +22,6 @@ Sperry Men’s Cold Bay Sport Ice
 - GK UltraPhones
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
-- Winter boots
 - MiiR or Soma water bottle
 - gift for vero & falco (fun lamp)
 - Besta power bar
