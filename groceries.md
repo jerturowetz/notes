@@ -9,12 +9,18 @@
 
 ## Provigo
 
+- Garlic
+- 35% cooking cream
 - bagels/eng muffins/rolls
-- NA beer
-- OJ
 - pickled beets
 - can chipotle peppersp
 - glass pepper mill
+
+## Spice store
+
+- Garam Masala
+- cardamom pods
+- cloves
 
 ## Recipies
 
