@@ -2,6 +2,8 @@
 
 - Winter boots:
   - Sperry Men’s Cold Bay Sport Ice
+  - Merrell?
+  - ???
 - Hair stuff & toothpase for office
 - Winter Jacket:
   - North Face
