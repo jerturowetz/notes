@@ -7,6 +7,10 @@
 - Noodles Raw
 - duck, pork
 
+## Pharmacy
+
+- Advil
+
 ## Provigo
 
 - bananas
@@ -20,8 +24,8 @@
 ## Spice store
 
 - Garam Masala
-- cardamom pods
-- cloves
+- Cardamom pods
+- Cloves
 
 ## Recipies
 
