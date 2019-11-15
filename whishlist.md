@@ -1,25 +1,29 @@
 # Wishlist
 
-Converse winter boot
-
-
 - Winter boots:
-  - Sperry Men’s Cold Bay Sport Ice
+  - Sperry Men’s Cold Bay Sport Ice (rate my treads #1)
   - Merrell?
-  - ???
-- Hair stuff & toothpase for office
+  - Converse winter boot
+- Operator boots:
+  - Oboz bridger Insulated
+  - Northface Chilkat 300
+  - Vasque SNowburban Ultradry II
 - Winter Jacket:
   - North Face
   - kanuk
   - Fjallraven
   - Pajar
   - [Everlane](https://www.everlane.com/collections/mens-outerwear)
+
+--
+
+- Hair stuff & toothpase for office
+- mini souris baby snowsuit (Kijiji)
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
-- mini souris baby snowsuit (Kijiji)
 - stuff to repair headphone xt (see below)
 - Xmas presents (see bleow)
 - Audio technica ath-m50x
