@@ -55,6 +55,8 @@ only system and admin have permission to write to hosts by default - be sure to 
 - lame x64
 - Shopify theme kit
 - [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
+- Xenu Link Sleuth
+- Screaming Frog SEO spider
 
 ## jq
 
