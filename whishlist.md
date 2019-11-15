@@ -1,14 +1,12 @@
 # Wishlist
 
-- Winter boots:
-  - Sperry Men’s Cold Bay Sport Ice (rate my treads #1)
-  - Merrell?
-  - Converse winter boot
 - Operator boots:
-  - Oboz bridger Insulated
-  - Northface Chilkat 300
-  - Vasque SNowburban Ultradry II
-- Winter Jacket:
+  - Oboz bridger Insulated (it looks pretty dope) [mec]
+  - Vasque Snowburban Ultradry II
+  - Merrell watever []
+  - Sperry Men’s Cold Bay Sport Ice (rate my treads #1) [tony pappas]
+  - wind river [l'equipeur]
+- Winter Jacket: []
   - North Face
   - kanuk
   - Fjallraven
