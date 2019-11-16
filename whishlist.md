@@ -1,20 +1,27 @@
 # Wishlist
 
-- Operator boots:
-  - Oboz bridger Insulated (it looks pretty dope) [mec]
-  - Vasque Snowburban Ultradry II
-  - Merrell watever []
-  - Sperry Men’s Cold Bay Sport Ice (rate my treads #1) [tony pappas]
-  - wind river [l'equipeur]
-- Winter Jacket: []
-  - North Face
-  - kanuk
-  - Fjallraven
-  - Pajar
-  - [Everlane](https://www.everlane.com/collections/mens-outerwear)
+## Operator boots
 
---
+- Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
+- Bogs Bozeman Mid (outdoor magazine #1) [tony-pappas/mec]
+- Oboz bridger Insulated (it looks pretty dope) [mec]
+- Baffin snow monster [mec]
+- The North Face Chilkat III Winter Boots [mec]
+- Merrell Tremblant 6" polar wp ice
+- Merrell Chameleon Thermo 8 Waterproof Synthetic [mec]
+- Danner Arctic 600 [mec]
 
+## Winter Jacket
+
+- North Face (winner so far)
+- kanuk ??
+- Fjallraven
+- Arcteryx
+
+## Various/Inbox
+
+- Snap-on Front Lens Cap for Canon FD 50mm
+- Baby carseat mirror
 - Hair stuff & toothpase for office
 - mini souris baby snowsuit (Kijiji)
 - New frames:
@@ -36,6 +43,10 @@
 - Besta charging station
 - $200 Agg, Andrew, Joe gifts
 - Jewish cookbook for joanna
+- Red Wing Heritage Rover Boot
+- Kamik Icebreaker rain boot
+- Timberland boat shoe
+- Xtratuf boots/shoes
 
 ## Gym bag
 
@@ -50,6 +61,11 @@
 - soap
 - lock
 - Anti persperant
+
+## Games
+
+- Final fantasy XV windows edition
+- Octopath traveller !!!
 
 ## Kate
 
