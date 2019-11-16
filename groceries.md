@@ -13,13 +13,19 @@
 
 ## Provigo
 
-- bananas
-- eggs
+- Multigrain bread
+- Rolls/english muffins
+- Tomatoes
+- Spinach
+- Bananas
+- Eggs
+- Milk
 - pickled beets
 - can chipotle peppersp
 - glass pepper mill
-- Ice cream
+- Ice cream sandwiches
 - coke 0
+- N/A beer
 
 ## Spice store
 
