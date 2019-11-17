@@ -1,5 +1,16 @@
 # Wishlist
 
+Quartz
+kanuk
+Audvik
+mackage
+nobis
+
+
+new baby mirror
+waterproof winter bag
+warm winter coat
+
 - Operator boots:
   - Oboz bridger Insulated (it looks pretty dope) [mec]
   - Vasque Snowburban Ultradry II
