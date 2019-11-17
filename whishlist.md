@@ -1,30 +1,5 @@
 # Wishlist
 
-Quartz
-kanuk
-Audvik
-mackage
-nobis
-
-
-new baby mirror
-waterproof winter bag
-warm winter coat
-
-- Operator boots:
-  - Oboz bridger Insulated (it looks pretty dope) [mec]
-  - Vasque Snowburban Ultradry II
-  - Merrell watever []
-  - Sperry Men’s Cold Bay Sport Ice (rate my treads #1) [tony pappas]
-  - wind river [l'equipeur]
-- Winter Jacket: []
-  - North Face
-  - kanuk
-  - Fjallraven
-  - Pajar
-  - [Everlane](https://www.everlane.com/collections/mens-outerwear)
-
---
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
@@ -39,14 +14,23 @@ warm winter coat
 ## Winter Jacket
 
 - North Face (winner so far)
-- kanuk ??
 - Fjallraven
-- Arcteryx
+
+### Review
+
+- Pajar
+- Quartz
+- Audvik
+- mackage
+- nobis
+- kanuk
 
 ## Various/Inbox
 
+- waterproof winter bag
 - Snap-on Front Lens Cap for Canon FD 50mm
 - Baby carseat mirror
+- Container store order
 - Hair stuff & toothpase for office
 - mini souris baby snowsuit (Kijiji)
 - New frames:

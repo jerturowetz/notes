@@ -1,12 +1,5 @@
 # Groceries
 
-## Chinese grocery
-
-- noodles (frozen ?)
-- dumplings
-- Noodles Raw
-- duck, pork
-
 ## Pharmacy
 
 - Advil
@@ -22,6 +15,10 @@
 - Milk
 - pickled beets
 - can chipotle peppersp
+- Sticky rice
+- KD
+- Canned tomatoes
+- Can coconut milk
 - glass pepper mill
 - Ice cream sandwiches
 - coke 0
@@ -32,6 +29,13 @@
 - Garam Masala
 - Cardamom pods
 - Cloves
+
+## Chinese grocery
+
+- noodles (frozen ?)
+- dumplings
+- Noodles Raw
+- duck, pork
 
 ## Recipies
 
