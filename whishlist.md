@@ -103,6 +103,9 @@
   - Grief is the Thing with Feathers by Max Porter
   - Picture by Lillian Ross
   - Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
+  - Disappearing Earth by Julia Phillips
+  - All That You Leave Behind by Erin Lee Carr
+  - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
 
 ### Cathy
 
