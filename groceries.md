@@ -1,9 +1,5 @@
 # Groceries
 
-## Pharmacy
-
-- Advil
-
 ## Provigo
 
 - Multigrain bread
@@ -11,13 +7,13 @@
 - Tomatoes
 - Spinach
 - Bananas
+- Fruits
 - Eggs
-- Milk
 - pickled beets
 - can chipotle peppersp
 - Sticky rice
 - KD
-- Canned tomatoes
+- Canned, diced tomatoes
 - Can coconut milk
 - glass pepper mill
 - Ice cream sandwiches

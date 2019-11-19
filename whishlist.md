@@ -27,22 +27,21 @@
 
 ## Various/Inbox
 
-- waterproof winter bag
+- stuff to repair headphone xt (see below)
+- Xmas presents (see bleow)
+
 - Snap-on Front Lens Cap for Canon FD 50mm
 - Baby carseat mirror
 - Container store order
+
 - Hair stuff & toothpase for office
 - mini souris baby snowsuit (Kijiji)
-- New frames:
-  - 13" x 16-17" Marlowe concept art
-  - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
-  - 11" x 16.75" SJ Poster
-  - 11" x 17" Rocket ship poster
-- stuff to repair headphone xt (see below)
-- Xmas presents (see bleow)
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
 - GK UltraPhones
+
+--
+
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
@@ -52,10 +51,16 @@
 - Besta charging station
 - $200 Agg, Andrew, Joe gifts
 - Jewish cookbook for joanna
-- Red Wing Heritage Rover Boot
 - Kamik Icebreaker rain boot
-- Timberland boat shoe
 - Xtratuf boots/shoes
+- Timberland boat shoe
+- Waterproof winter bag
+- dry sac of sorts for pool
+- New frames:
+  - 13" x 16-17" Marlowe concept art
+  - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
+  - 11" x 16.75" SJ Poster
+  - 11" x 17" Rocket ship poster
 
 ## Gym bag
 
@@ -74,29 +79,48 @@
 ## Games
 
 - Final fantasy XV windows edition
-- Octopath traveller !!!
+- Octopath traveller!!!
 
-## Kate
+## Xmas
 
-- simons gloves
-- birkensocks waterproof sandals
-- Aveda products
-- roots gift cert
-- Deering goodtime banjo
-- Pedicure @ Primrose
-- Book: we cast a shadow
-- Santiago Ramon Y Cajal Art
-- dry sac of sorts for pool
-- Carpentry class
-- [Kate t shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
+### Kate
 
-## Cathy
+- Banjo lessons with Mara Eagle
+- $600 Deering goodtime banjo
+- ALternative bajo:
+  - Gretsch Root Series G9450 Dixie 5-String Banjo
+  - Epiphone MB-100
+  - Rogue Travel/Starter Banjo, open-back
+  - Deering Goodtime Banjo
+  - Goldtone CC-10R
+- [Stay home t-shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
+- [Birkensocks waterproof sandals](https://www.mec.ca/en/product/5062-332/Madrid-EVA-Sandals)
+- [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
+- [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
+- Books:
+  - Lanny by Max Porter
+  - The Grammarians by Cathleen Schine
+  - Grief is the Thing with Feathers by Max Porter
+  - Picture by Lillian Ross
+  - Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
 
-- Marley headphones
+### Cathy
+
+- [Marley headphones](https://www.amazon.com/House-Marley-Cancelling-Headphones-Microphone/dp/B00G3P9UMU?ref_=fsclp_pl_dp_2)
+- [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
 - Epicurian cutting board
 - Larger cutting board
 - Chefs knife
 - knife sharpening
+
+## Kate gifts
+
+- Roots gift cert
+- Pedicure @ Primrose
+- Santiago Ramon Y Cajal Art
+- Carpentry class gift cert
+- Banjo lessons with Mara Eagle
+- Avada Products
 
 ## Rehersal space
 

@@ -5,4 +5,4 @@
 - Converse white high tops: 9.5 _(a touch too small on the right foot - try a 10)_
 - Reebok red running shoes: 10.5 _(maybe a touch small, try an 11)_
 - Adidias casual sneakers: 10 _(might be perfect or a touch too big, maybe a 9.5 is better? might be playing with fire)_
-- Timberland winter boots: ??
+- Timberland winter boots: 9 - too small
