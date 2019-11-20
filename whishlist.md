@@ -108,6 +108,7 @@ d batteries
   - Disappearing Earth by Julia Phillips
   - All That You Leave Behind by Erin Lee Carr
   - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
+  - The Capital by Robert Menasse
 
 ### Cathy
 
