@@ -12,7 +12,7 @@
 - pickled beets
 - can chipotle peppersp
 - Sticky rice
-- KD
+- KD x3
 - Canned, diced tomatoes
 - Can coconut milk
 - glass pepper mill

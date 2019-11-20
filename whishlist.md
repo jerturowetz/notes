@@ -1,5 +1,7 @@
 # Wishlist
 
+d batteries
+
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
