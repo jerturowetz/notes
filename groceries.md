@@ -2,11 +2,14 @@
 
 ## Provigo
 
-- Multigrain bread
+- Bacon
+- Cheddar
+- Lemon
+- Pizza stuff
+- Mayo
+- Butter
 - Rolls/english muffins
 - Tomatoes
-- Spinach
-- Bananas
 - Fruits
 - Eggs
 - pickled beets
