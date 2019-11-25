@@ -1,17 +1,16 @@
 # Wishlist
 
-d batteries
+box to mail bell modem 9x11x3"
+
+palladium 10
+pajar 43, 10
 
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Bogs Bozeman Mid (outdoor magazine #1) [tony-pappas/mec]
-- Oboz bridger Insulated (it looks pretty dope) [mec]
-- Baffin snow monster [mec]
-- The North Face Chilkat III Winter Boots [mec]
-- Merrell Tremblant 6" polar wp ice
+- Oboz bridger Insulated (it looks pretty dope) [mec] 10
 - Merrell Chameleon Thermo 8 Waterproof Synthetic [mec]
-- Danner Arctic 600 [mec]
 
 ## Winter Jacket
 
@@ -36,8 +35,6 @@ d batteries
 - Baby carseat mirror
 - Container store order
 
-- Hair stuff & toothpase for office
-- mini souris baby snowsuit (Kijiji)
 - Audio technica ath-m50x
 - Direct Sound Isolation Headphones
 - GK UltraPhones
@@ -83,11 +80,17 @@ d batteries
 - Final fantasy XV windows edition
 - Octopath traveller!!!
 
+
+868bco
+
+
+2798 860 80
+
 ## Xmas
 
 ### Kate
 
-- Banjo lessons with Mara Eagle
+- Baggu touletry case
 - $600 Deering goodtime banjo
 - ALternative bajo:
   - Gretsch Root Series G9450 Dixie 5-String Banjo
@@ -114,10 +117,12 @@ d batteries
 
 - [Marley headphones](https://www.amazon.com/House-Marley-Cancelling-Headphones-Microphone/dp/B00G3P9UMU?ref_=fsclp_pl_dp_2)
 - [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
-- Epicurian cutting board
-- Larger cutting board
+- funky cutting board
+http://www.amazon.com/dp/B000MD7Y7C/?tag=cioequippilot-20
 - Chefs knife
-- knife sharpening
+http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20
+- oyster knife
+http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20
 
 ## Kate gifts
 

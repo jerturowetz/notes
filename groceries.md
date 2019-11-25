@@ -1,7 +1,13 @@
 # Groceries
 
+## Pharmaxy
+
+baby travel butt cream
+
 ## Provigo
 
+- OJ
+- Yogurt
 - Bacon
 - Cheddar
 - Lemon
@@ -11,7 +17,7 @@
 - Rolls/english muffins
 - Tomatoes
 - Fruits
-- Eggs
+- Bananas
 - pickled beets
 - can chipotle peppersp
 - Sticky rice
@@ -21,7 +27,6 @@
 - glass pepper mill
 - Ice cream sandwiches
 - coke 0
-- N/A beer
 
 ## Spice store
 
