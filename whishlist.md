@@ -1,5 +1,7 @@
 # Wishlist
 
+- Baby carseat mirror
+
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
@@ -7,47 +9,17 @@
 - Palladium 10
 - Muck boot: Men's artic Ice mid
 
-## Winter Jacket
+### Redco
 
-- North Face (winner so far)
-- Fjallraven
-- Pajar
-- Quartz
-- Audvik
-- mackage
-- kanuk
-
-## Various/Inbox
-
-- Stuff to repair headphone xt (see below)
-- Baby carseat mirror
-- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-
---
-
-- coat extender
-- Sea to Summit Event Compression Dry Sack, Medium x2
-- Gear to patch hole behind stove
-- MiiR or Soma water bottle
-- gift for vero & falco (fun lamp)
-- Besta power bar
-- Besta gear elastic tray
-- Besta charging station
-- $200 Agg, Andrew, Joe gifts
-- Jewish cookbook for joanna
-- Kamik Icebreaker rain boot
-- Timberland boat shoe
-- New frames:
-  - 13" x 16-17" Marlowe concept art
-  - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
-  - 11" x 16.75" SJ Poster
-  - 11" x 17" Rocket ship poster
+- 50' BLUE Mogami W2893 Low profile cable for short patches
+- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
+- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
+- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
 
 ## Xmas
 
 ### Kate
 
-- Baggu toiletry case
 - Banjo:
   - $600 Deering goodtime banjo
   - Gretsch Root Series G9450 Dixie 5-String Banjo
@@ -71,12 +43,42 @@
 
 ### Cathy
 
-- Baggu bag
 - [Marley headphones](https://www.amazon.com/House-Marley-Cancelling-Headphones-Microphone/dp/B00G3P9UMU?ref_=fsclp_pl_dp_2)
 - [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
 - [funky cutting board](http://www.amazon.com/dp/B000MD7Y7C/?tag=cioequippilot-20)
 - [Chefs knife](http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20)
 - [oyster knife](http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20)
+
+## Winter Jacket
+
+- North Face (winner so far)
+- Fjallraven
+- Pajar
+- Quartz
+- Audvik
+- mackage
+- kanuk
+
+## Various/Inbox
+
+- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
+- coat extender
+- Sea to Summit Event Compression Dry Sack, Medium x2
+- Gear to patch hole behind stove
+- MiiR or Soma water bottle
+- gift for vero & falco (fun lamp)
+- Besta power bar
+- Besta gear elastic tray
+- Besta charging station
+- $200 Agg, Andrew, Joe gifts
+- Jewish cookbook for joanna
+- Kamik Icebreaker rain boot
+- Timberland boat shoe
+- New frames:
+  - 13" x 16-17" Marlowe concept art
+  - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
+  - 11" x 16.75" SJ Poster
+  - 11" x 17" Rocket ship poster
 
 ## Kate gifts
 
@@ -104,13 +106,6 @@
 - **Record**
   - Power w/front plug
   - dj laptop stand/riser
-
-### Redco
-
-- 50' BLUE Mogami W2893 Low profile cable for short patches
-- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
-- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
 
 ### Mouser
 
