@@ -3,7 +3,6 @@
 box to mail bell modem 9x11x3"
 
 coat extender 
-
 palladium 10
 pajar 43, 10
 
@@ -12,7 +11,8 @@ pajar 43, 10
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Bogs Bozeman Mid (outdoor magazine #1) [tony-pappas/mec]
 - Oboz bridger Insulated (it looks pretty dope) [mec] 10
-- Merrell Chameleon Thermo 8 Waterproof Synthetic [mec]
+- muck boot 
+MEN'S ARCTIC ICE MID
 
 ## Winter Jacket
 

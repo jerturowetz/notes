@@ -7,7 +7,6 @@ baby travel butt cream
 ## Provigo
 
 - OJ
-- Yogurt
 - Bacon
 - Cheddar
 - Lemon
@@ -15,7 +14,7 @@ baby travel butt cream
 - Mayo
 - Butter
 - Rolls/english muffins
-- Tomatoes
+- hard tomatoe
 - Fruits
 - Bananas
 - pickled beets
