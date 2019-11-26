@@ -2,23 +2,24 @@
 
 ## Pharmaxy
 
-baby travel butt cream
+- baby travel butt cream
 
 ## Provigo
 
-- OJ
-- Bacon
-- Cheddar
-- Lemon
-- Pizza stuff
-- Mayo
-- Butter
-- Rolls/english muffins
 - hard tomatoe
+- Lemon
 - Fruits
 - Bananas
+- Cheddar
+- Bacon
+- Pizza stuff
+- Milk
+- Butter
+- OJ
+- Rolls/english muffins
 - can chipotle peppersp
 - Sticky rice
+- Mayo
 - KD x3
 - Canned, diced tomatoes
 - Can coconut milk
