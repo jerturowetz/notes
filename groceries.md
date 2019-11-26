@@ -18,13 +18,11 @@ baby travel butt cream
 - Tomatoes
 - Fruits
 - Bananas
-- pickled beets
 - can chipotle peppersp
 - Sticky rice
 - KD x3
 - Canned, diced tomatoes
 - Can coconut milk
-- glass pepper mill
 - Ice cream sandwiches
 - coke 0
 

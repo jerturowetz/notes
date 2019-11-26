@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- return bell modem (need a box 9x11x3")
 - Last thank you cards
 - Pick up gift cert at Scandinave
 - Get a family accountant (Yuri's contact or guttman)
@@ -62,11 +63,3 @@
 - **October :** Halloween / Oktoberfest
 - **November :** Movember / Remembrance Day
 - **December :** Hanukkah / Christmas
-
-## Piracy
-
-- ready or not
-- ad astra
-- Dr Sleep
-- Queen & Slim
-- The Rythm secion

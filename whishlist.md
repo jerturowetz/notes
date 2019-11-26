@@ -1,48 +1,32 @@
 # Wishlist
 
-box to mail bell modem 9x11x3"
-
-coat extender 
-
-palladium 10
-pajar 43, 10
-
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Bogs Bozeman Mid (outdoor magazine #1) [tony-pappas/mec]
 - Oboz bridger Insulated (it looks pretty dope) [mec] 10
-- Merrell Chameleon Thermo 8 Waterproof Synthetic [mec]
+- Palladium 10
 
 ## Winter Jacket
 
 - North Face (winner so far)
 - Fjallraven
-
-### Review
-
 - Pajar
 - Quartz
 - Audvik
 - mackage
-- nobis
 - kanuk
 
 ## Various/Inbox
 
-- stuff to repair headphone xt (see below)
-- Xmas presents (see bleow)
-
-- Snap-on Front Lens Cap for Canon FD 50mm
+- Stuff to repair headphone xt (see below)
 - Baby carseat mirror
-- Container store order
-
-- Audio technica ath-m50x
-- Direct Sound Isolation Headphones
-- GK UltraPhones
+- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
+- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 
 --
 
+- coat extender
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
@@ -53,46 +37,18 @@ pajar 43, 10
 - $200 Agg, Andrew, Joe gifts
 - Jewish cookbook for joanna
 - Kamik Icebreaker rain boot
-- Xtratuf boots/shoes
 - Timberland boat shoe
-- Waterproof winter bag
-- dry sac of sorts for pool
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
 
-## Gym bag
-
-- Actual bag
-- shorts
-- tshirt
-- gym towel
-- spare socks
-- spare boxers
-- flip flops
-- regular towel
-- soap
-- lock
-- Anti persperant
-
-## Games
-
-- Final fantasy XV windows edition
-- Octopath traveller!!!
-
-
-868bco
-
-
-2798 860 80
-
 ## Xmas
 
 ### Kate
 
-- Baggu touletry case
+- Baggu toiletry case
 - $600 Deering goodtime banjo
 - ALternative bajo:
   - Gretsch Root Series G9450 Dixie 5-String Banjo
