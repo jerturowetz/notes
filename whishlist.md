@@ -3,9 +3,9 @@
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
-- Bogs Bozeman Mid (outdoor magazine #1) [tony-pappas/mec]
 - Oboz bridger Insulated (it looks pretty dope) [mec] 10
 - Palladium 10
+- Muck boot: Men's artic Ice mid
 
 ## Winter Jacket
 
@@ -21,7 +21,6 @@
 
 - Stuff to repair headphone xt (see below)
 - Baby carseat mirror
-- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 
 --
@@ -49,12 +48,11 @@
 ### Kate
 
 - Baggu toiletry case
-- $600 Deering goodtime banjo
-- ALternative bajo:
+- Banjo:
+  - $600 Deering goodtime banjo
   - Gretsch Root Series G9450 Dixie 5-String Banjo
   - Epiphone MB-100
   - Rogue Travel/Starter Banjo, open-back
-  - Deering Goodtime Banjo
   - Goldtone CC-10R
 - [Stay home t-shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
 - [Birkensocks waterproof sandals](https://www.mec.ca/en/product/5062-332/Madrid-EVA-Sandals)
@@ -73,14 +71,12 @@
 
 ### Cathy
 
+- Baggu bag
 - [Marley headphones](https://www.amazon.com/House-Marley-Cancelling-Headphones-Microphone/dp/B00G3P9UMU?ref_=fsclp_pl_dp_2)
 - [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
-- funky cutting board
-http://www.amazon.com/dp/B000MD7Y7C/?tag=cioequippilot-20
-- Chefs knife
-http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20
-- oyster knife
-http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20
+- [funky cutting board](http://www.amazon.com/dp/B000MD7Y7C/?tag=cioequippilot-20)
+- [Chefs knife](http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20)
+- [oyster knife](http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20)
 
 ## Kate gifts
 
@@ -191,3 +187,4 @@ http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20
 - Another SM58
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
+- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
