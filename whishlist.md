@@ -1,6 +1,7 @@
 # Wishlist
 
 - Baby carseat mirror
+- Thermapen probe
 
 ## Operator boots
 
@@ -9,12 +10,15 @@
 - Palladium 10
 - Muck boot: Men's artic Ice mid
 
-### Redco
+## Winter Jacket
 
-- 50' BLUE Mogami W2893 Low profile cable for short patches
-- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
-- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
+- North Face (winner so far)
+- Fjallraven
+- Pajar
+- Quartz
+- Audvik
+- mackage
+- kanuk
 
 ## Xmas
 
@@ -49,16 +53,6 @@
 - [Chefs knife](http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20)
 - [oyster knife](http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20)
 
-## Winter Jacket
-
-- North Face (winner so far)
-- Fjallraven
-- Pajar
-- Quartz
-- Audvik
-- mackage
-- kanuk
-
 ## Various/Inbox
 
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
@@ -91,21 +85,12 @@
 
 ## Rehersal space
 
-### Rigs
+### Redco
 
-- **Amp rack (have rack):**
-  - Power
-  - Comp/gate whatever
-  - Vent panels
-  - Custom panel (Speakon F out x2 & combo XLR/TRS in x2)
-- **Mixer:**
-  - Power
-  - Mixer case with rack below
-  - patch panel (Mic1-8+ Aux ret 1-6, Out 1-4, MasterL/R, Mono, 2track, Matrix AB, Mon L/R)
-  - Rack FX (Vox or Master?)
-- **Record**
-  - Power w/front plug
-  - dj laptop stand/riser
+- 50' BLUE Mogami W2893 Low profile cable for short patches
+- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
+- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
+- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
 
 ### Mouser
 
