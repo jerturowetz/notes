@@ -6,25 +6,19 @@
 
 ## Provigo
 
-- hard tomatoe
-- Lemon
-- Fruits
-- Bananas
+- green sides
+- potatoes
+- sliced yellow cheese
 - Cheddar
-- Bacon
 - Pizza stuff
-- Milk
-- Butter
-- OJ
-- Rolls/english muffins
 - can chipotle peppersp
 - Sticky rice
 - Mayo
-- KD x3
 - Canned, diced tomatoes
 - Can coconut milk
 - Ice cream sandwiches
 - coke 0
+- N/A beer
 
 ## Spice store
 
