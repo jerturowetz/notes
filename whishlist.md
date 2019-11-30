@@ -2,6 +2,7 @@
 
 - Baby carseat mirror
 - Thermapen probe
+- Essentials Unisex Arizona EVA Sandal
 
 ## Operator boots
 
