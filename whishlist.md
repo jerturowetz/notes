@@ -1,9 +1,5 @@
 # Wishlist
 
-- Thermapen probe
-- 3 more small freezer bins
-- Essentials Unisex Arizona EVA Sandal
-
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
@@ -18,7 +14,6 @@
 - Pajar
 - Quartz
 - Audvik
-- mackage
 - kanuk
 
 ## Xmas
@@ -31,8 +26,6 @@
   - Epiphone MB-100
   - Rogue Travel/Starter Banjo, open-back
   - Goldtone CC-10R
-- [Stay home t-shirt](https://www.stayhomeclub.ca/collections/spring-2019/products/stfu-loose-tee)
-- [Birkensocks waterproof sandals](https://www.mec.ca/en/product/5062-332/Madrid-EVA-Sandals)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
 - [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
 - Books:
@@ -55,6 +48,7 @@
 ## Various/Inbox
 
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
+- 3 more small freezer bins container stpre
 - coat extender
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove

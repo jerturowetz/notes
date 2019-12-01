@@ -6,17 +6,28 @@
 
 ## Provigo
 
-- green sides
-- potatoes
-- cartots
-- sliced yellow cheese
+- Spinach
+- Potatoes
+- Carrots
+- Green sides
+- Lemon
+- bananas
+- multigrain bread
+- bacon
+- Gournd beef/pork
+- fish
+- Yogurt
+- Sliced yellow cheese
 - Cheddar
 - Pizza stuff
 - can chipotle peppersp
 - Sticky rice
+- Pancake mix
+- Spaghettini (bag)
 - Mayo
 - Canned, diced tomatoes
 - Can coconut milk
+- Pickles
 - Ice cream sandwiches
 - coke 0
 - N/A beer
