@@ -1,7 +1,7 @@
 # Wishlist
 
-- Baby carseat mirror
 - Thermapen probe
+- 3 more small freezer bins
 
 ## Operator boots
 
@@ -47,11 +47,9 @@
 
 ### Cathy
 
-- [Marley headphones](https://www.amazon.com/House-Marley-Cancelling-Headphones-Microphone/dp/B00G3P9UMU?ref_=fsclp_pl_dp_2)
+- [funky cutting board](https://www.amazon.ca/dp/B000MD7Y7C?linkCode=gs2&tag=amestestkitca-20)
+- [oyster knife](https://www.rmurphyknives.com/store/oyster-knives.html)
 - [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
-- [funky cutting board](http://www.amazon.com/dp/B000MD7Y7C/?tag=cioequippilot-20)
-- [Chefs knife](http://www.amazon.com/dp/B008M5U1C2/?tag=atkequippilot-20)
-- [oyster knife](http://www.amazon.com/dp/B00KBUNNE4/?tag=atkequippilot-20)
 
 ## Various/Inbox
 
