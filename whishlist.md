@@ -2,6 +2,7 @@
 
 - Thermapen probe
 - 3 more small freezer bins
+- Essentials Unisex Arizona EVA Sandal
 
 ## Operator boots
 
