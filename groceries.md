@@ -6,17 +6,19 @@
 
 ## Provigo
 
+- bananas
+- bread
+- yogurt
 - green sides
 - potatoes
-- cartots
+- carrots
 - sliced yellow cheese
 - Cheddar
 - Pizza stuff
-- can chipotle peppersp
+- can chipotle peppers
 - Sticky rice
 - Mayo
 - Canned, diced tomatoes
-- Can coconut milk
 - Ice cream sandwiches
 - coke 0
 - N/A beer
