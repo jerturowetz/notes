@@ -13,14 +13,14 @@
 - Lemon
 - bananas
 - multigrain bread
-- bacon
-- Gournd beef/pork
+- Bacon
+- Ground beef/pork
 - fish
 - Yogurt
 - Sliced yellow cheese
 - Cheddar
 - Pizza stuff
-- can chipotle peppersp
+- can chipotle peppers
 - Sticky rice
 - Pancake mix
 - Spaghettini (bag)
