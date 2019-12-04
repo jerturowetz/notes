@@ -1,8 +1,6 @@
 # Jer's To-Do List
 
-- return bell modem (need a box 9x11x3")
 - Last thank you cards
-- Pick up gift cert at Scandinave
 - Get a family accountant (Yuri's contact or guttman)
 - Unsubscribe from America's Test Kitchen (after DEC)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
@@ -16,26 +14,12 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
 
-## Kuujjuarapik important information
+## Kuujjuarapik
 
-### Gear
+## Packing
 
-- Headphones & in ears
-- Headphones splitter box
-- Headphone extensions
-- ext chords
-- SM58
-- Adaptors
-
-### Contact info
-
-- Bailey Watson
-  Bwatson@fusionjeunesse.org
-  514-808-9083
-- Christian Brun del Re
-  chrisbrundelre@hotmail.com
-- Matthew Schleck
-  mschleck@fusionjeunesse.org
+- Headlamp
+- Headphone splitter
 
 ## Shrink
 
