@@ -1,9 +1,5 @@
 # Groceries
 
-## Pharmaxy
-
-- baby travel butt cream
-
 ## Provigo
 
 - Spinach
