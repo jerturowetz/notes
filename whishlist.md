@@ -52,7 +52,7 @@
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
-- gift for vero & falco (fun lamp)
+- gift for vero & falco
 - Besta power bar
 - Besta gear elastic tray
 - Besta charging station
