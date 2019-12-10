@@ -1,5 +1,16 @@
 # Jer's To-Do List
 
+
+kelly fraiser
+aasiva
+twin flames
+beTrice ??
+saali
+
+
+- rca 505 loop
+- partner (band)
+- weather app: windy
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Unsubscribe from America's Test Kitchen (after DEC)
