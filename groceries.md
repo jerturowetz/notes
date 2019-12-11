@@ -2,27 +2,27 @@
 
 ## Provigo
 
-- Spinach
-- Potatoes
-- Carrots
-- Green sides
-- Lemon
-- bananas
-- multigrain bread
 - Bacon
 - Ground beef/pork
 - fish
-- Yogurt
+- Yogurt x2
 - Sliced yellow cheese
 - Cheddar
 - Pizza stuff
 - can chipotle peppers
 - Sticky rice
 - Pancake mix
-- Spaghettini (bag)
 - Mayo
-- Canned, diced tomatoes
-- Can coconut milk
+- garlic
+- broccoli
+- carrots
+- potatoes
+- spinach
+- lemon
+- milk
+- OJ
+- parm
+- toilet paper
 - Pickles
 - Ice cream sandwiches
 - coke 0
@@ -40,6 +40,7 @@
 - dumplings
 - Noodles Raw
 - duck, pork
+- sweet chilli
 
 ## Recipies
 

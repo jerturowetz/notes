@@ -7,6 +7,14 @@ twin flames
 beTrice ??
 saali
 
+feedback needs to be less rushed
+sone iyebs could have been caught in review
+needs to split into fixes (broken/ things
+importabt itens
+& suggestions/observations
+
+
+
 
 - rca 505 loop
 - partner (band)
