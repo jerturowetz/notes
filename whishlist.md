@@ -1,6 +1,6 @@
 # Wishlist
 
-more morely headphones
+- more morely headphones
 
 ## Operator boots
 
@@ -16,14 +16,13 @@ more morely headphones
 - Pajar
 - Quartz
 - Audvik
-- kanuk
 
 ## Xmas
 
 ### Kate
 
 - Banjo:
-  - $600 Deering goodtime banjo
+  - Deering goodtime banjo
   - Gretsch Root Series G9450 Dixie 5-String Banjo
   - Epiphone MB-100
   - Rogue Travel/Starter Banjo, open-back

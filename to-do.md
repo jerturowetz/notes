@@ -1,28 +1,11 @@
 # Jer's To-Do List
 
-
-kelly fraiser
-aasiva
-twin flames
-beTrice ??
-saali
-
-feedback seemed rushed
-also vague in sections
-review of tbe drafys could have saved effort
-
-feedback needs to be less rushed
-sone iyebs could have been caught in review
-needs to split into fixes (broken/ things
-importabt itens
-& suggestions/observations
-
-
-
-
+- kelly fraiser, aasiva, beTrice deer, saali
+- shadow theatre or fable, andy shauff, eli kesler, tanya tagaq
+- send chistianns: dukes of burgundy, the great sabatini &
 - rca 505 loop
 - partner (band)
-- weather app: windy
+- Sunday December 15: Pick up Cheskies order (Sufganiyot (3 dozen $1.50 each), Blintses (1 dzn) & Hamentashen (1 dozen, $3 each))
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Unsubscribe from America's Test Kitchen (after DEC)
@@ -36,13 +19,6 @@ importabt itens
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
-
-## Kuujjuarapik
-
-## Packing
-
-- Headlamp
-- Headphone splitter
 
 ## Shrink
 

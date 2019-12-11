@@ -5,28 +5,21 @@
 - Bacon
 - Ground beef/pork
 - fish
-- Yogurt x2
-- Sliced yellow cheese
-- Cheddar
-- Pizza stuff
-- can chipotle peppers
-- Sticky rice
-- Pancake mix
-- Mayo
 - garlic
 - broccoli
 - carrots
 - potatoes
 - spinach
 - lemon
-- milk
-- OJ
 - parm
-- toilet paper
+- milk
+- Sticky rice
+- Pancake mix
 - Pickles
 - Ice cream sandwiches
 - coke 0
 - N/A beer
+- toilet paper
 
 ## Spice store
 
