@@ -7,6 +7,10 @@ twin flames
 beTrice ??
 saali
 
+feedback seemed rushed
+also vague in sections
+review of tbe drafys could have saved effort
+
 feedback needs to be less rushed
 sone iyebs could have been caught in review
 needs to split into fixes (broken/ things
