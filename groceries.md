@@ -13,6 +13,8 @@
 - lemon
 - parm
 - milk
+- Butter
+- Yogurt
 - Sticky rice
 - Pancake mix
 - Pickles

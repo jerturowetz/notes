@@ -2,10 +2,8 @@
 
 - kelly fraiser, aasiva, beTrice deer, saali
 - shadow theatre or fable, andy shauff, eli kesler, tanya tagaq
-- send chistianns: dukes of burgundy, the great sabatini &
-- rca 505 loop
+- send chistianns: dukes of burgundy, the great sabatini & other fave bands
 - partner (band)
-- Sunday December 15: Pick up Cheskies order (Sufganiyot (3 dozen $1.50 each), Blintses (1 dzn) & Hamentashen (1 dozen, $3 each))
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Unsubscribe from America's Test Kitchen (after DEC)

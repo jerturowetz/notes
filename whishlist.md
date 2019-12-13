@@ -48,8 +48,7 @@
 ## Various/Inbox
 
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- 3 more small freezer bins container stpre
-- coat extender
+- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
