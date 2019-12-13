@@ -1,6 +1,10 @@
 # Wishlist
 
-- more morely headphones
+shadow theatre band
+fable band
+andy shauff
+eli kesler
+tanya tagaq
 
 ## Operator boots
 
@@ -74,6 +78,7 @@
 - Carpentry class gift cert
 - Banjo lessons with Mara Eagle
 - Avada Products
+- Woodworking school gift cert
 
 ## Rehersal space
 
@@ -160,3 +165,5 @@
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
 - [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
+- 7a sticks
+- Keyboard stand

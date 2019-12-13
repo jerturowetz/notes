@@ -1,12 +1,7 @@
 # Jer's To-Do List
 
-- kelly fraiser, aasiva, beTrice deer, saali
-- shadow theatre or fable, andy shauff, eli kesler, tanya tagaq
-- send chistianns: dukes of burgundy, the great sabatini & other fave bands
-- partner (band)
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
-- Unsubscribe from America's Test Kitchen (after DEC)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
