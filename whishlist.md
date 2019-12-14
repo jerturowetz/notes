@@ -1,6 +1,7 @@
 # Wishlist
 
 - more morely headphones
+- baby mirror
 
 ## Operator boots
 
