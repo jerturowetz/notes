@@ -1,5 +1,11 @@
 # Jer's To-Do List
 
+- Music:
+  - shadow theatre band
+  - fable band
+  - andy shauff
+  - eli kesler
+  - tanya tagaq
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960

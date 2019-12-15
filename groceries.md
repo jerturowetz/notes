@@ -2,26 +2,13 @@
 
 ## Provigo
 
-- Bacon
-- Ground beef/pork
-- fish
-- garlic
-- broccoli
-- carrots
-- potatoes
+- pizza crust
+- butter
+- frozen fruit?
 - spinach
-- lemon
-- parm
-- milk
-- Butter
-- Yogurt
-- Sticky rice
-- Pancake mix
-- Pickles
-- Ice cream sandwiches
-- coke 0
-- N/A beer
-- toilet paper
+- yogurt
+- ice cream sandwiches
+- formula
 
 ## Spice store
 

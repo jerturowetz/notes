@@ -1,10 +1,7 @@
 # Wishlist
 
-shadow theatre band
-fable band
-andy shauff
-eli kesler
-tanya tagaq
+- more morely headphones
+- baby mirror
 
 ## Operator boots
 
