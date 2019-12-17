@@ -2,12 +2,18 @@
 
 ## Provigo
 
+- Eggs
+- Milk
 - pizza crust
 - butter
-- frozen fruit?
 - spinach
-- yogurt
+- carrotts
+- potatoes
+- olive oil
+- frozen fruit
+- frozen spinach
 - ice cream sandwiches
+- compost bags
 - formula
 
 ## Spice store
