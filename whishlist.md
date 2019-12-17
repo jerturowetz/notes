@@ -69,6 +69,7 @@
 
 ## Kate gifts
 
+- Matador camera case
 - Roots gift cert
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
