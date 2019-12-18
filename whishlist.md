@@ -7,31 +7,24 @@
 ## Operator boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
-- Oboz bridger Insulated (it looks pretty dope) [mec] 10
 - Palladium 10
-- Muck boot: Men's artic Ice mid
+- Oboz bridger Insulated (it looks pretty dope) [mec] 10
 
 ## Winter Jacket
 
+- Fjallraven:
+  - Fjällräven polar parka
+  - Keb expedition down jacket
+  - Expedition down jacket
 - North Face (winner so far)
-- Fjallraven
 - Pajar
 - Quartz
 - Audvik
 
-## Xmas
+## Xmas remaining
 
-### Kate
-
-- Banjo:
-  - Deering goodtime banjo
-  - Gretsch Root Series G9450 Dixie 5-String Banjo
-  - Epiphone MB-100
-  - Rogue Travel/Starter Banjo, open-back
-  - Goldtone CC-10R
-- [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
-- [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
-- Books:
+- [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
+- Kate book:
   - Lanny by Max Porter
   - The Grammarians by Cathleen Schine
   - Grief is the Thing with Feathers by Max Porter
@@ -41,11 +34,6 @@
   - All That You Leave Behind by Erin Lee Carr
   - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
   - The Capital by Robert Menasse
-
-### Cathy
-
-- [funky cutting board](https://www.amazon.ca/dp/B000MD7Y7C?linkCode=gs2&tag=amestestkitca-20)
-- [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
 
 ## Various/Inbox
 
@@ -68,8 +56,12 @@
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
 
-## Kate gifts
+## Gifts
 
+### Kate
+
+- [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
+- [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
 - Matador camera case
 - Roots gift cert
 - Pedicure @ Primrose
@@ -78,6 +70,10 @@
 - Banjo lessons with Mara Eagle
 - Avada Products
 - Woodworking school gift cert
+
+### Cathy
+
+- [funky cutting board](https://www.amazon.ca/dp/B000MD7Y7C?linkCode=gs2&tag=amestestkitca-20)
 
 ## Rehersal space
 
