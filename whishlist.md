@@ -2,9 +2,7 @@
 
 - jeans
 - light bulb for dog lamp
-- fall of troy
 - more morely headphones
-- baby mirror
 
 ## Operator boots
 
