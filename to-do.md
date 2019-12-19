@@ -1,5 +1,13 @@
 # Jer's To-Do List
 
+- flicks to review:
+  - The Two Popes
+  - Ad Astra
+  - freaks 2018
+  - aniara
+  - riot girls
+  - starfish
+  - level 16
 - Banjo, Joliette, 450-916-4618
 - Music:
   - shadow theatre band
