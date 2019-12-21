@@ -1,11 +1,13 @@
 # Wishlist
 
-Black jeans
-Winter boots
-unito gifts
-unito drums
-joliette
-chapters/simons
+- Black jeans
+- Winter boots
+- Diapers & Table chex Juan & Irene
+- Unito
+  - gifts
+  - drums
+- joliette
+- chapters/simons
 
 ## Operator boots
 
