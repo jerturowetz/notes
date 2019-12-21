@@ -1,26 +1,34 @@
-# Groceries
+l be# Groceries
 
 ## Provigo
 
-- Eggs
+- Onion
+- Bok Choy
+- Bagels
+- Garlic
+- Bacon
+- OJ
 - Milk
 - pizza crust
-- butter
 - spinach
-- carrotts
 - potatoes
+- Green sides
+- Bananas
+- Apple
 - olive oil
-- frozen fruit
 - frozen spinach
 - ice cream sandwiches
 - compost bags
 - formula
+- Dish soap
 
 ## Spice store
 
 - Garam Masala
 - Cardamom pods
 - Cloves
+- Balck pepper
+- Oregano
 
 ## Chinese grocery
 
