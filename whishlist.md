@@ -1,8 +1,11 @@
 # Wishlist
 
-- jeans
-- light bulb for dog lamp
-- more morely headphones
+Black jeans
+Winter boots
+unito gifts
+unito drums
+joliette
+chapters/simons
 
 ## Operator boots
 
@@ -37,6 +40,9 @@
 
 ## Various/Inbox
 
+- jeans
+- light bulb for dog lamp
+- more morely headphones
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - Sea to Summit Event Compression Dry Sack, Medium x2
