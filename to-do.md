@@ -1,6 +1,6 @@
 # Jer's To-Do List
 
-- Banjo, Joliette, 450-916-4618
+- Drop table at Irene's
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
