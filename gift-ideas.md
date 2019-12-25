@@ -22,3 +22,18 @@
   - All That You Leave Behind by Erin Lee Carr
   - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
   - The Capital by Robert Menasse
+
+## Calendar plan
+
+- **January :** Winter / Snow / Polar / New year
+- **February :** Super Bowl / Valentine's Day
+- **March :** Spring / St. Patrick's Day / Pi Day / beware of the Ides of March”
+- **April :** April Fool's Day / Easter
+- **May :** Cinco de Mayo / Mother's Day
+- **June :** St. Jean Baptiste / Summer / Ocean
+- **July :** Canada Day / US Independence Day / Bastille Day
+- **August :** Back to School
+- **September :** Fall / My Birthday / Talk Like a Pirate Day
+- **October :** Halloween / Oktoberfest
+- **November :** Movember / Remembrance Day
+- **December :** Hanukkah / Christmas

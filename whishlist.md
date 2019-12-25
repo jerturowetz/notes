@@ -8,8 +8,7 @@
 
 ## Winter Jacket
 
-- Fjallraven:
-  - Fjällräven polar parka
+- Fjällräven:
   - Keb expedition down jacket
   - Expedition down jacket
 - North Face (winner so far)
@@ -38,7 +37,7 @@
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
 
-## Rehersal space
+## Music gear
 
 ### Redco
 
