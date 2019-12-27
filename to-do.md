@@ -1,21 +1,17 @@
 # Jer's To-Do List
 
-trade the mixwizard from a 14 to a 16
-
-liz and fred
-carol and brian
-cathy
-the millers
-
-I hope that if that time might come you will not fight you will not run but lead the way
-
-- thank yious to add:
-  - claire issac book
-  - jordan pineapple & sauce
-  - raoul ricardo ornament 
-- Banjo, Joliette, 450-916-4618
 - Drop table at Irene's
 - Last thank you cards
+- Thank yous to add:
+  - claire issac book
+  - jordan pineapple & sauce
+  - raoul ricardo ornament
+  - liz and fred
+  - carol and brian
+  - cathy
+  - the millers
+  - Sandra?
+  - Kim?
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
