@@ -1,13 +1,6 @@
 # Wishlist
 
-- Black jeans
-- Winter boots
-- Diapers & Table chex Juan & Irene
-- Unito
-  - gifts
-  - drums
-- joliette
-- chapters/simons
+Bill Bryson The Body
 
 ## Operator boots
 
@@ -25,20 +18,6 @@
 - Pajar
 - Quartz
 - Audvik
-
-## Xmas remaining
-
-- [Quilted leather gloves](https://www.simons.ca/en/women-accessories/gloves-mittens/leather-suede/quilted-leather-mittens--4879-93834?catId=6599&colourId=1)
-- Kate book:
-  - Lanny by Max Porter
-  - The Grammarians by Cathleen Schine
-  - Grief is the Thing with Feathers by Max Porter
-  - Picture by Lillian Ross
-  - Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
-  - Disappearing Earth by Julia Phillips
-  - All That You Leave Behind by Erin Lee Carr
-  - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
-  - The Capital by Robert Menasse
 
 ## Various/Inbox
 
@@ -78,6 +57,17 @@
 - Banjo lessons with Mara Eagle
 - Avada Products
 - Woodworking school gift cert
+- Books:
+  - Lanny by Max Porter
+  - The Grammarians by Cathleen Schine
+  - Grief is the Thing with Feathers by Max Porter
+  - Picture by Lillian Ross
+  - Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
+  - Disappearing Earth by Julia Phillips
+  - All That You Leave Behind by Erin Lee Carr
+  - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
+  - The Capital by Robert Menasse
+
 
 ### Cathy
 
@@ -89,8 +79,8 @@
 
 - 50' BLUE Mogami W2893 Low profile cable for short patches
 - 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 120' ORANGE Canare L-4E6S Quad mic cable (20' cables x6)
-- 90' RED Canare L-4E6S Quad mic cable (15' cables x6)
+- 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
+- 90' ORANGE Canare L-4E6S Quad mic cable (15' cables x6)
 
 ### Mouser
 
