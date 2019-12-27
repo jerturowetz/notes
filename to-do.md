@@ -14,6 +14,7 @@ I hope that if that time might come you will not fight you will not run but lead
   - jordan pineapple & sauce
   - raoul ricardo ornament 
 - Banjo, Joliette, 450-916-4618
+- Drop table at Irene's
 - Last thank you cards
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
@@ -38,18 +39,3 @@ I hope that if that time might come you will not fight you will not run but lead
 - Obtain/research replacement value for all listed items
 - Find a company that insures for predefined value
 - Get a quote, apply, whatever
-
-## Calendar Idea
-
-- **January :** Winter / Snow / Polar / New year
-- **February :** Super Bowl / Valentine's Day
-- **March :** Spring / St. Patrick's Day / Pi Day / beware of the Ides of March”
-- **April :** April Fool's Day / Easter
-- **May :** Cinco de Mayo / Mother's Day
-- **June :** St. Jean Baptiste / Summer / Ocean
-- **July :** Canada Day / US Independence Day / Bastille Day
-- **August :** Back to School
-- **September :** Fall / My Birthday / Talk Like a Pirate Day
-- **October :** Halloween / Oktoberfest
-- **November :** Movember / Remembrance Day
-- **December :** Hanukkah / Christmas

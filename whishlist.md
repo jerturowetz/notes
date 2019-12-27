@@ -3,6 +3,7 @@
 Bill Bryson The Body
 
 ## Operator boots
+## Winter boots
 
 - Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Palladium 10
@@ -10,8 +11,7 @@ Bill Bryson The Body
 
 ## Winter Jacket
 
-- Fjallraven:
-  - Fjällräven polar parka
+- Fjällräven:
   - Keb expedition down jacket
   - Expedition down jacket
 - North Face (winner so far)
@@ -21,20 +21,17 @@ Bill Bryson The Body
 
 ## Various/Inbox
 
-- jeans
+- Black jeans
+- Sea to Summit Event Compression Dry Sack, Medium
 - light bulb for dog lamp
-- more morely headphones
-- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
+- Marely headphones
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
-- Sea to Summit Event Compression Dry Sack, Medium x2
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
 - gift for vero & falco
 - Besta power bar
 - Besta gear elastic tray
-- Besta charging station
 - $200 Agg, Andrew, Joe gifts
-- Jewish cookbook for joanna
 - Kamik Icebreaker rain boot
 - Timberland boat shoe
 - New frames:
@@ -43,37 +40,7 @@ Bill Bryson The Body
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
 
-## Gifts
-
-### Kate
-
-- [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
-- [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
-- Matador camera case
-- Roots gift cert
-- Pedicure @ Primrose
-- Santiago Ramon Y Cajal Art
-- Carpentry class gift cert
-- Banjo lessons with Mara Eagle
-- Avada Products
-- Woodworking school gift cert
-- Books:
-  - Lanny by Max Porter
-  - The Grammarians by Cathleen Schine
-  - Grief is the Thing with Feathers by Max Porter
-  - Picture by Lillian Ross
-  - Drive Your Plow Over the Bones of the Dead by Olga Tokarczuk
-  - Disappearing Earth by Julia Phillips
-  - All That You Leave Behind by Erin Lee Carr
-  - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
-  - The Capital by Robert Menasse
-
-
-### Cathy
-
-- [funky cutting board](https://www.amazon.ca/dp/B000MD7Y7C?linkCode=gs2&tag=amestestkitca-20)
-
-## Rehersal space
+## Music gear
 
 ### Redco
 
@@ -160,3 +127,4 @@ Bill Bryson The Body
 - [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
 - 7a sticks
 - Keyboard stand
+- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
