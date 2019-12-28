@@ -23,6 +23,14 @@
   - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
   - The Capital by Robert Menasse
 
+## Max
+
+Oversized martini glass (Max)
+
+## Molly
+
+Online gift cert for a nice store (molly)
+
 ## Calendar plan
 
 - **January :** Winter / Snow / Polar / New year

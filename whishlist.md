@@ -1,13 +1,10 @@
 # Wishlist
 
-Oversized martini glass (Max)
-Online gift cert for a nice online store (molly)
-
 ## Winter boots
 
-- Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Palladium 10
-- Oboz bridger Insulated (it looks pretty dope) [mec] 10
+- Oboz bridger Insulated (it looks pretty dope) [mec] 10 or merell
+- Bogs or whatever slip on
 
 ## Winter Jacket
 
