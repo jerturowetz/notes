@@ -1,5 +1,10 @@
 # Wishlist
 
+Mamba patch panel 16C16M - 16 Combo & 16 Male to 4 DB25
+db25 to 8 trs x2
+db25 to 8 xlrM
+db25 to 8 xlrF
+
 ## Winter boots
 
 - Palladium 10
