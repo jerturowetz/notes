@@ -6,11 +6,16 @@ SKB 1SKB-iSF2U Studio Flyer Rack Case
 SINGI DOWN JACKET (S)
 windriver odyssey size 10 (best slip on)
 merell mens thermo 8 size 10
+Mamba patch panel 16C16M - 16 Combo & 16 Male to 4 DB25
+db25 to 8 trs x2
+db25 to 8 xlrM
+db25 to 8 xlrF
 
 ## Winter boots
 
 - Palladium 10
-- Oboz bridger Insulated (it looks pretty dope) [mec] 10
+- Oboz bridger Insulated (it looks pretty dope) [mec] 10 or merell
+- Bogs or whatever slip on
 
 ## Winter Jacket
 
@@ -20,22 +25,21 @@ merell mens thermo 8 size 10
 - Pajar
 - Quartz
 - Audvik
+- Kamik Icebreaker rain boot
 
 ## Various/Inbox
 
-- Black jeans
-- Sea to Summit Event Compression Dry Sack, Medium
-- light bulb for dog lamp
+- Sea to Summit Event Compression Dry Sack, Medium, small
 - Marely headphones
+- Black jeans
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
-- gift for vero & falco
+- Gift for vero & falco
 - Besta power bar
 - Besta gear elastic tray
+- light bulb for dog lamp
 - $200 Agg, Andrew, Joe gifts
-- Kamik Icebreaker rain boot
-- Timberland boat shoe
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
@@ -74,7 +78,7 @@ merell mens thermo 8 size 10
 
 ### DIs
 
-- Key Largo vs Rack
+- Radial Key Largo
 - JDI stereo (for active bass)
 - JDV stereo (for passive bass)
 - Palmer pdi-09 for guitar di (after fx) x2
@@ -125,7 +129,7 @@ merell mens thermo 8 size 10
 - Another SM58
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
-- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
 - 7a sticks
 - Keyboard stand
+- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
