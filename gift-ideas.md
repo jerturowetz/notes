@@ -1,5 +1,9 @@
 # Gift Ideas
 
+
+good bluetooth headphones for max
+piano for sandra
+
 ## Kate
 
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)

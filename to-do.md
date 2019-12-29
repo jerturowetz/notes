@@ -1,5 +1,15 @@
 # Jer's To-Do List
 
+hair cut
+pick up calk
+Put up the Colville
+Take down Christmas decorations
+Drop off box at women shelter
+Baby proofing Billie Ivar and mirror
+Seal windows
+aaa batteries for closet light 
+
+
 - Drop table at Irene's
 - Last thank you cards
 - Thank yous to add:

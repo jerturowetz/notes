@@ -1,11 +1,14 @@
 # Wishlist
 
-Bill Bryson The Body
+Adhesive hooks for inside of bathroom cupboards
+Elastic board for electronics in Vesta
+SKB 1SKB-iSF2U Studio Flyer Rack Case
+SINGI DOWN JACKET (S)
+windriver odyssey size 10 (best slip on)
+merell mens thermo 8 size 10
 
-## Operator boots
 ## Winter boots
 
-- Sperry Men's Cold Bay Sport Ice (rate my treads #1) [tony-pappas]
 - Palladium 10
 - Oboz bridger Insulated (it looks pretty dope) [mec] 10
 
@@ -14,7 +17,6 @@ Bill Bryson The Body
 - Fjällräven:
   - Keb expedition down jacket
   - Expedition down jacket
-- North Face (winner so far)
 - Pajar
 - Quartz
 - Audvik
@@ -62,8 +64,7 @@ Bill Bryson The Body
 
 ### Mics
 
-- EV 635A (drum WURST on floor)
-- 2020 (OH)
+- EV 635A (drum WURST on floor) (oh) c3
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
 - Angled '57
