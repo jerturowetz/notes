@@ -1,26 +1,23 @@
 # Groceries
 
-arugula & tonatoes
-
 ## Provigo
 
-- Onion
-- Bok Choy
-- Bagels
-- Garlic
-- Bacon
 - OJ
 - Milk
+- NA Beer
+
+- frozen shrimp
+- Pesto
+- Bok Choy
+- bagels
+- onion
+- chicken for indian
 - pizza crust
-- spinach
-- potatoes
-- Green sides
-- Bananas
-- Apple
+- Potatoes
 - olive oil
 - frozen spinach
 - ice cream sandwiches
-- compost bags
+- toilet paper
 - formula
 - Dish soap
 

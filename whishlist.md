@@ -1,34 +1,15 @@
 # Wishlist
 
-Adhesive hooks for inside of bathroom cupboards
-Elastic board for electronics in Vesta
-SKB 1SKB-iSF2U Studio Flyer Rack Case
-SINGI DOWN JACKET (S)
-windriver odyssey size 10 (best slip on)
-merell mens thermo 8 size 10
-Mamba patch panel 16C16M - 16 Combo & 16 Male to 4 DB25
-db25 to 8 trs x2
-db25 to 8 xlrM
-db25 to 8 xlrF
+## Winter gear
 
-## Winter boots
-
-- Palladium 10
-- Oboz bridger Insulated (it looks pretty dope) [mec] 10 or merell
-- Bogs or whatever slip on
-
-## Winter Jacket
-
-- Fjällräven:
-  - Keb expedition down jacket
-  - Expedition down jacket
-- Pajar
-- Quartz
-- Audvik
-- Kamik Icebreaker rain boot
+- windriver odyssey size 10
+- palladium 10
+- Fjällräven Singi down jacket (S)
 
 ## Various/Inbox
 
+- aaa batteries for closet light
+- Adhesive hooks for inside of bathroom cupboards
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - Marely headphones
 - Black jeans
@@ -40,6 +21,10 @@ db25 to 8 xlrF
 - Besta gear elastic tray
 - light bulb for dog lamp
 - $200 Agg, Andrew, Joe gifts
+- Winter boots:
+  - Merell Thermo 8 size 10
+  - Oboz bridger Insulated size 10
+  - Kamik Icebreaker rain boot
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
@@ -68,7 +53,8 @@ db25 to 8 xlrF
 
 ### Mics
 
-- EV 635A (drum WURST on floor) (oh) c3
+- Sennheiser e614 x2 (oh)
+- EV 635A (drum WURST on floor) (oh)
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
 - Angled '57
@@ -110,7 +96,6 @@ db25 to 8 xlrF
 - 5/8-27 mounting plate
 - OnStage TMO1 Multi Clamp Microphone Mount
 - cable gland joints for headphone repairs
-- SKB or whatever travel rack case
 - Used Audio Technica ATH-M50(x) headphones
 - Furman plug lock
 - Downbeats or Zildjian ear plugs
@@ -126,7 +111,6 @@ db25 to 8 xlrF
 - K&M 16080 headphone holder x2
 - Better tall stands for OHs
 - Mic stand sandbags
-- Another SM58
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
 - 7a sticks
