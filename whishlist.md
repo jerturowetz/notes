@@ -2,8 +2,8 @@
 
 ## Winter gear
 
-- windriver odyssey size 10
 - palladium 10
+- windriver odyssey size 10
 - Fjällräven Singi down jacket (S)
 
 ## Various/Inbox

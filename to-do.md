@@ -4,7 +4,9 @@
 - Drop table at Irene's
 - Browns (1191 Rue Sainte-Catherine Ouest)
 - hair cut
-- laundry
+- Jeans?
+
+- Take down Christmas decorations
 - Put up the Colville
 - Last thank you cards
 - Thank yous to add:
@@ -17,7 +19,6 @@
   - the millers
   - Sandra?
   - Kim?
-- Take down Christmas decorations
 - Drop off box at women shelter
 - Baby proofing Billie Ivar and mirror
 - Seal windows
