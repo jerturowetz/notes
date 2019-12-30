@@ -1,10 +1,10 @@
 # Jer's To-Do List
 
+- pick up window sealant
+- Drop table at Irene's
 - laundry
 - hair cut
-- pick up window sealant
 - Put up the Colville
-- Drop table at Irene's
 - Last thank you cards
 - Thank yous to add:
   - claire issac book
