@@ -1,40 +1,25 @@
 # Wishlist
 
-## Winter gear
+## Winter boots
 
 - windriver odyssey size 10
-- kamik icebreaker
-- oboz bridger 10 or merrel thermo 10
-some type of slip on like
-baffin cananda
-sperry top sider
-sorel
+- kamik icebreaker ?
+- oboz bridger size 10 or merrel thermo 8 size 10
+- some type of slip on like:
+  - baffin cananda
+  - sperry top sider
+  - sorel
 
-
-
-
-shells
-tomato sauce
-pasta sauce
-fish
-cream
-cheddar cheese
-
-
-
-
-
-liner gloves
-hat
-work gloves
-slip on crampons
-north face l bag
-
+## Winter coats
 
 - Fjällräven Singi down jacket (S)
+- pajar montpellier M
+- save the duck S?
 
 ## Various/Inbox
 
+- portable liner gloves & hat
+- North face L bag
 - Quiet practice pad
 - aaa batteries for closet light
 - Adhesive hooks for inside of bathroom cupboards

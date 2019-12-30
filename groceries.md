@@ -1,28 +1,30 @@
 # Groceries
 
-medium freezer bags
-small sandwich bags
-big freezer bags
-sambal olek
-block of cheddar
-
 ## Provigo
 
-- Milk
-- frozen shrimp
-- Pesto
 - Bok Choy
-- bagels
 - onion
-- chicken for indian
-- pizza crust
 - Potatoes
+- Greens
+- frozen shrimp
+- chicken for indian
+- fish
+- cream
+- cheddar cheese
+- Milk
+- bagels
+- shells
+- tomato sauce
+- pasta sauce
+- sambal olek
+- Pesto
 - olive oil
-- frozen spinach
 - ice cream sandwiches
-- toilet paper
 - formula
+- toilet paper
 - Dish soap
+- medium & large freezer bags
+- small sandwich bags
 
 ## Spice store
 

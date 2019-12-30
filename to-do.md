@@ -1,19 +1,7 @@
 # Jer's To-Do List
 
-
-pajar montpellier M
-save the duck mid weight S?
-save the duck S?
-
-
-
-- pick up window sealant
 - Drop table at Irene's
-- Browns (1191 Rue Sainte-Catherine Ouest)
 - hair cut
-- Jeans?
-
-- Take down Christmas decorations
 - Put up the Colville
 - Last thank you cards
 - Thank yous to add:

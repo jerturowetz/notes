@@ -2,6 +2,9 @@
 
 pulled pork keep at 250 and cook all day (like 8 hours)
 
+## Breakfast sausage
+
+bake 400 12 per side, 24 mins total
 
 ## Chicken skewers
 
