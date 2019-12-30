@@ -2,8 +2,9 @@
 
 - pick up window sealant
 - Drop table at Irene's
-- laundry
+- Browns (1191 Rue Sainte-Catherine Ouest)
 - hair cut
+- laundry
 - Put up the Colville
 - Last thank you cards
 - Thank yous to add:
