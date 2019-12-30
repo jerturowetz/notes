@@ -1,11 +1,14 @@
 # Groceries
 
+medium freezer bags
+small sandwich bags
+big freezer bags
+sambal olek
+block of cheddar
+
 ## Provigo
 
-- OJ
 - Milk
-- NA Beer
-
 - frozen shrimp
 - Pesto
 - Bok Choy
