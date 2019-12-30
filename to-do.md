@@ -1,5 +1,12 @@
 # Jer's To-Do List
 
+
+pajar montpellier M
+save the duck mid weight S?
+save the duck S?
+
+
+
 - pick up window sealant
 - Drop table at Irene's
 - Browns (1191 Rue Sainte-Catherine Ouest)

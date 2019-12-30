@@ -2,8 +2,35 @@
 
 ## Winter gear
 
-- palladium 10
 - windriver odyssey size 10
+- kamik icebreaker
+- oboz bridger 10 or merrel thermo 10
+some type of slip on like
+baffin cananda
+sperry top sider
+sorel
+
+
+
+
+shells
+tomato sauce
+pasta sauce
+fish
+cream
+cheddar cheese
+
+
+
+
+
+liner gloves
+hat
+work gloves
+slip on crampons
+north face l bag
+
+
 - Fjällräven Singi down jacket (S)
 
 ## Various/Inbox
