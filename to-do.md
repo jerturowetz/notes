@@ -1,10 +1,10 @@
 # Jer's To-Do List
 
+- pick up window sealant
+- Drop table at Irene's
 - laundry
 - hair cut
-- pick up window sealant
 - Put up the Colville
-- Drop table at Irene's
 - Last thank you cards
 - Thank yous to add:
   - claire issac book
@@ -16,11 +16,10 @@
   - the millers
   - Sandra?
   - Kim?
-
 - Take down Christmas decorations
 - Drop off box at women shelter
 - Baby proofing Billie Ivar and mirror
-- Seal windows 
+- Seal windows
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
