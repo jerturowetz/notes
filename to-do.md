@@ -1,8 +1,8 @@
 # Jer's To-Do List
 
+- Change battery in stud finder
 - Drop table at Irene's
 - hair cut
-- Put up the Colville
 - Last thank you cards
 - Thank yous to add:
   - claire issac book
@@ -16,7 +16,6 @@
   - Kim?
 - Drop off box at women shelter
 - Baby proofing Billie Ivar and mirror
-- Seal windows
 - Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M

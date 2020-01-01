@@ -1,9 +1,5 @@
 # Groceries
 
-kerchup
-coffee fikyers
-milk
-
 ## Provigo
 
 - Bok Choy
@@ -13,16 +9,18 @@ milk
 - frozen shrimp
 - chicken for indian
 - fish
-- cream
 - cheddar cheese
 - Milk
+- cream
 - bagels
 - shells
 - tomato sauce
 - pasta sauce
 - sambal olek
+- Ketchup
 - Pesto
 - olive oil
+- #2 coffee filters
 - ice cream sandwiches
 - formula
 - toilet paper
