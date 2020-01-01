@@ -1,8 +1,8 @@
 # Gift Ideas
 
-
 good bluetooth headphones for max
 piano for sandra
+winter day horse trip
 
 ## Kate
 

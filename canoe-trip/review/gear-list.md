@@ -1,6 +1,9 @@
 //Watershoes
 Chacos or Keen or Teva or Merell
 
+keen newport h2
+
+
 Seam Grip® Sealer & Adhesive (great for spot repairs)
 
 //TEVA-like sandals
@@ -11,6 +14,16 @@ Teva TERRA FI
 
 //Boots
 OTB Abyss II Boots
+
+
+
+ water shoes vs portage boits va leather boots
+
+
+
+
+
+
 
 Suunto A30-L compass
 Silky Saws

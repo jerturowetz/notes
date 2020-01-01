@@ -19,7 +19,6 @@
 - When is bug season
 - What's the bear situation
 - What's the fire situation
-- Any shuttles to and from Montreal?
 - Can I order maps for delivery?
 
 ## Get maps

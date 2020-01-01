@@ -1,5 +1,7 @@
 # Wishlist
 
+black diamond deploy shovel
+
 ## Winter boots
 
 - windriver odyssey size 10
@@ -18,6 +20,10 @@
 
 ## Various/Inbox
 
+- 2 more baby mirrors
+- small shovel for out back
+- helly hansen m polypropelyne long underwear
+- ski googles
 - portable liner gloves & hat
 - North face L bag
 - Quiet practice pad
