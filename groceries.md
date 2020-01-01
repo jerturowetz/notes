@@ -1,5 +1,9 @@
 # Groceries
 
+kerchup
+coffee fikyers
+milk
+
 ## Provigo
 
 - Bok Choy
