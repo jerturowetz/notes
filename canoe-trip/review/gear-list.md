@@ -3,7 +3,7 @@ Chacos or Keen or Teva or Merell
 
 keen newport h2
 
-
+- black diamond deploy shovel
 Seam Grip® Sealer & Adhesive (great for spot repairs)
 
 //TEVA-like sandals
@@ -36,7 +36,7 @@ Trowel instead of a shovel
 MSR Aquatabs
 Gorrila Tape
 Fresnel Lenses
-Sharpen Axe & Machete 
+Sharpen Axe & Machete
 Duct tape sticks
 Whistles for everyone
 
@@ -217,7 +217,7 @@ Camp Chef Everest 2 (gat adaptor hose for attaching to standard propane tank) (c
 Sierra Designs Tensegrity 2 Elite ($500)
 $300 Frost River Isle Royale (JR size works perfect with a 56L, reg size would work great with a 65L dry bag)
 ++ $50 56L SealLine Assault Dry Bag ILBE (NSN 8465-01-560-6727)
-++ $20 Martexin or Obenauf's Heavy Duty LP Boot Preservative (for leather boots & bag straps) 
+++ $20 Martexin or Obenauf's Heavy Duty LP Boot Preservative (for leather boots & bag straps)
 Good barrel pack harness & barrel & Something to attach to front of barrel
 $800 Big Agnes Flying Diamond 8 (for car camping - is huge)
 Other bags?
@@ -235,7 +235,7 @@ Trekking poles & ultralight tarp
 This bag contains canoe repair stuff & on-the-water emergency stuff
 
   * The actual bag (Granite Gear / CSS)
-  * Waterproof flashlight for thwart bag (Ikelite Gamma Dive Light?) 
+  * Waterproof flashlight for thwart bag (Ikelite Gamma Dive Light?)
   * Flares and/or signal light
   * Plastic Bags
   * Float fishing stuff

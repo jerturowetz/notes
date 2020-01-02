@@ -1,25 +1,24 @@
 # Wishlist
 
-black diamond deploy shovel
-
 ## Winter boots
 
-- windriver odyssey size 10
-- kamik icebreaker ?
-- oboz bridger size 10 or merrel thermo 8 size 10
-- some type of slip on like:
-  - baffin cananda
-  - sperry top sider
-  - sorel
+- WindRiver Odyssey Waterproof Duck Boots (10)
+- Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
+- Some type of slip on like (ideall fewer laces):
+  - Sperry Top-Sider Ice Bay Tall Boots (altitude)
+  - Baffin Canada Boots -40F/-40C (altitude)
+  - Kamik Hudson 5 (altitude)
 
 ## Winter coats
 
 - Fjällräven Singi down jacket (S)
-- pajar montpellier M
-- save the duck S?
+- Pajar Montpellier (M) I might have gotten the name wrong
+- Save the Duck something?
 
 ## Various/Inbox
 
+- Kamik icebreaker rain boots (Amazon.ca)
+- Boat shoes or indoor moccassins (great for camping too)
 - 2 more baby mirrors
 - small shovel for out back
 - helly hansen m polypropelyne long underwear
@@ -31,7 +30,7 @@ black diamond deploy shovel
 - Adhesive hooks for inside of bathroom cupboards
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - Marely headphones
-- Black jeans
+- Frank & Oak Jeans
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
