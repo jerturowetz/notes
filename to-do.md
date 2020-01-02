@@ -3,6 +3,9 @@
 - Change battery in stud finder
 - Drop table at Irene's
 - hair cut
+- Drop off box at women shelter
+- Baby proofing (Billie, Ivar and mirror)
+- Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
 - Thank yous to add:
   - claire issac book
@@ -14,9 +17,6 @@
   - the millers
   - Sandra?
   - Kim?
-- Drop off box at women shelter
-- Baby proofing Billie Ivar and mirror
-- Get a family accountant (Yuri's contact or guttman)
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
