@@ -4,20 +4,17 @@
 
 ## Provigo
 
+- Peppercorns
 - Bok Choy
 - onion
-- Potatoes
-- Greens
 - frozen shrimp
 - fish
 - cheddar cheese
-- Milk
 - bagels
 - shells/pasta
 - tomato sauce
 - pasta sauce
 - sambal olek
-- Ketchup
 - Pesto
 - olive oil
 - #2 coffee filters
