@@ -12,11 +12,12 @@
 ## Winter coats
 
 - Fjällräven Singi down jacket (S)
-- Pajar Montpellier (M) I might have gotten the name wrong
+- Pajar Montpellier (M) - I might have gotten the name wrong
 - Save the Duck something?
 
 ## Various/Inbox
 
+- [Paperole shirts](https://www.paperole.com/)
 - Kamik icebreaker rain boots (Amazon.ca)
 - Boat shoes or indoor moccassins (great for camping too)
 - 2 more baby mirrors
