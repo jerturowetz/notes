@@ -1,5 +1,7 @@
 # Groceries
 
+- Advil
+
 ## Provigo
 
 - Bok Choy
@@ -7,13 +9,11 @@
 - Potatoes
 - Greens
 - frozen shrimp
-- chicken for indian
 - fish
 - cheddar cheese
 - Milk
-- cream
 - bagels
-- shells
+- shells/pasta
 - tomato sauce
 - pasta sauce
 - sambal olek
@@ -21,7 +21,7 @@
 - Pesto
 - olive oil
 - #2 coffee filters
-- ice cream sandwiches
+- ice cream
 - formula
 - toilet paper
 - Dish soap
