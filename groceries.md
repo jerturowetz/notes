@@ -4,9 +4,10 @@
 
 ## Provigo
 
-- Peppercorns
 - Bok Choy
 - onion
+- tomatoes
+- bananas
 - frozen shrimp
 - fish
 - cheddar cheese
