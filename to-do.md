@@ -1,5 +1,8 @@
 # Jer's To-Do List
 
+into the badlands
+
+
 - Change battery in stud finder
 - Drop table at Irene's
 - hair cut

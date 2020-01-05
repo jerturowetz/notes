@@ -1,26 +1,25 @@
 # Groceries
 
-- Advil
-
 ## Provigo
 
-- Bok Choy
-- onion
 - tomatoes
 - bananas
+- sweet potato
 - frozen shrimp
-- fish
-- cheddar cheese
+- greek yogurt
+- butter
 - bagels
+- multigrain bread
 - shells/pasta
+- kd x2
 - tomato sauce
 - pasta sauce
 - sambal olek
 - Pesto
-- olive oil
+- mayo
+- frozen fruit
 - #2 coffee filters
-- ice cream
-- formula
+- N/A beer
 - toilet paper
 - Dish soap
 - medium & large freezer bags
@@ -37,7 +36,6 @@
 ## Chinese grocery
 
 - noodles (frozen ?)
-- dumplings
 - Noodles Raw
 - duck, pork
 - sweet chilli

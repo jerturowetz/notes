@@ -1,5 +1,7 @@
 # Wishlist
 
+- cabvas bag (like for toys - zone) for bumble and eatung stuff
+
 ## Winter boots
 
 - WindRiver Odyssey Waterproof Duck Boots (10)
