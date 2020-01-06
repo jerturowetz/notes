@@ -2,20 +2,23 @@
 
 ## Provigo
 
-- tomatoes
-- bananas
-- sweet potato
-- frozen shrimp
-- greek yogurt
+- 4 skin-on, bone-in chicken
+- Chicken breast
+- Corn tortillas
+- 12 oz Whole wheat pasta
+- Red lentils 1 can
+- Kale
+- Green chillies
+- plain greek yogurt
+
+--
+
 - butter
 - bagels
 - multigrain bread
-- shells/pasta
-- kd x2
+- shells/other noodles
 - tomato sauce
 - pasta sauce
-- sambal olek
-- Pesto
 - mayo
 - frozen fruit
 - #2 coffee filters
@@ -23,22 +26,6 @@
 - toilet paper
 - Dish soap
 - medium & large freezer bags
-- small sandwich bags
-
-## Spice store
-
-- Garam Masala
-- Cardamom pods
-- Cloves
-- Balck pepper
-- Oregano
-
-## Chinese grocery
-
-- noodles (frozen ?)
-- Noodles Raw
-- duck, pork
-- sweet chilli
 
 ## Recipies
 
