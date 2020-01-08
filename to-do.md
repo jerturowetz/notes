@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- aaa batteries for closet light
 - tv show: into the badlands
 - Drop table at Irene's
 - hair cut
