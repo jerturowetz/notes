@@ -1,9 +1,6 @@
 # Jer's To-Do List
 
-into the badlands
-
-
-- Change battery in stud finder
+- tv show: into the badlands
 - Drop table at Irene's
 - hair cut
 - Drop off box at women shelter

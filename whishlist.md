@@ -1,6 +1,6 @@
 # Wishlist
 
-- cabvas bag (like for toys - zone) for bumble and eatung stuff
+- canvas bag (like for toys - zone) for bumble and eatung stuff
 
 ## Winter boots
 
