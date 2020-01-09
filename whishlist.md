@@ -1,15 +1,6 @@
 # Wishlist
 
-- canvas bag (like for toys - zone) for bumble and eatung stuff
-
-## Winter boots
-
-- WindRiver Odyssey Waterproof Duck Boots (10)
-- Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
-- Some type of slip on like (ideall fewer laces):
-  - Sperry Top-Sider Ice Bay Tall Boots (altitude)
-  - Baffin Canada Boots -40F/-40C (altitude)
-  - Kamik Hudson 5 (altitude)
+- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 
 ## Winter coats
 
@@ -20,8 +11,6 @@
 ## Various/Inbox
 
 - [Paperole shirts](https://www.paperole.com/)
-- Kamik icebreaker rain boots (Amazon.ca)
-- Boat shoes or indoor moccassins (great for camping too)
 - 2 more baby mirrors
 - small shovel for out back
 - helly hansen m polypropelyne long underwear
@@ -29,28 +18,32 @@
 - portable liner gloves & hat
 - North face L bag
 - Quiet practice pad
-- aaa batteries for closet light
 - Adhesive hooks for inside of bathroom cupboards
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - Marely headphones
 - Frank & Oak Jeans
-- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
 - Gift for vero & falco
 - Besta power bar
 - Besta gear elastic tray
-- light bulb for dog lamp
 - $200 Agg, Andrew, Joe gifts
-- Winter boots:
-  - Merell Thermo 8 size 10
-  - Oboz bridger Insulated size 10
-  - Kamik Icebreaker rain boot
 - New frames:
   - 13" x 16-17" Marlowe concept art
   - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
   - 11" x 16.75" SJ Poster
   - 11" x 17" Rocket ship poster
+
+## Boots/shoes
+
+- Boat shoes or indoor moccassins (great for camping too)
+- Kamik icebreaker rain boots (Amazon.ca)
+- WindRiver Odyssey Waterproof Duck Boots (10)
+- Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
+- Some type of slip on like (ideally fewer laces):
+  - Sperry Top-Sider Ice Bay Tall Boots (altitude)
+  - Baffin Canada Boots -40F/-40C (altitude)
+  - Kamik Hudson 5 (altitude)
 
 ## Music gear
 
