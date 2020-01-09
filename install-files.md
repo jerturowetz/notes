@@ -1,11 +1,5 @@
 # Install files reference list
 
-Below are notes regarding my setup of fresh Windows 10 systems for development.
-
-## Audio device settings
-
-Be sure whatever internal audio device is set to 44,1/24 quality
-
 ## Set permissions on hosts file
 
 only system and admin have permission to write to hosts by default - be sure to add permission for your user so that things like host updaters and editors can make changes to it without needing to run them as admin
@@ -14,9 +8,7 @@ only system and admin have permission to write to hosts by default - be sure to 
 
 - Chocolatey (if doesnt ship with windows)
 - 7zip
-- Adobe Acrobat Pro
-- Adobe Acrobat Reader
-- Adobe CC
+- Adobe stuff
 - AWS Cli
 - Beyond Compare
 - Bulk Rename Utility
@@ -31,11 +23,8 @@ only system and admin have permission to write to hosts by default - be sure to 
   - checkout as-is commit unix
   - symlinks on
 - Google Chrome
-- Mozilla Firefox Developer Edition
-- MS Office
-- MS Visual Studio Code
+- VS Code
 - NodeJS
-- Oracle VirtualBox
 - PO Edit
 - Postman
 - Python 2 & 3
@@ -46,14 +35,10 @@ only system and admin have permission to write to hosts by default - be sure to 
 - Ruby
 - Safari
 - Slack desktop
-- Stardock Fences
 - Docker
-- RDP
 - VLC
-- Yarn
 - ffmpeg (add to /c/Program Files/ffmpeg/ to work with bash aliases)
 - lame x64
-- Shopify theme kit
 - [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
 - Xenu Link Sleuth
 - Screaming Frog SEO spider
@@ -64,7 +49,7 @@ From an elevatoed command prompt: `chocolatey install jq`
 
 ## Git setup
 
-git config --global push.followTags true
+    git config --global push.followTags true
 
 ## Set NPM to use bash instead of cmd on windows
 
