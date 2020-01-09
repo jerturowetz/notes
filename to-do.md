@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+522-8334 denis logemeny
 - tv show: into the badlands
 - Drop table at Irene's
 - hair cut
