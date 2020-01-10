@@ -1,4 +1,4 @@
-# Jer's guide to website SEO & localization
+# Cheat sheet: SEO & localization
 
 ## A guide mostly for web developers dealing with Canadian & Quebec web properties
 
@@ -35,21 +35,21 @@ Following these rules are enough to get you to the 90% factor for on-page SEO:
 
 - Visit Google Webmaster Tools > HTML Improvements
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
-- [Sitemap HREFLANG tool](https://erudite.agency/hreflang-tool/)  
+- [Sitemap HREFLANG tool](https://erudite.agency/hreflang-tool/)
   Simply upload your CSV file and this tool will convert your file into multiple sitemaps as required.
 - SEMRush has a site check tool that looks pretty good but it's $99/month - maybe check reddit
-- SEOQuake  
+- SEOQuake
   Available as a handy chrome plugin
-- [Google webmaster blog](https://webmasters.googleblog.com/)  
+- [Google webmaster blog](https://webmasters.googleblog.com/)
   General knowledge on how to be a good webmaster
-- [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en)  
-  The place to watch your sites and domains and see how people are searching  
+- [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en)
+  The place to watch your sites and domains and see how people are searching
   There's also a host of testing tools available
-- [Isearchfrom](http://isearchfrom.com/)  
+- [Isearchfrom](http://isearchfrom.com/)
   Search as users from different locales/countries/devices
-- [Google CCTLDs language and reference sheet](https://www.distilled.net/blog/uncategorized/google-cctlds-and-associated-languages-codes-reference-sheet/)  
+- [Google CCTLDs language and reference sheet](https://www.distilled.net/blog/uncategorized/google-cctlds-and-associated-languages-codes-reference-sheet/)
   full list of language codes
-- [The hreflang Tags Generator Tool](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/)  
+- [The hreflang Tags Generator Tool](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/)
   for finding appropriate ISO hreflang tags
 
 ## Localization for websites

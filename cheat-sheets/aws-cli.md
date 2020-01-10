@@ -1,4 +1,4 @@
-# Cheat sheet : AWS CLI
+# Cheat sheet: AWS CLI
 
 ## Setting local environment variables for cli
 

@@ -1,4 +1,4 @@
-# Cheat sheet : Windows
+# Cheat sheet: Windows
 
 ## Run a system file check (SFC) both before and after DISM
 
@@ -43,7 +43,7 @@ Last time I had issue with windows explorer opening a new windows every time I d
 
     HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
 
-## remove drive letter for system created volumes
+## Remove drive letter for system created volumes
 
     diskpart
     list volume

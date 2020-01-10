@@ -1,22 +1,26 @@
-# Cheat sheet : Typography
+# Cheat sheet: Typography
 
 From Matej Latin's typography lessons
 
 ## Type size & colour
 
-- A common rule for setting the body text is to set it to a size that would match the size of the text in a book at an arm's length distance
-- 16px for mobile and from 18px to 22px for desktop is a good general rule (this may be different depending on the typeface).
-- _Type colour_ means how heavy black type on a light background looks like (independant of weight)
+A common rule for setting the body text is to set it to a size that would match the size of the text in a book at an arm's length distance
+
+16px for mobile and from 18px to 22px for desktop is a good general rule (this may be different depending on the typeface).
+
+_Type colour_ means how heavy black type on a light background looks like (independant of weight)
 
 ## Line width (measure)
 
-- The ideal width of a line of text is from 45 to 75 characters — including spaces.
+The ideal width of a line of text is from 45 to 75 characters — including spaces.
 
 ## Line-height (leading)
 
-- Too many designers or web developers think of line-height as an isolated text feature, so they tend to set it based on what _seems_ right. Consequently, line-height tends to get set without too much consideration.
-- For paragraphs, ideal line-height is usually between 1.3 and 1.6 (a body text set at 16px should have a line-height from 21px to 26px); but will depend on the things mentioned earlier: typeface design, type size, weight etc.
-- Headings are usually much shorter so they need to have less space between the lines so they don't look like they're drifting apart. Recommended line-height for headings is from 1 to 1.2 so a heading set at 24px will need a line-height from 24px to 29px. This may seem a bit ridiculous at first but try it. Once you see the difference you can't unsee it. _Note that in languages that use capital letters more than others (German for example), it’s recommended to use a larger line-height._
+Too many designers or web developers think of line-height as an isolated text feature, so they tend to set it based on what _seems_ right. Consequently, line-height tends to get set without too much consideration.
+
+For paragraphs, ideal line-height is usually between 1.3 and 1.6 (a body text set at 16px should have a line-height from 21px to 26px); but will depend on the things mentioned earlier: typeface design, type size, weight etc.
+
+Headings are usually much shorter so they need to have less space between the lines so they don't look like they're drifting apart. Recommended line-height for headings is from 1 to 1.2 so a heading set at 24px will need a line-height from 24px to 29px. This may seem a bit ridiculous at first but try it. Once you see the difference you can't unsee it. _Note that in languages that use capital letters more than others (German for example), it’s recommended to use a larger line-height._
 
 ## X-height and type color
 
@@ -66,7 +70,7 @@ If you must justify then also add hyphenation so that it's not total garbage.
 
 ## Vertical rythm (line-height pt2)
 
-To establish sa solid vertical rythm, the line-hight of all elemnts should be relative to the base line-height of the text.
+To establish sa solid vertical rythm, the line-hight of all elements should be relative to the base line-height of the text.
 
 EG: with a body font size of 20px and line-height of 30px, a 55px heading would work well with a line-height and margins relative to the base line height.
 
