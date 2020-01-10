@@ -1,8 +1,7 @@
 # Jer's To-Do List
 
+review seo-and-localization cheat sheer
 522-8334 denis logemeny
-- aaa batteries for closet light
-- tv show: into the badlands
 - Drop table at Irene's
 - hair cut
 - Drop off box at women shelter
