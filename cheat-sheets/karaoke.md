@@ -1,6 +1,6 @@
-# Karaoke
+# Cheat sheet: Karaoke
 
-I like to use karafun as it's pretty straight forward
+Use karafun, it's straightforward
 
 ## Packing list
 
@@ -16,16 +16,14 @@ This list intentionally excludes gear for the audio _output_ as every gig is dif
 - Roll up ext cord w/usb
 - 25' black ext cord for monitor
 - iPad, charging cable stuff & iPad stand
-- Laptop DJ stand
 - USB C to dual HDMI adaptor
 - 25' HDMI cable x2
 - Boom microphone stand
-- Collapsible LCD panel stand
-- Mic stand bag
 - Audio output stuff (e.g. powered monitor(s) w/power, extension & audio cabelling)
 
 ## Missing gear
 
+- Laptop DJ stand
 - Projector (w/stand or riser, case, ext cord)
 - Collapsible LCD panel stand
 - Quick release vesa mount for LCD panel

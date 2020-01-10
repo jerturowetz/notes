@@ -1,71 +1,7 @@
 <?php
-
 /**
- * Figure out how to write better docblock & a function docblock
- * classes and functions with versions, since, params and all that properl
- * same for classes and loops?
+ * Cheat sheet: PHP operators
  */
-
-// Special data types
-$null = null;
-$resource = mysqli_connect('localhost', 'root', 'pass', 'db');
-
-/**
- * Constants
- * Can be booleans, strings, numbers, html or whatever you like. There are 2 formats
- */
-const SOMETHING = 'something';
-define('SOMETHING', 'something');
-
-/**
- * Loop syntax
- */
-for ( $i = 0; $i < 10; $i++ ) {
-    // statement here
-}
-
-foreach ( $array as $key => $value ) {
-    // statement here
-}
-
-do {
-    // code...
-} while ($a <= 10);
-
-switch ( $expression ) {
-	case 0:
-		// do things
-		break;
-	case 1:
-		// do things
-		break;
-	case 3:
-		// do things
-		break;
-	default:
-		// do something
-}
-
-break; // break out of current for, foreach, while, do-while or switch structure
-continue; // Halts current loop but continues to next iteration
-continue 2; // breaks out of nested loops
-
-/**
- * Objects
- */
-class className extends existingClass {
-
-	var $variablename = 'value';
-
-	function functionName() {
-		// do stuff
-	}
-}
-
-$obj = new className;
-$obj->variablename;
-$obj->functionName();
-
 
 /**
  * Arithmetic Operators

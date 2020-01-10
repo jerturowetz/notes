@@ -1,4 +1,4 @@
-# Cheat sheet :: Soldering
+# Cheat sheet: Soldering
 
 [Here's an amazing guide](http://www.whatsbestforum.com/showthread.php?17885-How-to-Solder-An-Illustrated-DIY-Guide-to-Making-Your-Own-Cables/page2)
 

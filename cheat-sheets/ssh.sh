@@ -1,4 +1,5 @@
-# Cheat sheet : ssh
+#!/bin/bash
+# Cheat sheet: ssh
 
 ## Generate keys
 

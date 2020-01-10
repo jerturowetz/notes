@@ -3,15 +3,10 @@
 ## Provigo
 
 - 4 skin-on, bone-in chicken
-- 12 oz Whole wheat pasta
-
---
-
 - bagels
-- shells/other noodles
+- pasta noodles: shells, spaghetti style & penne
 - tomato sauce
 - soy sauce
-- N/A beer
 - Dish soap
 - paper towels
 
