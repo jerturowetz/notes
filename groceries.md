@@ -2,12 +2,11 @@
 
 ## Provigo
 
-- 4 skin-on, bone-in chicken
+- cucumber
 - bagels
 - pasta noodles: shells, spaghetti style & penne
 - tomato sauce
-- soy sauce
-- Dish soap
+- olive oil
 - paper towels
 
 ## Recipies
