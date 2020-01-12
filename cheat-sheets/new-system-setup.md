@@ -1,5 +1,9 @@
 # Cheat sheet: new system setup
 
+- https://www.youtube.com/watch?v=6gQtcoLaMI0
+- https://www.youtube.com/watch?v=d-1jx5hXtyg
+- https://www.youtube.com/watch?v=mWHiP9K8fQ0
+
 ## Audio settings
 
 Be sure whatever internal audio devices are set to the same quality as pro audio software (44,1/24 quality is fine)
@@ -8,19 +12,33 @@ Be sure whatever internal audio devices are set to the same quality as pro audio
 
 On some systems, only admin accounts have permission to write to hosts by default - be sure to add permission for your user so that things like host updaters and editors can make changes without needing to run them as admin
 
+## choco
+
+choco install `
+cmder `
+openssh `
+git `
+googlechrome `
+vscode `
+-y
+
+choco install 7zip
+choco install adobereader
+choco install flashplayerplugin
+choco install adobeair
+choco install adobe-creative-cloud
+choco install awscli
+choco install beyondcompare
+choco install robo3t
+choco install postman
+
 ## Via installers
 
-STart by installing some type of package manager (homebrew, chocolatey) and install s much stuff from there as possible
+Start by installing some type of package manager (homebrew, chocolatey) and install s much stuff from there as possible
 
 Ignore anything unsupported or where OS ships with a reasonable alternative
 
-- [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
-- 7zip
-- Adobe Acrobat Pro
-- Adobe Acrobat Reader
-- Adobe CC
-- AWS cli
-- Beyond Compare
+- insomnia
 - Bulk Rename Utility
 - Ccleaner
 - Chrome
@@ -67,26 +85,20 @@ Ignore anything unsupported or where OS ships with a reasonable alternative
 - Yarn
 - zsh
 
-## WebP codecs etc (if still necessary)
+### Review for windows
 
-- [WEBM DirectShow Filters](https://www.webmproject.org/tools/)
-- [webp codec](https://developers.google.com/speed/webp/download)
+- [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
+
+### NOt windows
+
 
 ## Various extras & config tweaks
 
+    git config --global user.name "Jeremy Turowetz"
+    git config --global user.email "j.turowetz@gmail.com"
     git config --global push.followTags true
     complete -C aws_completer aws
     gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
-
-## Disable OneDrive the right way
-
-Don't uninstall the Windows 10 OneDrive application. If you already did be sure to reinstall in but dont sign in.
-
-Don't confuse the Microsoft OneDrive Windows component with the OneDrive store app. The app should be removed and has no affect on file managed and windows system intagration.
-
-Run `gpedit.msc` & look under _Computer Configuration > Administrative Templates > Windows Components > OneDrive_
-
-Set both _Prevent the usage of OneDrive for File Storage_ items to _enabled_
 
 ## Solve folder issues of windows popping up
 
