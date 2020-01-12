@@ -1,4 +1,18 @@
 # Jer's To-Do List
+https://www.youtube.com/watch?v=6gQtcoLaMI0
+https://www.youtube.com/watch?v=d-1jx5hXtyg
+https://www.youtube.com/watch?v=mWHiP9K8fQ0
+
+choco install `
+cmder `
+openssh `
+git `
+googlechrome `
+vscode `
+-y
+
+
+
 
 - Chrome extensions:
   - LastPass (useful as it can generate insane passwords #security), DarkReader (give your eyes a break and some love), EditThisCookie, React Developers Tool, Redux.
