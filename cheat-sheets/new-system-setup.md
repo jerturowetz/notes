@@ -77,11 +77,25 @@ Not available via choco:
 - zsh
 - tig
 
+
+awscli
+composer
+jq
+neovim
+nvm
+openssl
+pyenv
+
+
+
+
+
 ## Variou#s extras & config tweaks
 
     git config --global user.name "Jeremy Turowetz"
     git config --global user.email "j.turowetz@gmail.com"
     git config --global push.followTags true
+    git config --global pager.branch false
     complete -C aws_completer aws
     gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
     pyenv install 3.8.0
