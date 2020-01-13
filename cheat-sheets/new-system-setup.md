@@ -12,6 +12,8 @@ On some systems, only admin accounts have permission to write to hosts by defaul
 
 ### Windows
 
+Run this in PS `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))`
+
 Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install drivers & chocolatey
 
     choco install `
@@ -59,12 +61,12 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     vlc `
     xnview `
     svg-explorer-extension `
-    choco install adobe-creative-cloud `
     bulkrenameutility `
     -y
 
 Not available via choco:
 
+- Adobe CC
 - screaming frog
 - MS Office
 - Xenu (possibly available on mac via wine)
