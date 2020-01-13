@@ -1,9 +1,5 @@
 # Cheat sheet: new system setup
 
-- https://www.youtube.com/watch?v=6gQtcoLaMI0
-- https://www.youtube.com/watch?v=d-1jx5hXtyg
-- https://www.youtube.com/watch?v=mWHiP9K8fQ0
-
 ## Audio settings
 
 Be sure whatever internal audio devices are set to the same quality as pro audio software (44,1/24 quality is fine)
@@ -12,107 +8,71 @@ Be sure whatever internal audio devices are set to the same quality as pro audio
 
 On some systems, only admin accounts have permission to write to hosts by default - be sure to add permission for your user so that things like host updaters and editors can make changes without needing to run them as admin
 
-## choco
+## Install stuff
 
-choco install `
-cmder `
-openssh `
-git `
-googlechrome `
-vscode `
--y
+### Windows
 
-choco install 7zip
-choco install adobereader
-choco install flashplayerplugin
-choco install adobeair
-choco install adobe-creative-cloud
-choco install awscli
-choco install beyondcompare
-choco install robo3t
-choco install postman
+Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install drivers & chocolatey
 
-## Via installers
+    choco install `
+    cmder `
+    openssh `
+    git `
+    googlechrome `
+    vscode `
+    7zip `
+    adobereader `
+    flashplayerplugin `
+    adobeair `
+    adobe-creative-cloud `
+    awscli `
+    beyondcompare `
+    robo3t `
+    postman `
+    insomnia-rest-api-client `
+    bulkrenameutility `
+    ccleaner `
+    composer `
+    php `
+    docker `
+    dropbox `
+    ffmpeg `
+    winscp `
+    imagemagick `
+    jq `
+    make `
+    megasync `
+    pyenv-win `
+    nvm `
+    php `
+    quicktime `
+    ruby `
+    slack `
+    yarn `
+    vlc `
+    xnview `
+    -y
 
-Start by installing some type of package manager (homebrew, chocolatey) and install s much stuff from there as possible
-
-Ignore anything unsupported or where OS ships with a reasonable alternative
-
-- insomnia
-- Bulk Rename Utility
-- Ccleaner
-- Chrome
-- cmder
-- composer
-- ConEmu
-- Docker
-- Dropbox
-- ffmpeg
-- Filezilla
-- Firefox Developer Edition
-- Git
-  - Turn off explorer integration
-  - use from Windows command prompt
-  - checkout as-is commit unix
-  - symlinks on
-- imagemagick
-- Java
-- jq
-- make
-- MegaSync
-- MS Office
-- nvm & nodeJS
-- ohmyzsh
-- php
-- PO Edit
-- Postman
-- pyenv & python 2 & 3
-  - make sure to use x64 versions for both
-  - adding both to path
-  - don't install in `\program files\`
-- Quicktime
-- rvm & ruby
-- Screaming Frog SEO spider
-- Shopify theme kit
-- Slack
-- tig
-- VLC
-- VLC
-- VS Code
-- Xenu Link Sleuth
-- xnview
-- xpdf
-- Yarn
-- zsh
-
-### Review for windows
+Not available via choco:
 
 - [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
+- screaming frog
+- MS Office
+- Xenu
 
-### NOt windows
+### MacOS
 
+- ohmyzsh
+- zsh
+- tig
 
-## Various extras & config tweaks
+## Variou#s extras & config tweaks
 
     git config --global user.name "Jeremy Turowetz"
     git config --global user.email "j.turowetz@gmail.com"
     git config --global push.followTags true
     complete -C aws_completer aws
     gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
-
-## Solve folder issues of windows popping up
-
-Run `regedit` and find the following key:
-
-    HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
-
-Right click and delete the whole folder
-
-## Windows 10 Pro - reset the start menu
-
-Erase the following reg key:
-
-    HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudStore\Store\Cache\DefaultAccount
 
 ## Change the annoying MS Office `Custom Office Templates` folder location
 
