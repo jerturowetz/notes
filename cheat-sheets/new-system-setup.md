@@ -18,19 +18,26 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     cmder `
     openssh `
     git `
+    jre8 `
+    adobeair `
+    curl `
+    quicktime `
+    ruby `
+    spotify `
+    steam `
+    qbittorrent `
+    erlang `
     googlechrome `
     vscode `
     7zip `
     adobereader `
     flashplayerplugin `
     adobeair `
-    adobe-creative-cloud `
     awscli `
     beyondcompare `
     robo3t `
     postman `
     insomnia-rest-api-client `
-    bulkrenameutility `
     ccleaner `
     composer `
     php `
@@ -51,14 +58,16 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     yarn `
     vlc `
     xnview `
+    svg-explorer-extension `
+    choco install adobe-creative-cloud `
+    bulkrenameutility `
     -y
 
 Not available via choco:
 
-- [SVG explorer extension](https://github.com/maphew/svg-explorer-extension)
 - screaming frog
 - MS Office
-- Xenu
+- Xenu (possibly available on mac via wine)
 
 ### MacOS
 
@@ -73,6 +82,8 @@ Not available via choco:
     git config --global push.followTags true
     complete -C aws_completer aws
     gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
+    pyenv install 3.8.0
+    pyenv install 2.7.15
 
 ## Change the annoying MS Office `Custom Office Templates` folder location
 
