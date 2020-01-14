@@ -64,6 +64,10 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     bulkrenameutility `
     -y
 
+
+    mingw64
+
+
 Not available via choco:
 
 - Adobe CC
@@ -77,7 +81,7 @@ Not available via choco:
 - zsh
 - tig
 
-
+shellcehck
 awscli
 composer
 jq
@@ -88,6 +92,23 @@ pyenv
 
 
 
+
+transmit
+xcode
+terminus
+xcode
+
+setup
+google cal
+gmail
+play music
+bandcamp
+gdrive
+mega
+prompt
+
+
+panic stuff
 
 
 ## Variou#s extras & config tweaks
