@@ -1,5 +1,9 @@
 # Wishlist
 
+hair stuff
+mitchum
+
+
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 
 ## Winter coats

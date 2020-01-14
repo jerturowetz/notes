@@ -2,12 +2,11 @@
 
 ## Provigo
 
-- cucumber
-- bagels
-- pasta noodles: shells, spaghetti style & penne
+- pasta shells & fancy thick spaghetti
 - tomato sauce
 - olive oil
-- paper towels
+- bleach
+- recycling bags
 
 ## Recipies
 
