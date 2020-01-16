@@ -107,9 +107,7 @@ gdrive
 mega
 prompt
 
-
 panic stuff
-
 
 ## Variou#s extras & config tweaks
 
@@ -121,6 +119,22 @@ panic stuff
     gem install sassc jekyll bundler jekyll-paginate-v2 jekyll-feed jekyll-gist rouge wdm compass
     pyenv install 3.8.0
     pyenv install 2.7.15
+
+## iTerm2 better key bindings
+
+To set
+⌥ + ← or → move one word backward/forward
+⌘ + ← or → move to beginning/end of line
+
+Put this in your .zshrc
+
+    bindkey "[D" backward-word
+    bindkey "[C" forward-word
+    bindkey "^[a" beginning-of-line
+    bindkey "^[e" end-of-line
+
+Then open iTerm2 preferences >> keys
+add new binding for just ⌘← and ⌘→ by chosing the "Send escape sequence" action and put there only "a" or "e".
 
 ## Change the annoying MS Office `Custom Office Templates` folder location
 

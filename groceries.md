@@ -4,9 +4,8 @@
 
 - pasta shells & fancy thick spaghetti
 - tomato sauce
-- olive oil
-- bleach
-- recycling bags
+- Coffee
+- Peanut butter
 
 ## Recipies
 
