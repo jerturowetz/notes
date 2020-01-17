@@ -6,6 +6,8 @@
 - tomato sauce
 - Coffee
 - Peanut butter
+- oj
+- eggs
 
 ## Recipies
 
