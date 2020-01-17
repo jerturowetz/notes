@@ -1,11 +1,5 @@
 # Wishlist
 
-hair stuff
-mitchum
-
-
-- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
-
 ## Winter coats
 
 - Fjällräven Singi down jacket (S)
@@ -14,7 +8,13 @@ mitchum
 
 ## Various/Inbox
 
+- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+- [Solids tshirt](https://solids.bandcamp.com/merch)
+- [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+- [Audio Technica ATH-M50xWH](http://www.economik.com/audio-technica/ath-m50xwh/)
 - 2 more baby mirrors
 - small shovel for out back
 - helly hansen m polypropelyne long underwear

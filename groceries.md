@@ -1,5 +1,8 @@
 # Groceries
 
+- hair stuff
+- mitchum
+
 ## Provigo
 
 - pasta shells & fancy thick spaghetti
