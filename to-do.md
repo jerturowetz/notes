@@ -1,16 +1,9 @@
 # Jer's To-Do List
 
-- Chrome extensions:
-  - DarkReader (give your eyes a break and some love), EditThisCookie, React Developers Tool, Redux.
-- VS Code extensions:
-  - GitLens, Shellcheck, Terraform, ESLint, TSLint, Prettier, Docker, DotENV, npm Intellisense, npm, Bracket Pair Colorizer, Toggle Quotes, Bookmarks.
 - 514-522-8334 denis logemeny
-- aaa batteries for closet light
 - Drop table at Irene's
 - review seo-and-localization cheat sheer
-- 522-8334 denis logemeny
 - hair cut
-- Drop off box at women shelter
 - Baby proofing (Billie, Ivar and mirror)
 - Get a family accountant (Yuri's contact or guttman)
 - Last thank you cards
