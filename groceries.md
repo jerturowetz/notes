@@ -11,6 +11,9 @@
 - Peanut butter
 - OJ
 - Eggs
+- Bread etc
+- Bleach
+- Recycling bags
 
 ## Recipies
 
