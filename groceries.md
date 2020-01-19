@@ -2,6 +2,9 @@
 
 - hair stuff
 - mitchum
+- baby butt cream
+- #3 diapers
+- formula
 
 ## Provigo
 
@@ -10,8 +13,11 @@
 - Coffee
 - Peanut butter
 - OJ
+- bananas
+- apple
 - Eggs
-- Bread etc
+- white sugar
+- flour
 - Bleach
 - Recycling bags
 
