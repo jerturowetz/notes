@@ -3,11 +3,11 @@
 - hair stuff
 - mitchum
 - baby butt cream
-- #3 diapers
 - formula
 
 ## Provigo
 
+- shredded carrots
 - pasta shells & fancy thick spaghetti
 - tomato sauce
 - Coffee
