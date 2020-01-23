@@ -1,4 +1,11 @@
 # Jer's To-Do List
+514
+8670662
+
+
+sony mdr v500
+
+
 
 - 514-522-8334 denis logemeny
 - Drop table at Irene's

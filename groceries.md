@@ -4,21 +4,12 @@
 - mitchum
 - baby butt cream
 - formula
+- baby crackers
 
 ## Provigo
 
-- shredded carrots
 - pasta shells & fancy thick spaghetti
 - tomato sauce
-- Coffee
-- Peanut butter
-- OJ
-- bananas
-- apple
-- Eggs
-- white sugar
-- flour
-- Bleach
 - Recycling bags
 
 ## Recipies
