@@ -1,13 +1,9 @@
 # Groceries
 
-- hair stuff
-- mitchum
-- baby butt cream
-- formula
-- baby crackers
-
 ## Provigo
 
+- gingerale
+- whole milk (1 l)
 - pasta shells & fancy thick spaghetti
 - tomato sauce
 - Recycling bags

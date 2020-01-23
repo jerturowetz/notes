@@ -1,12 +1,6 @@
 # Jer's To-Do List
-514
-8670662
 
-
-sony mdr v500
-
-
-
+- Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - 514-522-8334 denis logemeny
 - Drop table at Irene's
 - review seo-and-localization cheat sheet
@@ -24,7 +18,6 @@ sony mdr v500
   - the millers
   - Sandra?
   - Kim?
-- Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - GASM follow up

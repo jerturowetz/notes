@@ -8,6 +8,10 @@
 
 ## Various/Inbox
 
+- House of Marley Smile Jamaica Earbuds
+- Sea to Summit Event Compression Dry Sack,Medium & small
+- hair stuff
+- sony mdr v500
 - power bar with flat plug for under ivar
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - [Solids tshirt](https://solids.bandcamp.com/merch)
