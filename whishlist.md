@@ -1,7 +1,5 @@
 # Wishlist
 
-power bar with flat pkug fornunder ivar
-
 ## Winter coats
 
 - Fjällräven Singi down jacket (S)
@@ -10,6 +8,7 @@ power bar with flat pkug fornunder ivar
 
 ## Various/Inbox
 
+- power bar with flat plug for under ivar
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
@@ -20,7 +19,6 @@ power bar with flat pkug fornunder ivar
 - 2 more baby mirrors
 - small shovel for out back
 - helly hansen m polypropelyne long underwear
-- ski googles
 - portable liner gloves & hat
 - North face L bag
 - Quiet practice pad

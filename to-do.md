@@ -2,7 +2,7 @@
 
 - 514-522-8334 denis logemeny
 - Drop table at Irene's
-- review seo-and-localization cheat sheer
+- review seo-and-localization cheat sheet
 - hair cut
 - Baby proofing (Billie, Ivar and mirror)
 - Get a family accountant (Yuri's contact or guttman)
