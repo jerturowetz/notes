@@ -10,9 +10,7 @@
 
 - metal strainer spoon thing
 - House of Marley Smile Jamaica Earbuds
-- Sea to Summit Event Compression Dry Sack,Medium & small
 - hair stuff
-- sony mdr v500
 - power bar with flat plug for under ivar
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - [Solids tshirt](https://solids.bandcamp.com/merch)
@@ -21,16 +19,11 @@
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Audio Technica ATH-M50xWH](http://www.economik.com/audio-technica/ath-m50xwh/)
-- 2 more baby mirrors
-- small shovel for out back
-- helly hansen m polypropelyne long underwear
-- portable liner gloves & hat
+- 1 more baby mirrors
 - North face L bag
 - Quiet practice pad
 - Adhesive hooks for inside of bathroom cupboards
 - Sea to Summit Event Compression Dry Sack, Medium, small
-- Marely headphones
-- Frank & Oak Jeans
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
 - Gift for vero & falco
@@ -46,7 +39,6 @@
 ## Boots/shoes
 
 - Boat shoes or indoor moccassins (great for camping too)
-- Kamik icebreaker rain boots (Amazon.ca)
 - WindRiver Odyssey Waterproof Duck Boots (10)
 - Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of slip on like (ideally fewer laces):
