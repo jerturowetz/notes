@@ -21,8 +21,6 @@
 - [Audio Technica ATH-M50xWH](http://www.economik.com/audio-technica/ath-m50xwh/)
 - 1 more baby mirrors
 - North face L bag
-- Quiet practice pad
-- Adhesive hooks for inside of bathroom cupboards
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle

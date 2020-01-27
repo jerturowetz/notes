@@ -2,12 +2,13 @@
 
 ## Provigo
 
-- tomatoes
-- spinach/whatever green
-- pasta shells & fancy thick spaghetti
+- Skin on bone in thighs
+- sliced cheese
+- ice cream
+- peppercorns
+- thick salt
+- fancy thick spaghetti
 - tomato sauce
-- Recycling bags
-- dish soap
 
 ## Recipies
 
