@@ -2,6 +2,11 @@
 
 ## Provigo
 
+- bananas
+- apples
+- spinach
+- multigrain bread
+- baby cereals
 - Skin on bone in thighs
 - sliced cheese
 - ice cream

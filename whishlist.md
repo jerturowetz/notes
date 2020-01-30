@@ -9,19 +9,19 @@
 ## Various/Inbox
 
 - metal strainer spoon thing
-- House of Marley Smile Jamaica Earbuds
-- hair stuff
-- power bar with flat plug for under ivar
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+- 1 more baby mirrors
+- North face L bag
+- Sea to Summit Event Compression Dry Sack, Medium, small
+
+
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- [Audio Technica ATH-M50xWH](http://www.economik.com/audio-technica/ath-m50xwh/)
-- 1 more baby mirrors
-- North face L bag
-- Sea to Summit Event Compression Dry Sack, Medium, small
+
+
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
 - Gift for vero & falco
