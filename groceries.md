@@ -2,13 +2,22 @@
 
 ## Provigo
 
+- better asian noodles
+- shrimp
+
+- pickles
+- lemon
 - bananas
 - apples
 - spinach
-- multigrain bread
-- baby cereals
+- baby tomatoes
+- bagels
+- smoked salmon
+- eggs
+- onion
+- cucumber
+- kd x2
 - Skin on bone in thighs
-- sliced cheese
 - ice cream
 - peppercorns
 - thick salt
