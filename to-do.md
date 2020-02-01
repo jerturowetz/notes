@@ -1,5 +1,6 @@
 # Jer's To-Do List
 
+- denis ‭+1 (514) 522-8334‬
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - 514-522-8334 denis logemeny
 - Drop table at Irene's
