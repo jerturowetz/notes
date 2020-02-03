@@ -1,22 +1,25 @@
 # Wishlist
 
-- metal strainer spoon thing
-- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+Amazon US for all:
+
+- [Plug socket covers](https://www.amazon.ca/Safety-1st-Plug-Protectors-Pack/dp/B007TNL9WO/)
+- [Spider skimmer](https://www.amazon.ca/Indian-Arts-Stainless-Strainer-Spaghetti/dp/B07NVLY3ZP/)
 - 1 more baby mirrors
-- North face L bag
 - Sea to Summit Event Compression Dry Sack, Medium, small
 
+- Besta power bar
+- Besta gear elastic tray
+- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-
+- North face L bag
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
 - Gift for vero & falco
-- Besta power bar
-- Besta gear elastic tray
 - $200 Agg, Andrew, Joe gifts
 - New frames:
   - 13" x 16-17" Marlowe concept art

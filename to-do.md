@@ -1,30 +1,18 @@
-# Jer's To-Do List
+# Jeremy's To-Do List
 
-- denis ‭+1 (514) 522-8334‬
+- Denis ‭+1 (514) 522-8334‬
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
-- 514-522-8334 denis logemeny
 - Drop table at Irene's
-- review seo-and-localization cheat sheet
-- hair cut
+- review SEO and localization cheat sheet
 - Baby proofing (Billie, Ivar and mirror)
-- Get a family accountant (Yuri's contact or guttman)
+- Call Mickey for taxes
 - Last thank you cards
-- Thank yous to add:
-  - claire issac book
-  - jordan pineapple & sauce
-  - raoul ricardo ornament
-  - liz and fred
-  - carol and brian
-  - cathy
-  - the millers
-  - Sandra?
-  - Kim?
 - Pick up drums chez Mike M
 - Day care stalking, specifically the CHUM and [this daycare](https://www.facebook.com/pg/cpelavouteenchantee/about/?ref=page_internal)
 - GASM follow up
-- Dermatologist follow up (it aint advil)
-- Call equifax re RBC accounts pre bankrupcy 1-866-828-5961 (press 7)
-- Warn shakti of email changes & shut down rackspace
+- Dermatologist follow up
+- Call Equifax re RBC accounts pre bankruptcy 1-866-828-5961 (press 7)
+- Warn Shakti of email changes & shut down Rackspace
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)

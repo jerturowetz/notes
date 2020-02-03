@@ -1,7 +1,5 @@
 # Groceries
 
-## Provigo
-
 - Spaghetti sauce
 - fancy thick spaghetti
 - pickles
@@ -13,7 +11,7 @@
 - peppercorns
 - tomato sauce
 
-## Recipies
+## Recipes
 
 - sheet pan pork tenderloin
 - beef barbacoa

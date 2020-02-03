@@ -42,7 +42,6 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     insomnia-rest-api-client `
     ccleaner `
     composer `
-    php `
     docker `
     dropbox `
     ffmpeg `
@@ -60,13 +59,10 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     yarn `
     vlc `
     xnview `
+    mingw64 `
     svg-explorer-extension `
     bulkrenameutility `
     -y
-
-
-    mingw64
-
 
 Not available via choco:
 
@@ -108,6 +104,27 @@ mega
 prompt
 
 panic stuff
+
+brew install tree
+
+for docker sync:
+brew install unison
+brew install eugenmayer/dockersync/unox
+
+
+
+brew install rbenv
+rbenv init
+rbenv install -l
+rbenv install 2.0.0-p247
+rbenv install 2.7.0
+
+
+
+gem install bundler
+
+npm install -g svgo
+
 
 ## Variou#s extras & config tweaks
 
