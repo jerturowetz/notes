@@ -1,26 +1,16 @@
 # Wishlist
 
-## Winter coats
-
-- Fjällräven Singi down jacket (S)
-- Pajar Montpellier (M) - I might have gotten the name wrong
-- Save the Duck something?
-
-## Various/Inbox
-
 - metal strainer spoon thing
 - 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
 - 1 more baby mirrors
 - North face L bag
 - Sea to Summit Event Compression Dry Sack, Medium, small
 
-
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-
 
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
@@ -109,14 +99,12 @@
 - 5/8-27 mounting plate
 - OnStage TMO1 Multi Clamp Microphone Mount
 - cable gland joints for headphone repairs
-- Used Audio Technica ATH-M50(x) headphones
 - Furman plug lock
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape
 - Ampeg knob
 - Ampeg casters
 - better clutch
-- Quiklok Z-726L stand w/ZM-99 wheels & ZM-91 (6 space) or ZM-93 (4 space) rack
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
@@ -127,6 +115,5 @@
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
 - 7a sticks
-- Keyboard stand
-- [Audio technica ath-m50x](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html)
+- keyboard stand
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
