@@ -1,5 +1,8 @@
 # Groceries
 
+- flour
+- milk
+- bananas
 - Spaghetti sauce
 - fancy thick spaghetti
 - pickles
