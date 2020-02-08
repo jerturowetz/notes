@@ -1,26 +1,32 @@
 # Groceries
 
-- coffee x2
-- whole chicken
-- english muffins/bagels
-- smoked salmon
-- frozen fruit
-- dumplings x2
-- mayo
 - cherry tomatoes
 - spinach
+- bananas
+- whole chicken
+- smoked salmon
+- Skin on bone in thighs
 - butter
-- dish soap
+- english muffins/bagels
+- coffee x2
+- flour
 - Spaghetti sauce
+- tomato sauce
 - fancy thick spaghetti
 - pickles
-- bagels
-- smoked salmon
+- mayo
 - kd x2
-- Skin on bone in thighs
-- ice cream
 - peppercorns
-- tomato sauce
+- ice cream
+- frozen fruit
+- dish soap
+- paper towels
+
+## Asian grocery
+
+- dumplings x2
+- noodles
+- shrimp
 
 ## Recipes
 

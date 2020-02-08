@@ -1,4 +1,4 @@
-# [Recipie: Spatchcock, Herb-Rubbed Turkey](http://www.seriouseats.com/2012/11/how-to-spatchcock-cook-turkey-thanksgiving-fast-easy-way-spatchcocked-slideshow.html)
+# [Recipe: Spatchcock, Herb-Rubbed Turkey](http://www.seriouseats.com/2012/11/how-to-spatchcock-cook-turkey-thanksgiving-fast-easy-way-spatchcocked-slideshow.html)
 
 Turkeys are an operation so good thing you're an operator! PLAN AHEAD: this will very likely take about 90 mins of prep & 90 mins of cooking. The turkey also needs to rest for about 20 mins after you're done so Get started 3 & 1/2 hours before you want to eat.
 
