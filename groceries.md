@@ -1,5 +1,16 @@
 # Groceries
 
+- coffee x2
+- whole chicken
+- english muffins/bagels
+- smoked salmon
+- frozen fruit
+- dumplings x2
+- mayo
+- cherry tomatoes
+- spinach
+- butter
+- dish soap
 - Spaghetti sauce
 - fancy thick spaghetti
 - pickles
