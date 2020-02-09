@@ -1,19 +1,14 @@
 # Wishlist
 
-Amazon US for all:
-
+- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Plug socket covers](https://www.amazon.ca/Safety-1st-Plug-Protectors-Pack/dp/B007TNL9WO/)
 - [Spider skimmer](https://www.amazon.ca/Indian-Arts-Stainless-Strainer-Spaghetti/dp/B07NVLY3ZP/)
 - 1 more baby mirrors
 - Sea to Summit Event Compression Dry Sack, Medium, small
-
 - Besta power bar
 - Besta gear elastic tray
-- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
-
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)

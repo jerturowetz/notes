@@ -7,7 +7,6 @@
 - smoked salmon
 - Skin on bone in thighs
 - butter
-- english muffins/bagels
 - coffee x2
 - flour
 - Spaghetti sauce
@@ -17,7 +16,6 @@
 - mayo
 - kd x2
 - peppercorns
-- ice cream
 - frozen fruit
 - dish soap
 - paper towels
