@@ -1,5 +1,9 @@
 # Jeremy's To-Do List
 
+basement 3
+tommy tone
+
+
 - Denis ‭+1 (514) 522-8334‬
 - Pick up EQ @Audio Technique (514-597-0707) - BSS FCS-960
 - Drop table at Irene's
