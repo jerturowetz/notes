@@ -13,6 +13,7 @@ Amazon US for all:
 
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
@@ -38,13 +39,6 @@ Amazon US for all:
   - Kamik Hudson 5 (altitude)
 
 ## Music gear
-
-### Redco
-
-- 50' BLUE Mogami W2893 Low profile cable for short patches
-- 50' BLACK Redco TGS-01 balanced medium light cable (for patches & headphone repair)
-- 120' RED Canare L-4E6S Quad mic cable (20' cables x6)
-- 90' ORANGE Canare L-4E6S Quad mic cable (15' cables x6)
 
 ### Mouser
 
