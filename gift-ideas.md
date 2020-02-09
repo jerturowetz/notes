@@ -1,5 +1,6 @@
 # Gift Ideas
 
+cathy meat thermometer
 good bluetooth headphones for max
 piano for sandra
 winter day horse trip
