@@ -1,6 +1,9 @@
 # Wishlist
 
-- 3 more small freezer bins container stpre, 2 large plastic for under caninets, 1 more wire
+- *Container store:*
+  - 3 small freezer bins
+  - 2 large plastic (under cabinets)
+  - 1 metal (under cabinets)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Plug socket covers](https://www.amazon.ca/Safety-1st-Plug-Protectors-Pack/dp/B007TNL9WO/)
