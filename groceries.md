@@ -5,10 +5,6 @@
 - 1 whole chile negro
 - 4 chipotle chilis packed in adobo
 - salsa ingredients(?)
-- kd x2
-- yogurt ?
-- flour ?
-- bananas ? a
 
 ## Asian grocery
 
