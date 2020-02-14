@@ -1,5 +1,57 @@
 # Jeremy's To-Do List
 
+what id really like to do is deploy via rsync (dont scrap build yet)
+
+
+deployments
+
+deploying to dev (for reviews)
+
+step 1: make surr master @ dev are up tp date
+
+git checkout dev
+git pull
+git checkout master
+git pull
+
+step 2: make sure your feature branch is up to date with master
+
+git checkout your-feature-branch
+git merge master
+resolve conflicts: 
+npm run watch
+commit any updated build files
+
+step 3: make sure dev is up to date with master
+
+same as step 2 just with dev
+
+step 4: merge your feature into dev
+
+push
+
+
+
+
+
+deploying to production (after reviews)
+
+
+
+
+
+
+
+
+to deploy to dev for reviews,youre gonna wanna make sure:
+
+A) dev is up to date with master
+
+
+
+
+
+
 - Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
 - Drop table at Irene's
 - review SEO and localization cheat sheet
