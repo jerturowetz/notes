@@ -1,5 +1,6 @@
 # Wishlist
 
+- [XPS battery replacement](https://www.ifixit.com/Store/PC-Laptop/Dell-XPS13-9343-9350-Replacement-Laptop-Battery/IF328-012?o=2)
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
