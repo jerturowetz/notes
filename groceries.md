@@ -20,6 +20,12 @@
 - Coffee
 - Spiral pasta
 
+## Pasta shop
+
+- Meatballs
+- Meat sauce
+- Lasagne
+
 ## Asian grocery
 
 - dumplings x2
