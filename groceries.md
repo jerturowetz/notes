@@ -19,6 +19,7 @@
 - Jam
 - Coffee
 - Spiral pasta
+- Sandwich bags
 
 ## Pasta shop
 

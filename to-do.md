@@ -1,13 +1,5 @@
 # Jeremy's To-Do List
 
-1. Billie Eilish - When We All Fall Asleep, Where Do We Go?
-2. Tyler, the Creator - IGOR
-4. Wilco - Ode to Joy
-5. Pup - Morbid Stuff
-7. Wintersleep - In the Land Of
-9. Harry Styles - Fine Line
-10. Raconteurs - Help Us Stranger
-
 - 2nd floor door 5
 - Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
 - Drop table at Irene's
@@ -24,6 +16,16 @@
 - [Hydro Quebec electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a danse show](https://www.quebecdanse.org/)
+
+## Music from Rob
+
+1. Billie Eilish - When We All Fall Asleep, Where Do We Go?
+1. Tyler, the Creator - IGOR
+1. Wilco - Ode to Joy
+1. Pup - Morbid Stuff
+1. Wintersleep - In the Land Of
+1. Harry Styles - Fine Line
+1. Raconteurs - Help Us Stranger
 
 ## Shrink
 
