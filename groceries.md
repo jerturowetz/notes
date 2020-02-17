@@ -1,14 +1,24 @@
 # Groceries
 
-- Bread
+- Spinach
+- Sweet potatoes
+- Red cabbage
+- Cauliflower
+- Onion
 - Bananas
-- milk
-- coffee
-- sweet potato
-- spiral pasta
-- plain & vanilla greek yogurt
-- sliced cheese
-- brick cheese
+- Blueberries or strawberries
+- Lemon, Lime
+- Apples
+- Milk
+- Butter
+- Plain & vanilla greek yogurt
+- Sliced cheese
+- Brick cheese
+- Bread
+- Corn tortillas
+- Jam
+- Coffee
+- Spiral pasta
 
 ## Asian grocery
 

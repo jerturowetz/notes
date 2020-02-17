@@ -1,6 +1,6 @@
 # Wishlist
 
-- bigger can tire box for v2 baby clothes. maybe use existing for bags
+- bigger can tire box for v2 baby clothes. maybe use existing med box for bags
 - [XPS battery replacement](https://www.ifixit.com/Store/PC-Laptop/Dell-XPS13-9343-9350-Replacement-Laptop-Battery/IF328-012?o=2)
 - *Container store:*
   - 3 small freezer bins
@@ -8,7 +8,6 @@
   - 1 metal (under cabinets)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- [Plug socket covers](https://www.amazon.ca/Safety-1st-Plug-Protectors-Pack/dp/B007TNL9WO/)
 - [Spider skimmer](https://www.amazon.ca/Indian-Arts-Stainless-Strainer-Spaghetti/dp/B07NVLY3ZP/)
 - 1 more baby mirrors
 - Sea to Summit Event Compression Dry Sack, Medium, small
@@ -20,7 +19,7 @@
 - North face L bag
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
-- Gift for vero & falco
+- Gift card for vero & falco
 - $200 Agg, Andrew, Joe gifts
 - New frames:
   - 13" x 16-17" Marlowe concept art
@@ -53,7 +52,6 @@
 
 ### Mics
 
-- Sennheiser e614 x2 (oh)
 - EV 635A (drum WURST on floor) (oh)
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
