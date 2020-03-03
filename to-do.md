@@ -1,6 +1,5 @@
 # Jeremy's To-Do List
 
-- 2nd floor door 5
 - Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
 - Drop table at Irene's
 - review SEO and localization cheat sheet

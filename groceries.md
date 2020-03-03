@@ -2,13 +2,14 @@
 
 - Spinach
 - Sweet potatoes
-- Red cabbage
 - Cauliflower
 - Onion
 - Bananas
 - Blueberries or strawberries
+- Pineapple
 - Lemon, Lime
 - Apples
+- OJ
 - Milk
 - Butter
 - Plain & vanilla greek yogurt
@@ -32,3 +33,8 @@
 - dumplings x2
 - noodles
 - shrimp
+
+## Pharmacy
+
+- Advil
+- Loratadine
