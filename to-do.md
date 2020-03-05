@@ -1,5 +1,10 @@
 # Jeremy's To-Do List
 
+- ikea batteey drop off
+- clone private repo in working copy
+- add perry to gcal
+- get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
+- collect tax info 
 - sign docs at td
 - jam soace shop vac
 - reactivate td savings autodeposit
