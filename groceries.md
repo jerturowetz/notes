@@ -1,25 +1,12 @@
 # Groceries
 
-- Spinach
-- Sweet potatoes
-- Cauliflower
-- Onion
-- Bananas
-- Blueberries or strawberries
-- Pineapple
-- Lemon, Lime
-- Apples
 - OJ
-- Milk
 - Butter
-- Plain & vanilla greek yogurt
 - Sliced cheese
 - Brick cheese
-- Bread
-- Corn tortillas
 - Jam
 - Coffee
-- Spiral pasta
+- Penne & spiral pasta
 - Sandwich bags
 
 ## Pasta shop
@@ -27,6 +14,7 @@
 - Meatballs
 - Meat sauce
 - Lasagne
+- Noodles
 
 ## Asian grocery
 
@@ -36,5 +24,4 @@
 
 ## Pharmacy
 
-- Advil
-- Loratadine
+- Nair
