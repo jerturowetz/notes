@@ -1,5 +1,25 @@
 # Jeremy's To-Do List
 
+- sign docs at td
+- jam soace shop vac
+- reactivate td savings autodeposit
+- silent practice pad
+- call QPIP re benedits
+- cats (3328 Ave Troie H3V 1B1 apt 901)
+- iphone repair (ubreakifix):
+  - battery replace
+  - get photos off old phone
+- new bank card
+- can tire boxes
+
+connect washer to wifi & app
+add visa to wallet
+pay videoteon
+pay jam space
+verify prey
+organize liked in contacts
+sync phone with linked in
+
 - find a dell battery
 - Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
 - Call Mickey for taxes
