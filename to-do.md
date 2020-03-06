@@ -1,28 +1,32 @@
 # Jeremy's To-Do List
 
-- iPhone repair (ubreakifix):
-  - battery replace
-  - get photos off old phone
+- vero & falco card
+- connect washer to wifi & app
+- verify prey
 - taxes:
   - collect tax documents
   - Organize document drop off for mickey
+- mimi email re bumble
 - td bank
   - add visa to wallet
   - sign docs at td
+- can tire run
+- find a dell battery
+- Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
+- Warn Shakti of email changes & shut down Rackspace
+
+- iPhone repair (ubreakifix):
+  - battery replace
+  - get photos off old phone
 - Jam space key for Perry
 - Google photos not in albums
 - IKEA battery drop off
 - get vaccine booklet signed at jean cotu 1351 laurier (Thursdays 2-6pm)
 - reactivate td savings auto-deposit
 - cats (3328 Ave Troie H3V 1B1 apt 901)
-- connect washer to wifi & app
 - pay videoteon
 - pay jam space
-verify prey
 - organize liked in contacts & sync phone contacts
-- find a dell battery
-- Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
-- Warn Shakti of email changes & shut down Rackspace
 - Last thank you cards
 - Pick up drums chez Mike M
 - Maclaren stroller support case # 171472

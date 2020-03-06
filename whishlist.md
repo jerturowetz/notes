@@ -1,5 +1,7 @@
 # Wishlist
 
+- soup bowls
+- better chopsticks
 - silent practice pad
 - jam space shop vac
 - bigger can tire box for v2 baby clothes. maybe use existing med box for bags
