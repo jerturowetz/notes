@@ -1,7 +1,6 @@
 # Jeremy's To-Do List
 
 - ikea batteey drop off
-- clone private repo in working copy
 - add perry to gcal
 - get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
 - collect tax info 
@@ -9,7 +8,6 @@
 - jam soace shop vac
 - reactivate td savings autodeposit
 - silent practice pad
-- call QPIP re benedits
 - cats (3328 Ave Troie H3V 1B1 apt 901)
 - iphone repair (ubreakifix):
   - battery replace
