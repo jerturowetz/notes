@@ -1,8 +1,14 @@
 # Jeremy's To-Do List
 
-- sign docs at td
-- jam soace shop vac
-- reactivate td savings autodeposit
+- td bank
+  - add visa to wallet
+  - sign docs at td
+
+
+
+- Try to get photos off broken phone
+
+- Google photos not in albums
 - silent practice pad
 - call QPIP re benedits
 - cats (3328 Ave Troie H3V 1B1 apt 901)
@@ -12,8 +18,7 @@
 - new bank card
 - can tire boxes
 
-connect washer to wifi & app
-add visa to wallet
+- connect washer to wifi & app
 pay videoteon
 pay jam space
 verify prey
@@ -22,8 +27,15 @@ sync phone with linked in
 
 - find a dell battery
 - Tell @Audio Technique to ditch the EQ (514-597-0707) - BSS FCS-960
-- Call Mickey for taxes
+- collect tax documenst
+- Organize document drop off for mickey
+- reactivate td savings autodeposit
+
 - Warn Shakti of email changes & shut down Rackspace
+
+
+
+
 - Last thank you cards
 - Pick up drums chez Mike M
 - Maclaren stroller support case # 171472
