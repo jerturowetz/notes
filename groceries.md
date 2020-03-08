@@ -12,6 +12,9 @@
 - Nair
 - Formula
 - Baby cereal
+- Na beer
+- chicken breast
+- skin on bone in thighs
 
 ## Pasta shop
 

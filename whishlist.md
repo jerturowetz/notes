@@ -1,10 +1,13 @@
 # Wishlist
 
+- [Quarter sheet rack](https://www.amazon.com/Ultra-Cuisine-Stainless-Cooling-Cookies/dp/B00R0M2TSC/)
+- Spatula
 - [Charging station for besta](https://www.amazon.com/Simicore-Charging-Station-Organizer-Smartphones/dp/B0786VMVXW/)
 - [Shelf organizer for Besta](https://www.amazon.ca/Seville-Classics-SHE14049-2-Tier-Organizer/dp/B002QCHSZA/)
 - [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+- Tool for scoring meat
 - Earplugs (for Kate)
 - silent practice pad
 - bigger can tire box for v2 baby clothes. maybe use existing med box for bags
