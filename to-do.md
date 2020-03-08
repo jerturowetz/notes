@@ -1,5 +1,12 @@
 # Jeremy's To-Do List
 
+
+pc baby cereal
+formula 
+earplogs fir kate
+
+
+chris yell re drums
 - ikea batteey drop off
 - add perry to gcal
 - get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
