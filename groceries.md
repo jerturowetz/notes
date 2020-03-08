@@ -9,11 +9,9 @@
 - Penne
 - Sandwich bags
 - KD
-
-## Pharmacy
-
 - Nair
 - Formula
+- Baby cereal
 
 ## Pasta shop
 

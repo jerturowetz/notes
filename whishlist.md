@@ -1,29 +1,26 @@
 # Wishlist
 
-- soup bowls
-- better chopsticks
+- [Charging station for besta](https://www.amazon.com/Simicore-Charging-Station-Organizer-Smartphones/dp/B0786VMVXW/)
+- [Shelf organizer for Besta](https://www.amazon.ca/Seville-Classics-SHE14049-2-Tier-Organizer/dp/B002QCHSZA/)
+- [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+- Earplugs (for Kate)
 - silent practice pad
-- jam space shop vac
 - bigger can tire box for v2 baby clothes. maybe use existing med box for bags
-- [XPS battery replacement](https://www.ifixit.com/Store/PC-Laptop/Dell-XPS13-9343-9350-Replacement-Laptop-Battery/IF328-012?o=2)
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Spider skimmer](https://www.amazon.ca/Indian-Arts-Stainless-Strainer-Spaghetti/dp/B07NVLY3ZP/)
-- 1 more baby mirrors
-- Sea to Summit Event Compression Dry Sack, Medium, small
-- Besta power bar
-- Besta gear elastic tray
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
+- 1 more baby mirrors
+- Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
 - Gear to patch hole behind stove
 - MiiR or Soma water bottle
-- Gift card for vero & falco
 - $200 Agg, Andrew, Joe gifts
 - New frames:
   - 13" x 16-17" Marlowe concept art
@@ -116,3 +113,4 @@
 - 7a sticks
 - keyboard stand
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
+- Jam space shop vac
