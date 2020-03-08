@@ -1,13 +1,19 @@
 # Groceries
 
-- OJ
+- Coffee
+- Good juice
 - Butter
 - Sliced cheese
 - Brick cheese
 - Jam
-- Coffee
-- Penne & spiral pasta
+- Penne
 - Sandwich bags
+- KD
+
+## Pharmacy
+
+- Nair
+- Formula
 
 ## Pasta shop
 
@@ -21,7 +27,3 @@
 - dumplings x2
 - noodles
 - shrimp
-
-## Pharmacy
-
-- Nair
