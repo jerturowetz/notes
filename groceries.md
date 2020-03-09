@@ -1,6 +1,5 @@
 # Groceries
 
-
 - epsom salts
 - coffee filters
 - Coffee
