@@ -1,5 +1,8 @@
 # Groceries
 
+
+- epsom salts
+- coffee filters
 - Coffee
 - Good juice
 - Butter
