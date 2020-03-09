@@ -1,6 +1,6 @@
 # Groceries
 
-- epsom salts
+- Bananas
 - coffee filters
 - Coffee
 - Good juice
@@ -21,6 +21,7 @@
 - Nair
 - Formula
 - Baby cereal
+- epsom salts
 
 ## Pasta shop
 
