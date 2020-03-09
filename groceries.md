@@ -11,12 +11,16 @@
 - Penne
 - Sandwich bags
 - KD
-- Nair
-- Formula
-- Baby cereal
 - Na beer
 - chicken breast
 - skin on bone in thighs
+- chicken breast
+
+## Pharmacy
+
+- Nair
+- Formula
+- Baby cereal
 
 ## Pasta shop
 
