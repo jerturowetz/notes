@@ -1,16 +1,13 @@
 # Jeremy's To-Do List
 
 - cats (3328 Ave Troie H3V 1B1 apt 901)
+- review andrea sound gear
+
+- pick up film
 - pay Videotron
 - pay jam space
-- Dell battery: call dell support 1-866-398-8977 | express service code: 43025018150
-- Pick up film
 - Can tire run
 - IKEA battery drop off
-- get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
-- taxes:
-  - collect tax documents (go through drawer, bk t4s)
-  - Organize document drop off for mickey
 - td bank
   - New bank card
   - sign docs at td
@@ -19,10 +16,16 @@
 - iPhone repair (ubreakifix):
   - battery replace
   - get photos off old phone
+  
 - Devon website
 - Clean 27 website
 - mimi email re bumble
 - get compost bin
+
+- get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
+- taxes:
+  - collect tax documents (go through drawer, bk t4s)
+  - Organize document drop off for mickey
 - connect washer to wifi & app
 - Warn Shakti of email changes & shut down Rackspace
 - Jam space key for Perry & mykl

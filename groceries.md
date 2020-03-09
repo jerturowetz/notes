@@ -14,7 +14,6 @@
 - Na beer
 - chicken breast
 - skin on bone in thighs
-- chicken breast
 
 ## Pharmacy
 
