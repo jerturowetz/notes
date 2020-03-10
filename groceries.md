@@ -1,5 +1,6 @@
 # Groceries
 
+- Bread
 - coffee filters
 - Coffee
 - Good juice

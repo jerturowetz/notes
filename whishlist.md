@@ -1,45 +1,34 @@
 # Wishlist
 
-snare stand
-hats stand
-kick pedal
-
-
-- [Quarter sheet rack](https://www.amazon.com/Ultra-Cuisine-Stainless-Cooling-Cookies/dp/B00R0M2TSC/)
-- Spatula
-- [Charging station for besta](https://www.amazon.com/Simicore-Charging-Station-Organizer-Smartphones/dp/B0786VMVXW/)
-- [Shelf organizer for Besta](https://www.amazon.ca/Seville-Classics-SHE14049-2-Tier-Organizer/dp/B002QCHSZA/)
-- [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- Tool for scoring meat
-- Earplugs (for Kate)
-- silent practice pad
 - bigger can tire box for v2 baby clothes. maybe use existing med box for bags
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
-- [Spider skimmer](https://www.amazon.ca/Indian-Arts-Stainless-Strainer-Spaghetti/dp/B07NVLY3ZP/)
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
+- [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
+- Earplugs (for Kate)
+- silent practice pad
 - 1 more baby mirrors
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
 - Gear to patch hole behind stove
-- MiiR or Soma water bottle
 - $200 Agg, Andrew, Joe gifts
-- New frames:
-  - 13" x 16-17" Marlowe concept art
-  - 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
-  - 11" x 16.75" SJ Poster
-  - 11" x 17" Rocket ship poster
+
+## Frames
+
+- 13" x 16-17" Marlowe concept art
+- 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
+- 11" x 16.75" SJ Poster
+- 11" x 17" Rocket ship poster
 
 ## Boots/shoes
 
 - Boat shoes or indoor moccassins (great for camping too)
-- WindRiver Odyssey Waterproof Duck Boots (10)
 - Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of slip on like (ideally fewer laces):
   - Sperry Top-Sider Ice Bay Tall Boots (altitude)
@@ -122,3 +111,5 @@ kick pedal
 - keyboard stand
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - Jam space shop vac
+- snare stand
+- better hats stand & kick pedal
