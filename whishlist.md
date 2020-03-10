@@ -28,12 +28,12 @@
 
 ## Boots/shoes
 
+- Rain boots
 - Boat shoes or indoor moccassins (great for camping too)
 - Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of slip on like (ideally fewer laces):
   - Sperry Top-Sider Ice Bay Tall Boots (altitude)
   - Baffin Canada Boots -40F/-40C (altitude)
-  - Kamik Hudson 5 (altitude)
 
 ## Music gear
 
@@ -50,7 +50,7 @@
 
 ### Mics
 
-- EV 635A (drum WURST on floor) (oh)
+- EV 635A (drum WURST on floor)
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
 - Angled '57

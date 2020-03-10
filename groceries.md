@@ -1,19 +1,5 @@
 # Groceries
 
-- Bread
-- coffee filters
-- Coffee
-- Good juice
-- Butter
-- Sliced cheese
-- Brick cheese
-- Jam
-- Penne
-- Sandwich bags
-- KD
-- Na beer
-- chicken breast
-- skin on bone in thighs
 
 ## Pharmacy
 
@@ -33,3 +19,4 @@
 - dumplings x2
 - noodles
 - shrimp
+- pork

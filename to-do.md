@@ -1,9 +1,6 @@
 # Jeremy's To-Do List
 
-- jam space keys
-- pick up film
-- Can tire run
-- compost bin
+- Compost bin
 - review andrea sound gear
 - td bank
   - New bank card
@@ -13,8 +10,6 @@
 - iPhone repair (ubreakifix):
   - battery replace
   - get photos off old phone
-
-- Devon website
 - mimi email re bumble
 - Clean 27 website
 - IKEA battery drop off
