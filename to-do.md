@@ -5,22 +5,28 @@
 
 - pick up film
 - pay Videotron
-- pay jam space
+- jam space keys
+
 - Can tire run
+- compost bin
 - IKEA battery drop off
+
 - td bank
   - New bank card
   - sign docs at td
   - add visa to wallet
   - reactivate td savings autodeposit
+  
 - iPhone repair (ubreakifix):
   - battery replace
   - get photos off old phone
-  
+
+
+
 - Devon website
 - Clean 27 website
 - mimi email re bumble
-- get compost bin
+
 
 - get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
 - taxes:
@@ -28,7 +34,6 @@
   - Organize document drop off for mickey
 - connect washer to wifi & app
 - Warn Shakti of email changes & shut down Rackspace
-- Jam space key for Perry & mykl
 - Google photos not in albums
 - Last thank you cards
 - Pick up drums chez Mike M
