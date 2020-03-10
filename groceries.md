@@ -1,6 +1,5 @@
 # Groceries
 
-- Bananas
 - coffee filters
 - Coffee
 - Good juice
@@ -18,7 +17,6 @@
 ## Pharmacy
 
 - Nair
-- Formula
 - Baby cereal
 - epsom salts
 

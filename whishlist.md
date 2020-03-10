@@ -1,5 +1,10 @@
 # Wishlist
 
+snare stand
+hats stand
+kick pedal
+
+
 - [Quarter sheet rack](https://www.amazon.com/Ultra-Cuisine-Stainless-Cooling-Cookies/dp/B00R0M2TSC/)
 - Spatula
 - [Charging station for besta](https://www.amazon.com/Simicore-Charging-Station-Organizer-Smartphones/dp/B0786VMVXW/)
