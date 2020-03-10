@@ -1,6 +1,5 @@
 # Groceries
 
-
 ## Pharmacy
 
 - Nair
