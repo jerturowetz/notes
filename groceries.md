@@ -1,5 +1,7 @@
 # Groceries
 
+- Milk
+
 ## Pharmacy
 
 - Nair
