@@ -1,6 +1,6 @@
 # Wishlist
 
-- bigger can tire box for v2 baby clothes. maybe use existing med box for bags
+- workout socks
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
@@ -40,9 +40,9 @@
 ### Mouser
 
 - Amphenol KS3P (3.5 mm plug) x4
-- Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NP3X x2 (for vic firth headphone repair)
 - Neutrik NP3X x8 (patches)
+- Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NC3MXX x4 (patches)
 - Neutrik NC3FXX x4 (patches)
 - Neutrik NC3MXX-BAG x12 (for regular xlr cables)
@@ -113,3 +113,4 @@
 - Jam space shop vac
 - snare stand
 - better hats stand & kick pedal
+- earthworks mic set
