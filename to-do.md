@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Check dell battery type
 - review Andrea sound gear
 - Clean 27 website
 - Unito deploy system
