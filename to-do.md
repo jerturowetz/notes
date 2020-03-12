@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Check dell battery type
 - review Andrea sound gear
 - Clean 27 website
 - Unito deploy system
@@ -14,7 +15,6 @@
 - taxes:
   - collect tax documents (go through drawer, bk t4s)
   - Organize document drop off for mickey
-- mimi email re bumble
 - IKEA battery drop off
 - get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
 - cats (3328 Ave Troie H3V 1B1 apt 901)
