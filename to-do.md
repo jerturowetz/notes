@@ -6,11 +6,7 @@
 - cult updates
 
 - Compost bin
-- td bank
-  - New bank card
-  - sign docs at td
-  - add visa to wallet
-  - reactivate td savings autodeposit
+- reactivate td savings autodeposit
 - iPhone repair (ubreakifix):
   - battery replace
   - get photos off old phone

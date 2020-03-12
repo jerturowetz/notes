@@ -1,5 +1,11 @@
 # Groceries
 
+- bananas
+- oranges
+- paper towel
+- toilet paper
+- dish soap
+
 ## Pharmacy
 
 - Nair
