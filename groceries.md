@@ -1,10 +1,14 @@
 # Groceries
 
+- Cabbage
+- Buns
+- pork shoulder
 - bananas
 - oranges
 - paper towel
 - toilet paper
 - dish soap
+- Swiffer mop things
 
 ## Pharmacy
 
@@ -24,4 +28,3 @@
 - dumplings x2
 - noodles
 - shrimp
-- pork
