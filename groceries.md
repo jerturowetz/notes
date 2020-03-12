@@ -1,5 +1,7 @@
 # Groceries
 
+- tomato sauce
+- pasta sauce x2
 - Cabbage
 - Buns
 - pork shoulder
@@ -9,6 +11,11 @@
 - toilet paper
 - dish soap
 - Swiffer mop things
+- frozen veg
+- frozen blueberries
+- Dry noodles
+- Soy sauce
+- sesame oil
 
 ## Pharmacy
 
