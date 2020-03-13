@@ -1,10 +1,21 @@
 # Groceries
 
+- tomato sauce
+- pasta sauce x2
+- Cabbage
+- Buns
+- pork shoulder
 - bananas
 - oranges
 - paper towel
 - toilet paper
 - dish soap
+- Swiffer mop things
+- frozen veg
+- frozen blueberries
+- Dry noodles
+- Soy sauce
+- sesame oil
 
 ## Day carr kit
 
@@ -30,4 +41,3 @@
 - dumplings x2
 - noodles
 - shrimp
-- pork
