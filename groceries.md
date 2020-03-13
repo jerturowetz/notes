@@ -2,32 +2,23 @@
 
 - tomato sauce
 - pasta sauce x2
-- Cabbage
 - Buns
 - pork shoulder
-- bananas
 - oranges
 - paper towel
 - toilet paper
-- dish soap
+- Dish soap
 - Swiffer mop things
-- frozen veg
 - frozen blueberries
 - Dry noodles
 - Soy sauce
 - sesame oil
 
-## Day carr kit
-
-- wipes
-- cream
-- diapers
-
 ## Pharmacy
 
-- Nair
-- Baby cereal
+- baby cream for day care
 - epsom salts
+- refill wipes for home
 
 ## Pasta shop
 
