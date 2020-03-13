@@ -6,6 +6,12 @@
 - toilet paper
 - dish soap
 
+## Day carr kit
+
+- wipes
+- cream
+- diapers
+
 ## Pharmacy
 
 - Nair
