@@ -1,18 +1,20 @@
 # Groceries
 
+- eggs
 - tomato sauce
 - pasta sauce x2
-- Buns
 - pork shoulder
-- oranges
 - paper towel
 - toilet paper
 - Dish soap
 - Swiffer mop things
 - frozen blueberries
 - Dry noodles
+- kd
+- na beer
 - Soy sauce
 - sesame oil
+- smoked salmon
 
 ## Pharmacy
 
