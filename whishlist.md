@@ -1,6 +1,6 @@
 # Wishlist
 
-- send kate $$
+- send kate $$ for sablon
 - baby swimwear, sun hat & socks
 - workout socks
 - *Container store:*
