@@ -1,5 +1,7 @@
 # Wishlist
 
+- send kate $$
+- baby swimwear, sun hat & socks
 - workout socks
 - *Container store:*
   - 3 small freezer bins
