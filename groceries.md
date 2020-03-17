@@ -1,17 +1,14 @@
 # Groceries
 
-- wraps
+- bacon
 - yogurt
 - parm
 - cauliflower
 - broccoli
-- tomato sauce
-- pasta sauce x2
 - pork shoulder
 - toilet paper
 - dish soap
-- frozen veg
-- frozen blueberries
+- frozen mango & mixed berries
 - Dry noodles
 - kd
 - na beer
