@@ -4,15 +4,15 @@
 
 ## To fix Hyper-V not releasing memory on windows
 
-Turn off docker then run the following in an elevated powershell:
+Turn off docker then run the following in an elevated PowerShell:
 
     Optimize-VHD -Path "C:\Users\All Users\DockerDesktop\vm-data\DockerDesktop.vhdx" -Mode Full
     Optimize-VHD -Path "C:\ProgramData\DockerDesktop\vm-data\DockerDesktop.vhdx" -Mode Full
     Optimize-VHD -Path "C:\`$windows.~bt\NewOS\Users\All Users\DockerDesktop\vm-data\DockerDesktop.vhdx" -Mode Full
 
-## Make sure then enviroment var on widows is set to convert paths
+## Make sure then environment var on widows is set to convert paths
 
-This is supposed to be enabled by default (on windows installs obvs). It is sometimes not set properly after updates and must be set manually in your shell `export COMPOSE_CONVERT_WINDOWS_PATHS=1`
+This is supposed to be enabled by default (on windows installs). It is sometimes not set properly after updates and must be set manually in your shell `export COMPOSE_CONVERT_WINDOWS_PATHS=1`
 
 ## Resolve conflicts created by windows shells (eg git's shell) "fixing" paths
 

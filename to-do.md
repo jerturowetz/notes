@@ -1,12 +1,16 @@
 # Jeremy's To-Do List
 
+- shed: garbage vs garage sale
+- Canadian tire bins for bags
+- print MacLaren shipping labels
+- sell dell
 - Check dell battery type
 - review Andrea sound gear
 - Clean 27 website
 - Unito deploy system
 - cult updates
-- reactivate td savings autodeposit
-- iPhone repair (ubreakifix):
+- reactivate td savings auto deposit
+- iPhone repair:
   - battery replace
   - get photos off old phone
 - taxes:

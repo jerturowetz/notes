@@ -10,7 +10,7 @@
 
     aws s3 ls --summarize --human-readable --recursive s3://YOURBUCKET/
 
-## List S3 objects inb a specific folder
+## List S3 objects in a specific folder
 
     aws s3 ls --summarize --human-readable --recursive s3://YOURBUCKET/SOMEFOLDER/
 

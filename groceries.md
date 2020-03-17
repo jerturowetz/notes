@@ -1,5 +1,10 @@
 # Groceries
 
+- wraps
+- yogurt
+- parm
+- cauliflower
+- broccoli
 - tomato sauce
 - pasta sauce x2
 - pork shoulder
