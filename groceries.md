@@ -1,19 +1,10 @@
 # Groceries
 
-- bananas
-- pickled beets
-- pickles
-- cauliflower
-- broccoli
-- raviolis
-- bacon
-- yogurt
-- toilet paper
-- dish soap
-- frozen mango & mixed berries
-- Dry noodles
+- bread
+- ice cream
 - KD
-- NA beer
+- dish soap
+- toilet paper
 
 ## Pharmacy
 
