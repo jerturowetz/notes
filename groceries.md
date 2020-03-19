@@ -1,5 +1,8 @@
 # Groceries
 
+- bananas
+- pickled beets
+- pickles
 - bacon
 - yogurt
 - parm
