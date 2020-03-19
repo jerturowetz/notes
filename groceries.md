@@ -3,19 +3,17 @@
 - bananas
 - pickled beets
 - pickles
-- bacon
-- yogurt
-- parm
 - cauliflower
 - broccoli
-- pork shoulder
+- raviolis
+- bacon
+- yogurt
 - toilet paper
 - dish soap
 - frozen mango & mixed berries
 - Dry noodles
-- kd
-- na beer
-- smoked salmon
+- KD
+- NA beer
 
 ## Pharmacy
 
