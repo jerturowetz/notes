@@ -1,8 +1,11 @@
 # Jeremy's To-Do List
 
+- clean under bed
 - shed: garbage vs garage sale
 - Canadian tire bins for bags
 - print MacLaren shipping labels
+- put dongle with usb in personal bags
+- find bigger baby bag
 - sell dell
 - Check dell battery type
 - review Andrea sound gear
