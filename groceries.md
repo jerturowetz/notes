@@ -1,13 +1,17 @@
 # Groceries
 
-- bread
+- Oranges
+- Coconut water
+- Eggs
 - ice cream
 - KD
-- dish soap
 - toilet paper
+- cooking spray
+- vanilla
 
 ## Pharmacy
 
+- baby salinex
 - baby cream for day care
 - refill wipes for home
 
