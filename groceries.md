@@ -1,10 +1,7 @@
 # Groceries
 
-- bread
 - ice cream
 - KD
-- dish soap
-- toilet paper
 
 ## Pharmacy
 
