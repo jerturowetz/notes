@@ -1,5 +1,15 @@
 # Groceries
 
+- ketchup
+- coconut wter
+- Bread
+- Barbacoa stuff
+- Pork shoulder
+- Butter
+- Sliced cheese, brick cheese
+- Broccolis
+- Pasta for baby
+- Salmon & other fish
 - Oranges
 - Coconut water
 - Eggs
