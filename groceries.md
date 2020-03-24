@@ -29,6 +29,7 @@
 - garlic
 - oranges
 - bananas
+- can diced tomatoes
 
 ## Pharmacy
 
