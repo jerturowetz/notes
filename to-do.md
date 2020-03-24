@@ -1,5 +1,17 @@
 # Jeremy's To-Do List
 
+thibgs for taxes
+rebters insurance
+rent
+waldo resp
+me rrsp & tfsa x2
+both t4s
+
+
+
+
+
+
 - clean under bed
 - shed: garbage vs garage sale
 - Canadian tire bins for bags

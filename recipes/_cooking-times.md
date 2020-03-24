@@ -4,7 +4,9 @@ pulled pork keep at 250 and cook all day (like 8 hours)
 
 ## Breakfast sausage
 
-bake 400 12 per side, 24 mins total
+bake 400 10 mins one side, 6 mins other, broil for 2 mins
+
+(internllal temp 160)
 
 ## Chicken skewers
 
@@ -17,7 +19,7 @@ med/high heat cast iron
 
 ## Boiled green beans
 
-2 mins
+2 mins MAX
 
 ## Spatchcock chicken (2)
 
