@@ -10,14 +10,25 @@
 - Broccolis
 - Pasta for baby
 - Salmon & other fish
+- skin on chicken thighs
+- whole chicken
+- beef for steak sandwiches
 - Oranges
 - Coconut water
 - Eggs
+- bacon
 - ice cream
 - KD
+- na beer
+- tortelinis for oarents
 - toilet paper
 - cooking spray
 - vanilla
+- cake mix
+- bagels
+- garlic
+- oranges
+- bananas
 
 ## Pharmacy
 
