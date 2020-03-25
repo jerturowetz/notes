@@ -5,13 +5,15 @@ Look for recipes with beans & with tahini
 - Mexican soup
 - bbq chicken skewers & green beans
 - Barbacoa (make and freeze)
-- fish & veg (x2)
-- Roasted-Chickpea and Kale Salad
+- fish & veg
 - Pineapple chicken & veg
 - Steak sandwiches
 - Dhal
 - Pizza
 - Michelin star fries
+- dumpling snack
+- tortellini snack
+- leftover meat sauce & spaghetti
 
 ## later
 
