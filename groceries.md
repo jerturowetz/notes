@@ -13,64 +13,22 @@ Look for recipes with beans & with tahini
 - Pizza
 - Michelin star fries
 
-## Grocery store
+## later
 
-- kale
-- 4 scallions
-- cilantro
-- mint
 - Basil (? last until sunday)
 - Maris or rooster potato if available
-- 2 white onion
-- 3 whole garlic
-- 2 lemons
-- Oranges
-- Bananas
-- baby carrots
-- cauliflower
-- Cherry tomatoes
-- Ginger
-- Pineapple
-- 2 apples
-- 2 Serrano chiles
-- 1/2 cup pine nuts
-- Baguette
-
-## Meats
-
-- whole chicken
-- skin on chicken thighs
-- Chicken breast (for baby & soup)
-- Pork shoulder
-- Salmon & other fish
-- sliced pepperoni
-
-### Milk/Eggs
-
-- Bacon
-- Eggs
-- Butter
-- Sliced cheese, brick cheese
-- bocconcini (if inexpensive)
-- Mozzarella
-- creme fraiche
-
-## Various
-
-- pineapple juice
+- bocconcini
 - Honey
-- extra virgin olive oil
-- 1 quart (1L) low sodium chicken stock
-- Vegetable oil
-- canned diced tomatoes
-- Coconut water
 - ice cream
 - KD
-- cooking spray
-- vanilla
-- cake mix (to go w/ choc icing)
+
+## Missing
+
+- 2 Serrano chiles
+- Pork shoulder
+- creme fraiche
+- baguette
 - Chile in adobo sauce
-- bamboo skewers
 
 ## Maison de Roti
 
@@ -82,7 +40,6 @@ Look for recipes with beans & with tahini
 ## Spice store
 
 - Garlic Powder
-- Peppercorns
 
 ## Pharmacy
 
