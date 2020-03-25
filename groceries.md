@@ -15,8 +15,8 @@ Look for recipes with beans & with tahini
 
 ## later
 
-- Basil (? last until sunday)
-- Maris or rooster potato if available
+- 1 pound oxtails
+- 1 whole chuck-eye roast (about 4 pounds)
 - bocconcini
 - Honey
 - ice cream
@@ -24,18 +24,13 @@ Look for recipes with beans & with tahini
 
 ## Missing
 
+- Maris or rooster potato
+- basil
 - 2 Serrano chiles
 - Pork shoulder
 - creme fraiche
 - baguette
 - Chile in adobo sauce
-
-## Maison de Roti
-
-- Beef for steak sandwiches
-- 1 pound oxtails
-- 1 whole chuck-eye roast (about 4 pounds)
-- Duck fat for frying (if not too $$)
 
 ## Spice store
 
