@@ -1,6 +1,6 @@
 # Wishlist
 
-- send kate $$ for sablon ($320)
+- send kate $$ for sablon ($150)
 - baby swimwear, sun hat & socks
 - workout socks
 - *Container store:*
