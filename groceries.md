@@ -1,5 +1,6 @@
 # Groceries
 
+- canned tomatoes
 - ketchup
 - coconut wter
 - Bread
@@ -12,6 +13,7 @@
 - Salmon & other fish
 - skin on chicken thighs
 - whole chicken
+- Bacon
 - beef for steak sandwiches
 - Oranges
 - Coconut water
@@ -30,6 +32,8 @@
 - oranges
 - bananas
 - can diced tomatoes
+
+- large envelopes
 
 ## Pharmacy
 
