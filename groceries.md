@@ -33,9 +33,10 @@ Look for recipes with beans & with tahini
 - Pineapple
 - 2 apples
 - 2 Serrano chiles
-
 - 1/2 cup pine nuts
 - Baguette
+
+## Meats
 
 - whole chicken
 - skin on chicken thighs
@@ -44,6 +45,8 @@ Look for recipes with beans & with tahini
 - Salmon & other fish
 - sliced pepperoni
 
+### Milk/Eggs
+
 - Bacon
 - Eggs
 - Butter
@@ -51,6 +54,8 @@ Look for recipes with beans & with tahini
 - bocconcini (if inexpensive)
 - Mozzarella
 - creme fraiche
+
+## Various
 
 - pineapple juice
 - Honey
@@ -65,7 +70,6 @@ Look for recipes with beans & with tahini
 - vanilla
 - cake mix (to go w/ choc icing)
 - Chile in adobo sauce
-
 - bamboo skewers
 
 ## Maison de Roti
