@@ -86,7 +86,7 @@ nvm
 openssl
 pyenv
 
-
+imagemagick
 
 
 transmit
