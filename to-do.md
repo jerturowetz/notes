@@ -8,18 +8,9 @@ me rrsp & tfsa x2
 both t4s
 
 
-
-
-
-
-- clean under bed
 - shed: garbage vs garage sale
-- Canadian tire bins for bags
-- print MacLaren shipping labels
-- put dongle with usb in personal bags
-- find bigger baby bag
+- replace dell battery
 - sell dell
-- Check dell battery type
 - review Andrea sound gear
 - Clean 27 website
 - Unito deploy system
@@ -33,9 +24,7 @@ both t4s
   - Organize document drop off for mickey
 - IKEA battery drop off
 - get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
-- connect washer to wifi & app
 - Warn Shakti of email changes & shut down Rackspace
-- Google photos not in albums
 - Last thank you cards
 - Pick up drums chez Mike M
 - Baby proofing (Billie, Ivar and mirror)
