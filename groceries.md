@@ -34,6 +34,17 @@ Look for recipes with beans & with tahini
 - baguette
 - Chile in adobo sauce
 
+
+brick cheddar
+brick swiss or whatevev
+
+baby cereal
+bread
+bagels/eng muffins/wraps
+hard tomatoe
+eggs
+
+
 ## Spice store
 
 - Garlic Powder
