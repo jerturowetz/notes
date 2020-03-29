@@ -10,24 +10,28 @@ Look for recipes with beans & with tahini
 - Michelin star fries
 - dumpling snack
 
-## later
+## Metro/Provigo
 
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
-- bocconcini
-- KD
-- Maris or rooster potato
-- basil
 - Pork shoulder
-- creme fraiche
-- baguette
-- Chile in adobo sauce
-- brick cheddar
-- baby cereal
-- bread
-- bagels/eng muffins/wraps
+- basil
+- Pineapple
 - hard tomatoe
+- Maris or rooster potato
+- brick cheddar
+- bocconcini
+- baguette
+- bread
+- bagels/english muffins/wraps
 - eggs
+- Milk
+- creme fraiche
+- Coffee
+- KD
+- Chile in adobo sauce
+- baby cereal
+- Paper towel
 
 ## Spice store
 
