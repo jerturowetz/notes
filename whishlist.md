@@ -1,8 +1,6 @@
 # Wishlist
 
-owe for can tire: 55
-owe for costco: approx 70
-
+- cathy something for can tire & costco generosity
 - send kate $$ for sablon ($150)
 - baby swimwear
 - workout socks

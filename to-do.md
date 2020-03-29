@@ -1,14 +1,13 @@
 # Jeremy's To-Do List
 
-thibgs for taxes
+things for taxes:
 rebters insurance
 rent
 waldo resp
 me rrsp & tfsa x2
 both t4s
 
-
-- shed: garbage vs garage sale
+- clean up shed
 - replace dell battery
 - sell dell
 - review Andrea sound gear
