@@ -4,9 +4,8 @@ pulled pork keep at 250 and cook all day (like 8 hours)
 
 ## Breakfast sausage
 
-bake 400 10 mins one side, 6 mins other, broil for 2 mins
-
-(internllal temp 160)
+bake on a metal pan with parchment paper @400 10 mins one side, 10 mins other (or until internllal temp 160)
+broil for 1&1/2 min
 
 ## Chicken skewers
 
