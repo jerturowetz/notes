@@ -13,10 +13,10 @@ Look for recipes with beans & with tahini
 ## Metro/Provigo
 
 - Coffee
+- Peanut butter
 - N/A beer
 - baby cereal
 - Paper towel
-- Chile in adobo sauce
 - Maris or rooster potato
 - baguette
 - bagels/english muffins/wraps
@@ -24,6 +24,7 @@ Look for recipes with beans & with tahini
 
 --
 
+- Chile in adobo sauce
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
 - Pork shoulder
