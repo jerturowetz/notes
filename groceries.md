@@ -12,26 +12,26 @@ Look for recipes with beans & with tahini
 
 ## Metro/Provigo
 
+- Coffee
+- N/A beer
+- baby cereal
+- Paper towel
+- Chile in adobo sauce
+- Maris or rooster potato
+- baguette
+- bagels/english muffins/wraps
+- creme fraiche
+
+--
+
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
 - Pork shoulder
-- basil
-- Pineapple
-- hard tomatoe
-- Maris or rooster potato
 - brick cheddar
 - bocconcini
-- baguette
-- bread
-- bagels/english muffins/wraps
-- eggs
-- Milk
-- creme fraiche
-- Coffee
 - KD
-- Chile in adobo sauce
-- baby cereal
-- Paper towel
+- Pineapple
+- Milk
 
 ## Spice store
 

@@ -1,12 +1,13 @@
 # Jeremy's To-Do List
 
-things for taxes:
-rebters insurance
-rent
-waldo resp
-me rrsp & tfsa x2
-both t4s
-
+- Kalin website, deactivate old one
+- pick up mini screwdriver set
+- assemble things for taxes
+  - rebters insurance
+  - rent
+  - waldo resp
+  - rrsp statemets
+  - both t4
 - clean up shed
 - replace dell battery
 - sell dell

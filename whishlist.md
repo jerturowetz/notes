@@ -1,5 +1,9 @@
 # Wishlist
 
+- Canadian Tire:
+  - D batteries
+  - Anti tilt kits x4
+  - ??
 - cathy something for can tire & costco generosity
 - send kate $$ for sablon ($150)
 - baby swimwear
@@ -32,9 +36,9 @@
 ## Boots/shoes
 
 - Rain boots
-- WindRiver Odyssey Waterproof Duck Boots (10)
 - Boat shoes or indoor moccassins (great for camping too)
-- Merrell Chameleon Thermo 8 (10) or Oboz Bridger 10" Insulated Waterproof (10)
+- WindRiver Odyssey Waterproof Duck Boots (10)
+- Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of slip on like (ideally fewer laces):
   - Sperry Top-Sider Ice Bay Tall Boots (altitude)
   - Baffin Canada Boots -40F/-40C (altitude)
@@ -119,3 +123,4 @@
 - snare stand
 - better hats stand & kick pedal
 - earthworks mic set
+- desktop mounted Magnifying glass with light
