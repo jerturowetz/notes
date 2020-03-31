@@ -43,6 +43,7 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     ccleaner `
     composer `
     docker `
+    docker-compose `
     dropbox `
     ffmpeg `
     winscp `
