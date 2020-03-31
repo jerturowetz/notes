@@ -4,35 +4,35 @@ Look for recipes with beans & with tahini
 
 - Barbacoa (make and freeze)
 - fish & veg
-- Steak sandwiches
+- KD
+- Spicy sausages
 - Dhal
-- Pizza
 - Michelin star fries
 - dumpling snack
 
 ## Metro/Provigo
 
-- Coffee
-- Peanut butter
-- N/A beer
+- Milk
 - baby cereal
 - Paper towel
+- big chocolate
 - Maris or rooster potato
-- baguette
-- bagels/english muffins/wraps
-- creme fraiche
-
---
-
-- Chile in adobo sauce
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
 - Pork shoulder
-- brick cheddar
-- bocconcini
+
+### later
+
 - KD
 - Pineapple
-- Milk
+- Bananas
+- Bacon
+- Dish soap
+- Mitchum
+- Fish
+- Butter
+- Bleach
+- Dijon
 
 ## Spice store
 
