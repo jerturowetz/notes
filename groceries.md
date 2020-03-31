@@ -12,9 +12,11 @@ Look for recipes with beans & with tahini
 
 ## Metro/Provigo
 
+- potatoes
 - Milk
 - baby cereal
 - Paper towel
+- Mitchum
 - big chocolate
 - Maris or rooster potato
 - 1 pound oxtails
@@ -28,7 +30,6 @@ Look for recipes with beans & with tahini
 - Bananas
 - Bacon
 - Dish soap
-- Mitchum
 - Fish
 - Butter
 - Bleach
