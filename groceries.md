@@ -12,23 +12,19 @@ Look for recipes with beans & with tahini
 
 ## Metro/Provigo
 
+- potatoes
+- sweet potatoe
 - Milk
-- baby cereal
 - Paper towel
-- big chocolate
 - Maris or rooster potato
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
 - Pork shoulder
-
-### later
-
 - KD
 - Pineapple
 - Bananas
 - Bacon
 - Dish soap
-- Mitchum
 - Fish
 - Butter
 - Bleach
