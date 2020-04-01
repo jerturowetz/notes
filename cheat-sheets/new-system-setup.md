@@ -42,8 +42,7 @@ Start with [this](https://www.youtube.com/watch?v=mWHiP9K8fQ0), then install dri
     insomnia-rest-api-client `
     ccleaner `
     composer `
-    docker `
-    docker-compose `
+    docker-desktop `
     dropbox `
     ffmpeg `
     winscp `
