@@ -3,19 +3,19 @@
 Look for recipes with beans & with tahini
 
 - Barbacoa (make and freeze)
-- fish & veg
 - KD
-- Spicy sausages
 - Dhal
 - Michelin star fries
 - dumpling snack
 
 ## Metro/Provigo
 
+- Big chocolate
+- Flour
+- Sugar
 - potatoes
 - sweet potatoe
 - Milk
-- Paper towel
 - Maris or rooster potato
 - 1 pound oxtails
 - 1 whole chuck-eye roast (about 4 pounds)
@@ -29,6 +29,7 @@ Look for recipes with beans & with tahini
 - Butter
 - Bleach
 - Dijon
+- Paper towel
 
 ## Spice store
 
