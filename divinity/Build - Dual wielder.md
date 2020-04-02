@@ -9,6 +9,7 @@
 - Spam Midnight Oil and then toss. Firefly will also help you with this.
 - Enemies with "immune to fire aura", try to sneak in to the battle and teleport the person with the aura into the middle of your party to start the fight.
 - By Mid-End game your spells will be powerful enough to take out most enemies, but you also can CC and destroy hand-to-hand with physical damage.
+- Putting one point into scoundrel/man-at-arms and every other school of magic as well as into "dual wielding" will set you up solid early game.
 
 ## Abilities
 
@@ -33,9 +34,3 @@
 ## Stats
 
 Int/Dex/Str +1.5 (6.5/8/10)
-
-## Skills
-
-**Man-at-arms:** melee power stance
-
-Putting one point into scoundrel/man-at-arms and every other school of magic as well as into "dual wielding" will set you up solid early game.

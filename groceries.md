@@ -10,26 +10,34 @@ Look for recipes with beans & with tahini
 
 ## Metro/Provigo
 
-- Big chocolate
+- Milk
+- 2 Sweet potatoes
+- Reg potatoes (Russet Burbank or Yellow flesh)
+- Bananas
+- Butter
+- Bacon
 - Flour
 - Sugar
-- potatoes
-- sweet potatoe
-- Milk
-- Maris or rooster potato
-- 1 pound oxtails
-- 1 whole chuck-eye roast (about 4 pounds)
-- Pork shoulder
-- KD
+
+--
+
+- Veg for stir fry
 - Pineapple
-- Bananas
+- Oranges
+- Pork shoulder if possible
+- Salmon & some other fish
 - Bacon
-- Dish soap
-- Fish
-- Butter
-- Bleach
 - Dijon
+- KD
+- Big chocolate
+- Dish soap
+- Bleach
 - Paper towel
+
+## Pasta store
+
+- Meat sauce
+- Lasagna
 
 ## Spice store
 
