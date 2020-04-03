@@ -5,23 +5,49 @@
 - Michelin star fries
 - dumpling snack
 
-fish x 2
-shrimp stir fry
-crispy chicken wraps
-chick pea wraps
-something with beans
-somethjng with tahini
-something with soy paste
+## Ideas for next week
 
+- Something chris morocco
+- butter chicken
+- fish x 2
+- shrimp stir fry
+- crispy chicken wraps
+- chick pea wraps
+- something with beans
+- somethjng with tahini
+- something with soy paste
 
+## Cathy
 
+- lettuce - arugula
+- Ace hamburger buns
+- 2 bone-in pork chops
+- 2 litre milk 1%
+- 10% coffee cream 1 litre
+- dozen eggs
+- package of 4 butter sticks
+- Lactantia garlic butter
+- olive oil
+- Dawn dish detergent
+- McCain's 5 minute frozen french fries
+- Frozen garlic Texas toast
+
+### Bakery
+
+- 1 baguette
+- 1 carré blanc tranché
+- 1 litre freshly squeezed orange juice
 
 ## Metro/Provigo
 
+- Blood orange
+- Lemon
+- Bananas
 - Reg potatoes (Russet Burbank or Yellow flesh)
 - Bananas
 - Flour
-- Sugar
+- Bread
+- Arugula
 
 --
 
@@ -29,13 +55,12 @@ something with soy paste
 - Veg for stir fry
 - Pineapple
 - Oranges
-- brick cheese
+- Brick cheese
 - Pork shoulder if possible
 - Salmon & some other fish
-- bread
 - Dijon
 - KD
-- coffee
+- Coffee
 - Big chocolate
 - Dish soap
 - Bleach
