@@ -7,6 +7,7 @@
 
 ## Ideas for next week
 
+- kate chicken soup
 - Something chris morocco
 - butter chicken
 - fish x 2
@@ -17,28 +18,11 @@
 - somethjng with tahini
 - something with soy paste
 
-## Cathy
-
-- Ace hamburger buns
-- 2 litre milk 1%
-- 10% coffee cream 1 litre
-- dozen eggs
-- package of 4 butter sticks
-- Lactantia garlic butter
-- olive oil
-- Dawn dish detergent
-- McCain's 5 minute frozen french fries
-- Frozen garlic Texas toast
-
 ## Metro/Provigo
 
-- Reg potatoes (Russet Burbank or Yellow flesh)
+- honey
 - Flour
 - Bread
-- Arugula
-
---
-
 - Bananas
 - Butter
 - Veg for stir fry
@@ -53,7 +37,6 @@
 - Big chocolate
 - Dish soap
 - Bleach
-- Paper towel
 
 ## Pasta store
 
