@@ -1,34 +1,41 @@
 # Meal plan
 
-Look for recipes with beans & with tahini
-
 - Barbacoa (make and freeze)
-- KD
 - Dhal
 - Michelin star fries
 - dumpling snack
 
+fish x 2
+shrimp stir fry
+crispy chicken wraps
+chick pea wraps
+something with beans
+somethjng with tahini
+something with soy paste
+
+
+
+
 ## Metro/Provigo
 
-- Milk
-- 2 Sweet potatoes
 - Reg potatoes (Russet Burbank or Yellow flesh)
 - Bananas
-- Butter
-- Bacon
 - Flour
 - Sugar
 
 --
 
+- Butter
 - Veg for stir fry
 - Pineapple
 - Oranges
+- brick cheese
 - Pork shoulder if possible
 - Salmon & some other fish
-- Bacon
+- bread
 - Dijon
 - KD
+- coffee
 - Big chocolate
 - Dish soap
 - Bleach
