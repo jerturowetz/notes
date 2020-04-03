@@ -19,9 +19,7 @@
 
 ## Cathy
 
-- lettuce - arugula
 - Ace hamburger buns
-- 2 bone-in pork chops
 - 2 litre milk 1%
 - 10% coffee cream 1 litre
 - dozen eggs
@@ -32,25 +30,16 @@
 - McCain's 5 minute frozen french fries
 - Frozen garlic Texas toast
 
-### Bakery
-
-- 1 baguette
-- 1 carré blanc tranché
-- 1 litre freshly squeezed orange juice
-
 ## Metro/Provigo
 
-- Blood orange
-- Lemon
-- Bananas
 - Reg potatoes (Russet Burbank or Yellow flesh)
-- Bananas
 - Flour
 - Bread
 - Arugula
 
 --
 
+- Bananas
 - Butter
 - Veg for stir fry
 - Pineapple
