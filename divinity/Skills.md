@@ -2,12 +2,14 @@
 
 ## AIR MAGIC
 
-- **Level 1 Air (Ranger, Leadership Knight):**
-  - Teleportation (Both)
-  - Thunder Jump (Leadership Knight)
-  - Wind of Change (Leadership Knight)
-  - Blitz Bolt (Ranger)
-  - Bitter Cold (Ranger)
+- **Level 1 Air (Rangert):**
+  - Teleportation
+  - Blitz Bolt
+  - Bitter Cold
+- **Level 1 Air (Leadership Knight):**
+  - Teleportation
+  - Thunder Jump
+  - Wind of Change
 - **Level 4 Air (Dual Wielding, Shadowblade):**
   - NOVICE: Don’t take Avatar of Storms
   - ADEPT: Don’t take Air Absorption
@@ -91,7 +93,7 @@ Rain of Arrows Required lv 15
 ## SCOUNDREL SKILLS
 
 - **Level 1 Scoundrel (Ranger, Leadership Knight):**
-  - Walk-in-Shadows
+  - Walk-in-Shadows (ranger has)
   - Hover Feet (aka Winged Feet)
   - Fast Track (pre level 15) Adrenaline (post level 15)
 - **Level 3 Scoundrel (Dual Wielding):**
