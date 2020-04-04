@@ -117,7 +117,13 @@
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
 - 7a sticks
-- keyboard stand
+- K&M keyboard stand:
+  - 18810-015-91 Keyboadr table (red)
+  - 18811-000-91 2nd level stacker (red)
+  - 18822 3rd level stacker
+  - 18819 2nd level controller tray
+  - 18824 3rd level controller tray
+  - 18815 laptop holder
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - Jam space shop vac
 - snare stand
