@@ -21,14 +21,8 @@
 
 ## Metro/Provigo
 
-- bread
-- na beer
 - naan
-- cilantro
-- bleach
-
 - honey
-- Bananas
 - Veg for stir fry
 - Pineapple
 - Oranges
@@ -41,6 +35,9 @@
 - Big chocolate
 - Dish soap
 - chick peas
+- Baby pasta
+- Baby pasta sauce
+- Veg oil
 
 ## Latin grocery
 
