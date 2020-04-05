@@ -1,5 +1,7 @@
 # Recipe: Beef Barbacoa
 
+I was unhappy with her last batch turned out. Maybe at some Mexican Chili's? Maybe also cook the ox tails longer?
+
 From: [Better Than Chipotle's Beef Barbacoa Recipe](https://www.seriouseats.com/recipes/2012/04/tender-beef-barbacoa-chipotle-tacos-recipe.html)
 
 The beef really doesnt need to be super high end quality, the oxtails even less so as they can be discarded.
