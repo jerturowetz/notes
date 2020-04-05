@@ -1,6 +1,6 @@
 # Meal plan
 
-- Barbacoa (make and freeze)
+- Steak & whatever
 - Dhal
 - Michelin star fries
 - dumpling snack
