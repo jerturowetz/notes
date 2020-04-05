@@ -1,12 +1,14 @@
 # Meal plan
 
-- Steak & whatever
 - Dhal
 - Michelin star fries
-- dumpling snack
+- Dumpling snack
 
 ## Ideas for next week
 
+- Something with shrimp
+- Something whole chicken
+- Something freezer chicken
 - kate chicken soup
 - Something chris morocco
 - butter chicken
@@ -21,32 +23,31 @@
 
 ## Metro/Provigo
 
-- naan
-- veg oil
+- baguette
 - ketchup
 - sliced meats
-- baby cereal bars
-- formula
-- chick peas
-- oranges
-- bread
 
-- honey
-- Veg for stir fry
-- Pineapple
-- Oranges
-- Brick cheese
-- Pork shoulder if possible
-- Salmon & some other fish
-- Dijon
-- KD
-- Coffee
-- Big chocolate
-- Dish soap
-- chick peas
+--
+
 - Baby pasta
+- Salmon & some other fish
+- Oranges
+- Bananas
+- Pineapple
+- Veg for stir fry
+- Brick cheese x2
+- bread
+- chick peas
+- honey
 - Baby pasta sauce
 - Veg oil
+- Coffee
+- Dijon
+- KD
+- Big chocolate
+- Dish soap
+- baby cereal bars
+- formula
 
 ## Latin grocery
 
