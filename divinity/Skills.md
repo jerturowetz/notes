@@ -10,7 +10,11 @@
   - Teleportation
   - Thunder Jump
   - Wind of Change
-- **Level 4 Air (Dual Wielding, Shadowblade):**
+- **Level 4 Air (Dual Wielding):**
+  - NOVICE: Don’t take Avatar of Storms (have blitz bolt)
+  - ADEPT: Don’t take Air Absorption
+  - MASTER: Storm
+- **Level 4 Air (Shadowblade):**
   - NOVICE: Don’t take Avatar of Storms
   - ADEPT: Don’t take Air Absorption
   - MASTER: Storm
@@ -42,7 +46,15 @@ Infectious Flame/Meteor Shower Required lv 15
 
 ## WATER MAGIC
 
-- **Level 4 Water (Dual Wielding, Shadowblade, Ranger):**
+- **Level 4 Water (Dual Wielding):**
+  - NOVICE: <6 (have regen)
+  - ADEPT: Don’t take Waters of Life, Water Absorption, or Ice Wall
+  - MASTER: Hail Attack
+- **Level 4 Water (Shadowblade):**
+  - NOVICE: <6 (have regen)
+  - ADEPT: Don’t take Waters of Life, Water Absorption, or Ice Wall
+  - MASTER: Hail Attack
+- **Level 4 Water (Ranger):**
   - NOVICE: <6
   - ADEPT: Don’t take Waters of Life, Water Absorption, or Ice Wall
   - MASTER: Hail Attack
