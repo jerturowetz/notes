@@ -17,14 +17,18 @@
 - something with beans
 - somethjng with tahini
 - something with soy paste
+- somethibg with adobo chiles
 
 ## Metro/Provigo
 
+- bread
+- na beer
+- naan
+- cilantro
+- bleach
+
 - honey
-- Flour
-- Bread
 - Bananas
-- Butter
 - Veg for stir fry
 - Pineapple
 - Oranges
@@ -36,7 +40,11 @@
 - Coffee
 - Big chocolate
 - Dish soap
-- Bleach
+- chick peas
+
+## Latin grocery
+
+- Chiles in adobo x 2
 
 ## Pasta store
 
