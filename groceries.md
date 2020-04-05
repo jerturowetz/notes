@@ -21,11 +21,15 @@
 
 ## Metro/Provigo
 
-- bread
-- na beer
 - naan
-- cilantro
-- bleach
+- veg oil
+- ketchup
+- sliced meats
+- baby cereal bars
+- formula
+- chick peas
+- oranges
+- bread
 
 - honey
 - Bananas
