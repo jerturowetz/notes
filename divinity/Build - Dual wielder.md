@@ -13,7 +13,6 @@
 
 ## Abilities
 
-- **Level 1:** Man-at-Arms, Scoundrel, Water, Fire, Air, Earth, Witchcraft
 - **Level 3:** Dual Wielding, Man-at-Arms, Scoundrel
 - **Level 2:** Witchcraft
 - **Level 4:** Water (Post lv 15)
@@ -23,9 +22,9 @@
 
 ## Traits
 
-1. Slingshot
-2. Pinpoint
-3. Far Out Man
+1. ~Slingshot~
+2. ~Pinpoint~
+3. ~Far Out Man~
 4. Bully
 5. Opportunist
 6. Backstab

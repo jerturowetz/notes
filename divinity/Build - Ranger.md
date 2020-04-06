@@ -11,7 +11,7 @@
 
 ## Abilities
 
-- **Level 1:** Scoundrel, Expert Marksman, Water, Fire, Air, Earth, Charisma, Witchcraft
+- **Level 1:** Charisma
 - **Level 2:** Bow/Witchcraft/Water/Expert Marksman
 - **Level 4:** Water/Expert Marksman (Post level 15)
 - **Level 5:** Bow
@@ -21,9 +21,9 @@
 
 ## Traits
 
-1. Far Out Man
-2. Light Stepper
-3. Pet pal
+1. ~Far Out Man~
+2. ~Light Stepper~
+3. ~Pet pal~
 4. Stench
 5. Sidestep
 6. Glass Cannon

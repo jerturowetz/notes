@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- [Read up on what VRSPs are as Unito has enrolled me](https://www.rrq.gouv.qc.ca/en/retraite/rver/Pages/rver.aspx)
 - Kalin website, deactivate old one
 - pick up mini screwdriver set
 - assemble things for taxes
