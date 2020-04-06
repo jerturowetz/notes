@@ -3,12 +3,12 @@
 - Dhal
 - Michelin star fries
 - Dumpling snack
+- Chicken thighs with brussel sprouts
+- Shrimp & broccoli stir fry
 
 ## Ideas for next week
 
-- Something with shrimp
 - Something whole chicken
-- Something freezer chicken
 - kate chicken soup
 - Something chris morocco
 - butter chicken
@@ -23,19 +23,12 @@
 
 ## Metro/Provigo
 
-- baguette
-- ketchup
-- sliced meats
-
---
-
-- Baby pasta
 - Salmon & some other fish
-- Oranges
 - Bananas
 - Pineapple
 - Veg for stir fry
 - Brick cheese x2
+- sliced meats
 - bread
 - chick peas
 - honey
