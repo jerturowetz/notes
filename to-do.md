@@ -1,30 +1,25 @@
 # Jeremy's To-Do List
 
-- [Read up on what VRSPs are as Unito has enrolled me](https://www.rrq.gouv.qc.ca/en/retraite/rver/Pages/rver.aspx)
-- Kalin website, deactivate old one
-- pick up mini screwdriver set
-- assemble things for taxes
-  - rebters insurance
-  - rent
-  - waldo resp
-  - rrsp statemets
-  - both t4
-- clean up shed
-- replace dell battery
-- sell dell
+- Print digital tax docs
+- Kalin website
+- Dell battery
 - review Andrea sound gear
+- Cult updates
+
+--
+
+- Tax docs drop off
+- [Read up on what VRSPs are as Unito has enrolled me](https://www.rrq.gouv.qc.ca/en/retraite/rver/Pages/rver.aspx)
+- Clean shed
+- Sell Dell
 - Clean 27 website
 - Unito deploy system
-- cult updates
-- reactivate td savings auto deposit
+- Reactivate td savings auto deposit
 - iPhone repair:
   - battery replace
   - get photos off old phone
-- taxes:
-  - collect tax documents (go through drawer, bk t4s)
-  - Organize document drop off for mickey
 - IKEA battery drop off
-- get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
+- Get vaccine booklet signed at jean cotu 1351 laurier (thuradays 2-6pm)
 - Warn Shakti of email changes & shut down Rackspace
 - Last thank you cards
 - Pick up drums chez Mike M
