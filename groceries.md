@@ -13,7 +13,6 @@
 - Something chris morocco
 - butter chicken
 - fish x 2
-- shrimp stir fry
 - crispy chicken wraps
 - chick pea wraps
 - something with beans
@@ -30,11 +29,13 @@
 - Brick cheese x2
 - sliced meats
 - bread
+- Milk
+- Butter
 - chick peas
 - honey
 - Baby pasta sauce
 - Veg oil
-- Coffee
+- Coffee x2
 - Dijon
 - KD
 - Big chocolate
