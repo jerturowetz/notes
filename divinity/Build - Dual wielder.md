@@ -1,16 +1,5 @@
 # Build: Dual wielder
 
-- always weild a dagger in main hand for scoundrel stuff
-- pick up all the "touching spells" ASAP (low AP)
-- have melee power stance always active
-- Best weapons for other hand are mace levels 1-7, axe levels 11-22 (after tenebrium addition to 6% crit axes), and post lv 22 use Sword of Planets (with Joshua's Spice) or a 8% crit axe or Buffalo Sabre
-- Stay back until the enemies are CC'd or weak and then jump in with thunder jump/battering ram and all your touch spells (burning/freezing/shocking/decaying, etc. touch).
-- You should be throwing grenades like toilet paper- firestorm + toxic at a minimum- but grenades such as the frost grenade can make impossible fights pot shots.
-- Spam Midnight Oil and then toss. Firefly will also help you with this.
-- Enemies with "immune to fire aura", try to sneak in to the battle and teleport the person with the aura into the middle of your party to start the fight.
-- By Mid-End game your spells will be powerful enough to take out most enemies, but you also can CC and destroy hand-to-hand with physical damage.
-- Putting one point into scoundrel/man-at-arms and every other school of magic as well as into "dual wielding" will set you up solid early game.
-
 ## Abilities
 
 - **Level 3:** Dual Wielding, Man-at-Arms, Scoundrel
@@ -20,15 +9,12 @@
 - **Level 5:** Dual Wielding
 - **Level 1-3:** Willpower/Body Building
 
-## Traits
+## Talents
 
-1. ~Slingshot~
-2. ~Pinpoint~
-3. ~Far Out Man~
-4. Bully
-5. Opportunist
-6. Backstab
-7. Parry Master
+1. Bully
+1. Opportunist
+1. Backstab
+1. Parry Master
 
 ## Stats
 
