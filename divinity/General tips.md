@@ -31,10 +31,10 @@
 
 Crafting/Blacksmithing items can/should be dumped on a mule
 
-- **Source Hunter:** grenades/parts & arrows/parts
+- **Source Hunter:** Arrows & arrow parts/Grenades & grenade parts
+- **Red backpack**: keys
 - **Evelyn's:** Quest items
 - **Pouch:** +1 gear
-- **New red backpack found before first fight of game**: keys
 
 ## Mules
 
