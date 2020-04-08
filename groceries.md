@@ -26,32 +26,21 @@ Other ideas:
 
 ## Metro/Provigo
 
-- Salmon, cod & some other fish
 - Bananas
-- garlic x3
-- onion
-- parsley
-- basil leaves
-- radicchio
-- 2 endives
-- scallions
-- fennel
-- 2 lemons
-- baby bok choy, other veg side for fish?
-- Pineapple
-- Brick cheese x2
-- sharp provolone cheese
-- Parm
-- wraps
-- othrt sliced meats
-- cured fennel salami
-- whole chicken
+- charcoal
 - ground pork
 - bone-in skin-on chicken breast
+
+--
+
+- sharp provolone cheese
+
+- othrt sliced meats
+- cured fennel salami
+
 - Milk
 - small whole milk
 - Butter (salted & unsalted)
-- eggs x2
 - 12 oz. store-bought pizza dough
 - can fire roasted tomatoes
 - honey
