@@ -28,7 +28,7 @@ Other ideas:
 
 - Salmon, cod & some other fish
 - Bananas
-- garlic x2
+- garlic x3
 - onion
 - parsley
 - basil leaves
@@ -46,6 +46,7 @@ Other ideas:
 - othrt sliced meats
 - cured fennel salami
 - whole chicken
+- ground pork
 - bone-in skin-on chicken breast
 - Milk
 - small whole milk
