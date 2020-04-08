@@ -14,19 +14,13 @@
 
 Other ideas:
 
-- butter chicken
-- crispy chicken wraps
-- moar pineapple chicken
-- roast something
 - ramen
 - something with beans
 - somethjng with tahini
 - something with soy paste
-- somethibg with adobo chiles
 
 ## Metro/Provigo
 
-- Bananas
 - charcoal
 - ground pork
 - bone-in skin-on chicken breast
