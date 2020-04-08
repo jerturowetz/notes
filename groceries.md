@@ -43,8 +43,8 @@ Other ideas:
 - sharp provolone cheese
 - Parm
 - wraps
-- sliced meats:
-  - cured fennel salami
+- othrt sliced meats
+- cured fennel salami
 - whole chicken
 - bone-in skin-on chicken breast
 - Milk
@@ -52,8 +52,6 @@ Other ideas:
 - Butter (salted & unsalted)
 - eggs x2
 - 12 oz. store-bought pizza dough
-- low-moisture mozzarella
-- chick peas
 - can fire roasted tomatoes
 - honey
 - extra-virgin olive oil
@@ -67,12 +65,8 @@ Other ideas:
 
 ## Pasta store
 
-- Meat sauce
-- Meatballs
 - Lasagna
-- Spaghetti
 - small shells
-- short tube pasta (paccheri or rigatoni)
 
 ## Latin grocery
 
