@@ -30,33 +30,15 @@ Other ideas:
 - charcoal
 - ground pork
 - bone-in skin-on chicken breast
-
---
-
-- sharp provolone cheese
-
-- othrt sliced meats
-- cured fennel salami
-
-- Milk
-- small whole milk
-- Butter (salted & unsalted)
-- 12 oz. store-bought pizza dough
-- can fire roasted tomatoes
-- honey
-- extra-virgin olive oil
-- Veg oil
-- Coffee x2
-- Dijon
+- pozza doigh 12 oz
+- dawn
+- dijon
 - KD
-- Dish soap
-- baby cereal bars
-- formula
+- shell pasta
 
 ## Pasta store
 
 - Lasagna
-- small shells
 
 ## Latin grocery
 
