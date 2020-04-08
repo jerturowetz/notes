@@ -1,7 +1,6 @@
 # Wishlist
 
 - Half sheet rack
-- send kate $$ for sablon ($150)
 - baby swimwear
 - workout socks
 - *Container store:*
