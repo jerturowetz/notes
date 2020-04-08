@@ -1,9 +1,5 @@
 # Divinity: Crafting
 
-- perception potions (eye + empty vial)
-- Slowdown arrows (oil barrel + arrow head)
-- Poison arrows (ooze barrel + arrow head)
-
 ## POTION-LIKE-ITEMS
 
 - Jellyroom + Empty Potion Flask = Air Resistance Potion

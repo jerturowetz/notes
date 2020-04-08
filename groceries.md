@@ -1,18 +1,16 @@
 # Meal plan
 
-- Dhal
 - Michelin star fries
 - Dumpling snack
-- Chicken thighs with brussel sprouts
 - Shrimp & broccoli stir fry
+- Chicken-Lentil Soup With Jammy Onions
+- fish x 2
 
 ## Ideas for next week
 
 - Something whole chicken
-- kate chicken soup
 - Something chris morocco
 - butter chicken
-- fish x 2
 - crispy chicken wraps
 - chick pea wraps
 - something with beans
@@ -24,21 +22,24 @@
 
 - Salmon & some other fish
 - Bananas
+- garlic
+- onion
+- parsley
+- lemon
+- baby bok choy
 - Pineapple
-- Veg for stir fry
 - Brick cheese x2
 - sliced meats
-- bread
 - Milk
 - Butter
+- eggs x2
 - chick peas
 - honey
-- Baby pasta sauce
+- extra-virgin olive oil
 - Veg oil
 - Coffee x2
 - Dijon
 - KD
-- Big chocolate
 - Dish soap
 - baby cereal bars
 - formula
