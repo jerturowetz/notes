@@ -1,8 +1,7 @@
-# Build: Madora
+# Build: Jahan
 
 ## Abilities
 
-- **Level 1:** Man-at-arms, Scoundrel, Fire, Witchcraft
 - **Level 3:** Dual Weilding, Scoundrel
 - **Level 2:** Witchcraft
 - **Level 4:** Water
@@ -12,10 +11,8 @@
 
 ## Talents
 
-1. Far out man
 1. Backstabber
 1. Bully
-1. Opportunist
 1. Parry master
 
 ## Stats

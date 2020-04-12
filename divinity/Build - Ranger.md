@@ -2,8 +2,8 @@
 
 ## Abilities
 
-- **Level 2:** Bow/Witchcraft/Water/Expert Marksman
-- **Level 4:** Water/Expert Marksman (Post level 15)
+- **Level 2:** Witchcraft, Water
+- **Level 4:** Water, Expert Marksman (Post level 15)
 - **Level 5:** Bow
 - **Level 4:** Witchcraft
 - **Level 5:** Expert Marksman
@@ -12,7 +12,6 @@
 ## Talents
 
 1. Sidestep
-1. Stench
 1. Glass Cannon
 1. Elemental Ranger
 

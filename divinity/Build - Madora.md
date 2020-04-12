@@ -2,15 +2,13 @@
 
 ## Abilities
 
-- **Level 1:** Scoundrel, Air, Leadership
-- **Level 5:** Leadership
-- **Level 5:** Two-handed, Man-at-arms
+- **Level 5:** Leadership, Man-at-arms
+- **Level 5:** Two-handed
 - **Level 1-3:** Willpower/Body Building
 
 ## Talents
 
 1. Bully
-1. Five-star-diner
 1. Picture of health
 
 ## Stats

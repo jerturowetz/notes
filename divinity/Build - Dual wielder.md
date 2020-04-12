@@ -11,9 +11,8 @@
 
 ## Talents
 
-1. Bully
-1. Opportunist
 1. Backstab
+1. Opportunist
 1. Parry Master
 
 ## Stats
