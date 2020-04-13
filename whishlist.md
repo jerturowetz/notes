@@ -1,5 +1,28 @@
 # Wishlist
 
+bananas
+yogurt
+bread
+mini eggs
+
+
+workshop stuff
+pegboard baskets
+pegboard paper roll holder
+shop wipes
+guitar neckbrest
+
+
+casters for bass amp
+clutch
+stool/chair for piano
+amp stand for tech 21
+heavy dury zip ties
+
+
+
+
+
 - Half sheet rack
 - baby swimwear
 - workout socks
