@@ -12,25 +12,27 @@ Other ideas:
 
 - ramen
 - something with beans
-- somethjng with tahini
+- something with tahini
 - something with soy paste
 
 ## Metro/Provigo
 
+- Yogurt
 - Cod/Salmon
 - bone-in skin-on chicken breast
-- pizza doigh 12 oz
-- shell pasta
-- Frozen strawberries, blueberies, whatever
+- Boneless chicken breasts
+- pizza dough 12 oz
+- Frozen strawberries, blueberries, whatever
 - Spinach
 - Oranges
-- Banans
+- Banana
 - Bread
-- Cardburry mino eggs
+- Cadbury mini eggs
 - Beer
 
 --
 
+- shell pasta
 - charcoal
 - ground pork
 

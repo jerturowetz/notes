@@ -1,31 +1,21 @@
 # Wishlist
 
-bananas
-yogurt
-bread
-mini eggs
-
-
-workshop stuff
-pegboard baskets
-pegboard paper roll holder
-shop wipes
-guitar neckbrest
-
-
-casters for bass amp
-clutch
-stool/chair for piano
-amp stand for tech 21
-heavy dury zip ties
+- pegboard baskets
+- pegboard paper roll holder
+- shop wipes
+- Disinfecting wipes
+- heavy dury zip ties
+- 5/8-27 tap
+- 5/8-27 mounting plate
+- casters for bass amp
 
 
 
-
-
-- Half sheet rack
-- baby swimwear
-- workout socks
+- Music stuff right away:
+  - OnStage TMO1 Multi Clamp Microphone Mount
+  - amp stand for tech 21
+  - Ampeg knob
+  - better clutch
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
@@ -38,7 +28,6 @@ heavy dury zip ties
 - [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
 - Earplugs (for Kate)
 - silent practice pad
-- 1 more baby mirrors
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
 - Gear to patch hole behind stove
@@ -112,16 +101,10 @@ heavy dury zip ties
 ### Workbench/Other
 
 - heat shrink
-- 5/8-27 tap
-- 5/8-27 mounting plate
-- OnStage TMO1 Multi Clamp Microphone Mount
 - cable gland joints for headphone repairs
 - Furman plug lock
 - Downbeats or Zildjian ear plugs
 - 3/4" console tape
-- Ampeg knob
-- Ampeg casters
-- better clutch
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
@@ -140,8 +123,10 @@ heavy dury zip ties
   - 18824 3rd level controller tray
   - 18815 laptop holder
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- Jam space shop vac
+- handheld dustbuster or wet/dry vac
 - snare stand
 - better hats stand & kick pedal
 - earthworks mic set
 - desktop mounted Magnifying glass with light
+- guitar neck-rest
+- stool/chair for piano
