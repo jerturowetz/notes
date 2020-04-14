@@ -1,15 +1,12 @@
 # Meal plan
 
-- [Italian Chopped Salad](https://www.bonappetit.com/recipe/italian-chopped-salad)
 - [lemon parm pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
-- [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
-- [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
+- [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 - [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
+- [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - Michelin star fries
 - Dumpling snack
-- Shrimp & broccoli stir fry
-- Chicken-Lentil Soup With Jammy Onions
 
 Other ideas:
 
@@ -20,13 +17,22 @@ Other ideas:
 
 ## Metro/Provigo
 
+- Cod/Salmon
+- bone-in skin-on chicken breast
+- pizza doigh 12 oz
+- shell pasta
+- Frozen strawberries, blueberies, whatever
+- Spinach
+- Oranges
+- Banans
+- Bread
+- Cardburry mino eggs
+- Beer
+
+--
+
 - charcoal
 - ground pork
-- bone-in skin-on chicken breast
-- pozza doigh 12 oz
-- shell pasta
-- Frozen strawberries & blueberies
-- Spinach
 
 ## Pasta store
 
