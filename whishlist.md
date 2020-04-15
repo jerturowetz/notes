@@ -1,17 +1,12 @@
 # Wishlist
 
-- compressed air
-- cotton pads
-- shop towels
-- qtips
-- spray cleaner
-- toothbrushes
 - pegboard baskets (small)
 - Disinfecting wipes
-- heavy dury zip ties
-- 5/8-27 tap
-- 5/8-27 mounting plate
+- heavy duty zip ties
 - casters for bass amp
+- mounting plate for headphone holder
+- 5/8-27 tap
+- Better clothespins
 
 --
 
@@ -20,12 +15,15 @@
   - OnStage TMO1 Multi Clamp Microphone Mount
   - amp stand for tech 21
   - better clutch
+  - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+  - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+
+--
+
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
@@ -77,6 +75,7 @@
 
 ### DIs
 
+- Acoustic guitar DI
 - Radial Key Largo
 - JDI stereo (for active bass)
 - JDV stereo (for passive bass)
@@ -107,30 +106,35 @@
 - heat shrink
 - cable gland joints for headphone repairs
 - Furman plug lock
-- Downbeats or Zildjian ear plugs
 - 3/4" console tape
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - $40 ea Wishbone amp hook x2
 - K&M 210/8 or 252 (rack tom)
 - K&M 16080 headphone holder x2
-- Better tall stands for OHs
 - Mic stand sandbags
 - 3.5mm to dual 1/4"
 - shure mic bags & clips
 - 7a sticks
-- K&M keyboard stand:
-  - 18810-015-91 Keyboadr table (red)
-  - 18811-000-91 2nd level stacker (red)
-  - 18822 3rd level stacker
-  - 18819 2nd level controller tray
-  - 18824 3rd level controller tray
-  - 18815 laptop holder
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - handheld dustbuster or wet/dry vac
 - snare stand
 - better hats stand & kick pedal
-- earthworks mic set
 - desktop mounted Magnifying glass with light
 - guitar neck-rest
 - stool/chair for piano
+- Cable box (piano plugs)
+- Downbeats or Zildjian ear plugs
+- K&M keyboard stand:
+  - 18810-015-91 Keyboadr table (red)
+  - 18811-000-91 2nd level stacker (red)
+  - 18819 2nd level controller tray
+  - 18815 laptop holder
+  - 18822 3rd level stacker
+  - 18824 3rd level controller tray
+- workshop:
+  - compressed air can
+  - cotton pads
+  - shop towels
+  - spray cleaner
+  - toothbrushes

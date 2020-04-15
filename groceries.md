@@ -19,8 +19,7 @@ Other ideas:
 
 - bone-in skin-on chicken breast (1-2 lbs)
 - ground pork 2lbs
-
-- pizza dough 12 
+- pizza dough 12
 - Cadbury mini eggs
 - shell pasta
 - charcoal
