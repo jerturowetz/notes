@@ -17,24 +17,13 @@ Other ideas:
 
 ## Metro/Provigo
 
-- Yogurt
-- Cod/Salmon
-- bone-in skin-on chicken breast
-- Boneless chicken breasts
-- pizza dough 12 oz
-- Frozen strawberries, blueberries, whatever
-- Spinach
-- Oranges
-- Banana
-- Bread
+- bone-in skin-on chicken breast (1-2 lbs)
+- ground pork 2lbs
+
+- pizza dough 12 
 - Cadbury mini eggs
-- Beer
-
---
-
 - shell pasta
 - charcoal
-- ground pork
 
 ## Pasta store
 
