@@ -1,20 +1,24 @@
 # Wishlist
 
-- pegboard baskets
-- pegboard paper roll holder
-- shop wipes
+- compressed air
+- cotton pads
+- shop towels
+- qtips
+- spray cleaner
+- toothbrushes
+- pegboard baskets (small)
 - Disinfecting wipes
 - heavy dury zip ties
 - 5/8-27 tap
 - 5/8-27 mounting plate
 - casters for bass amp
 
-
+--
 
 - Music stuff right away:
+  - Moon-gels
   - OnStage TMO1 Multi Clamp Microphone Mount
   - amp stand for tech 21
-  - Ampeg knob
   - better clutch
 - *Container store:*
   - 3 small freezer bins
