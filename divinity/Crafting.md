@@ -12,7 +12,6 @@
 
 ## ARROWS
 
-- [UNIQUE] Arrowhead + Arrow Shaft = [UNIQUE] Arrow
 - Arrowhead + Drudanae Herb = Charming Arrowhead
 - Ooze Barrel + Arrowhead = Poison Arrowhead
 - Antlers + Knife = Knockdown Arrowhead
@@ -35,17 +34,9 @@
 - Empty Holy Grenade + Magic Starfish = Holy Grenade
 - Empty Grenade + [UNIQUE] Essense = [UNIQUE ESSENSE] Grenade
 - Empty Perfume Bottle + Pixie Dust = Love Grenade
-- Sheers + Sheep (pat pal) = Wool
-- Wool + Wool = Rope
-- Rope + Rope = Fuse
 
 ## GEAR
 
-- Sinew + Sinew = Bowstring
-- Branch + Bowstring = Bow
-- Branch + Iron Bar = Crossbow    Without String
-- Crossbow    Without String + Bowstring = Crossbow
-- Branch + Nine Inch Nails = Nail Fortified Branch (Mace)
 - Anvil + Any Knife = Dagger
 - Anvil + Large Iron Bar = Two-Handed Sword
 - Fiery Heart + Bottle of Swirling Mud = Sword Of Planets
@@ -63,6 +54,3 @@
 - Bow/Crossbow + Bowsting = Enhanced Damage
 - Bow/Crossbow + Scope = +Per/Dex
 - Weapon + Tormented Soul = +Str/Dex
-- Sharp Magical Tooth + Rope = +1 Charisma Belt
-- Sharp Magical Tooth + Thread = +1 Charisma Necklace
-- Sharp Magical Tooth + Ringkit = +1 Charisma Ring
