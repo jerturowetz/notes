@@ -1,13 +1,13 @@
 # Wishlist
 
-- pearl/tama quick hi hat clutch
 - pegboard baskets (small)
 - Disinfecting wipes
 - heavy duty zip ties
 - casters for bass amp
-- mounting plate for headphone holder
-- 5/8-27 tap
 - Better clothespins
+
+- mounting plate for headphone holder
+- 5/8-27 tap ?
 
 --
 
@@ -15,7 +15,7 @@
   - Moon-gels
   - OnStage TMO1 Multi Clamp Microphone Mount
   - amp stand for tech 21
-  - better clutch
+  - pearl/tama quick hi hat clutch
   - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
   - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 
