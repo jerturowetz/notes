@@ -1,5 +1,6 @@
 # Wishlist
 
+- pearl/tama quick hi hat clutch
 - pegboard baskets (small)
 - Disinfecting wipes
 - heavy duty zip ties
