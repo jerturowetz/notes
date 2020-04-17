@@ -17,12 +17,19 @@
 
 ## Gear
 
+- Gear should all prioritize +1 primary stats.
 - As soon as possible make +1 Charisma gear:
   - Belt: Magical Tooth + Rope
   - Necklace: Magical Tooth + Thread
   - Rings: Magical Tooth + Ring Kits
+
 - +1 dual weilding belt x2
 - +1 two handed belt
 - +1 leadership helm
 - Immune to fear armor for madora
 - +1 bow gloves, +1 bow
+
+Magical Skull + Ring Kit = Skull Ring (+1 Con)
+Magical Feather/Magical Claw + Rope/Thread = Claw/Feather Belt/Necklace (+1 Str/ Dex)
+Magical Tooth + Ring Kit/Rope/Thread = Tooth Ring/Belt/Necklace (+1 Charisma)
+Magical Starfish/Antlers/Eye + Leather Helm = Starfish/Antler Helm (+1 Leadership, +1 Con, +1 Per)

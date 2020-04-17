@@ -23,8 +23,13 @@ Other ideas:
 --
 
 - pizza dough 12
+- big carrotts
+- mini carrots
+- apples
+- pizza dough 12
 - Cadbury mini eggs
 - shell pasta
+- mayonaise
 - charcoal
 
 ## Pasta store
