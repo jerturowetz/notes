@@ -6,8 +6,19 @@
 - casters for bass amp
 - Better clothespins
 
+What screws for amps
+Ernie Ball casters
+magnetic cabinet whatever for IVAR
+
 - mounting plate for headphone holder
 - 5/8-27 tap ?
+
+sometjiny to hold mic stand s
+
+macbook pro car charger
+macbook pro portable charger
+macbook pro dongle power for space
+
 
 --
 

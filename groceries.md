@@ -18,9 +18,16 @@ Other ideas:
 ## Metro/Provigo
 
 - bone-in skin-on chicken breast (1-2 lbs)
-- ground pork 2lbs
+- ground pork 2lb 
+s
 
 --
+
+milk
+oj
+mayo
+baby cereal
+
 
 - big carrotts
 - mini carrots
