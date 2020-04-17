@@ -1,12 +1,13 @@
-# Wishlist
+" Wishlist
 
 - heavy duty zip ties
-- casters for bass amp
 - Better clothespins
-
+- Wood screws for amps
+- magnetic cabinet stoppers whatever for IVAR
 - pegboard baskets (small)
 - Disinfecting wipes
-- mounting plate for headphone holder (5/8-27 tap)
+- shop broom storage for mic stands
+- macbook pro power for space
 
 --
 

@@ -14,20 +14,19 @@ Other ideas:
 - something with beans
 - something with tahini
 - something with soy paste
+- Something with Qinoi
 
 ## Metro/Provigo
 
 - bone-in skin-on chicken breast (1-2lbs)
 - ground pork 2lbs
-
---
-
-- both big & mini carrots
+- OJ
 - apples
 - Cadbury mini eggs
 - shell pasta
 - mayonnaise
 - charcoal
+- baby cereal
 
 ## Pasta store
 
@@ -45,6 +44,7 @@ Other ideas:
 
 - Garlic powder
 - Cayenne pepper
+- Sweet hungarian paprika
 
 ## Pharmacy
 

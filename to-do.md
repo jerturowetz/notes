@@ -1,8 +1,15 @@
 # Jeremy's To-Do List
 
+- space:
+  - Get the model of mats amplifier
+  - photograph Dylan's stuff to confirm
+  - Fix bass casters
+  - Figure out headphone amplifier mounting solution
+  
 - Print digital tax docs
 - Dell battery
 - review Andrea sound gear
+- clean 27 translations
 - Cult updates
 
 - make a wallpaper: Typography is two-dimensional architecture, based on experience and imagination, and guided by rules and readability. And this is the purpose of typography: The arrangement of design elements within a given structure should allow the reader to easily focus on the message, without slowing down the speed of his reading.
@@ -12,7 +19,6 @@
 - Tax docs drop off
 - Clean shed
 - Sell Dell
-- Clean 27 website
 - Unito deploy system
 - Reactivate td savings auto deposit
 - iPhone repair:
