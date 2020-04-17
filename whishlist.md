@@ -1,13 +1,12 @@
 # Wishlist
 
-- pegboard baskets (small)
-- Disinfecting wipes
 - heavy duty zip ties
 - casters for bass amp
 - Better clothespins
 
-- mounting plate for headphone holder
-- 5/8-27 tap ?
+- pegboard baskets (small)
+- Disinfecting wipes
+- mounting plate for headphone holder (5/8-27 tap)
 
 --
 
@@ -136,6 +135,5 @@
 - workshop:
   - compressed air can
   - cotton pads
-  - shop towels
   - spray cleaner
   - toothbrushes

@@ -1,6 +1,6 @@
 # Meal plan
 
-- [lemon parm pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
+- [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 - [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
@@ -17,24 +17,22 @@ Other ideas:
 
 ## Metro/Provigo
 
-- bone-in skin-on chicken breast (1-2 lbs)
+- bone-in skin-on chicken breast (1-2lbs)
 - ground pork 2lbs
 
 --
 
-- pizza dough 12
-- big carrotts
-- mini carrots
+- both big & mini carrots
 - apples
-- pizza dough 12
 - Cadbury mini eggs
 - shell pasta
-- mayonaise
+- mayonnaise
 - charcoal
 
 ## Pasta store
 
 - Lasagna
+- pizza dough 12
 
 ## Latin grocery
 
