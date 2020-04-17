@@ -1,7 +1,5 @@
 # Wishlist
 
-- pegboard baskets (small)
-- Disinfecting wipes
 - heavy duty zip ties
 - casters for bass amp
 - Better clothespins
@@ -12,6 +10,9 @@ magnetic cabinet whatever for IVAR
 
 - mounting plate for headphone holder
 - 5/8-27 tap ?
+- pegboard baskets (small)
+- Disinfecting wipes
+- mounting plate for headphone holder (5/8-27 tap)
 
 sometjiny to hold mic stand s
 
@@ -147,6 +148,5 @@ macbook pro dongle power for space
 - workshop:
   - compressed air can
   - cotton pads
-  - shop towels
   - spray cleaner
   - toothbrushes

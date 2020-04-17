@@ -1,11 +1,6 @@
 # Jeremy's To-Do List
 
-chocolat 2000 film
-
-
-
 - Print digital tax docs
-- Kalin website
 - Dell battery
 - review Andrea sound gear
 - Cult updates
@@ -13,7 +8,6 @@ chocolat 2000 film
 --
 
 - Tax docs drop off
-- [Read up on what VRSPs are as Unito has enrolled me](https://www.rrq.gouv.qc.ca/en/retraite/rver/Pages/rver.aspx)
 - Clean shed
 - Sell Dell
 - Clean 27 website
