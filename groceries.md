@@ -45,6 +45,16 @@ Other ideas:
 - Garlic powder
 - Cayenne pepper
 - Sweet hungarian paprika
+- savory
+- rosemary
+- cloves
+- ground ginger
+- ground allspice
+- nutmeg
+- ground cumin
+- ground cinnamon
+- chinese 5 spice
+- spare jars
 
 ## Pharmacy
 
