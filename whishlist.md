@@ -1,6 +1,8 @@
 # Wishlist
 
 - heavy duty zip ties
+- black zip ties
+- strong magnetic cabinet latches
 - Better clothespins
 - Wood screws for amps
 - magnetic cabinet stoppers whatever for IVAR
