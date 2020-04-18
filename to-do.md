@@ -5,9 +5,9 @@
   - photograph Dylan's stuff to confirm
   - Fix bass casters
   - Figure out headphone amplifier mounting solution
-  
+
 - Print digital tax docs
-- Dell battery
+- [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - review Andrea sound gear
 - clean 27 translations
 - Cult updates
