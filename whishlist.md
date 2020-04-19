@@ -1,7 +1,10 @@
 # Wishlist
 
+- sheets
 - heavy duty zip ties
 - box cutter for scoring meat
+- black zip ties
+- strong magnetic cabinet latches
 - Better clothespins
 - Wood screws for amps
 - magnetic cabinet stoppers whatever for IVAR
