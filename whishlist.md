@@ -1,5 +1,6 @@
 # Wishlist
 
+- sheets
 - heavy duty zip ties
 - black zip ties
 - strong magnetic cabinet latches
