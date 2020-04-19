@@ -12,10 +12,9 @@
 - clean 27 translations
 - Cult updates
 
-- make a wallpaper: Typography is two-dimensional architecture, based on experience and imagination, and guided by rules and readability. And this is the purpose of typography: The arrangement of design elements within a given structure should allow the reader to easily focus on the message, without slowing down the speed of his reading.
-
 --
 
+- Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Tax docs drop off
 - Clean shed
 - Sell Dell
@@ -37,11 +36,6 @@
 - [Hydro Quebec Electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a dance show](https://www.quebecdanse.org/)
-
-## Shrink
-
-- Drugs to review: Zoloft, Lamictal, Seroquel & Prolexa
-- Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 
 ## Musician's insurance
 

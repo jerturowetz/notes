@@ -5,12 +5,12 @@
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 - [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
 - [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
+- Pork Ramen
 - Michelin star fries
 - Dumpling snack
 
 Other ideas:
 
-- ramen
 - something with beans
 - something with tahini
 - something with soy paste
@@ -20,38 +20,26 @@ Other ideas:
 
 - bone-in skin-on chicken breast (1-2lbs)
 - ground pork 2lbs
-- OJ
-- apples
-- Cadbury mini eggs
-- shell pasta
-- mayonnaise
-- charcoal
-- baby cereal
+- Apples
+- Shell pasta
+- Mayonnaise
+- Charcoal
 
 ## Pasta store
 
 - Lasagna
-- pizza dough 12
+- Pizza dough 12
 
 ## Latin grocery
 
 - Chiles in adobo x3
-- queso fresco
-
---
+- Queso fresco
 
 ## Spice store
 
 - Garlic powder
 - Cayenne pepper
 - Sweet hungarian paprika
-
-## Pharmacy
-
-- baby salinex
-- baby cream for day care
-- refill wipes for home
-- large envelopes
 
 ## Asian grocery
 
