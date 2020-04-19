@@ -24,6 +24,9 @@ Other ideas:
 - Shell pasta
 - Mayonnaise
 - Charcoal
+- NA Beer
+- banans
+- good oranges 
 
 ## Pasta store
 
