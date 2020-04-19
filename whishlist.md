@@ -2,12 +2,11 @@
 
 - sheets
 - heavy duty zip ties
+- black/green medium duty zip ties
 - box cutter for scoring meat
-- black zip ties
 - strong magnetic cabinet latches
 - Better clothespins
 - Wood screws for amps
-- magnetic cabinet stoppers whatever for IVAR
 - pegboard baskets (small)
 - Disinfecting wipes
 - shop broom storage for mic stands
