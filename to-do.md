@@ -8,19 +8,21 @@ maria's eden, slaverun, sexoutbreeder
   - Fix bass casters
   - Figure out headphone amplifier mounting solution
 
-- Print digital tax docs
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - review Andrea sound gear
 - clean 27 translations
 - Cult updates
+
+Sell Dell
+- Unito deploy system
+
+
 
 --
 
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Tax docs drop off
 - Clean shed
-- Sell Dell
-- Unito deploy system
 - Reactivate td savings auto deposit
 - iPhone repair:
   - battery replace
