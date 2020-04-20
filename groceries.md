@@ -16,33 +16,41 @@ Other ideas:
 - something with soy paste
 - Something with Qinoi
 
+## Maison de rotis
+
+- 1/2 pound oxtails
+- 2lbs chuck roast
+- ground pork 2lbs
+- Fancy balsamic
+- Crackers
+
 ## Metro/Provigo
 
-- barbacoa meat
-- bone-in skin-on chicken breast (1-2lbs)
-- ground pork 2lbs
-- chicken breast for baby
-- Apples (4)
 - lemon & lime
+- Apples (4)
 - good oranges
 - sweet potatoes
 - bananas
 - green beans
-- tomatoes
+- big tomatoes
 - green leaf
+- bread
+- mozarella
+
+--
+
+- bone-in skin-on chicken breast (1-2lbs) (whole chicken ?)
+- chicken breast for baby
+- Bacon
+
+--
+
 - chick peas
 - Shell pasta
 - Mayonnaise
 - Charcoal
 - NA Beer
-
-- Fancy balsamic
 - Ice Cream
-- Crackers
-bacon
-mozarella
-
-
 - coffee
 - frozen mango & mixed berries
 
