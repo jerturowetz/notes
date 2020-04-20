@@ -18,15 +18,33 @@ Other ideas:
 
 ## Metro/Provigo
 
+- barbacoa meat
 - bone-in skin-on chicken breast (1-2lbs)
 - ground pork 2lbs
-- Apples
+- chicken breast for baby
+- Apples (4)
+- lemon & lime
+- good oranges
+- sweet potatoes
+- bananas
+- green beans
+- tomatoes
+- green leaf
+- chick peas
 - Shell pasta
 - Mayonnaise
 - Charcoal
 - NA Beer
-- banans
-- good oranges 
+
+- Fancy balsamic
+- Ice Cream
+- Crackers
+bacon
+mozarella
+
+
+- coffee
+- frozen mango & mixed berries
 
 ## Pasta store
 
