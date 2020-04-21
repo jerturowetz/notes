@@ -9,8 +9,6 @@
 - Wood screws for amps
 - pegboard baskets (small)
 - Disinfecting wipes
-- shop broom storage for mic stands
-- macbook pro power for space
 
 --
 
@@ -38,13 +36,6 @@
 - North face L bag
 - Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
-
-## Frames
-
-- 13" x 16-17" Marlowe concept art
-- 9" x 7" grey house (has a bit of matt bleed so a bigger frame)
-- 11" x 16.75" SJ Poster
-- 11" x 17" Rocket ship poster
 
 ## Boots/shoes
 

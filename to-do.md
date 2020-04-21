@@ -1,28 +1,23 @@
 # Jeremy's To-Do List
 
-maria's eden, slaverun, sexoutbreeder
-
 - space:
   - Get the model of mats amplifier
   - photograph Dylan's stuff to confirm
   - Fix bass casters
   - Figure out headphone amplifier mounting solution
-
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
+- Post dell on kijiji
 - review Andrea sound gear
 - clean 27 translations
 - Cult updates
-
-Sell Dell
 - Unito deploy system
-
-
+- Tax docs drop off
+- Clean shed
+- Baby proofing (Billie, Ivar and mirror)
 
 --
 
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
-- Tax docs drop off
-- Clean shed
 - Reactivate td savings auto deposit
 - iPhone repair:
   - battery replace
@@ -32,7 +27,6 @@ Sell Dell
 - Warn Shakti of email changes & shut down Rackspace
 - Last thank you cards
 - Pick up drums chez Mike M
-- Baby proofing (Billie, Ivar and mirror)
 - GASM follow up
 - Dermatologist follow up
 - review SEO and localization cheat sheet
