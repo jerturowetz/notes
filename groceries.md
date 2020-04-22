@@ -18,6 +18,7 @@ Other ideas:
 - something with tahini
 - something with soy paste
 - Something with Qinoi
+- Pineapple chk
 
 ## Maison de rotis
 
@@ -28,77 +29,30 @@ Other ideas:
 - Crackers
 - 4 oz. smoked bacon
 - scallops
+- salmon
 - whole chk (if affordable, and remove below)
 
 ## Val mont
 
 - Oranges
-- Pineapple
+- 3 fresno chiles
 - Fancy soda
 - Fancy chips
 
 ## Metro/Provigo
 
-- baby pasta sauce
-- 1&1/2 lb cod
-- Shrimp
-- Salmon
-
---
-
-- green beans
-- Big tomatoe
-- Cilantro
-- arugula/kale
-- 3 Fresno chiles
-- 1 bulb garlic
-- scallions
-- basil
-- Fennel
-- 2 lemons & limes
-- 4 Apples
-- 2 sweet potatoes
-- Mini tomatoes
-- big tomatoes
-- green leaf
-
---
-
-- Sandwich meat
-- bread
-- cibatta or whatever
-- english muffins
-
---
-
-- bone-in skin-on chicken breast (1-2lbs)
-- chicken breast for baby
-- Whole chicken
-- Bacon
-- Butter
-
---
-
-- lysol wipes
+- sandwich meat
+- frozen mango
 - Dawn
-- chick peas
-- bbq sauce
-- Shell pasta
-- Mayonnaise
-- Charcoal
+- disinfecting wipes
 - Perrier
-- coffee
-- frozen mango & mixed berries
 - Ice Cream
-- NA Beer
 
 ## Pasta store
 
-- Lasagna
 - Pizza dough 12
 - Low moisture mozarella
 - pizza sauce
-- italian sausage
 
 ## Asian grocery
 
@@ -109,5 +63,4 @@ Other ideas:
 
 ## Spice store
 
-- savory
 - cloves
