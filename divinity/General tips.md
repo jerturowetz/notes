@@ -29,7 +29,6 @@
 - Immune to fear armor for madora
 - +1 bow gloves, +1 bow
 
-Magical Skull + Ring Kit = Skull Ring (+1 Con)
-Magical Feather/Magical Claw + Rope/Thread = Claw/Feather Belt/Necklace (+1 Str/ Dex)
-Magical Tooth + Ring Kit/Rope/Thread = Tooth Ring/Belt/Necklace (+1 Charisma)
-Magical Starfish/Antlers/Eye + Leather Helm = Starfish/Antler Helm (+1 Leadership, +1 Con, +1 Per)
+Magical Feather necklace/belt (+1 str)
+Magical Claw necklace/belt (+1 dex)
+Magical Starfish/Antlers/Eye + Leather Helm (+1 Leadership, +1 Con, +1 Per)
