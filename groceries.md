@@ -23,14 +23,21 @@ Other ideas:
 - ground pork 2lbs
 - Fancy balsamic
 - Crackers
+- 4 oz. smoked bacon
 
 ## Metro/Provigo
 
+- Cilantro
+- 1&1/2 lb cod
+- Salmon
+- 8 scallions
+- Fennel
 - lemon & lime
 - Apples (4)
 - good oranges
 - sweet potatoes
 - bananas
+- Pineapple
 - green beans
 - big tomatoes
 - green leaf
@@ -42,6 +49,7 @@ Other ideas:
 
 - bone-in skin-on chicken breast (1-2lbs) (whole chicken ?)
 - chicken breast for baby
+- Whole chicken
 - Bacon
 
 --
@@ -60,6 +68,9 @@ Other ideas:
 
 - Lasagna
 - Pizza dough 12
+- Low moisture mozarella
+- pizza sauce
+- italian sausage
 
 ## Latin grocery
 
