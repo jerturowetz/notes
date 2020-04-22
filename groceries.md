@@ -5,7 +5,6 @@
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 - [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
 - [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
-- Salmon & whatever
 - Pork Ramen
 - Michelin star fries
 - Dumpling snack
@@ -17,27 +16,14 @@ Other ideas:
 - something with beans
 - something with tahini
 - something with soy paste
-- Something with Qinoi
+- quino
 - Pineapple chk
-
-## Maison de rotis
-
-- 1/2 pound oxtails
-- 2lbs chuck roast
-- ground pork 2lbs
-- Fancy balsamic
-- Crackers
-- 4 oz. smoked bacon
+- steak something
+- bbq
+- fish burgers
+- nice salmon
 - scallops
-- salmon
-- whole chk (if affordable, and remove below)
-
-## Val mont
-
-- Oranges
-- 3 fresno chiles
-- Fancy soda
-- Fancy chips
+- crunchy salad
 
 ## Metro/Provigo
 
@@ -45,7 +31,6 @@ Other ideas:
 - frozen mango
 - Dawn
 - disinfecting wipes
-- Perrier
 - Ice Cream
 
 ## Pasta store
@@ -54,13 +39,18 @@ Other ideas:
 - Low moisture mozarella
 - pizza sauce
 
+## Valmont
+
+- Oranges
+- 3 fresno chiles
+- Fancy soda
+- Fancy chips
+- perrier
+- crackers
+
 ## Asian grocery
 
 - dumplings x2
 - noodles
-- shrimp
 - wavy ramen noodles
 
-## Spice store
-
-- cloves
