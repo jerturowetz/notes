@@ -31,6 +31,7 @@ Other ideas:
 ## Metro/Provigo
 
 - 1&1/2 lb cod
+- Shrimp
 - Salmon
 - Cilantro
 - 3 Fresno chiles
