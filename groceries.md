@@ -1,11 +1,16 @@
 # Meal plan
 
-- [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
-- [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
-- [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
+- chk thighs stir fry & rice
 - [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
+  Side broccoli
 - [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - Pork Ramen
+- [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
+
+--
+
+- [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
+- [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - Michelin star fries
 - Dumpling snack
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
@@ -53,4 +58,3 @@ Other ideas:
 - dumplings x2
 - noodles
 - wavy ramen noodles
-
