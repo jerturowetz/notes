@@ -37,6 +37,28 @@ Other ideas:
 - bread
 - cibatta or whatever
 - mozarella
+dawn
+sandwich meat
+oj
+milk
+butter
+mayo
+bbq sauce
+baby pasta sauce 
+bacon
+scallops
+chick peas
+cauliflower
+saucisse 
+english muffins
+arugula 
+na beer
+coke
+fancy soda
+perrier
+
+
+
 
 --
 
