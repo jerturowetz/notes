@@ -12,15 +12,6 @@ AMAZON
 - Gerber EAB Lite Pocket Knife
 - other box cutter
 
-Timpano
-
-- Moon-gels
-- pearl/tama quick hi hat clutch
-
-Simons
-
-- Percale sheets
-
 Economik
 
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2

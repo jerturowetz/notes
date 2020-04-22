@@ -58,19 +58,21 @@ milk
 butter
 mayo
 bbq sauce
-baby pasta sauce 
+baby pasta sauce
 bacon
 scallops
 chick peas
 cauliflower
-saucisse 
+saucisse
 english muffins
-arugula 
+arugula
 na beer
 coke
 fancy soda
 perrier
 
+coffee x2
+apples
 
 
 
