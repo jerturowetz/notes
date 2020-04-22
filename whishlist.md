@@ -1,40 +1,34 @@
 # Wishlist
 
+RONA
 
-Radial Engineering Catapult MINI RX
+- regular cable ties
+- hevy duty cable ties
+- pegboard stuff
+- magnetic cabinet latches
 
-radial catapult RX
+AMAZON
 
-tx
+- Gerber EAB Lite Pocket Knife
+- other box cutter
 
-Radial Engineering Catapult Mini RX
+Timpano
 
-Radial Engineering Catapult TX4M
+- Moon-gels
+- pearl/tama quick hi hat clutch
 
+Simons
 
+- Percale sheets
 
-- sheets
-- heavy duty zip ties
-- black/green medium duty zip ties
-- box cutter for scoring meat
-- strong magnetic cabinet latches
-- Better clothespins
-- Wood screws for amps
-- pegboard baskets (small)
+Economik
+
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+
+--
+
+- Clothespins
 - Disinfecting wipes
-
---
-
-- Music stuff right away:
-  - Moon-gels
-  - OnStage TMO1 Multi Clamp Microphone Mount
-  - amp stand for tech 21
-  - pearl/tama quick hi hat clutch
-  - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-  - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-
---
-
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
@@ -111,6 +105,8 @@ Radial Engineering Catapult TX4M
 
 ### Workbench/Other
 
+- Radial Engineering Catapult MINI RX
+- Radial Engineering Catapult TX4M
 - heat shrink
 - cable gland joints for headphone repairs
 - Furman plug lock
@@ -145,3 +141,6 @@ Radial Engineering Catapult TX4M
   - cotton pads
   - spray cleaner
   - toothbrushes
+- amp stand for tech 21
+- #6 & #8 wood screws
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2

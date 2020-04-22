@@ -54,6 +54,7 @@ Other ideas:
 - Ice Cream
 - coffee
 - frozen mango & mixed berries
+- lysol wipes
 
 ## Pasta store
 
