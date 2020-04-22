@@ -27,73 +27,70 @@ Other ideas:
 - Fancy balsamic
 - Crackers
 - 4 oz. smoked bacon
+- scallops
+- whole chk (if affordable, and remove below)
+
+## Val mont
+
+- Oranges
+- Pineapple
+- Fancy soda
+- Fancy chips
 
 ## Metro/Provigo
 
+- baby pasta sauce
 - 1&1/2 lb cod
 - Shrimp
 - Salmon
-- Cilantro
-- 3 Fresno chiles
-- 2 bulbs garlic
-- 8 scallions
-- 2 cups basil leaves (about 1 bunch)
-- Fennel
-- 2 lemons & limes
-- Apples (4)
-- good oranges
-- sweet potatoes
-- bananas
-- Pineapple
-- green beans
-- big tomatoes
-- green leaf
-- bread
-- cibatta or whatever
-- mozarella
-dawn
-sandwich meat
-oj
-milk
-butter
-mayo
-bbq sauce
-baby pasta sauce
-bacon
-scallops
-chick peas
-cauliflower
-saucisse
-english muffins
-arugula
-na beer
-coke
-fancy soda
-perrier
-
-coffee x2
-apples
-
-
 
 --
 
-- bone-in skin-on chicken breast (1-2lbs) (whole chicken ?)
+- green beans
+- Big tomatoe
+- Cilantro
+- arugula/kale
+- 3 Fresno chiles
+- 1 bulb garlic
+- scallions
+- basil
+- Fennel
+- 2 lemons & limes
+- 4 Apples
+- 2 sweet potatoes
+- Mini tomatoes
+- big tomatoes
+- green leaf
+
+--
+
+- Sandwich meat
+- bread
+- cibatta or whatever
+- english muffins
+
+--
+
+- bone-in skin-on chicken breast (1-2lbs)
 - chicken breast for baby
 - Whole chicken
 - Bacon
+- Butter
 
 --
 
+- lysol wipes
+- Dawn
 - chick peas
+- bbq sauce
 - Shell pasta
 - Mayonnaise
 - Charcoal
-- NA Beer
-- Ice Cream
+- Perrier
 - coffee
 - frozen mango & mixed berries
-- lysol wipes
+- Ice Cream
+- NA Beer
 
 ## Pasta store
 
@@ -107,6 +104,14 @@ apples
 
 - Chiles in adobo x3
 - Queso fresco
+
+
+## Asian grocery
+
+- dumplings x2
+- noodles
+- shrimp
+- wavy ramen noodles
 
 ## Spice store
 
@@ -123,10 +128,3 @@ apples
 - ground cinnamon
 - chinese 5 spice
 - spare jars
-
-## Asian grocery
-
-- dumplings x2
-- noodles
-- shrimp
-- wavy ramen noodles
