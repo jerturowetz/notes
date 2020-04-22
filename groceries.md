@@ -100,12 +100,6 @@ Other ideas:
 - pizza sauce
 - italian sausage
 
-## Latin grocery
-
-- Chiles in adobo x3
-- Queso fresco
-
-
 ## Asian grocery
 
 - dumplings x2
@@ -115,16 +109,5 @@ Other ideas:
 
 ## Spice store
 
-- Garlic powder
-- Cayenne pepper
-- Sweet hungarian paprika
 - savory
-- rosemary
 - cloves
-- ground ginger
-- ground allspice
-- nutmeg
-- ground cumin
-- ground cinnamon
-- chinese 5 spice
-- spare jars
