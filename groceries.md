@@ -32,9 +32,13 @@ Other ideas:
 - tostadas (wraps)
 - 3 frezno chiles
 - good oranges
+- Ginger
 - sandwich meat
 - fancy crakers
+- Tomato paste
 - frozen mango
+- basic beer for kate
+- perrier
 - ice cream
 - Dawn
 - disinfecting wipes

@@ -11,9 +11,11 @@ RONA
 
 PHARMACY : wipes if necess
 
-SAQ : red
+SAQ :
+red & white
+amermelade
 
-GROCERY : 
+GROCERY : see list
 
 
 
