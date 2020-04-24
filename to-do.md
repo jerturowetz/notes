@@ -3,7 +3,6 @@
 - space:
   - Get the model of mats amplifier
   - photograph Dylan's stuff to confirm
-  - Fix bass casters
   - Figure out headphone amplifier mounting solution
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - Post dell on kijiji
@@ -11,7 +10,6 @@
 - clean 27 translations
 - Cult updates
 - Unito deploy system
-- Tax docs drop off
 - Clean shed
 - Baby proofing (Billie, Ivar and mirror)
 

@@ -1,8 +1,5 @@
 # Meal plan
 
-- chk thighs stir fry & rice
-- [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
-  Side broccoli
 - [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - Pork Ramen
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
@@ -32,29 +29,18 @@ Other ideas:
 
 ## Metro/Provigo
 
+- tostadas (wraps)
+- 3 frezno chiles
+- good oranges
 - sandwich meat
+- fancy crakers
 - frozen mango
+- ice cream
 - Dawn
 - disinfecting wipes
-- Ice Cream
 
 ## Pasta store
 
 - Pizza dough 12
 - Low moisture mozarella
 - pizza sauce
-
-## Valmont
-
-- Oranges
-- 3 fresno chiles
-- Fancy soda
-- Fancy chips
-- perrier
-- crackers
-
-## Asian grocery
-
-- dumplings x2
-- noodles
-- wavy ramen noodles
