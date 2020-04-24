@@ -1,8 +1,5 @@
 # Meal plan
 
-- chk thighs stir fry & rice
-- [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
-  Side broccoli
 - [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - Pork Ramen
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
