@@ -6,24 +6,16 @@ RONA
 - hevy duty cable ties
 - pegboard baskets
 - magnetic cabinet latches
-- Clothespins
 - Disinfecting wipes
-
-PHARMACY : wipes if necess
-
-SAQ :
-red & white
-amermelade
-
-GROCERY : see list
-
-
-
 
 AMAZON
 
 - Gerber EAB Lite Pocket Knife
 - other box cutter
+
+DOLLAR STORE
+
+- clothespins
 
 Economik
 
