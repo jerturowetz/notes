@@ -35,6 +35,8 @@ Other ideas:
 - 3 frezno chiles
 - coconut water
 - eggs
+- Vanilla
+- NA beer
 - disinfecting wipes
 
 ## Pasta store
@@ -43,9 +45,7 @@ Other ideas:
 - Low moisture mozarella
 - pizza sauce
 
-
-
-## Spice store
+## Spice store/Latin Grocery
 
 - Chiles for home pade chili powder
 - New Mexico chili

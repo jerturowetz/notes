@@ -23,6 +23,7 @@ Economik
 
 --
 
+- Mothers day
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
@@ -37,6 +38,7 @@ Economik
 - North face L bag
 - Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
+- Scale for kate
 
 ## Boots/shoes
 
