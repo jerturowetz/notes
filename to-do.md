@@ -1,17 +1,17 @@
 # Jeremy's To-Do List
 
-- space:
-  - Get the model of mats amplifier
-  - photograph Dylan's stuff to confirm
-  - Figure out headphone amplifier mounting solution
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
-- Post dell on kijiji
-- review Andrea sound gear
+- Baby proofing (Billie, Ivar and mirror)
 - clean 27 translations
 - Cult updates
-- Unito deploy system
+- review Andrea sound gear
+- space:
+  - Get the model of Matt's amplifier
+  - Photograph Dylan's stuff to confirm
+  - Figure out headphone amplifier mounting solution
+- Post dell on kijiji
 - Clean shed
-- Baby proofing (Billie, Ivar and mirror)
+- Unito deploy system
 
 --
 
