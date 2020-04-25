@@ -26,9 +26,15 @@ Other ideas:
 - scallops
 - crunchy salad
 
+## Maison de Roties
+
+- Bacon
+
 ## Metro/Provigo
 
 - 3 frezno chiles
+- coconut water
+- eggs
 - disinfecting wipes
 
 ## Pasta store
