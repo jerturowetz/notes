@@ -4,13 +4,18 @@ RONA
 
 - regular cable ties
 - hevy duty cable ties
-- pegboard stuff
+- pegboard baskets
 - magnetic cabinet latches
+- Disinfecting wipes
 
 AMAZON
 
 - Gerber EAB Lite Pocket Knife
 - other box cutter
+
+DOLLAR STORE
+
+- clothespins
 
 Economik
 
@@ -18,8 +23,6 @@ Economik
 
 --
 
-- Clothespins
-- Disinfecting wipes
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
@@ -45,7 +48,7 @@ Economik
 
 ## Music gear
 
-### Mouser
+### Mouser ($300 ish)
 
 - Amphenol KS3P (3.5 mm plug) x4
 - Neutrik NP3X x2 (for vic firth headphone repair)

@@ -1,7 +1,5 @@
 # Meal plan
 
-- [Salt & pepper fish](https://www.bonappetit.com/recipe/salt-and-pepper-fish)
-- [Chicken Tinga Tostadas With Bacony Black Beans](https://www.bonappetit.com/recipe/chicken-tinga-tostadas)
 - Pork Ramen
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 
@@ -16,10 +14,10 @@
 
 Other ideas:
 
-- something with beans
+- something with red beans
 - something with tahini
 - something with soy paste
-- quino
+- something with quino
 - Pineapple chk
 - steak something
 - bbq
@@ -30,22 +28,11 @@ Other ideas:
 
 ## Metro/Provigo
 
-- frozen mango
-- Dawn
+- 3 frezno chiles
 - disinfecting wipes
-- Ice Cream
 
 ## Pasta store
 
 - Pizza dough 12
 - Low moisture mozarella
 - pizza sauce
-
-## Valmont
-
-- Oranges
-- 3 fresno chiles
-- Fancy soda
-- Fancy chips
-- perrier
-- crackers
