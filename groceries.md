@@ -42,3 +42,13 @@ Other ideas:
 - Pizza dough 12
 - Low moisture mozarella
 - pizza sauce
+
+
+
+## Spice store
+
+- Chiles for home pade chili powder
+- New Mexico chili
+- Costeño chili
+- Choricero chili
+- Chile negro
