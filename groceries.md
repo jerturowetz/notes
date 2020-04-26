@@ -32,6 +32,8 @@ Other ideas:
 
 ## Metro/Provigo
 
+- Cheerios
+- Bananas
 - 3 frezno chiles
 - coconut water
 - eggs
