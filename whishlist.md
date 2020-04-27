@@ -1,9 +1,13 @@
 # Wishlist
 
+DOLLAR STORE
+
+- clothespins
+
 RONA
 
 - regular cable ties
-- hevy duty cable ties
+- heavy duty cable ties
 - pegboard baskets
 - magnetic cabinet latches
 - Disinfecting wipes
@@ -12,10 +16,6 @@ AMAZON
 
 - Gerber EAB Lite Pocket Knife
 - other box cutter
-
-DOLLAR STORE
-
-- clothespins
 
 Economik
 
