@@ -32,11 +32,8 @@ Other ideas:
 
 ## Metro/Provigo
 
-- Cheerios
-- Bananas
-- 3 frezno chiles
+- oreos
 - coconut water
-- eggs
 - Vanilla
 - NA beer
 - disinfecting wipes
