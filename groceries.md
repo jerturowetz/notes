@@ -36,7 +36,7 @@ Other ideas:
 - Cheerios
 - Vanilla
 - NA beer
-- disinfecting wipes
+- Disinfecting wipes
 
 ## Pasta store
 

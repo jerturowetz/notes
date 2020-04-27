@@ -3,7 +3,7 @@
 RONA
 
 - regular cable ties
-- hevy duty cable ties
+- heavy duty cable ties
 - pegboard baskets
 - magnetic cabinet latches
 - Disinfecting wipes
