@@ -1,5 +1,9 @@
 # Wishlist
 
+DOLLAR STORE
+
+- clothespins
+
 RONA
 
 - regular cable ties
@@ -12,10 +16,6 @@ AMAZON
 
 - Gerber EAB Lite Pocket Knife
 - other box cutter
-
-DOLLAR STORE
-
-- clothespins
 
 Economik
 
