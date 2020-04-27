@@ -28,6 +28,7 @@ Other ideas:
 
 ## Groceries
 
+- Minced lamb
 - Bananas
 - Garlic
 - Bread
