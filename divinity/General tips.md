@@ -32,3 +32,13 @@
 Magical Feather necklace/belt (+1 str)
 Magical Claw necklace/belt (+1 dex)
 Magical Starfish/Antlers/Eye + Leather Helm (+1 Leadership, +1 Con, +1 Per)
+
+## Elemental rooms
+
+1. Ice Elemental: the ice elemental is clearly the strongest beyond any doubt, having both Expert Marksman skills (including Vampiric Arrow, Rain of Arrows, etc.) as well as all of you water spells and water essence. Water and E.M. are the two strongest schools in the game and they both come on this elemental, as well as water essence producing the best grenade in game in the "Frost Grenade= water essence + empty grenade". Win-Win-Win.
+
+2. Wind Elemental: Storm is nice but this is mostly taken for the scoundrel skills which this elemental sells as well, as well as Lightning Grenades = air essence + empty grenade. Those pesky novice skills are needed on everyone in your party and it can be hard to find them all, let alone early on- get the wind elemental 2nd to make sure you have all your scoundrel skills locked down asap, also as many lightning grenades as you can handle.
+
+3. Earth Elemental: Earth has some of if not the weakest master level spells, but comes with Witchcraft, and some Witchcraft spells seem to be tricky to find, as well as the earthquake grenade = earth essence + empty grenade. Pick this one up next.
+
+4. Fire Elemental: Meteor Shower frankly is not hard to get ahold of (or craft) and neither are any of the Man-at-Arms skills, as well as having the weakest grenade. Pick this up last due to the fact that you will most likely not even use Meteor Shower (other than with scrolls), that the Man-at-Arms skills are the easiest in game to acquire, and the fire essence + empty grenades producing the weakest of the four grenades.
