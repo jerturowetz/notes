@@ -28,18 +28,16 @@ Other ideas:
 
 ## Groceries
 
-- oreos
 - coconut water
 - Minced lamb
-- Bananas
 - Garlic
-- Bread
 - coconut water
-- eggs
-- Cheerios
 - Vanilla
-- NA beer
 - Disinfecting wipes
+
+--
+
+- coffee
 
 ## Pasta store
 
