@@ -28,12 +28,11 @@ Other ideas:
 
 ## Groceries
 
-- coconut water
 - Minced lamb
 - Garlic
-- coconut water
 - Vanilla
 - Disinfecting wipes
+- shaving cream
 
 --
 
