@@ -1,9 +1,5 @@
 # Wishlist
 
-DOLLAR STORE
-
-- clothespins
-
 RONA
 
 - regular cable ties
@@ -24,6 +20,7 @@ Economik
 --
 
 - Mothers day
+- [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
