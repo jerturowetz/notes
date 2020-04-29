@@ -33,6 +33,7 @@ Other ideas:
 - Vanilla
 - Disinfecting wipes
 - shaving cream
+- Large recycling bags
 
 --
 
