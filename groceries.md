@@ -38,6 +38,8 @@ Other ideas:
 --
 
 - coffee
+- Disinfecting wipes
+- shaving cream
 
 ## Pasta store
 

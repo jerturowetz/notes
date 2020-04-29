@@ -7,11 +7,7 @@ RONA
 - pegboard baskets
 - magnetic cabinet latches
 - Disinfecting wipes
-
-AMAZON
-
 - Gerber EAB Lite Pocket Knife
-- other box cutter
 
 Economik
 
