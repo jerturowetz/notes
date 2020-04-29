@@ -31,6 +31,9 @@ Other ideas:
 - Minced lamb
 - Garlic
 - Vanilla
+- Disinfecting wipes
+- shaving cream
+- Large recycling bags
 
 --
 
