@@ -31,12 +31,12 @@ Other ideas:
 - Minced lamb
 - Garlic
 - Vanilla
-- Disinfecting wipes
-- shaving cream
 
 --
 
 - coffee
+- Disinfecting wipes
+- shaving cream
 
 ## Pasta store
 
