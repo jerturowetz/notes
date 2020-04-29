@@ -88,6 +88,9 @@ pyenv
 
 imagemagick
 
+tig
+
+spectacle
 
 transmit
 xcode
