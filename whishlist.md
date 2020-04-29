@@ -36,6 +36,7 @@ Economik
 - Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
 - Scale for kate
+- brainwavzaudio earpads for headphones
 
 ## Boots/shoes
 
