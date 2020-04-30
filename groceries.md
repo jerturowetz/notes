@@ -1,12 +1,12 @@
 # Meal plan
 
+- [Shrimp and Basil Stir-Fry](https://www.bonappetit.com/recipe/shrimp-and-basil-stir-fry)
 - [Cast-Iron Pizza with Fennel and Sausage](https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - Michelin star fries
 - Dumpling snack
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
-- [Shrimp and Basil Stir-Fry](https://www.bonappetit.com/recipe/shrimp-and-basil-stir-fry)
 
 Other ideas:
 
@@ -28,11 +28,10 @@ Other ideas:
 
 ## Groceries
 
+- Basil
 - Minced lamb
 - Garlic
 - Vanilla
-- Disinfecting wipes
-- shaving cream
 - Large recycling bags
 
 --
