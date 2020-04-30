@@ -140,6 +140,13 @@ To restore default behavior:
 defaults write com.apple.finder AppleShowAllFiles FALSE; killall Finder;
 
 
+
+
+mac finder show full path:
+
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true; killall Finder
+
+
 ## Variou#s extras & config tweaks
 
     git config --global user.name "Jeremy Turowetz"
