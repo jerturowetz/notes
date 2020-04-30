@@ -128,6 +128,17 @@ gem install bundler
 
 npm install -g svgo
 
+flycut
+
+
+finder show hidden by default:
+
+Enter this into Terminal (warning: it's going to restart your Finder):
+defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder;
+
+To restore default behavior:
+defaults write com.apple.finder AppleShowAllFiles FALSE; killall Finder;
+
 
 ## Variou#s extras & config tweaks
 
