@@ -31,11 +31,11 @@ Other ideas:
 - Basil
 - Minced lamb
 - Garlic
-- Vanilla
-- Large recycling bags
 
 --
 
+- Large recycling bags
+- Vanilla
 - coffee
 - Disinfecting wipes
 - shaving cream
