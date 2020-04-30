@@ -20,31 +20,46 @@ Other ideas:
 - fish burgers
 - nice salmon
 - scallops
-- crunchy salad
-
-## Maison de Roties
-
-- Bacon
-
-## Groceries
-
-- Basil
-- Minced lamb
-- Garlic
-
---
-
-- Large recycling bags
-- Vanilla
-- coffee
-- Disinfecting wipes
-- shaving cream
 
 ## Pasta store
 
 - Pizza dough 12
 - Low moisture mozzarella
 - pizza sauce
+
+## Valmont
+
+- Big oranges
+- Sandwich meat
+
+## Groceries
+
+- Basil
+- Minced lamb
+- Garlic
+- spinach
+- milk
+- buns or english muffins
+- corn tortillas
+- Coke
+- Ice cream
+- NA beer
+
+--
+
+- bagels
+- smoked salmon
+- Large recycling bags
+- Vanilla
+- coffee
+- Disinfecting wipes
+- shaving cream
+- toilet paper
+- paper towels
+
+## Maison de Roties
+
+- Bacon
 
 ## Spice store/Latin Grocery
 
