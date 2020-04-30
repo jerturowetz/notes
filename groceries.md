@@ -21,19 +21,14 @@ Other ideas:
 - nice salmon
 - scallops
 
-## Pasta store
-
-- Pizza dough 12
-- Low moisture mozzarella
-- pizza sauce
-
 ## Valmont
 
 - Big oranges
-- Sandwich meat
+- roast beef
 
 ## Groceries
 
+- Mozarella
 - Basil
 - Minced lamb
 - Garlic
@@ -56,10 +51,6 @@ Other ideas:
 - shaving cream
 - toilet paper
 - paper towels
-
-## Maison de Roties
-
-- Bacon
 
 ## Spice store/Latin Grocery
 
