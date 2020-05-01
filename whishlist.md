@@ -2,6 +2,7 @@
 
 RONA
 
+- 3'8" curtain rod
 - regular cable ties
 - heavy duty cable ties
 - pegboard baskets
