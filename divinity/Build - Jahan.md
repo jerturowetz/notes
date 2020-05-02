@@ -2,7 +2,7 @@
 
 ## Abilities
 
-- **Level 3:** Dual Weilding, Scoundrel
+- **Level 3:** Dual Weilding
 - **Level 2:** Witchcraft
 - **Level 4:** Water
 - **Level 4:** Air, Scoundrel
@@ -12,7 +12,6 @@
 ## Talents
 
 1. Backstabber
-1. Bully
 1. Parry master
 
 ## Stats

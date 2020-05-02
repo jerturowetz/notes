@@ -11,7 +11,6 @@
 ## Talents
 
 1. Sidestep
-1. Glass Cannon
 1. Elemental Ranger
 
 ## Stats

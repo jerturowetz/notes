@@ -8,7 +8,6 @@
 
 ## Talents
 
-1. Bully
 1. Picture of health
 
 ## Stats
