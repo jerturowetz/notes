@@ -16,6 +16,8 @@ Economik
 
 --
 
+- Escali P115WR Primo Digital Scale
+- [kitchen timer](https://www.amazon.ca/dp/B000095RCF?ots=1&linkCode=gs2&tag=figcanada-20)
 - [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - Mothers day
 - [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)
