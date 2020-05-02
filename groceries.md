@@ -30,6 +30,9 @@ Other ideas:
 
 --
 
+- no 2 coffee filterd
+- chick peas
+- sweet potatoe
 - chicken breasts
 - bagels
 - smoked salmon
