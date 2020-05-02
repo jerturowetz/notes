@@ -21,27 +21,16 @@ Other ideas:
 - nice salmon
 - scallops
 
-## Valmont
-
-- Big oranges
-- roast beef
-
 ## Groceries
 
-- Mozarella
-- Basil
 - Minced lamb
-- Garlic
-- spinach
-- milk
-- buns or english muffins
-- corn tortillas
-- Coke
+- Whole Chicken
 - Ice cream
 - NA beer
 
 --
 
+- chicken breasts
 - bagels
 - smoked salmon
 - Large recycling bags
