@@ -23,14 +23,25 @@ Other ideas:
 
 ## Groceries
 
-- Minced lamb
+- icd cream
+- na beer
+- garlic
+- bread
+- Bananas
+- Baby snacks
+- butter
+- lemon
+- Kale
+- Rice vinaigre
+- Pasta Sauce
+- Cheddar cheese
+- CHeese slices
+- medium freezer bags
 - Whole Chicken
-- Ice cream
-- NA beer
-
---
-
-- no 2 coffee filterd
+- salmon
+- Talapia
+- chicken breasts
+- no 2 coffee filters
 - chick peas
 - sweet potatoe
 - chicken breasts
