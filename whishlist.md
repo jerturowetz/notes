@@ -2,8 +2,7 @@
 
 RONA
 
-- 3'8" curtain rod
-- regular cable ties
+- velcro cable ties
 - heavy duty cable ties
 - pegboard baskets
 - magnetic cabinet latches
@@ -16,10 +15,8 @@ Economik
 
 --
 
-- Escali P115WR Primo Digital Scale
 - [kitchen timer](https://www.amazon.ca/dp/B000095RCF?ots=1&linkCode=gs2&tag=figcanada-20)
 - [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
-- Mothers day
 - [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)
 - *Container store:*
   - 3 small freezer bins
@@ -35,7 +32,6 @@ Economik
 - North face L bag
 - Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
-- Scale for kate
 - brainwavzaudio earpads for headphones
 
 ## Boots/shoes
