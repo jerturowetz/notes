@@ -23,6 +23,11 @@ Other ideas:
 
 ## Groceries
 
+- Fire starter cubes
+- yeast (active dry or quick rise)
+- icing sugar
+- brown sugar
+- cocoa powder
 - icd cream
 - na beer
 - garlic
