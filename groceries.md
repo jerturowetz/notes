@@ -63,6 +63,10 @@ Other ideas:
 ## Pharmacy
 
 - formula
+- advil
+- hair bleach & hair dye
+- chocolate eggs
+- special kate shampoo
 
 ## Fish shop
 
