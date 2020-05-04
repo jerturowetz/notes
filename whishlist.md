@@ -1,7 +1,17 @@
 # Wishlist
 
+containers for:
+- flour (?)
+- super fine flour
+- sugar
+- fine sugar
+- icing sugar
+- brown sugar
+small containers for nuts and stuff
 Level measuring cups
 mini blender
+
+party box for paper cups & plates
 
 
 RONA
