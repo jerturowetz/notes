@@ -1,5 +1,9 @@
 # Wishlist
 
+Level measuring cups
+mini blender
+
+
 RONA
 
 - velcro cable ties
