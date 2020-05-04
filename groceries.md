@@ -43,32 +43,21 @@ Other ideas:
 
 - ground lamb
 - Whole Chicken
-- salmon
 - chicken breasts (at least 4)
 
 - Eggs
 
-- Rice vinegar
-- Olive oil
-- coffee
-- no 2 coffee filters
-- chick peas
-- 28-oz cans tomatoe puree x2
 - Simple pasta Sauce
 - Orecchiette (if possible)
 - Panko
 - yeast (active dry or quick rise)
-- icing sugar
 - brown sugar
 - dark brown sugar
-- cocoa powder
 - Flour
 - Vanilla
 - Vanilla paste?
-- bleach
-- laundry detergent
-- medium freezer bags
-- paper towels
+
+- method laundry detergent
 - diainfecting wipes
 
 ## Pharmacy
@@ -79,6 +68,7 @@ Other ideas:
 
 - scallops
 - smoked salmon
+- salmon
 
 ## Maison de Roties
 
