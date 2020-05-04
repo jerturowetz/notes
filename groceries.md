@@ -1,5 +1,12 @@
 # Meal plan
 
+- tilapia w/roast potatoes & carrots
+- hot dogs w/fries & whatever salad
+- scallops w/fried Brussel sprouts
+- fish burgers
+
+--
+
 - [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [Lamb & Yogurt pasta](https://www.bonappetit.com/recipe/spiced-lamb-and-dill-yogurt-pasta)
@@ -17,69 +24,57 @@ Other ideas:
 - something with tahini
 - something with soy paste
 - something with quinoas
-- steak something
-- fish burgers
-- nice salmon
-- scallops
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
-- [tiget bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
-
-## Groceries
-
-- Pineapple
-- tomatoed
-- scallions
-- celery
-- Parsley
-- serrano chiles
-- Cauliflower
-- Garlic x2
-- 3 cups dill
-- Lemon
-- Kale
-
-- 4 oz. dates, preferably Medjool (about 10)
-- 1/2 cup dried currants or raisins
-
-- ground lamb
-- Whole Chicken
-- chicken breasts (at least 4)
-
-- Eggs
-
-- Simple pasta Sauce
-- Orecchiette (if possible)
-- Panko
-- yeast (active dry or quick rise)
-- brown sugar
-- dark brown sugar
-- Flour
-- Vanilla
-- Vanilla paste?
-
-- method laundry detergent
-- diainfecting wipes
-
-## Pharmacy
-
-- formula
-- advil
-- hair bleach & hair dye
-- chocolate eggs
-- special kate shampoo
+- [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
 ## Fish shop
 
 - scallops
 - smoked salmon
-- salmon
+- fish burgers
 
 ## Maison de Roties
 
-- steak
 - Bavette
 - Baguette
-- Turkey legs
+
+## Jean Talon Market
+
+- Pineapple
+- Mini tomatoes
+- Scallions
+- Celery
+- Parsley
+- Serrano chiles
+- Garlic x2
+- 3 cups dill
+- Lemon
+- Kale
+- 4 oz. dates, preferably Medjool (about 10)
+- 1/2 cup dried currants or raisins
+
+## Groceries
+
+- Brussel sprouts
+- fries
+- 2 fancy buns
+- Eggs
+- Panko
+- Simple pasta Sauce
+- yeast (active dry or quick rise)
+- brown sugar
+- dark brown sugar
+- Vanilla
+- Vanilla paste?
+
+--
+
+- ground lamb
+- Whole Chicken
+- chicken breasts (at least 4)
+- Orecchiette (if possible)
+- method laundry detergent
+- disinfecting wipes
 
 ## Spice store/Latin Grocery
 
@@ -96,3 +91,11 @@ Other ideas:
 - low moisture moz
 - Meat sauce
 - Pasta noodles (beef angilotti, cheese tort)
+
+## Pharmacy
+
+- formula
+- advil
+- hair bleach & hair dye
+- chocolate eggs
+- special kate shampoo
