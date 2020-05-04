@@ -27,42 +27,27 @@ Other ideas:
 ## Groceries
 
 - Pineapple
+- tomatoed
 - scallions
 - celery
 - Parsley
-- 1 serrano chile
-- Bananas
-- Carrots
+- serrano chiles
 - Cauliflower
 - Garlic x2
 - 3 cups dill
 - Lemon
-- White onion
-- Red onion
 - Kale
-- sweet potato
-- Potatoes
+
 - 4 oz. dates, preferably Medjool (about 10)
-- 3/4 cup roasted, salted peanuts
 - 1/2 cup dried currants or raisins
-- smoked salmon
-- Cheddar cheese
-- Low moisture mozzarella x2
-- bread
-- rolls/bagels
-- Hot dog buns
-- mined pork
+
 - ground lamb
-- Breakfast sausage
 - Whole Chicken
 - salmon
-- Talapia
-- chicken breasts (at least 6)
+- chicken breasts (at least 4)
+
 - Eggs
-- Bacon
-- Butter
-- Cheese slices
-- plain whole-milk yogurt (not Greek) (or kefir)
+
 - Rice vinegar
 - Olive oil
 - coffee
@@ -83,13 +68,17 @@ Other ideas:
 - bleach
 - laundry detergent
 - medium freezer bags
-- toilet paper
 - paper towels
-- Disinfecting wipes
-- Baby snacks
-- Fire starter cubes
-- Ice cream
-- NA beer
+- diainfecting wipes
+
+## Pharmacy
+
+- formula
+
+## Fish shop
+
+- scallops
+- smoked salmon
 
 ## Maison de Roties
 
@@ -110,5 +99,6 @@ Other ideas:
 
 - Pizza dough
 - Pizza Sauce
+- low moisture moz
 - Meat sauce
 - Pasta noodles (beef angilotti, cheese tort)
