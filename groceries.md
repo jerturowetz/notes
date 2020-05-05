@@ -4,6 +4,7 @@
 - hot dogs w/fries & whatever salad
 - scallops w/fried Brussel sprouts
 - fish burgers
+- Bavette sandwitches
 
 --
 
