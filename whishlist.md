@@ -1,5 +1,8 @@
 # Wishlist
 
+Tama snare stand (HS80W)
+blank sheet music
+
 containers for:
 - flour (?)
 - super fine flour
