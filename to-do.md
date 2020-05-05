@@ -2,7 +2,6 @@
 
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - Baby proofing (Billie, Ivar and mirror)
-- Cult updates
 - review Andrea sound gear
 - space:
   - Get the model of Matt's amplifier
