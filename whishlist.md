@@ -2,6 +2,8 @@
 
 Tama snare stand (HS80W)
 blank sheet music
+apice grinder for powders chiles 
+
 
 containers for:
 - flour (?)

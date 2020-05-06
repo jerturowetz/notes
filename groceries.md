@@ -34,6 +34,7 @@ Other ideas:
 - scallops
 - smoked salmon
 - fish burgers
+- 2 fancy buns
 
 ## Maison de Roties
 
@@ -42,24 +43,14 @@ Other ideas:
 
 ## Jean Talon Market
 
-- Brussel sprouts
-- Pineapple
-- Mini tomatoes
-- Scallions
-- Celery
-- Parsley
 - Serrano chiles
-- Garlic x2
-- 3 cups dill
 - Lemon
-- Kale
 - 4 oz. dates, preferably Medjool (about 10)
 - 1/2 cup dried currants or raisins
 
 ## Groceries
 
 - fries
-- 2 fancy buns
 - Eggs
 - Panko
 - Simple pasta Sauce
@@ -78,9 +69,8 @@ Other ideas:
 - method laundry detergent
 - disinfecting wipes
 
-## Spice store/Latin Grocery
+## Latin Grocery
 
-- Chiles for home made chili powder
 - New Mexico chili
 - Costeño chili
 - Choricero chili
