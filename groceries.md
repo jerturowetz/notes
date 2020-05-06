@@ -44,13 +44,12 @@ Other ideas:
 ## Jean Talon Market
 
 - Serrano chiles
-- Lemon
 - 4 oz. dates, preferably Medjool (about 10)
 - 1/2 cup dried currants or raisins
 
 ## Groceries
 
-- fries
+- Lemon
 - Eggs
 - Panko
 - Simple pasta Sauce
@@ -62,7 +61,7 @@ Other ideas:
 
 --
 
-- ground lamb
+- Pineapple
 - Whole Chicken
 - chicken breasts (at least 4)
 - Orecchiette (if possible)
