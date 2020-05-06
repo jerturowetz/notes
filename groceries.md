@@ -25,6 +25,7 @@ Other ideas:
 - something with tahini
 - something with soy paste
 - something with quinoas
+- Something with hoisin sauce
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
