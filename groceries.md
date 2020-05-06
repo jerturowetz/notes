@@ -1,10 +1,9 @@
 # Meal plan
 
-- tilapia w/roast potatoes & carrots
 - hot dogs w/fries & whatever salad
 - scallops w/fried Brussel sprouts
 - fish burgers
-- Bavette sandwitches
+- Steak sandwiches
 
 --
 
@@ -41,18 +40,12 @@ Other ideas:
 - Bavette
 - Baguette
 
-## Jean Talon Market
+## Groceries
 
 - Serrano chiles
 - 4 oz. dates, preferably Medjool (about 10)
-- 1/2 cup dried currants or raisins
-
-## Groceries
-
-- Lemon
 - Eggs
 - Panko
-- Simple pasta Sauce
 - yeast (active dry or quick rise)
 - brown sugar
 - dark brown sugar
@@ -67,6 +60,7 @@ Other ideas:
 - Orecchiette (if possible)
 - method laundry detergent
 - disinfecting wipes
+- simple pasta sauce
 
 ## Latin Grocery
 
@@ -79,14 +73,14 @@ Other ideas:
 
 - Pizza dough
 - Pizza Sauce
-- low moisture moz
+- low moisture mozzarella
 - Meat sauce
-- Pasta noodles (beef angilotti, cheese tort)
+- Pasta noodles (beef something, cheese tort)
 
 ## Pharmacy
 
 - formula
-- advil
+- Advil
 - hair bleach & hair dye
 - chocolate eggs
-- special kate shampoo
+- special Kate shampoo
