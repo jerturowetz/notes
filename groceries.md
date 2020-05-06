@@ -4,6 +4,7 @@
 - hot dogs w/fries & whatever salad
 - scallops w/fried Brussel sprouts
 - fish burgers
+- Bavette sandwitches
 
 --
 
@@ -40,6 +41,7 @@ Other ideas:
 
 ## Jean Talon Market
 
+- Brussel sprouts
 - Pineapple
 - Mini tomatoes
 - Scallions
@@ -55,7 +57,6 @@ Other ideas:
 
 ## Groceries
 
-- Brussel sprouts
 - fries
 - 2 fancy buns
 - Eggs
