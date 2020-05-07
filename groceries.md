@@ -45,19 +45,13 @@ Other ideas:
 
 - Serrano chiles
 - 4 oz. dates, preferably Medjool (about 10)
-- 1/2 cup dried currants or raisins
 
 ## Groceries
 
-- Lemon
-- Eggs
 - Panko
 - Simple pasta Sauce
-- yeast (active dry or quick rise)
 - brown sugar
 - dark brown sugar
-- Vanilla
-- Vanilla paste?
 
 --
 
