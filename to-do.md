@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- snowdon deli order
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - Baby proofing (Billie, Ivar and mirror)
 - review Andrea sound gear
