@@ -1,39 +1,16 @@
 # Wishlist
 
-Tama snare stand (HS80W)
-blank sheet music
-apice grinder for powders chiles 
-compressed air
-
-containers for:
-- flour (?)
-- super fine flour
-- sugar
-- fine sugar
-- icing sugar
-- brown sugar
-small containers for nuts and stuff
-Level measuring cups
-mini blender
-
-party box for paper cups & plates
-
-
-RONA
-
+- magnetic cabinet latches
+- party box for paper cups & plates
 - velcro cable ties
 - heavy duty cable ties
-- pegboard baskets
-- magnetic cabinet latches
-- Disinfecting wipes
-- Gerber EAB Lite Pocket Knife
-
-Economik
-
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-
---
-
+- Tama snare stand (HS80W)
+- spice grinder for powdered chiles
+- compressed air
+- small containers for nuts and stuff
+- Level measuring cups
+- mini blender
 - [kitchen timer](https://www.amazon.ca/dp/B000095RCF?ots=1&linkCode=gs2&tag=figcanada-20)
 - [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)

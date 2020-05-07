@@ -7,7 +7,8 @@
   - Get the model of Matt's amplifier
   - Photograph Dylan's stuff to confirm
   - Figure out headphone amplifier mounting solution
-- Post dell on kijiji
+  - take photos of WZ3
+- Post dell on Kijiji
 - Clean shed
 - Unito deploy system
 - Optimize tome park
