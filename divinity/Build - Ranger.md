@@ -2,7 +2,7 @@
 
 ## Abilities
 
-- **Level 4:** Water, Expert Marksman (Post level 15)
+- **Level 4:** Water
 - **Level 5:** Bow
 - **Level 4:** Witchcraft
 - **Level 5:** Expert Marksman

@@ -2,7 +2,6 @@
 
 ## Abilities
 
-- **Level 3:** Dual Wielding
 - **Level 2:** Witchcraft
 - **Level 4:** Water (Post lv 15)
 - **Level 4:** Air
