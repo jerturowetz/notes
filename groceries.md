@@ -1,6 +1,5 @@
 # Meal plan
 
-- fish burgers
 - Steak sandwiches
 - [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
@@ -14,6 +13,7 @@
 
 Other ideas:
 
+- fish burgers
 - something with red beans
 - something with tahini
 - something with soy paste
@@ -22,22 +22,11 @@ Other ideas:
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
-## Fish shop
-
-- fish burgers
-- 2 fancy buns
-
-## Maison de Roties
-
-- Bavette
-- Baguette
-
-## SAQ
-
-- white wine
-
 ## Groceries
 
+- baguette
+- sweet potatoe
+- ketchup
 - Butter
 - Bread
 - Serrano chiles
@@ -46,26 +35,15 @@ Other ideas:
 - brown sugar
 - dark brown sugar
 - Pineapple
-- Whole Chicken
 - chicken breasts (at least 4)
 - Orecchiette (if possible)
 - method laundry detergent
 - disinfecting wipes
+- dawn
 
 ## Maison des Pates
 
 - Pizza dough
 - Pizza Sauce
-- low moisture mozzarella
 - Meat sauce
 - Pasta noodles (beef something, cheese tort)
-
-## Pharmacy
-
-- tempra
-- formula
-- mitchum
-- big Advil
-- hair bleach & hair dye
-- chocolate eggs
-- special Kate shampoo
