@@ -25,18 +25,9 @@ Other ideas:
 ## Groceries
 
 - baguette
-- panko
 
 --
 
 - bananas
 - method laundry detergent
 - disinfecting wipes
-
-## Maison des Pates
-
-- Orecchiette (dry)
-- Pizza dough
-- Pizza Sauce
-- Meat sauce
-- Pasta noodles (beef something, cheese tort)
