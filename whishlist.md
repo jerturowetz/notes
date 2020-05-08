@@ -1,11 +1,17 @@
 # Wishlist
 
-- magnetic cabinet latches
+## RONA
+
+- Cordless 18v/20V brushless tool
+- Magnetic cabinet locks
+
+--
+
+- Tama snare stand (HS80W)
 - party box for paper cups & plates
 - velcro cable ties
 - heavy duty cable ties
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- Tama snare stand (HS80W)
 - spice grinder for powdered chiles
 - compressed air
 - small containers for nuts and stuff
