@@ -7,7 +7,7 @@
 - space:
   - Get the model of Matt's amplifier
   - Photograph Dylan's stuff to confirm
-  - Figure out headphone amplifier mounting solution
+  - Figure out headphone amplifier mounting solution (About 4 inches wide and 2 inches deep - there are only plugs on the back)
   - take photos of WZ3
 - Post dell on Kijiji
 - Clean shed

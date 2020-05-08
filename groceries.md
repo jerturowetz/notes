@@ -25,24 +25,17 @@ Other ideas:
 ## Groceries
 
 - baguette
-- sweet potatoe
-- ketchup
-- Butter
-- Bread
-- Serrano chiles
-- 4 oz. dates, preferably Medjool (about 10)
-- Panko
-- brown sugar
-- dark brown sugar
-- Pineapple
-- chicken breasts (at least 4)
-- Orecchiette (if possible)
+- panko
+
+--
+
+- bananas
 - method laundry detergent
 - disinfecting wipes
-- dawn
 
 ## Maison des Pates
 
+- Orecchiette (dry)
 - Pizza dough
 - Pizza Sauce
 - Meat sauce

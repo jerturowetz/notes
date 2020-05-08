@@ -7,6 +7,8 @@
 
 --
 
+- Pegboard baskets
+- post its & cue carrds for space
 - Tama snare stand (HS80W)
 - party box for paper cups & plates
 - velcro cable ties
