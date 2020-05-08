@@ -32,8 +32,14 @@ Other ideas:
 - Bavette
 - Baguette
 
+## SAQ
+
+- white wine
+
 ## Groceries
 
+- Butter
+- Bread
 - Serrano chiles
 - 4 oz. dates, preferably Medjool (about 10)
 - Panko
