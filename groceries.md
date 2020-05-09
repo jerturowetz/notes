@@ -30,9 +30,6 @@ Other ideas:
 ## Groceries
 
 - baguette
-
---
-
-- bananas
+- little paper bags
 - method laundry detergent
 - disinfecting wipes
