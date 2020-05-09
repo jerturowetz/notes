@@ -1,14 +1,19 @@
 # Meal plan
 
 - Steak sandwiches
+- [Lamb & Yogurt pasta](https://www.bonappetit.com/recipe/spiced-lamb-and-dill-yogurt-pasta)
+- BBQ steak
 - [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
-- [Lamb & Yogurt pasta](https://www.bonappetit.com/recipe/spiced-lamb-and-dill-yogurt-pasta)
-- [stir fry](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
+- tortellini rosee
+
+--
+
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
+- [stir fry](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
 - Michelin star fries
 
 Other ideas:
