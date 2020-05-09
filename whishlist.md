@@ -1,18 +1,18 @@
 # Wishlist
 
-## RONA
-
+- headphone mount solution - plugs are all on the back of device
+- stand for Matts amp is a trademark 60
+- [Makita drill](https://www.edfast-online.com/makita-pr1-1-2in-cordless-hammer-drill-driver-p/)
 - Cordless 18v/20V brushless tool
-- Magnetic cabinet locks
-
---
-
-- Tama snare stand (HS80W)
+- [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
+- [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
+- [Magnetic door locks](https://www.amazon.ca/Safety-1st-Magnetic-Cabinet-Locks/dp/B004GCJMLG)
+- [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
+- [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
+- [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - party box for paper cups & plates
 - velcro cable ties
-- heavy duty cable ties
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- spice grinder for powdered chiles
 - compressed air
 - small containers for nuts and stuff
 - Level measuring cups
@@ -24,6 +24,7 @@
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
+  - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
