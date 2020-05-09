@@ -1,15 +1,16 @@
 # Wishlist
 
-- headphone mount solution - plugs are all on the back of device
+- headphone mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
 - stand for Matts amp is a trademark 60
 - [Makita drill](https://www.edfast-online.com/makita-pr1-1-2in-cordless-hammer-drill-driver-p/)
-- Cordless 18v/20V brushless tool
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Magnetic door locks](https://www.amazon.ca/Safety-1st-Magnetic-Cabinet-Locks/dp/B004GCJMLG)
 - [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
 - [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
+- Pegboard baskets
+- post its & cue carrds for space
 - party box for paper cups & plates
 - velcro cable ties
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
