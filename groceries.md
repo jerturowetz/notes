@@ -29,7 +29,7 @@ Other ideas:
 
 ## Groceries
 
-- baguette
+- charcoal
 - little paper bags
 - method laundry detergent
 - disinfecting wipes
