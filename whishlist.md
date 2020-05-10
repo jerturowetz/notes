@@ -1,5 +1,6 @@
 # Wishlist
 
+- Screwdriver and bita kit
 - headphone mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
 - stand for Matts amp is a trademark 60
 - [Makita drill](https://www.edfast-online.com/makita-pr1-1-2in-cordless-hammer-drill-driver-p/)
