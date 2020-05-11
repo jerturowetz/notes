@@ -1,8 +1,6 @@
 # Meal plan
 
-- Steak sandwiches
 - [Lamb & Yogurt pasta](https://www.bonappetit.com/recipe/spiced-lamb-and-dill-yogurt-pasta)
-- BBQ steak
 - [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
