@@ -32,7 +32,6 @@
 - [Paperole shirts](https://www.paperole.com/)
 - [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
 - Earplugs (for Kate)
-- silent practice pad
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
 - Gear to patch hole behind stove
