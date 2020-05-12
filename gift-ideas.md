@@ -5,10 +5,11 @@ good bluetooth headphones for max
 piano for sandra
 winter day horse trip
 kate ultra portable phone charger
-ricardo kucthen thermkmeter can be moubted to pot for deep frying 
+ricardo kucthen thermkmeter can be moubted to pot for deep frying
 
 ## Kate
 
+- [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)
 - Kobo
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
