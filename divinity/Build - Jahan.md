@@ -2,7 +2,6 @@
 
 ## Abilities
 
-- **Level 2:** Witchcraft
 - **Level 4:** Water
 - **Level 4:** Air, Scoundrel
 - **Level 5:** Dual-Weilding
