@@ -1,7 +1,6 @@
 # Meal plan
 
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
-- [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
 - tortellini rosee
 - steak sandwiches
@@ -28,8 +27,20 @@ Other ideas:
 
 ## Groceries
 
-- eggs
-- milk
+- cauliflower
+- broccoli
+- 1 sweet potato
+- leaf greens
+- lemon
+- cherry tonatoes
+- bocconcinni
+- bagels & smoked salmon
+- apples
+- bananas
+- coffee
+- minced porc
+
+
 - charcoal
 - little paper bags
 - method laundry detergent
