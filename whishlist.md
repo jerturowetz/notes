@@ -1,5 +1,11 @@
 # Wishlist
 
+- [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
+- [Makita 12v hex driver](https://www.makita.ca/index2.php?event=tool&id=3022&catid=2)
+- [Makita battery kit]()https://www.homedepot.com/p/Makita-18-Volt-LXT-Lithium-Ion-High-Capacity-Battery-Pack-5-0Ah-with-LED-Charge-Level-Indicator-2-Pack-BL1850B-2/206609332
+- ratcheting screwdriver x2
+- powered screwdriver
+- dell power brick
 - bits fot impact driver
 - bits for drill (wood, concrete, jip)
 - better screwdriver with bits for home toolkit

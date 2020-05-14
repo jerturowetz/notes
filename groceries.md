@@ -1,10 +1,8 @@
 # Meal plan
 
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
-- [Pineapple chicken](https://www.bonappetit.com/recipe/pan-roasted-chicken-with-pineapple-chile-glaze)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
 - tortellini rosee
-- steak sandwiches
 - some hot dogs
 
 --
