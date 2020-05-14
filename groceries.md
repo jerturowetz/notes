@@ -27,19 +27,18 @@ Other ideas:
 ## Jean Talon Market
 
 - Cherry tomatoes
+- apples
+- bananas
+- leaf greens
 
 ## Groceries
 
-- apples
+- 2 apples
 - Bananas
-- cauliflower
-- broccoli
-- leaf greens
-- lemon
+- spinach
 - minced porc
 - bocconcinni
 - bagels & smoked salmon
-- coffee
 - charcoal
 - little paper bags
 - method laundry detergent
