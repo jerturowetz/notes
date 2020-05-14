@@ -1,7 +1,6 @@
 # Jeremy's To-Do List
 
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
-- [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - Baby proofing (Billie, Ivar and mirror)
 - review Andrea sound gear
 - Post dell on Kijiji

@@ -3,7 +3,6 @@
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
 - tortellini rosee
-- steak sandwiches
 - some hot dogs
 
 --
