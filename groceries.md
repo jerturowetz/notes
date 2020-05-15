@@ -33,9 +33,6 @@ Other ideas:
 
 ## Groceries
 
-- 2 apples
-- Bananas
-- spinach
 - minced porc
 - bocconcinni
 - bagels & smoked salmon
