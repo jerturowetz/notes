@@ -22,22 +22,20 @@ Other ideas:
 
 ## Groceries
 
+- smoked salmon (if so, bagels)
+- oranges
+- bocconcinni
+- other hard cheeses
 - bread
 - minced porc
-- bocconcinni
-- oranges
+- break sausages
+- bacon
+- eggs
 - small buttermilk
-- other cheeses
-- bagels & smoked salmon
 - little paper bags
 - method laundry detergent
 - disinfecting wipes
-- jeremy candy
-- eggs
-- bacon
-- break sausages
 
 --
 
-- flour
 - charcoal
