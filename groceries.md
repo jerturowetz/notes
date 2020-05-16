@@ -22,20 +22,8 @@ Other ideas:
 
 ## Groceries
 
-- smoked salmon (if so, bagels)
-- oranges
-- bocconcinni
+- detergent
+- buttermilk
 - other hard cheeses
-- bread
-- minced porc
-- break sausages
-- bacon
-- eggs
-- small buttermilk
-- little paper bags
 - method laundry detergent
-- disinfecting wipes
-
---
-
-- charcoal
+- break sausages
