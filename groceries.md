@@ -24,17 +24,8 @@ Other ideas:
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
-## Jean Talon Market
-
-- Cherry tomatoes
-- apples
-- bananas
-- leaf greens
-
 ## Groceries
 
-- minced porc
-- bocconcinni
 - bagels & smoked salmon
 - charcoal
 - little paper bags
