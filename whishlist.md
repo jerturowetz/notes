@@ -1,6 +1,5 @@
 # Wishlist
 
-- stud finder
 - milk crates or those big rigid containers
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
