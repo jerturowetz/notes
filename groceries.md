@@ -26,3 +26,9 @@ Other ideas:
 - buttermilk
 - other hard cheeses
 - break sausages
+
+--
+
+- Paper towels
+- Disinfecting wipes
+- tomatoe puree
