@@ -25,5 +25,4 @@ Other ideas:
 - detergent
 - buttermilk
 - other hard cheeses
-- method laundry detergent
 - break sausages
