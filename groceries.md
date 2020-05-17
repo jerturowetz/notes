@@ -31,4 +31,3 @@ Other ideas:
 
 - Paper towels
 - Disinfecting wipes
-- tomatoe puree
