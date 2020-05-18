@@ -2,11 +2,7 @@
 
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
-- tortellini rosee
 - some hot dogs
-
---
-
 - [stir fry](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
@@ -51,3 +47,13 @@ Other ideas:
 - little paper bags
 - method laundry detergent
 - disinfecting wipes
+- detergent
+- buttermilk
+- other hard cheeses
+- break sausages
+
+--
+
+- Paper towels
+- Disinfecting wipes
+- panko

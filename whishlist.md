@@ -1,5 +1,7 @@
 # Wishlist
 
+- milk crates or those big rigid containers
+- [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Makita 12v hex driver](https://www.makita.ca/index2.php?event=tool&id=3022&catid=2)
 - [Makita battery kit]()https://www.homedepot.com/p/Makita-18-Volt-LXT-Lithium-Ion-High-Capacity-Battery-Pack-5-0Ah-with-LED-Charge-Level-Indicator-2-Pack-BL1850B-2/206609332
@@ -11,6 +13,8 @@
 - better screwdriver with bits for home toolkit
 - headphone mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
 - stand for Matts amp is a trademark 60
+
+
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
