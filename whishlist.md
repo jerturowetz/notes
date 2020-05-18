@@ -6,7 +6,6 @@
 - [4 stackable bins](homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
 - Gear to patch hole behind stove
 - milk crates or those big rigid containers
-- [3 cup Mini food processor](https://www.amazon.ca/Cuisinart-DLC-2AC-Mini-Prep-Processor-White/dp/B0000VZ054)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
