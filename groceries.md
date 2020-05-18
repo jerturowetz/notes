@@ -31,3 +31,4 @@ Other ideas:
 
 - Paper towels
 - Disinfecting wipes
+- panko
