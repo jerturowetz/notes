@@ -1,9 +1,7 @@
 # Meal plan
 
-- [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
-- [Chicken Parm](https://www.bonappetit.com/recipe/bas-best-chicken-parm)
-- some hot dogs
 - [stir fry](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
+- [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
@@ -22,38 +20,23 @@ Other ideas:
 
 ## Groceries
 
-
-- bread
-- coconut water
-- butter x2
+- garlic
+- cilanto
 - oranges
-- lemon
-- lime
-- frozen mango
-
-- na beer
-
-
-
-- stawberried
+- stawberries
 - blueberries
-
-
-
-
-
-- bagels & smoked salmon
-- charcoal
-- little paper bags
-- method laundry detergent
-- disinfecting wipes
-- detergent
-- buttermilk
-- other hard cheeses
-- break sausages
+- bread (for chk sand)
+- na beer
 
 --
 
+- break sausages
 - Paper towels
 - Disinfecting wipes
 - panko
+- charcoal
+- little paper bags
+- bagels & smoked salmon
+- coconut water
+- butter x2
+- frozen mango
