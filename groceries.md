@@ -26,6 +26,26 @@ Other ideas:
 
 ## Groceries
 
+
+- bread
+- coconut water
+- butter x2
+- oranges
+- lemon
+- lime
+- frozen mango
+
+- na beer
+
+
+
+- stawberried
+- blueberries
+
+
+
+
+
 - bagels & smoked salmon
 - charcoal
 - little paper bags
