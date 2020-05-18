@@ -21,19 +21,17 @@ Other ideas:
 ## Groceries
 
 - garlic
-- cilanto
 - oranges
-- stawberries
-- blueberries
 - bread (for chk sand)
 - na beer
 
 --
 
+- vanilla Greek yoghurt
+- Strained tomatoes
 - break sausages
 - Paper towels
 - Disinfecting wipes
-- panko
 - charcoal
 - little paper bags
 - bagels & smoked salmon
