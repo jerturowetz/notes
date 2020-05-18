@@ -1,49 +1,49 @@
 # Wishlist
 
+- [Ridgid small parts storage](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
+
+- [Small parts organizer](https://www.homedepot.ca/product/hdx-interlocking-small-parts-organizer-with-adjustable-compartments-3-pack-/1001160858)
+- [4 stackable bins](homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
+- Gear to patch hole behind stove
 - milk crates or those big rigid containers
+- [3 cup Mini food processor](https://www.amazon.ca/Cuisinart-DLC-2AC-Mini-Prep-Processor-White/dp/B0000VZ054)
+- [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Makita 12v hex driver](https://www.makita.ca/index2.php?event=tool&id=3022&catid=2)
-- [Makita battery kit]()https://www.homedepot.com/p/Makita-18-Volt-LXT-Lithium-Ion-High-Capacity-Battery-Pack-5-0Ah-with-LED-Charge-Level-Indicator-2-Pack-BL1850B-2/206609332
+- [Makita battery kit](https://www.homedepot.com/p/Makita-18-Volt-LXT-Lithium-Ion-High-Capacity-Battery-Pack-5-0Ah-with-LED-Charge-Level-Indicator-2-Pack-BL1850B-2/206609332)
 - ratcheting screwdriver x2
-- powered screwdriver
+- [Electric screwdriver](https://www.amazon.ca/Makita-DF001DW-Cordless-Screwdriver-Accessory/dp/B01NC1VO3Q/ref=sr_1_6)
 - dell power brick
 - bits fot impact driver
 - bits for drill (wood, concrete, jip)
 - better screwdriver with bits for home toolkit
 - headphone mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
 - stand for Matts amp is a trademark 60
-
-
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
-- [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
-- [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - Pegboard baskets
 - post its & cue cards for space
 - party box for paper cups & plates
-- velcro cable ties
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
-- compressed air
-- small containers for nuts and stuff
 - Level measuring cups
-- mini blender
 - [kitchen timer](https://www.amazon.ca/dp/B000095RCF?ots=1&linkCode=gs2&tag=figcanada-20)
-- [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
   - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
+
+--
+
 - [Solids tshirt](https://solids.bandcamp.com/merch)
 - [Good tshirts](https://us.kowtowclothing.com/)
 - [Paperole shirts](https://www.paperole.com/)
-- [Besta power strip](https://www.amazon.com/APC-11-Outlet-Protector-SurgeArrest-P11U2/dp/B017VXU6GG/)
 - Earplugs (for Kate)
+- [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
-- Gear to patch hole behind stove
 - $200 Agg, Andrew, Joe gifts
 - brainwavzaudio earpads for headphones
 
@@ -144,6 +144,8 @@
   - cotton pads
   - spray cleaner
   - toothbrushes
-- amp stand for tech 21
+- amp stand for tech 21 trademark 60
 - #6 & #8 wood screws
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- velcro cable ties
+- [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)

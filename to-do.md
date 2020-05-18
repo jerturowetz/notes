@@ -1,12 +1,14 @@
 # Jeremy's To-Do List
 
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
+- [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
 - Baby proofing (Billie, Ivar and mirror)
 - review Andrea sound gear
 - Post dell on Kijiji
 - Clean shed
 - Unito deploy system
 - Optimize tome park
+- shakti booking system
 
 --
 
