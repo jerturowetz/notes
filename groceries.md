@@ -20,13 +20,16 @@ Other ideas:
 
 ## Groceries
 
-- garlic
 - oranges
-- bread (for chk sand)
-- na beer
+- bread
+- Milk
 
 --
 
+- Hard cheeses
+- butter
+- secret chocolate
+- dawn
 - vanilla Greek yoghurt
 - Strained tomatoes
 - break sausages
@@ -38,3 +41,9 @@ Other ideas:
 - coconut water
 - butter x2
 - frozen mango
+
+## Pharpacy
+
+- Medium baby butt cream
+- Small baby butt cream
+- Kit kats
