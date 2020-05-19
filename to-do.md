@@ -1,5 +1,7 @@
 # Jeremy's To-Do List
 
+- Find an AirBNB for our week off in August
+- post its & cue cards for space
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
 - [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
 - Baby proofing (Billie, Ivar and mirror)
