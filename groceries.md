@@ -21,8 +21,8 @@ Other ideas:
 ## Groceries
 
 - oranges
-- bread
 - Milk
+- ice cream
 
 --
 
