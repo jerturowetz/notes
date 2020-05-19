@@ -20,14 +20,9 @@ Other ideas:
 
 ## Groceries
 
+- semi sweet choc chips
 - oranges
-- Milk
-- ice cream
-
---
-
 - Hard cheeses
-- butter
 - secret chocolate
 - dawn
 - vanilla Greek yoghurt
