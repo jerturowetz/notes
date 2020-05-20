@@ -1,35 +1,59 @@
 # Wishlist
 
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
+
+RONA/Home Depot
+
 - Drill bits:
   - inch fraction (64th to 1/2 inch)
   - concrete bits (bosch BlueGranite, bosch daredevil)
+- [2x Picquic screwdriver](https://www.homedepot.ca/product/picquic-super-8-plus-multi-bit-screwdriver/1000428687)
 
-screwdriver with bits in handle
-wera torx screwdriver set
-wiha electronics screwdriver set
-ratecheting snap on screwdriver
-locking vice wrench
-felo screwdrivers
+
+
+
+
+- [Milwaukee PACKOUT 22-inch Large Hard Tool Box](https://www.homedepot.ca/product/milwaukee-packout-22-inch-large-hard-tool-box/1001242092)
+- [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
+- [tool caddy for planting stuff](https://www.homedepot.ca/product/husky-20-inch-open-top-resin-tool-caddy/1000675544)
+- [Ridgid small parts storage](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
+- [Small parts organizer](https://www.homedepot.ca/product/hdx-interlocking-small-parts-organizer-with-adjustable-compartments-3-pack-/1001160858)
+
+
+
+
+
+
+
+
+- [Milwaukee 9-in-1 Square Drive Ratcheting Multi-Bit Screwdriver](https://www.homedepot.ca/product/milwaukee-9-in-1-square-drive-ratcheting-multi-bit-screwdriver/1000665256)
+
+- snap on ratcheting screwdriver
+- locking vice wrench
+- felo screwdrivers
 - [wiha screwdrivers](https://www.wihatools.ca/screwdrivers)
 - [Wiha scraper](https://www.wihatools.ca/universal-razor-edged-scraper-softfinishr-handle-with-replacement-blades)
 - klein screwdrivers
-- better screwdriver with bits for home toolkit
 
-- milk crates or those big rigid containers
-- [Ridgid small parts storage](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
-- [Small parts organizer](https://www.homedepot.ca/product/hdx-interlocking-small-parts-organizer-with-adjustable-compartments-3-pack-/1001160858)
+
+
+
 
 
 
 - [Makita battery kit](https://www.homedepot.com/p/Makita-18-Volt-LXT-Lithium-Ion-High-Capacity-Battery-Pack-5-0Ah-with-LED-Charge-Level-Indicator-2-Pack-BL1850B-2/206609332)
 - [Electric screwdriver](https://www.amazon.ca/Makita-DF001DW-Cordless-Screwdriver-Accessory/dp/B01NC1VO3Q/ref=sr_1_6)
 - replacement dell power brick
+
+
+
 - [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
 
 --
 
+- wera torx screwdriver set
+- wiha electronics screwdriver set
 - [daiso screwdiver kit](https://www.amazon.com/Daiso-Japan-Jewelers-Precision-Screwdriver/dp/B00KY6T8FS)
 - impact driver bits
 - headphone box mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
@@ -162,3 +186,4 @@ felo screwdrivers
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - velcro cable ties
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
+- [wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
