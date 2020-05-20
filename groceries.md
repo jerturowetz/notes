@@ -20,8 +20,10 @@ Other ideas:
 
 ## Groceries
 
-- semi sweet choc chips
 - oranges
+- bananas
+
+- semi sweet choc chips
 - Hard cheeses
 - secret chocolate
 - dawn
