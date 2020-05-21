@@ -43,10 +43,8 @@ Other ideas:
 - Bagels
 - bread
 - Sandwich ciabatta
-- as Vanilla Ice cream
+- Vanilla Ice cream
 - mccain fries
-- Round ziplock containers
-- little paper bags
 - Method laundry detergent
 - Dawn
 - Disinfecting wipes
