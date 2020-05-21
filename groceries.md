@@ -20,9 +20,30 @@ Other ideas:
 
 ## Groceries
 
+- ground pork
+- ground beef
+- kraft singles
+- cheddar
+- some other cheese
+- crackers
+- san P or perrier
+- NA beer
+- Regular beer
+- breakfast sausages
+- bacon
+- chick breast
 - oranges
 - bananas
-
+- enbglish muffins
+- flour
+- bread
+- 1 sweet potatoes
+- broccoli
+- baby carrotts
+- eggs
+- lemon
+- oranges
+- bananas
 - semi sweet choc chips
 - Hard cheeses
 - secret chocolate
@@ -30,7 +51,6 @@ Other ideas:
 - vanilla Greek yoghurt
 - Strained tomatoes
 - break sausages
-- Paper towels
 - Disinfecting wipes
 - charcoal
 - little paper bags
