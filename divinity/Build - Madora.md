@@ -6,10 +6,6 @@
 - **Level 5:** Two-handed
 - **Level 1-3:** Willpower/Body Building
 
-## Talents
-
-1. Picture of health
-
 ## Stats
 
 - Str +2.5 (8/10/12)

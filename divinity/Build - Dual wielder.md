@@ -9,7 +9,6 @@
 
 ## Talents
 
-1. Backstab
 1. Parry Master
 
 ## Stats
