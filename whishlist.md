@@ -1,5 +1,13 @@
 # Wishlist
 
+- potting soil
+- fertilizer/plant food (the most naturally/least chemically thing they have)
+- three planter saucers (6.5-8" at the base)
+- basil and parsley plants (3 of each)
+- spider plant
+
+--
+
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
 - [Makita 4.0 battery](https://www.kijiji.ca/v-outils-electriques/longueuil-rive-sud/makita-lb1840-18-volts-4amps-batterie-neuveeeeeeeee/cas_192749)
 
