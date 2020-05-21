@@ -16,6 +16,7 @@
 
 Other ideas:
 
+- [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
 - [Dumplings](https://www.bonappetit.com/recipe/pork-and-scallion-dumplings-with-crispy-skirt)
 - [Interesting chicken thighs & kale](https://www.bonappetit.com/recipe/fideos-with-chicken-thighs-and-kale)
 - something with red beans
@@ -88,7 +89,7 @@ Other ideas:
 - charcoal
 - Regular beer
 - N/A beer
-- san P or Perrier
+- san P cans
 
 --
 
