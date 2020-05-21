@@ -1,6 +1,8 @@
 # Meal plan
 
-- [stir fry](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
+- Bavette & green beans
+- Sandwitches
+
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
@@ -20,47 +22,62 @@ Other ideas:
 
 ## Groceries
 
+- Smoked salmon
+- oranges
+- bananas
+- lemon
+- Apples
+- broccoli
+- Green beans
+- baby carrots
+- Sweet potatoe
+- Leaf green
+
+--
+
+- Sandwich meat
+- cheddar
+- Some other cheese
+- Bagels or english muffins
+- Sandwich bread/rolls
+- bread
+
+--
+
 - ground pork
 - ground beef
-- kraft singles
-- cheddar
-- some other cheese
-- crackers
-- san P or perrier
-- NA beer
-- Regular beer
 - breakfast sausages
 - bacon
-- chick breast
-- oranges
-- bananas
-- enbglish muffins
-- flour
-- bread
-- 1 sweet potatoes
-- broccoli
-- baby carrotts
 - eggs
-- lemon
-- oranges
-- bananas
-- semi sweet choc chips
-- Hard cheeses
-- secret chocolate
-- dawn
-- vanilla Greek yoghurt
-- Strained tomatoes
-- break sausages
-- Disinfecting wipes
-- charcoal
-- little paper bags
-- bagels & smoked salmon
+
+--
+
 - coconut water
+- flour
+- semi sweet choc chips
+- crackers
+- Strained tomatoes
+
+--
+
 - butter x2
+- vanilla Greek yoghurt
+- kraft singles
+
+--
+
 - frozen mango
+- Vanilla Ice cream
+- charcoal
+- Regular beer
+- N/A beer
+- san P or Perrier
 
-## Pharpacy
+--
 
-- Medium baby butt cream
+- Round ziplock containers
+- little paper bags
+- Method laundry detergent
+- Dawn
+- Disinfecting wipes
 - Small baby butt cream
-- Kit kats
