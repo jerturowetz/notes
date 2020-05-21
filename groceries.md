@@ -30,72 +30,23 @@ Other ideas:
 ## Maison des roties/fish shop
 
 - 3-lb. racks St. Louis-style ribs x2
-- salmon
 - talapia
 - fish burgers
 
 ## Groceries
 
-- Smoked salmon
-- oranges
-- bananas
-- lemon
-- ginger
-- Apples
-- cherry tomatoes
-- broccoli
-- Green beans
-- baby carrots
-- 2 sweet potatoes
-- Leaf green (arugula)
-
---
-
-- Sandwich meat
-- cheddar
-- bocconcinni
-- Some other cheese
-- Bagels or english muffins
-- Sandwich bread/rolls
-- bread
-
---
-
-- ground pork
-- ground beef
-- breakfast sausages
-- bacon
-- eggs
-
---
-
-- coconut water
 - flour
-- semi sweet choc chips
-- crackers
-- Strained tomatoes
-
---
-
-- butter x2
-- vanilla Greek yoghurt
-- kraft singles
-
---
-
-- frozen mango
-- Vanilla Ice cream
-- mmcain fries
-- charcoal
-- Regular beer
-- N/A beer
-- san P cans
-
---
-
+- oranges
+- ginger
+- Cherry tomatoes
+- arugula
+- Bagels
+- bread
+- Sandwich ciabatta
+- as Vanilla Ice cream
+- mccain fries
 - Round ziplock containers
 - little paper bags
 - Method laundry detergent
 - Dawn
 - Disinfecting wipes
-- Small baby butt cream
