@@ -1,6 +1,12 @@
 # Meal plan
 
+- Salmon & roasted cauliflower
 - Bavette & green beans
+- burgers & fries
+- kate makes chicken
+- fish burgers & salad
+- talapia & roast potatoes
+- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - Sandwiches
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
@@ -10,7 +16,8 @@
 
 Other ideas:
 
-- fish burgers
+- [Dumplings](https://www.bonappetit.com/recipe/pork-and-scallion-dumplings-with-crispy-skirt)
+- [Interesting chicken thighs & kale](https://www.bonappetit.com/recipe/fideos-with-chicken-thighs-and-kale)
 - something with red beans
 - something with tahini
 - something with soy paste
@@ -19,23 +26,33 @@ Other ideas:
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
+## Maison des roties/fish shop
+
+- 3-lb. racks St. Louis-style ribs x2
+- salmon
+- talapia
+- fish burgers
+
 ## Groceries
 
 - Smoked salmon
 - oranges
 - bananas
 - lemon
+- ginger
 - Apples
+- cherry tomatoes
 - broccoli
 - Green beans
 - baby carrots
-- Sweet potatoe
-- Leaf green
+- 2 sweet potatoes
+- Leaf green (arugula)
 
 --
 
 - Sandwich meat
 - cheddar
+- bocconcinni
 - Some other cheese
 - Bagels or english muffins
 - Sandwich bread/rolls
@@ -67,6 +84,7 @@ Other ideas:
 
 - frozen mango
 - Vanilla Ice cream
+- mmcain fries
 - charcoal
 - Regular beer
 - N/A beer
