@@ -29,7 +29,7 @@ Other ideas:
 ## Maison des roties/fish shop
 
 - 3-lb. racks St. Louis-style ribs x2
-- talapia
+- Talapia
 - fish burgers
 
 ## Groceries
@@ -39,11 +39,8 @@ Other ideas:
 - ginger
 - Cherry tomatoes
 - arugula
-- Bagels
 - bread
-- Sandwich ciabatta
+- Sandwich/burger ciabatta
 - Vanilla Ice cream
-- mccain fries
-- Method laundry detergent
+- McCain fries
 - Dawn
-- Disinfecting wipes
