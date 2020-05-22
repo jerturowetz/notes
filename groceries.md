@@ -1,13 +1,12 @@
 # Meal plan
 
-- Salmon & roasted cauliflower
 - Bavette & green beans
 - burgers & fries
 - kate makes chicken
 - fish burgers & salad
 - talapia & roast potatoes
-- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - Sandwiches
+- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
