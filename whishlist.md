@@ -1,22 +1,25 @@
 # Wishlist
 
+Home Depot
+
+- [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
+- [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
+- [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
+- [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
+- [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
+- Concrete drill bits
 - three 6.5-8" planter saucers
 - spider plant
 - trowel
-- [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
-- [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
-- [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
-- [daiso screwdiver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
-- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
-
-## REVIEW
-
-- zip ties (< 11")
 - stubby ratcheting screwdriver for space
 - picdick screwdriver for space
-- mallett
-- hammer
-- medium level
+- mallet
+
+--
+
+- [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
+- [Daiso screwdriver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
+- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
@@ -30,34 +33,26 @@
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
   - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
-
---
-
-- [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - T-shirts:
-  - [Solids tshirt](https://solids.bandcamp.com/merch)
-  - [Good tshirts](https://us.kowtowclothing.com/)
+  - [Solids t-shirt](https://solids.bandcamp.com/merch)
+  - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
-- nut driver set (good brands are wera, wiha, felo):
-- headphone box mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
 - impact driver bits
 - Earplugs (for Kate)
-- Sea to Summit Event Compression Dry Sack, Medium, small
-- North face L bag
-- $200 Agg, Andrew, Joe gifts
-- brainwavzaudio earpads for headphones
+- $200 Angelo, Andrew, Joe gifts
+- electric screwdriver
 
 ## Boots/shoes
 
 - Rain boots
-- Boat shoes or indoor moccassins (great for camping too)
+- Boat shoes or indoor moccasins (great for camping too)
 - WindRiver Odyssey Waterproof Duck Boots (10)
 - Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of ultra warm slip on like Baffin Canada Boots -40F/-40C (altitude) or clasic sorel
 
 ## Music gear
 
-### Mouser ($300 ish)
+### Mouser ($300)
 
 - Amphenol KS3P (3.5 mm plug) x4
 - Neutrik NP3X x2 (for vic firth headphone repair)
@@ -65,8 +60,8 @@
 - Neutrik NJ3FC6 x2 (for headphone ext repairs)
 - Neutrik NC3MXX x4 (patches)
 - Neutrik NC3FXX x4 (patches)
-- Neutrik NC3MXX-BAG x12 (for regular xlr cables)
-- Neutrik NC3FXX-BAG x12 (for regular xlr cables)
+- Neutrik NC3MXX-BAG x12 (for regular XLR cables)
+- Neutrik NC3FXX-BAG x12 (for regular XLR cables)
 
 ### Mics
 
@@ -74,7 +69,7 @@
 - Audio Technica 4040 &/or 4050 (Room)
 - Shure Beta 98AD (snare bottom - frees up a 57)
 - Angled '57
-- Electro-Voice RE20 (guit)
+- Electro-Voice RE20 (guitar)
 - Sennheiser e906 (guitar)
 - AKG D112
 
@@ -84,10 +79,10 @@
 - Radial Key Largo
 - JDI stereo (for active bass)
 - JDV stereo (for passive bass)
-- Palmer pdi-09 for guitar di (after fx) x2
+- Palmer PDI-09 for guitar DI (after FX) x2
 - Radial ProAV1 or Whirlwind pcDI
-- Radial JISO for running BAL into iphone
-- some guitar DI for reamp
+- Radial JISO for running BAL into iPhone
+- some guitar DI for re-amp
 
 ### Crashes
 
@@ -121,10 +116,10 @@
 - K&M 16080 headphone holder x2
 - Mic stand sandbags
 - 3.5mm to dual 1/4"
-- shure mic bags & clips
+- Shure mic bags & clips
 - 7a sticks
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- handheld dustbuster or wet/dry vac
+- handheld dust buster or wet/dry vac
 - snare stand
 - better hats stand & kick pedal
 - desktop mounted Magnifying glass with light
@@ -133,7 +128,7 @@
 - Cable box (piano plugs)
 - Downbeats or Zildjian ear plugs
 - K&M keyboard stand:
-  - 18810-015-91 Keyboadr table (red)
+  - 18810-015-91 Keyboard table (red)
   - 18811-000-91 2nd level stacker (red)
   - 18819 2nd level controller tray
   - 18815 laptop holder
@@ -147,4 +142,7 @@
 - velcro cable ties
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
-- [wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
+- [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
+- nut driver set, screwdriver set (good brands are wera, wiha, felo):
+- Weber 6664 Original Basting Mop
+- Weber vegetable grill pan
