@@ -1,9 +1,6 @@
 # Wishlist
 
-- potting soil
-- fertilizer/plant food (the most naturally/least chemically thing they have)
-- three planter saucers (6.5-8" at the base)
-- basil and parsley plants (3 of each)
+- three 6.5-8" planter saucers
 - spider plant
 
 --
@@ -13,16 +10,7 @@
 
 ## RONA/Home Depot
 
-- Drill bits:
-  - inch fraction (64th to 1/2 inch)
-  - concrete bits (bosch BlueGranite, bosch daredevil)
-- [2x Picquic screwdriver](https://www.homedepot.ca/product/picquic-super-8-plus-multi-bit-screwdriver/1000428687)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
-- [tool caddy for planting stuff](https://www.homedepot.ca/product/husky-20-inch-open-top-resin-tool-caddy/1000675544)
-- [Felo screwdriver set](https://www.homedepot.com/p/Felo-Slotted-and-Phillips-Ergonic-Screwdriver-Set-6-Piece-0715753167/306549481)
-- [Milwaukee 9-in-1 Square Drive Ratcheting Multi-Bit Screwdriver](https://www.homedepot.ca/product/milwaukee-9-in-1-square-drive-ratcheting-multi-bit-screwdriver/1000665256)
-- [Milwaukee stubby ratcheting screwdriver](https://www.homedepot.com/p/Milwaukee-8-in-1-Compact-Ratcheting-Multi-Bit-Screwdriver-48-22-2330/308510693)
-
 
 - [Electric screwdriver](https://www.amazon.ca/Makita-DF001DW-Cordless-Screwdriver-Accessory/dp/B01NC1VO3Q/ref=sr_1_6)
 
