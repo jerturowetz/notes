@@ -11,6 +11,12 @@
 
 ## REVIEW
 
+- zip ties (< 11")
+- stubby ratcheting screwdriver for space
+- picdick screwdriver for space
+- mallett
+- hammer
+- medium level
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)

@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- bring home cutter from space
 - Find an AirBNB for our week off in August
 - post its & cue cards for space
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
