@@ -2,55 +2,39 @@
 
 - three 6.5-8" planter saucers
 - spider plant
-
---
-
+- trowel
 - [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
-- [Makita 4.0 battery](https://www.kijiji.ca/v-outils-electriques/longueuil-rive-sud/makita-lb1840-18-volts-4amps-batterie-neuveeeeeeeee/cas_192749)
-
-## RONA/Home Depot
-
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
-
-- [Electric screwdriver](https://www.amazon.ca/Makita-DF001DW-Cordless-Screwdriver-Accessory/dp/B01NC1VO3Q/ref=sr_1_6)
+- [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
+- [daiso screwdiver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
+- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
 
 ## REVIEW
 
-- replacement dell power brick
-- [Choose a Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
-- [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
-- tool bag
-- makita 5.0ah 18v battery
-- screwdrivers (good brands are wera, wiha, felo):
-  - nut driver set
-  - precision screwdriver set
-  - torx screwdriver set
-  - wera torx screwdriver set
-  - wiha electronics screwdriver set
-- [daiso screwdiver kit](https://www.amazon.com/Daiso-Japan-Jewelers-Precision-Screwdriver/dp/B00KY6T8FS)
-- impact driver bits
-- headphone box mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
-- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
-- [Makita 12v hex driver OR FINE TOOLS 12V](https://www.makita.ca/index2.php?event=tool&id=3022&catid=2)
 - Gear to patch hole behind stove
-- [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
+- replacement dell power brick
+- [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
+- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
+- [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
+- [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
 - [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
-- [kitchen timer](https://www.amazon.ca/dp/B000095RCF?ots=1&linkCode=gs2&tag=figcanada-20)
-- [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
-- party box for paper cups & plates
-- Level measuring cups
-- [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - *Container store:*
   - 3 small freezer bins
   - 2 large plastic (under cabinets)
   - 1 metal (under cabinets)
   - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
+
+--
+
+- [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
 - T-shirts:
   - [Solids tshirt](https://solids.bandcamp.com/merch)
   - [Good tshirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
-- [NRS nekko](https://www.nrs.com/product/47310.01/nrs-neko-blunt-knife)
+- nut driver set (good brands are wera, wiha, felo):
+- headphone box mount solution - plugs are all on the back of device (About 4 inches wide and 2 inches deep - there are only plugs on the back)
+- impact driver bits
 - Earplugs (for Kate)
 - Sea to Summit Event Compression Dry Sack, Medium, small
 - North face L bag
@@ -152,11 +136,9 @@
 - workshop:
   - compressed air can
   - cotton pads
-  - spray cleaner
-  - toothbrushes
 - amp stand for tech 21 trademark 60
 - #6 & #8 wood screws
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - velcro cable ties
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
