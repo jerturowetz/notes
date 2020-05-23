@@ -12,6 +12,7 @@ Home Depot:
 - three 6.5-8" planter saucers
 - spider plant
 - trowel
+- Hex bits
 
 --
 
