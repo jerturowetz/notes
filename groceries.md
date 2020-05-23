@@ -33,17 +33,13 @@ Other ideas:
 
 ## Groceries
 
-- flour
 - oranges
 - strawberries
-- blueberries
-- ginger
-- Cherry tomatoes
-- arugula
-- spinach
-- bread
+- blueberriesp
 - Sandwich/burger ciabatta
 - Vanilla Ice cream
+- Send Pellegrino
+- non-alcoholic beer
 - Dawn
 
 --
