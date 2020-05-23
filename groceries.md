@@ -7,7 +7,6 @@
 - talapia & roast potatoes
 - Sandwiches
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
-- [Cinnamon buns](https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
@@ -36,11 +35,17 @@ Other ideas:
 
 - flour
 - oranges
+- strawberries
+- blueberries
 - ginger
 - Cherry tomatoes
 - arugula
+- spinach
 - bread
 - Sandwich/burger ciabatta
 - Vanilla Ice cream
-- McCain fries
 - Dawn
+
+--
+
+- Frozen mago & berries
