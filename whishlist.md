@@ -1,31 +1,30 @@
 # Wishlist
 
-Home Depot
+Home Depot:
 
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
 - [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
+- [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
 - Concrete drill bits
 - three 6.5-8" planter saucers
 - spider plant
 - trowel
-- stubby ratcheting screwdriver for space
-- picdick screwdriver for space
-- mallet
 
 --
 
-- [Franklin stud finder](https://www.amazon.ca/dp/B0064EICKG?linkCode=gs2&tag=basthu-20)
-- [Daiso screwdriver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
-- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
+Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
+
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
+- [Daiso screwdriver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
+- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
 - [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
 - *Container store:*
@@ -40,7 +39,6 @@ Home Depot
 - impact driver bits
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
-- electric screwdriver
 
 ## Boots/shoes
 
