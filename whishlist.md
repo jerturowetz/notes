@@ -145,3 +145,4 @@ Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - nut driver set, screwdriver set (good brands are wera, wiha, felo):
 - Weber 6664 Original Basting Mop
 - Weber vegetable grill pan
+- hammer, mallet, needle nose, linemans pliers 

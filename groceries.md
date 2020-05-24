@@ -35,8 +35,8 @@ Other ideas:
 
 - oranges
 - strawberries
-- blueberriesp
-- Sandwich/burger ciabatta
+- blueberries
+- Sandwich ciabatta
 - Vanilla Ice cream
 - Send Pellegrino
 - non-alcoholic beer
@@ -45,3 +45,8 @@ Other ideas:
 --
 
 - Frozen mago & berries
+
+## Pharmacy
+
+- Baby formula
+- toothpaste
