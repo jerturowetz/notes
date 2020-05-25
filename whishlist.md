@@ -144,7 +144,7 @@ Home Depot:
 ### Workshop
 
 - #6 & #8 wood screws
-- socket testers
+- socket tester
 - drilling hammer
 - Rubber mallet
 - tap for mic stand size
@@ -153,7 +153,7 @@ Home Depot:
 - tailor scissors
 - small paper envelopes
 - nut driver set
-- screwdrivers: normal, torx & security set (good brands are wera, wiha, felo):
+- screwdriver sets: normal, torx & security (good brands are wera, wiha, felo)
 
 ### Home
 
