@@ -30,7 +30,7 @@ Other ideas:
 
 ## Groceries
 
-- Sandwich ciabatta
+- Sandwich ciabattap
 - Frozen mango & berries
 
 ## Pharmacy

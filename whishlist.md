@@ -1,27 +1,39 @@
 # Wishlist
 
+camping better headlamp
+camping tent headlamp
+
+## workshop
+
+- #6 & #8 wood screws
+- socket testers
+- drilling hammer
+- tap for mic stand size
+
+## home
+
+utility knife (drywall)
+flashlight
+level
+
+
+
+
 
 
 - nut driver set, screwdriver set (good brands are wera, wiha, felo):
 - hammer, mallet, needle nose, linemans pliers
 
-utility knife
+
 Digital Callipers
-flashlights
-Vice grip pliers come in handy for breaking things in a way that makes them work for one more gig.
+
+Vice grip pliers
 adjustable clamps
-flashlifht
 allen key set
-adjustable wrench
-circular saw
+
 claw hamner
-chisel set
-drilling hammer
 socket set
-socket tester
-Electrical Screwdriver
 needle nose
-level
 Metal Straightedge
 Putty Knife
 Paint Can Key
@@ -195,7 +207,6 @@ Home Depot:
   - compressed air can
   - cotton pads
 - amp stand for tech 21 trademark 60
-- #6 & #8 wood screws
 - velcro cable ties
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
