@@ -41,9 +41,10 @@ Other ideas:
 
 --
 
-- Frozen mago & berries
+- Frozen mango & berries
 
 ## Pharmacy
 
 - Baby formula
+- Tempra
 - toothpaste
