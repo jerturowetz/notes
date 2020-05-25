@@ -1,5 +1,14 @@
 # Wishlist
 
+adjustable clamps
+flashlifht
+allen key set
+adjustable wrench 
+circular saw
+claw hamner
+chisel set
+drilling hammer
+
 Home Depot:
 
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
