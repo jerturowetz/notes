@@ -1,75 +1,5 @@
 # Wishlist
 
-camping better headlamp
-camping tent headlamp
-
-## workshop
-
-- #6 & #8 wood screws
-- socket testers
-- drilling hammer
-- tap for mic stand size
-
-## home
-
-utility knife (drywall)
-flashlight
-level
-
-
-
-
-
-
-- nut driver set, screwdriver set (good brands are wera, wiha, felo):
-- hammer, mallet, needle nose, linemans pliers
-
-
-Digital Callipers
-
-Vice grip pliers
-adjustable clamps
-allen key set
-
-claw hamner
-socket set
-needle nose
-Metal Straightedge
-Putty Knife
-Paint Can Key
-heavy duty long ext cord
-handsaw
-joint knife
-linesman pliesrs
-locking pliers
-builders level
-staple gun
-woodworking hammer
-nail punch
-needle nose pliers
-prybar
-putty knife
-rubber mallet
-scissors
-screwdriver set
-socket wrench
-Tongue And Groove Pliers
-gorilla glue
-penicl pull
-toolbag
-
-
-
-- impact driver bits
-
-
-
-
-
-speed square
-hacksaw blades for wood & plastic
-voltage tester (https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
-
 Home Depot:
 
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
@@ -109,7 +39,6 @@ Home Depot:
   - [Paperole shirts](https://www.paperole.com/)
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
-- [food processor](https://www.amazon.ca/dp/B008J8MJIQ)
 
 ## Boots/shoes
 
@@ -203,11 +132,50 @@ Home Depot:
   - 18815 laptop holder
   - 18822 3rd level stacker
   - 18824 3rd level controller tray
-- workshop:
-  - compressed air can
-  - cotton pads
+- compressed air electric blower
 - amp stand for tech 21 trademark 60
 - velcro cable ties
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
+
+## Tools
+
+### Workshop
+
+- #6 & #8 wood screws
+- socket testers
+- drilling hammer
+- Rubber mallet
+- tap for mic stand size
+- embroidery scissors
+- flashing scissors
+- tailor scissors
+- small paper envelopes
+- nut driver set
+- screwdrivers: normal, torx & security set (good brands are wera, wiha, felo):
+
+### Home
+
+- Utility knife (drywall)
+- Flashlight
+- Level
+- Adjustable clamps
+- Needle nose pliers
+- Linesman pliers
+- Tongue & Groove Pliers
+- Locking vise grips
+- Allen key set
+- Paint can opener
+- Claw hammer
+- Rubber mallet
+- Handsaw
+- Hacksaw blades (maybe better hacksaw)
+- Putty knife
+- Joint knife
+- Socket set (with wrench or just bits?)
+- Impact driver bits
+- Speed square
+- Metal straight edge
+- Staple gun
+- [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
