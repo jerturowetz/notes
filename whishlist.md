@@ -1,6 +1,9 @@
 # Wishlist
 
-[food processor](https://www.amazon.ca/dp/B008J8MJIQ)
+
+
+- nut driver set, screwdriver set (good brands are wera, wiha, felo):
+- hammer, mallet, needle nose, linemans pliers
 
 utility knife
 Digital Callipers
@@ -38,14 +41,22 @@ rubber mallet
 scissors
 screwdriver set
 socket wrench
-speed suare
-hacksaw blade for wood
-chalk reel kit
-better voltage tester (https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 Tongue And Groove Pliers
 gorilla glue
 penicl pull
-zircon edge finder
+toolbag
+
+
+
+- impact driver bits
+
+
+
+
+
+speed square
+hacksaw blades for wood & plastic
+voltage tester (https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 
 Home Depot:
 
@@ -63,8 +74,7 @@ Home Depot:
 
 --
 
-Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
-
+- Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
@@ -85,9 +95,9 @@ Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
-- impact driver bits
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
+- [food processor](https://www.amazon.ca/dp/B008J8MJIQ)
 
 ## Boots/shoes
 
@@ -190,7 +200,3 @@ Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
-- nut driver set, screwdriver set (good brands are wera, wiha, felo):
-- Weber 6664 Original Basting Mop
-- Weber vegetable grill pan
-- hammer, mallet, needle nose, linemans pliers
