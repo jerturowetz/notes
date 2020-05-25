@@ -1,13 +1,51 @@
 # Wishlist
 
+[food processor](https://www.amazon.ca/dp/B008J8MJIQ)
+
+utility knife
+Digital Callipers
+flashlights
+Vice grip pliers come in handy for breaking things in a way that makes them work for one more gig.
 adjustable clamps
 flashlifht
 allen key set
-adjustable wrench 
+adjustable wrench
 circular saw
 claw hamner
 chisel set
 drilling hammer
+socket set
+socket tester
+Electrical Screwdriver
+needle nose
+level
+Metal Straightedge
+Putty Knife
+Paint Can Key
+heavy duty long ext cord
+handsaw
+joint knife
+linesman pliesrs
+locking pliers
+builders level
+staple gun
+woodworking hammer
+nail punch
+needle nose pliers
+prybar
+putty knife
+rubber mallet
+scissors
+screwdriver set
+socket wrench
+speed suare
+hacksaw blade for wood
+chalk reel kit
+better voltage tester (https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
+Tongue And Groove Pliers
+gorilla glue
+penicl pull
+zircon edge finder
 
 Home Depot:
 
@@ -30,6 +68,7 @@ Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
+- [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
@@ -154,4 +193,4 @@ Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - nut driver set, screwdriver set (good brands are wera, wiha, felo):
 - Weber 6664 Original Basting Mop
 - Weber vegetable grill pan
-- hammer, mallet, needle nose, linemans pliers 
+- hammer, mallet, needle nose, linemans pliers
