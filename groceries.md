@@ -26,21 +26,11 @@ Other ideas:
 ## Maison des roties/fish shop
 
 - 3-lb. racks St. Louis-style ribs x2
-- Talapia
-- fish burgers (buns)
+- fish burgers (& buns)
 
 ## Groceries
 
-- oranges
-- strawberries
-- blueberries
-- Bananas
-- lemon
 - Sandwich ciabatta
-- Dawn
-
---
-
 - Frozen mango & berries
 
 ## Pharmacy
