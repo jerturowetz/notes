@@ -1,7 +1,5 @@
 # Meal plan
 
-- Bavette & green beans
-- burgers & fries
 - kate makes chicken
 - fish burgers & salad
 - talapia & roast potatoes
@@ -29,17 +27,16 @@ Other ideas:
 
 - 3-lb. racks St. Louis-style ribs x2
 - Talapia
-- fish burgers
+- fish burgers (buns)
 
 ## Groceries
 
 - oranges
 - strawberries
 - blueberries
+- Bananas
+- lemon
 - Sandwich ciabatta
-- Vanilla Ice cream
-- Send Pellegrino
-- non-alcoholic beer
 - Dawn
 
 --
