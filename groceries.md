@@ -1,8 +1,8 @@
 # Meal plan
 
+- fish & roasted potatoes
 - kate makes chicken
 - fish burgers & salad
-- talapia & roast potatoes
 - Sandwiches
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
@@ -35,6 +35,6 @@ Other ideas:
 
 ## Pharmacy
 
-- Baby formula
+- Formula
 - Tempra
-- toothpaste
+- Toothpaste
