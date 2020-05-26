@@ -31,6 +31,8 @@ Other ideas:
 ## Groceries
 
 - Sandwich ciabattap
+- english muffins
+- milk
 - Frozen mango & berries
 
 ## Pharmacy
