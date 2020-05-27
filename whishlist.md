@@ -11,10 +11,9 @@ Home Depot:
 - [Floral Scissors](https://www.homedepot.ca/product/colourwave-floral-scissors-yellow/1000798529)
 - [Fiskars Fiskars Ergo Transplanter](https://www.homedepot.ca/product/fiskars-fiskars-ergo-transplanter/1000174343)
 - [Nisaku Stainless Steel Potted Plants Master, 10-Inch Blade](https://www.homedepot.ca/product/nisaku-stainless-steel-potted-plants-master-10-inch-blade/1001101336)
-
-- Concrete drill bits
-- three 6.5-8" planter saucers
-- spider plant
+- [Concrete drill bits](https://www.homedepot.ca/product/bosch-7-piece-sds-plus-bulldog-rotary-hammer-bit-set/1001099002)
+- [Other concrete drill bits](https://www.homedepot.ca/product/bosch-5-piece-bluegranite-turbo-carbide-hammer-drill-bits-set/1000476795)
+- [three 6.5-8" planter saucers](https://www.homedepot.ca/product/new-england-pottery-8-inch-saucer-in-terra-cotta/1000468376)
 
 --
 
