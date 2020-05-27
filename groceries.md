@@ -39,3 +39,5 @@ Other ideas:
 - bacon
 - eggs
 - Frozen mango & berries
+- draino
+- clorox bathroom cleaner
