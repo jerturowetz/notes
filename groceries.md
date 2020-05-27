@@ -30,11 +30,11 @@ Other ideas:
 
 ## Groceries
 
-- Sandwich ciabattap
+- Sandwich ciabatta
+- milk
+- lemon
+- vanilla greek yogurt
+- strawberries
+- bacon
+- eggs
 - Frozen mango & berries
-
-## Pharmacy
-
-- Formula
-- Tempra
-- Toothpaste
