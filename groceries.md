@@ -30,6 +30,7 @@ Other ideas:
 
 ## Groceries
 
+- cultured butter
 - Sandwich ciabatta
 - milk
 - lemon

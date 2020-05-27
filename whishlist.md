@@ -8,6 +8,7 @@ Home Depot:
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
 - [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
 - [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
+
 - Concrete drill bits
 - three 6.5-8" planter saucers
 - spider plant
@@ -157,12 +158,13 @@ Home Depot:
 
 ### Home
 
-- Utility knife (drywall)
+- Bigger toolkit (milwaukee?)
+- Utility knife (drywall etc)
 - Flashlight
-- Level
+- Good quality medium Level
 - Adjustable clamps
-- Needle nose pliers
-- Linesman pliers
+- Pliers set (linesman, needle nose)
+- Adjustable wrench
 - Tongue & Groove Pliers
 - Locking vise grips
 - Allen key set
@@ -179,3 +181,4 @@ Home Depot:
 - Metal straight edge
 - Staple gun
 - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
+- label maker
