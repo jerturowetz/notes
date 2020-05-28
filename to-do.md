@@ -3,6 +3,10 @@
 - https://www.reddit.com/r/PublicFreakout/comments/grgl6d/office_building_tenants_racially_profiled_in/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 - Review Lucy's tracking issue
 - Find an AirBNB for our week off in August
+  - zoe & george
+  - irene juan
+  - raoul ricardo
+  - david 10-11
 - post its & cue cards for space
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
 - [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
