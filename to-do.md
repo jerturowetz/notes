@@ -1,5 +1,7 @@
 # Jeremy's To-Do List
 
+- https://www.reddit.com/r/PublicFreakout/comments/grgl6d/office_building_tenants_racially_profiled_in/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+- Review Lucy's tracking issue
 - Find an AirBNB for our week off in August
 - post its & cue cards for space
 - [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
