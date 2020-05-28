@@ -1,9 +1,8 @@
 # Meal plan
 
-- fish & roasted potatoes
+- bavette & roasted potatoes
 - kate makes chicken
 - fish burgers & salad
-- Sandwiches
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
@@ -31,13 +30,17 @@ Other ideas:
 ## Groceries
 
 - cultured butter
+- bread
 - Sandwich ciabatta
 - milk
 - lemon
 - vanilla greek yogurt
+- regualr greek yogurt
 - strawberries
 - bacon
 - eggs
 - Frozen mango & berries
+- semi sweet chocolate chips 
+- parchment paper
 - draino
 - clorox bathroom cleaner

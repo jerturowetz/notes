@@ -2,6 +2,7 @@
 
 Home Depot:
 
+- half sheet cooling rack
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
@@ -18,6 +19,7 @@ Home Depot:
 --
 
 - Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
+- Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - [Asano Japanese Ninja Claw Rake and Cultivator](https://www.amazon.ca/Asano-Japanese-Ninja-Claw-Cultivator/dp/B002XQXSXK/)
