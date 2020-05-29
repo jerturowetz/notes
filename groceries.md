@@ -33,6 +33,11 @@ Other ideas:
 - capicole
 - peperroni
 
+## SAQ
+
+- white wine x2
+- kim crawford pinot grig
+
 ## Groceries
 
 - Sandwich ciabatta
@@ -51,3 +56,5 @@ Other ideas:
 - parchment paper
 - draino
 - clorox bathroom cleaner
+- NA beer
+- beer
