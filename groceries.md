@@ -29,18 +29,19 @@ Other ideas:
 
 ## Groceries
 
-- cultured butter
-- bread
 - Sandwich ciabatta
 - milk
+- orange juice
 - lemon
 - vanilla greek yogurt
 - regualr greek yogurt
 - strawberries
+- blueberries
 - bacon
 - eggs
+- coffee
 - Frozen mango & berries
-- semi sweet chocolate chips 
+- semi sweet chocolate chips
 - parchment paper
 - draino
 - clorox bathroom cleaner

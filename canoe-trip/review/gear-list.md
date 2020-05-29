@@ -1,6 +1,18 @@
 //Watershoes
 Chacos or Keen or Teva or Merell
 
+
+- Rite in the rain:
+  - Expedition journal
+  - CERT Field Operating Guide
+  - Side bound notebook & cover
+
+
+
+EXPEDITION JOURNAL
+
+
+
 keen newport h2
 
 - black diamond deploy shovel
@@ -290,5 +302,3 @@ Cut my own tent footprint out of Tyvek
 Better stakes are Easton Nano Tent Stakes or MSR Groundhog Stakes
 Better guy lines
 Microfiber Towel for tent fly (per tent)
-
-

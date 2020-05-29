@@ -2,27 +2,28 @@
 
 Home Depot:
 
-- half sheet cooling rack
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
+- [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
+- [three 6.5-8" planter saucers](https://www.homedepot.ca/product/new-england-pottery-8-inch-saucer-in-terra-cotta/1000468376)
+- [Bosch Rotary Hammer Bit Set](https://www.homedepot.ca/product/bosch-7-piece-sds-plus-bulldog-rotary-hammer-bit-set/1001099002?rec=true)
+- [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
-- [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
-- [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
-- [Floral Scissors](https://www.homedepot.ca/product/colourwave-floral-scissors-yellow/1000798529)
-- [Fiskars Fiskars Ergo Transplanter](https://www.homedepot.ca/product/fiskars-fiskars-ergo-transplanter/1000174343)
-- [Nisaku Stainless Steel Potted Plants Master, 10-Inch Blade](https://www.homedepot.ca/product/nisaku-stainless-steel-potted-plants-master-10-inch-blade/1001101336)
-- [Concrete drill bits](https://www.homedepot.ca/product/bosch-7-piece-sds-plus-bulldog-rotary-hammer-bit-set/1001099002)
-- [Other concrete drill bits](https://www.homedepot.ca/product/bosch-5-piece-bluegranite-turbo-carbide-hammer-drill-bits-set/1000476795)
-- [three 6.5-8" planter saucers](https://www.homedepot.ca/product/new-england-pottery-8-inch-saucer-in-terra-cotta/1000468376)
 
 --
 
+- [micro tip trimming scissors](https://www.amazon.ca/Happy-Hydro-Precion-Pruner-Listing/dp/B0722Z4N35/)
+- [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
+- [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
+
+--
+
+- [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
 - Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
 - Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
-- [Asano Japanese Ninja Claw Rake and Cultivator](https://www.amazon.ca/Asano-Japanese-Ninja-Claw-Cultivator/dp/B002XQXSXK/)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
