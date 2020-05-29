@@ -1,7 +1,6 @@
 # Meal plan
 
 - bavette & roasted potatoes
-- kate makes chicken
 - fish burgers & salad
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
@@ -26,6 +25,13 @@ Other ideas:
 
 - 3-lb. racks St. Louis-style ribs x2
 - fish burgers (& buns)
+
+## Pasta shop
+
+- Pizza dough x2
+- hard mozarella
+- capicole
+- peperroni
 
 ## Groceries
 
