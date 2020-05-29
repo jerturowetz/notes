@@ -33,28 +33,8 @@ Other ideas:
 - capicole
 - peperroni
 
-## SAQ
-
-- white wine x2
-- kim crawford pinot grig
-
 ## Groceries
 
-- Sandwich ciabatta
-- milk
-- orange juice
-- lemon
-- vanilla greek yogurt
-- regualr greek yogurt
-- strawberries
-- blueberries
-- bacon
-- eggs
-- coffee
-- Frozen mango & berries
-- semi sweet chocolate chips
 - parchment paper
-- draino
-- clorox bathroom cleaner
-- NA beer
 - beer
+- Ice cream sandwiches
