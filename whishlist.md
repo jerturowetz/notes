@@ -189,3 +189,4 @@ Home Depot:
 - label maker
 - hex (metric, SAE) & TORX bits (for hand screwdriver)
 - hole saw kit
+- stabila level set
