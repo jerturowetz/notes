@@ -26,15 +26,11 @@ Other ideas:
 - 3-lb. racks St. Louis-style ribs x2
 - fish burgers (& buns)
 
-## Pasta shop
-
-- Pizza dough x2
-- hard mozarella
-- capicole
-- peperroni
-
 ## Groceries
 
+- hard mozarella
+- capicole
+- bread
+- oranges
+- bananas
 - parchment paper
-- beer
-- Ice cream sandwiches
