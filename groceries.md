@@ -30,7 +30,9 @@ Other ideas:
 
 - hard mozarella
 - capicole
+- sandwich meat
 - bread
 - oranges
 - bananas
 - parchment paper
+- All purpose cleaner

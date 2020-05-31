@@ -2,6 +2,7 @@
 
 Home Depot:
 
+- short three prong extension cord
 - square
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
@@ -22,6 +23,7 @@ Home Depot:
 
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
 - Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
+- Baster
 - Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
