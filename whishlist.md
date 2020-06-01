@@ -2,6 +2,8 @@
 
 Home Depot:
 
+- Measuring tape for the big toolbox
+- set a normal size screws
 - short three prong extension cord
 - square
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)

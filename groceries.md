@@ -28,11 +28,16 @@ Other ideas:
 
 ## Groceries
 
-- hard mozarella
+- emmental
+- provolone
 - capicole
 - sandwich meat
 - bread
+- lemon x2
 - oranges
 - bananas
 - parchment paper
 - All purpose cleaner
+- coke or other treat drinks
+- NA beer
+- regular beer
