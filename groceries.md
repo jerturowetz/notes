@@ -1,6 +1,5 @@
 # Meal plan
 
-- bavette & roasted potatoes
 - fish burgers & salad
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
@@ -32,12 +31,19 @@ Other ideas:
 - provolone
 - capicole
 - sandwich meat
-- bread
-- lemon x2
 - oranges
-- bananas
-- parchment paper
+- strawberries
+- blueberries
 - All purpose cleaner
+- Parchment paper
 - coke or other treat drinks
+- Mini tonic water
+- mini soda water
 - NA beer
 - regular beer
+- baby snacks
+- Baby cereal
+
+## spice store
+
+- Hungarian sweet paprika
