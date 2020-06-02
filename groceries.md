@@ -5,7 +5,6 @@
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
-- Michelin star fries
 
 Other ideas:
 
@@ -34,6 +33,7 @@ Other ideas:
 - oranges
 - strawberries
 - blueberries
+- 4 apples
 - All purpose cleaner
 - Parchment paper
 - coke or other treat drinks
