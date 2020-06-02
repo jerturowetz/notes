@@ -2,6 +2,8 @@
 
 Home Depot:
 
+send piece of plastic or whatever for covering plug
+
 - Measuring tape for the big toolbox
 - set a normal size screws
 - short three prong extension cord
