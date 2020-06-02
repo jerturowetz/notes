@@ -2,10 +2,9 @@
 
 Home Depot:
 
-send piece of plastic or whatever for covering plug
-
+- small piece of plastic or whatever for covering plug
 - Measuring tape for the big toolbox
-- set a normal size screws
+- set of "normal" size screws
 - short three prong extension cord
 - square
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
@@ -31,6 +30,8 @@ send piece of plastic or whatever for covering plug
 - Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
+- toolbox
+- screws storage
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
