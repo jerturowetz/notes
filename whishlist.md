@@ -7,11 +7,11 @@ Home Depot:
 - set of "normal" size screws
 - short three prong extension cord
 - square
+
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
 - [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
-- [three 6.5-8" planter saucers](https://www.homedepot.ca/product/new-england-pottery-8-inch-saucer-in-terra-cotta/1000468376)
-- [Bosch Rotary Hammer Bit Set](https://www.homedepot.ca/product/bosch-7-piece-sds-plus-bulldog-rotary-hammer-bit-set/1001099002?rec=true)
+- [Bosch blue granite Bit Set](https://www.homedepot.ca/product/bosch-5-piece-bluegranite-turbo-carbide-hammer-drill-bits-set/1000476795)
 - [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
