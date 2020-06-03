@@ -26,33 +26,7 @@ Other ideas:
 
 ## Groceries
 
-
-cheddar
-arugula
-
-apinach
-butter
-
-
-
-
-- emmental
-- provolone
-- capicole
-- sandwich meat
 - oranges
-- strawberries
-- blueberries
-- 4 apples
-- All purpose cleaner
-- Parchment paper
-- coke or other treat drinks
-- Mini tonic water
-- mini soda water
-- NA beer
-- regular beer
-- baby snacks
-- Baby cereal
 
 ## spice store
 
