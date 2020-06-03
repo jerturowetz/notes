@@ -26,6 +26,16 @@ Other ideas:
 
 ## Groceries
 
+
+cheddar
+arugula
+
+apinach
+butter
+
+
+
+
 - emmental
 - provolone
 - capicole
