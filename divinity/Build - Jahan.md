@@ -2,7 +2,6 @@
 
 ## Abilities
 
-- **Level 4:** Water
 - **Level 4:** Air, Scoundrel
 - **Level 5:** Dual-Weilding
 - **Level 1-3:** Willpower/Body Building

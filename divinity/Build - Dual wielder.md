@@ -1,8 +1,7 @@
-# Build: Dual wielder
+# Build: Brenda
 
 ## Abilities
 
-- **Level 4:** Water (Post lv 15)
 - **Level 4:** Air
 - **Level 5:** Dual Wielding
 - **Level 1-3:** Willpower/Body Building
