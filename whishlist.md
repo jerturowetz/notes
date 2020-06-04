@@ -4,8 +4,10 @@ Home Depot:
 
 - small piece of plastic or whatever for covering plug
 - Measuring tape for the big toolbox
-- short three prong extension cord
-- square
+- Wood screws
+- [Empire 7-inch Heavy Duty Steel Rafter Sq](https://www.homedepot.ca/product/empire-7-inch-heavy-duty-steel-rafter-sq/1000812860)
+- [3 prong ext cord](https://www.homedepot.ca/product/hdx-12-ft-3-prong-indoor-extension-cord-for-tight-spaces-in-white/1000148366)
+- [HUSKY Indoor/Outdoor 15 ft. Block Heater Cord](https://www.homedepot.ca/product/husky-indoor-outdoor-15-ft-block-heater-cord/1000658958)
 - [weber charcoal holders](https://www.homedepot.ca/product/weber-char-basket-charcoal-fuel-holders/1000689190)
 - [Weber handle with hooks](https://www.homedepot.ca/product/weber-kettle-bbq-tool-hook-handle/1000810740)
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)

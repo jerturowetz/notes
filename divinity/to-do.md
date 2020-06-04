@@ -1,7 +1,5 @@
 # Divinity: to-do
 
-figure out feather & large tusk for belt & amulet & ring
-
 does madora need:
 
 - sharp claw amulet +2 str
