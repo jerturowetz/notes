@@ -27,7 +27,10 @@ Other ideas:
 ## Groceries
 
 - oranges
+- bananas
+- Mayonnaise
+- dijon
 
-## spice store
+## Spice store
 
 - Hungarian sweet paprika
