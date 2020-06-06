@@ -30,6 +30,7 @@ Other ideas:
 - bananas
 - Mayonnaise
 - dijon
+- Jam
 
 ## Spice store
 
