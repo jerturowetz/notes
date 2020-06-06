@@ -1,10 +1,12 @@
 # Wishlist
 
+- $$ for mickey 
+
 Home Depot:
 
-- small piece of plastic or whatever for covering plug
-- Measuring tape for the big toolbox
 - Wood screws
+- small piece of plastic or whatever for covering plug
+- [Measuring tape](https://www.homedepot.ca/product/fatmax-30-ft-special-edition-tape-measure/1000668500)
 - [Empire 7-inch Heavy Duty Steel Rafter Sq](https://www.homedepot.ca/product/empire-7-inch-heavy-duty-steel-rafter-sq/1000812860)
 - [3 prong ext cord](https://www.homedepot.ca/product/hdx-12-ft-3-prong-indoor-extension-cord-for-tight-spaces-in-white/1000148366)
 - [HUSKY Indoor/Outdoor 15 ft. Block Heater Cord](https://www.homedepot.ca/product/husky-indoor-outdoor-15-ft-block-heater-cord/1000658958)
@@ -53,6 +55,7 @@ Home Depot:
   - [Paperole shirts](https://www.paperole.com/)
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
+- Mini cooler
 
 ## Boots/shoes
 
