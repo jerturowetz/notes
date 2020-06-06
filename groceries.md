@@ -35,7 +35,8 @@ Other ideas:
 - Jam
 - Wood cleaner
 - grill cleaner
-- blanche or whatever beerp
+- blanche or whatever beer
+- Baby cereal bars x2
 
 ## Spice store
 
