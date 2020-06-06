@@ -30,6 +30,14 @@ Other ideas:
 - bananas
 - Mayonnaise
 - dijon
+- Wood cleaner
+- grill cleaner
+- NA beer
+- wraps
+- avocado
+- red cabbage
+- NA beer
+- blanche or whatever beerp
 
 ## Spice store
 
