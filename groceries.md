@@ -38,6 +38,7 @@ Other ideas:
 - red cabbage
 - NA beer
 - blanche or whatever beerp
+- Jam
 
 ## Spice store
 
