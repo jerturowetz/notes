@@ -1,6 +1,8 @@
 # Wishlist
 
-- $$ for mickey 
+- $$ for mickey
+- white socks
+- little cooler
 
 Home Depot:
 

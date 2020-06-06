@@ -26,23 +26,15 @@ Other ideas:
 
 ## Groceries
 
-- wraps
 - oranges
-- bananas
 - Broccoli
-- Lemon x2
-- Lime
 - Garlic
-- Baby carrots
-- red cabbage
-- avocado
 - Minced Porc
 - Mayonnaise
 - dijon
 - Jam
 - Wood cleaner
 - grill cleaner
-- NA beer
 - blanche or whatever beerp
 
 ## Spice store
