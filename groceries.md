@@ -1,13 +1,13 @@
 # Meal plan
 
-- fish burgers & salad
-- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
-- [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
 
 Other ideas:
 
+- [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
+- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
+- fish burgers & salad
 - [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
 - [Dumplings](https://www.bonappetit.com/recipe/pork-and-scallion-dumplings-with-crispy-skirt)
 - [Interesting chicken thighs & kale](https://www.bonappetit.com/recipe/fideos-with-chicken-thighs-and-kale)
@@ -26,19 +26,24 @@ Other ideas:
 
 ## Groceries
 
+- wraps
 - oranges
 - bananas
+- Broccoli
+- Lemon x2
+- Lime
+- Garlic
+- Baby carrots
+- red cabbage
+- avocado
+- Minced Porc
 - Mayonnaise
 - dijon
+- Jam
 - Wood cleaner
 - grill cleaner
 - NA beer
-- wraps
-- avocado
-- red cabbage
-- NA beer
 - blanche or whatever beerp
-- Jam
 
 ## Spice store
 
