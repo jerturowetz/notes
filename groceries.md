@@ -26,9 +26,6 @@ Other ideas:
 
 ## Groceries
 
-- oranges
-- Broccoli
-- Garlic
 - Minced Porc
 - Mayonnaise
 - dijon
