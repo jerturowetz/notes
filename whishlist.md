@@ -1,13 +1,10 @@
 # Wishlist
 
 - $$ for mickey
-- white socks
-- little cooler
 
 Home Depot:
 
-- Wood screws
-- small piece of plastic or whatever for covering plug
+- Both tapered & round top #6, #8 & #10 wood screws (square or star drive if possible)
 - [Measuring tape](https://www.homedepot.ca/product/fatmax-30-ft-special-edition-tape-measure/1000668500)
 - [Empire 7-inch Heavy Duty Steel Rafter Sq](https://www.homedepot.ca/product/empire-7-inch-heavy-duty-steel-rafter-sq/1000812860)
 - [3 prong ext cord](https://www.homedepot.ca/product/hdx-12-ft-3-prong-indoor-extension-cord-for-tight-spaces-in-white/1000148366)
@@ -26,16 +23,14 @@ Home Depot:
 - [micro tip trimming scissors](https://www.amazon.ca/Happy-Hydro-Precion-Pruner-Listing/dp/B0722Z4N35/)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
-
---
-
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
-- Milk Crates (6 for hall closet, 2 for jam scape, 4 for shed)
+- Milk Crates (4 for hall closet, 2 for jam space, 2 for shed)
 - Baster
 - Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - toolbox
+- white socks
 - screws storage
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
