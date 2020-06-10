@@ -28,12 +28,16 @@ Other ideas:
 
 - Minced Porc
 - Mayonnaise
-- dijon
-- Jam
 - Wood cleaner
 - grill cleaner
 - blanche or whatever beer
 - Baby cereal bars x2
+
+## Chines Grocery
+
+- noodles
+- bok choy
+- dumplings
 
 ## Spice store
 
