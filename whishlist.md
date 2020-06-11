@@ -1,6 +1,7 @@
 # Wishlist
 
 - $$ for mickey
+- lock for stroller
 
 Home Depot:
 

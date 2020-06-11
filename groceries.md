@@ -27,9 +27,17 @@ Other ideas:
 ## Groceries
 
 - Minced Porc
-- Mayonnaise
+- potatoes
+- Arugula
+- Orange Juice
+- Coffee
+- mayo
+- Peanut butter
+- Olive oil
 - Wood cleaner
 - grill cleaner
+- ice cream
+- coke
 - blanche or whatever beer
 - Baby cereal bars x2
 
@@ -37,7 +45,7 @@ Other ideas:
 
 - noodles
 - bok choy
-- dumplings
+- dumplings x3
 
 ## Spice store
 
