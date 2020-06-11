@@ -26,20 +26,20 @@ Other ideas:
 
 ## Groceries
 
-- Minced Porc
-- potatoes
-- Arugula
 - Orange Juice
-- Coffee
-- mayo
-- Peanut butter
+- coke
+
+
+- minced pork
+- baby pasta sauce
 - Olive oil
 - Wood cleaner
 - grill cleaner
 - ice cream
-- coke
 - blanche or whatever beer
 - Baby cereal bars x2
+- Paper towels
+- toilet paper
 
 ## Chines Grocery
 
