@@ -199,3 +199,6 @@ Home Depot:
 - hex (metric, SAE) & TORX bits (for hand screwdriver)
 - hole saw kit
 - stabila level set
+- north face basecamp duffel (M)
+- [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
+
