@@ -27,9 +27,7 @@ Other ideas:
 ## Groceries
 
 - Orange Juice
-- coke
-
-
+- Milk
 - minced pork
 - baby pasta sauce
 - Olive oil
@@ -37,11 +35,13 @@ Other ideas:
 - grill cleaner
 - ice cream
 - blanche or whatever beer
-- Baby cereal bars x2
+- NA Beer
+- Baby snacks
+- formula
 - Paper towels
 - toilet paper
 
-## Chines Grocery
+## Chinese Grocery
 
 - noodles
 - bok choy
