@@ -26,6 +26,7 @@ Other ideas:
 
 ## Groceries
 
+- Banans
 - Orange Juice
 - Milk
 - minced pork
@@ -40,6 +41,19 @@ Other ideas:
 - formula
 - Paper towels
 - toilet paper
+- Dawn
+- coconut water
+- bigger mayo
+- english nuffins 
+- rolls
+- cheddar
+- provolone
+- garlic
+- popsicles
+- breakfast sausage
+- bacon
+- ground beef
+- fish
 
 ## Chinese Grocery
 
