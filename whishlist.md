@@ -1,5 +1,11 @@
 # Wishlist
 
+
+headphones
+hair stuff
+
+
+
 - $$ for mickey
 - lock for stroller
 
