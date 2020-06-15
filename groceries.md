@@ -26,15 +26,14 @@ Other ideas:
 
 ## Groceries
 
-- Banans
-- Orange Juice
+- strawberries
 - Milk
 - minced pork
 - baby pasta sauce
 - Olive oil
 - Wood cleaner
 - grill cleaner
-- ice cream
+- ice cream sandwitches
 - blanche or whatever beer
 - NA Beer
 - Baby snacks
@@ -44,7 +43,6 @@ Other ideas:
 - Dawn
 - coconut water
 - bigger mayo
-- english nuffins 
 - rolls
 - cheddar
 - provolone
