@@ -1,12 +1,7 @@
 # Wishlist
 
-kate bike water bottle and holder 
-
-headphones
-hair stuff
-
-
-
+- headphones
+- hair stuff
 - $$ for mickey
 - lock for stroller
 

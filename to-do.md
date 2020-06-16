@@ -2,12 +2,8 @@
 
 - small piece of plastic or whatever for covering plug
 - Review Lucy's tracking issue
-- [Drum music](https://www.youtube.com/watch?v=dhVsbb61CpY)
-- [Beginner drummer videos](https://www.drumstheword.com/product/beginner-video-drum-lessons-starter-new-learn-how-play-drums-easy-download-drum-pack/)
 - review Andrea sound gear
 - Post dell on Kijiji
-- Unito deploy system
-- Optimize tome park
 - Shakti booking system
 
 --

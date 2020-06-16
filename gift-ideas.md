@@ -1,5 +1,6 @@
 # Gift Ideas
 
+Kate bike water bottle & holder
 cathy meat thermometer
 good bluetooth headphones for max
 piano for sandra
