@@ -26,8 +26,47 @@ Other ideas:
 
 ## Groceries
 
-- strawberries
 - Milk
+- Tomatoe
+- Bacon
+- Lettuce
+
+-  egetable oil
+
+cocnut water
+beer
+coke
+strawberries
+
+bleach
+dish soap
+mini tonayoes
+sandwiych meat
+smoked salmon
+bavette
+bacon
+breakfast sausage
+eggs
+bocconcinni
+chocolate
+butter
+harlic butter
+cheddar
+rolls
+coffee
+frozen stawberries & blueberries
+pineapple
+ground beef
+minced porc x2
+parm
+
+
+
+
+
+- sushi rice
+- olive oil
+- strawberries
 - minced pork
 - baby pasta sauce
 - Olive oil
@@ -49,9 +88,15 @@ Other ideas:
 - garlic
 - popsicles
 - breakfast sausage
-- bacon
 - ground beef
 - fish
+
+## Maison de pates
+
+- noodles
+- meat sauce
+- pizza dough
+- tomatoe sauce
 
 ## Chinese Grocery
 

@@ -3,10 +3,13 @@
 - headphones
 - hair stuff
 - $$ for mickey
+- $100 fer sher
+- communauto
 - lock for stroller
 
 Home Depot:
 
+- patching compound
 - Both tapered & round top #6, #8 & #10 wood screws (square or star drive if possible)
 - [Measuring tape](https://www.homedepot.ca/product/fatmax-30-ft-special-edition-tape-measure/1000668500)
 - [Empire 7-inch Heavy Duty Steel Rafter Sq](https://www.homedepot.ca/product/empire-7-inch-heavy-duty-steel-rafter-sq/1000812860)
