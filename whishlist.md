@@ -13,7 +13,6 @@ Home Depot:
 - [Weber Steel BBQ Tool Holder with Hooks](https://www.homedepot.ca/product/weber-steel-bbq-tool-holder-with-hooks/1000689186)
 - [Smaller cable ties](https://www.homedepot.ca/product/commercial-electric-8-inch-uv-cable-tie-black-20-pack-/1000762528)
 - [Bosch blue granite Bit Set](https://www.homedepot.ca/product/bosch-5-piece-bluegranite-turbo-carbide-hammer-drill-bits-set/1000476795)
-- [Mallet set](https://www.homedepot.ca/product/anvil-16-oz-black-white-rubber-mallet-set/1001319211)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
 
@@ -23,6 +22,7 @@ Home Depot:
 - hair stuff
 - $100 fer sher
 - lock for stroller
+- Good rubber mallet
 - [micro tip trimming scissors](https://www.amazon.ca/Happy-Hydro-Precion-Pruner-Listing/dp/B0722Z4N35/)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
@@ -196,10 +196,10 @@ Home Depot:
 - Speed square
 - Metal straight edge
 - Staple gun
-- [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 - label maker
 - hex (metric, SAE) & TORX bits (for hand screwdriver)
 - hole saw kit
 - stabila level set
 - north face basecamp duffel (M) or Gregory alpaca
 - [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
+- [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
