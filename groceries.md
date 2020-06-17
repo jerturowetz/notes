@@ -1,109 +1,108 @@
 # Meal plan
 
-- [lemon parmesean pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
+- [lemon parmesan pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 
 Other ideas:
 
-- [Shrimp Quinoi](https://www.bonappetit.com/story/indian-ish-shrimp-quinoa-pulao)
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
-- fish burgers & salad
 - [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
 - [Dumplings](https://www.bonappetit.com/recipe/pork-and-scallion-dumplings-with-crispy-skirt)
 - [Interesting chicken thighs & kale](https://www.bonappetit.com/recipe/fideos-with-chicken-thighs-and-kale)
+- [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - something with red beans
 - something with tahini
 - something with soy paste
 - something with quinoas
 - Something with hoisin sauce
-- [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
-- [tiger bite sauce](https://www.bonappetit.com/recipe/tri-tip-steak-with-tiger-bite-sauce)
 
 ## Maison des roties/fish shop
 
 - 3-lb. racks St. Louis-style ribs x2
 - fish burgers (& buns)
+- Bavette
+
+## Jean Talon Market
+
+- Mini tomatoes
 
 ## Groceries
 
-- Milk
-- Tomatoe
-- Bacon
-- Lettuce
+- Baby pasta
+- Smoked Salmon
+- Other fish
+- Sandwich meat
 
--  egetable oil
+--
 
-cocnut water
-beer
-coke
-strawberries
+- Cheddar
+- Provolone
+- Parmesan
+- Rolls or Ace buns
 
-bleach
-dish soap
-mini tonayoes
-sandwiych meat
-smoked salmon
-bavette
-bacon
-breakfast sausage
-eggs
-bocconcinni
-chocolate
-butter
-harlic butter
-cheddar
-rolls
-coffee
-frozen stawberries & blueberries
-pineapple
-ground beef
-minced porc x2
-parm
+--
 
+- Strawberries
+- Blueberries
+- Pineapple
+- Sweet potato
+- Garlic
 
+--
 
-
-
-- sushi rice
-- olive oil
-- strawberries
-- minced pork
-- baby pasta sauce
-- Olive oil
+- Coconut water
+- Bleach
+- Method laundry detergent
+- Dawn dish soap
 - Wood cleaner
 - grill cleaner
-- ice cream sandwitches
-- blanche or whatever beer
-- NA Beer
-- Baby snacks
-- formula
 - Paper towels
-- toilet paper
-- Dawn
-- coconut water
-- bigger mayo
-- rolls
-- cheddar
-- provolone
-- garlic
-- popsicles
-- breakfast sausage
-- ground beef
-- fish
+- Toilet paper
+
+--
+
+- Ground beef
+- Minced pork
+- Breakfast sausages
+- Bacon
+- Eggs
+
+--
+
+- Butter
+- Garlic butter
+
+--
+
+- Vegetable oil
+- Olive oil
+- Mayonnaise
+- Baby pasta sauce
+- Coffee
+- Chocolate bar
+- Coke
+- Beer (blanche, N/A beer)
+- frozen strawberries & blueberries
+- Popsicles
+
+--
+
+- Baby everything
 
 ## Maison de pates
 
 - noodles
 - meat sauce
 - pizza dough
-- tomatoe sauce
+- tomato sauce
 
 ## Chinese Grocery
 
 - noodles
-- bok choy
-- dumplings x3
+- dumplings x2
+- Sushi rice
 
 ## Spice store
 
 - Hungarian sweet paprika
+- Hungarian hot paprika

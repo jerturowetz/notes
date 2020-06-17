@@ -1,12 +1,5 @@
 # Wishlist
 
-- headphones
-- hair stuff
-- $$ for mickey
-- $100 fer sher
-- communauto
-- lock for stroller
-
 Home Depot:
 
 - patching compound
@@ -26,6 +19,10 @@ Home Depot:
 
 --
 
+- headphones
+- hair stuff
+- $100 fer sher
+- lock for stroller
 - [micro tip trimming scissors](https://www.amazon.ca/Happy-Hydro-Precion-Pruner-Listing/dp/B0722Z4N35/)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
