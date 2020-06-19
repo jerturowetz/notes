@@ -45,16 +45,25 @@ Other ideas:
 
 ## Groceries
 
-- salmon
-- hot dogs & buns
+- whole milk
+- baby carrots
+- broccoli
+- spinach
+- arugula
+- apples
+- bananas
 
 --
 
 Next round:
 
-method laundry detergent
+- salmon
+- hot dogs & buns
+- method laundry detergent
+- medium freezer bags
 - Wood cleaner
 - grill cleaner
+- wide tinfoil
 - coke
 - frozen strawberries
 - Popsicles
