@@ -30,6 +30,7 @@ Other ideas:
 
 - Hungarian sweet paprika
 - Hungarian hot paprika
+- Coriander
 
 ## Maison de pates
 
