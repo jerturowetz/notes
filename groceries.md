@@ -21,12 +21,7 @@ Other ideas:
 - fish burgers (& buns)
 - Bavette
 
-## Jean Talon Market
-
-- Mini tomatoes
-- Garlic
-
-### Spice store
+## Spice store
 
 - Hungarian sweet paprika
 - Hungarian hot paprika
@@ -46,18 +41,8 @@ Other ideas:
 
 ## Groceries
 
-- whole milk
-- baby carrots
-- broccoli
-- spinach
-- arugula
-- apples
-- bananas
-
---
-
-Next round:
-
+- OJ
+- Garlic
 - salmon
 - hot dogs & buns
 - method laundry detergent
