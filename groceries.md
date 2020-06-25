@@ -42,6 +42,15 @@ Other ideas:
 ## Groceries
 
 - OJ
+- Emmental
+- Provolone
+- wraps
+- eggs
+- bread
+- bananas
+- oranges
+- Bread
+- Wnglish nuffins
 - Garlic
 - salmon
 - hot dogs & buns
