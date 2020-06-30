@@ -42,6 +42,8 @@ Other ideas:
 ## Groceries
 
 - OJ
+- baby cereal x3
+- baby cereal bars
 - Emmental
 - Provolone
 - wraps
