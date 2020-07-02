@@ -58,7 +58,7 @@
 - Orajel for mouth sores
 - Dermatone Skin Protecter Tin
 - Dermatone Lip Balm
-- Superglue 
+- Superglue
 - Sierra Dawn Campsuds (small)
 - Chafing cream
 - Antihistamine cream / Oak‑N‑Ivy Tecnu Outdoor Skin Cleanser
@@ -67,3 +67,9 @@
 - Eye drops
 - Antibiotic ointment
 - Quikclot or cornstarch as Antihemorrhagic (clotting agent)
+
+
+
+calamine lotion
+afterbite
+deet bug stuff

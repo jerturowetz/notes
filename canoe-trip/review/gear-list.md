@@ -27,7 +27,17 @@ Teva TERRA FI
 //Boots
 OTB Abyss II Boots
 
+thermacel mosquito repellant
+smaller platypus bag
+better water bottles
+guthook app
 
+
+solar panel for charging phone/ebook
+canon g7x
+waterproof camera?
+
+sea to summit aeros pillow
 
  water shoes vs portage boits va leather boots
 
