@@ -40,52 +40,13 @@ Other ideas:
 ## Pharmaprix
 
 - Hair stuff
-- lavender baby cream
-- Baby sunscreen x2
 - wipe refill
 
 ## Groceries
 
-- salmon/seafood
-
---
-
-- cheddar
-- Emmental
-- Provolone
-- Mozarella
-
---
-
-- Strawberries, blueberries etc.
-- oranges
-- Garlic
-- Ginger
-- Arugula
-- Tomatoes
-- Carrots
-
---
-
-- wraps
-- bread
 - English muffins
-
---
-
-- Break sausages
-- method laundry detergent
-- medium & large freezer bags
-- Wood cleaner
-- grill cleaner
 - wide tinfoil
-- #2 coffee filter
-- toilet paprr
 - paper towel
-- Bacon
 - eggs
-- sliced yellow cheese
-- Vanilla greek yogurt
-- OJ
-- Popsicles
-- baby cereal bars
+- rolls/ace buns
+- Popsicles/Freezies
