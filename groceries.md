@@ -31,8 +31,6 @@ Other ideas:
 
 - noodles
 - meat sauce
-- pizza dough
-- tomato sauce
 
 ## Chinese Grocery
 
@@ -44,46 +42,50 @@ Other ideas:
 - Hair stuff
 - lavender baby cream
 - Baby sunscreen x2
+- wipe refill
 
 ## Groceries
 
-- whole milk
-- sliced yellow cheese
+- salmon/seafood
+
+--
+
 - cheddar
-- OJ
-- baby cereal x3
-- baby cereal bars
 - Emmental
 - Provolone
-- wraps
-- eggs
-- bread
-- bananas
+- Mozarella
+
+--
+
+- Strawberries, blueberries etc.
 - oranges
-- Bread
-- Wnglish nuffins
 - Garlic
-- salmon
-- hot dogs & buns
+- Ginger
+- Arugula
+- Tomatoes
+- Carrots
+
+--
+
+- wraps
+- bread
+- English muffins
+
+--
+
+- Break sausages
 - method laundry detergent
-- medium freezer bags
+- medium & large freezer bags
 - Wood cleaner
 - grill cleaner
 - wide tinfoil
-- coke
-- frozen strawberries
-- Popsicles
+- #2 coffee filter
 - toilet paprr
 - paper towel
-- moxarella
+- Bacon
 - eggs
-- chefdar
 - sliced yellow cheese
-- Strawberries blueberries etc.
-vanilla Greek yoghurt
-frozen strawberries
-Number two coffee filters
-bread
-english muffibs
-spinach
-arugula
+- Vanilla greek yogurt
+- OJ
+- Popsicles
+- baby cereal bars
