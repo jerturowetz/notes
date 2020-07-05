@@ -39,8 +39,17 @@ Other ideas:
 - noodles
 - dumplings x3
 
+## Pharmaprix
+
+- Hair stuff
+- lavender baby cream
+- Baby sunscreen x2
+
 ## Groceries
 
+- whole milk
+- sliced yellow cheese
+- cheddar
 - OJ
 - baby cereal x3
 - baby cereal bars
@@ -64,3 +73,17 @@ Other ideas:
 - coke
 - frozen strawberries
 - Popsicles
+- toilet paprr
+- paper towel
+- moxarella
+- eggs
+- chefdar
+- sliced yellow cheese
+- Strawberries blueberries etc.
+vanilla Greek yoghurt
+frozen strawberries
+Number two coffee filters
+bread
+english muffibs
+spinach
+arugula
