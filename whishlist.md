@@ -18,6 +18,10 @@ Home Depot:
 
 --
 
+- headphones for office
+- moussepad
+- lock for bike
+- rack for bike
 - headphones
 - hair stuff
 - $100 fer sher
