@@ -8,10 +8,75 @@ Chacos or Keen or Teva or Merell
   - Side bound notebook & cover
 
 
+dehydrator
 
+fish crisp
+frying pan
+
+drysack backpack
+
+
+go tele gps?
+
+itinerary
+
+another soft water bottle
+big ziplocks
+tape
+
+close to change in to for the ride home in a stuff sack & an open bag or shopping bag for the cra ride
+
+
+mountain hardware phantom spark
+thermarest neo air xtyerm
+
+fishing license
+fishing kit & 6ft collapsible
+
+axe
+https://www.bigagnes.com/Fly-Creek-HV-UL1-Person?quantity=1&custcol8=144
+snowpeak spork
+sit pad(not inflatable) also a chair
+Boreal-21-Saw
+arcteryx/MH rain shell & pants
+boat repair kit
+new headlight
+lighter
+spare batteries
+https://bushbuddystove.com/products/bushbuddy-stove
+or ballcap
+TOAKS CKW-1100 Titanium Pot with Pan Perfect for Outdoor Camping & Hiking Cookware 1100ml
+mora knife: https://www.youtube.com/watch?v=boXeuBwWSu4
+
+evan: 6ft fishing pole
+down pillow
+
+
+socks
+underwear
+polyester hoodie
+long johns
+
+
+10x10 sil nylon tarp
+
+
+ursack for food
+
+spare light dry bag (cloth style like OR)
+
+primloft or down packable coat
+mec neoprene booties (camp shoes)
 EXPEDITION JOURNAL
 
+bee free water bottle !!!
 
+merell rapids shoes dry qick
+small nylon belt
+darn tough med weight half socks
+ua underwear
+marino t shirt
+nylon zip off pants
 
 keen newport h2
 
