@@ -40,3 +40,5 @@
 - paper towel
 - rolls/ace buns
 - Popsicles/Freezies
+- baby pasta sauce
+- strawberries & blueberries
