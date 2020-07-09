@@ -3,11 +3,6 @@
 - iBike: Bike lock & bike rack
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
-- [Socks](https://www.amazon.ca/Under-Armour-Charged-Cotton-Athletic/dp/B072PVMLVJ/)
-- [Whatever mouse pad](https://www.amazon.ca/AUKEY-Soft-Smooth-Gaming-Mouse/dp/B00QPU8GJQ/)
-- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
-- [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
-- [headphones for office](https://www.amazon.com/gp/product/B07YBYN3P9/)
 
 --
 
