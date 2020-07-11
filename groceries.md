@@ -32,13 +32,35 @@
 
 - Wipe refill
 - Normal wipes
+- Wide tinfoil
 
 ## Groceries
 
-- English muffins
-- wide tinfoil
-- paper towel
-- rolls/ace buns
-- Popsicles/Freezies
-- baby pasta sauce
+- Fish
+- Bananas
 - strawberries & blueberries
+- Apples
+- Garlic
+- Arugula
+- Broccoli
+- Spinach for freezing
+
+--
+
+- English muffins
+- Bread
+- Rools/Ace buns
+
+--
+
+- Chicken breast
+- milk
+
+--
+
+- coffee
+- paper towel
+- baby pasta sauce
+- Popsicles/Freezies
+- frozen blueberries
+- provolone
