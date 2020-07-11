@@ -33,13 +33,15 @@
 - Wipe refill
 - Normal wipes
 - Wide tinfoil
+- mitchum
+- toothpaste
+- soap
 
 ## Groceries
 
-Bocconcinni
-
-
 - Fish
+- Bocconcinni
+- provolone
 - Bananas
 - strawberries & blueberries
 - Apples
@@ -67,4 +69,3 @@ Bocconcinni
 - Popsicles/Freezies
 - Soya sauce
 - frozen blueberries
-- provolone
