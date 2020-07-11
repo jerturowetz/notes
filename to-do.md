@@ -1,5 +1,15 @@
 # Jeremy's To-Do List
 
+the girls from ipa nima
+cafe de flor
+
+paradis bbq order (eat in the park)
+full rack ribs 
+3 peiece fried chicke  
+fries snd mayo
+
+
+
 - small piece of plastic or whatever for covering plug
 - Review Lucy's tracking issue
 - review Andrea sound gear
