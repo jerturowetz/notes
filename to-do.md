@@ -11,10 +11,7 @@ fries snd mayo
 
 
 - small piece of plastic or whatever for covering plug
-- Review Lucy's tracking issue
-- review Andrea sound gear
 - Post dell on Kijiji
-- Shakti booking system
 
 --
 

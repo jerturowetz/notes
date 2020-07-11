@@ -2,12 +2,8 @@
 
 - [lemon parmesan pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
 - [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
-
-Other ideas:
-
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
-- [Interesting chicken thighs & kale](https://www.bonappetit.com/recipe/fideos-with-chicken-thighs-and-kale)
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - something with red beans
 - something with tahini
@@ -18,19 +14,14 @@ Other ideas:
 ## Maison des roties/fish shop
 
 - 3-lb. racks St. Louis-style ribs x2
-- fish burgers (& buns)
 - Bavette
+- fish burgers (& buns)
 
 ## Spice store
 
 - Hungarian sweet paprika
 - Hungarian hot paprika
 - Coriander
-
-## Maison de pates
-
-- noodles
-- meat sauce
 
 ## Chinese Grocery
 
@@ -39,19 +30,41 @@ Other ideas:
 
 ## Pharmaprix
 
-- Hair stuff
-- wipe refill
+- Wipe refill
+- Normal wipes
+- Wide tinfoil
 
 ## Groceries
 
 Bocconcinni
 
 
+- Fish
+- Bananas
+- strawberries & blueberries
+- Apples
+- Garlic
+- Arugula
+- Broccoli
+- Spinach for freezing
+
+--
 
 - English muffins
-- wide tinfoil
+- Bread
+- Rools/Ace buns
+
+--
+
+- Chicken breast
+- milk
+
+--
+
+- coffee
 - paper towel
-- eggs
-- rolls/ace buns
+- baby pasta sauce
 - Popsicles/Freezies
 - Soya sauce
+- frozen blueberries
+- provolone

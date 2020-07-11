@@ -110,6 +110,12 @@ panic stuff
 
 brew install tree
 
+
+
+brew install awscli wp-cli-completion
+
+
+
 for docker sync:
 brew install unison
 brew install eugenmayer/dockersync/unox

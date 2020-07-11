@@ -1,11 +1,23 @@
 # Wishlist
 
+- iBike: Bike lock & bike rack
+- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
+- $100 fer sher
+
+--
+
+Container store:
+
+- 3 small freezer bins
+- 2 large plastic (under cabinets)
+- 1 metal (under cabinets)
+- [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
+
+--
+
 Home Depot:
 
-- patching compound
-- Both tapered & round top #6, #8 & #10 wood screws (square or star drive if possible)
 - [Measuring tape](https://www.homedepot.ca/product/fatmax-30-ft-special-edition-tape-measure/1000668500)
-- [Empire 7-inch Heavy Duty Steel Rafter Sq](https://www.homedepot.ca/product/empire-7-inch-heavy-duty-steel-rafter-sq/1000812860)
 - [3 prong ext cord](https://www.homedepot.ca/product/hdx-12-ft-3-prong-indoor-extension-cord-for-tight-spaces-in-white/1000148366)
 - [HUSKY Indoor/Outdoor 15 ft. Block Heater Cord](https://www.homedepot.ca/product/husky-indoor-outdoor-15-ft-block-heater-cord/1000658958)
 - [weber charcoal holders](https://www.homedepot.ca/product/weber-char-basket-charcoal-fuel-holders/1000689190)
@@ -18,22 +30,13 @@ Home Depot:
 
 --
 
-- headphones
-- hair stuff
-- $100 fer sher
-- lock for stroller
-- Good rubber mallet
-- [micro tip trimming scissors](https://www.amazon.ca/Happy-Hydro-Precion-Pruner-Listing/dp/B0722Z4N35/)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
 - Milk Crates (4 for hall closet, 2 for jam space, 2 for shed)
-- Baster
 - Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
-- toolbox
-- white socks
 - screws storage
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
@@ -41,14 +44,7 @@ Home Depot:
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
 - [Daiso screwdriver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
-- [Faberware measuring cups](https://www.amazon.ca/Farberware-Color-Measuring-Mixed-Colors/dp/B005NKJX6Y/)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
-- [Spice grinder](https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU)
-- *Container store:*
-  - 3 small freezer bins
-  - 2 large plastic (under cabinets)
-  - 1 metal (under cabinets)
-  - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
