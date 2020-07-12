@@ -41,31 +41,31 @@
 
 - Fish
 - Bocconcinni
-- provolone
-- Bananas
 - strawberries & blueberries
 - Apples
 - Garlic
-- Arugula
 - Broccoli
-- Spinach for freezing
+- sweet potato
 
 --
 
 - English muffins
 - Bread
-- Rools/Ace buns
 
 --
 
 - Chicken breast
-- milk
+- cooking cream
 
 --
 
+- coconut water
 - coffee
+- jam
 - paper towel
 - baby pasta sauce
-- Popsicles/Freezies
 - Soya sauce
 - frozen blueberries
+- coke
+- ice cream
+- popsicles
