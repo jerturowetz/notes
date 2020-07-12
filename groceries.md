@@ -1,7 +1,5 @@
 # Meal plan
 
-- [lemon parmesan pasta](https://www.bonappetit.com/recipe/pasta-with-brown-butter-whole-lemon-and-parmesan)
-- [Adult Mac & cheese](https://www.bonappetit.com/recipe/adult-mac-and-cheese)
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 - [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
@@ -41,31 +39,28 @@
 
 - Fish
 - Bocconcinni
-- provolone
-- Bananas
 - strawberries & blueberries
+- oranges
 - Apples
 - Garlic
-- Arugula
 - Broccoli
-- Spinach for freezing
 
 --
 
 - English muffins
 - Bread
-- Rools/Ace buns
+- Rolls/Ace buns
 
 --
 
 - Chicken breast
-- milk
 
 --
 
 - coffee
 - paper towel
 - baby pasta sauce
-- Popsicles/Freezies
+- baby fruit bars
+- Popsicles
 - Soya sauce
 - frozen blueberries
