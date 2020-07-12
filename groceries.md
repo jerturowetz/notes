@@ -34,6 +34,7 @@
 - mitchum
 - toothpaste
 - soap
+- daiper genie refills
 
 ## Groceries
 
@@ -44,6 +45,7 @@
 - Apples
 - Garlic
 - Broccoli
+- sweet potato
 
 --
 
@@ -54,13 +56,19 @@
 --
 
 - Chicken breast
+- cooking cream
 
 --
 
+- coconut water
 - coffee
+- jam
 - paper towel
 - baby pasta sauce
 - baby fruit bars
 - Popsicles
 - Soya sauce
 - frozen blueberries
+- coke
+- ice cream
+- popsicles
