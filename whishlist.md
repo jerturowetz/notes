@@ -1,5 +1,8 @@
 # Wishlist
 
+- daiper genie refills
+- Baby locks for under sinks
+- McLaren replacement screen
 - iBike: Bike lock & bike rack
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher

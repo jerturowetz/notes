@@ -9,11 +9,10 @@
 - something with quinoas
 - Something with hoisin sauce
 
-## Maison des roties/fish shop
-
-- 3-lb. racks St. Louis-style ribs x2
-- Bavette
-- fish burgers (& buns)
+## Mont royale
+- salmon
+- scallops
+- Rosee sauce
 
 ## Spice store
 
@@ -26,49 +25,7 @@
 - noodles
 - dumplings x3
 
-## Pharmaprix
+## Grocery store
 
-- Wipe refill
-- Normal wipes
-- Wide tinfoil
-- mitchum
-- toothpaste
-- soap
-- daiper genie refills
-
-## Groceries
-
-- Fish
-- Bocconcinni
-- strawberries & blueberries
-- oranges
-- Apples
-- Garlic
-- Broccoli
-- sweet potato
-
---
-
-- English muffins
-- Bread
-- Rolls/Ace buns
-
---
-
-- Chicken breast
-- cooking cream
-
---
-
-- coconut water
-- coffee
-- jam
-- paper towel
-- baby pasta sauce
-- baby fruit bars
-- Popsicles
-- Soya sauce
-- frozen blueberries
-- coke
-- ice cream
 - popsicles
+
