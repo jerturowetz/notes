@@ -36,6 +36,7 @@
 - mitchum
 - toothpaste
 - soap
+- daiper genie refills
 
 ## Groceries
 
