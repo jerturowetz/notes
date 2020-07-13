@@ -6,6 +6,7 @@ good bluetooth headphones for max
 piano for sandra
 winter day horse trip
 kate ultra portable phone charger
+Kate bike https://www.prioritybicycles.com/products/thegotham?aff=3
 ricardo kucthen thermkmeter can be moubted to pot for deep frying
 
 ## Kate
