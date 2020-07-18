@@ -31,4 +31,7 @@
 
 - popsicles
 - duck fat
-- rosee sdauce
+- rosee sauce
+- arugula
+- cucumber
+- tomatoes
