@@ -1,5 +1,7 @@
 # Wishlist
 
+- socks
+- more workout shirts
 - daiper genie refills
 - Baby locks for under sinks
 - McLaren replacement screen
