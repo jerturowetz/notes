@@ -1,8 +1,6 @@
 # Meal plan
 
-- Pri pri chicken & roast broccoli
-- Fish & asparagus
-- Bavette & salad
+- Penne rosee
 - Hot dogs & arugula salad
 - [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
 
@@ -29,9 +27,57 @@
 
 ## Grocery store
 
-- popsicles
-- duck fat
-- rosee sauce
+- Fish
+
+--
+
+- Lemon x2
 - arugula
 - cucumber
 - tomatoes
+- Bananas
+- oranges
+- Mushroom
+- Blueberries
+- Baby carrots
+- Spinach to freeze
+- Broccolis
+- Some other side green
+- Radishes (?)
+- Green oniom (whatever else for stir fry)
+
+--
+
+- English muffins
+- Bread
+
+--
+
+- Stir fry meat (chk thighs?)
+- 2lbs minced pork
+
+--
+
+- Eggs
+- Butter
+- Milk
+- plain greek yogurt
+
+--
+
+- Smbal Olek
+- Honey
+- asian noodles
+- rosee sauce
+- Scret Chocolate bars
+
+--
+
+- Baby Cereal
+
+--
+
+- Fries
+- popsicles
+- Ice cream
+- duck fat
