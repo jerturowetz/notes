@@ -27,57 +27,11 @@
 
 ## Grocery store
 
-- Fish
-
---
-
-- Lemon x2
-- arugula
-- cucumber
-- tomatoes
-- Bananas
+- bluegerries & stawberries
 - oranges
-- Mushroom
-- Blueberries
-- Baby carrots
 - Spinach to freeze
-- Broccolis
-- Some other side green
-- Radishes (?)
-- Green oniom (whatever else for stir fry)
-
---
-
-- English muffins
-- Bread
-
---
-
-- Stir fry meat (chk thighs?)
-- 2lbs minced pork
-
---
-
-- Eggs
-- Butter
-- Milk
-- plain greek yogurt
-
---
-
-- Smbal Olek
-- Honey
-- asian noodles
-- rosee sauce
-- Scret Chocolate bars
-
---
-
-- Baby Cereal
-
---
-
-- Fries
+- big chocolate
+- fries
+- butter
 - popsicles
-- Ice cream
 - duck fat
