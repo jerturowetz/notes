@@ -1,5 +1,25 @@
 # Wishlist
 
+
+
+half rack
+3 peoce fried chl
+fries
+cornbread
+
+ 38
+ 
+ 
+ 
+
+- shorts
+- Baseball cap
+- Mac dry bag for bathing suits
+- neck bicycle side bag
+- water shoes (speedo)
+- water bottles ;bike
+- eater bottle holder
+- bike rack
 - socks
 - more workout shirts
 - daiper genie refills
