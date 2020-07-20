@@ -1,6 +1,6 @@
 # Jeremy's To-Do List
 
-- Paradis BBQ (rack ribs, 3 peiece fried chicken, fries)
+- do i have watershoes? if so, are they packable?
 - small piece of plastic or whatever for covering plug
 - Post dell on Kijiji
 
