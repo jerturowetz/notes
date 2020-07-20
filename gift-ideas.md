@@ -1,5 +1,6 @@
 # Gift Ideas
 
+[Kate choker](https://en.horacejewelry.com/)
 Kate bike water bottle & holder
 cathy meat thermometer
 good bluetooth headphones for max
