@@ -1,3 +1,48 @@
+
+
+Big nylon pack and pack liner
+
+
+
+
+
+
+
+30L backpack
+
+
+- Kyak for canada: Ascend H10
+
+Dry bags:
+
+- 5l dry bag
+- Small multi use:
+    - Pelican case 1050
+    - Yeti sidekick
+- 10L x2
+- 20L x2
+- Backpack dry bags
+    - Fish bond thunnderhead Backpack (about 30L)
+- 50L Yeti Panga
+
+
+
+OR ultralight compression sack
+
+
+I think I want big bag for portaging
+
+
+
+
+
+
+A few compression sacks
+
+
+
+
+
 //Watershoes
 Chacos or Keen or Teva or Merell
 
