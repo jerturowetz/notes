@@ -12,8 +12,6 @@
 - eater bottle holder
 - bike rack
 - Mec dry bag for bathing suits
-
-
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
 
