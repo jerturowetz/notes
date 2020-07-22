@@ -1,31 +1,19 @@
 # Wishlist
 
+- daiper genie refills
+- More white socks
+- Baby locks for under sinks
 
+--
 
-half rack
-3 peoce fried chl
-fries
-cornbread
-
- 38
- 
- 
- 
-
-- shorts
-- Baseball cap
-- Mac dry bag for bathing suits
-- neck bicycle side bag
-- water shoes (speedo)
-- water bottles ;bike
+- iBike: Bike lock & bike rack
+- mec bicycle side bag
+- water bottles bike
 - eater bottle holder
 - bike rack
-- socks
-- more workout shirts
-- daiper genie refills
-- Baby locks for under sinks
-- McLaren replacement screen
-- iBike: Bike lock & bike rack
+- Mec dry bag for bathing suits
+
+
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
 
@@ -55,6 +43,8 @@ Home Depot:
 
 --
 
+- [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
+- [McLaren replacement screen](https://www.maclaren.us/collections/parts-quest/products/quest-shopping-basket-silver)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
@@ -67,8 +57,6 @@ Home Depot:
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
-- [Quiet practice pad](https://www.timpano-percussion.com/us/prologix-pad-de-pratique-prologix-marksman-dual-12.html)
-- [Daiso screwdriver kit](https://www.amazon.ca/Box-Super-Precision-Screwdriver-Eyeglasses/dp/B00DFFK6Q0/)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/ref=dp_ob_title_kitchen)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
@@ -77,6 +65,7 @@ Home Depot:
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
 - Mini cooler
+- picnic blanket
 
 ## Boots/shoes
 
