@@ -25,11 +25,25 @@
 - noodles
 - dumplings x3
 
+## Pasta shop
+
+- noodles
+- rosee
+- tomato sauce
+
 ## Grocery store
 
+- salmon
 - bluegerries & stawberries
 - oranges
+- Banans
 - Spinach to freeze
+- 2 sides (whatever)
+- plums
+- apples
+- mini cucumber
+- arugula
+- Whole milk
 - big chocolate
 - fries
 - butter
@@ -37,3 +51,7 @@
 - duck fat
 - bleach
 - ace buns
+- baby cereal
+- baby fruit bars
+- ice cream sandwitches
+- fancy popsicles
