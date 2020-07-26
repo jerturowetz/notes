@@ -27,28 +27,11 @@
 - noodles
 - dumplings x3
 
-## Pasta shop
-
-- noodles
-- rosee
-- tomato sauce
-
 ## Grocery store
 
-- salmon
-- bluegerries & stawberries
-- oranges
-- Banans
-- Spinach to freeze
-- 2 sides (whatever)
-- plums
-- apples
-- mini cucumber
-- arugula
-- big chocolate
+- stawberries
+- big chocolatec
 - butter
-- duck fat
-- ace buns
 - baby cereal
 - baby fruit bars
 - baby food for eloise
@@ -57,7 +40,9 @@
 
 --
 
+- duck fat
 - Whole milk
 - Milk for the folks
+- bocconcinni
 - fries
 - Bleach
