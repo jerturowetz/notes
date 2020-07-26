@@ -1,8 +1,10 @@
 # Meal plan
 
+- Sunday night?
 - Penne rosee
-- Hot dogs & arugula salad
-- [Pork Ribs](https://www.bonappetit.com/recipe/five-spice-pork-ribs)
+- Chicken & ?
+- Cod & ?
+- Sid lee meal
 
 --
 
@@ -43,15 +45,19 @@
 - apples
 - mini cucumber
 - arugula
-- Whole milk
 - big chocolate
-- fries
 - butter
-- popsicles
 - duck fat
-- bleach
 - ace buns
 - baby cereal
 - baby fruit bars
+- baby food for eloise
 - ice cream sandwitches
-- fancy popsicles
+- Advil
+
+--
+
+- Whole milk
+- Milk for the folks
+- fries
+- Bleach
