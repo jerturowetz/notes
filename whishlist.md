@@ -3,6 +3,7 @@
 - daiper genie refills
 - More white socks
 - Baby locks for under sinks
+- Small baby cream for diaper bag
 
 --
 

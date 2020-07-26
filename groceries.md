@@ -30,19 +30,10 @@
 ## Grocery store
 
 - stawberries
-- big chocolatec
-- butter
-- baby cereal
-- baby fruit bars
-- baby food for eloise
-- ice cream sandwitches
-- Advil
-
---
-
-- duck fat
+- ice cream sandwiches
+- advil
 - Whole milk
 - Milk for the folks
-- bocconcinni
 - fries
 - Bleach
+- coke
