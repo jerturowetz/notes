@@ -1,5 +1,54 @@
 # Jeremy's To-Do List
 
+band aids
+alcohol swans
+steribstrips
+3m tape
+thick tape
+emergency blanket
+rubber gloves
+pro wrap
+advil
+rolled gauze
+
+--
+
+heaflamps
+campbsaw
+grill
+proper knife
+scrubbies
+something to boil watrr i 
+
+matches holdrs
+pills holdrs
+small liquid holdrrs
+
+
+--
+
+food
+ibstant coffee
+chocolate milk mix
+smores gear
+
+
+--
+
+camp chairs
+sporks
+better esting & cooking gear
+
+
+sonething for wrapping soap bars
+snall packing cubes or stuff pouches for repair kits snd stuff
+
+sharpen machete
+
+
+
+
+
 - do i have watershoes? if so, are they packable?
 - small piece of plastic or whatever for covering plug
 - Post dell on Kijiji
