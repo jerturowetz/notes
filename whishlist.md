@@ -7,14 +7,14 @@
 
 --
 
-- iBike: Bike lock & bike rack
-- mec bicycle side bag
-- water bottles bike
-- eater bottle holder
+- Wster bopttle cage & water bottle
 - bike rack
+- bicycle side bag
 - Mec dry bag for bathing suits
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
+- [Ass saver](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
+- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 
 --
 
