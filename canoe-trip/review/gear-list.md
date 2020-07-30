@@ -2,6 +2,96 @@
 
 
 
+## Camping
+
+- Garbage bags
+- Roll of duct tape
+- cheap non stick
+- Spatulas/wooden spoon
+
+
+
+
+
+band aids
+alcohol swans
+steribstrips
+3m tape
+thick tape
+emergency blanket
+rubber gloves
+pro wrap
+advil
+rolled gauze
+
+--
+
+heaflamps
+campbsaw
+grill
+proper knife
+scrubbies
+something to boil watrr i
+
+matches holdrs
+pills holdrs
+small liquid holdrrs
+
+
+leather gloves for fire log handling
+squeez water bottle
+camp soap in a good bottle]
+cooler
+
+
+
+--
+
+food
+ibstant coffee
+chocolate milk mix
+smores gear
+
+
+--
+
+camp chairs
+better esting & cooking gear
+
+
+snall packing cubes or stuff pouches for repair kits snd stuff
+
+sharpen machete
+
+
+
+clear plsastic toiletry case
+soap saver of sorts
+see throuhgh stuff sacks for baby bag
+
+
+
+https://enlightenedequipment.com/sidekicks-custom/
+pillows
+
+
+
+- pack a car bag for ride home
+- watershoes
+
+
+soap saver
+sporks
+[Ultralight stuff sacks](https://www.hilltoppacks.com/store/p3/Stuff_Sacks_Multiple_Sizes_Available_Ultralight.html#/)
+[Bear bag](https://www.hilltoppacks.com/store/p2/food-bag-and-bear-hang-kit.html#/)
+[Bear bag](https://zpacks.com/products/bear-bagging-kit?aff=7)
+[Better throw bag](https://www.hilltoppacks.com/store/p32/Best_Damn_Rock_Sack_Ever_by_Hilltop_Packs.html#/)
+Bear Can or Ursack bear bag
+
+--
+
+
+
 Unscented, alcohol-based gel hand sanitizer
 small toothbrush
 mini floss
