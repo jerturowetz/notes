@@ -1,5 +1,50 @@
 # Wishlist
 
+afterbite
+band aids
+alcohol swabs
+steribstrips
+3m tape
+thick tape
+emergency blanket
+rubber gloves
+pro wrap
+advil
+rolled gauze
+
+## For our camping trip
+
+- Roll of duct tape
+- can opener, bottle opener
+- bucket for dishes
+- Aluminum foil
+
+--
+
+- cheap non stick
+- Spatulas/wooden spoon
+- tongs
+- camp grill
+- pot scraper
+- tongs
+- small cutting board
+- knife
+- cooler
+
+--
+
+- popcorn kernels & olive oil
+- pankake mix
+- eggs (put in a cheap water bottle)
+- breakfast yogurt w/berries & granola
+- bananas
+- dried fruit
+- carrots
+- hummus
+- soft bread
+
+--
+
 - daiper genie refills
 - More white socks
 - Baby locks for under sinks

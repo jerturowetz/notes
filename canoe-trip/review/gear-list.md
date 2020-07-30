@@ -1,14 +1,213 @@
+# Canoe trip gear list
+
+Stuff i dont wanna forget:
+zpacks dry bags & pillow
+coleman 2 burner camp stove, little table, extra propane tanks
+GSI Outdoors Java Drip Collapsible Pourover Coffee Maker
+Talenti Gelato containers for storing rice etc
+[Thermal jacket](https://enlightenedequipment.com/mens-torrid-apex-jacket-custom/)
+Keb echo shell jacket
+day hike bag (osprey 18L)
+canon powershot
+
+## Personal items
+
+- Car bag (stuff sack full of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
+
+- Hiking or canoe pack
+- Polarized sunglasses & safety strap
+- Glasses & safety strap if necessary (no contacts please)
+- Paddling Gloves (optional) Bicycle gloves work well, as do NRS Boater's Gloves. If they can be clipped to a pack, even better.
+- Sleeping pad
+- Sleeping bag or camp quilt with w/compression stuff sac
+- Small pack pillow
+- Water bladder or bottle. 1L smartwater bottles or lifewater bottles are great, especially with the sports cap for flushing a water filter. Nalgenes are fine, but better suited for canoing camping.
+- Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
+- Medium microfiber towel (optional)
+- Easy access stuff (like a z-packs dry bag):
+  - DEET Bug spray (nothing else works, seriously)
+  - Fragrance Free sunscreen
+  - small microfiber bandana, sweat rag or buff (i like buff Lightweight Merino Wool Neckwear)
+  - lip balm
+  - Toilet paper roll in a ziplock bag
+  - Small folding knife or pocket knife (no rambo knives or multi tools please) (Spyderco Ladybug)
+  - Flashlight or headlamp
+  - Small lighter like a bic mini
+  - Mini first aid kit
+  - canmera
+- Small toiletry bag (like a z-packs dry bag):
+  - biodegradable soap
+  - toothbrush and toothpaste
+  - small comb/brush (optional)
+  - small microfiber washcloth (optional)
+
+## Worn clothes
+
+You can change into these when we arrive, just make sure to try to pack them seperatelty
+
+** Move items here
+
+## Spare Day clothes
+
+- wind shirts/jacket (Men's Copperfield Wind Shirt, Men's Torrid APEX Jacket Custom) (more for hikingntrips)
+- Wet shoes (support is important so day hike sneakers are good. these will get wet and muddy probs so not something too $$$, trail runners, Altra Lone Peak 3.5 Men's Trail Running Shoe)
+- Sun hat/cap
+- merino t shirt (Merino Mens Tech Lite Short Sleeve T-Shirt)
+- wool socks (Darn Tough Hiker Micro Crew Cushion Sock - Men's)
+- Spare wool socks (Darn Tough Vermont Men's 1/4 Merino Wool Cushion Hiking Socks)
+- long sleeved shirt (Columbia Mens Silver Ridge Lite Long Sleeve Shirt)
+- pants/shorts
+- swimtrunks (?)
+- dirty girl gaiters
+_______ Underwear as needed. 2 pairs are usually sufficient for your trip.
+
+## Camp clothes
+
+- Rain gear (Outdoor Research Men's Helium HD Jacket)
+_______ Waterproof Rain Jacket - coated nylon or waterproof/breathable fabric
+_______ Waterproof Rain Pants or Rain Chaps - coated nylon or waterproof/breathable fabric
+_______ 1 pair of midweight hiking boots (boots are optional, a dry pair of sneakers for wearing around camp will also be sufficient, boots are handy if it is raining.
+_______ 1 pair of running shoes, sneakers, or sandals: For around campsite wear and/or canoeing during the day.
+_______ 2 pairs of medium weight wool hiking socks: Wool keeps your feet warm even when wet and gives good cushioning. The higher the wool content of the socks the better (we recommend 85% wool, 15% nylon).
+_______ Midweight Polypropylene Top/Wool Shirt - long sleeve
+_______ Midweight Pile Jacket /Wool Sweater - (ex. Polartec 200) two of these are nice to have in case one gets wet during the day.
+_______ Wind Jacket - nylon (can be same as rain jacket if waterproof/breathable - must fit over insulating layers)
+
+- Dry shoes (like moccasins, quick drying something packabe resistant to water)
+- clean, breathable long underwear top & bottom (merino patagonia or HH)
+_______ Lightweight Synthetic Long Undershirt - polypropylene, or other hydrophobic, wicking
+_______ Synthetic/Wool Glove liners
+_______ Midweight Synthetic/Wool long underwear bottoms - polypropylene, or other hydrophobic, wicking fabric
+_______ Lightweight Pile/Wool Pants or synthetic pants - (ex. Polartec 100)
+
+- sweater
+- Wool/Pile Hat (must cover ears)
+- warm socks (https://goosefeetgear.com/products/down-socks/)
 
 
 
 
-## Camping
 
-- Garbage bags
-- Roll of duct tape
-- cheap non stick
-- Spatulas/wooden spoon
+## Trip leader additional items
 
+- extra glasses safety straps
+- Medkit (see other list)
+- Compass
+- Maps & map bag
+- Whistles & wrist coils for everyone
+- spare Buff CoolNet® UV+ Neckwear
+- Spare flashlist (Fenix Flashlights E05 & spare alkaline batteries)
+- Leather glovbes for handling logs/fire
+- Spare water bottles/bladders (1L smartwater bottles/nalgenes)
+- Group water filter
+- Water tablets
+- Lashing and strapping
+- spare, foam core, sleeping pad (Therm-a-Rest Z Lite Sol Ultralight Foam Backpacking Mattress)
+- repair kits (expand this)
+- Small First-Aid Kit
+- Spare stove (BRS 3000T Stove)
+- tiny cloth whatever the clioth is caqlled, pucks for others
+
+## Camp gear
+
+- [Ultralight trowel](http://www.thetentlab.com/Deuce/DeuceofSpadespage.html)
+- Fire starters
+- Fire grill
+- Toilet paper
+- Optionally larger first aid kit
+- tent, tent footprint, tent stakes & small towels (luightload towel)
+- over fire grill
+- cook system:
+  - Stove & fuel (? how much fuel) (zpacks stuff sack?) MSR pocketrocket stove
+  - 12x245 Lightload towel for drying stuff and stopping stove from banging around
+  - Bic mini lighter
+  - https://zpacks.com/collections/cooking-water
+  - pot scraper
+can opener & bottle opener (multitool?)
+- Pill case for spices
+sharp knife
+small cutting board
+silicone stasher bags
+pots & pans
+tongs
+spatula
+cook spoon
+tine cloths to pack with eating gear
+
+tarp ?
+
+
+- Eating system
+  - Titanium mugs or plastic bowls. Should match the food prep plan.
+  - Insulated coffe mugs (yeti?)
+  - Cold soak containers (if necessary)
+  - Sporks
+  - Knifes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______ Any medications you will need to take during the trip (allergy medications etc.).
+_______ 1 small notebook and pencil (Optional)
+_______ 1 camera and film (Optional)
+_______ a book to read if desired
+
+
+Travel Gear:
+_______ Sleeping Bag - synthetic fill if possible, rated to 30 degrees F or cooler
+_______ 1 closed cell foam sleeping pad (3/8 in.) or inflatable mattress. Pads provide insulation
+from the ground and padding for more comfortable sleeping.
+
+
+
+
+zpacks food bag
+bear container
+
+
+
+Silky Saws, Avoid: Sven saws, bow saws
+Bahco 24" replacement saw blade (Dry Wood)
+Paprika, Salt, Pepper, Other Spices
+Heavy Duty Aluminum Foil
+Kleen Kanteen 64oz water bottle
+Imusa Aluminum Mug 1.25qt - Big enough to cook in, and it nests with the 64oz water bottle. Plus they're cheap. You don't need fancy titanium gear that will warp over an open flame. Aluminum will do nicely.
+Avoid: Overpriced titanium cookware, cheap heavy steel cookware
+Ziplock Freezer Bags
+Esee Striker for Flint and Steel
+100% Cotton Shemagh - Tie the corners together to make a bag or a sling, wet it and wrap it around your neck to keep you cool on a hot day, use it to take hot pots off the fire, create shade, or even just use it for a little extra warmth at night.
+Avoid: Synthetic fiber scarves and blends (they melt and catch fire easily)
+Altoids - The tins are great for making char cloth for flint and steel, storing your fishing hooks or other small items. Plus the mints themselves will help cover up the taste of water purification tabs and they can be used to attract fish.
+#36 Tarred Bankline - Avoid: Paracord, 550 Cord (Except Titan)
+A Trowel (not a folding shovel - wtf this isnt WW2) - Light weight and cheap, good for digging holes and Dakota firepits. Don't leave home without it. Military style e-tools are way too heavy and have a tendency to lock shut if moisture is present. If you are hitting hard soil use a sharpened tree limb instead. - Avoid: Folding shovels (You aren't digging a trench, this isn't the Somme)
+Mora Classic - Folding Utility Survival Knife
+MSR Aquatabs (store with a big ziplock - can be used for water holder)
+Suunto A30-L
+Gorrila Tape
+emergency ponchos
+Fresnel Lenses
+bic lighters
+Original Mechanix Gloves
+100% wool cap
+rain gear
+Canoe pack(s) GRANITE GEAR CROWN2?
+Medium duty big family tent
+Medium duty hiking pack (like an osprey 65L)
+Ultralight hiking pack (zpacks arplex backpack)
+Ultralight tent (zpacks duplex tent)
 
 
 
@@ -26,7 +225,7 @@ rolled gauze
 
 --
 
-heaflamps
+
 campbsaw
 grill
 proper knife
@@ -43,6 +242,8 @@ squeez water bottle
 camp soap in a good bottle]
 cooler
 
+
+Day hike bag? Mountain Hardwear Scrambler 30 Review ? zpacks something?
 
 
 --
@@ -69,10 +270,13 @@ clear plsastic toiletry case
 soap saver of sorts
 see throuhgh stuff sacks for baby bag
 
-
+Hygienna Solo Portable Bidet
 
 https://enlightenedequipment.com/sidekicks-custom/
 pillows
+
+quilt, cxlothes in mzpacks medium dry bag - medium zpacks rolltop dcf bag
+
 
 
 
@@ -205,6 +409,9 @@ mora knife: https://www.youtube.com/watch?v=boXeuBwWSu4
 
 evan: 6ft fishing pole
 down pillow
+
+
+
 
 
 socks
@@ -523,9 +730,6 @@ Tents (2 person, reasonably cheap) (packed weight / packed size)
 
 $300 Kelty TN2 | 2.0kg, 35x28cm (980) | 83" x 50" floor
 Breathes well, star view, overall good tent
-
-$300 Tarptent Double Rainbow | 1.2kg, 53x9cm (477) | 88" x 50" floor
-Really light, comfy, minor condensation issues
 
 Tent Accessories
 Cut my own tent footprint out of Tyvek

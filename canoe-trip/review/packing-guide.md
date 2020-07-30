@@ -47,7 +47,7 @@ I've only listed essential camp knives and multi-tools here; so, if you're looki
 Spare / PDF knife:
 Optional but very useful, an easy-access, water-resistant knife that you can clip to your PDF is an asset for quick access on the water, dealing with lines and general safety.  Also, it keeps your primary knife or multi-tool away from the water, allowing you to pack it away when in canoe transit.
 
-  * 
+  *
     * $30 Gerber River Shorty -Trip leaders top pick for over 10 years
     * $40 NRS Pilot & Co-Pilot -Nice clip features
 
@@ -71,22 +71,3 @@ Though we'll have camp water bags, it's essential to have a personal water bottl
   * $20 Klean Kanteen Original 27
   * $7-10 Any Nalgene Wide Mouth
   * $0 Plastic pop or Gatorade Bottle
-
-
-Clothes ??
-something
-wet shoes
-dry shoes
-
-
-
-Other stuff ??
-I'm not going to offer options here, rather going to give you a guide of what you need
-
-A Whistle & a wrist coil
-Travel Toothbrush
-DEET Bug spray (nothing else works, seriously)
-Fragrance Free sunscreen
-Polarized Sunglasses
-Microfiber Towel
-Paddling Gloves (motocross / bicycle gloves work fine but so do NRS Boater's Gloves) - these things will be wet all day.  a loop for a crabiner is really useful

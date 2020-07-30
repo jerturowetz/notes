@@ -1,5 +1,33 @@
 # Notes for first timers
 
+- take a look at sawyer queeze & evernew bladders
+- Basic knots
+- Add notes bout food
+- Bear bag hanging
+- How to hang a bear sack
+- [Lav Safety and Rules](http://www.canot-camping.ca/securyty-and-rules.html)
+- Add nmotes about not storing food in the tent
+- add notes bout clothing
+
+## Clothing
+
+This is only a guide to what you need for your trip. The important thing to remember is to try and stay away from cotton clothing as much as possible, or at least bring some along only for the hot days of your trip. Some of these items are optional so it is not necessary to have everything on this list. We supply waterproof barrels for storing your gear so do not worry about bringing a back pack. We will give you the barrels at the start of your trip. Try not to bring too much clothing. Canoes have limited space so we have to stay within these constraints. There is usually plenty of time to dry clothing if things get wet. If you do not have some of the required items please call us and we will try and locate suitable items. If possible bring your own sleeping bag and mat, however, these can be borrowed if you do not have your own.
+
+### Fabrics
+
+The clothing layers should consist of several different types of fabrics. Cotton is comfortable and breathable, but it absorbs and retains water, and therefore it will not keep you warm if it gets wet. Also it can be difficult to dry. For this reason you should not bring heavy cotton clothes such as sweatshirts, sweatpants or blue jeans. Cotton T-shirts and underwear are fine as are lightweight cotton shirts and pants. Polypropylene or other hydrophobic synthetic fabrics move the moisture (sweat) away from your body to the outside of the layer, reducing evaporative cooling and keeping you dry and comfortable. Wool or synthetic pile/fleece fabrics don't absorb water so they keep you warm even if they get wet. Pile also dries very quickly. A wool sweater or pile jacket provides warmth on a chilly evening. Nylon or Nylon/Cotton Windshells reduce convective heat loss. For raingear, coated nylon is lightweight and works well. Waterproof-breathable fabrics are also possible but are expensive.
+
+### The Layering System
+
+Combinations of these types of fabrics creates a layering system. The purpose of a layering system is to be able to mix and match the layers of insulation to match the weather conditions and your activity level to maintain a comfortable body temperature without excess sweating (which can lead to heat loss). Throughout the day you will need to layer up and layer down as conditions and activity levels change. Typically in the morning and evening when it is colder, you will need many layers on. The inner layer keeps the skin dry and comfortable. The middle layer provides some insulation and protection from the elements. Long-sleeve shirts and long pants make up this layer. You may wear these during the day for or in the evening when your activity level is low and it starts to cool off. The outer layer provides insulation. You will wear this around camp at night. The shell layer protects you from wind and rain. A waterproof rain jacket is essential in case of bad weather. The head layers are for sun and rain protection during the day and to reduce heat loss when it cools down. The feet layer is actually two layers. You should wear a lightweight synthetic liner sock against your foot which helps pass moisture away from your foot. On top of this you wear a wool/nylon blend hiking sock. People wonder why you should wear a wool sock with summer heat. Since wool doesn't absorb water it passes the moisture from your foot outwards, keeping your foot dryer. If your feet stay damp, they get wrinkled and are more prone to blisters. Having two sock layers means that your socks will slide against each other so that the friction from your boots is between the sock layers rather than against your skin (friction against the skin leads to blisters).
+
+
+_______ 2 pairs glasses or contact lenses (if needed): If you wear contact lenses and will have
+difficulty cleaning them in the field it is suggested that you bring glasses instead. Please bring an
+eyeglass safety strap for your glasses.
+
+
+
 ## Mosquitoes
 
 Mosquitoes are worst in June, and pretty bad in general. It’s difficult to eliminate this nuisance, but it can be minimized. Here are some recommendations:

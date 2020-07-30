@@ -2,13 +2,16 @@
 
 ## Learn
 
-- How to hang barrel sack
+- How to pack food (cold soak, dried meals eg backpakers panrty, knor rice side)
+- how to hang a bear bag
+- skippy container for cold soaked meals
 - Find a field guide for Northern Quebec (birds fish etc)
-- How to make fire starters
-- Knots
-- Some way to make coffee
 - How to make a paracord painter for my canoe paddle
 - How to fish, how to clean fish
+- Knots
+- Some way to make coffee
+- [How to Tie Square Lashing](https://survivalsherpa.wordpress.com/2015/02/22/camp-craft-how-to-tie-square-lashing/)
+- Do a boil to weight comparison on the fuel to figure out how many boils the whisperlite gives
 
 ## Call Lav
 

@@ -1,5 +1,6 @@
 # H&T: Medkit packing list
 
+- BSN Medical Leukotape P Corrective Taping, 1.5" x 15 yds, Single Roll
 - 20 each latex free gauze pads s,m & l (both non-stick & normal)
 - Adventure Medical Sam Splint
 - Moleskin
@@ -67,9 +68,4 @@
 - Eye drops
 - Antibiotic ointment
 - Quikclot or cornstarch as Antihemorrhagic (clotting agent)
-
-
-
-calamine lotion
-afterbite
-deet bug stuff
+- Bug repellant

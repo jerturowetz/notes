@@ -28,3 +28,8 @@ rxbar
 
 emergen-c packs
 green superfood powder
+
+knorr sides
+seaweed
+
+no mess smores: sugar cones + cho chips + mini marshmellows + aluminum foil
