@@ -1,13 +1,5 @@
 # Meal plan
 
-- Sunday night?
-- Penne rosee
-- Chicken & ?
-- Cod & ?
-- Sid lee meal
-
---
-
 - [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
 - [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
 - something with red beans
@@ -37,3 +29,9 @@
 - fries
 - Bleach
 - coke
+- blueberries & strawberries
+- Bananas
+- Dijon
+- Mayonnaise
+- Bread
+- English muffins
