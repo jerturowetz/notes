@@ -1,5 +1,25 @@
 
 
+
+
+Unscented, alcohol-based gel hand sanitizer
+small toothbrush
+mini floss
+small microfiber towel
+toilet paper
+Unscented moist towelettes or baby wipes
+ultra thin laundry bag
+
+--
+
+toilet paper
+
+
+
+
+
+
+
 Big nylon pack and pack liner
 
 
