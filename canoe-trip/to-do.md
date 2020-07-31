@@ -2,6 +2,7 @@
 
 ## Learn
 
+- sharpen axe & machete
 - $500 FQCK (Fédération québécoise du canot et du kayak) lifetime membership
 - make roap kits https://www.youtube.com/watch?v=h_Av_751ysI
 - camp stitching https://www.youtube.com/watch?v=fAV8lfI_6jM&feature=emb_title
