@@ -1,39 +1,38 @@
 # Wishlist
 
-akof mol lcohol swabs
-emergency blanket
-
-## For our camping trip
-
-- can opener, bottle opener
-- bucket for dishes
-- Aluminum foil
-
---
+## Canadian tire
 
 - cheap non stick
+- Large camp pot
 - Spatulas/wooden spoon
 - tongs
 - camp grill
 - pot scraper
 - tongs
-- small cutting board
-- knife
+- Water
 - cooler
 
---
+## Grocery store
 
-- popcorn kernels & olive oil
-- pankake mix
-- eggs (put in a cheap water bottle)
-- breakfast yogurt w/berries & granola
-- bananas
-- dried fruit
-- carrots
-- hummus
-- soft bread
+Water
+Chk breasts
+Hot dogs
+Buns
+Dinner side for hot dogs
+Oatmeal packets
+Something for a side w/eggs
+Strawberries
+Hummus
+Peanut butter
+Some type of bready thing
+lunch x 2
+Yoguret
+Granola
+Pancake mix
+bananas
+dried fruit
 
---
+## Other
 
 - daiper genie refills
 - More white socks
