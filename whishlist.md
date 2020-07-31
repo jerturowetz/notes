@@ -8,9 +8,10 @@
 - tongs
 - camp grill
 - pot scraper
-- tongs
 - Water
 - cooler
+- baby pdf
+- Mosquito coils
 
 ## Grocery store
 
