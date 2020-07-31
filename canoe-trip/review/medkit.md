@@ -74,3 +74,7 @@
 pills holdrs
 small liquid containers, Nalegene 2oz little bottles
 Glowsticks
+pills in little single use packets
+pepto bismol
+tums
+advil

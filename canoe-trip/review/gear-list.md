@@ -5,8 +5,6 @@ $120 Ontario RAT 7 Survival Knife or Buck Selkirk (Big Knife)
 $25 Gerber/Bear Grylls Scout Knife
 $40 Victorinox Farmer or Hiker (primary multi tool)
 $40 NRS Captain Rescue (River Safety)
-
-
 $160 MSR Flex4 set
 $30 MSR flex Skillet
 MSR spice shakers
@@ -29,13 +27,6 @@ Sealine HP Map Case
 $300 Frost River Isle Royale (JR size works perfect with a 56L, reg size would work great with a 65L dry bag)
 ++ $50 56L SealLine Assault Dry Bag ILBE (NSN 8465-01-560-6727)
 ++ $20 Martexin or Obenauf's Heavy Duty LP Boot Preservative (for leather boots & bag straps)
-
-$30 Platypus GravityWorks 2.0L Dirty Reservoir Replacement Kit
-$50 Platypus GravityWorks spare filter
-$12 Platypus GravityWorks Universal Bottle Adaptor
-MSR spare fuel bottle & 2 childproof caps
-
-Mayfly chair
 Aquamira Water Treatment Drops (BEST - find on amazon)
 NRS hydroskin shirt
 TOAKS CKW-1100 Titanium Pot with Pan Perfect
@@ -118,7 +109,6 @@ _______ 1 small notebook and pencil (Optional)
 _______ 1 camera and film (Optional)
 _______ a book to read if desired
 small camp chair
-
 
 ## Worn clothes
 
