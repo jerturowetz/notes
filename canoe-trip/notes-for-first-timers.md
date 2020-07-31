@@ -4,12 +4,23 @@
 - Basic knots
 - Add notes bout food
 - Bear bag hanging
-- How to hang a bear sack
+- [How to hang a bear sack](https://www.youtube.com/watch?v=yAhWqbtd2p0)
 - [Lav Safety and Rules](http://www.canot-camping.ca/securyty-and-rules.html)
-- Add nmotes about not storing food in the tent
+- Add notes about not storing food in the tent
 - add notes bout clothing
+- [how to poop in the woods](https://www.youtube.com/watch?v=ZaOKKzpCjgA)
+- [advanced how to poop in the woods](https://www.youtube.com/watch?v=n2x-G7sXVs4)
+- [how to pack a bag](https://www.youtube.com/watch?v=4yt31hDdEuk)
+- [how to pack](https://www.youtube.com/watch?v=HugY6T3Dvho)
+- [baton wood](https://www.youtube.com/watch?v=cEvm7IOpLsE)
 
 ## Clothing
+
+
+Notes: stay away from blue
+no cotton (cotton t-shirts for example) and no jeans - this shit gets wet and drys slow
+pack a bathing suit but don't plan on wearing it during the canoing
+we're looking for protection from bugs, wind, rain & rocks
 
 This is only a guide to what you need for your trip. The important thing to remember is to try and stay away from cotton clothing as much as possible, or at least bring some along only for the hot days of your trip. Some of these items are optional so it is not necessary to have everything on this list. We supply waterproof barrels for storing your gear so do not worry about bringing a back pack. We will give you the barrels at the start of your trip. Try not to bring too much clothing. Canoes have limited space so we have to stay within these constraints. There is usually plenty of time to dry clothing if things get wet. If you do not have some of the required items please call us and we will try and locate suitable items. If possible bring your own sleeping bag and mat, however, these can be borrowed if you do not have your own.
 

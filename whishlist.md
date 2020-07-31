@@ -52,6 +52,8 @@ rolled gauze
 
 --
 
+- cooler
+- see throuhgh stuff sacks for baby bag
 - Wster bopttle cage & water bottle
 - bike rack
 - bicycle side bag

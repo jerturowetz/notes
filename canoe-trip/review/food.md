@@ -33,3 +33,8 @@ knorr sides
 seaweed
 
 no mess smores: sugar cones + cho chips + mini marshmellows + aluminum foil
+
+food
+ibstant coffee
+chocolate milk mix
+smores gear

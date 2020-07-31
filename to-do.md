@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- sharpen axe & machete
 - small piece of plastic or whatever for covering plug
 - Post dell on Kijiji
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)

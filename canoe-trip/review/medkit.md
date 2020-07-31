@@ -69,3 +69,8 @@
 - Antibiotic ointment
 - Quikclot or cornstarch as Antihemorrhagic (clotting agent)
 - Bug repellant
+
+
+pills holdrs
+small liquid containers, Nalegene 2oz little bottles
+Glowsticks
