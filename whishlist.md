@@ -1,20 +1,10 @@
 # Wishlist
 
-afterbite
-band aids
-alcohol swabs
-steribstrips
-3m tape
-thick tape
+akof mol lcohol swabs
 emergency blanket
-rubber gloves
-pro wrap
-advil
-rolled gauze
 
 ## For our camping trip
 
-- Roll of duct tape
 - can opener, bottle opener
 - bucket for dishes
 - Aluminum foil
