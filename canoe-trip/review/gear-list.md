@@ -1,5 +1,14 @@
 # Canoe trip gear list
 
+camp kitcheb
+wooden spatula
+stacking coffee cups
+cast iron
+2 burner stove
+better pan 
+
+
+
 $30-40 Gerber River Shorty, NRS Pilot or Co-Pilot (PDF knife)
 $120 Ontario RAT 7 Survival Knife or Buck Selkirk (Big Knife)
 $25 Gerber/Bear Grylls Scout Knife
@@ -67,78 +76,67 @@ muji folding toothbrush
 
 ## Personal items
 
-- small wallet
-- Life Jacket with quick release
-- Car bag (stuff sack full of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
-- Hiking or canoe pack
-- Polarized sunglasses & safety strap
-- Glasses & safety strap if necessary (no contacts please)
-- Paddling Gloves (optional) Bicycle gloves work well, as do NRS Boater's Gloves. If they can be clipped to a pack, even better.
-- Sleeping pad
-- Sleeping bag or camp quilt with w/compression stuff sac & liner
-- Small pack pillow
-- Water bladder or bottle. 1L smartwater bottles or lifewater bottles are great, especially with the sports cap for flushing a water filter. Nalgenes are fine, but better suited for canoing camping.
-- Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
-- Medium microfiber towel (optional)
-- Easy access stuff (like a z-packs dry bag):
-  - DEET Bug spray (nothing else works, seriously)
+- Ditty bag; like a z-packs dry bag, maybe a packing cube or 2
+  - small wallet & small sip sack
+  - Polarized sunglasses & safety strap
+  - Glasses & safety strap, if necessary (no contacts please)
+  - Medium microfiber towel (optional)
+  - DEET Bug spray
   - Fragrance Free sunscreen
   - small microfiber bandana, sweat rag or buff (i like buff Lightweight Merino Wool Neckwear)
   - lip balm
   - Small folding knife or pocket knife (no rambo knives or multi tools please) (Spyderco Ladybug)
   - Flashlight or headlamp
   - Small lighter like a bic mini
-  - Mini first aid kit
-  - canmera
-- Small toiletry bag (like a z-packs dry bag):
+  - camera
+  - notebook
+  - a book to read
+  - Unscented, alcohol-based gel hand sanitizer
+- Small toiletry cube:
   - biodegradable soap
   - toothbrush and toothpaste
   - small comb/brush (optional)
   - small microfiber washcloth (optional)
-  - Unscented, alcohol-based gel hand sanitizer
   - mini floss
-- sit pad(not inflatable) also a chair
-
-- bathroom kit
+  - personal medications (allergy pills)
+  - wipes
+- bathroom kit (in a stuff sack, can share)
   - Toilet paper roll in a ziplock bag
   - hand sanitizer
-  - trowel (for pooping) (can share)
-- ziplock bags
-_______ Any medications you will need to take during the trip (allergy medications etc.).
-_______ 1 small notebook and pencil (Optional)
-_______ 1 camera and film (Optional)
-_______ a book to read if desired
-small camp chair
+  - trowel
+  
+- Life Jacket with quick release & pockets
+- Car bag (3l or 5l stuff sack with of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
+- Hiking or canoe pack
+- Paddling Gloves (optional) Bicycle gloves work well, as do NRS Boater's Gloves. If they can be clipped to a pack, even better.
+- Sleeping pad
+- Sleeping bag or camp quilt with w/compression stuff sac & liner
+- Small pack pillow
+- Water bladder or bottle. 1L smartwater bottles or lifewater bottles are great, especially with the sports cap for flushing a water filter. Nalgenes are fine, but better suited for canoing camping.
+- Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
+- sit pad (not inflatable) or a camp chair
+- a spare stuff sack & ziplock bags (wet clothes, laundry)
 
 ## Worn clothes
 
-You can change into these when we arrive, just make sure to try to pack them seperatelty
+You can change into these when we arrive, just make sure to try to hav them accessible
 
 ** Move items here
 
 ## Spare Day clothes
 
 - nylon or fabric belt
-- wind shirt/jacket (Men's Copperfield Wind Shirt, Men's Torrid APEX Jacket Custom) (more for hikingntrips)
 - Wet shoes (support is important so day hike sneakers are good. these will get wet and muddy probs so not something too $$$, trail runners, Altra Lone Peak 3.5 Men's Trail Running Shoe)
-watershoes are kinda no no unless you wanna lash them to the outside of your bag
-
+- watershoes are kinda no no unless you wanna lash them to the outside of your bag
 - Sun hat/cap
-- merino t shirt (Merino Mens Tech Lite Short Sleeve T-Shirt)
 - wool socks (Darn Tough Hiker Micro Crew Cushion Sock - Men's)
-- Spare wool socks (Darn Tough Vermont Men's 1/4 Merino Wool Cushion Hiking Socks)
+- merino t shirt (Merino Mens Tech Lite Short Sleeve T-Shirt) x2
 - long sleeved shirt (Columbia Mens Silver Ridge Lite Long Sleeve Shirt)
 - pants/shorts
 - swimtrunks (?)
 - dirty girl gaiters
-_______ Underwear as needed. 2 pairs are usually sufficient for your trip.
-small nylon belt
-marino t shirt x2
-zip off pants
-roll up shirt
-mid layer hoodie
-base layer pants, shorts, tops
-
+- Underwear
+- something warm up top (fleece, wool sweater, jacket... something packable but water resistant)
 
 ## Camp clothes
 
@@ -151,6 +149,10 @@ _______ 2 pairs of medium weight wool hiking socks: Wool keeps your feet warm ev
 _______ Midweight Polypropylene Top/Wool Shirt - long sleeve
 _______ Midweight Pile Jacket /Wool Sweater - (ex. Polartec 200) two of these are nice to have in case one gets wet during the day.
 _______ Wind Jacket - nylon (can be same as rain jacket if waterproof/breathable - must fit over insulating layers)
+
+mid layer hoodie
+base layer pants, shorts, tops
+
 
 - Dry shoes (like moccasins, quick drying something packabe resistant to water)
 - clean, breathable long underwear top & bottom (merino patagonia or HH)
@@ -218,7 +220,7 @@ can opener & bottle opener (multitool?)
 sharp knife
 small cutting board
 silicone stasher bags
-pots & pans
+pots & pans (family set & personal set)
 tongs
 spatula
 cook spoon
@@ -226,7 +228,6 @@ campsuds
 - washing bin or sea to summit kitchen sink
 tiny cloth to pack with eating gear
 salt pepper shaker or pill case for spices
-tarp ?
 - Eating system
   - Titanium mugs or plastic bowls. Should match the food prep plan.
   - Insulated coffe mugs (yeti?)
@@ -237,7 +238,7 @@ zpacks food bag, ursack or bear container
 camp saw (silky gomboy 240)
 axe
 Heavy Duty Aluminum Foil
-10x10 sil nylon tarp ?
+tarp
 Camp Lantern
 
 ## Thwart Bag (Granite Gear / CSS)

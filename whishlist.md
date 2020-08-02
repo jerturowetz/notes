@@ -2,36 +2,20 @@
 
 ## Canadian tire
 
-- cheap non stick
 - Large camp pot
-- Spatulas/wooden spoon
-- tongs
-- camp grill
 - pot scraper
-- Water
-- cooler
-- baby pdf
-- Mosquito coils
+- 10l dry bag for kate
+- aonething to clean grill
+- canp chairs
+spreader
+small serrated knife
+collapsible version of bug alumibum tin (for keepinng food warm)
 
-## Grocery store
+good car camping kit (for feeling group of 8)
+4qt pot
+12" cast iron
+other pan
 
-Water
-Chk breasts
-Hot dogs
-Buns
-Dinner side for hot dogs
-Oatmeal packets
-Something for a side w/eggs
-Strawberries
-Hummus
-Peanut butter
-Some type of bready thing
-lunch x 2
-Yoguret
-Granola
-Pancake mix
-bananas
-dried fruit
 
 ## Other
 
