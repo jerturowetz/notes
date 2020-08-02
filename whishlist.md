@@ -1,49 +1,8 @@
 # Wishlist
 
-## Canadian tire
-
-- Large camp pot
-- pot scraper
-- 10l dry bag for kate
-- aonething to clean grill
-- canp chairs
-spreader
-small serrated knife
-collapsible version of bug alumibum tin (for keepinng food warm)
-
-good car camping kit (for feeling group of 8)
-4qt pot
-12" cast iron
-other pan
-
-
-## Other
-
-- daiper genie refills
-- More white socks
-- Baby locks for under sinks
-- Small baby cream for diaper bag
-
---
-
-- cooler
-- see throuhgh stuff sacks for baby bag
-- Wster bopttle cage & water bottle
-- bike rack
-- bicycle side bag
-- Mec dry bag for bathing suits
-- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
-- $100 fer sher
-- [Ass saver](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
-- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
-
---
-
 Container store:
 
 - 3 small freezer bins
-- 2 large plastic (under cabinets)
-- 1 metal (under cabinets)
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 
 --
@@ -63,6 +22,16 @@ Home Depot:
 
 --
 
+- daiper genie refills
+- More white socks
+- Small baby cream for diaper bag
+- Wster bopttle cage & water bottle
+- back bike rack
+- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
+- Mec dry bag for bathing suits
+- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
+- $100 fer sher
+- [Ass saver](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [McLaren replacement screen](https://www.maclaren.us/collections/parts-quest/products/quest-shopping-basket-silver)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
@@ -73,6 +42,7 @@ Home Depot:
 - Gear to patch hole behind stove
 - replacement dell power brick
 - screws storage
+- see throuhgh stuff sacks for baby bag
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2

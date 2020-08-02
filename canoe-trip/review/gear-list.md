@@ -5,7 +5,25 @@ wooden spatula
 stacking coffee cups
 cast iron
 2 burner stove
-better pan 
+better pan
+- cooler
+
+
+
+- Large camp pot
+- pot scraper
+- 10l dry bag for kate
+- aonething to clean grill
+- canp chairs
+- spreader
+- small serrated knife
+- collapsible version of bug alumibum tin (for keepinng food warm)
+
+good car camping kit (for feeling group of 8)
+4qt pot
+12" cast iron
+other pan
+
 
 
 
@@ -104,7 +122,7 @@ muji folding toothbrush
   - Toilet paper roll in a ziplock bag
   - hand sanitizer
   - trowel
-  
+
 - Life Jacket with quick release & pockets
 - Car bag (3l or 5l stuff sack with of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
 - Hiking or canoe pack
