@@ -6,27 +6,35 @@ stacking coffee cups
 cast iron
 2 burner stove
 better pan
+- Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
 - cooler
-
-
-
-- Large camp pot
 - pot scraper
 - 10l dry bag for kate
-- aonething to clean grill
-- canp chairs
+- sonething to clean grill
+- small canp chairs
 - spreader
 - small serrated knife
 - collapsible version of bug alumibum tin (for keepinng food warm)
 
 good car camping kit (for feeling group of 8)
-4qt pot
-12" cast iron
-other pan
+
+- 4qt pot
+- 12" cast iron
+- other pan
+
+- tent footprint
+- big water jug with spout
+- abrasive scrub pads
+Rags for mess kit (paper towel alternative)
+mosquito coils
+large camp kitchen bin
+cheap leather gardening gloves
 
 
+- Life Jacket with quick release & pockets
 
 
+(Spyderco Ladybug)
 $30-40 Gerber River Shorty, NRS Pilot or Co-Pilot (PDF knife)
 $120 Ontario RAT 7 Survival Knife or Buck Selkirk (Big Knife)
 $25 Gerber/Bear Grylls Scout Knife
@@ -94,46 +102,44 @@ muji folding toothbrush
 
 ## Personal items
 
-- Ditty bag; like a z-packs dry bag, maybe a packing cube or 2
-  - small wallet & small sip sack
-  - Polarized sunglasses & safety strap
-  - Glasses & safety strap, if necessary (no contacts please)
-  - Medium microfiber towel (optional)
-  - DEET Bug spray
-  - Fragrance Free sunscreen
-  - small microfiber bandana, sweat rag or buff (i like buff Lightweight Merino Wool Neckwear)
-  - lip balm
-  - Small folding knife or pocket knife (no rambo knives or multi tools please) (Spyderco Ladybug)
-  - Flashlight or headlamp
-  - Small lighter like a bic mini
-  - camera
-  - notebook
-  - a book to read
-  - Unscented, alcohol-based gel hand sanitizer
-- Small toiletry cube:
-  - biodegradable soap
-  - toothbrush and toothpaste
-  - small comb/brush (optional)
-  - small microfiber washcloth (optional)
-  - mini floss
-  - personal medications (allergy pills)
-  - wipes
-- bathroom kit (in a stuff sack, can share)
-  - Toilet paper roll in a ziplock bag
-  - hand sanitizer
-  - trowel
-
-- Life Jacket with quick release & pockets
-- Car bag (3l or 5l stuff sack with of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
+- Life Jacket
 - Hiking or canoe pack
 - Paddling Gloves (optional) Bicycle gloves work well, as do NRS Boater's Gloves. If they can be clipped to a pack, even better.
 - Sleeping pad
 - Sleeping bag or camp quilt with w/compression stuff sac & liner
 - Small pack pillow
 - Water bladder or bottle. 1L smartwater bottles or lifewater bottles are great, especially with the sports cap for flushing a water filter. Nalgenes are fine, but better suited for canoing camping.
-- Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
-- sit pad (not inflatable) or a camp chair
-- a spare stuff sack & ziplock bags (wet clothes, laundry)
+- Personal water filter (sawyer squeeze)
+- sit pad (not inflatable) or a small camp chair
+- spare stuff sack & ziplock bags (wet clothes, laundry)
+- Ditty bag (small dry bag, maybe include a small packing cube or 2):
+  - Wallet & small sip sack
+  - Sunglasses (and regular glasses if necesary) & safety strap. No contacts please
+  - DEET Bug spray
+  - Fragrance free sunscreen
+  - Medium microfiber towel (optional)
+  - Small microfiber bandana, sweat rag or buff
+  - Lip balm
+  - Unscented, alcohol-based gel hand sanitizer
+  - Small folding knife or pocket knife (no rambo knives or multi tools please)
+  - Flashlight or headlamp
+  - Small bic lighter
+  - Camera
+  - Notebook
+  - A book to read
+- Small toiletry cube:
+  - Biodegradable soap
+  - Toothbrush and toothpaste
+  - Small comb/brush (optional)
+  - Small microfiber washcloth (optional)
+  - Floss
+  - Personal medications (allergy pills)
+  - Wipes
+- Bathroom kit (in a stuff sack, can share)
+  - Toilet paper roll in a ziplock bag
+  - Hand sanitizer
+  - Trowel
+- Car bag (3l or 5l stuff sack with of clean clothes, socks & underwear you wanna wear on the way home, pack of wipes, anti persperant)
 
 ## Worn clothes
 
