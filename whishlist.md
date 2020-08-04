@@ -1,5 +1,9 @@
 # Wishlist
 
+bike kit for rain
+socks, shorts, underwear, jacket
+ass saver or fender
+
 Container store:
 
 - 3 small freezer bins
