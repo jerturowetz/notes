@@ -2,6 +2,8 @@
 
 ## Learn
 
+- we went here with bigger is better: https://www.sepaq.com/rf/mas/index.dot?language_id=1
+- Check out Lat de poisson blanc here: https://poissonblanc.ca/en/. Morgane went there and it looks lovely
 - sharpen axe & machete
 - $500 FQCK (Fédération québécoise du canot et du kayak) lifetime membership
 - make roap kits https://www.youtube.com/watch?v=h_Av_751ysI
