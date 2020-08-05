@@ -6,6 +6,7 @@ leuko tape
 stacking coffee cups
 cast iron
 2 burner stove
+lucie lux lamp
 better pan
 https://www.amazon.com/gp/product/B005BV87WQ/ref=as_li_tl?ie=UTF8&tag=darwionthe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005BV87WQ&linkId=12dae31aa7b1b2875aba76792dfd0103
 - Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
