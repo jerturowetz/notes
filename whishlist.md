@@ -1,5 +1,7 @@
 # Wishlist
 
+cheap zip tie bike lock
+ice packs for our little cooler 
 $40 raoul
 
 bike kit for rain
