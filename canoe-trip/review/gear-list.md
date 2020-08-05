@@ -1,11 +1,14 @@
 # Canoe trip gear list
-
+https://www.mec.ca/en/product/6001-309/Coolmax-Liner-Socks
 camp kitcheb
 wooden spatula
+leuko tape
 stacking coffee cups
 cast iron
 2 burner stove
+lucie lux lamp
 better pan
+https://www.amazon.com/gp/product/B005BV87WQ/ref=as_li_tl?ie=UTF8&tag=darwionthe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005BV87WQ&linkId=12dae31aa7b1b2875aba76792dfd0103
 - Personal water filter (sawyer squeeze? can be combined with evernew bladder or smartwater bottles or Cnoc Outdoors 2020 VECTO 2L Water Container, sawer ring adaptor for water bottles)
 - cooler
 - pot scraper
@@ -15,6 +18,7 @@ better pan
 - spreader
 - small serrated knife
 - collapsible version of bug alumibum tin (for keepinng food warm)
+- [Ultralight trowel](http://www.thetentlab.com/Deuce/DeuceofSpadespage.html)
 
 good car camping kit (for feeling group of 8)
 
@@ -222,22 +226,20 @@ sailing needle
 #36 Tarred Bankline (twisted, not braided)
 Pro throw bags w/ Glowsticks
 
-
 ## Camp gear
 
-- [Ultralight trowel](http://www.thetentlab.com/Deuce/DeuceofSpadespage.html)
 - Fire starters
-- Fire grill
 - Toilet paper
-- Optionally larger first aid kit
+- First aid kit
 - tent, tent footprint, tent stakes & small towels (luightload towel)
-- over fire grill
 - cook system:
   - Stove & fuel (? how much fuel) (zpacks stuff sack?) MSR pocketrocket stove
   - 12x245 Lightload towel for drying stuff and stopping stove from banging around
   - Bic mini lighter
   - https://zpacks.com/collections/cooking-water
   - pot scraper
+  - Fire grill
+
 scrubbies
 matches & holder
 can opener & bottle opener (multitool?)
