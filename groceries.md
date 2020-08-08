@@ -1,19 +1,12 @@
 # Meal plan
 
-
-Cottage meal plan
-pizzas
-
-
-
-
-- [Slow-Roast Gochujang Chicken](https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken)
-- [Whatever from here](https://www.bonappetit.com/story/yia-vang-hmong-cuisine)
-- something with red beans
-- something with tahini
-- something with soy paste
-- something with quinoas
-- Something with hoisin sauce
+- Pizza night w/salad
+- Porc shoulder w/sauces & roast broccoli & pataes
+- Meat sauce & pasta
+- Mimi/Dea something
+- Ribs & ???
+- Angilotti
+- Steak and cacio e pepe
 
 ## Spice store
 
@@ -26,29 +19,61 @@ pizzas
 - noodles
 - dumplings x3
 
+## Maison des roties
+
+- Ribs
+- Steak
+- 1 more dinner
+
 ## Grocery store
 
-- stawberries
-- ice cream sandwiches
-- advil
-- Whole milk
-- Milk for the folks
-- fries
-- Bleach
-- coke
-- blueberries & strawberries
+- Blueberries & straberries
+- Plums
 - Bananas
-- Dijon
-- Mayonnaise
-- Bread
+- Oranges
+- 2 limes
+- small tomatoes
+- large tomatoe
+- lemon
+- Fennel
+- garlic x2
+- Broccolis
+- baby carrots
+- ssmall potatoes
+
+--
+
+- Swiss cheese
+- Emmental
+- Sandwitch meats
+
+--
+
 - English muffins
 
-baby cereal
-banans
-bread
-plums
+--
 
-dinner?
-dijon
-baby dinner?
+- pepperoni
+- Sausage (pizza)
+- Sausage (breakfast)
+- chk breast for baby
 
+--
+
+- Linguini/spaghetti
+- Dijon
+- Mayonnaise
+- rice crackers
+- pancake mix
+- Ganola
+
+--
+
+- Milk
+- Yogurt
+
+--
+
+- Drinks (coke, OJ, Beer)
+- baby cereal
+- other baby snacks?
