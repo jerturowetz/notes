@@ -1,13 +1,11 @@
 # Wishlist
 
+lightning cable for office
 cheap zip tie bike lock
-ice packs for our little cooler 
+ice packs for our little cooler
 work drawer organizer
 work small toilerty case
 works small clothes stuff sack
-
-$40 raoul
-
 bike kit for rain
 socks, shorts, underwear, jacket
 ass saver or fender
