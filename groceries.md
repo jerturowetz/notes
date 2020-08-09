@@ -19,61 +19,8 @@
 - noodles
 - dumplings x3
 
-## Maison des roties
-
-- Ribs
-- Steak
-- 1 more dinner
-
 ## Grocery store
 
-- Blueberries & straberries
-- Plums
-- Bananas
-- Oranges
-- 2 limes
-- small tomatoes
-- large tomatoe
-- lemon
-- Fennel
-- garlic x2
-- Broccolis
-- baby carrots
-- ssmall potatoes
-
---
-
-- Swiss cheese
-- Emmental
-- Sandwitch meats
-
---
-
-- English muffins
-
---
-
-- pepperoni
-- Sausage (pizza)
-- Sausage (breakfast)
-- chk breast for baby
-
---
-
-- Linguini/spaghetti
-- Dijon
-- Mayonnaise
-- rice crackers
-- pancake mix
-- Ganola
-
---
-
-- Milk
-- Yogurt
-
---
-
-- Drinks (coke, OJ, Beer)
-- baby cereal
-- other baby snacks?
+- Drinks (coke, Beer)
+- coffee
+- #4 coffee filters
