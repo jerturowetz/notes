@@ -24,3 +24,6 @@
 - Drinks (coke, Beer)
 - coffee
 - #4 coffee filters
+- Sandwitch ingredients
+- Olive oil
+- ice cream
