@@ -1,22 +1,5 @@
 # Wishlist
 
-lightning cable for office
-cheap zip tie bike lock
-ice packs for our little cooler
-work drawer organizer
-work small toilerty case
-works small clothes stuff sack
-bike kit for rain
-socks, shorts, underwear, jacket
-ass saver or fender
-
-Container store:
-
-- 3 small freezer bins
-- [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
-
---
-
 Home Depot:
 
 - [Measuring tape](https://www.homedepot.ca/product/fatmax-30-ft-special-edition-tape-measure/1000668500)
@@ -32,23 +15,26 @@ Home Depot:
 
 --
 
+- [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - daiper genie refills
-- More white socks
 - Small baby cream for diaper bag
-- Wster bopttle cage & water bottle
+- Water bopttle cage & water bottle
 - back bike rack
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Mec dry bag for bathing suits
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
-- [Ass saver](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
+cheap zip tie bike lock
+work drawer organizer
+work small toilerty case
+works small clothes stuff sack
+bike kit for rain
+- [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [McLaren replacement screen](https://www.maclaren.us/collections/parts-quest/products/quest-shopping-basket-silver)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
-- Milk Crates (4 for hall closet, 2 for jam space, 2 for shed)
-- Replace brass cabinet latch (Etsy?)
 - Gear to patch hole behind stove
 - replacement dell power brick
 - screws storage
@@ -64,8 +50,6 @@ Home Depot:
   - [Paperole shirts](https://www.paperole.com/)
 - Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
-- Mini cooler
-- picnic blanket
 
 ## Boots/shoes
 
