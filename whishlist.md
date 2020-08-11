@@ -15,20 +15,20 @@ Home Depot:
 
 --
 
+- packing cubes
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
-- daiper genie refills
+- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Small baby cream for diaper bag
 - Water bopttle cage & water bottle
 - back bike rack
-- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Mec dry bag for bathing suits
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
-cheap zip tie bike lock
-work drawer organizer
-work small toilerty case
-works small clothes stuff sack
-bike kit for rain
+- cheap zip tie bike lock
+- work drawer organizer
+- work small toilerty case
+- works small clothes stuff sack
+- bike kit for rain
 - [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [McLaren replacement screen](https://www.maclaren.us/collections/parts-quest/products/quest-shopping-basket-silver)
@@ -48,7 +48,6 @@ bike kit for rain
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
-- Earplugs (for Kate)
 - $200 Angelo, Andrew, Joe gifts
 
 ## Boots/shoes

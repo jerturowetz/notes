@@ -21,9 +21,18 @@
 
 ## Grocery store
 
-- Drinks (coke, Beer)
-- coffee
-- #4 coffee filters
+- bananas
+- hard peaches
+- 1 corn
+- 2 apples
+- plums
+- baby potatoes
 - Sandwitch ingredients
+- bread
+- eggs
+- baby milk
+- Drinks (coke, Beer)
+- #4 coffee filters
 - Olive oil
 - ice cream
+- something to steam the ribs
