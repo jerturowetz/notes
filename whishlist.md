@@ -12,6 +12,8 @@ Home Depot:
 - [Bosch blue granite Bit Set](https://www.homedepot.ca/product/bosch-5-piece-bluegranite-turbo-carbide-hammer-drill-bits-set/1000476795)
 - [RIDGID 22-Inch Pro Box Tool Bin in Black](https://www.homedepot.ca/product/ridgid-22-inch-pro-box-tool-bin-in-black/1001010726)
 - [4 stackable bins](https://homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012)
+- [Milwaukee Tool PACKOUT 22-inch Tool Box-L](https://www.homedepot.ca/product/milwaukee-tool-packout-22-inch-tool-box-l/1001242092)
+- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 
 --
 
@@ -22,23 +24,21 @@ Home Depot:
 - Water bopttle cage & water bottle
 - back bike rack
 - Mec dry bag for bathing suits
-- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - $100 fer sher
-- cheap zip tie bike lock
 - work drawer organizer
 - work small toilerty case
 - works small clothes stuff sack
 - bike kit for rain
+- Gear to patch hole behind stove
+- replacement dell power brick
+- screws storage
+- see throuhgh stuff sacks for baby bag
 - [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [McLaren replacement screen](https://www.maclaren.us/collections/parts-quest/products/quest-shopping-basket-silver)
 - [floral scissors](https://www.amazon.ca/Housolution-Scissors-Trimming-Gardening-Arrangement/dp/B07GBN8F6Z?th=1)
 - [Home garden set](https://www.amazon.ca/Durable-Gardening-Ergonomic-Resistant-Gardener/dp/B0876WX9P9/)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
-- Gear to patch hole behind stove
-- replacement dell power brick
-- screws storage
-- see throuhgh stuff sacks for baby bag
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
