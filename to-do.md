@@ -1,6 +1,5 @@
 # Jeremy's To-Do List
 
-- small piece of plastic or whatever for covering plug
 - Post dell on Kijiji
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Reactivate td savings auto deposit
@@ -14,7 +13,6 @@
 - Pick up drums chez Mike M
 - GASM follow up
 - Dermatologist follow up
-- review SEO and localization cheat sheet
 - Call Equifax re RBC accounts pre bankruptcy 1-866-828-5961 (press 7)
 - [Hydro Quebec Electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
