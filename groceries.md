@@ -16,10 +16,13 @@
 
 ## Grocery store
 
-- bananas
-- hard peaches
-- apples
-- plums
+- strawberries & blueberries
+- hard peaches/plums
 - Sandwitch ingredients
 - bread
 - eggs
+- dish soap
+- coffee
+- veg for stir fry
+- weekday lunch (carrots, roast beef, chicken, whatevr)
+- peper towels
