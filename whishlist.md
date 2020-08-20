@@ -1,30 +1,18 @@
-  # Wishlist
+# Wishlist
 
-saq boxes
-hardware store (screws, patcj stuff)
-dollar store (bibvle wrap)
-  
-  
-frames:
-shark lady: 16 3/4 x 15 (16 x 18 1/2 with mat)
-belgrade map 16 1/2 x 23 1/2
-
-dollar atore bubble wrap
-patxhing atuff
-
-
-
-office packing cube for unito clothes & one for personal spare clothers
-office toiletry kit
-office cable organizer
-office mini tape measure
-office deep drawer organizer
-office cable clip
-
+- Office stuff:
+  - packing cube for unito clothes & one for personal spare clothers
+  - toiletry kit
+  - cable organizer
+  - mini tape measure
+  - deep drawer organizer
+  - cable clip
+  - https://www.amazon.ca/slp/cable-holder/6ucbwbqahhf46x4
+  - https://www.buzzfeed.com/reviews/best-tech-organizer-bags/
+- saq boxes
+- hardware store (screws, patching stuff)
 - rite in the rain expedition journal (many) (cover)
 - rite in the rain cert guide (cover)
-
-
 - Small baby cream for diaper bag
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
@@ -50,6 +38,9 @@ office cable clip
   - [Paperole shirts](https://www.paperole.com/)
 - $200 Angelo, Andrew, Joe gifts
 - [weber charcoal holders](https://www.homedepot.ca/product/weber-char-basket-charcoal-fuel-holders/1000689190)
+- frames:
+  - shark lady: 16 3/4 x 15 (16 x 18 1/2 with mat)
+  - belgrade map 16 1/2 x 23 1/2
 
 ## Boots/shoes
 

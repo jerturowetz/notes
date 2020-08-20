@@ -1,7 +1,6 @@
 # Meal plan
 
-- fish & Angilotti
-- Steak and cacio e pepe
+- ???
 
 ## Spice store
 
@@ -16,13 +15,7 @@
 
 ## Grocery store
 
-- strawberries & blueberries
-- hard peaches/plums
-- Sandwitch ingredients
+- Sandwich ingredients
 - bread
-- eggs
-- dish soap
-- coffee
-- veg for stir fry
 - weekday lunch (carrots, roast beef, chicken, whatevr)
 - peper towels
