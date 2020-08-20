@@ -1,5 +1,16 @@
 # Wishlist
 
+office packing cube for unito clothes & one for personal spare clothers
+office toiletry kit
+office cable organizer
+office mini tape measure
+office deep drawer organizer
+office cable clip
+
+- rite in the rain expedition journal (many) (cover)
+- rite in the rain cert guide (cover)
+
+
 - Small baby cream for diaper bag
 - Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
