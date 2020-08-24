@@ -1,7 +1,30 @@
 # Wishlist
 
+
+
+desk 30"x59"
+
+riser 47x10.5"
+
+
+
+carpenters square
+mesh drywall tape
+screws storage
+
+other rigid bin/toolbox for drills
+
+
+small plastic bags with label area 
+
+
+
+arkel pannier
+
+
+
 - Office stuff:
-  - packing cube for unito clothes & one for personal spare clothers
+  - packing cube for unito   & one for personal spare clothers
   - toiletry kit
   - cable organizer
   - mini tape measure
