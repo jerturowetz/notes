@@ -2,9 +2,13 @@
 
 
 
+did i give kate rent on last pay?
+
 desk 30"x59"
 
 riser 47x10.5"
+
+advise movers of construction 
 
 
 
