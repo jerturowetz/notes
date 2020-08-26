@@ -16,8 +16,6 @@
 ## Grocery store
 
 - Sandwich ingredients
-- weekday lunch (, roast beef, chicken, whatevr)
-- fruits
-- broccolis
-- baby cereal bars
-- peanut butter
+- Peanut butter
+- Fruits
+- Broccolis
