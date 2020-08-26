@@ -1,32 +1,7 @@
 # Wishlist
 
-kijiji baby bike seat
-
-did i give kate rent on last pay?
-
-desk 30"x59"
-
-riser 47x10.5"
-
-advise movers of construction 
-
-
-
-carpenters square
-mesh drywall tape
-screws storage
-
-other rigid bin/toolbox for drills
-
-
-small plastic bags with label area 
-
-
-
-arkel pannier
-
-
-
+- mesh drywall tape
+- [Ridgid small parts organizer](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
 - Office stuff:
   - packing cube for unito   & one for personal spare clothers
   - toiletry kit
@@ -34,14 +9,12 @@ arkel pannier
   - mini tape measure
   - deep drawer organizer
   - cable clip
-  - https://www.amazon.ca/slp/cable-holder/6ucbwbqahhf46x4
-  - https://www.buzzfeed.com/reviews/best-tech-organizer-bags/
-- saq boxes
-- hardware store (screws, patching stuff)
+- baby bike seat (kijiji)
+- desk 30" x 60" ish
+- monitor riser 10.5" x 45" ish
 - rite in the rain expedition journal (many) (cover)
 - rite in the rain cert guide (cover)
 - Small baby cream for diaper bag
-- Rona: Both tapered & round top #6, #8 & #10 screws (square or star drive if possible)
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Water bottle cage & water bottle
@@ -51,6 +24,7 @@ arkel pannier
 - bike kit for rain
 - replacement dell power brick
 - Home gardening kit
+- small plastic bags with label area
 - [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
