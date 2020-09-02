@@ -1,6 +1,46 @@
 # Wishlist
 
-- mesh drywall tape
+
+8:30-9:00 thanks, this is important, reminder there is additional reading
+8:45-9:00 Gab reads a sales deck
+9:00-9:10 Laura reminds there is additional reading material. reads terminology items from workflow bible
+9:10- Graham reads from pricing deck (OKR review & )
+
+
+
+
+outdoor broom
+long wood screws
+atepping stool for shed
+shelf unit for shed
+shelf divider for shed (approx 10")
+extra magnetic key baby proofing 
+better toulet seat
+small & large zip ties
+bathtub plug
+
+
+32.5
+30.5
+69.5
+
+counter depth is 25"
+
+
+curtains & rods
+
+
+
+
+
+
+
+outdoor broom
+planting kit
+dimmers, hire an electrician to remove plug socket behind fridge
+
+
+
 - [Ridgid small parts organizer](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
 - Office stuff:
   - packing cube for unito   & one for personal spare clothers

@@ -18,4 +18,10 @@
 - Sandwich ingredients
 - Peanut butter
 - Fruits
-- Broccolis
+- soy sauce
+- sesame oil
+- rice vinegar
+- mayo
+- syrop
+- small compost bags
+- jug of water
