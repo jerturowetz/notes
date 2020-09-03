@@ -1,5 +1,13 @@
 # Gift Ideas
 
+
+[Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat?cp=null)
+
+[Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
+[Nameplace necklace](https://themjewelersny.com/collections/personalized/products/the-nameplate-necklace)
+
+[Adam driver mug](https://www.etsy.com/listing/739419654/adam-driver-mug-custom-celebrity-gift-11?variation0=1254658415)
+[Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
 [Kate choker](https://en.horacejewelry.com/)
 Kate bike water bottle & holder
 cathy meat thermometer
@@ -9,6 +17,8 @@ winter day horse trip
 kate ultra portable phone charger
 Kate bike https://www.prioritybicycles.com/products/thegotham?aff=3
 ricardo kucthen thermkmeter can be moubted to pot for deep frying
+
+[Sweatpants](https://shop.jennylewis.com/collections/unisex/products/blue-heads-gonna-roll-sweatpants?variant=28006551617601)
 
 ## Kate
 
