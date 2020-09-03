@@ -1,38 +1,33 @@
 # Gift Ideas
 
+## Various
 
-[Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat?cp=null)
-
-[Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
-[Nameplace necklace](https://themjewelersny.com/collections/personalized/products/the-nameplate-necklace)
-
-[Adam driver mug](https://www.etsy.com/listing/739419654/adam-driver-mug-custom-celebrity-gift-11?variation0=1254658415)
-[Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
-[Kate choker](https://en.horacejewelry.com/)
-Kate bike water bottle & holder
-cathy meat thermometer
-good bluetooth headphones for max
-piano for sandra
-winter day horse trip
-kate ultra portable phone charger
-Kate bike https://www.prioritybicycles.com/products/thegotham?aff=3
-ricardo kucthen thermkmeter can be moubted to pot for deep frying
-
-[Sweatpants](https://shop.jennylewis.com/collections/unisex/products/blue-heads-gonna-roll-sweatpants?variant=28006551617601)
+Good bluetooth headphones for max
+Piano for sandra
 
 ## Kate
 
-- [Bon apetit print](https://pichipichipress.ecwid.com/PREORDER-Bon-App%C3%A9tit-11x17-Print-p170841420)
+- Horse trips in gore quebec
+- Water bottle & holder for bike
 - Kobo
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
 - [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
+- [Sweatpants](https://shop.jennylewis.com/collections/unisex/products/blue-heads-gonna-roll-sweatpants?variant=28006551617601)
+- Kate bike water bottle & holder
+- [Kate bike](https://www.prioritybicycles.com/products/thegotham?aff=3)
+- [Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat)
+- [Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
+- [Nameplace necklace](https://themjewelersny.com/collections/personalized/products/the-nameplate-necklace)
+- [Adam driver mug](https://www.etsy.com/listing/739419654/adam-driver-mug-custom-celebrity-gift-11?variation0=1254658415)
+- [Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
+- [Kate choker](https://en.horacejewelry.com/)
 - Matador camera case
 - Roots gift cert
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
 - Carpentry class gift cert
-- Banjo lessons with Mara Eagle
+- Banjo lessons with Mara Eagle (no longer gives lessonsd)
 - Avada Products
 - Woodworking school gift cert
 - Books:

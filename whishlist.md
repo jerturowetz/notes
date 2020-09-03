@@ -11,19 +11,7 @@ extra magnetic key baby proofing
 better toulet seat
 small & large zip ties
 bathtub plug
-
-
-32.5
-30.5
-69.5
-
-
-counter depth is 25"
-
 curtains & rods
-
-
-
 outdoor broom
 planting kit
 dimmers, hire an electrician to remove plug socket behind fridge
@@ -31,6 +19,7 @@ dimmers, hire an electrician to remove plug socket behind fridge
 
 
 - [Ridgid small parts organizer](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
+
 - Office stuff:
   - packing cube for unito   & one for personal spare clothers
   - toiletry kit
