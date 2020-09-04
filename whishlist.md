@@ -9,6 +9,16 @@
 9:00-9:10 Laura reminds there is additional reading material. reads terminology items from workflow bible
 9:10- Graham reads from pricing deck (OKR review & )
 
+$120 Voyager 5200 headset
+$120 Jabra Steel Ruggedized Bluetooth Headset
+
+
+
+"wpcli:symlink-mounted-folders": "MSYS_NO_PATHCONV=1 docker-compose run --rm wp-cli bash /var/www/html/.scripts/symlink-mounted-folders.sh",
+
+
+
+
 
 
 [Twinkle lights](https://www.amazon.com/dp/B01GEFUB5I)
