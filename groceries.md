@@ -25,3 +25,23 @@
 - syrop
 - small compost bags
 - jug of water
+
+milk
+mayo
+butter
+
+rona kitchen cabinet shelf clips 
+non stick
+washing machine soap
+
+
+drawer rails
+more baby locks
+
+other ivar shelf
+
+how to bestbuse a lazy susan 
+bathtub plug
+cutleru drawr inset
+extend internet to kitchen
+
