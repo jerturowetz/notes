@@ -1,5 +1,13 @@
 # Wishlist
 
+- doorbell doesnt work
+- clean stove fan exhaust
+- replace stove fan filters
+
+
+
+
+
 - indoor baby gate
 - baby bike seat (kijiji)
 - IKEA:
