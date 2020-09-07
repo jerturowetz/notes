@@ -4,7 +4,6 @@ IKEA
 [BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
 [RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
 
-https://www.amazon.ca/Drapery-Curtain-Rings-Eyelet-Diameter/dp/B07SBYXSGH/
 
 
 ---
@@ -12,13 +11,6 @@ https://www.amazon.ca/Drapery-Curtain-Rings-Eyelet-Diameter/dp/B07SBYXSGH/
 
 
 
-
-$120 Voyager 5200 headset
-$120 Jabra Steel Ruggedized Bluetooth Headset
-
-
-
-"wpcli:symlink-mounted-folders": "MSYS_NO_PATHCONV=1 docker-compose run --rm wp-cli bash /var/www/html/.scripts/symlink-mounted-folders.sh",
 
 
 
@@ -40,6 +32,22 @@ curtains & rods
 outdoor broom
 planting kit
 dimmers, hire an electrician to remove plug socket behind fridge
+
+
+
+
+9.25 x 18.5 drawer insert for cutleryp
+
+extendcwifi
+drawrr rails
+
+
+
+$120 Voyager 5200 headset
+$120 Jabra Steel Ruggedized Bluetooth Headset
+
+
+
 
 
 
