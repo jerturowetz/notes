@@ -1,5 +1,6 @@
 # Wishlist
 
+- indoor baby gate
 - baby bike seat (kijiji)
 - IKEA:
   - [BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
