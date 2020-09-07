@@ -1,10 +1,5 @@
 # Jeremy's To-Do List
 
-Salut! Oui, tout se passe bien merci :) J’espère que ça va bien pour vous aussi !
-Pour le poêle, la largeur est de 30’’ (assez flush!) et profondeur du comptoir 25’’1/2
-Pour le frigo, la largeur est de 33’’ et la profondeur de l’armoire est de 26’’1/2
-Avez-vous besoin des mesures pour la laveuse et sécheuse aussi? C’est 60’’ de large d’espace total et 25’’ de profondeur pour le comptoir
-
 - iPhone repair:
   - battery replace
   - get photos off (pink) old phone

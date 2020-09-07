@@ -1,71 +1,31 @@
 # Wishlist
 
-IKEA
-[BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
-[RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-[Twinkle lights](https://www.amazon.com/dp/B01GEFUB5I)
-
-outdoor broom
-long wood screws
-atepping stool for shed
-shelf unit for shed
-shelf divider for shed (approx 10")
-extra magnetic key baby proofing
-better toulet seat
-small & large zip ties
-bathtub plug
-curtains & rods
-outdoor broom
-planting kit
-dimmers, hire an electrician to remove plug socket behind fridge
-
-
-
-
-9.25 x 18.5 drawer insert for cutleryp
-
-extendcwifi
-drawrr rails
-
-
-
-$120 Voyager 5200 headset
-$120 Jabra Steel Ruggedized Bluetooth Headset
-
-
-
-
-
-
+- baby bike seat (kijiji)
+- IKEA:
+  - [BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
+  - [RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
+  - [Extra IVAR shelf](https://www.ikea.com/ca/en/p/ivar-shelf-pine-30318163/)
+- RONA:
+  - drawer rails
+  - cutlery drawr inset (9.25 x 18.5)
+  - staple gun for cables
+- Drawer organizers
+- little wire baskets for napkinsxs
+- Non-stick pan
+- Shed:
+  - Under shelf wired baskets
+  - Outdoor broom
+  - Shelf unit for flower stuff (get dimensions)
+  - shelf divider (approx 10")
 - [Ridgid small parts organizer](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
-
 - Office stuff:
   - packing cube for unito   & one for personal spare clothers
   - toiletry kit
   - cable organizer
-  - mini tape measure
   - deep drawer organizer
-  - cable clip
-- baby bike seat (kijiji)
-- desk 30" x 60" ish
 - monitor riser 10.5" x 45" ish
 - rite in the rain expedition journal (many) (cover)
 - rite in the rain cert guide (cover)
-- Small baby cream for diaper bag
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Water bottle cage & water bottle
@@ -75,6 +35,7 @@ $120 Jabra Steel Ruggedized Bluetooth Headset
 - bike kit for rain
 - replacement dell power brick
 - Home gardening kit
+- [Twinkle lights](https://www.amazon.com/dp/B01GEFUB5I)
 - small plastic bags with label area
 - [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
@@ -93,6 +54,7 @@ $120 Jabra Steel Ruggedized Bluetooth Headset
 - frames:
   - shark lady: 16 3/4 x 15 (16 x 18 1/2 with mat)
   - belgrade map 16 1/2 x 23 1/2
+- $120 Voyager 5200 headset or Jabra Steel Ruggedized Bluetooth Headset
 
 ## Boots/shoes
 
