@@ -2,6 +2,9 @@
 
 9.25 x 18.5 drawer insert for cutleryp
 
+compost bin
+extendcwifi
+drawrr rails 
 
 
 8:30-9:00 thanks, this is important, reminder there is additional reading

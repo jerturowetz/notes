@@ -45,3 +45,8 @@ bathtub plug
 cutleru drawr inset
 extend internet to kitchen
 
+
+
+ext cord w wall mountable box 4 closet
+staple gun for cables
+
