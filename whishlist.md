@@ -1,18 +1,12 @@
 # Wishlist
 
+
+drawer is 17" raîl is 19&1/4"
 - doorbell doesnt work
 - clean stove fan exhaust
 - replace stove fan filters
-
-
-
-
-
-- indoor baby gate
-- baby bike seat (kijiji)
-- IKEA:
-  - [BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
-  - [RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
+- broom closet rail
+- ILEA:
   - [Extra IVAR shelf](https://www.ikea.com/ca/en/p/ivar-shelf-pine-30318163/)
 - RONA:
   - drawer rails
