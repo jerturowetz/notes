@@ -1,5 +1,17 @@
 # Wishlist
 
+IKEA
+[BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
+[RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
+
+https://www.amazon.ca/Drapery-Curtain-Rings-Eyelet-Diameter/dp/B07SBYXSGH/
+
+
+---
+
+
+
+
 
 $120 Voyager 5200 headset
 $120 Jabra Steel Ruggedized Bluetooth Headset
