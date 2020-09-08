@@ -1,5 +1,7 @@
 # Wishlist
 
+hairproduct
+thin bike lock for a bike seat
 lazy susan is 24" across
 drawer is 17" raîl is 19&1/4"
 - doorbell doesnt work
