@@ -1,6 +1,18 @@
 # Wishlist
 
-hairproduct
+
+bike back & front lifjts (zoe)
+15.5x12.5x4.75 junk drawers
+non slip for under mats
+
+container store: big metal basket, big plastic bin
+
+lazy susan stirage bins
+big bins for pabtry
+
+ c+Oooo sxa
+was-
+I'll I hairproduct
 thin bike lock for a bike seat
 lazy susan is 24" across
 drawer is 17" raîl is 19&1/4"

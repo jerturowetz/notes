@@ -26,3 +26,9 @@
 - milk
 - butter
 - washing machine soap
+
+--
+
+- dinner veg
+- strawberries & blueberries
+- peaches
