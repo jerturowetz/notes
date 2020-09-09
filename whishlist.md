@@ -23,6 +23,27 @@ pretty desk (https://www.wayfair.com/furniture/pdp/east-urban-home-allyson-johns
   - install new window screens
   - super glue for address
 - **IKEA:**
+
+bike back & front lifjts (zoe)
+15.5x12.5x4.75 junk drawers
+non slip for under mats
+
+container store: big metal basket, big plastic bin
+
+lazy susan stirage bins
+big bins for pabtry
+
+ c+Oooo sxa
+was-
+I'll I hairproduct
+thin bike lock for a bike seat
+lazy susan is 24" across
+drawer is 17" raîl is 19&1/4"
+- doorbell doesnt work
+- clean stove fan exhaust
+- replace stove fan filters
+- broom closet rail
+- ILEA:
   - [Extra IVAR shelf](https://www.ikea.com/ca/en/p/ivar-shelf-pine-30318163/)
   - slavnas extras (see kates stuff)
 - cutlery drawr inset (9.25 x 18.5) or desktop cutlery bin
