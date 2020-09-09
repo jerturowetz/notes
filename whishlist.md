@@ -1,32 +1,39 @@
 # Wishlist
 
-- indoor baby gate
-- baby bike seat (kijiji)
-- IKEA:
-  - [BETYDLIG curtain brace](https://www.ikea.com/ca/en/p/betydlig-wall-ceiling-bracket-black-60217228/)
-  - [RIKTIG curtain rod pins](https://www.ikea.com/ca/en/p/riktig-curtain-hook-40212203/)
+Fridge organizers(https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
+extra fridge sehlf (https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
+ramen bowls
+stove spoon rest
+packing cubes for office
+monitor riser (https://grovemade.com/extra-large-desk-pad-launch/)
+pretty desk (https://www.wayfair.com/furniture/pdp/east-urban-home-allyson-johnson-spring-desk-eunm4924.html)
+
+
+- **Handyman tasks:**
+  - fix lazy susan (24")
+  - drawer rails (19" & 22 3/4")
+  - move plug socket behind fridge
+  - install/fix doorbell
+  - run network cable to office
+  - fix dangling videotron cable out by shed
+  - put plug in broom closet
+  - shelving recommendations for weird closet
+  - test plug sockets for safety
+  - check washer hose hookup
+  - install new window screens
+  - super glue for address
+- **IKEA:**
   - [Extra IVAR shelf](https://www.ikea.com/ca/en/p/ivar-shelf-pine-30318163/)
-- RONA:
-  - drawer rails
-  - cutlery drawr inset (9.25 x 18.5)
-  - staple gun for cables
-- Drawer organizers
+  - slavnas extras (see kates stuff)
+- cutlery drawr inset (9.25 x 18.5) or desktop cutlery bin
+- staple gun for cables
 - little wire baskets for napkinsxs
 - Non-stick pan
 - Shed:
-  - Under shelf wired baskets
   - Outdoor broom
   - Shelf unit for flower stuff (get dimensions)
   - shelf divider (approx 10")
-- [Ridgid small parts organizer](https://www.homedepot.ca/product/ridgid-pro-system-gear-10-compartment-small-parts-organizer/1001386507)
-- Office stuff:
-  - packing cube for unito   & one for personal spare clothers
-  - toiletry kit
-  - cable organizer
-  - deep drawer organizer
 - monitor riser 10.5" x 45" ish
-- rite in the rain expedition journal (many) (cover)
-- rite in the rain cert guide (cover)
 - [Prokeeper food storage](https://www.containerstore.com/s/kitchen/food-storage/prokeeper-1.5-qt.-brown-sugar-container/12d?productId=11004398)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Water bottle cage & water bottle
@@ -41,6 +48,8 @@
 - [Ass saver or fender](https://ass-savers.com/products/fendor-bendor-regular-x-bicyclecrumbs)
 - [Bike seat for Kate](https://m.gearbest.com/other-camping-gadgets/pp_1256644.html)
 - [Rite in the Rain Birders Journal](https://www.riteintherain.com/no-195-birders-journal)
+- rite in the rain expedition journal (many) (cover)
+- rite in the rain cert guide (cover)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [Sennheiser E-614](http://www.economik.com/sennheiser/e-614/) x2
