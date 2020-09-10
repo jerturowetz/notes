@@ -15,6 +15,7 @@
 - Organize besta
 - Run network cable to office
 - Trones in bedroom & baby
+- Replace stove filters
 
 --
 

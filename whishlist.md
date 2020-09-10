@@ -1,35 +1,14 @@
 # Wishlist
 
-## HW store
-
-- Staple gun for wall wires
+- [Staple gun for wall wires](https://www.youtube.com/watch?v=QC52rt7T93E)
 - Hex nut for baby gate
 - Super glue for address
-- [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
-- Paint can opener
-- Claw hammer
-- Handsaw
-- Hacksaw blades (maybe better hacksaw)
-- Replacemebnt small putty knife
-- Socket set (with wrench or just bits?)
-- Impact driver bits
-- Speed square
-- Metal straight edge
-- replace stove fan filters
-
-
-- Shed:
-  - Outdoor broom
-  - Shelf unit for flower stuff (get dimensions)
-  - shelf divider (approx 10")
-  
-- broom storage for closet
-- Non-slip for under mats
-- Lazy susan stirage bins (24" diameter)
+- [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organizer-Bathroom/dp/B07W4PYRR6/)
+- Non-slip pads for under mats
+- Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
 - Cutlery caddy
 - SLAVNAS extension & shelves
-- Shelving for weird closet
 - [Desk](https://www.wayfair.com/furniture/pdp/east-urban-home-allyson-johnson-spring-desk-eunm4924.html)
 - [Monitor riser - should be 45" x 10.5" ish](https://grovemade.com/extra-large-desk-pad-launch/)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
@@ -39,9 +18,13 @@
 
 --
 
+- Shed:
+  - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
+  - [shelf divider](https://www.amazon.ca/Whitmor-6054-585-Supreme-Stacking-Chrome/dp/B0007MHD24/)
+- Shelving for weird closet
 - Dell power brick
 - Home gardening kit
-- north face basecamp duffel (M) or Gregory alpaca
+- North face basecamp duffel (M) or Gregory alpaca
 - Mec dry bag for bathing suits
 - Small plastic bags with label area
 - Small paper bags
@@ -51,6 +34,17 @@
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - Pan scraper
+- Tools:
+  - Handsaw
+  - Hacksaw blades (maybe better hacksaw)
+  - Replacemebnt small putty knife
+  - Socket set (with wrench or just bits?)
+  - Impact driver bits
+  - Speed square
+  - Metal straight edge
+  - Paint can opener
+  - Claw hammer
+  - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
