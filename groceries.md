@@ -15,6 +15,7 @@
 
 ## Grocery store
 
+- Oyster sauce
 - Sandwich ingredients
 - Peanut butter
 - Fruits
