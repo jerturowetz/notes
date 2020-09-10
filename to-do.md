@@ -1,5 +1,23 @@
 # Jeremy's To-Do List
 
+- Fix lazy susan
+- Staple outside cable to side of shed
+- Staple inside videotron cable to floor trim
+- Cleanly affix power stip for desk
+- Hook up vaccuum to closet
+- Clean oven fan exhaust
+- Install baby locks on bathroom cabinets
+- Install baby locks on select kitchen cabinets
+- Set up plug in broom closet
+- Super glue address
+- Set up baby gate
+- Set up chalkboard
+- Organize besta
+- Run network cable to office
+- Trones in bedroom & baby
+
+--
+
 - iPhone repair:
   - battery replace
   - get photos off (pink) old phone
