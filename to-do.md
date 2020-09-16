@@ -1,5 +1,13 @@
 # Jeremy's To-Do List
 
+lou froid
+mounting cups for baby gate
+mount grey shelf
+take down winter coats
+
+
+
+
 - Fix lazy susan
 - Staple outside cable to side of shed
 - Staple inside videotron cable to floor trim
