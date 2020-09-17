@@ -1,7 +1,7 @@
 # Wishlist
 
-- [Staple gun for wall wires](https://www.youtube.com/watch?v=QC52rt7T93E)
-- Hex nut for baby gate
+- Canadian tire: another broom hanger
+
 - Super glue for address
 - [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organizer-Bathroom/dp/B07W4PYRR6/)
 - Non-slip pads for under mats

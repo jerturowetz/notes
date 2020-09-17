@@ -16,6 +16,7 @@
 - Run network cable to office
 - Trones in bedroom & baby
 - Replace stove filters
+- Replace light over stove
 
 --
 
