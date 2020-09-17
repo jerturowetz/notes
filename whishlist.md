@@ -1,7 +1,6 @@
 # Wishlist
 
-
-5/8" to 1/2" staple gun
+- Canadian tire: another broom hanger
 
 - jcd g9 20w bulbs
 - type q g9 25w
