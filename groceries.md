@@ -15,20 +15,19 @@
 
 ## Grocery store
 
-- Oyster sauce
-- Sandwich ingredients
-- Peanut butter
-- Fruits
-- soy sauce
-- sesame oil
-- rice vinegar
-- syrop
-- jug of water
-- milk
-- butter
-- washing machine soap
-- dinner veg
-- strawberries & blueberries
-- peaches
+- Peaches & plums
+- Banans
+- Blueberries
+- Strawberries
+- provolone
+- cheedar
+- kraft singles
+- Maple syrop
+- Kate cereal
+- Rice vinegar
+- Toilet paper
+
+## Pharmacy
+
 - Allergy pills
-- Hair product
+
