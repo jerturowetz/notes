@@ -15,17 +15,23 @@
 
 ## Grocery store
 
-- Peaches & plums
-- Banans
+- broccoli
+- pitatoes
 - Blueberries
 - Strawberries
-- provolone
-- cheedar
+- peaches
+- eggs
 - kraft singles
 - Maple syrop
-- Kate cereal
+- pickled beets
+- marinated eggplant
+- Pickles
+- Coffee
+- Raising bran
 - Rice vinegar
 - Toilet paper
+- large freezer bags
+- clorox with bleach
 
 ## Pharmacy
 

@@ -1,14 +1,20 @@
 # Wishlist
 
+
+5/8" to 1/2" staple gun
+
 - jcd g9 20w bulbs
 - type q g9 25w
 - 3ft ext x2
+
+- fridge shelf for cans
+- ice cube trays
 
 - aaa batteries
 - network cable to office
 - tiny ext cord for lamp
 - Super glue for address
-- [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organizer-Bathroom/dp/B07W4PYRR6/)
+- [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organize-Bathroom/dp/B07W4PYRR6/)
 - Non-slip pads for under mats
 - Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
