@@ -11,15 +11,13 @@
 
 - aaa batteries
 - network cable to office
-- tiny ext cord for lamp
+- tiny ext cord for lamp (3ft & 5ft)
 - Super glue for address
 - [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organize-Bathroom/dp/B07W4PYRR6/)
 - Non-slip pads for under mats
 - Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
-- Cutlery caddy
 - SLAVNAS extension & shelves
-- [Desk](https://www.wayfair.com/furniture/pdp/east-urban-home-allyson-johnson-spring-desk-eunm4924.html)
 - [Monitor riser - should be 45" x 10.5" ish](https://grovemade.com/extra-large-desk-pad-launch/)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
@@ -32,14 +30,12 @@
   - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
   - [shelf divider](https://www.amazon.ca/Whitmor-6054-585-Supreme-Stacking-Chrome/dp/B0007MHD24/)
 - Shelving for weird closet
-- Dell power brick
 - Home gardening kit
 - North face basecamp duffel (M) or Gregory alpaca
 - Mec dry bag for bathing suits
 - Small plastic bags with label area
 - Small paper bags
 - Rite in the rain expedition journal (many) (cover)
-- Rite in the rain cert guide (cover)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
