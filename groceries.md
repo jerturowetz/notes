@@ -42,3 +42,6 @@
 - crocodile bbq sayce
 - frozen mango
 - spinach for smoothies
+- KD
+- Ice cream
+- Popsicles
