@@ -1,6 +1,75 @@
 # Wishlist
 
+charcoal
+
+
+60" chain
+60 & 10/16"
+
+
+photos mouse traps
+any other sockets
+dishwasher measurements 
+
+
+mailbox
+
+boot rack for front closet (30.5" x20.5")
+
+better tape meaure
+
+spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
+
+
+woodfor knife rack (17"x1"x2")
+chain for clothes line
+
+
+
+baby seeaters
+baby sweatpants
+baby gloves
+more babu locks
+
+150 ft network cable
+baby bathingnsuit
+brabantia fancy garbage 
+
+
+
+
+baby closet
+26" at the base
+27.5" midway
+76" tall
+
+14.5" deep
+deeper side 26.5" deep
+
+
 - Canadian tire: another broom hanger
+also screws & hooks for hanging exterior lifhtga
+
+ikea raskog grey metal cabinet pins
+more baby locks
+caddy for cleaning supplies
+work gloves
+wire bowls for fridge
+tiny little bowl
+
+wall hook for dustpan
+bins for broom closet
+12" deep, 28"wide/3 x 7ish tall (?stacksble)
+exterior broom
+exterior heavy duty hand brush 
+
+
+23"/2 x 10"deep x5"high
+
+can also do taller& stackable for up top or maybe just build a new shelf 
+
+
+9"wide x6" tall x 12"deep (x2 for below wire shelf)
 
 - jcd g9 20w bulbs
 - type q g9 25w

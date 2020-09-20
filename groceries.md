@@ -13,27 +13,35 @@
 - noodles
 - dumplings x3
 
+## Pharmacy
+
+- Allergy pills
+- better hair stuff
+
 ## Grocery store
 
 - broccoli
 - pitatoes
 - Blueberries
-- Strawberries
-- peaches
+- lettuce
 - eggs
 - kraft singles
-- Maple syrop
+- Olive oil
+- japanese rice
 - pickled beets
 - marinated eggplant
 - Pickles
 - Coffee
-- Raising bran
 - Rice vinegar
-- Toilet paper
-- large freezer bags
 - clorox with bleach
-
-## Pharmacy
-
-- Allergy pills
-
+- baby cereal
+- baby snacks
+- milk (both)
+- oj
+- sweet chili
+- crocodile bbq sayce
+- frozen mango
+- spinach for smoothies
+- KD
+- Ice cream
+- Popsicles
