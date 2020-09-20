@@ -1,30 +1,18 @@
 # Jeremy's To-Do List
 
-lou froid
-mounting cups for baby gate
-mount grey shelf
-take down winter coats
-
-
-
-
 - Fix lazy susan
 - Staple outside cable to side of shed
-- Staple inside videotron cable to floor trim
-- Cleanly affix power stip for desk
-- Hook up vaccuum to closet
 - Clean oven fan exhaust
-- Install baby locks on bathroom cabinets
-- Install baby locks on select kitchen cabinets
-- Set up plug in broom closet
-- Super glue address
 - Set up baby gate
-- Set up chalkboard
 - Organize besta
 - Run network cable to office
-- Trones in bedroom & baby
+- Trones in bedroom
 - Replace stove filters
-- Replace light over stove
+- Senl landlord:
+  - photos mouse traps
+  - any other sockets
+  - dishwasher measurements
+
 
 --
 

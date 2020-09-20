@@ -1,89 +1,42 @@
 # Wishlist
 
-charcoal
+## Home depot
 
+- Cut wood 60 & 10/16"
+- 60" chain
+- magnetic knife rack
+- 5th exterior hook
+- boot rack for front closet (30.5" x20.5")
+- wood for knife rack (17" x 1" x 2")
+- caddy for cleaning supplies
+- exterior broom/exterior heavy duty hand brush
+- Non-slip pads for under mats
 
-60" chain
-60 & 10/16"
+--
 
-
-photos mouse traps
-any other sockets
-dishwasher measurements 
-
-
-mailbox
-
-boot rack for front closet (30.5" x20.5")
-
-better tape meaure
-
-spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
-
-
-woodfor knife rack (17"x1"x2")
-chain for clothes line
-
-
-
-baby seeaters
-baby sweatpants
-baby gloves
-more babu locks
-
-150 ft network cable
-baby bathingnsuit
-brabantia fancy garbage 
-
-
-
-
-baby closet
-26" at the base
-27.5" midway
-76" tall
-
-14.5" deep
-deeper side 26.5" deep
-
-
-- Canadian tire: another broom hanger
-also screws & hooks for hanging exterior lifhtga
-
-ikea raskog grey metal cabinet pins
-more baby locks
-caddy for cleaning supplies
-work gloves
-wire bowls for fridge
-tiny little bowl
-
-wall hook for dustpan
-bins for broom closet
-12" deep, 28"wide/3 x 7ish tall (?stacksble)
-exterior broom
-exterior heavy duty hand brush 
-
-
-23"/2 x 10"deep x5"high
-
-can also do taller& stackable for up top or maybe just build a new shelf 
-
-
-9"wide x6" tall x 12"deep (x2 for below wire shelf)
-
-- jcd g9 20w bulbs
-- type q g9 25w
-- 3ft ext x2
-
+- mailbox
+- better tape meaure
+- spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
+- baby seeaters
+- baby sweatpants
+- baby gloves
+- baby bathingnsuit
+- more baby locks
+- 150 ft network cable
+- brabantia fancy garbage
+- ikea raskog grey metal cabinet pins
+- bins for broom closet (redo):
+  - 12" deep, 28"wide/3 x 7ish tall (?stacksble)
+  - 9" wide x 6" tall x 12"deep (x2 for below wire shelf)
+- baby closet shelves:
+  - 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
+- work gloves
+- wire bowls for fridge
+- little glass bowls
 - fridge shelf for cans
 - ice cube trays
-
 - aaa batteries
-- network cable to office
 - tiny ext cord for lamp (3ft & 5ft)
-- Super glue for address
-- [Broom storage for closet](https://www.amazon.ca/ASKMUSE-Stainless-Adhensive-Organize-Bathroom/dp/B07W4PYRR6/)
-- Non-slip pads for under mats
 - Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
 - SLAVNAS extension & shelves

@@ -1,6 +1,4 @@
-# Meal plan
-
-- ???
+# Groceries
 
 ## Spice store
 
@@ -16,32 +14,35 @@
 ## Pharmacy
 
 - Allergy pills
-- better hair stuff
+- Better hair stuff
 
 ## Grocery store
 
-- broccoli
-- pitatoes
+- Broccoli
+- Potatoes
 - Blueberries
-- lettuce
-- eggs
-- kraft singles
-- Olive oil
+- Lettuce
+- spinach for smoothies
+
+- Clorox with bleach
+
+- Eggs
+- Kraft singles
+- milk (both)
+- frozen mango
+- oj
+
+- Cooking oil
 - japanese rice
-- pickled beets
-- marinated eggplant
+- Marinated eggplant
 - Pickles
 - Coffee
 - Rice vinegar
-- clorox with bleach
 - baby cereal
 - baby snacks
-- milk (both)
-- oj
 - sweet chili
 - crocodile bbq sayce
-- frozen mango
-- spinach for smoothies
 - KD
 - Ice cream
 - Popsicles
+- Charcoal
