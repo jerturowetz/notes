@@ -13,7 +13,6 @@
   - any other sockets
   - dishwasher measurements
 
-
 --
 
 - iPhone repair:

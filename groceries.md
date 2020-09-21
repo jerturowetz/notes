@@ -25,4 +25,3 @@
 - frozen mango
 - Ice cream
 - Popsicles
-
