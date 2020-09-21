@@ -1,15 +1,12 @@
 # Wishlist
 
-## Home depot
+## Home l l
 
 - Cut wood 60 & 10/16"
-- 60" chain
 - magnetic knife rack
-- 5th exterior hook
 - boot rack for front closet (30.5" x20.5")
 - wood for knife rack (17" x 1" x 2")
 - caddy for cleaning supplies
-- exterior broom/exterior heavy duty hand brush
 - Non-slip pads for under mats
 
 --
