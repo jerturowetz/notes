@@ -25,3 +25,4 @@
 - frozen mango
 - Ice cream
 - Popsicles
+- Tide pods
