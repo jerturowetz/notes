@@ -18,11 +18,4 @@
 
 ## Grocery store
 
-- oj
-- little tomatoes
-- saltine crackers
-- coconut water
-- frozen mango
-- Ice cream
 - Popsicles
-- Tide pods
