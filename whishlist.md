@@ -1,5 +1,11 @@
 # Wishlist
 
+- clithes pins 
+- wood fro trones 40 & 7/16 x 6 &5/16
+- brabantia bin libers
+- roots baby clothes Kijiji
+- pluf socket thingy for kitchen
+- short ligjting cables
 - udon bowls
 - pointy hexigonal chopsticks 
 - magnetic knife rack
