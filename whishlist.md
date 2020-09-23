@@ -1,16 +1,20 @@
 # Wishlist
 
-## Home l l
-
-- Cut wood 60 & 10/16"
+- clithes pins 
+- wood fro trones 40 & 7/16 x 6 &5/16
+- brabantia bin libers
+- roots baby clothes Kijiji
+- pluf socket thingy for kitchen
+- short ligjting cables
+- udon bowls
+- pointy hexigonal chopsticks 
 - magnetic knife rack
 - boot rack for front closet (30.5" x20.5")
 - wood for knife rack (17" x 1" x 2")
 - caddy for cleaning supplies
 - Non-slip pads for under mats
-
---
-
+- better door mats
+- wiod for trones in bedroom
 - mailbox
 - better tape meaure
 - spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
