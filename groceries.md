@@ -20,6 +20,8 @@
 
 - oj
 - little tomatoes
+- fancy balsamic
+- fancy bread
 - saltine crackers
 - coconut water
 - frozen mango
