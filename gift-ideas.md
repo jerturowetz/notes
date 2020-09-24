@@ -1,21 +1,10 @@
 # Gift Ideas
 
-## Various
-
-Good bluetooth headphones for max
-Piano for sandra
-
 ## Kate
 
-- Horse trips in gore quebec
-- Water bottle & holder for bike
-- Kobo
-- [Twinkle lights](https://www.amazon.com/dp/B01GEFUB5I)
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
 - [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
-- [Sweatpants](https://shop.jennylewis.com/collections/unisex/products/blue-heads-gonna-roll-sweatpants?variant=28006551617601)
-- Kate bike water bottle & holder
 - [Kate bike](https://www.prioritybicycles.com/products/thegotham?aff=3)
 - [Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat)
 - [Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
@@ -23,12 +12,14 @@ Piano for sandra
 - [Adam driver mug](https://www.etsy.com/listing/739419654/adam-driver-mug-custom-celebrity-gift-11?variation0=1254658415)
 - [Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
 - [Kate choker](https://en.horacejewelry.com/)
+- Horse trips in gore quebec
+- Water bottle & holder for bike
+- Kobo
 - Matador camera case
-- Roots gift cert
+- Roots remix slim cuff sweatpant (L)
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
-- Carpentry class gift cert
-- Banjo lessons with Mara Eagle (no longer gives lessonsd)
+- Banjo lessons
 - Avada Products
 - Woodworking school gift cert
 - Books:
@@ -45,10 +36,15 @@ Piano for sandra
 ## Max
 
 Oversized martini glass (Max)
+Good bluetooth headphones for max
 
 ## Molly
 
 Online gift cert for a nice store (molly)
+
+## Sandra
+
+Piano (she regrets getting rid of hers)
 
 ## Calendar plan
 
