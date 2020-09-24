@@ -2,32 +2,34 @@
 
 - 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
-- 150 ft network cable
+- Amazon order
+  - 150 ft network cable
+  - outlet power with usb
+  - short lightning cables
+  - magnetic knife rack
+  - tiny ext cord for lamp (3ft & 5ft)
+  - ice cube trays
+  - wire bowls for fridge
+  - little glass bowls
 - Baby clothes:
   - gloves
   - roots sweats
   - sweaters
-- [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
-- clothes pins
-- wood for bedroom trones 40 & 7/16 x 6 &5/16
 - HW store:
   - wood for knife rack (17" x 1" x 2")
   - caddy for cleaning supplies
   - Pickquik screwdriver replacement x2 (jam space)
   - Disinfecting wipes (space)
-- pluf socket thingy for kitchen
-- short lighting cables
-- magnetic knife rack
+- [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
+- clothes pins
+- wood for bedroom trones 40 & 7/16 x 6 &5/16
 - boot rack for front closet (30.5" x20.5")
 - Non-slip pads for under mats
 - better door mats
+- [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
 - spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
 - ikea raskog grey metal cabinet pins
 - baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
-- wire bowls for fridge
-- little glass bowls
-- ice cube trays
-- tiny ext cord for lamp (3ft & 5ft)
 - Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
