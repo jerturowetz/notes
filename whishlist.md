@@ -14,6 +14,7 @@
   - wood for knife rack (17" x 1" x 2")
   - caddy for cleaning supplies
   - Pickquik screwdriver replacement x2 (jam space)
+  - Disinfecting wipes (space)
 - pluf socket thingy for kitchen
 - short lighting cables
 - magnetic knife rack
