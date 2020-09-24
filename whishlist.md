@@ -1,13 +1,14 @@
 # Wishlist
 
-- clithes pins 
+- [DIY monitor riser](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
+- clithes pins
 - wood fro trones 40 & 7/16 x 6 &5/16
 - brabantia bin libers
 - roots baby clothes Kijiji
 - pluf socket thingy for kitchen
 - short ligjting cables
 - udon bowls
-- pointy hexigonal chopsticks 
+- pointy hexigonal chopsticks
 - magnetic knife rack
 - boot rack for front closet (30.5" x20.5")
 - wood for knife rack (17" x 1" x 2")
