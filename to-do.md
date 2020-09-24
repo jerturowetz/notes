@@ -6,9 +6,8 @@
 - Set up baby gate
 - Organize besta
 - Run network cable to office
-- Trones in bedroom
 - Replace stove filters
-- Senl landlord:
+- Send landlord:
   - photos mouse traps
   - any other sockets
   - dishwasher measurements
