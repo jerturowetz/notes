@@ -149,8 +149,6 @@
 
 - tap for mic stand size
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- Radial Engineering Catapult MINI RX
-- Radial Engineering Catapult TX4M
 - Small plastic envelopes
 - heat shrink
 - cable gland joints for headphone repairs
