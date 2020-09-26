@@ -23,3 +23,5 @@
 - Popsicles
 - N/A beer
 - coke
+- bread
+fruit

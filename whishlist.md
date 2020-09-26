@@ -4,11 +4,12 @@
 spoce shelf 8" tall, 10" wide, 11 deep
 pantry shelves are 22 deep & 21 wide
 - baby bedtime lotion
-flat plug and small chargiong station for behind my dreser
+-  flat plug and small chargiong station for behind my dreser
 
 - **HW store:**
   - Wood for knife rack
   - small stabalizers for ivar in bedroom
+  - screws smaller than 1/2"
   - #10 better anchors
   - Hooks for painting in bedroom
   - caddy for cleaning supplies
