@@ -5,18 +5,11 @@ moer baby proof wall things
 spoce shelf 8" tall, 10" wide, 11 deep
 pantry shelves are 22 deep & 21 wide
 - baby bedtime lotion
--  flat plug and small chargiong station for behind my dreser
+- flat plug and small chargiong station for behind my dreser
 
 - **HW store:**
-  - Wood for knife rack
-  - small stabalizers for ivar in bedroom
-  - screws smaller than 1/2"
-  - #10 better anchors
-  - Hooks for painting in bedroom
   - caddy for cleaning supplies
-  - Pickquik screwdriver replacement x2 (jam space)
   - Disinfecting wipes (space)
-  - White spray paint (bedroom dresser)
 - 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
