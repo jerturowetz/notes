@@ -1,5 +1,9 @@
 # Wishlist
 
+
+spoce shelf 8" tall, 10" wide, 11 deep
+pantry shelves are 22 deep & 21 wide
+- baby bedtime lotion
 - 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
