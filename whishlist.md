@@ -4,13 +4,23 @@
 spoce shelf 8" tall, 10" wide, 11 deep
 pantry shelves are 22 deep & 21 wide
 - baby bedtime lotion
+flat plug and small chargiong station for behind my dreser
+
+- **HW store:**
+  - Wood for knife rack
+  - small stabalizers for ivar in bedroom
+  - #10 better anchors
+  - Hooks for painting in bedroom
+  - caddy for cleaning supplies
+  - Pickquik screwdriver replacement x2 (jam space)
+  - Disinfecting wipes (space)
+  - White spray paint (bedroom dresser)
 - 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
   - short lightning cables
-  - magnetic knife rack
   - tiny ext cord for lamp (3ft & 5ft)
   - ice cube trays
   - wire bowls for fridge
@@ -19,11 +29,6 @@ pantry shelves are 22 deep & 21 wide
   - gloves
   - roots sweats
   - sweaters
-- HW store:
-  - wood for knife rack (17" x 1" x 2")
-  - caddy for cleaning supplies
-  - Pickquik screwdriver replacement x2 (jam space)
-  - Disinfecting wipes (space)
 - [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
 - clothes pins
 - wood for bedroom trones 40 & 7/16 x 6 &5/16
@@ -56,6 +61,7 @@ pantry shelves are 22 deep & 21 wide
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - Pan scraper
 - Tools:
+  - Makita 5.0 a/h battery
   - Handsaw
   - Hacksaw blades (maybe better hacksaw)
   - Replacemebnt small putty knife
