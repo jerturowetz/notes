@@ -1,12 +1,16 @@
 # Wishlist
 
+flat plug and small chargiong station for behind my dreser
+
 - **HW store:**
   - Wood for knife rack
+  - small stabalizers for ivar in bedroom
   - #10 better anchors
   - Hooks for painting in bedroom
   - caddy for cleaning supplies
   - Pickquik screwdriver replacement x2 (jam space)
   - Disinfecting wipes (space)
+  - White spray paint (bedroom dresser)
 - 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
@@ -53,6 +57,7 @@
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - Pan scraper
 - Tools:
+  - Makita 5.0 a/h battery
   - Handsaw
   - Hacksaw blades (maybe better hacksaw)
   - Replacemebnt small putty knife

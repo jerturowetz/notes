@@ -18,5 +18,8 @@
 
 ## Grocery store
 
+- Baby milk
 - fancy balsamic
 - Popsicles
+- N/A beer
+- coke
