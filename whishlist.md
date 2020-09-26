@@ -1,5 +1,6 @@
 # Wishlist
 
+moer baby proof wall things
 
 spoce shelf 8" tall, 10" wide, 11 deep
 pantry shelves are 22 deep & 21 wide
