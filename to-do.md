@@ -8,6 +8,7 @@
 - Organize besta
 - Run network cable to office
 - Replace stove filters
+- Abus 190CS/60 lock
 
 --
 
