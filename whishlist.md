@@ -1,16 +1,6 @@
 # Wishlist
 
-moer baby proof wall things
-
-spoce shelf 8" tall, 10" wide, 11 deep
-pantry shelves are 22 deep & 21 wide
-- baby bedtime lotion
 - flat plug and small chargiong station for behind my dreser
-
-- **HW store:**
-  - caddy for cleaning supplies
-  - Disinfecting wipes (space)
-- 12 channel snake
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
   - 150 ft network cable
@@ -20,6 +10,10 @@ pantry shelves are 22 deep & 21 wide
   - ice cube trays
   - wire bowls for fridge
   - little glass bowls
+  - baby proofing wall hooks
+  - baby bedtime lotion
+  - baby travel lotion
+  - disinfecting wipes (space)
 - Baby clothes:
   - gloves
   - roots sweats
@@ -31,7 +25,7 @@ pantry shelves are 22 deep & 21 wide
 - Non-slip pads for under mats
 - better door mats
 - [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
-- spice shelf helpers: 10" deep, 3-10" wide, 3-5" tall (4 or so. if  5" tall, can bebatackable)
+- pantry shelf bins (shelves are 22 deep & 21 wide)
 - ikea raskog grey metal cabinet pins
 - baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
 - Lazy susan storage bins (24" diameter)
@@ -152,6 +146,7 @@ pantry shelves are 22 deep & 21 wide
 
 ### Various & workbench stuff
 
+- 12 channel recording snake
 - tap for mic stand size
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - Small plastic envelopes

@@ -8,10 +8,6 @@
 - Organize besta
 - Run network cable to office
 - Replace stove filters
-- Send landlord:
-  - photos mouse traps
-  - any other sockets
-  - dishwasher measurements
 
 --
 
