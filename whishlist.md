@@ -1,5 +1,6 @@
 # Wishlist
 
+- Abus 190CS/60 lock
 - flat plug and small chargiong station for behind my dreser
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
