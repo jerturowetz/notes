@@ -1,5 +1,12 @@
 # Wishlist
 
+baby proof more things
+gallery wall
+exterior lights
+measurr clothesdline for big ring
+
+
+- tyvek/wax canvas bag for mega blocks
 - flat plug and small chargiong station for behind my dreser
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
 - Amazon order
@@ -146,6 +153,7 @@
 
 ### Various & workbench stuff
 
+- Artist tape
 - 12 channel recording snake
 - tap for mic stand size
 - [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)

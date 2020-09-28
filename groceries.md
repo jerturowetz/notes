@@ -21,7 +21,11 @@
 - Baby milk
 - fancy balsamic
 - Popsicles
-- N/A beer
-- coke
+
+
+- coke 0
 - bread
-fruit
+- bananas
+- fruit?
+- baby dinner
+- jeremy dinner
