@@ -1,9 +1,23 @@
 # Wishlist
 
-baby proof more things
 gallery wall
 exterior lights
 measurr clothesdline for big ring
+
+- Cordies for desk edge
+- **Commute/workout clothes:**
+  - Workout pants (lululemon)
+  - Workout t-shirt (lululemon, Under armor)
+  - Windbreaker
+  - Bike shorts
+  - [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
+  - [Saxx Kinetic sport shorts] (https://www.saxxunderwear.ca/products/sxks27_dch)
+  - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
+  - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
+
+
+
+
 
 
 - tyvek/wax canvas bag for mega blocks

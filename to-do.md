@@ -1,5 +1,10 @@
 # Jeremy's To-Do List
 
+- Baby proofing for Waldo's dresser, kitchen Ivar
+- Gallery Wall
+- Measure potential for large o-ring clothesline
+- Hang hooks on back of bedroom door
+- hang yellow hook by kate's mirror
 - Fix lazy susan
 - Set up baby gate
 - Organize besta
