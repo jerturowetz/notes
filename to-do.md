@@ -1,9 +1,6 @@
 # Jeremy's To-Do List
 
 - Fix lazy susan
-- Oil bedroom door
-- Staple outside cable to side of shed
-- Clean oven fan exhaust
 - Set up baby gate
 - Organize besta
 - Run network cable to office
