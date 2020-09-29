@@ -1,24 +1,8 @@
 # Wishlist
 
-gallery wall
-exterior lights
-measurr clothesdline for big ring
-
-- Cordies for desk edge
-- **Commute/workout clothes:**
-  - Workout pants (lululemon)
-  - Workout t-shirt (lululemon, Under armor)
-  - Windbreaker
-  - Bike shorts
-  - [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
-  - [Saxx Kinetic sport shorts] (https://www.saxxunderwear.ca/products/sxks27_dch)
-  - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
-  - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
-
-
-
-
-
+- boot rack for front closet (30.5" x20.5")
+- Non-slip pads for under mats
+- better door mats
 
 - tyvek/wax canvas bag for mega blocks
 - Abus 190CS/60 lock
@@ -28,7 +12,6 @@ measurr clothesdline for big ring
   - 150 ft network cable
   - outlet power with usb
   - short lightning cables
-  - tiny ext cord for lamp (3ft & 5ft)
   - ice cube trays
   - wire bowls for fridge
   - little glass bowls
@@ -36,19 +19,18 @@ measurr clothesdline for big ring
   - baby bedtime lotion
   - baby travel lotion
   - disinfecting wipes (space)
+- Hardware store
+  - pickquik screwdriver
+  - wood for bedroom trones 40 & 7/16 x 6 &5/16
 - Baby clothes:
   - gloves
   - roots sweats
   - sweaters
 - [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
-- clothes pins
-- wood for bedroom trones 40 & 7/16 x 6 &5/16
-- boot rack for front closet (30.5" x20.5")
-- Non-slip pads for under mats
-- better door mats
 - [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
 - pantry shelf bins (shelves are 22 deep & 21 wide)
 - ikea raskog grey metal cabinet pins
+- clothes pins (dollar store)
 - baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
 - Lazy susan storage bins (24" diameter)
 - Junk drawer insets: 15.5" x 12.5" x 4.75"
@@ -71,6 +53,14 @@ measurr clothesdline for big ring
 - [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - Pan scraper
+- Commute/workout clothes:
+  - Workout pants (lululemon)
+  - Workout t-shirt (lululemon, Under armor)
+  - Windbreaker
+  - [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
+  - [Saxx Kinetic sport shorts](https://www.saxxunderwear.ca/products/sxks27_dch)
+  - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
+  - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
 - Tools:
   - Makita 5.0 a/h battery
   - Handsaw

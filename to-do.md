@@ -1,6 +1,7 @@
 # Jeremy's To-Do List
 
 - Baby proofing for Waldo's dresser, kitchen Ivar
+- exterior lights
 - Gallery Wall
 - Measure potential for large o-ring clothesline
 - Hang hooks on back of bedroom door
