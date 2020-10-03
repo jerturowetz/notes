@@ -1,9 +1,12 @@
 # Wishlist
 
+- netgear nighthawk router
+- IKEA:
+  - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
+  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
 - boot rack for front closet (30.5" x20.5")
 - Non-slip pads for under mats
 - better door mats
-
 - tyvek/wax canvas bag for mega blocks
 - Abus 190CS/60 lock
 - flat plug and small chargiong station for behind my dreser
@@ -18,14 +21,15 @@
   - baby proofing wall hooks
   - baby bedtime lotion
   - baby travel lotion
-  - disinfecting wipes (space)
+  - hair product
 - Hardware store
   - pickquik screwdriver
   - wood for bedroom trones 40 & 7/16 x 6 &5/16
-- Baby clothes:
+- Baby clothes (H&M):
   - gloves
   - roots sweats
   - sweaters
+  - hat
 - [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
 - [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
 - pantry shelf bins (shelves are 22 deep & 21 wide)
