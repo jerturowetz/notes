@@ -1,14 +1,6 @@
 # Wishlist
 
-
-frane for begradr map (23.5" x 15") 40cm x 59 cm
-
-anoyher work knife (maybe 2)
-pikquik for home
-stubby acrewdriver for toolbox
-allan key set for toolbox
-replacemwndrill bits
-
+- [Frame for belgrade map (approx 23.5" x 15" - confirm)](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - reprint anniversary pic
 - netgear nighthawk router
 - IKEA:
@@ -17,10 +9,9 @@ replacemwndrill bits
 - boot rack for front closet (30.5" x20.5")
 - Non-slip pads for under mats
 - better door mats
-- tyvek/wax canvas bag for mega blocks
 - Abus 190CS/60 lock
 - flat plug and small chargiong station for behind my dreser
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
@@ -35,6 +26,11 @@ replacemwndrill bits
 - Hardware store
   - pickquik screwdriver
   - wood for bedroom trones 40 & 7/16 x 6 &5/16
+  - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
+  - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001043957)
+  - anoyher work knife (maybe 2)
+  - stubby acrewdriver for toolbox
+  - allan key set for toolbox
 - Baby clothes (H&M):
   - gloves
   - roots sweats
