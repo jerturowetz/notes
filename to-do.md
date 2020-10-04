@@ -1,5 +1,15 @@
 # Jeremy's To-Do List
 
+hang coleville
+indoor brackets
+replace anchors in broom closet
+exterior ligjts
+
+drop off AC
+iphone repair
+
+
+
 - Baby proofing for Waldo's dresser, kitchen Ivar
 - exterior lights
 - Gallery Wall

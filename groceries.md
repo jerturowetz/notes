@@ -22,10 +22,21 @@
 - fancy balsamic
 - Popsicles
 
-
 - coke 0
 - bread
 - bananas
-- fruit?
-- baby dinner
-- jeremy dinner
+- other fruit
+- baby dinners
+- 1% milk
+- kraft cheese
+- cheddar
+
+eggs
+dijon
+jam
+veg
+egg rolls
+greek yogurt (both)
+pasta noodles
+frozen mango & blueberries
+spinach for smoothies 
