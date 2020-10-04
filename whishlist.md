@@ -7,7 +7,6 @@
 - boot rack for front closet (30.5" x20.5")
 - Non-slip pads for under mats
 - better door mats
-- tyvek/wax canvas bag for mega blocks
 - Abus 190CS/60 lock
 - flat plug and small chargiong station for behind my dreser
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/) x2
