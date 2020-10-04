@@ -18,25 +18,27 @@
 
 ## Grocery store
 
-- Baby milk
 - fancy balsamic
 - Popsicles
-
 - coke 0
-- bread
-- bananas
-- other fruit
-- baby dinners
-- 1% milk
 - kraft cheese
-- cheddar
-
-eggs
-dijon
-jam
-veg
-egg rolls
 greek yogurt (both)
-pasta noodles
 frozen mango & blueberries
 spinach for smoothies 
+
+pumpkins
+halloween candy
+
+
+asian hricery:
+noodjes
+stuff for pork dinner
+
+
+???
+compost vags
+olive oil
+other oil
+pasta noodles & sauce
+rices
+bavy snacks
