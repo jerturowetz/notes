@@ -1,5 +1,10 @@
 # Wishlist
 
+hair product
+packing cubes
+another amp stand
+network cable
+more baby proofing stuff
 - [Frame for belgrade map (approx 23.5" x 15" - confirm)](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - reprint anniversary pic
 - netgear nighthawk router

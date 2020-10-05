@@ -1,29 +1,12 @@
 # Jeremy's To-Do List
 
-hang coleville
-indoor brackets
-replace anchors in broom closet
-exterior ligjts
-
-drop off AC
-iphone repair
-
-
-
-- Baby proofing for Waldo's dresser, kitchen Ivar
-- exterior lights
-- Gallery Wall
-- Measure potential for large o-ring clothesline
-- Hang hooks on back of bedroom door
-- hang yellow hook by kate's mirror
-- Fix lazy susan
-- Set up baby gate
 - Organize besta
 - Run network cable to office
-- Replace stove filters
-
---
-
+- replace anchors in broom closet
+- drop off AC
+- Baby proofing for Waldo's dresser, kitchen Ivar
+- Fix lazy susan
+- Set up baby gate
 - iPhone repair:
   - battery replace
   - get photos off (pink) old phone
