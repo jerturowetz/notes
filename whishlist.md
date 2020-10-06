@@ -54,15 +54,12 @@
   - baby travel lotion
   - hair product
 
+
 - Hardware store
   - wood for bedroom trones 40 & 7/16 x 6 &5/16
-  - pickquik screwdriver
   - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
-  - Drill bit set (1/4" are super dull)
-  - anoyher work knife (maybe 2)
-  - Stubby screwdriver for toolbox
-  - Allan key set for toolbox
-
+  - Replacement drill bit set (1/4" are super dull)
+  - Another work knife
 - Baby clothes (H&M):
   - gloves
   - roots sweats
@@ -75,15 +72,12 @@
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - Tools:
+  - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
   - Handsaw
   - Hacksaw blades (maybe better hacksaw)
-  - Replacement drill bits
-  - Replacemebnt small putty knife
   - Socket set (with wrench or just bits?)
-  - Impact driver bits
   - Metal straight edge
   - Paint can opener
-  - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -91,7 +85,7 @@
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 
-## Bike stuff
+## Bike stuff (review)
 
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Bike kit for rain
