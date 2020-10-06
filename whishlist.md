@@ -1,26 +1,47 @@
 # Wishlist
 
-hair product
-packing cubes
-another amp stand
-network cable
-more baby proofing stuff
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-tiny shoe rach for back door
-small shelves to put tool bins on topnof
-
-- [Frame for belgrade map (approx 23.5" x 15" - confirm)](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- hair product
+- packing cubes
+- another amp stand
+- network cable
+- more baby proofing stuff
+- tiny shoe rach for back door
+- small shelves to put tool bins on topnof
 - reprint anniversary pic
 - netgear nighthawk router
-- IKEA:
-  - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
-  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
 - boot rack for front closet (30.5" x20.5")
 - Non-slip pads for under mats
 - better door mats
 - Abus 190CS/60 lock
 - flat plug and small chargiong station for behind my dreser
+- pantry shelf bins (shelves are 22 deep & 21 wide)
+- clothes pins (dollar store)
+- baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
+- Lazy susan storage bins (24" diameter)
+- Junk drawer insets: 15.5" x 12.5" x 4.75"
+- udon bowls
+- pointy hexigonal chopsticks
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- headphone bags/cases (x3)
+- SLAVNAS extension & shelves
+- Shelving for weird closet
+- Home gardening kit
+- North face basecamp duffel (M) or Gregory alpaca
+- Mec dry bag for bathing suits
+- Small plastic bags with label area
+- Pan scraper
+- [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
+- [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
+- [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
+- [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
+- [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
+- IKEA:
+  - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
+  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
+  - ikea raskog grey metal cabinet pins
+
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
@@ -32,75 +53,43 @@ small shelves to put tool bins on topnof
   - baby bedtime lotion
   - baby travel lotion
   - hair product
+
 - Hardware store
-  - pickquik screwdriver
   - wood for bedroom trones 40 & 7/16 x 6 &5/16
+  - pickquik screwdriver
   - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
-  - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001043957)
+  - Drill bit set (1/4" are super dull)
   - anoyher work knife (maybe 2)
-  - stubby acrewdriver for toolbox
-  - allan key set for toolbox
+  - Stubby screwdriver for toolbox
+  - Allan key set for toolbox
+
 - Baby clothes (H&M):
   - gloves
   - roots sweats
   - sweaters
   - hat
-- [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
-- [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
-- pantry shelf bins (shelves are 22 deep & 21 wide)
-- ikea raskog grey metal cabinet pins
-- clothes pins (dollar store)
-- baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
-- Lazy susan storage bins (24" diameter)
-- Junk drawer insets: 15.5" x 12.5" x 4.75"
-- [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
-- [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
-- $100 fer sher
 
 --
 
-- udon bowls
-- pointy hexigonal chopsticks
-- SLAVNAS extension & shelves
-- Shelving for weird closet
-- Home gardening kit
-- North face basecamp duffel (M) or Gregory alpaca
-- Mec dry bag for bathing suits
-- Small plastic bags with label area
-- [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
-- [other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
+- [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
-- Pan scraper
-- Commute/workout clothes:
-  - Workout pants (lululemon)
-  - Workout t-shirt (lululemon, Under armor)
-  - Windbreaker
-  - [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
-  - [Saxx Kinetic sport shorts](https://www.saxxunderwear.ca/products/sxks27_dch)
-  - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
-  - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
 - Tools:
-  - Makita 5.0 a/h battery
   - Handsaw
   - Hacksaw blades (maybe better hacksaw)
+  - Replacement drill bits
   - Replacemebnt small putty knife
   - Socket set (with wrench or just bits?)
   - Impact driver bits
-  - Speed square
   - Metal straight edge
   - Paint can opener
-  - Claw hammer
   - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
-- Frames:
-  - shark lady: 16 3/4 x 15 (16 x 18 1/2 with mat)
-  - belgrade map 16 1/2 x 23 1/2
 - $200 Angelo, Andrew, Joe gifts
-- headphone bags/cases (x3)
+- $100 Fer sher
 
 ## Bike stuff
 
@@ -109,6 +98,13 @@ small shelves to put tool bins on topnof
 - Water bottle cage & water bottle
 - Front bike rack
 - back & front lights (ask zoe)
+- Workout pants (lululemon)
+- Workout t-shirt (lululemon, Under armor)
+- Windbreaker
+- [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
+- [Saxx Kinetic sport shorts](https://www.saxxunderwear.ca/products/sxks27_dch)
+- [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
+- [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
 
 ## Office
 
