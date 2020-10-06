@@ -1,10 +1,18 @@
 # Wishlist
 
-- hair product
+
+- Hardware store
+  - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
+  - [Driver Bit Set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
+  - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
+  - [Metal straight edge](https://www.homedepot.ca/product/empire-9-1-2-in-heavy-duty-try-square/1000812524)
+  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
+  - Replacement drill bit set (1/4" are super dull)
+  - Another utility knife
+  - Handsaw
+
+- wood for bedroom trones 40 & 7/16 x 6 &5/16
 - packing cubes
-- another amp stand
-- network cable
-- more baby proofing stuff
 - tiny shoe rach for back door
 - small shelves to put tool bins on topnof
 - reprint anniversary pic
@@ -17,26 +25,18 @@
 - pantry shelf bins (shelves are 22 deep & 21 wide)
 - clothes pins (dollar store)
 - baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
-- Lazy susan storage bins (24" diameter)
-- Junk drawer insets: 15.5" x 12.5" x 4.75"
-- udon bowls
-- pointy hexigonal chopsticks
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - headphone bags/cases (x3)
 - SLAVNAS extension & shelves
 - Shelving for weird closet
-- Home gardening kit
-- North face basecamp duffel (M) or Gregory alpaca
 - Mec dry bag for bathing suits
-- Small plastic bags with label area
-- Pan scraper
-- [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
 - [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
 - [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
+
 - IKEA:
   - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
   - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
@@ -50,16 +50,13 @@
   - wire bowls for fridge
   - little glass bowls
   - baby proofing wall hooks
-  - baby bedtime lotion
   - baby travel lotion
   - hair product
+  - Pan scraper
+  - Home gardening kit
+  - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
+  - Small plastic bags with label area
 
-
-- Hardware store
-  - wood for bedroom trones 40 & 7/16 x 6 &5/16
-  - [bit set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
-  - Replacement drill bit set (1/4" are super dull)
-  - Another work knife
 - Baby clothes (H&M):
   - gloves
   - roots sweats
@@ -71,13 +68,6 @@
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
-- Tools:
-  - [Better voltage tester](https://www.amazon.com/dp/B004FXJOQO?tag=nextluxuryus-20&linkCode=osi&th=1&psc=1)
-  - Handsaw
-  - Hacksaw blades (maybe better hacksaw)
-  - Socket set (with wrench or just bits?)
-  - Metal straight edge
-  - Paint can opener
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -95,8 +85,6 @@
 - Workout pants (lululemon)
 - Workout t-shirt (lululemon, Under armor)
 - Windbreaker
-- [Rhone Mako shorts](https://www.rhone.com/products/mako-7-shorts)
-- [Saxx Kinetic sport shorts](https://www.saxxunderwear.ca/products/sxks27_dch)
 - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
 - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
 
@@ -115,17 +103,6 @@
 - Some type of ultra warm slip on like Baffin Canada Boots -40F/-40C (altitude) or clasic sorel
 
 ## Music gear
-
-### Mouser ($300)
-
-- Amphenol KS3P (3.5 mm plug) x4
-- Neutrik NP3X x2 (for vic firth headphone repair)
-- Neutrik NP3X x8 (patches)
-- Neutrik NJ3FC6 x2 (for headphone ext repairs)
-- Neutrik NC3MXX x4 (patches)
-- Neutrik NC3FXX x4 (patches)
-- Neutrik NC3MXX-BAG x12 (for regular XLR cables)
-- Neutrik NC3FXX-BAG x12 (for regular XLR cables)
 
 ### Mics
 
