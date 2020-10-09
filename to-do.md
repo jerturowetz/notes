@@ -1,9 +1,10 @@
 # Jeremy's To-Do List
 
-- What is the size of my hacjksaw? I need blades.
+- What is the size of my hacjksaw? I need blades
 - Organize besta
 - Run network cable to office
 - replace anchors in broom closet
+- hang dustpan in broom closet
 - drop off AC
 - Baby proofing for Waldo's dresser, kitchen Ivar
 - Fix lazy susan
