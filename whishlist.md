@@ -1,15 +1,25 @@
 # Wishlist
 
+- pantry shelves are 21" opening
+- Amazon order
+  - 150 ft network cable
+  - outlet power with usb
+  - short lightning cables
+  - ice cube trays
+  - wire bowls for fridge
+  - little glass bowls
+  - baby proofing wall hooks
+  - baby travel lotion
+  - hair product
+  - Pan scraper
+  - Home gardening kit
+  - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
+  - Small plastic bags with label area
 
-- Hardware store
-  - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
-  - [Driver Bit Set](https://www.homedepot.ca/product/milwaukee-tool-shockwave-impact-duty-driver-bit-set-40-piece-/1001318829)
-  - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
-  - [Metal straight edge](https://www.homedepot.ca/product/empire-9-1-2-in-heavy-duty-try-square/1000812524)
-  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - Replacement drill bit set (1/4" are super dull)
-  - Another utility knife
-  - Handsaw
+- IKEA:
+  - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
+  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
+  - ikea raskog grey metal cabinet pins
 
 - wood for bedroom trones 40 & 7/16 x 6 &5/16
 - packing cubes
@@ -26,36 +36,15 @@
 - clothes pins (dollar store)
 - baby closet shelves: 26" wide x 76" tall x 14.5" deep (right) or 26.5" deep (left)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- headphone bags/cases (x3)
+- headphone bags/cases (x2)
 - SLAVNAS extension & shelves
 - Shelving for weird closet
-- Mec dry bag for bathing suits
 - [DIY monitor riser - should be 45" x 10.5" ish](https://ugmonk.com/blogs/journal/my-diy-monitor-stand)
 - [spice shelf thingy](https://www.amazon.ca/YouCopia-SpiceStack-24-Bottle-Organizer-Universal/dp/B009KZYXMC)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
-
-- IKEA:
-  - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
-  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
-  - ikea raskog grey metal cabinet pins
-
-- Amazon order
-  - 150 ft network cable
-  - outlet power with usb
-  - short lightning cables
-  - ice cube trays
-  - wire bowls for fridge
-  - little glass bowls
-  - baby proofing wall hooks
-  - baby travel lotion
-  - hair product
-  - Pan scraper
-  - Home gardening kit
-  - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
-  - Small plastic bags with label area
 
 - Baby clothes (H&M):
   - gloves
@@ -72,6 +61,14 @@
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
+- Hardware store
+  - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
+  - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
+  - [Metal straight edge](https://www.homedepot.ca/product/empire-9-1-2-in-heavy-duty-try-square/1000812524)
+  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
+  - Replacement drill bit set (1/4" are super dull)
+  - Another utility knife
+  - Handsaw
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 

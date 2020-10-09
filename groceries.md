@@ -17,14 +17,13 @@
 
 ## Grocery store
 
-- fancy balsamic
-- Popsicles
-- coke 0
-- kraft cheese
-- greek yogurt (both)
-- frozen mango & blueberries
 - spinach for smoothies
-- sandwich meat
+- lemon
+- bread
 - provolone
 - pumpkin
-- halloween candy
+- halloween candy?
+- kraft cheese
+- coke 0
+- frozen mango & blueberries
+- Popsicles
