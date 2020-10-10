@@ -17,14 +17,9 @@
 
 ## Grocery store
 
-- white wine
-
-- gtavy stuff
-- kraft cheese
-- baking soda
+- 5 cups chk stock
 - na beer
-- frozen mango & blueberries
-- sugar
-- 1 stick unsalted butter
-- 2 1/2 cups low-sodium chicken broth
-- fine salt
+
+0.7 kg wings
+msg
+
