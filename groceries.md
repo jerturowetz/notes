@@ -27,3 +27,4 @@
 - sugar
 - 1 stick unsalted butter
 - 2 1/2 cups low-sodium chicken broth
+- fine salt
