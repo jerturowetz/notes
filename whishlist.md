@@ -5,6 +5,7 @@
 - Figure out router
 - Figure out roomba
 - Kate bday
+- Decent 4k or 2560 monitor
 
 - banq hat
 - pantry shelves are 21" opening, 22.25 deep
