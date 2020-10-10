@@ -1,6 +1,7 @@
 # Wishlist
 
-- pantry shelves are 21" opening
+- banq hat
+- pantry shelves are 21" opening, 22.5 deep?
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
