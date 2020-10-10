@@ -2,7 +2,10 @@
 
 - Figure out router
 - Figure out roomba
+- Kate bday
 
+- banq hat
+- pantry shelves are 21" opening, 22.25 deep
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
@@ -25,6 +28,8 @@
   - ikea raskog grey metal cabinet pins
 
 - pantry shelves are 21" opening, 22 1/4" depth
+- [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
+- [Office storage](https://www.ikea.com/ca/en/p/bekant-storage-unit-with-smart-lock-mesh-white-s19286899/)
 - [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
 - wood for bedroom trones 40 & 7/16 x 6 &5/16
 - packing cubes

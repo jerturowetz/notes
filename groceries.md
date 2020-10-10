@@ -17,13 +17,13 @@
 
 ## Grocery store
 
-- spinach for smoothies
-- lemon
-- bread
-- provolone
-- pumpkin
-- halloween candy?
+- white wine
+
+- gtavy stuff
 - kraft cheese
-- coke 0
+- baking soda
+- na beer
 - frozen mango & blueberries
-- Popsicles
+- sugar
+- 1 stick unsalted butter
+- 2 1/2 cups low-sodium chicken broth
