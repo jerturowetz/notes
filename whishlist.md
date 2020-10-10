@@ -2,8 +2,12 @@
 
 - 1ft ish lightning & micro usb cables
 - 3ft ish anker red lightning cable
+- Figure out router
+- Figure out roomba
+- Kate bday
+
 - banq hat
-- pantry shelves are 21" opening, 22.5 deep?
+- pantry shelves are 21" opening, 22.25 deep
 - Amazon order
   - 150 ft network cable
   - outlet power with usb
@@ -18,12 +22,17 @@
   - Home gardening kit
   - [Shelf unit for flower stuff](https://www.amazon.ca/Whitmor-6070-3437-Supreme-3-Tier-Shelving/dp/B004BDP69M/)
   - Small plastic bags with label area
+  - [string loghts](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
 
 - IKEA:
   - [Handheld shower holder](https://www.ikea.com/ca/en/ideas/improve-your-daily-flow-recowhkg0re)
   - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
   - ikea raskog grey metal cabinet pins
 
+- pantry shelves are 21" opening, 22 1/4" depth
+- [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
+- [Office storage](https://www.ikea.com/ca/en/p/bekant-storage-unit-with-smart-lock-mesh-white-s19286899/)
+- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
 - wood for bedroom trones 40 & 7/16 x 6 &5/16
 - packing cubes
 - tiny shoe rach for back door
@@ -72,6 +81,8 @@
   - Replacement drill bit set (1/4" are super dull)
   - Another utility knife
   - Handsaw
+- [art](https://www.concealed-art.com/nes-art)
+- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 
@@ -80,13 +91,14 @@
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Bike kit for rain
 - Water bottle cage & water bottle
-- Front bike rack
-- back & front lights (ask zoe)
+- [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
+- back & front lights (knog blinder)
 - Workout pants (lululemon)
 - Workout t-shirt (lululemon, Under armor)
 - Windbreaker
 - [Darn Tough Vertex CoolMax Ultra-Light Cushion Sock](https://www.amazon.ca/Darn-Tough-Coolmax-Vertex-Ultra-Light/dp/B01A9K5UAA/)
 - [Darn Tough Men's Vertex 1/4 Sock](https://www.amazon.ca/Darn-Tough-Vertex-Quarter-Ultralight/dp/B01CXJKKG4/)
+- [c9rdless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
 
 ## Office
 
@@ -171,3 +183,4 @@
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
+- [se215](https://www.shure.com/en-US/products/earphones/se215)
