@@ -1,5 +1,7 @@
 # Wishlist
 
+- ice cream scoop
+- larger can tire box for winter clothes rotation
 - 1ft ish lightning & micro usb cables
 - 3ft ish anker red lightning cable
 - Figure out router
@@ -9,7 +11,7 @@
 
 - banq hat
 - pantry shelves are 21" opening, 22.25 deep
-- Amazon order
+- Amazon order-
   - 150 ft network cable
   - outlet power with usb
   - short lightning cables
