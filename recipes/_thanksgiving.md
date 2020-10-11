@@ -53,3 +53,26 @@ This menu was really good, but we might have had one too many heavy veg dishes. 
 - Gravy
 - Cranberry Jam (from Cathy)
 - Fried mushrooms
+
+## 2020 Covid with cathy
+
+Stuck in confinement we're doing a simpler dinner this year
+
+Turkey
+Cranberry relish
+Gravy
+mashed potatoes
+dressing
+roast broccoli and carrots
+
+### Cooking
+
+- 2:00 make herb butter & apply to bird
+- 2:45 preheat oven to 425
+- 3:00 turkey goes in
+- 3:00 prep veg
+- 4:00 prep dressing
+- 4:10 dressing goes in
+- 4:30 turkey comes out/veg goes in
+- 4:45 dressing comes out
+- 4:50 carve turkey
