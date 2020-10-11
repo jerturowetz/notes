@@ -17,4 +17,4 @@
 
 ## Grocery store
 
-- white wine
+- San pellegrino
