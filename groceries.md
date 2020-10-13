@@ -17,4 +17,8 @@
 
 ## Grocery store
 
+- Bananas
+- Bread
+- bacon
+- coffee
 - San pellegrino

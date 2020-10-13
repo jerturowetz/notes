@@ -1,5 +1,6 @@
 # Wishlist
 
+- Baby snowsuit (18-24 months)
 - 1ft ish lightning & micro usb cables
 - 3ft ish anker red lightning cable
 - Figure out router
@@ -8,6 +9,15 @@
 - Decent 4k or 2560 monitor
 
 - banq hat
+
+gravy boat
+mwdium bowls for small salads and sides (ramen bowls)
+Ramen bowls
+better pot
+12" cast iron
+non stick x2
+
+
 - pantry shelves are 21" opening, 22.25 deep
 - Amazon order
   - 150 ft network cable
@@ -67,6 +77,7 @@
 
 --
 
+- [Bike mount](https://www.amazon.ca/Indoor-Outdoor-Bicycle-Storage-System-33-42mm/dp/B00U08FHZA/)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)

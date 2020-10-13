@@ -63,16 +63,4 @@ Cranberry relish
 Gravy
 mashed potatoes
 dressing
-roast broccoli and carrots
-
-### Cooking
-
-- 2:00 make herb butter & apply to bird
-- 2:45 preheat oven to 425
-- 3:00 turkey goes in
-- 3:00 prep veg
-- 4:00 prep dressing
-- 4:10 dressing goes in
-- 4:30 turkey comes out/veg goes in
-- 4:45 dressing comes out
-- 4:50 carve turkey
+roast carrots

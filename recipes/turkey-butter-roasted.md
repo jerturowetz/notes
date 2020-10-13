@@ -23,15 +23,17 @@ Herb & butter quantities adjusted
 
 ## Directions
 
+### Herb butter
+
+- Combine garlic, chives, parsley, sage, thyme, and shallots in the bowl of a food processor. Blend until finely chopped and no large pieces remain. Scatter butter chunks on top & pulse until homogenous paste is formed. Season generously with salt and pepper and pulse to combine (NO SALT IF YOU DID A SALT BRINE). Transfer 1/3 of butter mixture to a small saucepan and melt over low heat.
+
 ### Turkey pt 1
 
 - Preheat oven to 425°F & adjust oven rack to middle-lower (as we want the bird in the middle - not the rack)
 
 - Line a rimmed baking sheet or broiler pan with aluminum foil, add the chopped veg and some thyme stems. Place slotted broiler rack or wire rack on top
 
-- Combine garlic, chives, parsley, sage, thyme, and shallots in the bowl of a food processor. Blend until finely chopped and no large pieces remain. Scatter butter chunks on top & pulse until homogenous paste is formed. Season generously with salt and pepper and pulse to combine (NO SALT IF YOU DID A SALT BRINE). Transfer 1/3 of butter mixture to a small saucepan and melt over low heat.
-
-- Pat turkey dry with paper towels & spatchcock
+- Pat turkey dry with paper towels & spatchcock (you mahight have already done this)
 
 - Rub butter mixture under turkey skin until distributed in an even layer. [Instructions here](http://www.seriouseats.com/2014/11/the-food-lab-how-to-make-herb-butter-roasted-turkey-thanksgiving-recipe.html)
 

@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Clean oven
 - What is the size of my hacjksaw? I need blades
 - Organize besta
 - Run network cable to office
