@@ -1,5 +1,8 @@
 # Wishlist
 
+- laptop stand 
+- power solution fir desk
+- lazer level
 - ice cream scoop
 - larger can tire box for winter clothes rotation
 - 1ft ish lightning & micro usb cables
