@@ -1,5 +1,8 @@
 # Wishlist
 
+more roots socks
+aome type of baby jacket 
+
 - RBC rewards stuff (35,000 points):
   - Breville® The Precision Brewer® Glass Coffee Pot
   - Coleman® Montana™ 8 Tent with Hinged Door

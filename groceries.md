@@ -20,5 +20,6 @@
 - Bananas
 - Bread
 - bacon
+- milk
 - coffee
 - San pellegrino
