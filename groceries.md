@@ -18,8 +18,8 @@
 ## Grocery store
 
 - Bananas
+- Fruit
 - Bread
-- bacon
-- milk
+- Bacon
 - coffee
 - San pellegrino

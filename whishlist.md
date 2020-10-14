@@ -1,7 +1,8 @@
 # Wishlist
 
 more roots socks
-aome type of baby jacket 
+aome type of baby jacket
+better smoke detector
 
 - RBC rewards stuff (35,000 points):
   - Breville® The Precision Brewer® Glass Coffee Pot
