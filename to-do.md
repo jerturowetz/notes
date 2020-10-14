@@ -1,7 +1,6 @@
 # Jeremy's To-Do List
 
 - Clean oven
-- What is the size of my hacjksaw? I need blades
 - Organize besta
 - Run network cable to office
 - Baby proofing for Waldo's dresser, kitchen Ivar
