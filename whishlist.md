@@ -1,18 +1,18 @@
 # Wishlist
 
-more roots socks
-aome type of baby jacket
-better smoke detector
-
-- RBC rewards stuff (35,000 points):
-  - Breville® The Precision Brewer® Glass Coffee Pot
-  - Coleman® Montana™ 8 Tent with Hinged Door
-  - Down Inc.® Feather Down Pillow-Pair
-  - OXO® SteeL™ 10-Piece POP Food Storage Container Set
-
+- Can tire box for baby v2
+- reprint anniversary pic
+- Figure out roomba
+- RBC rewards stuff
+- Kijiji: Baby snowsuit (18-24 months)
+- Kijiji: Baby jacket
 - grovermade medium desk pad
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
-- Better usbc dongle
+
+- [rug](https://ruggable.com/collections/all)
+- home office mac keyboard
+- home office better mouse
+
 
 - Amazon order
   - power solution fir desk (10-15 ft)
@@ -29,7 +29,6 @@ better smoke detector
   - Pan scraper
   - Home gardening kit
   - Small plastic bags with label area
-  - [string loghts](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
 
 - IKEA:
   - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
@@ -38,28 +37,29 @@ better smoke detector
   - [Office storage](https://www.ikea.com/ca/en/p/bekant-storage-unit-with-smart-lock-mesh-white-s19286899/)
   - SLAVNAS extension & shelves
 
-- Baby snowsuit (18-24 months)
-- larger can tire box for winter clothes rotation
-- Figure out roomba
-- Kate bday
-- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
-- boot rack for front closet (30.5" x20.5")
+--
+
+- baby roots socks
 - packing cubes
-- reprint anniversary pic
 - Non-slip pads for under mats
 - better door mats
 - Abus 190CS/60 lock
+- Better smoke detector
+- Better pot
+- 12" cast iron
+- non stick
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - headphone bags/cases (x2)
 - Shelving for weird closet
+- [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
+- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
 - [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
+- [Cool art](https://www.concealed-art.com/nes-art)
+- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
-
---
-
 - [Bike mount](https://www.amazon.ca/Indoor-Outdoor-Bicycle-Storage-System-33-42mm/dp/B00U08FHZA/)
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
@@ -73,17 +73,10 @@ better smoke detector
   - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
   - [Metal straight edge](https://www.homedepot.ca/product/empire-9-1-2-in-heavy-duty-try-square/1000812524)
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - [c9rdless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
+  - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
   - Another utility knife
   - Handsaw
   - 12" hacksaw blades
-- [art](https://www.concealed-art.com/nes-art)
-- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
-- desk cable clips
-- Ramen bowls
-- Better pot
-- 12" cast iron
-- non stick
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 

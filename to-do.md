@@ -2,7 +2,6 @@
 
 - Clean oven
 - Organize besta
-- Run network cable to office
 - Baby proofing for Waldo's dresser, kitchen Ivar
 - Fix lazy susan
 - Set up baby gate
