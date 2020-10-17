@@ -51,6 +51,7 @@
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - headphone bags/cases (x2)
 - Shelving for weird closet
+- [Datavac](https://www.globalindustrial.ca/p/janitorial-maintenance/floor-care/computer/vacuumblowers-computersappliances-metrodatavacelectricduster-261430)
 - [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
 - [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
 - [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
