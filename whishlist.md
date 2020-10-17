@@ -1,11 +1,23 @@
 # Wishlist
 
 - Can tire box for baby v2
+- ikea storage boxes for sheets/pillows
 - reprint anniversary pic
 - Figure out roomba
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
 - Kijiji: Baby jacket
+more roots socks
+aome type of baby jacket
+- https://www.macauslandswoollenmills.com/
+
+
+- RBC rewards stuff (35,000 points):
+  - Breville® The Precision Brewer® Glass Coffee Pot
+  - Coleman® Montana™ 8 Tent with Hinged Door
+  - Down Inc.® Feather Down Pillow-Pair
+  - OXO® SteeL™ 10-Piece POP Food Storage Container Set
+
 - grovermade medium desk pad
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
 

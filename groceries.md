@@ -18,8 +18,11 @@
 ## Grocery store
 
 - Bananas
-- Fruit
-- Bread
-- Bacon
-- coffee
+- Fruits
+- cheddar & emmental
+- plain greek yogurt
+- bacon
+- milk
 - San pellegrino
+- frozen stawberries, tropical fruit, pineapple
+- paper towels
