@@ -7,6 +7,29 @@
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
 - Kijiji: Baby jacket
+
+junk darwe 12.25x15.5
+
+tool box 22.2 w
+
+masking tape
+
+explore stacking shelves for small closet
+
+explore shelving unit for tool cases
+
+light bulbs babes room
+
+back of door broomnholder
+
+
+dony neet nut drivers
+but need ratchet
+
+canadian tire has great junk drawer organizers
+
+
+
 more roots socks
 aome type of baby jacket
 - https://www.macauslandswoollenmills.com/
