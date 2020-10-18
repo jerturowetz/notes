@@ -1,10 +1,6 @@
 # Wishlist
 
-- Can tire:
-  - junk drawer inserts 12.25x15.5
-  - under shelf basket
-  - 1 more office light bulb
-  - light bulbs babes room
+- canadian tire (madesmart bins)
 - reprint anniversary pic
 - Figure out roomba
 - RBC rewards stuff
