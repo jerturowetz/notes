@@ -1,54 +1,19 @@
 # Wishlist
 
-- Can tire box for baby v2
-- ikea storage boxes for sheets/pillows
+- Can tire:
+  - junk drawer inserts 12.25x15.5
+  - under shelf basket
+  - 1 more office light bulb
+  - light bulbs babes room
 - reprint anniversary pic
 - Figure out roomba
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
 - Kijiji: Baby jacket
-
-junk darwe 12.25x15.5
-
-tool box 22.2 w
-
-masking tape
-
-explore stacking shelves for small closet
-
-explore shelving unit for tool cases
-
-light bulbs babes room
-
-back of door broomnholder
-
-
-dony neet nut drivers
-but need ratchet
-
-canadian tire has great junk drawer organizers
-
-
-
-more roots socks
-aome type of baby jacket
-- https://www.macauslandswoollenmills.com/
-
-
-- RBC rewards stuff (35,000 points):
-  - Breville® The Precision Brewer® Glass Coffee Pot
-  - Coleman® Montana™ 8 Tent with Hinged Door
-  - Down Inc.® Feather Down Pillow-Pair
-  - OXO® SteeL™ 10-Piece POP Food Storage Container Set
-
+- explore stacking shelves for small closet
 - grovermade medium desk pad
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
-
-- [rug](https://ruggable.com/collections/all)
 - home office mac keyboard
-- home office better mouse
-
-
 - Amazon order
   - power solution fir desk (10-15 ft)
   - outlet power with usb
@@ -64,13 +29,11 @@ aome type of baby jacket
   - Pan scraper
   - Home gardening kit
   - Small plastic bags with label area
-
 - IKEA:
-  - [Footstool with storage](https://www.ikea.com/ca/en/p/gamlehult-footstool-with-storage-rattan-anthracite-10434309/)
   - ikea raskog grey metal cabinet pins
-  - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
-  - [Office storage](https://www.ikea.com/ca/en/p/bekant-storage-unit-with-smart-lock-mesh-white-s19286899/)
   - SLAVNAS extension & shelves
+  - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
+  - [OBSERVATÖR clip on basket (broom closet)](https://www.ikea.com/ca/en/p/observatoer-clip-on-basket-gray-brown-20312492/)
 
 --
 
@@ -86,6 +49,7 @@ aome type of baby jacket
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - headphone bags/cases (x2)
 - Shelving for weird closet
+- [rug](https://ruggable.com/collections/all)
 - [Datavac](https://www.globalindustrial.ca/p/janitorial-maintenance/floor-care/computer/vacuumblowers-computersappliances-metrodatavacelectricduster-261430)
 - [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
 - [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
@@ -100,6 +64,7 @@ aome type of baby jacket
 - [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
+- [King or larger blanket](https://www.macauslandswoollenmills.com/)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)

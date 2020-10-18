@@ -17,8 +17,7 @@
 
 ## Grocery store
 
-- cheddar & emmental
+- emmental
 - plain greek yogurt
 - San pellegrino
-- frozen stawberries, tropical fruit, pineapple
 - paper towels
