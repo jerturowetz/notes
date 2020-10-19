@@ -1,19 +1,23 @@
 # Wishlist
 
-2prong ext flat plug for vabyvroom
-- noma bulbs for office chandelier (currebtly using 25w)
-- noma 40w warm temp x3 (less than 800 lumens please )
-- canadian tire (madesmart bins)
-- reprint anniversary pic
-- Figure out roomba
+- usbc or whatever for keychron k1
+- mac keyboard (ducky? k1?)
+- Roomba
+- Dryer
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
 - Kijiji: Baby jacket
-- explore stacking shelves for small closet
 - grovermade medium desk pad
+- [reprint anniversary pic](https://www.staplescopyandprint.ca/Default.aspx)
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
-- home office mac keyboard
-- Amazon order
+- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
+- [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
+
+- Canadian Tire:
+  - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
+  - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
+- Amazon order:
+  - 2 prong ext flat plug for baby room
   - power solution fir desk (10-15 ft)
   - outlet power with usb
   - 1ft ish lightning & micro usb cables
@@ -26,62 +30,20 @@
   - hair product
   - pantry shelves are 21" opening, 22.25 deep
   - Pan scraper
-  - Home gardening kit
   - Small plastic bags with label area
+  - New non stick pans
+  - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
+  - [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
 - IKEA:
   - ikea raskog grey metal cabinet pins
   - SLAVNAS extension & shelves
   - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
   - [OBSERVATÖR clip on basket (broom closet)](https://www.ikea.com/ca/en/p/observatoer-clip-on-basket-gray-brown-20312492/)
-
---
-
-- baby roots socks
-- packing cubes
-- Non-slip pads for under mats
-- better door mats
-- Abus 190CS/60 lock
-- Better smoke detector
-- Better pot
-- 12" cast iron
-- non stick
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- headphone bags/cases (x2)
-- Shelving for weird closet
-- [rug](https://ruggable.com/collections/all)
-- [Datavac](https://www.globalindustrial.ca/p/janitorial-maintenance/floor-care/computer/vacuumblowers-computersappliances-metrodatavacelectricduster-261430)
-- [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
-- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
-- [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
-- [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
-- [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
-- [Cool art](https://www.concealed-art.com/nes-art)
-- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
-- [Bike mount](https://www.amazon.ca/Indoor-Outdoor-Bicycle-Storage-System-33-42mm/dp/B00U08FHZA/)
-- [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
-- [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
-- [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
-- [King or larger blanket](https://www.macauslandswoollenmills.com/)
-- T-shirts:
-  - [Solids t-shirt](https://solids.bandcamp.com/merch)
-  - [Good t-shirts](https://us.kowtowclothing.com/)
-  - [Paperole shirts](https://www.paperole.com/)
-- Hardware store
-  - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
-  - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
-  - [Metal straight edge](https://www.homedepot.ca/product/empire-9-1-2-in-heavy-duty-try-square/1000812524)
-  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
-  - Another utility knife
-  - Handsaw
-  - 12" hacksaw blades
-- $200 Angelo, Andrew, Joe gifts
-- $100 Fer sher
+  - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 
 ## Bike stuff (review)
 
+- Bike rain gear
 - [Bike gloves](https://www.cyclingweekly.com/group-tests/the-best-winter-cycling-gloves-6216)
 - [Bike lights](https://www.cyclingweekly.com/group-tests/cycling-lights-buyers-guide-141811)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
@@ -93,6 +55,75 @@
 - small dopp kit
 - small bag for cables
 - [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
+
+
+
+- Dopp kit contents:
+  - Soap
+  - Soap wrap
+  - Soft hand towel
+  - Nail clippers
+  - Tweezers
+  - Mitchum
+  - Toothpaste
+
+
+Office
+- Dopp kit(https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
+Deep drawer organizers (measure, maybe box with lid)
+Packing cubes
+Small toolkit:
+Snips
+Cable ties
+Screwdriver
+Allan keys
+Tape measure
+
+
+
+
+
+
+
+
+## Later
+
+- Fractal Design Define 7
+- Better smoke detector
+- Shelving for weird closet
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
+- [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
+- [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
+- [Cool art](https://www.concealed-art.com/nes-art)
+- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
+- [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
+- [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
+- [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
+- [King or larger blanket](https://www.macauslandswoollenmills.com/)
+- T-shirts:
+  - [Solids t-shirt](https://solids.bandcamp.com/merch)
+  - [Good t-shirts](https://us.kowtowclothing.com/)
+  - [Paperole shirts](https://www.paperole.com/)
+- Hardware store
+  - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
+  - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
+  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
+  - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
+  - Another utility knife
+  - Handsaw
+  - 12" hacksaw blades
+  - Better tape measure
+  - Woodpeckers strait edge
+  - 12v drill (not Makita)
+  - Clamps
+  - Circular saw
+  - Abus 190CS/60 lock
+  - Lock latch top install in shed door
+- $200 Angelo, Andrew, Joe gifts
+- $100 Fer sher
 
 ## Boots/shoes
 
