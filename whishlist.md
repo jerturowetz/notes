@@ -1,5 +1,8 @@
 # Wishlist
 
+2prong ext flat plug for vabyvroom
+- noma bulbs for office chandelier (currebtly using 25w)
+- noma 40w warm temp x3 (less than 800 lumens please )
 - canadian tire (madesmart bins)
 - reprint anniversary pic
 - Figure out roomba

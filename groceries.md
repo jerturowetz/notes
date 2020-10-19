@@ -18,6 +18,8 @@
 ## Grocery store
 
 - emmental
+- butter
+- veg oil
 - plain greek yogurt
 - San pellegrino
 - paper towels
