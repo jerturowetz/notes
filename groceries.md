@@ -18,9 +18,14 @@
 ## Grocery store
 
 - emmental
+- green vegp
 - butter
 - veg oil
 - plain greek yogurt
 - San pellegrino
 - paper towels
 - bleach
+- coffee
+- frozen mango, strawberries
+- eggs
+
