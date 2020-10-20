@@ -1,7 +1,7 @@
 # Wishlist
 
+- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - usbc or whatever for keychron k1
-- mac keyboard (ducky? k1?)
 - Roomba
 - Dryer
 - RBC rewards stuff
@@ -16,6 +16,7 @@
 - Canadian Tire:
   - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
   - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
+
 - Amazon order:
   - 2 prong ext flat plug for baby room
   - power solution fir desk (10-15 ft)
@@ -34,6 +35,8 @@
   - New non stick pans
   - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
   - [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
+
+
 - IKEA:
   - ikea raskog grey metal cabinet pins
   - SLAVNAS extension & shelves
