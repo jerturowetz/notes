@@ -1,23 +1,23 @@
 # Wishlist
 
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- usbc or whatever for keychron k1
+- Dowels & wood for boot rack
 - Roomba
 - Dryer
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
-- Kijiji: Baby jacket
 - grovermade medium desk pad
 - [reprint anniversary pic](https://www.staplescopyandprint.ca/Default.aspx)
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
-- [shoe rack](https://www.mobilevisionus.com/bamboo/bamboo-boot-rack-amp-shoe-organizer)
-- [Extra fridge door shelf](https://www.searspartsdirect.com/product/3fkhd2hk4f-0046-464/id-67003777)
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+- [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
+- [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
 
 - Canadian Tire:
   - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
   - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
 
 - Amazon order:
+  - [Screw guide](https://www.amazon.ca/DEWALT-DW2095-Magnetic-Drive-Guide/dp/B00004RH24/)
   - 2 prong ext flat plug for baby room
   - power solution fir desk (10-15 ft)
   - outlet power with usb
@@ -34,9 +34,7 @@
   - Small plastic bags with label area
   - New non stick pans
   - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
-  - [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
-
-
+  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
 - IKEA:
   - ikea raskog grey metal cabinet pins
   - SLAVNAS extension & shelves
@@ -55,12 +53,9 @@
 
 ## Office
 
-- small dopp kit
-- small bag for cables
 - [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
-
-
-
+- [Dopp kit](https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
+- Deep drawer organizers (measure, maybe box with lid)
 - Dopp kit contents:
   - Soap
   - Soap wrap
@@ -70,25 +65,6 @@
   - Mitchum
   - Toothpaste
 
-
-Office
-- Dopp kit(https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
-Deep drawer organizers (measure, maybe box with lid)
-Packing cubes
-Small toolkit:
-Snips
-Cable ties
-Screwdriver
-Allan keys
-Tape measure
-
-
-
-
-
-
-
-
 ## Later
 
 - Fractal Design Define 7
@@ -96,6 +72,7 @@ Tape measure
 - Shelving for weird closet
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
 - [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
@@ -115,6 +92,13 @@ Tape measure
   - [Better voltage tester](https://www.homedepot.ca/product/klein-tools-dual-range-non-contact-voltage-tester/1000705444)
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
   - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
+  - [3/8" socket adaptor](https://www.homedepot.ca/product/milwaukee-tool-1-4-inch-x-3-8-inch-steel-square-socket-adapter/1000741100)
+  - [1/2" socket adaptor](https://www.homedepot.ca/product/dewalt-1-4-inch-hex-to-1-2-inch-square-impact-ready-socket-adapter/1000657751)
+  - [Bosch 8 pc. Impact Tough Square 2 inch Power Bits with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-8-pc-impact-tough-square-2-inch-power-bits-with-clip-for-custom-case-system/1001388383)
+  - [Bosch 4 pc. 1-7/8 inch Nutsetters with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-4-pc-1-7-8-inch-nutsetters-with-clip-for-custom-case-system/1001388390)
+  - [Bosch 8 pc. Impact Tough Phillips 2 inch Power Bits with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-8-pc-impact-tough-phillips-2-inch-power-bits-with-clip-for-custom-case-system/1001388381)
+  - [6" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-6-inch-shockwave-impact-locking-bit-holder/1001179458?rrec=true)
+  - [12" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-shockwave-12-inch-magnetic-bit-tip-holder/1001011002)
   - Another utility knife
   - Handsaw
   - 12" hacksaw blades
