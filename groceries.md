@@ -9,6 +9,11 @@
 - Hungarian sweet paprika
 - Hungarian hot paprika
 - Coriander
+- Sichuan peppercorns
+- white peppercorns
+- oragano
+- annatto seeds
+- coriander seeds
 
 ## Chinese Grocery
 
@@ -21,8 +26,9 @@
 - tomatoes
 - Garlic
 - Potatoes
+- onion
 - plums
-- strawberries blueberries
+- strawberries, blueberries
 - bananas
 - Bread & rolls
 - Roast beef
@@ -41,3 +47,13 @@
 - frozen mango, strawberries
 - San pellegrino
 - N/A beer
+
+- 2 lb. ground pork, divided
+- Ginger
+- Tomato paste
+- achiote (annatto) paste (can make)
+- bitter orange juice
+- chili oil
+- black (Chinkiang) vinegar
+- cilantro
+- roasted peanuts

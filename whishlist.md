@@ -1,5 +1,7 @@
 # Wishlist
 
+- [Small wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-rectangular-basket--12646-1192300?catId=8242&colourId=1)
+- [Large Wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-cube-basket--12646-1192400?catId=8242&colourId=1)
 - Dowels & wood for boot rack
 - Roomba
 - Dryer
@@ -17,6 +19,7 @@
   - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
 
 - Amazon order:
+  - [spice shelf thingy](https://www.amazon.ca/YouCopia-50166-Stack-Adjustable-Organizer/dp/B07SZDZLQQ/)
   - [Screw guide](https://www.amazon.ca/DEWALT-DW2095-Magnetic-Drive-Guide/dp/B00004RH24/)
   - 2 prong ext flat plug for baby room
   - power solution fir desk (10-15 ft)
@@ -75,7 +78,6 @@
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
-- [spice shelf thingy](https://solutions-stores.ca/classic-spicestack-24-bottle-organizer/)
 - [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
