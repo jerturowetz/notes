@@ -1,5 +1,8 @@
 # Wishlist
 
+
+maidon simons has large metal baskets
+
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - usbc or whatever for keychron k1
 - Roomba
