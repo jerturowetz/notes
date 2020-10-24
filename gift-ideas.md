@@ -12,15 +12,14 @@
 - [Adam driver mug](https://www.etsy.com/listing/739419654/adam-driver-mug-custom-celebrity-gift-11?variation0=1254658415)
 - [Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
 - [Kate choker](https://en.horacejewelry.com/)
+- [Masterclass](https://www.masterclass.com/)
 - Horse trips in gore quebec
 - Water bottle & holder for bike
-- Kobo
 - Matador camera case
-- Roots remix slim cuff sweatpant (L)
+- Roots remix slim cuff sweatpant (M)
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
 - Banjo lessons
-- Avada Products
 - Woodworking school gift cert
 - Books:
   - Lanny by Max Porter
