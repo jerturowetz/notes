@@ -71,6 +71,7 @@
 - Better smoke detector
 - Shelving for weird closet
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)

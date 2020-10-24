@@ -17,15 +17,27 @@
 
 ## Grocery store
 
-- emmental
-- green vegp
+- green veg
+- tomatoes
+- Garlic
+- Potatoes
+- plums
+- strawberries blueberries
+- bananas
+- Bread & rolls
+- Roast beef
+- emmental & cheddar
+- baby milk
+- milk
+- yogurt (both)
 - butter
-- veg oil
-- plain greek yogurt
-- San pellegrino
+- eggs
+- coconut water
 - paper towels
 - bleach
+- veg oil
 - coffee
-- frozen mango, strawberries
-- eggs
 - Yellow mustard
+- frozen mango, strawberries
+- San pellegrino
+- N/A beer
