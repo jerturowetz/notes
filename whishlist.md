@@ -1,53 +1,21 @@
 # Wishlist
 
-
-maidon simons has large metal baskets
-
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- usbc or whatever for keychron k1
-- [Small wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-rectangular-basket--12646-1192300?catId=8242&colourId=1)
-- [Large Wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-cube-basket--12646-1192400?catId=8242&colourId=1)
+- RBC rewards: Car seat
+- Kijiji: Baby snowsuit (18-24 months)
 - Dowels & wood for boot rack
 - Roomba
 - Dryer
-- RBC rewards stuff
-- Kijiji: Baby snowsuit (18-24 months)
-- grovermade medium desk pad
-- [reprint anniversary pic](https://www.staplescopyandprint.ca/Default.aspx)
-- [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
-- [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
-
+- Bins for pantry shelves (21" opening, 22.25 deep)
 - Canadian Tire:
   - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
   - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
-
-- Amazon order:
-  - [spice shelf thingy](https://www.amazon.ca/YouCopia-50166-Stack-Adjustable-Organizer/dp/B07SZDZLQQ/)
-  - [Screw guide](https://www.amazon.ca/DEWALT-DW2095-Magnetic-Drive-Guide/dp/B00004RH24/)
-  - 2 prong ext flat plug for baby room
-  - power solution fir desk (10-15 ft)
-  - outlet power with usb
-  - 1ft ish lightning & micro usb cables
-  - 3ft ish anker red lightning cable
-  - ice cube trays
-  - wire bowls for fridge
-  - little glass bowls
-  - baby proofing wall hooks
-  - baby travel lotion
-  - hair product
-  - pantry shelves are 21" opening, 22.25 deep
-  - Pan scraper
-  - Small plastic bags with label area
-  - New non stick pans
-  - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
-  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
 - IKEA:
   - ikea raskog grey metal cabinet pins
   - SLAVNAS extension & shelves
+  - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
   - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
-  - [OBSERVATÖR clip on basket (broom closet)](https://www.ikea.com/ca/en/p/observatoer-clip-on-basket-gray-brown-20312492/)
   - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 
 ## Bike stuff (review)
@@ -59,26 +27,18 @@ maidon simons has large metal baskets
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 - Water bottle cage & water bottle
 
-## Office
-
-- [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
-- [Dopp kit](https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
-- Deep drawer organizers (measure, maybe box with lid)
-- Dopp kit contents:
-  - Soap
-  - Soap wrap
-  - Soft hand towel
-  - Nail clippers
-  - Tweezers
-  - Mitchum
-  - Toothpaste
-
 ## Later
 
-- Fractal Design Define 7
+- grovermade medium desk pad
 - Better smoke detector
 - Shelving for weird closet
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
+- [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
+- [Small wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-rectangular-basket--12646-1192300?catId=8242&colourId=1)
+- [Large Wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-cube-basket--12646-1192400?catId=8242&colourId=1)
+- [Cooler master headset](https://www.amazon.ca/dp/B07JH3LSHN?tag=hardwar06-20)
+- [V-moda boom mic pro](https://www.amazon.ca/V-MODA-BoomPro-Microphone-Gaming-Communication/dp/B00BJ17WKK/)
 - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
@@ -91,6 +51,19 @@ maidon simons has large metal baskets
 - [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
 - [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
 - [King or larger blanket](https://www.macauslandswoollenmills.com/)
+- Amazon order:
+  - Prokeeper storage containers
+  - Pan scraper
+  - 2 prong ext flat plug for baby room
+  - power solution fir desk (10-15 ft)
+  - outlet power with usb
+  - 3ft ish anker red lightning cable
+  - ice cube trays
+  - little glass bowls
+  - [Replacement for bread basket](https://www.amazon.ca/Gourmet-Basics-Mikasa-5217596-Countertop/dp/B075QR3TBY/)
+  - [Dopp kit](https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
+  - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
+  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
