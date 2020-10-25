@@ -1,7 +1,7 @@
 # Jeremy's To-Do List
 
+- Pick up anniversary pick
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
-- Clean oven
 - Organize besta
 - Baby proofing for Waldo's dresser, kitchen Ivar
 - Fix lazy susan
