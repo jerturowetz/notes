@@ -3,6 +3,10 @@
 ## Meal Plan
 
 - Pork noodles
+- salmon & brussel
+- sachettini
+- sausages
+- chucken & roast carrots
 
 ## Spice store
 
@@ -10,50 +14,24 @@
 - Hungarian hot paprika
 - Coriander
 - Sichuan peppercorns
-- white peppercorns
+- white pp
 - oragano
 - annatto seeds
 - coriander seeds
 
-## Chinese Grocery
+## Chinese Groceryppp
 
 - noodles
 - dumplings x3
+- Chinkiang vinegar
 
 ## Grocery store
 
-- green veg
-- tomatoes
 - Garlic
-- Potatoes
-- onion
-- plums
-- strawberries, blueberries
-- bananas
-- Bread & rolls
-- Roast beef
-- emmental & cheddar
-- baby milk
-- milk
-- yogurt (both)
-- butter
-- eggs
-- coconut water
-- paper towels
-- bleach
-- veg oil
-- coffee
-- Yellow mustard
-- frozen mango, strawberries
-- San pellegrino
-- N/A beer
+- tomatoes
 
-- 2 lb. ground pork, divided
-- Ginger
-- Tomato paste
-- achiote (annatto) paste (can make)
-- bitter orange juice
+--
+
+- achiote (annatto) paste
 - chili oil
-- black (Chinkiang) vinegar
-- cilantro
-- roasted peanuts
+- frozen mango, strawberries
