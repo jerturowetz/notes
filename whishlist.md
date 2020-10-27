@@ -1,18 +1,73 @@
-# Wishlist
+  # Wishlist
+
+
+amazon.ca
+
+lululemon
+roots
+simons
+
+home depot
+reno depot
+rona
+
+
+
+--
+
+
+
+Jabra earpiece for calls
+desktop audio thingy with vol & out for speakers
+desktop speakers
+desktop pad
+closed laptop stand/holder
+monitor mount
+
+
+
+
+
+- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
+
+
+
+
+
+
+things I want,m high priority:
+
+are storage bins for pantry
+
+
+
+
+
+[3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
+[1ft lightning cable](https://www.amazon.ca/Anker-Powerline-Lightning-Probably-Certified/dp/B01MXLEVR7/)
 
 - [Small wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-rectangular-basket--12646-1192300?catId=8242&colourId=1)
 - [Large Wire basket](https://www.simons.ca/en/decor/baskets-storage/wood-accent-cube-basket--12646-1192400?catId=8242&colourId=1)
+
+
 - Dowels & wood for boot rack
 - Roomba
 - Dryer
 - RBC rewards stuff
 - Kijiji: Baby snowsuit (18-24 months)
 - grovermade medium desk pad
-- [reprint anniversary pic](https://www.staplescopyandprint.ca/Default.aspx)
+
+
+
+
 - [rollerplade chair wheel replacements](https://theofficeoasis.com/products/rollerblade-office-chair-wheels/?variant=31153418764342)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
 - [Prokeeper storage items](https://www.bedbathandbeyond.ca/store/product/progressive-prokeeper-6-piece-set/1047367296)
+
+
+
+
 
 - Canadian Tire:
   - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
@@ -29,7 +84,6 @@
   - ice cube trays
   - wire bowls for fridge
   - little glass bowls
-  - baby proofing wall hooks
   - baby travel lotion
   - hair product
   - pantry shelves are 21" opening, 22.25 deep
@@ -38,6 +92,11 @@
   - New non stick pans
   - [Better door mat](https://www.amazon.ca/Color-Geometry-Geometric-Waterproof-Effective/dp/B085J2QMR8/)
   - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
+
+
+
+
+
 - IKEA:
   - ikea raskog grey metal cabinet pins
   - SLAVNAS extension & shelves
@@ -70,22 +129,13 @@
 
 ## Later
 
-- Fractal Design Define 7
 - Better smoke detector
 - Shelving for weird closet
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- [string lights for laura](https://www.amazon.ca/KNONEW-Photo-Clip-String-Lights/dp/B07FTBNV7L/)
-- [Fridge organizers](https://www.containerstore.com/organization-projects/kitchen/project/organize-your-fridge)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
-- [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
-- [Dell battery](http://www.laptopcharge.ca/category/search/dell/xps+13+9360.aspx)
-- [Other dell battery](https://www.canada-laptop-battery.com/canada-battery-dell-6097.html#)
-- [4 cup Mini food processor](https://www.amazon.ca/Cuisinart-CH-4BKC-Elite-Mini-Chopper/dp/B003WH9ID8/)
-- [King or larger blanket](https://www.macauslandswoollenmills.com/)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -97,29 +147,19 @@
   - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
   - [3/8" socket adaptor](https://www.homedepot.ca/product/milwaukee-tool-1-4-inch-x-3-8-inch-steel-square-socket-adapter/1000741100)
   - [1/2" socket adaptor](https://www.homedepot.ca/product/dewalt-1-4-inch-hex-to-1-2-inch-square-impact-ready-socket-adapter/1000657751)
-  - [Bosch 8 pc. Impact Tough Square 2 inch Power Bits with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-8-pc-impact-tough-square-2-inch-power-bits-with-clip-for-custom-case-system/1001388383)
-  - [Bosch 4 pc. 1-7/8 inch Nutsetters with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-4-pc-1-7-8-inch-nutsetters-with-clip-for-custom-case-system/1001388390)
-  - [Bosch 8 pc. Impact Tough Phillips 2 inch Power Bits with Clip for Custom Case System](https://www.homedepot.ca/product/bosch-8-pc-impact-tough-phillips-2-inch-power-bits-with-clip-for-custom-case-system/1001388381)
-  - [6" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-6-inch-shockwave-impact-locking-bit-holder/1001179458?rrec=true)
   - [12" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-shockwave-12-inch-magnetic-bit-tip-holder/1001011002)
-  - Another utility knife
   - Handsaw
   - 12" hacksaw blades
-  - Better tape measure
   - Woodpeckers strait edge
-  - 12v drill (not Makita)
   - Clamps
   - Circular saw
-  - Abus 190CS/60 lock
-  - Lock latch top install in shed door
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 
 ## Boots/shoes
 
-- Rain boots
-- Boat shoes or indoor moccasins (great for camping too)
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
+- Rain boots
 - Oboz Bridger 10" Insulated Waterproof (10)
 - Some type of ultra warm slip on like Baffin Canada Boots -40F/-40C (altitude) or clasic sorel
 
@@ -165,16 +205,16 @@
 
 ### Various & workbench stuff
 
-- Artist tape
 - 12 channel recording snake
-- tap for mic stand size
-- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- Small plastic envelopes
 - heat shrink
 - cable gland joints for headphone repairs
+- Artist tape
+- tap for mic stand size
+- Small plastic envelopes
 - Spare shure mic bags & clips
+- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
 - [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
-- Desktop mounted Magnifying glass with light
+- Desktop mounted magnifying glass with light
 - Guitar neck-rest
 - Stool/chair for piano
 - Cable box (piano plugs)
@@ -185,11 +225,12 @@
   - 18815 laptop holder
   - 18822 3rd level stacker
   - 18824 3rd level controller tray
+- [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
 - [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
-- K&M 210/8 or 252 (rack tom)
-- K&M 16080 headphone holder x2
-- Mic stand sandbags
-- Primacoustic CrashGuard 421 x2
-- Primacoustic SplashGuard x2
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
 - [se215](https://www.shure.com/en-US/products/earphones/se215)
+- K&M 210/8 or 252 (rack tom)
+- K&M 16080 headphone holder x2
+- Primacoustic CrashGuard 421 x2
+- Primacoustic SplashGuard x2
+- Photography studio sandbags
