@@ -1,5 +1,11 @@
 # Wishlist
 
+- Need to test mic from rehersal space
+- Mail stuff
+- Figure out carseat
+- figure out roomba
+- figure out amnazon order
+
 - [V-moda boom mic pro](https://www.amazon.ca/V-MODA-BoomPro-Microphone-Gaming-Communication/dp/B00BJ17WKK/)
 - Jabra earpiece for calls?
 
@@ -20,6 +26,7 @@
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
+- Matador soap travel bag
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
 - [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
