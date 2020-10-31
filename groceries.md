@@ -15,10 +15,10 @@
 
 ## Grocery store
 
-- 
-
- vrac eg voco on boyer
- mouscade 
- 
-- tomatoes
+- meat
+- green veg
 - frozen mango, strawberries
+- na beer
+- san P
+- reg perrier
+- coffee

@@ -1,5 +1,8 @@
 # Wishlist
 
+can tire: eraser
+
+
 - Need to test mic from rehersal space
 - Mail stuff
 - Figure out carseat
@@ -61,7 +64,7 @@
   - Circular saw
 - Canadian Tire:
   - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
-  - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs-soft-white-6-pk-0527053p.html#srp)
+  - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs -soft-white-6-pk-0527053p.html#srp)
 
 ## Boots/shoes
 
