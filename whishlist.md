@@ -1,13 +1,9 @@
 # Wishlist
 
-- Need to test mic from rehersal space
-- Mail stuff
-- Figure out carseat
-- figure out roomba
-- figure out amnazon order
+- Jabra Evolve 75
 
-- [V-moda boom mic pro](https://www.amazon.ca/V-MODA-BoomPro-Microphone-Gaming-Communication/dp/B00BJ17WKK/)
-- Jabra earpiece for calls?
+- Figure out carseat
+- bluetooth earpiece for calls?
 
 - Bins for pantry shelves (21" opening, 22.25 deep)
 - Vertical laptop stand
@@ -34,6 +30,7 @@
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
+- [monitor arm](https://www.amazon.com/WALI-Single-Monitor-Adjustable-Capacity/dp/B018MT6ZEK/)
 - Amazon order:
   - Prokeeper storage containers
   - outlet power with usb
@@ -76,6 +73,7 @@
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
 - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
+- IKEA Ypperlig Led Table Lamp
 
 ## Bike stuff (review)
 
