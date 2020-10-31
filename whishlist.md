@@ -55,7 +55,7 @@
   - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
   - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
   - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
-  - 1ft & 3ft lightning white, 1ft & 3ft micro usb white
+  - 1ft-2ft lightning white, 1ft-2ft micro usb white
   - rollerblade chair wheel replacements
 
 ## Boots/shoes
