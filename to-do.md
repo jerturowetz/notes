@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Get headphones from jam space
 - Pick up anniversary pick
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
