@@ -2,19 +2,19 @@
 
 - Figure out carseat
 
-- Jabra Evolve 75 or other bluetooth earpiece for calls?
-- Bins for pantry shelves (21" opening, 22.25 deep)
-- Vertical laptop stand
-- Prokeeper storage containers
-
 - Amazon order:
+  - [Some pantry bins](https://www.amazon.ca/Set-Refrigerator-Organizer-Bins-Countertops/dp/B07Q5B9GCS/141-6938667-4787823)
+  - [Vertical laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
   - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
   - [Dopp kit](https://www.amazon.ca/Kattee-Toiletry-Cosmetic-Organizer-Shaving/dp/B06WW49MRW)
   - [Outlett power](https://www.amazon.ca/Aduro-Protector-Multiple-Splitter-Extender/dp/B08C2FH7V1)
   - [Ice cube trays](https://www.amazon.ca/Silicone-Pieces-Square-Whiskey-Drinking/dp/B084VNJCX4)
+  - [Jabra talk 45](https://www.amazon.ca/Jabra-100-99800902-20-Headset-Bluetooth-Smartphones/dp/B07G6HK3WM)
+  - Prokeeper storage containers
 
 --
 
+- schiit fulla
 - Kijiji: Baby snowsuit (18-24 months)
 - Dowels & wood for boot rack
 - Roomba s9
