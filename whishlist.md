@@ -1,23 +1,7 @@
 # Wishlist
 
-can tire: eraser
-
-
-pull out fridge shelf
-
-mini mioche pants
-zara baby ling sleeve shirts
-
-- Need to test mic from rehersal space
-- Mail stuff
-- Figure out carseat
-- figure out roomba
-- figure out amnazon order
-- Jabra Evolve 75
-
-- Figure out carseat
-
 - Amazon order:
+  - [Car seat](https://www.amazon.ca/Cosco-22182CDEO-Scenera-Convertible-River/dp/B072826XWD/141-6152430-5699605)
   - [Some pantry bins](https://www.amazon.ca/Set-Refrigerator-Organizer-Bins-Countertops/dp/B07Q5B9GCS/141-6938667-4787823)
   - [Vertical laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
   - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
@@ -25,14 +9,17 @@ zara baby ling sleeve shirts
   - [Outlett power](https://www.amazon.ca/Aduro-Protector-Multiple-Splitter-Extender/dp/B08C2FH7V1)
   - [Ice cube trays](https://www.amazon.ca/Silicone-Pieces-Square-Whiskey-Drinking/dp/B084VNJCX4)
   - [Jabra talk 45](https://www.amazon.ca/Jabra-100-99800902-20-Headset-Bluetooth-Smartphones/dp/B07G6HK3WM)
+  - [Cheese drawer organizer (test)](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B003JHRGGW)
   - Prokeeper storage containers
 
 --
 
-- schiit fulla
-- Kijiji: Baby snowsuit (18-24 months)
+- [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
+- [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
+- Baby clothes (mini mioche pants, wool socks, zara long sleeve shirts)
+- schiit fulla & HEL
 - Dowels & wood for boot rack
-- Roomba s9
+- Roomba
 - Dryer
 - Pillows (Simons)
 - grovermade medium desk pad
@@ -43,23 +30,17 @@ zara baby ling sleeve shirts
 - $100 Fer sher
 - Matador soap travel bag
 - Webcam light for desk
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- [monitor arm](https://www.amazon.ca/WALI-Adjustable-Capacity-GSDM001S-Metallic/dp/B0875MCXS7)
+- Fridge regular shelf
+- Jabra Evolve 75
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
+- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
-- [monitor arm](https://www.amazon.com/WALI-Single-Monitor-Adjustable-Capacity/dp/B018MT6ZEK/)
-- Amazon order:
-  - Prokeeper storage containers Vic
-  - outlet power with usb
-  - ice cube trays
-  - rollerblade chair wheel replacements
-  - [Dopp kit](https://www.amazon.com/Dopp-kit-Shaving-Small-Toiletry/dp/B07R9R6VD2/)
-  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
-  - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
-  - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
+- Canadian Tire:
+  - [Madesmart bins](https://www.canadiantire.ca/en/pdp/madesmart-classic-storage-basket-grey-1426008p.html#srp)
+  - [madesmart 9x3](https://www.canadiantire.ca/en/pdp/madesmart-storage-bin-grey-9-in-x-3-in-1422199p.html#srp)
+  - [madesmart 9x6](https://www.canadiantire.ca/en/pdp/madesmart-granite-storage-bin-9-in-x-6-in-1422197p.html#srp)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -76,12 +57,13 @@ zara baby ling sleeve shirts
   - Woodpeckers straight edge
   - Clamps
   - Circular saw
-- Amazon Order:
+- Other Amazon order:
   - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
   - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
   - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
   - 1ft-2ft lightning white, 1ft-2ft micro usb white
   - rollerblade chair wheel replacements
+  - [wet bags for pool](https://www.amazon.ca/s?k=wet+bag)
 
 ## Boots/shoes
 
@@ -92,7 +74,6 @@ zara baby ling sleeve shirts
 ## IKEA
 
 - Raskog grey metal cabinet pins
-- IKEA Ypperlig Led Table Lamp
 - SLAVNAS extension & shelves
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
 - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)

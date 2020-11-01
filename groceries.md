@@ -1,22 +1,28 @@
-e# Groceries
+# Groceries
 
 ## Meal Plan
 
 - [Pavochon](https://www.bonappetit.com/recipe/pavochon)
 - [Asian turkey with glass noodles](https://www.bonappetit.com/recipe/mouthwatering-turkey-with-glass-noodles)
 
+## Parmacy
+
+- Advil
+- Eraser
+
 ## Grocery store
 
-- butter
+- cheddar
+- bread
+- burger buns
 - coconut water
-- mayo
-- na beer
-- san P
-- coffee
+- dish soap
+- cascade
 - drying agent
+- compost bags
+- mayo
+- coffee
 - pickles
 - olive oil
-
-bread
-burger buns
-
+- butter
+- na beer
