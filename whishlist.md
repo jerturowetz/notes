@@ -16,17 +16,23 @@ zara baby ling sleeve shirts
 - Jabra Evolve 75
 
 - Figure out carseat
-- bluetooth earpiece for calls?
 
-- Bins for pantry shelves (21" opening, 22.25 deep)
-- Vertical laptop stand
-
-- Kijiji: Baby snowsuit (18-24 months)
+- Amazon order:
+  - [Some pantry bins](https://www.amazon.ca/Set-Refrigerator-Organizer-Bins-Countertops/dp/B07Q5B9GCS/141-6938667-4787823)
+  - [Vertical laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
+  - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
+  - [Dopp kit](https://www.amazon.ca/Kattee-Toiletry-Cosmetic-Organizer-Shaving/dp/B06WW49MRW)
+  - [Outlett power](https://www.amazon.ca/Aduro-Protector-Multiple-Splitter-Extender/dp/B08C2FH7V1)
+  - [Ice cube trays](https://www.amazon.ca/Silicone-Pieces-Square-Whiskey-Drinking/dp/B084VNJCX4)
+  - [Jabra talk 45](https://www.amazon.ca/Jabra-100-99800902-20-Headset-Bluetooth-Smartphones/dp/B07G6HK3WM)
+  - Prokeeper storage containers
 
 --
 
+- schiit fulla
+- Kijiji: Baby snowsuit (18-24 months)
 - Dowels & wood for boot rack
-- Roomba
+- Roomba s9
 - Dryer
 - Pillows (Simons)
 - grovermade medium desk pad
@@ -36,10 +42,11 @@ zara baby ling sleeve shirts
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - Matador soap travel bag
+- Webcam light for desk
+- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
+- [monitor arm](https://www.amazon.ca/WALI-Adjustable-Capacity-GSDM001S-Metallic/dp/B0875MCXS7)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Better door mats](https://www.llbean.ca/shop/Waterhog-Mats/506645)
-- [packing cube set](https://packhacker.com/travel-gear/category/organizers-and-pouches/packing-cubes/)
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
@@ -66,27 +73,30 @@ zara baby ling sleeve shirts
   - [12" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-shockwave-12-inch-magnetic-bit-tip-holder/1001011002)
   - Handsaw
   - 12" hacksaw blades
-  - Woodpeckers strait edge
+  - Woodpeckers straight edge
   - Clamps
   - Circular saw
-- Canadian Tire:
-  - [better chandelier bulbs](https://www.canadiantire.ca/en/pdp/noma-led-candelabra-40w-light-bulbs-4-pk-0527028p.html#srp)
-  - [40w lights for baby's room](https://www.canadiantire.ca/en/pdp/noma-led-a19-40w-light-bulbs -soft-white-6-pk-0527053p.html#srp)
+- Amazon Order:
+  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
+  - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
+  - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
+  - 1ft-2ft lightning white, 1ft-2ft micro usb white
+  - rollerblade chair wheel replacements
 
 ## Boots/shoes
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- Rain boots
+- Rain boots (kamik)
 - Oboz Bridger 10" Insulated Waterproof (10)
 
 ## IKEA
 
 - Raskog grey metal cabinet pins
+- IKEA Ypperlig Led Table Lamp
 - SLAVNAS extension & shelves
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
 - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
-- IKEA Ypperlig Led Table Lamp
 
 ## Bike stuff (review)
 

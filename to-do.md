@@ -1,13 +1,10 @@
 # Jeremy's To-Do List
 
-- Get headphones from jam space
 - Pick up anniversary pick
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
 - Baby proofing for Waldo's dresser, kitchen Ivar
 - Fix lazy susan
-- Set up baby gate
-- Post dell on Kijiji
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Reactivate td savings auto deposit
 - IKEA battery drop off
