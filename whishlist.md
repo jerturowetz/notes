@@ -3,6 +3,11 @@
 can tire: eraser
 
 
+pull out fridge shelf
+
+mini mioche pants
+zara baby ling sleeve shirts
+
 - Need to test mic from rehersal space
 - Mail stuff
 - Figure out carseat
@@ -40,7 +45,7 @@ can tire: eraser
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
 - [monitor arm](https://www.amazon.com/WALI-Single-Monitor-Adjustable-Capacity/dp/B018MT6ZEK/)
 - Amazon order:
-  - Prokeeper storage containers
+  - Prokeeper storage containers Vic
   - outlet power with usb
   - ice cube trays
   - rollerblade chair wheel replacements

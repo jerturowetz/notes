@@ -1,24 +1,22 @@
-# Groceries
+e# Groceries
 
 ## Meal Plan
-
-- Pork noodles
-- salmon & brussel
-- sachettini
-- sausages
-- chucken & roast carrots
-
---
 
 - [Pavochon](https://www.bonappetit.com/recipe/pavochon)
 - [Asian turkey with glass noodles](https://www.bonappetit.com/recipe/mouthwatering-turkey-with-glass-noodles)
 
 ## Grocery store
 
-- meat
-- green veg
-- frozen mango, strawberries
+- butter
+- coconut water
+- mayo
 - na beer
 - san P
-- reg perrier
 - coffee
+- drying agent
+- pickles
+- olive oil
+
+bread
+burger buns
+
