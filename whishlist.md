@@ -1,6 +1,12 @@
 # Wishlist
 
+Baby scarf, baby gloves, baby neck warmer
+rain bike pants for kate
+
 can tire: eraser
+
+baby gore tex gloves
+baby bag 10l or whateve
 
 
 pull out fridge shelf
