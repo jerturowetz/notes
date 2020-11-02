@@ -1,5 +1,10 @@
 # Wishlist
 
+- Baby scarf, baby gloves, baby neck warmer
+- rain bike pants for kate
+- baby gore tex gloves
+- baby backpack
+
 - Amazon order:
   - [Car seat](https://www.amazon.ca/Cosco-22182CDEO-Scenera-Convertible-River/dp/B072826XWD/141-6152430-5699605)
   - [Some pantry bins](https://www.amazon.ca/Set-Refrigerator-Organizer-Bins-Countertops/dp/B07Q5B9GCS/141-6938667-4787823)
