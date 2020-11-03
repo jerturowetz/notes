@@ -1,5 +1,6 @@
 # Wishlist
 
+- Bike helmet
 - Baby scarf, baby gloves, baby neck warmer
 - rain bike pants for kate
 - baby gore tex gloves
