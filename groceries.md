@@ -9,6 +9,7 @@
 
 - Advil
 - Eraser
+- Baby cream
 
 ## Grocery store
 
