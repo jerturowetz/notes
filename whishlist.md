@@ -4,6 +4,7 @@
 - Mug for work
 - Other stuff for work from Andrea (??)
 - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
+- Bike helmet
 - Baby scarf, baby gloves, baby neck warmer
 - rain bike pants for kate
 - baby gore tex gloves
