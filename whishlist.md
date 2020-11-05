@@ -1,5 +1,9 @@
 # Wishlist
 
+- Interface for home
+- Mug for work
+- Other stuff for work from Andrea (??)
+- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
 - Baby scarf, baby gloves, baby neck warmer
 - rain bike pants for kate
 - baby gore tex gloves
@@ -39,7 +43,9 @@
 - Jabra Evolve 75
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?
+- [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
+page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
 - Canadian Tire:
@@ -69,6 +75,7 @@
   - 1ft-2ft lightning white, 1ft-2ft micro usb white
   - rollerblade chair wheel replacements
   - [wet bags for pool](https://www.amazon.ca/s?k=wet+bag)
+  - [Klein outlet tester](https://www.amazon.ca/Klein-Tools-RT210-Receptacle-Tester/dp/B01AKX8L0M)
 
 ## Boots/shoes
 
@@ -163,3 +170,4 @@
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - Photography studio sandbags
+- AUdio interface for home
