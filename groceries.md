@@ -21,8 +21,10 @@
 - drying agent
 - compost bags
 - mayo
+- panuy butter
 - coffee
 - pickles
 - olive oil
 - butter
+- milk
 - na beer
