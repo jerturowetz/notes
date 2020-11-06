@@ -20,6 +20,7 @@
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
 - Banjo lessons
+- rain bike pants for kate
 - Woodworking school gift cert
 - Books:
   - Lanny by Max Porter

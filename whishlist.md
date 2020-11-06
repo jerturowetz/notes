@@ -1,14 +1,12 @@
 # Wishlist
 
-- Interface for home
-- Mug for work
 - Other stuff for work from Andrea (??)
-- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
 - Bike helmet
 - Baby scarf, baby gloves, baby neck warmer
-- rain bike pants for kate
-- baby gore tex gloves
 - baby backpack
+
+- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
+- [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
 
 - Amazon order:
   - [Car seat](https://www.amazon.ca/Cosco-22182CDEO-Scenera-Convertible-River/dp/B072826XWD/141-6152430-5699605)
