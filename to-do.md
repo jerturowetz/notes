@@ -1,6 +1,5 @@
 # Jeremy's To-Do List
 
-- [Choose convertible stroller](https://www.alsomom.com/best-convertible-strollers/)
 - Rethink office storage
 - Online meetings: east west
 - Pick up anniversary pick

@@ -1,14 +1,11 @@
 # Wishlist
 
-- Other stuff for work from Andrea (??)
-- Bike helmet
-- Baby scarf, baby gloves, baby neck warmer
-- baby backpack
-
-- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
+- [Bike helmet](https://www.redbike.ca/product/giro-timberwolf-284879-1.htm)
+- [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
 - [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
 
 - Amazon order:
+  - [Potty](https://www.amazon.ca/dp/B07WX98S5N)
   - [Car seat](https://www.amazon.ca/Cosco-22182CDEO-Scenera-Convertible-River/dp/B072826XWD/141-6152430-5699605)
   - [Some pantry bins](https://www.amazon.ca/Set-Refrigerator-Organizer-Bins-Countertops/dp/B07Q5B9GCS/141-6938667-4787823)
   - [Vertical laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
@@ -22,6 +19,9 @@
 
 --
 
+- [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
+- [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
+- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
 - [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
 - [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
 - Baby clothes (mini mioche pants, wool socks, zara long sleeve shirts)
@@ -39,7 +39,6 @@
 - Matador soap travel bag
 - Webcam light for desk
 - Fridge regular shelf
-- Jabra Evolve 75
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?

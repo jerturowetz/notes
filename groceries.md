@@ -13,16 +13,15 @@
 
 ## Grocery store
 
-- cheddar
-- bread
-- burger buns
+- cheddar & emmental
+- bread etc
 - coconut water
 - dish soap
 - cascade
 - drying agent
 - compost bags
 - mayo
-- panuy butter
+- peanut butter
 - coffee
 - pickles
 - olive oil
