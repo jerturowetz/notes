@@ -61,6 +61,7 @@ page_type=E)
   - [3/8" socket adaptor](https://www.homedepot.ca/product/milwaukee-tool-1-4-inch-x-3-8-inch-steel-square-socket-adapter/1000741100)
   - [1/2" socket adaptor](https://www.homedepot.ca/product/dewalt-1-4-inch-hex-to-1-2-inch-square-impact-ready-socket-adapter/1000657751)
   - [12" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-shockwave-12-inch-magnetic-bit-tip-holder/1001011002)
+  - [Makita multi tool](https://www.homedepot.ca/product/makita-18v-cordless-multi-tool-tool-only-/1000732264)
   - Handsaw
   - 12" hacksaw blades
   - Woodpeckers straight edge
