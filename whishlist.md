@@ -2,7 +2,6 @@
 
 - [Bike helmet](https://www.redbike.ca/product/giro-timberwolf-284879-1.htm)
 - [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
-- [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
 
 - Amazon order:
   - [Potty](https://www.amazon.ca/dp/B07WX98S5N)
@@ -15,6 +14,7 @@
   - [Ice cube trays](https://www.amazon.ca/Silicone-Pieces-Square-Whiskey-Drinking/dp/B084VNJCX4)
   - [Jabra talk 45](https://www.amazon.ca/Jabra-100-99800902-20-Headset-Bluetooth-Smartphones/dp/B07G6HK3WM)
   - [Cheese drawer organizer (test)](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B003JHRGGW)
+  - [rollerblade chair wheel replacements](https://www.amazon.ca/MotionGrey-Rollerblade-Replacement-Replacing-Universal/dp/B07WJCTH4P/)
   - Prokeeper storage containers
 
 --
@@ -24,6 +24,7 @@
 - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
 - [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
 - [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
+- [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
 - Baby clothes (mini mioche pants, wool socks, zara long sleeve shirts)
 - schiit fulla & HEL
 - Dowels & wood for boot rack
@@ -72,7 +73,6 @@ page_type=E)
   - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
   - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
   - 1ft-2ft lightning white, 1ft-2ft micro usb white
-  - rollerblade chair wheel replacements
   - [wet bags for pool](https://www.amazon.ca/s?k=wet+bag)
   - [Klein outlet tester](https://www.amazon.ca/Klein-Tools-RT210-Receptacle-Tester/dp/B01AKX8L0M)
 
