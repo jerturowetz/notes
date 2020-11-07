@@ -9,12 +9,12 @@
 
 - Advil
 - Eraser
+- Baby cream
 
 ## Grocery store
 
-- cheddar
-- bread
-- burger buns
+- cheddar & emmental
+- bread etc
 - coconut water
 - dish soap
 - cascade
