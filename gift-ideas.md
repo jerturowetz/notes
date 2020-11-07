@@ -38,6 +38,11 @@
 Oversized martini glass (Max)
 Good bluetooth headphones for max
 
+## Waldo
+
+Schrade Uncle Henry (great first knife beater)
+[First guitar](https://loogguitars.ca/)
+
 ## Molly
 
 Online gift cert for a nice store (molly)

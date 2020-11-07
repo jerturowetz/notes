@@ -14,20 +14,30 @@
 ## Grocery store
 
 - cheddar & emmental
-- bread etc
+- meats
+- Blueberries
+- Banans
+- Oranges
+- Carrots
+- green leaf
+- other greens
+- bread
 - coconut water
 - dish soap
 - cascade
 - drying agent
 - compost bags
 - mayo
+- KD
 - panuy butter
 - cereal
-- coffee
 - pickles
+- Pickled beets
 - olive oil
 - butter
 - milk
 - vanillavyogurt
 - granola
 - na beer
+- milk (both)
+- vanilla yogurt
