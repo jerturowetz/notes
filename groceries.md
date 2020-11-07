@@ -22,9 +22,12 @@
 - compost bags
 - mayo
 - panuy butter
+- cereal
 - coffee
 - pickles
 - olive oil
 - butter
 - milk
+- vanillavyogurt
+
 - na beer
