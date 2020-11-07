@@ -1,5 +1,9 @@
 # Wishlist
 
+- [spice bottles](https://www.amazon.com/Aozita-Glass-Spice-Jars-Bottles/dp/B072N4Y9XY#customerReviews)
+Label maker
+
+
 - [Bike helmet](https://www.redbike.ca/product/giro-timberwolf-284879-1.htm)
 - [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
 - Better dock or dongle for home
