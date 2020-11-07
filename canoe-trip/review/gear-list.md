@@ -1,4 +1,13 @@
 # Canoe trip gear list
+
+
+$150 [Spyderco native 5 salt full serrated](https://www.bladehq.com/item--Spyderco-Native-5-Salt-Lockback--92692)
+Opinel #8 for mess kit
+Leatherman wave (Adam savage rec)
+$129 [Kizer Lundquist Feist Front Flipper Knife Green Micarta](https://www.bladehq.com/item--Kizer-Lundquist-Feist-Front-Flipper--117012)
+Extreme cold weather headlamp (worn battery pack)
+Axe (maybe a Hults Bruk 20" Salen Hatchet Swedish Axe)(https://www.bladehq.com/item--Hults-Bruk-20-Salen-Hatchet-Swedish--31566)
+Gerber StrongArm Fixed Blade Knife Coyote Brown
 https://www.mec.ca/en/product/6001-309/Coolmax-Liner-Socks
 camp kitcheb
 wooden spatula
