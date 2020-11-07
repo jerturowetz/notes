@@ -21,10 +21,13 @@
 - drying agent
 - compost bags
 - mayo
-- peanut butter
+- panuy butter
+- cereal
 - coffee
 - pickles
 - olive oil
 - butter
 - milk
+- vanillavyogurt
+
 - na beer
