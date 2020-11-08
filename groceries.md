@@ -35,6 +35,10 @@
 - Pickled beets
 - olive oil
 - butter
+- milk
+- vanillavyogurt
+- granola
+- na beer
 - milk (both)
 - vanilla yogurt
 
