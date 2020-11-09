@@ -1,16 +1,49 @@
 # Wishlist
 
+Work:
+
+- [Webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
+- [6ft headphone extsnion cable](https://www.amazon.ca/dp/B07QSHNMW4?psc=1)
+- [Cable cord thingy](https://www.amazon.ca/3-Pack-Desktop-Organizer-Management-Charging/dp/B08FKRYJT2)
+- [Laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
+
+
+- [Dock](https://www.amazon.com/dp/B07Z2PF8FV)
+
+Office personal tools kit (snips, cable ties, )
+Razer Core X Chroma (for the USB)
+
+--
+
+
+Non-Interaction Events in Google Analytics: https://www.bounteous.com/insights/2019/11/19/non-interaction-events-google-analytics/?lang=en-ca
+Google Analytics and Google Tag Manager Debugging Tools: https://www.bounteous.com/insights/2019/11/26/ga-gtm-debug-tools/?lang=en-ca
+White staples
+
+Home setup:
+Dock?
+Mic & boom arm or maybe USB jabra
+
+- iDesign linus deep drawer bins (ones I have are 5"Hx8"Wx16"D)
+- Can storage
+- [Bobino cord wrap](https://www.amazon.ca/Bobino-Cord-Wrap-Management-Organizer/dp/B0042RVA4C)
+- [House of markey earbuds](https://www.amazon.ca/House-Marley-EM-Je041-MI-Headphone-Mic-Midnight/dp/B01DKGP5U0)
 - [spice bottles](https://www.amazon.com/Aozita-Glass-Spice-Jars-Bottles/dp/B072N4Y9XY#customerReviews)
-Label maker
-
-lazy zuzan bins
-stackable buns for bar
-can storage
-idesign bins like used for tupperware 
-
+- Picture hangers for love hamburgers
+- Picture hanger for bathroom painting
+- Office storage (wall is 128cm max). Options we have are about: 52" x 47" x 17"
 
 - [Bike helmet](https://www.redbike.ca/product/giro-timberwolf-284879-1.htm)
 - [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
+
+
+What do I want?
+I can get an EGPu enclosure for a few $$$$ and then just get a GPU
+OR I can get a case and start building a PC
+
+
+- Label maker
+- Lazy zuzan bins
 - Better dock or dongle for home
 - Baby clothes (mini mioche pants, wool socks, zara long sleeve shirts)
 - schiit fulla & HEL
@@ -27,8 +60,8 @@ idesign bins like used for tupperware
 - Matador soap travel bag
 - Webcam light for desk
 - Fenix e12 mini flashlight
-- Whiteboard markers
 - Fridge regular shelf
+- $300 Voyager 5200 & charge case
 - $30 [CRKT Squid](https://www.bladehq.com/item--CRKT-Burnley-Squid-Frame-Lock-Knife--107739)
 - $140 [ESEE-6 Fixed](https://www.bladehq.com/cat--ESEE-RC-6--884)
 - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
@@ -37,8 +70,7 @@ idesign bins like used for tupperware
 - [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
 - [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
 - [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- [Yet another webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)≈
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
 - [Cool art](https://www.concealed-art.com/nes-art)
@@ -84,7 +116,6 @@ idesign bins like used for tupperware
 ## Boots/shoes
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- Rain boots (kamik)
 - Oboz Bridger 10" Insulated Waterproof (10)
 
 ## IKEA
@@ -94,10 +125,14 @@ idesign bins like used for tupperware
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
 - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
+- [bathroom stool](https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/)
+- [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
+- [tea towels](https://www.ikea.com/ca/en/p/rinnig-tea-towel-white-dark-gray-patterned-20476346/)
 
 ## Bike stuff (review)
 
 - Bike rain pants
+- Mud guards
 - [Bike gloves](https://www.cyclingweekly.com/group-tests/the-best-winter-cycling-gloves-6216)
 - [Bike lights](https://www.cyclingweekly.com/group-tests/cycling-lights-buyers-guide-141811)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
@@ -174,4 +209,3 @@ idesign bins like used for tupperware
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - Photography studio sandbags
-- AUdio interface for home

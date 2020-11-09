@@ -1,7 +1,6 @@
 # Jeremy's To-Do List
 
-- Rethink office storage
-- Online meetings: east west
+- Check monitors at home for display ports (to justify dock purchase)
 - Pick up anniversary pick
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
