@@ -1,5 +1,7 @@
 # Wishlist
 
+picture hanging kit
+
 - [spice bottles](https://www.amazon.com/Aozita-Glass-Spice-Jars-Bottles/dp/B072N4Y9XY#customerReviews)
 Label maker
 
