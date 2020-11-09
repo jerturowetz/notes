@@ -1,88 +1,59 @@
 # Wishlist
 
-Work:
-
-- [Webcam](logitech.com/en-ca/product/hd-pro-webcam-c920)
-- [6ft headphone extsnion cable](https://www.amazon.ca/dp/B07QSHNMW4?psc=1)
-- [Cable cord thingy](https://www.amazon.ca/3-Pack-Desktop-Organizer-Management-Charging/dp/B08FKRYJT2)
-- [Laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
-
-
-- [Dock](https://www.amazon.com/dp/B07Z2PF8FV)
-
-Office personal tools kit (snips, cable ties, )
-Razer Core X Chroma (for the USB)
+- Work stuff (confirm dock and send to Andrea):
+  - [Webcam](https://logitech.com/en-ca/product/hd-pro-webcam-c920)
+  - [6ft headphone extensions](https://www.amazon.ca/dp/B07QSHNMW4?psc=1)
+  - [lightning cables](https://www.amazon.ca/ilikable-Charger-Certified-Lightning-Compatible/dp/B084GM15PD#customerReviews)
+  - [Cable cord holder](https://www.amazon.ca/3-Pack-Desktop-Organizer-Management-Charging/dp/B08FKRYJT2)
+  - [Laptop stand](https://www.amazon.ca/Mosiso-Designed-Vertical-Space-Saving-Compatible/dp/B07K2V4B6F)
+  - [Dock ?](https://www.amazon.com/dp/B07Z2PF8FV)
 
 --
 
-
-Non-Interaction Events in Google Analytics: https://www.bounteous.com/insights/2019/11/19/non-interaction-events-google-analytics/?lang=en-ca
-Google Analytics and Google Tag Manager Debugging Tools: https://www.bounteous.com/insights/2019/11/26/ga-gtm-debug-tools/?lang=en-ca
-White staples
-
-Home setup:
-Dock?
-Mic & boom arm or maybe USB jabra
-
+- Prokeeper storage containers
 - iDesign linus deep drawer bins (ones I have are 5"Hx8"Wx16"D)
 - Can storage
+- Picture hangers for love hamburgers
+- Picture hangers for bathroom painting
+- [6ft headphone extensions](https://www.amazon.ca/dp/B07QSHNMW4?psc=1)
+- [Bike lights](https://www.amazon.ca/Cycle-Torch-Bolt-Combo-Rechargeable/dp/B01N2HZV9U#customerReviews)
 - [Bobino cord wrap](https://www.amazon.ca/Bobino-Cord-Wrap-Management-Organizer/dp/B0042RVA4C)
 - [House of markey earbuds](https://www.amazon.ca/House-Marley-EM-Je041-MI-Headphone-Mic-Midnight/dp/B01DKGP5U0)
-- [spice bottles](https://www.amazon.com/Aozita-Glass-Spice-Jars-Bottles/dp/B072N4Y9XY#customerReviews)
-- Picture hangers for love hamburgers
-- Picture hanger for bathroom painting
-- Office storage (wall is 128cm max). Options we have are about: 52" x 47" x 17"
-
-- [Bike helmet](https://www.redbike.ca/product/giro-timberwolf-284879-1.htm)
+- [spice bottles](https://www.amazon.ca/Spice-Jars-Bottles-Containers-Chalkboard/dp/B07193N71J)
 - [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
-
-
-What do I want?
-I can get an EGPu enclosure for a few $$$$ and then just get a GPU
-OR I can get a case and start building a PC
-
-
-- Label maker
-- Lazy zuzan bins
-- Better dock or dongle for home
-- Baby clothes (mini mioche pants, wool socks, zara long sleeve shirts)
-- schiit fulla & HEL
-- Dowels & wood for boot rack
-- Roomba
-- Dryer
-- Pillows (Simons)
-- grovermade medium desk pad
-- Better smoke detector
-- Shelving for weird closet
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- $200 Angelo, Andrew, Joe gifts
-- $100 Fer sher
-- Matador soap travel bag
-- Webcam light for desk
-- Fenix e12 mini flashlight
-- Fridge regular shelf
-- $300 Voyager 5200 & charge case
-- $30 [CRKT Squid](https://www.bladehq.com/item--CRKT-Burnley-Squid-Frame-Lock-Knife--107739)
-- $140 [ESEE-6 Fixed](https://www.bladehq.com/cat--ESEE-RC-6--884)
-- [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
-- [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
-- [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
 - [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
 - [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
-- [4 pole passthought](https://www.amazon.ca/Nobsound-Microphone-Audio-Switcher-Selector/dp/B07KS2KDWW)
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)≈
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
+- Baby clothes:
+  - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
+  - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
+  - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
+  - wool socks
+  - -30 snow suit
+
+--
+
+- Roomba
+- Dryer
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Cool art](https://www.concealed-art.com/nes-art)
-- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
-- Canadian Tire:
-  - [Madesmart bins](https://www.canadiantire.ca/en/pdp/madesmart-classic-storage-basket-grey-1426008p.html#srp)
-  - [madesmart 9x3](https://www.canadiantire.ca/en/pdp/madesmart-storage-bin-grey-9-in-x-3-in-1422199p.html#srp)
-  - [madesmart 9x6](https://www.canadiantire.ca/en/pdp/madesmart-granite-storage-bin-9-in-x-6-in-1422197p.html#srp)
-- T-shirts:
-  - [Solids t-shirt](https://solids.bandcamp.com/merch)
-  - [Good t-shirts](https://us.kowtowclothing.com/)
-  - [Paperole shirts](https://www.paperole.com/)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- Matador soap travel bag
+- Fenix e12 mini flashlight
+- Pillows (Simons)
+- grovermade medium desk pad
+- Shelving for weird closet
+- $30 [CRKT Squid](https://www.bladehq.com/item--CRKT-Burnley-Squid-Frame-Lock-Knife--107739)
+- $140 [ESEE-6 Fixed](https://www.bladehq.com/cat--ESEE-RC-6--884)
+- $200 Angelo, Andrew, Joe gifts
+- $100 Fer sher
+- Other Amazon order:
+  - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
+  - [Klein outlet tester](https://www.amazon.ca/Klein-Tools-RT210-Receptacle-Tester/dp/B01AKX8L0M)
+  - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
+  - [Dopp kit](https://www.amazon.ca/Kattee-Toiletry-Cosmetic-Organizer-Shaving/dp/B06WW49MRW)
+  - [Cheese drawer organizer (test)](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B003JHRGGW)
+  - [rollerblade chair wheel replacements](https://www.amazon.ca/MotionGrey-Rollerblade-Replacement-Replacing-Universal/dp/B07WJCTH4P/)
 - Hardware store
   - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
@@ -91,32 +62,24 @@ OR I can get a case and start building a PC
   - [1/2" socket adaptor](https://www.homedepot.ca/product/dewalt-1-4-inch-hex-to-1-2-inch-square-impact-ready-socket-adapter/1000657751)
   - [12" Magnetic Bit Holder](https://www.homedepot.ca/product/milwaukee-tool-shockwave-12-inch-magnetic-bit-tip-holder/1001011002)
   - [Makita multi tool](https://www.homedepot.ca/product/makita-18v-cordless-multi-tool-tool-only-/1000732264)
-  - Handsaw
-  - 12" hacksaw blades
-  - Woodpeckers straight edge
-  - Clamps
-  - Circular saw
-- Other Amazon order:
-  - [Potty](https://www.amazon.ca/dp/B07WX98S5N)
-  - [Drill guide](https://www.amazon.ca/Milescraft-1318-DrillMate-Drill-Guide/dp/B014A1Z92I)
-  - [3ft usb-c to usba v3](https://www.amazon.ca/Anker-Powerline-Durability-Samsung-Nintendo/dp/B01GN0M6NE/)
-  - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
-  - 1ft-2ft lightning white, 1ft-2ft micro usb white
-  - [wet bags for pool](https://www.amazon.ca/s?k=wet+bag)
-  - [Klein outlet tester](https://www.amazon.ca/Klein-Tools-RT210-Receptacle-Tester/dp/B01AKX8L0M)
-  - [Jabra talk 45](https://www.amazon.ca/Jabra-100-99800902-20-Headset-Bluetooth-Smartphones/dp/B07G6HK3WM)
-  - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
-  - [Dopp kit](https://www.amazon.ca/Kattee-Toiletry-Cosmetic-Organizer-Shaving/dp/B06WW49MRW)
-  - [Cheese drawer organizer (test)](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B003JHRGGW)
-  - [rollerblade chair wheel replacements](https://www.amazon.ca/MotionGrey-Rollerblade-Replacement-Replacing-Universal/dp/B07WJCTH4P/)
-  - Prokeeper storage containers
-  - [Bins](https://www.amazon.ca/Plastic-Kitchen-Cabinet-Refrigerator-Freezer/dp/B0894JQ5KP)
-  - [Bins](https://www.amazon.ca/mDesign-Plastic-Kitchen-Refrigerator-Organizer/dp/B07F9DHVZ8)
+- T-shirts:
+  - [Solids t-shirt](https://solids.bandcamp.com/merch)
+  - [Good t-shirts](https://us.kowtowclothing.com/)
+  - [Paperole shirts](https://www.paperole.com/)
+  - Gulfer shirt (just drive by the Jeean talon market)
 
 ## Boots/shoes
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - Oboz Bridger 10" Insulated Waterproof (10)
+
+## Bike stuff (review)
+
+- Bike rain pants
+- Mud guards
+- [Bike gloves](https://www.cyclingweekly.com/group-tests/the-best-winter-cycling-gloves-6216)
+- [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
+- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 
 ## IKEA
 
@@ -127,16 +90,6 @@ OR I can get a case and start building a PC
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 - [bathroom stool](https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/)
 - [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
-- [tea towels](https://www.ikea.com/ca/en/p/rinnig-tea-towel-white-dark-gray-patterned-20476346/)
-
-## Bike stuff (review)
-
-- Bike rain pants
-- Mud guards
-- [Bike gloves](https://www.cyclingweekly.com/group-tests/the-best-winter-cycling-gloves-6216)
-- [Bike lights](https://www.cyclingweekly.com/group-tests/cycling-lights-buyers-guide-141811)
-- [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
-- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 
 ## Music gear
 

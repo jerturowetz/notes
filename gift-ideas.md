@@ -2,6 +2,7 @@
 
 ## Kate
 
+- [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
 - [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
@@ -35,21 +36,22 @@
 
 ## Max
 
-Oversized martini glass (Max)
-Good bluetooth headphones for max
+- Oversized martini glass (Max)
+- Good bluetooth headphones for max
 
 ## Waldo
 
-Schrade Uncle Henry (great first knife beater)
-[First guitar](https://loogguitars.ca/)
+- Schrade Uncle Henry (great first knife beater)
+- [First guitar](https://loogguitars.ca/)
+- [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
 
 ## Molly
 
-Online gift cert for a nice store (molly)
+- Online gift cert for a nice store (molly)
 
 ## Sandra
 
-Piano (she regrets getting rid of hers)
+- Piano (she regrets getting rid of hers)
 
 ## Calendar plan
 
