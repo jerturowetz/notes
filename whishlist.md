@@ -72,6 +72,7 @@
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - Oboz Bridger 10" Insulated Waterproof (10)
+- Solomon quest hiking shoes
 
 ## Bike stuff (review)
 
