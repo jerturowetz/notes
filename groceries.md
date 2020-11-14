@@ -2,23 +2,22 @@
 
 ## Meal Plan
 
-- salmon with roast squash
-- pineapple chicken legs with roasted broccoli
 - bbq chicken drumsticks
-- stirfry with shrimp and carrots
+- Stirfry with shrimp and carrots
 - Beef tortellini with Rosee sauce
 - Fried fish
 
 ## Pasta shop
 
 - Rosee sauce
-- meat sauve 
+- Meat sauce
 
 ## Pharmacy
 
-- Eraser
-- Baby cream
+- Baby bedtime lotion
+
 
 ## Grocery store
 
-
+- N/A beer
+- Milk
