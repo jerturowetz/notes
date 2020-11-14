@@ -15,4 +15,5 @@
 - Stawberries
 - Cheddar
 - N/A beer
-- Milk
+- Milk x2
+- Yogurt
