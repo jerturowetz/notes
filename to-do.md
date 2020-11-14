@@ -1,7 +1,5 @@
 # Jeremy's To-Do List
 
-- Check monitors at home for display ports (to justify dock purchase)
-- Pick up anniversary pick
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
 - Baby proofing for Waldo's dresser, kitchen Ivar

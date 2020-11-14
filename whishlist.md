@@ -1,7 +1,5 @@
 # Wishlist
 
-
-
 https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/
 
 or
