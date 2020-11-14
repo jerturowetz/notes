@@ -1,55 +1,11 @@
 # Wishlist
 
-https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/
-
-or
-
-https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-70226053/
-
-
-
-
-Office stuff:
-
-[Office drawer bin (x4)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
-[Deep drawer bin](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
-
-
-
-
-
-
-
-
-- [Hair product](https://www.amazon.ca/Layrite-Water-Soluble-Pomade-Super/dp/B07B8WRGD6/146-0257191-1271175?psc=1)
-- [Bike lights](https://www.amazon.ca/Cycle-Torch-Bolt-Combo-Rechargeable/dp/B01N2HZV9U#customerReviews)
-- [House of markey earbuds](https://www.amazon.ca/House-Marley-EM-Je041-MI-Headphone-Mic-Midnight/dp/B01DKGP5U0)
-- [spice bottles](https://www.amazon.ca/Spice-Jars-Bottles-Containers-Chalkboard/dp/B07193N71J)
-- [Spice labels](https://www.amazon.ca/Talented-Kitchen-White-Spice-Label/dp/B0859ML2RG)
-
---
-
-- Prokeeper storage containers
-
-
-- [can storage](https://www.amazon.ca/Stackable-Rack-Organizer-Storage-cans/dp/B01N4AN1AZ/146-0257191-1271175)
-- [Can storage](https://www.amazon.ca/SimpleHouseware-Stackable-Rack-Organizer-White/dp/B07HS2ZF32)
-- Picture hangers for love hamburgers
-- Picture hangers for bathroom painting
-- iDesign linus deep drawer bins (ones I have are 5"Hx8"Wx16"D)
-
-- [Bobino stuff](https://us.mybobino.com/)
-- [Matador droplet](https://matadorup.com/collections/accessories/products/matador-droplet-wet-bag?variant=4876648067)
-- [Matador blanket](https://matadorup.com/collections/accessories/products/pocket-blanket-2-0?variant=34861130950)
-- [Matador camera case](https://matadorup.com/collections/accessories/products/camera-base-layer)
-- [Matador soap case](https://matadorup.com/collections/home-collection/products/flatpak-soap-bar-case?variant=32070483705969)
-- [baby backpack](https://www.thelasthunt.com/products/fjallraven-raven-mini-7l-backpack-llll-fjr-26050)
-- [Indoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Plaid/122965.html)
-- [outdoor door mat](https://www.llbean.ca/shop/Heavyweight-Recycled-Waterhog-Doormat%2C-Locked-Circles/76924.html)
 - Baby clothes:
   - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
   - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
+  - [merino tops](https://www.mec.ca/en/product/5054-525/Merino-Long-Sleeve-Crew)
+  - [merino bottom]
   - wool socks
   - -30 snow suit
 
@@ -61,23 +17,12 @@ Office stuff:
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- Matador soap travel bag
-- Fenix e12 mini flashlight
 - Pillows (Simons)
 - grovermade medium desk pad
-- Shelving for weird closet
-- $30 [CRKT Squid](https://www.bladehq.com/item--CRKT-Burnley-Squid-Frame-Lock-Knife--107739)
-- $140 [ESEE-6 Fixed](https://www.bladehq.com/cat--ESEE-RC-6--884)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
-- Other Amazon order:
-  - [Breast feeding pillow](https://www.amazon.ca/My-Brest-Friend-Breastfeeding-Natural/dp/B002IID23Y/)
-  - [Klein outlet tester](https://www.amazon.ca/Klein-Tools-RT210-Receptacle-Tester/dp/B01AKX8L0M)
-  - [Packing cube set](https://www.amazon.ca/Eagle-Creek-Specter-Compression-Strobe/dp/B00BYFC4Z4/141-6152430-5699605?psc=1)
-  - [Dopp kit](https://www.amazon.ca/Kattee-Toiletry-Cosmetic-Organizer-Shaving/dp/B06WW49MRW)
-  - [Cheese drawer organizer (test)](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B003JHRGGW)
-  - [rollerblade chair wheel replacements](https://www.amazon.ca/MotionGrey-Rollerblade-Replacement-Replacing-Universal/dp/B07WJCTH4P/)
 - Hardware store
   - [1/2" Drive socket set](https://www.homedepot.ca/product/dewalt-1-2-inch-drive-combination-impact-socket-set-23-piece-/1001104069)
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
@@ -90,25 +35,25 @@ Office stuff:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
+  - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
 
 ## Boots/shoes
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - Oboz Bridger 10" Insulated Waterproof (10)
-- Solomon quest hiking shoes
 
 ## Bike stuff (review)
 
-- Bike rain pants
 - Mud guards
-- [Bike gloves](https://www.cyclingweekly.com/group-tests/the-best-winter-cycling-gloves-6216)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
-- [Ultra thin backpack](https://matadorup.com/collections/home-collection/products/freerain24-2-0?variant=21036167397489)
 
 ## IKEA
 
+- For work:
+  - [Office drawer bin (x4)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
+  - [Deep drawer bin](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
@@ -116,6 +61,9 @@ Office stuff:
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 - [bathroom stool](https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/)
 - [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
+- [variera for bathroom counter](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+- [variera for bathroom counter](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-70226053/)
+- [Trampa door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
 
 ## Music gear
 
@@ -159,6 +107,7 @@ Office stuff:
 
 ### Various & workbench stuff
 
+- [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - 12 channel recording snake
 - heat shrink
 - cable gland joints for headphone repairs
@@ -166,8 +115,6 @@ Office stuff:
 - tap for mic stand size
 - Small plastic envelopes
 - Spare shure mic bags & clips
-- [Direct Sound Isolation Headphones](https://www.extremeheadphones.com/product-page/ex29-plus)
-- [Tama snare stand (HS80W)](https://www.timpano-percussion.com/us/pied-de-caisse-claire-tama-roadpro-hs80w.html?id=43102689)
 - Desktop mounted magnifying glass with light
 - Guitar neck-rest
 - Stool/chair for piano
@@ -180,7 +127,6 @@ Office stuff:
   - 18822 3rd level stacker
   - 18824 3rd level controller tray
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
-- [K&M phone holder](https://www.amazon.ca/dp/B00AF65OBE?tag=marcpric08-21)
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
 - [se215](https://www.shure.com/en-US/products/earphones/se215)
 - K&M 210/8 or 252 (rack tom)
