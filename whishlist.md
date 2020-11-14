@@ -11,6 +11,12 @@
 
 --
 
+Madesmart bins
+Spray paint
+toilet brush?
+mounts to hand broom
+simple combo lock
+
 - Hardware store
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
   - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
