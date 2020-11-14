@@ -5,7 +5,7 @@
 - [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
-- [Avada Wooden Brush](https://www.aveda.ca/product/17976/16651/best-sellers/aveda-wooden-paddle-brush#/shade/brush)
+- Paddle brush
 - [Kate bike](https://www.prioritybicycles.com/products/thegotham?aff=3)
 - [Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat)
 - [Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
@@ -24,7 +24,6 @@
 - rain bike pants for kate
 - Woodworking school gift cert
 - Books:
-  - Lanny by Max Porter
   - The Grammarians by Cathleen Schine
   - Grief is the Thing with Feathers by Max Porter
   - Picture by Lillian Ross
