@@ -2,7 +2,6 @@
 
 ## Meal Plan
 
-- bbq chicken drumsticks
 - Stirfry with shrimp and carrots
 
 ## Pharmacy
@@ -12,8 +11,6 @@
 
 ## Grocery store
 
-- Stawberries
-- Cheddar
-- N/A beer
-- Milk x2
-- Yogurt
+- Black peppercorns
+
+

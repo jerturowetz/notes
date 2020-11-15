@@ -11,21 +11,14 @@
 
 --
 
-Madesmart bins
-Spray paint
-toilet brush?
-mounts to hand broom
-simple combo lock
-
 - Hardware store
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
   - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
-
---
-
-- Winter jacket
+  - Broom hanging kit
+- winter coat
 - Roomba
 - Dryer
+- baby proof toilet brush
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
