@@ -9,13 +9,24 @@
   - wool socks
   - -30 snow suit
 
+  https://www.uniqlo.com/us/en/baby/heattech
+  https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
+https://www.mec.ca/en/product/6011-090/Flex-Tube
+
+
 --
+
+- [Madesmart bins](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
 
 - Hardware store
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
-  - Broom hanging kit
-- winter coat
+  - [sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+  - [Broom hooks](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
+  - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
+
+--
+
+- Winter jacket
 - Roomba
 - Dryer
 - baby proof toilet brush
