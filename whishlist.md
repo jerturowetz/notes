@@ -1,5 +1,9 @@
 # Wishlist
 
+WD19TB dock
+CalDigit TS3
+
+
 - Baby clothes:
   - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
@@ -37,10 +41,11 @@ label maker)
   - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
   - Smaller screw extension
   - Magnetic screw guide
+  - Needlenose pliers (cathy)
 
 --
 
-- Winter jacket
+- Winter jacket for deep cold
 - Roomba
 - Dryer
 - baby proof toilet brush

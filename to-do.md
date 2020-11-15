@@ -2,7 +2,7 @@
 
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
-- Baby proofing for Waldo's dresser, kitchen Ivar
+- Baby proofing for Waldo's dresser
 - Fix lazy susan
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Reactivate td savings auto deposit
