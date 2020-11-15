@@ -20,11 +20,9 @@ https://www.mec.ca/en/product/6011-090/Flex-Tube
 
 - Hardware store
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - [cordless orbital sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
   - [sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
   - [Broom hooks](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
   - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
-  - [ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 
 --
 
