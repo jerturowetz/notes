@@ -12,5 +12,13 @@
 ## Grocery store
 
 - Black peppercorns
+- meat
+- bananas
+- na beer
+
+
+another baby v2 bin
+10l ish baby bag
+more warm socks
 
 
