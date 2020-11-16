@@ -2,7 +2,11 @@
 
 ## Meal Plan
 
-- Stirfry with shrimp and carrots
+- Stir fry with shrimp
+- Dumplings & ???
+- tenderloin w/pasta & something green?
+- Chicken
+- Fish for frying & something green
 
 ## Pharmacy
 
@@ -11,14 +15,18 @@
 
 ## Grocery store
 
-- Black peppercorns
-- meat
 - bananas
-- na beer
-
-
-another baby v2 bin
-10l ish baby bag
-more warm socks
-
-
+- Fresh herbs for chick pea things
+- Bok choi
+- Other green veg
+- Sweet potato
+- green leaf
+- Mini carrots
+- Meats ?
+- Bacon
+- Eggs
+- Black peppercorns
+- Chick peas
+- n/a beer
+- Baby cereal
+- Baby snacks
