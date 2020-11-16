@@ -3,9 +3,9 @@
 ## Meal Plan
 
 - Stir fry with shrimp
-- Dumplings & ???
-- tenderloin w/pasta & something green?
-- Chicken
+- Dumplings & veg stir fry
+- Tenderloin w/yorkshire & something green?
+- Chicken w/pasta & something green?
 - Fish for frying & something green
 
 ## Pharmacy
