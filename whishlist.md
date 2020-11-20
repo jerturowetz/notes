@@ -10,7 +10,6 @@
 
 --
 
-
 - Baby clothes:
   - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
@@ -38,6 +37,9 @@
 
 --
 
+- 8" or 10" non stick
+- 16" light cast iron wok
+- Diaper genie refills
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - another baby v2 bin
 - 10-12l ish baby bag

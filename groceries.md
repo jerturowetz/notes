@@ -39,3 +39,6 @@
 - n/a beer
 - Baby cereal
 - Baby snacks
+- Large garbage bags
+- Milk both kinds
+- Fire starters
