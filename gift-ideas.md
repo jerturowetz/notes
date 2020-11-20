@@ -2,6 +2,7 @@
 
 ## Kate
 
+- [mittens](https://www.annexvintage.com/us/verloop-mitaines-faux-fur.html)
 - [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
