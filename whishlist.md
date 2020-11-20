@@ -1,7 +1,16 @@
 # Wishlist
 
+Large garbage bags
+Diaper genie refills
+Milk both kinds
+Fire starters
+
+
 WD19TB dock
 CalDigit TS3
+
+8" or 10" non stick
+16" light cast iron wok
 
 
 - Baby clothes:
