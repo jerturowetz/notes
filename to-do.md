@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Download the personal history of david copperfield
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Organize besta
 - Baby proofing for Waldo's dresser
