@@ -1,7 +1,14 @@
 # Wishlist
 
-WD19TB dock
-CalDigit TS3
+## BAby stuff
+
+- Merino
+- Hat
+- gloves
+- Neckwarmer/baclava
+- 12-18l bag
+
+--
 
 
 - Baby clothes:
@@ -9,30 +16,18 @@ CalDigit TS3
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
   - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
   - [merino tops](https://www.mec.ca/en/product/5054-525/Merino-Long-Sleeve-Crew)
+  - https://www.patagonia.ca/shop/kids-baby-toddler
+  - https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
+  - https://www.mec.ca/en/products/kids/toddler-and-child/clothing/base-layers/c/1959
+  - https://www.amazon.ca/Woolino-Washable-Merino-Toddler-Newborn/dp/B07XLTMNM4
   - [merino bottom]
   - wool socks
   - -30 snow suit
-
-https://www.uniqlo.com/us/en/baby/heattech
-https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
-https://www.mec.ca/en/product/6011-090/Flex-Tube
-shelf thingy for tool boxes (build it?)
-Show rack fro front closet?
-mailbox
-
-some type of boots/gloves dryer
-cable organixer under ikea desk
-14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
-
-winter padlock big numbers
-
-13" ish drawer divider & small foam (bathroom drawer
-printer
-label maker)
+  - https://www.uniqlo.com/us/en/baby/heattech
+  - https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
+  - https://www.mec.ca/en/product/6011-090/Flex-Tube
 
 --
-
-- [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
 
 - Hardware store
   - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
@@ -40,22 +35,34 @@ label maker)
   - [Broom hooks](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
   - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
   - Smaller screw extension
-  - Magnetic screw guide
-  - Needlenose pliers (cathy)
 
 --
 
+- macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
+- another baby v2 bin
+- 10-12l ish baby bag
+- [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
+- Mini blender
+- Water bottle
+- Webcam
+- Shelf thingy for tool boxes (build it?)
+- Show rack for front closet and/or some type of boots/gloves dryer
+- Mailbox
+- Cable organixer under ikea desk
+- 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
+- Winter padlock big numbers
+- 13" ish drawer divider & small foam (bathroom drawer)
+- Label maker
 - Winter jacket for deep cold
 - Roomba
 - Dryer
-- baby proof toilet brush
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - Pillows (Simons)
-- grovermade medium desk pad
+- Grovermade medium desk pad
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
@@ -78,9 +85,6 @@ label maker)
 
 ## IKEA
 
-- For work:
-  - [Office drawer bin (x4)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
-  - [Deep drawer bin](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
 - [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
