@@ -1,15 +1,5 @@
 # Wishlist
 
-## BAby stuff
-
-- Merino
-- Hat
-- gloves
-- Neckwarmer/baclava
-- 12-18l bag
-
---
-
 - Baby clothes:
   - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
@@ -25,6 +15,12 @@
   - https://www.uniqlo.com/us/en/baby/heattech
   - https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
   - https://www.mec.ca/en/product/6011-090/Flex-Tube
+
+  - Merino
+- Hat
+- gloves
+- Neckwarmer/baclava
+- 12-18l bag
 
 --
 
