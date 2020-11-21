@@ -15,12 +15,11 @@
   - https://www.uniqlo.com/us/en/baby/heattech
   - https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
   - https://www.mec.ca/en/product/6011-090/Flex-Tube
-
   - Merino
-- Hat
-- gloves
-- Neckwarmer/baclava
-- 12-18l bag
+  - Hat
+  - gloves
+  - Neckwarmer/baclava
+  - 12-18l bag
 
 --
 

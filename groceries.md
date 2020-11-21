@@ -19,6 +19,7 @@
 
 ## Grocery store
 
+- Fancy Jam
 - Bananas
 - Strawberries
 - Mini carrots
@@ -29,7 +30,6 @@
 - garlic
 - cheddar
 - barkeepers friend
-- carpet cleaner
 - Meats (?)
 - Chick peas
 - n/a beer
