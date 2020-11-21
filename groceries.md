@@ -2,10 +2,6 @@
 
 ## Meal Plan
 
-- Stir fry with shrimp
-- Dumplings & veg stir fry
-- Tenderloin w/yorkshire & something green?
-- Chicken w/pasta & something green?
 - Fish for frying & something green
 
 ## Take away to try
@@ -19,20 +15,8 @@
 
 ## Grocery store
 
-- 2 pizza dough
-- lasagna
-- Pizza sauce
-- Mozarella (wet & dry)
-- Bsil leaf
-- Meat for pizza
-
---
-
 - Fancy Jam
-- Bananas
-- Strawberries
 - Mini carrots
-- Fresh herbs for chick pea things
 - Bok choi
 - Other green veg
 - Sweet potato
