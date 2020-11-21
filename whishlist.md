@@ -35,11 +35,10 @@ more merino underthings
   - Smaller screw extension
 
 
-- rubbermaid 47" twintrack x4
-
-  [rubbermaid twin track x2](https://www.homedepot.ca/product/rubbermaid-25-inch-black-twin-track-upright/1000154055)
-  [rubbermaid twin track bracket x4](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
-  shelf
+  - rubbermaid 47" twintrack x4
+  - twin tack sort bracket x6
+  - twin track deep bracket x4
+  - shelves?
 
 --
 
