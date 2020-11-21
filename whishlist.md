@@ -1,5 +1,11 @@
 # Wishlist
 
+wood for hall trones
+wood for spare ivar shelf
+shelving for deskroom closet
+
+more merino underthings
+
 - Baby clothes:
   - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
   - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
@@ -9,13 +15,11 @@
   - https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
   - https://www.mec.ca/en/products/kids/toddler-and-child/clothing/base-layers/c/1959
   - https://www.amazon.ca/Woolino-Washable-Merino-Toddler-Newborn/dp/B07XLTMNM4
-  - [merino bottom]
-  - wool socks
-  - -30 snow suit
   - https://www.uniqlo.com/us/en/baby/heattech
   - https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
   - https://www.mec.ca/en/product/6011-090/Flex-Tube
-  - Merino
+  - wool socks
+  - -30 snow suit
   - Hat
   - gloves
   - Neckwarmer/baclava
@@ -30,20 +34,23 @@
   - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
   - Smaller screw extension
 
+
+- rubbermaid 47" twintrack x4
+
+  [rubbermaid twin track x2](https://www.homedepot.ca/product/rubbermaid-25-inch-black-twin-track-upright/1000154055)
+  [rubbermaid twin track bracket x4](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
+  shelf
+
 --
 
-- 8" or 10" non stick
 - 16" light cast iron wok
 - Diaper genie refills
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
-- another baby v2 bin
-- 10-12l ish baby bag
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
-- Mini blender
 - Water bottle
 - Webcam
 - Shelf thingy for tool boxes (build it?)
-- Show rack for front closet and/or some type of boots/gloves dryer
+- Shoe rack for front closet and/or some type of boots/gloves dryer
 - Mailbox
 - Cable organixer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer

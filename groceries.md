@@ -19,6 +19,15 @@
 
 ## Grocery store
 
+- 2 pizza dough
+- lasagna
+- Pizza sauce
+- Mozarella (wet & dry)
+- Bsil leaf
+- Meat for pizza
+
+--
+
 - Fancy Jam
 - Bananas
 - Strawberries
