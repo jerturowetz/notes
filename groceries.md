@@ -20,16 +20,19 @@
 - Mini carrots
 - Bok choi
 - Other green veg
-- Sweet potato
+- sweet potato
+- squash
 - garlic
 - cheddar
-- barkeepers friend
 - Meats (?)
-- Chick peas
-- n/a beer
-- gingerale
 - ice cream stuff
 - Baby cereal
 - Baby snacks
-- Large garbage bags
 - Fire starters
+
+--
+
+- n/a beer
+- gingerale
+- Large garbage bags
+- barkeepers friend

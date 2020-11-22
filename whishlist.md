@@ -23,6 +23,7 @@
 
 --
 
+- 12" lazy susan?
 - wood for hall trones
 - wood for spare ivar shelf
 - Diaper genie refills
