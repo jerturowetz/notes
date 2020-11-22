@@ -3,6 +3,7 @@
 ## Meal Plan
 
 - Fish for frying & something green
+- whole chicken w/brussel
 
 ## Take away to try
 
@@ -27,6 +28,7 @@
 - Chick peas
 - n/a beer
 - gingerale
+- ice cream stuff
 - Baby cereal
 - Baby snacks
 - Large garbage bags

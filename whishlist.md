@@ -1,48 +1,31 @@
 # Wishlist
 
-wood for hall trones
-wood for spare ivar shelf
-shelving for deskroom closet
-
-more merino underthings
-
-- Baby clothes:
-  - [Baby hat](https://www.mec.ca/en/product/5037-295/Toaster-Earflap-Hat)
-  - [Baby baclava](https://www.mec.ca/en/product/5060-506/Starrie-Merino-Balaclava)
-  - [Baby mitts](https://www.mec.ca/en/product/5037-298/Toasty-Mitts)
-  - [merino tops](https://www.mec.ca/en/product/5054-525/Merino-Long-Sleeve-Crew)
-  - https://www.patagonia.ca/shop/kids-baby-toddler
-  - https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
-  - https://www.mec.ca/en/products/kids/toddler-and-child/clothing/base-layers/c/1959
-  - https://www.amazon.ca/Woolino-Washable-Merino-Toddler-Newborn/dp/B07XLTMNM4
-  - https://www.uniqlo.com/us/en/baby/heattech
-  - https://www.amazon.ca/toddler-neck-warmer/s?k=toddler+neck+warmer
-  - https://www.mec.ca/en/product/6011-090/Flex-Tube
-  - wool socks
-  - -30 snow suit
-  - Hat
-  - gloves
-  - Neckwarmer/baclava
-  - 12-18l bag
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- hat
+- baclava
+- thick mitts
+- thin gloves
+- merino
+- https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
+- -30 snow suit
 
 --
 
 - Hardware store
-  - [Paint can opener](https://www.homedepot.ca/product/bennett-paint-can-opener-metal/1000183133)
-  - [sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
   - [Broom hooks](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
-  - [hook for clamps](https://www.homedepot.ca/product/onward-jumbo-wall-hanger-white/1001560072)
-  - Smaller screw extension
-
-
-  - rubbermaid 47" twintrack x4
-  - twin tack sort bracket x6
-  - twin track deep bracket x4
-  - shelves?
+  - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
+  - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
+  - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
+  - 12" x x" shelves x3
+  - 15" x x" shelf
+  - 12" x x" shelf
+  - longer screws for mounting
 
 --
 
-- 16" light cast iron wok
+- wood for hall trones
+- wood for spare ivar shelf
+- more merino underthings
 - Diaper genie refills
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
@@ -57,6 +40,9 @@ more merino underthings
 - 13" ish drawer divider & small foam (bathroom drawer)
 - Label maker
 - Winter jacket for deep cold
+
+--
+
 - Roomba
 - Dryer
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
@@ -66,6 +52,7 @@ more merino underthings
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - Pillows (Simons)
 - Grovermade medium desk pad
+- 16" light cast iron wok
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
