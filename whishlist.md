@@ -25,7 +25,6 @@
 
 - wood for hall trones
 - wood for spare ivar shelf
-- more merino underthings
 - Diaper genie refills
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
