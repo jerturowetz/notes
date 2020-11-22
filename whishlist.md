@@ -20,9 +20,12 @@
   - 15" x x" shelf
   - 12" x x" shelf
   - longer screws for mounting
+  - small work knife
 
 --
 
+- [mandolin guard](https://www.amazon.ca/Kitchen-Home-Safety-Holder-Mandolin/dp/B01N6EECR4)
+- mini blender
 - 12" lazy susan?
 - wood for hall trones
 - wood for spare ivar shelf
