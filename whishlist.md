@@ -1,13 +1,10 @@
 # Wishlist
 
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- hat
-- baclava
+- hat, baclava
 - thick mitts
-- thin gloves
-- merino
+- other merino (turtle neck)
 - https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
-- -30 snow suit
 
 --
 
@@ -25,14 +22,13 @@
 --
 
 - [mandolin guard](https://www.amazon.ca/Kitchen-Home-Safety-Holder-Mandolin/dp/B01N6EECR4)
+- [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
+- [DIaper geniew refills](https://www.amazon.ca/Playtex-Diaper-Genie-System-Refills/dp/B07Q3B29YK)
 - mini blender
 - 12" lazy susan?
 - wood for hall trones
 - wood for spare ivar shelf
-- Diaper genie refills
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
-- [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
-- Water bottle
 - Webcam
 - Shelf thingy for tool boxes (build it?)
 - Shoe rack for front closet and/or some type of boots/gloves dryer
@@ -42,10 +38,10 @@
 - Winter padlock big numbers
 - 13" ish drawer divider & small foam (bathroom drawer)
 - Label maker
-- Winter jacket for deep cold
 
 --
 
+- Winter jacket for deep cold
 - Roomba
 - Dryer
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
@@ -72,7 +68,6 @@
 
 ## Bike stuff (review)
 
-- Mud guards
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 
