@@ -6,7 +6,6 @@
 - [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
 - [Sedaris masterclass](https://www.masterclass.com/classes/david-sedaris-teaches-storytelling-and-humor)
 - [Aveda Hair relief](https://www.aveda.ca/product/17976/16410/best-sellers/hand-relief-moisturizing-creme#/shade/4.2_fl_oz%2F125_ml)
-- Paddle brush
 - [Kate bike](https://www.prioritybicycles.com/products/thegotham?aff=3)
 - [Purple hat](https://sofitukker.shop.redstarmerch.com/product/XZCHSF01/purple-hat-dad-hat)
 - [Frankie magazine](https://www.magazinecafestore.com/frankie-magazine.html)
@@ -15,9 +14,9 @@
 - [Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
 - [Kate choker](https://en.horacejewelry.com/)
 - [Masterclass](https://www.masterclass.com/)
+- Paddle brush
 - Horse trips in gore quebec
 - Water bottle & holder for bike
-- Matador camera case
 - Roots remix slim cuff sweatpant (M)
 - Pedicure @ Primrose
 - Santiago Ramon Y Cajal Art
