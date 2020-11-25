@@ -1,10 +1,39 @@
+
+better webcam
+C920
+Razer Kiyo vs c920
+Logitech StreamCam vs c920
+c930e vs c920
+
+
+gift for vanessa
+
+$$ for idasen
+
+bookshelves
+
+home depot shelves
+1ft lightning
+3.5mm ext
+(or dock)
+
+work laptio stand?
+
+
+
 # Wishlist
 
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- hat, baclava
-- thick mitts
-- other merino (turtle neck)
-- https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html
+## Sports gear
+
+- Baby:
+  - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+  - [merino stuff](https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html)
+  - other merino stuff (turtle neck?)
+  - thick mitts
+- Me:
+  - rain pants
+  - merino stuff
+  - water proof gloves or mitts
 
 --
 
@@ -16,7 +45,6 @@
   - 12" x x" shelves x3
   - 15" x x" shelf
   - 12" x x" shelf
-  - longer screws for mounting
   - small work knife
 
 --
