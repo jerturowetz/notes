@@ -1,28 +1,27 @@
 Vanessa gift:
 
 https://www.amazon.ca/FoxMind-Games-Jungle-Speed-Skwak/dp/B07PJ7NMYL
-
-
-
-
-
-
-
-
-
-
-
+https://www.google.com/search?q=wooden+grogger&tbm=isch
+https://www.amazon.ca/Hape-Walk-Long-Toddler-Wooden/dp/B00DQRV990
+https://www.amazon.ca/Montessori-Screwdriver-Learning-Preschool-Educational/dp/B082LRJV7F
+https://www.amazon.ca/LEADSTAR-Montessori-Activity-Threading-Educational/dp/B081JVD69N?ac_md=1-1-bW9udGVzc29yaSB0b3lz-ac_d_rm&psc=1
 https://www.amazon.ca/Rosebud-RS-Salve-Tin-0-8-Ounce/dp/B009I4PRI4
 https://www.amazon.ca/TWIZZLERS-Licorice-Christmas-Strawberry-Twists/dp/B006T5W0XA
 https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Vitmain-Variety/dp/B07625Z1MD
 https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22
 https://www.amazon.ca/Louise-Bourgeois-Intimate-Jean-Francois-Jaussaud/dp/1786275597
-
+https://www.alicjaconfections.com/
+https://www.sephora.com/ca/en/product/paddle-brush-P385020
+https://www.ulta.com/flat-mate-boar-bristle-brush?productId=pimprod2003296#locklink
+https://www.amazon.com/dp/B01NBVCLWM?psc=1&language=en_US
+https://thisiscela.com/products/creme-de-la-creme
+https://www.amazon.ca/Tangle-Teezer-Styler-Detangling-Hairbrush/dp/B07L65QZR8/130-0659091-5288720?psc=1
+https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html
+https://cafune.ca/collections/storage/products/hile-kapu
 
 Razer Kiyo vs c920
 Logitech StreamCam vs c920
 c930e vs c920
-
 
 gift for vanessa
 $$ for idasen

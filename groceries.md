@@ -16,3 +16,4 @@
 - perrier
 - barkeepers friend
 - febreeze
+- chocolate
