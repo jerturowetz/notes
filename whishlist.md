@@ -1,26 +1,42 @@
+Vanessa gift:
 
-better webcam
-C920
+https://www.amazon.ca/FoxMind-Games-Jungle-Speed-Skwak/dp/B07PJ7NMYL
+
+
+
+
+
+
+
+
+
+
+
+https://www.amazon.ca/Rosebud-RS-Salve-Tin-0-8-Ounce/dp/B009I4PRI4
+https://www.amazon.ca/TWIZZLERS-Licorice-Christmas-Strawberry-Twists/dp/B006T5W0XA
+https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Vitmain-Variety/dp/B07625Z1MD
+https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22
+https://www.amazon.ca/Louise-Bourgeois-Intimate-Jean-Francois-Jaussaud/dp/1786275597
+
+
 Razer Kiyo vs c920
 Logitech StreamCam vs c920
 c930e vs c920
 
 
 gift for vanessa
-
 $$ for idasen
 
-bookshelves
-
-home depot shelves
 1ft lightning
 3.5mm ext
 (or dock)
 
+webcam stand & light
+
 work laptio stand?
 
-
-
+office cereal
+office febreeze
 # Wishlist
 
 ## Sports gear
@@ -45,21 +61,13 @@ work laptio stand?
   - 12" x x" shelves x3
   - 15" x x" shelf
   - 12" x x" shelf
-  - small work knife
 
 --
 
-- [mandolin guard](https://www.amazon.ca/Kitchen-Home-Safety-Holder-Mandolin/dp/B01N6EECR4)
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
-- [DIaper geniew refills](https://www.amazon.ca/Playtex-Diaper-Genie-System-Refills/dp/B07Q3B29YK)
-- mini blender
+- [Diaper geniew refills](https://www.amazon.ca/Playtex-Diaper-Genie-System-Refills/dp/B07Q3B29YK)
 - 12" lazy susan?
-- wood for hall trones
-- wood for spare ivar shelf
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
-- Webcam
-- Shelf thingy for tool boxes (build it?)
-- Shoe rack for front closet and/or some type of boots/gloves dryer
 - Mailbox
 - Cable organixer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
@@ -69,6 +77,8 @@ work laptio stand?
 
 --
 
+- wood for hall trones
+- wood for spare ivar shelf
 - Winter jacket for deep cold
 - Roomba
 - Dryer
@@ -111,6 +121,9 @@ work laptio stand?
 - [variera for bathroom counter](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - [variera for bathroom counter](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-70226053/)
 - [Trampa door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
+- [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- [TJENA box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
+- [TJENA box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-90374349/)
 
 ## Music gear
 
