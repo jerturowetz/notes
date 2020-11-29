@@ -28,7 +28,6 @@ subscription to frankie
 
 Kim
 [earrings](https://www.frug.ca/product-page/h-6)
-[puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
 [seaweed soak](https://surfsoak.com/collections/frontpage/products/225-g-bottle-sea-salt-seaweed-eucalyptus)
 [cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
 drake general store has weirdo ornaments
