@@ -1,41 +1,55 @@
-Vanessa gift:
 
-https://www.amazon.ca/FoxMind-Games-Jungle-Speed-Skwak/dp/B07PJ7NMYL
-https://www.google.com/search?q=wooden+grogger&tbm=isch
-https://www.amazon.ca/Hape-Walk-Long-Toddler-Wooden/dp/B00DQRV990
-https://www.amazon.ca/Montessori-Screwdriver-Learning-Preschool-Educational/dp/B082LRJV7F
-https://www.amazon.ca/LEADSTAR-Montessori-Activity-Threading-Educational/dp/B081JVD69N?ac_md=1-1-bW9udGVzc29yaSB0b3lz-ac_d_rm&psc=1
-https://www.amazon.ca/Rosebud-RS-Salve-Tin-0-8-Ounce/dp/B009I4PRI4
-https://www.amazon.ca/TWIZZLERS-Licorice-Christmas-Strawberry-Twists/dp/B006T5W0XA
-https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Vitmain-Variety/dp/B07625Z1MD
-https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22
-https://www.amazon.ca/Louise-Bourgeois-Intimate-Jean-Francois-Jaussaud/dp/1786275597
-https://www.alicjaconfections.com/
-https://www.sephora.com/ca/en/product/paddle-brush-P385020
-https://www.ulta.com/flat-mate-boar-bristle-brush?productId=pimprod2003296#locklink
-https://www.amazon.com/dp/B01NBVCLWM?psc=1&language=en_US
-https://thisiscela.com/products/creme-de-la-creme
-https://www.amazon.ca/Tangle-Teezer-Styler-Detangling-Hairbrush/dp/B07L65QZR8/130-0659091-5288720?psc=1
-https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html
-https://cafune.ca/collections/storage/products/hile-kapu
+[drake general store](https://www.drakegeneralstore.ca/)
+also check simons
+and chapters
+[fancy chocolates](https://www.alicjaconfections.com/)
 
-Razer Kiyo vs c920
-Logitech StreamCam vs c920
-c930e vs c920
+stuffers
+[newfoundland salt](https://newfoundlandsaltcompany.com/collections/shop/products/40g-glass-jar)
+[rosebud salve](https://www.amazon.ca/Rosebud-RS-Salve-Tin-0-8-Ounce/dp/B009I4PRI4)
+[fancy soaps](https://antoyukon.com/collections/shop)
+[Non-GMO Organic Manuka Honey Drops](https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22)
+[stonewear spoons](https://www.chicbasta.com/collections/cooking/products/small-spoon-in-black-stoneware)
 
-gift for vanessa
-$$ for idasen
+Kate
+[Tangle Teezer Styler Detangling Hairbrush](https://www.amazon.ca/Tangle-Teezer-Styler-Detangling-Hairbrush/dp/B07L65QZR8/130-0659091-5288720?psc=1)
+[Lily england paddle brush](https://www.amazon.ca/Lily-England-Detangling-Straightening-Blowdrying/dp/B01NBVCLWM)
+[body cream](https://thisiscela.com/products/creme-de-la-creme)
+[Boar bristle brush](https://www.ulta.com/flat-mate-boar-bristle-brush?productId=pimprod2003296#locklink)
+[TWIZZLERS](https://www.amazon.ca/TWIZZLERS-Licorice-Christmas-Strawberry-Twists/dp/B006T5W0XA)
+[$120 necklace](https://oneofakind.balluun.com/en-us/product/a35c0eb794dbbf111e435b0a43d9da85/spacejam-wood-and-black-leather-necklace?source=search)
+[drunk elephant skin care](https://www.drunkelephant.com/)
+[bicycle bell](https://beepbells.com.au/collections/all-bells/products/fried-egg-bell)
+[no problemo tape](https://www.ariesarise.com/collections/new-arrivals/products/aw20-tape-no-problemo-mint-white)
+[muji notebooks](https://www.amazon.ca/MUJI-Blank-Notebook-Unruled-sheets/dp/B00JHG6LYM)
+[raymonds cookbook](https://www.chapters.indigo.ca/en-ca/books/wildness-an-ode-to-newfoundland/9780714878232-item.html)
+[large notebook](https://oneofakind.balluun.com/en-us/product/fee8b82dd7ef36bdcfb2a6d3fd7a2525/notebook-chevron-large?source=search)
+subscription to frankie
 
-1ft lightning
-3.5mm ext
-(or dock)
+Kim
+[earrings](https://www.frug.ca/product-page/h-6)
+[puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
+[seaweed soak](https://surfsoak.com/collections/frontpage/products/225-g-bottle-sea-salt-seaweed-eucalyptus)
 
-webcam stand & light
+Cathy
+[cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
+[coffee mug](https://cafune.ca/products/fellow-carter-everywhere-mug-golden-hour)
+[Kapu Coffee Scoop & Bag Clip](https://cafune.ca/collections/storage/products/hile-kapu)
+https://www.chicbasta.com/collections/100-under-gifts/products/indiana-scarf-shawl-babouchka-with-recycled-fur-pompoms
+https://www.chicbasta.com/collections/100-under-gifts/products/unisex-toiletry-bag-travel-case?variant=31979117609058
+https://www.chicbasta.com/collections/50-under-gifts/products/100-linen-dish-cloth-hand-towel?variant=31525019254882
+[vase/wine cooler](https://www.chicbasta.com/collections/cooking/products/porcelain-vase-wine-cooler)
+[hand carved narrow spatula](https://www.chicbasta.com/collections/cooking/products/hand-carved-basswood-straight-spatula)
 
-work laptio stand?
+Waldo
+[the cool bean book](https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html)
+[Wooden Cheese Toy](https://www.amazon.ca/LEADSTAR-Montessori-Activity-Threading-Educational/dp/B081JVD69N?ac_md=1-1-bW9udGVzc29yaSB0b3lz-ac_d_rm&psc=1)
+[Snail](https://www.amazon.ca/Hape-Walk-Long-Toddler-Wooden/dp/B00DQRV990)
 
-office cereal
-office febreeze
+Vanessa
+[enchanted forest coloring book](https://www.amazon.ca/Enchanted-Forest-Inky-Quest-Coloring/dp/1780674880)
+[pencil crayons](https://www.amazon.ca/Studio-Colored-Pencil-Set-30/dp/1441314512)
+
 # Wishlist
 
 ## Sports gear
@@ -57,25 +71,31 @@ office febreeze
   - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
   - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
   - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
-  - 12" x x" shelves x3
-  - 15" x x" shelf
-  - 12" x x" shelf
 
 --
 
+- webcam
+  - Razer Kiyo vs  c920
+  - Logitech Stre amCam vs c920
+  - c930e vs c920
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
 - [Diaper geniew refills](https://www.amazon.ca/Playtex-Diaper-Genie-System-Refills/dp/B07Q3B29YK)
 - 12" lazy susan?
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - Mailbox
-- Cable organixer under ikea desk
+- Cable organizer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
 - Winter padlock big numbers
-- 13" ish drawer divider & small foam (bathroom drawer)
+- spice tins
+- more pantry bins
 - Label maker
+- $$ for idasen
+- work laptio stand?
 
 --
 
+- [clothes](https://golfwang.com/collections/new)
+- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - wood for hall trones
 - wood for spare ivar shelf
 - Winter jacket for deep cold
@@ -112,7 +132,7 @@ office febreeze
 
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
-- [Curtains for office](https://www.ikea.com/ca/en/p/borghild-sheer-curtains-1-pair-white-00291297/)
+- [Curtains for office](https://www.ikea.com/ca/en/p/annalouisa-curtains-1-pair-white-50410815/)
 - [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
 - [STOPP FILT under rug pad](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 - [bathroom stool](https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/)
@@ -178,13 +198,7 @@ office febreeze
 - Guitar neck-rest
 - Stool/chair for piano
 - Cable box (piano plugs)
-- K&M keyboard stand:
-  - 18810-015-91 Keyboard table (red)
-  - 18811-000-91 2nd level stacker (red)
-  - 18819 2nd level controller tray
-  - 18815 laptop holder
-  - 18822 3rd level stacker
-  - 18824 3rd level controller tray
+- K&M keyboard stand & add-ons
 - [K&M tall boom stand](http://www.economik.com/km/21021-black/)x2
 - [Wilkson audio clips](https://www.soundonsound.com/reviews/wilkinson-audio-mic-clips)
 - [se215](https://www.shure.com/en-US/products/earphones/se215)

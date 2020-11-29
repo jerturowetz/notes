@@ -2,6 +2,7 @@
 
 ## Kate
 
+- [sea soak](https://east-coast-glow.myshopify.com/collections/bath-soak/products/peppermint-kelp-sea-salt-soak)
 - [Pen](https://papeterie-nota-bene.myshopify.com/collections/stylos/products/caran-dache-stylo-bille-849-popline-fluo-plusieurs-couleurs-disponibles-849)
 - [mittens](https://www.annexvintage.com/us/verloop-mitaines-faux-fur.html)
 - [Wallpaper](https://www.chasingpaper.com/wallpaper/whirling-sky/)
@@ -34,6 +35,10 @@
   - Dreyer’s English: An Utterly Correct Guide to Clarity and Style by Benjamin Dreyer
   - The Capital by Robert Menasse
 
+## Cathy
+
+- [aksum hat](https://soukandsepia.com/collections/hats/products/aksum?variant=35126605021349)
+
 ## Max
 
 - Oversized martini glass (Max)
@@ -44,6 +49,8 @@
 - Schrade Uncle Henry (great first knife beater)
 - [First guitar](https://loogguitars.ca/)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
+- [enchanted forest](https://www.amazon.ca/Enchanted-Forest-Inky-Quest-Coloring/dp/1780674880)
+- [bath bombs](https://goop.com/ca-en/dabble-dollop-dabble-dollop-droplets/p/?taxon_id=3370)
 
 ## Molly
 
