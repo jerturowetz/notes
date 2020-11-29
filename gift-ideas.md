@@ -1,7 +1,10 @@
 # Gift Ideas
 
+- [puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
+
 ## Kate
 
+- Photo album!
 - [sea soak](https://east-coast-glow.myshopify.com/collections/bath-soak/products/peppermint-kelp-sea-salt-soak)
 - [Pen](https://papeterie-nota-bene.myshopify.com/collections/stylos/products/caran-dache-stylo-bille-849-popline-fluo-plusieurs-couleurs-disponibles-849)
 - [mittens](https://www.annexvintage.com/us/verloop-mitaines-faux-fur.html)
