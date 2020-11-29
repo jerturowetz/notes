@@ -13,3 +13,5 @@
 - Fire starters
 - barkeepers friend
 - Whole wheat spaghetti like pasta
+- Paper towels
+- Toilet paper
