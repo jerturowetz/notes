@@ -8,12 +8,7 @@
 - apples etc
 - Fancy Jam
 - olive oil
+- cookies
 - Fries
 - Fire starters
-- n/a beer
-- gingerale
-- coke
-- perrier
 - barkeepers friend
-- febreeze
-- chocolate
