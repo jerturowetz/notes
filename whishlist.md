@@ -1,7 +1,6 @@
 
-[drake general store](https://www.drakegeneralstore.ca/)
-also check simons
-and chapters
+simons
+chapters
 [fancy chocolates](https://www.alicjaconfections.com/)
 
 stuffers
@@ -30,14 +29,12 @@ Kim
 [earrings](https://www.frug.ca/product-page/h-6)
 [puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
 [seaweed soak](https://surfsoak.com/collections/frontpage/products/225-g-bottle-sea-salt-seaweed-eucalyptus)
+[cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
+drake general store has weirdo ornaments
 
 Cathy
-[cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
 [coffee mug](https://cafune.ca/products/fellow-carter-everywhere-mug-golden-hour)
 [Kapu Coffee Scoop & Bag Clip](https://cafune.ca/collections/storage/products/hile-kapu)
-https://www.chicbasta.com/collections/100-under-gifts/products/indiana-scarf-shawl-babouchka-with-recycled-fur-pompoms
-https://www.chicbasta.com/collections/100-under-gifts/products/unisex-toiletry-bag-travel-case?variant=31979117609058
-https://www.chicbasta.com/collections/50-under-gifts/products/100-linen-dish-cloth-hand-towel?variant=31525019254882
 [vase/wine cooler](https://www.chicbasta.com/collections/cooking/products/porcelain-vase-wine-cooler)
 [hand carved narrow spatula](https://www.chicbasta.com/collections/cooking/products/hand-carved-basswood-straight-spatula)
 
