@@ -1,20 +1,16 @@
 # Jeremy's To-Do List
 
 - Clean and cover the barbecue
-- covering the outdoor bench for winter
-- trim weeds of fence
-- [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
+- Store outdoor bench in basement
+- Trim weeds off fence
+- Store bikes
 - Baby proofing for Waldo's dresser
+- IKEA battery drop off
+- [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Fix lazy susan
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
-- Reactivate td savings auto deposit
-- IKEA battery drop off
-- Get vaccine booklet signed at jean cotu 1351 laurier (thursdays 2-6pm)
-- Warn Shakti of email changes & shut down Rackspace
 - Last thank you cards
 - Pick up drums chez Mike M
-- GASM follow up
-- Dermatologist follow up
 - Call Equifax re RBC accounts pre bankruptcy 1-866-828-5961 (press 7)
 - [Hydro Quebec Electrium](http://www.hydroquebec.com/visit/monteregie/electrium.html)
 - [Chateau du cirque](https://www.chateau-cirque.com/)
