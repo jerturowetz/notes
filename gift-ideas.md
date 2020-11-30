@@ -40,7 +40,6 @@
 
 ## Cathy
 
-- [aksum hat](https://soukandsepia.com/collections/hats/products/aksum?variant=35126605021349)
 - [Toiletry Bag](https://www.chicbasta.com/collections/100-under-gifts/products/unisex-toiletry-bag-travel-case?variant=31979117609058)
 
 ## Max

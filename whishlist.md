@@ -37,6 +37,7 @@ Cathy
 [Kapu Coffee Scoop & Bag Clip](https://cafune.ca/collections/storage/products/hile-kapu)
 [vase/wine cooler](https://www.chicbasta.com/collections/cooking/products/porcelain-vase-wine-cooler)
 [hand carved narrow spatula](https://www.chicbasta.com/collections/cooking/products/hand-carved-basswood-straight-spatula)
+[aksum hat](https://soukandsepia.com/collections/hats/products/aksum?variant=35126605021349)
 
 Waldo
 [the cool bean book](https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html)

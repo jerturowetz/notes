@@ -1,13 +1,8 @@
 # Jeremy's To-Do List
 
 - Clean and cover the barbecue
-– covering the outdoor bench for winter
-– trim weeds of fence
-– extra shelf in room closet
-– mounts for toolboxes
-
-
-
+- covering the outdoor bench for winter
+- trim weeds of fence
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
 - Baby proofing for Waldo's dresser
 - Fix lazy susan
