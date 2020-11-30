@@ -1,6 +1,12 @@
 
 simons
 chapters
+
+White DC adaptor extension for baby lamp
+
+repair weird metal plate on heater in bathroom
+
+
 [fancy chocolates](https://www.alicjaconfections.com/)
 [cards](https://www.drakegeneralstore.ca/collections/holiday/products/drake-general-store-tis-the-season-box-cards-1)
 
