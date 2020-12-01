@@ -1,18 +1,12 @@
-
-simons
-chapters
-
-White DC adaptor extension for baby lamp
-
-repair weird metal plate on heater in bathroom
-
+Simons
+Chapters
 
 [fancy chocolates](https://www.alicjaconfections.com/)
 [cards](https://www.drakegeneralstore.ca/collections/holiday/products/drake-general-store-tis-the-season-box-cards-1)
 
 stuffers
+[rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
 [newfoundland salt](https://newfoundlandsaltcompany.com/collections/shop/products/40g-glass-jar)
-[rosebud salve](https://www.amazon.ca/Rosebud-RS-Salve-Tin-0-8-Ounce/dp/B009I4PRI4)
 [fancy soaps](https://antoyukon.com/collections/shop)
 [Non-GMO Organic Manuka Honey Drops](https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22)
 [stonewear spoons](https://www.chicbasta.com/collections/cooking/products/small-spoon-in-black-stoneware)
@@ -22,7 +16,6 @@ Kate
 [Lily england paddle brush](https://www.amazon.ca/Lily-England-Detangling-Straightening-Blowdrying/dp/B01NBVCLWM)
 [body cream](https://thisiscela.com/products/creme-de-la-creme)
 [Boar bristle brush](https://www.ulta.com/flat-mate-boar-bristle-brush?productId=pimprod2003296#locklink)
-[TWIZZLERS](https://www.amazon.ca/TWIZZLERS-Licorice-Christmas-Strawberry-Twists/dp/B006T5W0XA)
 [$120 necklace](https://oneofakind.balluun.com/en-us/product/a35c0eb794dbbf111e435b0a43d9da85/spacejam-wood-and-black-leather-necklace?source=search)
 [drunk elephant skin care](https://www.drunkelephant.com/)
 [bicycle bell](https://beepbells.com.au/collections/all-bells/products/fried-egg-bell)
@@ -47,12 +40,6 @@ Cathy
 
 Waldo
 [the cool bean book](https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html)
-[Wooden Cheese Toy](https://www.amazon.ca/LEADSTAR-Montessori-Activity-Threading-Educational/dp/B081JVD69N?ac_md=1-1-bW9udGVzc29yaSB0b3lz-ac_d_rm&psc=1)
-[Snail](https://www.amazon.ca/Hape-Walk-Long-Toddler-Wooden/dp/B00DQRV990)
-
-Vanessa
-[enchanted forest coloring book](https://www.amazon.ca/Enchanted-Forest-Inky-Quest-Coloring/dp/1780674880)
-[pencil crayons](https://www.amazon.ca/Studio-Colored-Pencil-Set-30/dp/1441314512)
 
 # Wishlist
 
