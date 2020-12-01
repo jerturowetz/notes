@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Repair weird metal plate on heater in bathroom
 - Clean and cover the barbecue
 - Store outdoor bench in basement
 - Trim weeds off fence
