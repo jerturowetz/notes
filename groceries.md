@@ -2,16 +2,18 @@
 
 ## Grocery store
 
-- Bananas
 - Oranges
-- strawberries
-- apples etc
+- Strawberries and blueberries
+- Apples and/or pears
+- Peaches and/or plums
 - Fancy Jam
-- olive oil
-- cookies
-- Fries
-- Fire starters
-- barkeepers friend
 - Whole wheat spaghetti like pasta
+- Olive oil
+- Rice vinegar
+- Cookies
+- Frozen fries
+- Fire starters
+- Barkeepers friend
+- Scotch guard
 - Paper towels
 - Toilet paper
