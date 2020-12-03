@@ -1,9 +1,6 @@
 Simons
 Chapters
 
-[fancy chocolates](https://www.alicjaconfections.com/)
-[cards](https://www.drakegeneralstore.ca/collections/holiday/products/drake-general-store-tis-the-season-box-cards-1)
-
 stuffers
 [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
 [newfoundland salt](https://newfoundlandsaltcompany.com/collections/shop/products/40g-glass-jar)
@@ -68,7 +65,7 @@ Waldo
 --
 
 - webcam
-  - Razer Kiyo vs  c920
+  - Razer Kiyo vs c920
   - Logitech Stre amCam vs c920
   - c930e vs c920
 - [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
