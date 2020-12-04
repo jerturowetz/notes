@@ -1,14 +1,15 @@
-Simons
-Chapters
+#
 
-stuffers
+## Stuffers
+
 [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
 [newfoundland salt](https://newfoundlandsaltcompany.com/collections/shop/products/40g-glass-jar)
 [fancy soaps](https://antoyukon.com/collections/shop)
 [Non-GMO Organic Manuka Honey Drops](https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22)
 [stonewear spoons](https://www.chicbasta.com/collections/cooking/products/small-spoon-in-black-stoneware)
 
-Kate
+## Kate
+
 [Tangle Teezer Styler Detangling Hairbrush](https://www.amazon.ca/Tangle-Teezer-Styler-Detangling-Hairbrush/dp/B07L65QZR8/130-0659091-5288720?psc=1)
 [Lily england paddle brush](https://www.amazon.ca/Lily-England-Detangling-Straightening-Blowdrying/dp/B01NBVCLWM)
 [body cream](https://thisiscela.com/products/creme-de-la-creme)
@@ -22,20 +23,23 @@ Kate
 [large notebook](https://oneofakind.balluun.com/en-us/product/fee8b82dd7ef36bdcfb2a6d3fd7a2525/notebook-chevron-large?source=search)
 subscription to frankie
 
-Kim
+## Kim
+
 [earrings](https://www.frug.ca/product-page/h-6)
 [seaweed soak](https://surfsoak.com/collections/frontpage/products/225-g-bottle-sea-salt-seaweed-eucalyptus)
 [cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
 drake general store has weirdo ornaments
 
-Cathy
+## Cathy
+
 [coffee mug](https://cafune.ca/products/fellow-carter-everywhere-mug-golden-hour)
 [Kapu Coffee Scoop & Bag Clip](https://cafune.ca/collections/storage/products/hile-kapu)
 [vase/wine cooler](https://www.chicbasta.com/collections/cooking/products/porcelain-vase-wine-cooler)
 [hand carved narrow spatula](https://www.chicbasta.com/collections/cooking/products/hand-carved-basswood-straight-spatula)
 [aksum hat](https://soukandsepia.com/collections/hats/products/aksum?variant=35126605021349)
 
-Waldo
+## Waldo
+
 [the cool bean book](https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html)
 
 # Wishlist
@@ -64,6 +68,8 @@ Waldo
 
 --
 
+- [delta sleep long sleeved white](https://deltasleep.bandcamp.com/merch/salmon-pink-a-casa-longsleeve-t-shirt)
+- [delta sleep long sleeved black](https://deltasleep.bandcamp.com/merch/black-pink-a-casa-longsleeve-t-shirt)
 - webcam
   - Razer Kiyo vs c920
   - Logitech Stre amCam vs c920
@@ -84,6 +90,7 @@ Waldo
 
 --
 
+- [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [clothes](https://golfwang.com/collections/new)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - wood for hall trones
