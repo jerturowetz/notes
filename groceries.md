@@ -2,16 +2,12 @@
 
 ## Grocery store
 
-- ice cream
-- Oranges
-- Lemon
-- Fancy Jam
 - Coffee
 - Dark soy sauce
 - Cookies
-- Both Yogurt
 - Frozen fries
 - Frozen mango, strawberries, blueberries
+- Ice cream
 - Fire starters
 - Barkeepers friend
 - Scotch guard
