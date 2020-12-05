@@ -2,6 +2,7 @@
 
 ## Grocery store
 
+- ice cream
 - Oranges
 - Lemon
 - Fancy Jam
