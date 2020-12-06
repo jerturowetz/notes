@@ -6,6 +6,8 @@ small magbetic tape measure
 4 medium boxes
 recorstorage 
 
+bigger ikea ladders for rehersal space
+
 
 
 
