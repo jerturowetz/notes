@@ -1,31 +1,21 @@
 # Wishlist
 
-## Stuffers
+## X-mas remaining
 
 - [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
 - sephora brush & drunk elephant eye cream (Shaba Complex™ Firming Eye Serum)
 
-## Sports gear
+## Hardware store
 
-- Baby:
-  - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-  - [merino stuff](https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html)
-  - other merino stuff (turtle neck?)
-  - thick mitts
-- Me:
-  - rain pants
-  - water proof gloves or mitts
+- [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
+- [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
+- [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 
 --
 
-- Hardware store
-  - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
-  - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
-  - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
-  - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-
---
-
+- $$ for triangle for waldo
+- guitar wall hangers for office
 - webcam
   - Razer Kiyo vs c920
   - Logitech Stre amCam vs c920
@@ -41,9 +31,16 @@
 - $$ for idasen
 - Record box storage (low profile)
 - More bobino: large x3, med x3 (or more)
-
---
-
+- Baby:
+  - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+  - [merino stuff](https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html)
+  - other merino stuff (turtle neck?)
+  - thick mitts
+- Me:
+  - rain pants
+  - water proof gloves or mitts
+- Country handwriting stickers for pantry
+- More pantry bins for: pancake mix, rices
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - wood for hall trones
@@ -52,6 +49,7 @@
 - Roomba
 - Dryer
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+- Fridge drawer divider
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
