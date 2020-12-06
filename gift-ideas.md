@@ -21,6 +21,7 @@
 - [Masterclass](https://www.masterclass.com/)
 - Paddle brush
 - Horse trips in gore quebec
+- small magbetic tape measure
 - Water bottle & holder for bike
 - Roots remix slim cuff sweatpant (M)
 - Pedicure @ Primrose
@@ -46,6 +47,10 @@
 
 - Oversized martini glass (Max)
 - Good bluetooth headphones for max
+
+## Juan
+
+- [You're juan in a million mug](https://www.etsy.com/ca/listing/565198142/juan-in-a-million-ceramic-mug)
 
 ## Waldo
 

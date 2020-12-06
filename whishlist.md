@@ -1,22 +1,9 @@
-10x5x4 box for macbook xhargedz
-small magbetic tape measure
-3 green bins
-4 medium boxes
-Record box storage (low profile)
-More bobino: large x3, med x3 (or more)
-ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
-7fA69$P^%vK4
-
-
+# Wishlist
 
 ## Stuffers
 
-[rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
-[raymonds cookbook](https://www.chapters.indigo.ca/en-ca/books/wildness-an-ode-to-newfoundland/9780714878232-item.html)
-[fancy soaps](https://antoyukon.com/collections/shop)
-sephora brush & drunk elephant eye cream
-
-# Wishlist
+- [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
+- sephora brush & drunk elephant eye cream (Shaba Complex™ Firming Eye Serum)
 
 ## Sports gear
 
@@ -27,7 +14,6 @@ sephora brush & drunk elephant eye cream
   - thick mitts
 - Me:
   - rain pants
-  - merino stuff
   - water proof gloves or mitts
 
 --
@@ -37,13 +23,9 @@ sephora brush & drunk elephant eye cream
   - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
   - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
   - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-  - [Packout parts storage](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
-  - [Packout low profikle parts storage](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-low-profile-compact-small-parts-organizer/1001242095)
 
 --
 
-- [delta sleep long sleeved white](https://deltasleep.bandcamp.com/merch/salmon-pink-a-casa-longsleeve-t-shirt)
-- [delta sleep long sleeved black](https://deltasleep.bandcamp.com/merch/black-pink-a-casa-longsleeve-t-shirt)
 - webcam
   - Razer Kiyo vs c920
   - Logitech Stre amCam vs c920
@@ -61,6 +43,9 @@ sephora brush & drunk elephant eye cream
 - Label maker
 - $$ for idasen
 - work laptio stand?
+- Record box storage (low profile)
+- More bobino: large x3, med x3 (or more)
+- ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
 
 --
 
@@ -104,11 +89,8 @@ sephora brush & drunk elephant eye cream
 
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
-- [Shelving unit for baby cloet](https://www.ikea.com/ca/en/p/bror-shelving-unit-black-s89276463/)
 - [STOPP FILT under rug pad for waldos room](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
-- [bathroom stool](https://www.ikea.com/us/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/)
 - [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
-- [variera for bathroom counter](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-70226053/)
 - Curtains for office:
   - [HAKVINGE](https://www.ikea.com/ca/en/p/hakvinge-curtains-1-pair-dark-red-brown-leaf-patterned-50480653/)
   - [ANNALOUISA](https://www.ikea.com/ca/en/p/annalouisa-curtains-1-pair-beige-40452448/)
@@ -117,8 +99,9 @@ sephora brush & drunk elephant eye cream
   - [BRANDNÄVA](https://www.ikea.com/ca/en/p/brandnaeva-curtains-1-pair-white-gray-30459596/)
 - Boxes for Idasen:
   - [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-  - [TJENA box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
-  - [TJENA box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-90374349/)
+  - [TJENA boxes](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
+  - [RISATORP wire basket x3](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
+  - 10x5x4 box for macbook xhargedz
 
 ## Music gear
 
