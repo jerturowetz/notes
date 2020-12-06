@@ -1,5 +1,11 @@
 # Wishlist
 
+Smaller
+Red basket for quarter in kitchen
+Stick on wallpaper for pantry
+More healthy balance
+Small mixing bowl set set
+
 ## Stuffers
 
 - [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
