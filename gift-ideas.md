@@ -4,6 +4,7 @@
 
 ## Kate
 
+- cutting mat
 - Photo album!
 - [sea soak](https://east-coast-glow.myshopify.com/collections/bath-soak/products/peppermint-kelp-sea-salt-soak)
 - [Pen](https://papeterie-nota-bene.myshopify.com/collections/stylos/products/caran-dache-stylo-bille-849-popline-fluo-plusieurs-couleurs-disponibles-849)
@@ -19,7 +20,6 @@
 - [Tarot cards](https://shop.jennylewis.com/collections/on-the-line/products/tarot-cards)
 - [Kate choker](https://en.horacejewelry.com/)
 - [Masterclass](https://www.masterclass.com/)
-- Paddle brush
 - Horse trips in gore quebec
 - small magbetic tape measure
 - Water bottle & holder for bike

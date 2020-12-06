@@ -8,6 +8,8 @@
 - Blueberries
 - Bananas
 - plums/pesches/apples
+- bread
+- sausage buns
 - coffee
 - Dark soy sauce
 - Cookies

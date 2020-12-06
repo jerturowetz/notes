@@ -2,10 +2,11 @@
 
 ## X-mas remaining
 
-Smaller
-Red basket for quarter in kitchen
+bread basket
+smaller cutlery caddy
 Stick on wallpaper for pantry
-More healthy balance
+More pantry bins
+spice tins
 Small mixing bowl set set
 
 ## Stuffers
