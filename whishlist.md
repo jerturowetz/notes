@@ -30,11 +30,8 @@
   - Razer Kiyo vs c920
   - Logitech Stre amCam vs c920
   - c930e vs c920
-- [Madesmart bins x4](https://www.amazon.ca/Madesmart-20602-Medium-Basket-Granite/dp/B008VVM468)
-- [Diaper geniew refills](https://www.amazon.ca/Playtex-Diaper-Genie-System-Refills/dp/B07Q3B29YK)
 - 12" lazy susan?
 - macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
-- Mailbox
 - Cable organizer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
 - Winter padlock big numbers
@@ -42,14 +39,12 @@
 - more pantry bins
 - Label maker
 - $$ for idasen
-- work laptio stand?
 - Record box storage (low profile)
 - More bobino: large x3, med x3 (or more)
 
 --
 
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
-- [clothes](https://golfwang.com/collections/new)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - wood for hall trones
 - wood for spare ivar shelf
