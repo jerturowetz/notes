@@ -1,5 +1,3 @@
-#
-
 10x5x4 box for macbook xhargedz
 small magbetic tape measure
 3 green bins
@@ -8,50 +6,19 @@ recorstorage
 
 bigger ikea ladders for rehersal space
 
+Record box storage (low profile)
+More bobino: large x3, med x3 (or more)
+ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
+7fA69$P^%vK4
 
 
 
 ## Stuffers
 
 [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
-[newfoundland salt](https://newfoundlandsaltcompany.com/collections/shop/products/40g-glass-jar)
-[fancy soaps](https://antoyukon.com/collections/shop)
-[Non-GMO Organic Manuka Honey Drops](https://www.amazon.ca/Wedderspoon-Non-GMO-Organic-Manuka-Ginger/dp/B01CFFAD22)
-[stonewear spoons](https://www.chicbasta.com/collections/cooking/products/small-spoon-in-black-stoneware)
-
-## Kate
-
-[Tangle Teezer Styler Detangling Hairbrush](https://www.amazon.ca/Tangle-Teezer-Styler-Detangling-Hairbrush/dp/B07L65QZR8/130-0659091-5288720?psc=1)
-[Lily england paddle brush](https://www.amazon.ca/Lily-England-Detangling-Straightening-Blowdrying/dp/B01NBVCLWM)
-[body cream](https://thisiscela.com/products/creme-de-la-creme)
-[Boar bristle brush](https://www.ulta.com/flat-mate-boar-bristle-brush?productId=pimprod2003296#locklink)
-[$120 necklace](https://oneofakind.balluun.com/en-us/product/a35c0eb794dbbf111e435b0a43d9da85/spacejam-wood-and-black-leather-necklace?source=search)
-[drunk elephant skin care](https://www.drunkelephant.com/)
-[bicycle bell](https://beepbells.com.au/collections/all-bells/products/fried-egg-bell)
-[no problemo tape](https://www.ariesarise.com/collections/new-arrivals/products/aw20-tape-no-problemo-mint-white)
-[muji notebooks](https://www.amazon.ca/MUJI-Blank-Notebook-Unruled-sheets/dp/B00JHG6LYM)
 [raymonds cookbook](https://www.chapters.indigo.ca/en-ca/books/wildness-an-ode-to-newfoundland/9780714878232-item.html)
-[large notebook](https://oneofakind.balluun.com/en-us/product/fee8b82dd7ef36bdcfb2a6d3fd7a2525/notebook-chevron-large?source=search)
-subscription to frankie
-
-## Kim
-
-[earrings](https://www.frug.ca/product-page/h-6)
-[seaweed soak](https://surfsoak.com/collections/frontpage/products/225-g-bottle-sea-salt-seaweed-eucalyptus)
-[cute hat](https://oneofakind.balluun.com/en-us/product/58342932b6ba37013e2f647b9b48a024/hand-knit-hat-chocolate-clair-softie?source=search)
-drake general store has weirdo ornaments
-
-## Cathy
-
-[coffee mug](https://cafune.ca/products/fellow-carter-everywhere-mug-golden-hour)
-[Kapu Coffee Scoop & Bag Clip](https://cafune.ca/collections/storage/products/hile-kapu)
-[vase/wine cooler](https://www.chicbasta.com/collections/cooking/products/porcelain-vase-wine-cooler)
-[hand carved narrow spatula](https://www.chicbasta.com/collections/cooking/products/hand-carved-basswood-straight-spatula)
-[aksum hat](https://soukandsepia.com/collections/hats/products/aksum?variant=35126605021349)
-
-## Waldo
-
-[the cool bean book](https://www.chapters.indigo.ca/en-ca/books/the-cool-bean/9780062954527-item.html)
+[fancy soaps](https://antoyukon.com/collections/shop)
+sephora brush & drunk elephant eye cream
 
 # Wishlist
 
@@ -117,6 +84,7 @@ drake general store has weirdo ornaments
 - Pillows (Simons)
 - Grovermade medium desk pad
 - 16" light cast iron wok
+- [nordace backpack](https://nordace.com/en/product/nordace-siena-smart-backpack/)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
