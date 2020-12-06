@@ -45,7 +45,6 @@
 - work laptio stand?
 - Record box storage (low profile)
 - More bobino: large x3, med x3 (or more)
-- ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
 
 --
 
@@ -102,6 +101,7 @@
   - [TJENA boxes](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
   - [RISATORP wire basket x3](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
   - 10x5x4 box for macbook xhargedz
+  - ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
 
 ## Music gear
 
