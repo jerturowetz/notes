@@ -5,11 +5,16 @@
 - Green leaf
 - Peppers
 - Tomatoes
-- Coffee
+- Blueberries
+- Bananas
+- plums/pesches/apples
+- coffee
 - Dark soy sauce
 - Cookies
 - Pancake mix
 - Milk x2
+- coke
+- perrier
 - Frozen fries
 - Frozen mango, strawberries, blueberries
 - Ice cream

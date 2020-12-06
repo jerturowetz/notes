@@ -2,6 +2,14 @@
 
 ## X-mas remaining
 
+Smaller
+Red basket for quarter in kitchen
+Stick on wallpaper for pantry
+More healthy balance
+Small mixing bowl set set
+
+## Stuffers
+
 - [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
 - sephora brush & drunk elephant eye cream (Shaba Complex™ Firming Eye Serum)
 
