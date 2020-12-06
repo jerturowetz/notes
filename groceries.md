@@ -2,6 +2,9 @@
 
 ## Grocery store
 
+- Green leaf
+- Peppers
+- Tomatoes
 - Coffee
 - Dark soy sauce
 - Cookies
@@ -10,4 +13,3 @@
 - Ice cream
 - Fire starters
 - Barkeepers friend
-- Scotch guard
