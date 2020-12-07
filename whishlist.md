@@ -2,12 +2,16 @@
 
 ## X-mas remaining
 
+Bike helmet accessories
+
+
 bread basket
 smaller cutlery caddy
 Stick on wallpaper for pantry
 More pantry bins
 spice tins
 Small mixing bowl set set
+rain pants
 
 ## Stuffers
 
