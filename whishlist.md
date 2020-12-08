@@ -7,6 +7,13 @@ Bike helmet accessories
 hook for bathroom hand towel
 
 
+[TJENA large](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
+[TJENA small box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-10395421/)
+[KVARNVIK medium](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-50466869/)
+[KVARNVIK large](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-00459480/)
+Better cutlery caddy
+Panniers
+
 
 bread basket
 smaller cutlery caddy
