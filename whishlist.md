@@ -2,6 +2,10 @@
 
 ## X-mas remaining
 
+https://www.sephora.com/ca/en/product/drybar-the-lemon-bar-paddle-brush-P454752?icid2=products%20grid:p454752:product
+
+https://www.sephora.com/ca/en/product/shaba-complex-eye-serum-P419223
+
 Bike helmet accessories
 3x5" rug (ideally wider and shorter)
 hook for bathroom hand towel
