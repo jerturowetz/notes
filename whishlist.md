@@ -3,6 +3,9 @@
 ## X-mas remaining
 
 Bike helmet accessories
+3x5" rug (ideally wider and shorter)
+hook for bathroom hand towel
+
 
 
 bread basket
