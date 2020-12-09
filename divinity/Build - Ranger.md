@@ -6,10 +6,6 @@
 - **Level 4:** Witchcraft
 - **Level 1-3:** Bodybuilding/Willpower
 
-## Talents
-
-1. Elemental Ranger
-
 ## Stats
 
 - Dex +2 (7/9/11)

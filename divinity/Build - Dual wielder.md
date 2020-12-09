@@ -2,7 +2,6 @@
 
 ## Abilities
 
-- **Level 4:** Air
 - **Level 5:** Dual Wielding
 - **Level 1-3:** Willpower/Body Building
 
