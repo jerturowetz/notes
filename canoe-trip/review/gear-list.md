@@ -1,5 +1,13 @@
 # Canoe trip gear list
 
+- Thermarest neo air
+- Thermarest neo air xtherm
+- firesteel
+- [Gränsfors Outdoor Axe](https://www.gransforsbruk.com/en/product/gransfors-outdoor-axe/)
+- Agawa Canyon Boreal 21
+- Silky Gomboy Folding Saw
+- Morakniv Bushcraft Knife, Black
+- [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
 
 $150 [Spyderco native 5 salt full serrated](https://www.bladehq.com/item--Spyderco-Native-5-Salt-Lockback--92692)
 Opinel #8 for mess kit

@@ -2,35 +2,9 @@
 
 ## X-mas remaining
 
-https://www.sephora.com/ca/en/product/drybar-the-lemon-bar-paddle-brush-P454752?icid2=products%20grid:p454752:product
-
-https://www.sephora.com/ca/en/product/shaba-complex-eye-serum-P419223
-
-Bike helmet accessories
-3x5" rug (ideally wider and shorter)
-hook for bathroom hand towel
-
-
-[TJENA large](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
-[TJENA small box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-10395421/)
-[KVARNVIK medium](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-50466869/)
-[KVARNVIK large](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-00459480/)
-Better cutlery caddy
-Panniers
-
-
-bread basket
-smaller cutlery caddy
-Stick on wallpaper for pantry
-More pantry bins
-spice tins
-Small mixing bowl set set
-rain pants
-
-## Stuffers
-
+- [Paddle brush](https://www.sephora.com/ca/en/product/drybar-the-lemon-bar-paddle-brush-P454752)
+- [Eye cream](https://www.sephora.com/ca/en/product/shaba-complex-eye-serum-P419223)
 - [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
-- sephora brush & drunk elephant eye cream (Shaba Complex™ Firming Eye Serum)
 
 ## Hardware store
 
@@ -41,7 +15,18 @@ rain pants
 
 --
 
-- $$ for triangle for waldo
+- [Record box storage (low profile, 20" wide or way less)](https://www.amazon.ca/Organizer-Magazine-Eye-catching-Decoration-Photography/dp/B07TTGRZJM)
+- 4x5" rug for office
+- Hook for bathroom hand towel
+- Better cutlery caddy
+- bread basket
+- More pantry bins
+- More pantry containers for: pancake mix, rices
+- spice tins (between 2 & 2 1/4", 3" tall)
+- Small mixing bowl set
+
+
+
 - guitar wall hangers for office
 - webcam
   - Razer Kiyo vs c920
@@ -52,31 +37,32 @@ rain pants
 - Cable organizer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
 - Winter padlock big numbers
-- spice tins
-- more pantry bins
+
+
+
 - Label maker
-- $$ for idasen
-- Record box storage (low profile)
+
+
+
 - More bobino: large x3, med x3 (or more)
 - Baby:
   - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
   - [merino stuff](https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html)
   - other merino stuff (turtle neck?)
   - thick mitts
-- Me:
-  - rain pants
-  - water proof gloves or mitts
-- Country handwriting stickers for pantry
-- More pantry bins for: pancake mix, rices
+
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
+
 - wood for hall trones
 - wood for spare ivar shelf
-- Winter jacket for deep cold
+
 - Roomba
-- Dryer
+- Dryer (max 30" wide x 24" deep)
+
+
+
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- Fridge drawer divider
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
@@ -85,6 +71,11 @@ rain pants
 - Grovermade medium desk pad
 - 16" light cast iron wok
 - [nordace backpack](https://nordace.com/en/product/nordace-siena-smart-backpack/)
+
+
+
+- $$ for triangle for waldo
+- $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
@@ -97,10 +88,15 @@ rain pants
 ## Boots/shoes
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- Oboz Bridger 10" Insulated Waterproof (10)
+- HxC winter boots (Oboz are always sold out)
 
 ## Bike stuff (review)
 
+- water proof gloves or mitts
+- Rain pants
+- Googles
+- [Gore bike hat](https://www.competitivecyclist.com/winter-bike-hats)
+- [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
 
@@ -110,6 +106,10 @@ rain pants
 - SLAVNAS extension & shelves
 - [STOPP FILT under rug pad for waldos room](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 - [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
+- [TJENA large](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
+- [TJENA small box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-10395421/)
+- [KVARNVIK medium](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-50466869/)
+- [KVARNVIK large](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-00459480/)
 - Curtains for office:
   - [HAKVINGE](https://www.ikea.com/ca/en/p/hakvinge-curtains-1-pair-dark-red-brown-leaf-patterned-50480653/)
   - [ANNALOUISA](https://www.ikea.com/ca/en/p/annalouisa-curtains-1-pair-beige-40452448/)

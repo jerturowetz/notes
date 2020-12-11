@@ -4,18 +4,17 @@
 
 - Green leaf
 - Peppers
-- Tomatoes
-- Blueberries
+- large bard tomatoe
+- Blueberries and strawberries
 - Bananas
+- Oranges
 - plums/pesches/apples
+- emmental & cheddar
 - bread
-- sausage buns
 - coffee
 - Dark soy sauce
 - Cookies
 - Pancake mix
-- Milk x2
-- coke
 - perrier
 - Frozen fries
 - Frozen mango, strawberries, blueberries

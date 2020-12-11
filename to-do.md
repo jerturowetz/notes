@@ -1,9 +1,8 @@
 # Jeremy's To-Do List
 
-- Clean and cover the barbecue
 - Store outdoor bench in basement
+- Clean and store other bike
 - Trim weeds off fence
-- Store bikes
 - Baby proofing for Waldo's dresser
 - IKEA battery drop off
 - [Build a shoe rack](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
