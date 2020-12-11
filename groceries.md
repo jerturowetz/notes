@@ -2,17 +2,12 @@
 
 ## Grocery store
 
-- Green leaf
-- Garlic
-- lemon
-- Peppers
-- large bard tomatoe
-- Blueberries and strawberries
-- Bananas
-- Oranges
+- Blueberries
 - plums/pesches/apples
 - emmental & cheddar
-- bread
+- OJ
+- bread/english muffins
+- sadwich meat
 - coffee
 - Dark soy sauce
 - Cookies
@@ -21,5 +16,4 @@
 - Frozen fries
 - Frozen mango, strawberries, blueberries
 - Ice cream
-- Fire starters
 - Barkeepers friend
