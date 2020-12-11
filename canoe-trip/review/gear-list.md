@@ -9,6 +9,7 @@
 - Morakniv Bushcraft Knife, Black
 - [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
 
+hestra gloves
 $150 [Spyderco native 5 salt full serrated](https://www.bladehq.com/item--Spyderco-Native-5-Salt-Lockback--92692)
 Opinel #8 for mess kit
 Leatherman wave (Adam savage rec)

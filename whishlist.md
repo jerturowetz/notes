@@ -8,6 +8,8 @@
 
 ## Hardware store
 
+- wood for hall trones (" each)
+- wood for spare ivar shelf
 - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
 - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
 - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
@@ -15,65 +17,42 @@
 
 --
 
-- [Record box storage (low profile, 20" wide or way less)](https://www.amazon.ca/Organizer-Magazine-Eye-catching-Decoration-Photography/dp/B07TTGRZJM)
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+- [Record sorage](https://www.amazon.ca/gp/product/B085Q4216N?psc=1)
+- [Lodge pan scraper](https://www.amazon.ca/gp/product/B0039UU9UO?psc=1)
+- [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
+- Label maker or label punch
+- More pantry bins
 - 4x5" rug for office
 - Hook for bathroom hand towel
 - Better cutlery caddy
-- bread basket
-- More pantry bins
-- More pantry containers for: pancake mix, rices
-- spice tins (between 2 & 2 1/4", 3" tall)
-- Small mixing bowl set
-
-
-
 - guitar wall hangers for office
-- webcam
-  - Razer Kiyo vs c920
-  - Logitech Stre amCam vs c920
-  - c930e vs c920
-- 12" lazy susan?
-- macbook w/dock & 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
+- macbook dock for 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - Cable organizer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
 - Winter padlock big numbers
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- thick baby mitts
 
+--
 
-
-- Label maker
-
-
-
-- More bobino: large x3, med x3 (or more)
-- Baby:
-  - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-  - [merino stuff](https://www.clement.ca/en/kids-clothing/collections/thermal-underwear.html)
-  - other merino stuff (turtle neck?)
-  - thick mitts
-
-- [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
-- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
-
-- wood for hall trones
-- wood for spare ivar shelf
-
+- office webcam
+  - Razer Kiyo vs c920
+  - Logitech Stre amCam vs c920
+  - c930e vs c920
 - Roomba
-- Dryer (max 30" wide x 24" deep)
-
-
-
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- [Cool art](https://www.concealed-art.com/nes-art)
+- Pillows (Simons)
+- 12" lazy susan?
+- Grovermade medium desk pad
+- More bobino: large x3, med x3 (or more)
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- Pillows (Simons)
-- Grovermade medium desk pad
-- 16" light cast iron wok
-- [nordace backpack](https://nordace.com/en/product/nordace-siena-smart-backpack/)
-
-
-
+- [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
+- [CBC clothes](https://retrokid.ca/collections/cbc-retro)
+- [Cool art](https://www.concealed-art.com/nes-art)
+- [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
+- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - $$ for triangle for waldo
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
@@ -93,7 +72,7 @@
 ## Bike stuff (review)
 
 - water proof gloves or mitts
-- Rain pants
+- Rain pants (gore?)
 - Googles
 - [Gore bike hat](https://www.competitivecyclist.com/winter-bike-hats)
 - [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
