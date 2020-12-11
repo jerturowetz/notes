@@ -3,6 +3,8 @@
 ## Grocery store
 
 - Green leaf
+- Garlic
+- lemon
 - Peppers
 - large bard tomatoe
 - Blueberries and strawberries
