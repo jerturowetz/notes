@@ -1,10 +1,10 @@
 # Wishlist
 
-## X-mas remaining
-
-- [Paddle brush](https://www.sephora.com/ca/en/product/drybar-the-lemon-bar-paddle-brush-P454752)
-- [Eye cream](https://www.sephora.com/ca/en/product/shaba-complex-eye-serum-P419223)
-- [rosebud salve](https://www.chapters.indigo.ca/en-ca/fashion/rosebud-salve-in-tin/182505000133-item.html)
+gift for Bart and Danielle
+More stocking stuffers:
+Scrubby's from maison simons
+stockings from Maison Simons or chapters
+anything else?
 
 ## Hardware store
 
@@ -15,16 +15,20 @@
 - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
 - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 
+richileu closet rails
+milwaukee bits storage
+
+
+
+
 --
 
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Record sorage](https://www.amazon.ca/gp/product/B085Q4216N?psc=1)
-- [Lodge pan scraper](https://www.amazon.ca/gp/product/B0039UU9UO?psc=1)
 - [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
 - Label maker or label punch
 - More pantry bins
 - 4x5" rug for office
-- Hook for bathroom hand towel
 - Better cutlery caddy
 - guitar wall hangers for office
 - macbook dock for 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
@@ -33,6 +37,7 @@
 - Winter padlock big numbers
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - thick baby mitts
+- pan scraper that can hang
 
 --
 
@@ -41,7 +46,7 @@
   - Logitech Stre amCam vs c920
   - c930e vs c920
 - Roomba
-- Pillows (Simons)
+- Pillows (Simons bianca made in montreal, comes with pillow protector)
 - 12" lazy susan?
 - Grovermade medium desk pad
 - More bobino: large x3, med x3 (or more)

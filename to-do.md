@@ -1,8 +1,9 @@
 # Jeremy's To-Do List
 
 - Dryer apt (max 30" wide x 24" deep)
-- Go get
-
+- Get wood for trones (20&1/8" esch)
+- Mount board of wood to back of shed door for shovel and broom
+- patch and mount clothing bar in bedroom
 - Store outdoor bench in basement
 - Clean and store other bike
 - Trim weeds off fence
