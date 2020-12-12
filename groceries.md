@@ -1,10 +1,8 @@
 # Groceries
 
-## Grocery store
-
 - Blueberries
 - plums/pesches/apples
-- emmental & cheddar
+- emmental
 - OJ
 - bread/english muffins
 - sadwich meat
