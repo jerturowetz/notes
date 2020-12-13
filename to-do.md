@@ -3,6 +3,7 @@
 
 - Investigate exterior solar lights if operable with battery pack
 - put cutlery caddy on marketplace
+- simons  return
 - Dryer apt (max 30" wide x 24" deep)
 - Get wood for trones (20&1/8" esch)
 - Mount board of wood to back of shed door for shovel and broom

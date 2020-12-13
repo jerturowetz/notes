@@ -18,6 +18,10 @@ book ends for cookbooks
 
 richileu closet rails
 milwaukee bits storage
+mini ziplock with white label
+mini plunger
+better toilet brush
+
 
 --
 
@@ -92,12 +96,7 @@ milwaukee bits storage
 - [TJENA small box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-10395421/)
 - [KVARNVIK medium](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-50466869/)
 - [KVARNVIK large](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-00459480/)
-- Curtains for office:
-  - [HAKVINGE](https://www.ikea.com/ca/en/p/hakvinge-curtains-1-pair-dark-red-brown-leaf-patterned-50480653/)
-  - [ANNALOUISA](https://www.ikea.com/ca/en/p/annalouisa-curtains-1-pair-beige-40452448/)
-  - [RITVA](https://www.ikea.com/ca/en/p/ritva-curtains-with-tie-backs-1-pair-white-40111992/)
-  - [DYTÅG](https://www.ikea.com/ca/en/p/dytag-curtains-1-pair-white-00466715/)
-  - [BRANDNÄVA](https://www.ikea.com/ca/en/p/brandnaeva-curtains-1-pair-white-gray-30459596/)
+- [DYTÅG](https://www.ikea.com/ca/en/p/dytag-curtains-1-pair-white-00466715/)
 - Boxes for Idasen:
   - [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
   - [TJENA boxes](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
