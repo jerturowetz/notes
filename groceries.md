@@ -7,6 +7,7 @@
 - emmental
 - mayonaise
 - coffee
+- NA beer
 
 --
 
