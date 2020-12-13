@@ -5,6 +5,7 @@ More stocking stuffers:
 Scrubby's from maison simons
 stockings from Maison Simons or chapters
 anything else?
+book ends for cookbooks
 
 ## Hardware store
 
@@ -17,9 +18,6 @@ anything else?
 
 richileu closet rails
 milwaukee bits storage
-
-
-
 
 --
 
