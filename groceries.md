@@ -1,6 +1,7 @@
 # Groceries
 
 - emmental
+- mayonaise
 - coffee
 - Dark soy sauce
 - Pancake mix
