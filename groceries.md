@@ -1,8 +1,15 @@
 # Groceries
 
+- green leaf
+- spinach fior freezing
+- carrots
+- green sides
 - emmental
 - mayonaise
 - coffee
+
+--
+
 - Dark soy sauce
 - Pancake mix
 - Frozen fries
