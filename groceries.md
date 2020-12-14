@@ -1,18 +1,11 @@
 # Groceries
 
-- green leaf
-- spinach fior freezing
-- carrots
-- green sides
-- emmental
-- mayonaise
-- coffee
-- NA beer
-
---
-
+- Spinach for freezing
+- Emmental
+- Mayonaise
 - Dark soy sauce
 - Pancake mix
+- NA beer
 - Frozen fries
 - Frozen mango, strawberries, blueberries
 - Ice cream
