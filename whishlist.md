@@ -7,6 +7,11 @@ Scrubby's from maison simons
 stockings from Maison Simons or chapters
 anything else?
 book ends for cookbooks
+Strap bike lock
+
+depth for weird c'oset 10-12"
+
+
 
 ## Hardware store
 
