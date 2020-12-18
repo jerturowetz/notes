@@ -28,7 +28,9 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 - [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - [baby googles](https://www.mec.ca/en/product/5023-015/Little-G-Goggles)
-- Baclava for meee
+
+
+
 - bike helmlet indoor hooks
 - flat 3 prong short for living room
 - 11" shelf divider bread
@@ -66,7 +68,6 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 - More bobino: large x3, med x3 (or more)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Rice storage](https://www.amazon.ca/11236400-Grips-Piece-Canister-Scoops/dp/B07TCD74ST)
 - [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
@@ -90,6 +91,7 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 
 ## Bike stuff (review)
 
+- Baclava for meee
 - water proof gloves or mitts
 - Rain pants (gore?)
 - Googles
