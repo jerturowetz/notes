@@ -1,39 +1,33 @@
 # Wishlist
 
-11" shelf dividee
-gift for Bart and Danielle
-More stocking stuffers:
-Scrubby's from maison simons
-stockings from Maison Simons or chapters
-anything else?
-book ends for cookbooks
-Strap bike lock
-
-depth for weird c'oset 10-12"
-
-
-
 ## Hardware store
 
 - wood for hall trones (" each)
-- wood for spare ivar shelf
 - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
 - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
 - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
 - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-
-richileu closet rails
-milwaukee bits storage
-mini ziplock with white label
-mini plunger
-better toilet brush
-
 
 --
 
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Record sorage](https://www.amazon.ca/gp/product/B085Q4216N?psc=1)
 - [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- [baby googles](https://www.mec.ca/en/product/5023-015/Little-G-Goggles)
+- Baclava for meee
+- bike helmlet indoor hooks
+- flat 3 prong short for living room
+- 11" shelf divider bread
+- gift for Bart and Danielle
+- book ends for cookbooks
+- Strap bike lock
+- depth for weird c'oset 10-12"
+- richileu closet rails
+- milwaukee bits storage
+- mini ziplock with white label
+- mini plunger
+- better toilet brush
 - Label maker or label punch
 - More pantry bins
 - 4x5" rug for office
@@ -43,7 +37,6 @@ better toilet brush
 - Cable organizer under ikea desk
 - 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
 - Winter padlock big numbers
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - thick baby mitts
 - pan scraper that can hang
 
