@@ -1,5 +1,18 @@
 # Wishlist
 
+brackets for shelf in bedrooma
+carpet for office
+circle plug & ext for by couch
+electric fly swatter
+
+lavender essential oils aroma therapy & a diffuser
+deodorizer spray
+Vitacost Essential Oils
+Better Life 2am Miracle Nursery Cleaner Lavender
+Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
+
+
+
 ## Hardware store
 
 - wood for hall trones (" each)
