@@ -1,21 +1,25 @@
 # Wishlist
 
-brackets for shelf in bedrooma
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+
+
+
+
+circle power bar for by front window
 carpet for office
 circle plug & ext for by couch
-electric fly swatter
-
+[electric fly swatter](https://www.amazon.ca/ZOMAKE-Electric-Swatter-Rechargeable-Mosquito/dp/B086Y8HC75#customerReviews)
 lavender essential oils aroma therapy & a diffuser
 deodorizer spray
 Vitacost Essential Oils
 Better Life 2am Miracle Nursery Cleaner Lavender
 Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
-
-
+bread basket
+ubbi better diaper genie
 
 ## Hardware store
 
-- wood for hall trones (" each)
 - [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
 - [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
 - [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
@@ -63,17 +67,15 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
   - c930e vs c920
 - Roomba
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
+- wood for hall trones (" each)
 - 12" lazy susan?
 - Grovermade medium desk pad
 - More bobino: large x3, med x3 (or more)
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
-- $$ for triangle for waldo
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
@@ -91,7 +93,7 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 
 ## Bike stuff (review)
 
-- Baclava for meee
+- Baclava for me
 - water proof gloves or mitts
 - Rain pants (gore?)
 - Googles
@@ -104,6 +106,7 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
+- extra shelves & brackets for shelf in bedrooma
 - [STOPP FILT under rug pad for waldos room](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
 - [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
 - [TJENA large](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
