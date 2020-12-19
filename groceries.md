@@ -1,39 +1,56 @@
 # Groceries
 
 - OJ
-- Bread
-- Sliced yellow cheese
-- Spinach for freezing
+- Clementines
+- Baby carrots
+- Peppers
+- potatoes
+- Broccoli
+- kayle
+- Garlic
+- Lemon
 - other green veg
+- Spinach for freezing
 - Emmental & cheddar
+- Bread
+- Tiny buns for breakfast sandwiches
+
+--
+
+- skin-on bone-in chickent thighs
+- breakfast sausages
+- Bacon
+
+--
+
+- Barkeepers friend
+- Paper towels
+- Toilet paper
+
+--
+
+- Red lentils
+- Olive oil
 - Mayonaise
 - Dark soy sauce
 - Pancake mix
-- NA beer
-- Frozen fries
-- Frozen mango, strawberries, blueberries
-- Ice cream
-- Barkeepers friend
+- Pickles
 - flour
 - dark brown sugar
 - powdered sugar
 
-Olive oil
-Butter
-Clementines
-Baby carrots
-Peppers
-Broccoli
-Lemon
-Tiny buns for breakfast sandwiches
-Yogurt
-Eggs
-Pickles
-Nonalcoholic beer
-potatoes
-Kayle
-Jesus
-Frozen fries
-Frozen fruit
-Bacon
-breakfast sausages
+--
+
+- NA beer
+- Eggs
+- Sliced yellow cheese
+- Butter
+- Yogurt
+- Ice cream
+- Frozen fries
+- Frozen mango, strawberries, blueberries
+
+## Asian grocery
+
+- Shrimp
+- Noodles
