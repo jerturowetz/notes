@@ -17,3 +17,25 @@
 - flour
 - dark brown sugar
 - powdered sugar
+
+Olive oil
+Butter
+Clementines
+Baby carrots
+Peppers
+Broccoli
+Lemon
+Tiny buns for breakfast sandwiches
+Yogurt
+Eggs
+Strawberries, blueberries
+Pickles
+Nonalcoholic beer
+potatoes
+Kayle
+Jesus
+Frozen fries
+Frozen fruit
+Bacon
+breakfast sausages
+

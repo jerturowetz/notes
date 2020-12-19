@@ -2,11 +2,12 @@
 
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-
-
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 
 
 circle power bar for by front window
+tree skirt
+brackets for shelf in bedrooma
 carpet for office
 circle plug & ext for by couch
 [electric fly swatter](https://www.amazon.ca/ZOMAKE-Electric-Swatter-Rechargeable-Mosquito/dp/B086Y8HC75#customerReviews)
@@ -18,24 +19,11 @@ Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
 bread basket
 ubbi better diaper genie
 
-## Hardware store
-
-- [47" twintrack rail x4](https://www.homedepot.ca/product/rubbermaid-47-5-inch-black-twin-track-upright/1000154058)
-- [11.5" twintrack bracket x8](https://www.homedepot.ca/product/rubbermaid-11-5-inch-black-twin-track-bracket/1000154045)
-- [14.5" twintrack bracket x2](https://www.homedepot.ca/product/rubbermaid-14-5-inch-black-twin-track-bracket/1000154048)
-- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-
---
-
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Record sorage](https://www.amazon.ca/gp/product/B085Q4216N?psc=1)
 - [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - [baby googles](https://www.mec.ca/en/product/5023-015/Little-G-Goggles)
-
-
-
-- bike helmlet indoor hooks
 - flat 3 prong short for living room
 - 11" shelf divider bread
 - gift for Bart and Danielle
