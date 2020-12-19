@@ -28,7 +28,6 @@ Lemon
 Tiny buns for breakfast sandwiches
 Yogurt
 Eggs
-Strawberries, blueberries
 Pickles
 Nonalcoholic beer
 potatoes
@@ -38,4 +37,3 @@ Frozen fries
 Frozen fruit
 Bacon
 breakfast sausages
-
