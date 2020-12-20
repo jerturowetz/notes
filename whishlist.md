@@ -6,20 +6,22 @@
 - milwaukee bits storage
 - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 - [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
-- [Makita sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
 
 ## online
 
-- How to organize corner shelf
+https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
+
+- [dock](https://www.apple.com/shop/product/HMX12ZM/A/caldigit-ts3-plus-dock?afid=p239%7C221109&cid=aos-us-aff-ir)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cheese drawer bin x2](https://www.amazon.ca/InterDesign-Clarity-Organizer-Bathroom-Countertop/dp/B07H7YJF3F)
 - 4x5" rug for office
-- macbook dock for 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - gift for Bart and Danielle
 
 --
 
+- pantry bins
+- Bathrom drawer divider
 - Diffuser & essential oils for baby room
 - [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
 - [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
@@ -46,6 +48,7 @@
 - More bobino: large x3, med x3 (or more)
 - Waterhog Christmas tree mat
 - Flat Rattan Tree Ring
+- [Makita sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
