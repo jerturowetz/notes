@@ -4,9 +4,10 @@
 
 - bbq charcoal
 - bins for angled cabinaet?
-
+mat for rear of apt we can cut to fit corner
 ## Home depot
 
+- bbq charcoal
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
 - [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
 - [Scotch guard](https://www.homedepot.ca/product/scotchgard-fabric-protector/1000408282)
