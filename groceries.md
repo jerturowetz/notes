@@ -1,5 +1,6 @@
 # Groceries
 
+- fennel
 - fresh chives
 - parsley leaves
 - 4 large romaine lettuce leaves
@@ -18,7 +19,12 @@
 - 1 large onion
 - large red onion
 - 5 cobs of corn
+
+--
+
 - Emmental & cheddar
+- mozarella dry
+- mozarella wet
 - Bread
 - Tiny buns for breakfast sandwiches
 - 4 pocketless pitas, flatbreads, or naan
@@ -27,18 +33,19 @@
 
 - skin-on bone-in chickent thighs
 - breakfast sausages
+- merguez?
 - 1 pound boneless, skinless chicken breasts, cut into 1/2-inch-thick strips
 - Bacon
 
 --
 
-- Barkeepers friend
 - Paper towels
 - Toilet paper
 - parchment paper
 
 --
 
+- pizza sauce
 - 2 cups chicken broth, divided
 - Red lentils
 - Olive oil
@@ -57,6 +64,7 @@
 - Eggs
 - Sliced yellow cheese
 - Butter
+- creme fraiche
 - Yogurt
 - Ice cream
 - Frozen fries
@@ -66,3 +74,12 @@
 
 - Shrimp
 - Noodles
+
+## Jean talon
+
+- kale
+- spinach
+- cherry tomatoes
+- red peppers
+- asparagus
+- broccoli
