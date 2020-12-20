@@ -1,69 +1,54 @@
 # Wishlist
 
+## Home depot
+
+- Scotch guard
+- milwaukee bits storage
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
+- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [Makita sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
+
+## online
+
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
+- Diffuser & essential oils for baby room
+- wooden cube cutlery holder
 
 
-circle power bar for by front window
-tree skirt
-brackets for shelf in bedrooma
-carpet for office
-circle plug & ext for by couch
-[electric fly swatter](https://www.amazon.ca/ZOMAKE-Electric-Swatter-Rechargeable-Mosquito/dp/B086Y8HC75#customerReviews)
-lavender essential oils aroma therapy & a diffuser
-deodorizer spray
-Vitacost Essential Oils
-Better Life 2am Miracle Nursery Cleaner Lavender
-Citrus Magic Natural Odor Eliminating Air Freshener Tropical Citrus Blend
-bread basket
-ubbi better diaper genie
-
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- [Record sorage](https://www.amazon.ca/gp/product/B085Q4216N?psc=1)
-- [Spice jars 2"](https://www.amazon.ca/gp/product/B07QFB43CC?psc=1)
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- [baby googles](https://www.mec.ca/en/product/5023-015/Little-G-Goggles)
-- flat 3 prong short for living room
-- 11" shelf divider bread
-- gift for Bart and Danielle
-- book ends for cookbooks
-- Strap bike lock
-- depth for weird c'oset 10-12"
-- richileu closet rails
-- milwaukee bits storage
-- mini ziplock with white label
-- mini plunger
-- better toilet brush
 - Label maker or label punch
-- More pantry bins
 - 4x5" rug for office
-- Better cutlery caddy
-- guitar wall hangers for office
 - macbook dock for 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
 - Cable organizer under ikea desk
-- 14: bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
-- Winter padlock big numbers
-- thick baby mitts
-- pan scraper that can hang
+- 14" bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
+
+
+- gift for Bart and Danielle
 
 --
 
-- office webcam
-  - Razer Kiyo vs c920
-  - Logitech Stre amCam vs c920
-  - c930e vs c920
-- Roomba
-- Pillows (Simons bianca made in montreal, comes with pillow protector)
-- wood for hall trones (" each)
-- 12" lazy susan?
-- Grovermade medium desk pad
-- More bobino: large x3, med x3 (or more)
+- [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
+- Winter padlock big numbers
+- ubbi better diaper genie
+- office webcam
+  - Razer Kiyo vs c920
+  - Logitech Stre amCam vs c920
+  - c930e vs c920
+- Roomba
+- book ends for cookbooks
+- Pillows (Simons bianca made in montreal, comes with pillow protector)
+- wood for hall trones (" each)
+- 12" lazy susan?
+- Grovermade medium desk pad
+- More bobino: large x3, med x3 (or more)
+- Waterhog Christmas tree mat
+- Flat Rattan Tree Ring
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
@@ -74,17 +59,15 @@ ubbi better diaper genie
   - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
 
-## Boots/shoes
+## Sporting goods stuff
 
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - HxC winter boots (Oboz are always sold out)
-
-## Bike stuff (review)
-
-- Baclava for me
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- [waterproof 0deg gloves](https://www.mec.ca/en/product/6003-639/Crosspoint-Waterproof-Knit-Gloves?colour=BK000#reviews)
+- thick baby mitts
 - water proof gloves or mitts
 - Rain pants (gore?)
-- Googles
 - [Gore bike hat](https://www.competitivecyclist.com/winter-bike-hats)
 - [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
