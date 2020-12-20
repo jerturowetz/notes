@@ -1,14 +1,10 @@
-## Groceries
+# Groceries
 
-merguez or similar
-peaches
-stawverries
-na beerx12
-
-
-- kale or ehatever green
-- cherry tomatoes
 - fresh OJ
+- Merguez
+- Strawberries
+- Peaches
+- cherry tomatoes
 - 5 fresh ripe tomatoes
 - 5 cobs of corn
 - 3lbs sweet patates
@@ -17,6 +13,7 @@ na beerx12
 - bagels (if smoked salmon)
 - Tiny buns for breakfast sandwiches
 - creme fraiche
+- NA beer x12
 - Frozen french fries
 
 ## Asian grocery
@@ -24,5 +21,3 @@ na beerx12
 - Shrimp
 - Noodles
 - dark soy sauce
-
-

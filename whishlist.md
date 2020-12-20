@@ -2,36 +2,31 @@
 
 ## Home depot
 
-- Scotch guard
-- milwaukee bits storage
+- [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
+- [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
+- [Scotch guard](https://www.homedepot.ca/product/scotchgard-fabric-protector/1000408282)
+- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
 - [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
 - [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [hook for clothing rack](https://www.homedepot.ca/product/fuller-50-lb-capacity-hang-all-bracket/1001159392)
 
 ## online
 
-
-
+fridge bins for fruits
 ikea thicker c'oset bar snf clamps
-
 11" deep, 16" across for pantry storahe by booze (for raga and aprons )
-
 maybe small starfrit for nuts and raisins and cranberries
 starfeit for geanola and cerealx2
 starfrit got pancake mix
 mdesign like i have but less deepx4
-
-
-
 organize fruit and vegetable bins
 Maybe fruit and vegetable baskets
 A few baskets for the angled cabinet
 A few new bins for the pantry
 Something to manage the cans
-
-
-- cutlery caddy
 https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
+- cutlery caddy
 - [dock](https://www.apple.com/shop/product/HMX12ZM/A/caldigit-ts3-plus-dock?afid=p239%7C221109&cid=aos-us-aff-ir)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
@@ -86,7 +81,6 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 - HxC winter boots (Oboz are always sold out)
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - [waterproof 0deg gloves](https://www.mec.ca/en/product/6003-639/Crosspoint-Waterproof-Knit-Gloves?colour=BK000#reviews)
-- thick baby mitts
 - water proof gloves or mitts
 - Rain pants (gore?)
 - [Gore bike hat](https://www.competitivecyclist.com/winter-bike-hats)
