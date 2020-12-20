@@ -3,7 +3,6 @@
 ## Canadian tire
 
 - bbq charcoal
-- bins for angled cabinaet?
 
 ## Home depot
 
@@ -16,6 +15,12 @@
 - [hook for clothing rack](https://www.homedepot.ca/product/fuller-50-lb-capacity-hang-all-bracket/1001159392)
 
 ## online
+
+- pantry bins
+- Bathrom drawer divider
+
+- bins for angled cabinaet?
+
 
 fridge bins for fruits
 ikea thicker c'oset bar snf clamps
@@ -31,6 +36,7 @@ A few new bins for the pantry
 Something to manage the cans
 https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
+- air freshener for baby room
 - cutlery caddy
 - [dock](https://www.apple.com/shop/product/HMX12ZM/A/caldigit-ts3-plus-dock?afid=p239%7C221109&cid=aos-us-aff-ir)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
@@ -41,8 +47,6 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
 --
 
-- pantry bins
-- Bathrom drawer divider
 - Diffuser & essential oils for baby room
 - [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
 - [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
