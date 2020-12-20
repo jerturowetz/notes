@@ -1,6 +1,10 @@
 ## Groceries
 
 merguez or similar
+peaches
+stawverries
+na beerx12
+
 
 - kale or ehatever green
 - cherry tomatoes
@@ -21,11 +25,4 @@ merguez or similar
 - Noodles
 - dark soy sauce
 
-==
-
-Meals with Kimberley
-Smoked salmon
-Fish from fish shop
-fancy pasta
-poke salmon from fancy Fisher
 
