@@ -1,5 +1,10 @@
 # Wishlist
 
+## Canadian tire
+
+- bbq charcoal
+- bins for angled cabinaet?
+
 ## Home depot
 
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
@@ -14,7 +19,7 @@
 
 fridge bins for fruits
 ikea thicker c'oset bar snf clamps
-11" deep, 16" across for pantry storahe by booze (for raga and aprons )
+11" deep, 16" across for pantry storahe by booze (for raga and aprons)  (11"x8") 28cm x 20cm
 maybe small starfrit for nuts and raisins and cranberries
 starfeit for geanola and cerealx2
 starfrit got pancake mix
