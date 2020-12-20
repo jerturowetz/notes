@@ -10,23 +10,18 @@
 
 ## online
 
+- How to organize corner shelf
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- Diffuser & essential oils for baby room
-- wooden cube cutlery holder
-
-
-- Label maker or label punch
+- [Cheese drawer bin x2](https://www.amazon.ca/InterDesign-Clarity-Organizer-Bathroom-Countertop/dp/B07H7YJF3F)
 - 4x5" rug for office
 - macbook dock for 2 monitors maybe WD19TB dock (dock needs: webcam, mouse, keys, maybe jabra)
-- Cable organizer under ikea desk
-- 14" bin for cheese drawer (8,6 & 4" wide) - doesnt need to be 14" if a spacer
-
-
 - gift for Bart and Danielle
 
 --
 
+- Diffuser & essential oils for baby room
+- [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
 - [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
@@ -34,6 +29,8 @@
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
+- Label punch
+- Cable organizer under ikea desk
 - Winter padlock big numbers
 - ubbi better diaper genie
 - office webcam
