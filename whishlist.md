@@ -1,11 +1,5 @@
 # Wishlist
 
-## Canadian tire
-
-- bbq charcoal
-
-- bins for angled cabinaet?
-mat for rear of apt we can cut to fit corner
 ## Home depot
 
 - bbq charcoal
@@ -21,11 +15,12 @@ mat for rear of apt we can cut to fit corner
 
 - pantry bins
 - Bathrom drawer divider
-
 - bins for angled cabinaet?
-
-
+mat for rear of apt we can cut to fit corner
+wicker bins for sheets
+- [storage for sheets in couch](https://www.ikea.com/ca/en/p/lackisar-storage-case-00432141/)
 fridge bins for fruits
+- boxes for headphones https://www.ikea.com/ca/en/p/lankmoj-box-with-lid-set-of-3-multicolor-paper-30468015/
 ikea thicker c'oset bar snf clamps
 11" deep, 16" across for pantry storahe by booze (for raga and aprons)  (11"x8") 28cm x 20cm
 maybe small starfrit for nuts and raisins and cranberries
@@ -35,8 +30,6 @@ mdesign like i have but less deepx4
 organize fruit and vegetable bins
 Maybe fruit and vegetable baskets
 A few baskets for the angled cabinet
-A few new bins for the pantry
-Something to manage the cans
 https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
 - air freshener for baby room
@@ -50,6 +43,7 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
 --
 
+- wicker bins for inside spare couch
 - Diffuser & essential oils for baby room
 - [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
 - [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
@@ -102,6 +96,7 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 
 ## IKEA
 
+- https://www.ikea.com/ca/en/p/flisat-toy-storage-with-casters-10298420/
 - Raskog grey metal cabinet pins
 - SLAVNAS extension & shelves
 - extra shelves & brackets for shelf in bedrooma
