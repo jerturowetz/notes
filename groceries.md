@@ -7,6 +7,8 @@
 
 --
 
+- apple cider
+- stubby olive oil
 - fresh OJ
 - Strawberries
 - cherry tomatoes
