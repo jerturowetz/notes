@@ -1,5 +1,21 @@
 # Wishlist
 
+buns for rags is
+38 cm across
+28 cm deep
+
+
+
+2 probg plug and charger for bedroom (something i can snesk into thr green thing)
+2 prong ext for offixe guests
+little baskets for cloths in cupboard
+
+## Canadian tire
+
+- bbq charcoal
+
+- bins for angled cabinaet?
+mat for rear of apt we can cut to fit corner
 ## Home depot
 
 - bbq charcoal
