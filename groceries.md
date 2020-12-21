@@ -8,6 +8,8 @@
 
 --
 
+- Brown sugar
+- Molasses
 - fresh OJ
 - Strawberries
 - cherry tomatoes
@@ -21,6 +23,9 @@
 - creme fraiche
 - NA beer x12
 - Frozen french fries
+- Oxo small item storage (like nuts and such)
+- Oxo cereal storage
+- Oxo rice storage (?)
 
 ## Asian grocery
 

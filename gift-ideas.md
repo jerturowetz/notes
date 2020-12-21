@@ -4,6 +4,8 @@
 
 ## Kate
 
+- [Porcelain bottle vase](https://foekjefleur.com/product/porcelain-bottle-vase-1-dark-blue/)
+- Paddle brush (empire exchange)
 - cutting mat
 - Photo album!
 - [sea soak](https://east-coast-glow.myshopify.com/collections/bath-soak/products/peppermint-kelp-sea-salt-soak)

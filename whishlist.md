@@ -1,59 +1,76 @@
 # Wishlist
 
-small drawer organizer for new drawer space 23.5cmx47cm (  9 1/4" x 18 1/2")
-buns for rags is 38 cm across x28 cm deep (15" x 11")
-bottom mounted drawer rail system
+## Projects to be fleshed out
 
-
-
-wall mountable 2 prog for desk room
-
-
-small box for baby plush toys on top of baby dresser?
-
-
-2 probg plug and charger for bedroom (something i can snesk into thr green thing)
-2 prong ext for offixe guests
-little baskets for cloths in cupboard
+- Baby closet storage
+- Living room closet storage
+- Paint rooms
+- Shoe storage for front door, front closet and rear door
+- Mat runner for back door, cut to fit
+- Peel & stick wallpaper for pantry
 
 ## Canadian tire
 
-- bbq charcoal
+- Scotchguard
+- [Dual track brackets](https://www.canadiantire.ca/en/pdp/dual-track-bracket-7-in-0687073p.html?rrec=true#spc)
+- [Dual track rail](https://www.canadiantire.ca/en/pdp/dual-track-72-in-0687077p.html?rrec=true#spc)
 
+## stuf
+
+
+
+
+--
+
+- Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
+- [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
+- [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
+
+
+
+
+
+
+
+
+
+- small drawer organizer for new drawer space 23.5cmx47cm (  9 1/4" x 18 1/2")
+- buns for rags is 38 cm across x28 cm deep (15" x 11")
+- bottom mounted drawer rail system
+- 25"x52" for couch bed storage
+- t6ape measure
+- make house smell better
+- rug for back door cut to size
+- mold for edges for cutting carpet
+- white chalk pen thingy
+- more oxo or whtever bins fort rice & pasta and whatever
+- dimmer switch for office (glow in the dark?)
+- Dimmer/smart switch for other lights?
+- linen storage fror couch bed
+- mop bucket or sorts
+- Get wood for trones (20&1/8" esch)
+- 2 probg plug and charger for bedroom (something i can snesk into thr green thing)
+- 2 prong ext for offixe guests
+- little baskets for cloths in cupboard
 - bins for angled cabinaet?
-mat for rear of apt we can cut to fit corner
-## Home depot
-
-- bbq charcoal
-- [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
-- [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
-- [Scotch guard](https://www.homedepot.ca/product/scotchgard-fabric-protector/1000408282)
-- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
-- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
-- [hook for clothing rack](https://www.homedepot.ca/product/fuller-50-lb-capacity-hang-all-bracket/1001159392)
-
-## online
-
+- mat for rear of apt we can cut to fit corner
+- 4" glass prep bowls
 - pantry bins
 - Bathrom drawer divider
-- bins for angled cabinaet?
-mat for rear of apt we can cut to fit corner
-wicker bins for sheets
+- wicker bins for sheets
 - [storage for sheets in couch](https://www.ikea.com/ca/en/p/lackisar-storage-case-00432141/)
-fridge bins for fruits
+- fridge bins for fruits
 - boxes for headphones https://www.ikea.com/ca/en/p/lankmoj-box-with-lid-set-of-3-multicolor-paper-30468015/
-ikea thicker c'oset bar snf clamps
-11" deep, 16" across for pantry storahe by booze (for raga and aprons)  (11"x8") 28cm x 20cm
-maybe small starfrit for nuts and raisins and cranberries
-starfeit for geanola and cerealx2
-starfrit got pancake mix
-mdesign like i have but less deepx4
-organize fruit and vegetable bins
-Maybe fruit and vegetable baskets
-A few baskets for the angled cabinet
-https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
-
+- ikea thicker c'oset bar snf clamps
+- 11" deep, 16" across for pantry storahe by booze (for raga and aprons)  (11"x8") 28cm x 20cm
+- maybe small starfrit for nuts and raisins and cranberries
+- starfeit for geanola and cerealx2
+- starfrit got pancake mix
+- mdesign like i have but less deepx4
+- organize fruit and vegetable bins
+- Maybe fruit and vegetable baskets
+- A few baskets for the angled cabinet
+- https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 - air freshener for baby room
 - cutlery caddy
 - [dock](https://www.apple.com/shop/product/HMX12ZM/A/caldigit-ts3-plus-dock?afid=p239%7C221109&cid=aos-us-aff-ir)
@@ -62,9 +79,6 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 - [Cheese drawer bin x2](https://www.amazon.ca/InterDesign-Clarity-Organizer-Bathroom-Countertop/dp/B07H7YJF3F)
 - 4x5" rug for office
 - gift for Bart and Danielle
-
---
-
 - wicker bins for inside spare couch
 - Diffuser & essential oils for baby room
 - [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
@@ -90,8 +104,7 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
 - 12" lazy susan?
 - Grovermade medium desk pad
 - More bobino: large x3, med x3 (or more)
-- Waterhog Christmas tree mat
-- Flat Rattan Tree Ring
+
 - [Makita sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
@@ -102,6 +115,19 @@ https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
   - [Paperole shirts](https://www.paperole.com/)
   - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
+
+## Home depot
+
+- 12" x 3' shelves for weird closet (if can tire rails work)
+- bbq charcoal
+- [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
+- [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
+- [Scotch guard](https://www.homedepot.ca/product/scotchgard-fabric-protector/1000408282)
+- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
+- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [hook for clothing rack](https://www.homedepot.ca/product/fuller-50-lb-capacity-hang-all-bracket/1001159392)
+- [Book caddy](https://www.ikea.com/ca/en/p/flisat-book-display-00290783/)
 
 ## Sporting goods stuff
 
