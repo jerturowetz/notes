@@ -1,9 +1,15 @@
 # Groceries
 
-- fresh OJ
 - Merguez
-- Strawberries
 - Peaches
+- Milks
+- Bread
+- SLiced meats
+
+--
+
+- fresh OJ
+- Strawberries
 - cherry tomatoes
 - 5 fresh ripe tomatoes
 - 5 cobs of corn
