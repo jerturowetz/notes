@@ -7,6 +7,7 @@
 
 --
 
+- Salted and unsalted butter
 - apple cider
 - stubby olive oil
 - fresh OJ
