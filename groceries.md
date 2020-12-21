@@ -2,14 +2,11 @@
 
 - Merguez
 - Peaches
-- Milks
 - Bread
 - SLiced meats
 
 --
 
-- Brown sugar
-- Molasses
 - fresh OJ
 - Strawberries
 - cherry tomatoes

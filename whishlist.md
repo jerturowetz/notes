@@ -11,7 +11,6 @@
 
 ## Canadian tire
 
-- Scotchguard
 - [Dual track brackets](https://www.canadiantire.ca/en/pdp/dual-track-bracket-7-in-0687073p.html?rrec=true#spc)
 - [Dual track rail](https://www.canadiantire.ca/en/pdp/dual-track-72-in-0687077p.html?rrec=true#spc)
 
@@ -50,6 +49,7 @@
 - mop bucket or sorts
 - Get wood for trones (20&1/8" esch)
 - 2 probg plug and charger for bedroom (something i can snesk into thr green thing)
+- can tire bin for baby tjibgs
 - 2 prong ext for offixe guests
 - little baskets for cloths in cupboard
 - bins for angled cabinaet?
