@@ -7,105 +7,71 @@
 - Paint rooms
 - Shoe storage for front door, front closet and rear door
 - Mat runner for back door, cut to fit
-- Peel & stick wallpaper for pantry
+- storage for inside couch
+- IDASEN storage
 
 ## Canadian tire
 
 - [Dual track brackets](https://www.canadiantire.ca/en/pdp/dual-track-bracket-7-in-0687073p.html?rrec=true#spc)
 - [Dual track rail](https://www.canadiantire.ca/en/pdp/dual-track-72-in-0687077p.html?rrec=true#spc)
 
-## stuf
+## Home depot
 
+- [bbq charcoal](https://www.homedepot.ca/product/vision-grills-100-natural-20-lb-hardwood-lump-charcoal/1001163171)
+- [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
+- [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
+- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
+- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [hooks for clothing rack](https://www.homedepot.ca/product/everbilt-100-lb-capacity-small-strap-hook-zinc-plated-with-vinyl-coating/1001094114)
 
+## IKEA
 
+- [RISATORP basket x4](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
+- [SMARRA x2](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- Raskog grey metal cabinet pins
+- extra shelves & brackets for shelf in bedrooma
+
+## Various
+
+- gift for james parents
+- gift for Bart and Danielle
+- Pantry bins
+- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
 
 --
 
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- 4x5" rug for office
+- dual monitor dock
+- Label punch
+- Cable organizer under ikea desk
+- Winter padlock big numbers
+- office webcam
+- Roomba
+- Pillows (Simons bianca made in montreal, comes with pillow protector)
+- corner cabinet organization (lazy susans and small bins)
+- Wood for trones
+- maison simons diffusers
 - Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
 - [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
 - [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
-
-
-
-
-
-
-
-
-- gift for james parents
-- small drawer organizer for new drawer space 23.5cmx47cm (  9 1/4" x 18 1/2")
-- buns for rags is 38 cm across x28 cm deep (15" x 11")
-- bottom mounted drawer rail system
-- 25"x52" for couch bed storage
-- t6ape measure
-- make house smell better
-- rug for back door cut to size
-- mold for edges for cutting carpet
-- white chalk pen thingy
-- more oxo or whtever bins fort rice & pasta and whatever
-- dimmer switch for office (glow in the dark?)
-- Dimmer/smart switch for other lights?
-- linen storage fror couch bed
-- mop bucket or sorts
-- Get wood for trones (20&1/8" esch)
-- 2 probg plug and charger for bedroom (something i can snesk into thr green thing)
-- can tire bin for baby tjibgs
-- 2 prong ext for offixe guests
-- little baskets for cloths in cupboard
-- bins for angled cabinaet?
-- mat for rear of apt we can cut to fit corner
-- 4" glass prep bowls
-- pantry bins
-- Bathrom drawer divider
-- wicker bins for sheets
-- [storage for sheets in couch](https://www.ikea.com/ca/en/p/lackisar-storage-case-00432141/)
-- fridge bins for fruits
-- boxes for headphones https://www.ikea.com/ca/en/p/lankmoj-box-with-lid-set-of-3-multicolor-paper-30468015/
-- ikea thicker c'oset bar snf clamps
-- 11" deep, 16" across for pantry storahe by booze (for raga and aprons)  (11"x8") 28cm x 20cm
-- maybe small starfrit for nuts and raisins and cranberries
-- starfeit for geanola and cerealx2
-- starfrit got pancake mix
-- mdesign like i have but less deepx4
-- organize fruit and vegetable bins
-- Maybe fruit and vegetable baskets
-- A few baskets for the angled cabinet
-- https://www.amazon.ca/gp/product/B009L3LVNW?psc=1
-- air freshener for baby room
-- cutlery caddy
-- [dock](https://www.apple.com/shop/product/HMX12ZM/A/caldigit-ts3-plus-dock?afid=p239%7C221109&cid=aos-us-aff-ir)
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Cheese drawer bin x2](https://www.amazon.ca/InterDesign-Clarity-Organizer-Bathroom-Countertop/dp/B07H7YJF3F)
-- 4x5" rug for office
-- gift for Bart and Danielle
-- wicker bins for inside spare couch
-- Diffuser & essential oils for baby room
-- [Full sheet cooling rack](https://www.amazon.ca/Commercial-Large-Cool-Bread-Perfect-Bacon-Fits-Dishwasher/dp/B01H60UOB6)
-- [Feather Wreath](https://www.cb2.ca/feather-spotted-wreath-24/s658831)
+- [ikea 365 food storage](https://www.ikea.com/ca/en/p/ikea-365-food-container-with-lid-rectangular-glass-bamboo-s49269068/)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+- white chalk pen thingy
+- mop bucket or sorts
+- 4" glass prep bowls
+- Bathrom drawer divider
+- More bins or glass jars for pantry (oxo, ikea 365)
+- cutlery caddy
 - [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
-- Label punch
-- Cable organizer under ikea desk
-- Winter padlock big numbers
-- ubbi better diaper genie
-- office webcam
-  - Razer Kiyo vs c920
-  - Logitech Stre amCam vs c920
-  - c930e vs c920
-- Roomba
-- book ends for cookbooks
-- Pillows (Simons bianca made in montreal, comes with pillow protector)
-- wood for hall trones (" each)
-- 12" lazy susan?
-- Grovermade medium desk pad
-- More bobino: large x3, med x3 (or more)
-
-- [Makita sander](https://www.homedepot.ca/product/makita-18v-cordless-random-orbit-sander-tool-only-/1000718274)
+- [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - $$ for idasen
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
@@ -116,51 +82,15 @@
   - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
 
-## Home depot
-
-- 12" x 3' shelves for weird closet (if can tire rails work)
-- bbq charcoal
-- [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
-- [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
-- [Scotch guard](https://www.homedepot.ca/product/scotchgard-fabric-protector/1000408282)
-- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
-- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
-- [hook for clothing rack](https://www.homedepot.ca/product/fuller-50-lb-capacity-hang-all-bracket/1001159392)
-- [Book caddy](https://www.ikea.com/ca/en/p/flisat-book-display-00290783/)
-
 ## Sporting goods stuff
 
-- [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- HxC winter boots (Oboz are always sold out)
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- [waterproof 0deg gloves](https://www.mec.ca/en/product/6003-639/Crosspoint-Waterproof-Knit-Gloves?colour=BK000#reviews)
-- water proof gloves or mitts
-- Rain pants (gore?)
-- [Gore bike hat](https://www.competitivecyclist.com/winter-bike-hats)
+- HxC winter boots (Oboz are always sold out)
+- warmer ski gloves
+- Ski shell pants
 - [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
 - [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
 - [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
-
-## IKEA
-
-- https://www.ikea.com/ca/en/p/flisat-toy-storage-with-casters-10298420/
-- Raskog grey metal cabinet pins
-- SLAVNAS extension & shelves
-- extra shelves & brackets for shelf in bedrooma
-- [STOPP FILT under rug pad for waldos room](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
-- [trogen waldo stool](https://www.ikea.com/us/en/p/trogen-childs-step-stool-yellow-80371520/)
-- [TJENA large](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
-- [TJENA small box](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-10395421/)
-- [KVARNVIK medium](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-50466869/)
-- [KVARNVIK large](https://www.ikea.com/ca/en/p/kvarnvik-storage-box-with-lid-beige-00459480/)
-- [DYTÅG](https://www.ikea.com/ca/en/p/dytag-curtains-1-pair-white-00466715/)
-- Boxes for Idasen:
-  - [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-  - [TJENA boxes](https://www.ikea.com/ca/en/p/tjena-storage-box-with-lid-white-60395428/)
-  - [RISATORP wire basket x3](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
-  - 10x5x4 box for macbook xhargedz
-  - ikea boxes in white (headphones, computer stuff, keyboard is 19" long)
 
 ## Music gear
 

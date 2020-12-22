@@ -1,5 +1,7 @@
 # Jeremy's To-Do List
 
+- Look into dimmers & smart lights
+- make the house smell good
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - change oprientation of curtain rods in office
 - Electricity install outside
