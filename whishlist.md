@@ -1,23 +1,14 @@
 # Wishlist
 
-## Projects to be fleshed out
-
-- Baby closet storage
-- Living room closet storage
-- Paint rooms
-- Shoe storage for front door, front closet and rear door
-- Mat runner for back door, cut to fit
-- storage for inside couch
-- IDASEN storage
-
 ## Canadian tire
 
+- Scotchguard
+- [Charcoal](https://www.canadiantire.ca/en/pdp/royal-oak-charcoal-briquets-15-4-lb-0851635p.html#srp)
 - [Dual track brackets](https://www.canadiantire.ca/en/pdp/dual-track-bracket-7-in-0687073p.html?rrec=true#spc)
 - [Dual track rail](https://www.canadiantire.ca/en/pdp/dual-track-72-in-0687077p.html?rrec=true#spc)
 
 ## Home depot
 
-- [bbq charcoal](https://www.homedepot.ca/product/vision-grills-100-natural-20-lb-hardwood-lump-charcoal/1001163171)
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
 - [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
 - [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
@@ -72,7 +63,8 @@
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- $$ for idasen
+- coffee maker (maybe an exresso)
+- Helmet-compatible replacement for northface (keb touring?)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
@@ -81,6 +73,16 @@
   - [Paperole shirts](https://www.paperole.com/)
   - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
+
+## Projects to be fleshed out
+
+- Baby closet storage
+- Living room closet storage
+- Paint rooms
+- Shoe storage for front door, front closet and rear door
+- Mat runner for back door, cut to fit
+- storage for inside couch
+- IDASEN storage
 
 ## Sporting goods stuff
 

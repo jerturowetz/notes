@@ -1,15 +1,10 @@
 # Groceries
 
-- Merguez
 - Peaches
 - Bread
-- SLiced meats
-
---
-
+- Sliced meats
 - Salted and unsalted butter
 - apple cider
-- stubby olive oil
 - fresh OJ
 - Strawberries
 - cherry tomatoes
@@ -22,6 +17,26 @@
 - Tiny buns for breakfast sandwiches
 - creme fraiche
 - NA beer x12
+
+## Xmas eve
+
+- Roast
+- Yorkshire
+- Arugula salad
+
+## Xmas day
+
+- Turkey
+- Gravy
+- Kim is doing a potato (oven)
+- Dressing
+- 1/2 sheet Roast carrots & parsnips
+- Pan fried brussel sprouts
+- Fried mushrooms
+
+## Later
+
+- stubby olive oil
 - Frozen french fries
 - Oxo small item storage (like nuts and such)
 - Oxo cereal storage

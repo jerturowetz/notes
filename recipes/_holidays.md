@@ -64,3 +64,23 @@ Gravy
 mashed potatoes
 dressing
 roast carrots
+
+## 2020 Xmas
+
+Stuck in confinement again, we're hosting Kim & Cathy
+
+### Xmas eve
+
+- Roast
+- Yorkshire
+- Arugula salad
+
+### Xmas day
+
+- Turkey
+- Gravy
+- Kim is doing a potato (oven)
+- Dressing
+- 1/2 sheet Roast carrots & parsnips
+- Pan fried brussel sprouts
+- Fried mushrooms
