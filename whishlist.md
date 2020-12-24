@@ -1,20 +1,13 @@
 # Wishlist
 
-## Canadian tire
-
-- Scotchguard
-- [Charcoal](https://www.canadiantire.ca/en/pdp/royal-oak-charcoal-briquets-15-4-lb-0851635p.html#srp)
-- [Dual track brackets](https://www.canadiantire.ca/en/pdp/dual-track-bracket-7-in-0687073p.html?rrec=true#spc)
-- [Dual track rail](https://www.canadiantire.ca/en/pdp/dual-track-72-in-0687077p.html?rrec=true#spc)
-
 ## Home depot
 
+- [Charcoal](https://www.homedepot.ca/product/kingsford-kingsford-original-charcoal-briquettes-bbq-charcoal-for-grilling-7-26-kg/1001357500)
+- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
+- [hooks for clothing rack](https://www.homedepot.ca/product/everbilt-100-lb-capacity-small-strap-hook-zinc-plated-with-vinyl-coating/1001094114)
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
 - [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
-- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
-- [Ladder hook](https://www.homedepot.ca/product/everbilt-50-lb-capacity-ladder-and-wheelbarrow-hook-in-black/1001093822)
-- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
-- [hooks for clothing rack](https://www.homedepot.ca/product/everbilt-100-lb-capacity-small-strap-hook-zinc-plated-with-vinyl-coating/1001094114)
+- 23" drawer rail for kitchen drawer
 
 ## IKEA
 
@@ -47,6 +40,8 @@
 - Wood for trones
 - maison simons diffusers
 - Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
+- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
 - [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
 - [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
 - [ikea 365 food storage](https://www.ikea.com/ca/en/p/ikea-365-food-container-with-lid-rectangular-glass-bamboo-s49269068/)

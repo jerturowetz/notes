@@ -1,41 +1,66 @@
 # Groceries
 
-- Peaches
-- Bread
-- Sliced meats
-- Salted and unsalted butter
+- thyme
+- chives
+- parsley
+- sage
+- rosemary
+- savory?
+
+--
+
+- 65g pumpkin seeds
+- 45g sunflower seeds
+- flax meal (13g flax seeds)
+- demerara sugar
+- chia seeds
+- poppy seeds
+
+--
+
+- 3 lb. turkey and/or chicken wings
 - apple cider
-- fresh OJ
-- Strawberries
-- cherry tomatoes
+- Peaches
+- Garlic
+- Brussel sprouts
+- moroc clementines
+- celery
+- ginger
+- 3 medium shallot
+- Large carrots
+- arugula
 - 5 fresh ripe tomatoes
-- 5 cobs of corn
+- cherry tomatoes
+- large hard tomatoe
 - 3lbs sweet patates
-- thyme & parsley
+- 5 cobs of corn
+- Mozarella di buffalo
+- crimini, shiitake, or white button mushrooms (for gravy & fried)
+
+--
+
+- 1 large loafs sourdough
 - grilled cheese bread
-- bagels (if smoked salmon)
-- Tiny buns for breakfast sandwiches
-- creme fraiche
-- NA beer x12
-
-## Xmas eve
-
-- Roast
-- Yorkshire
-- Arugula salad
+- bagels
+- Breadcrumbs
+- vanilla yogurt
+- Butter (2 salted and 2 unsalted)
+- 1% milk
+- coffee
+- perrier
+- NA beer
+- chicken stock (900ml)
+- whole wheat flour
+- unsweetened applesauce
+- sunflower/grape seed oil
 
 ## Xmas day
 
-- Turkey
-- Gravy
-- Kim is doing a potato (oven)
 - Dressing
-- 1/2 sheet Roast carrots & parsnips
-- Pan fried brussel sprouts
-- Fried mushrooms
 
 ## Later
 
+- Sliced meats
 - stubby olive oil
 - Frozen french fries
 - Oxo small item storage (like nuts and such)
@@ -46,4 +71,4 @@
 
 - Shrimp
 - Noodles
-- dark soy sauce
+- Dark soy sauce
