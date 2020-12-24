@@ -21,11 +21,11 @@
 
 - gift for james parents
 - gift for Bart and Danielle
-- Pantry bins
-- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
 
 --
 
+- Pantry bins
+- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - 4x5" rug for office
