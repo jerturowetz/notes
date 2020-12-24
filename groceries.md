@@ -54,10 +54,6 @@
 - unsweetened applesauce
 - sunflower/grape seed oil
 
-## Xmas day
-
-- Dressing
-
 ## Later
 
 - Sliced meats
