@@ -1,5 +1,8 @@
 # Wishlist
 
+- Spice bottle labels
+- SPice bottles white marker
+
 ## Home depot
 
 - [Charcoal](https://www.homedepot.ca/product/kingsford-kingsford-original-charcoal-briquettes-bbq-charcoal-for-grilling-7-26-kg/1001357500)
@@ -11,6 +14,7 @@
 
 ## IKEA
 
+- plate shelf dividers (small x2, large x2)
 - [RISATORP basket x4](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
 - [SMARRA x2](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
 - [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)

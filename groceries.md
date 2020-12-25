@@ -1,5 +1,7 @@
 # Groceries
 
+- eggs
+- balsamic vinegar
 - Sliced meats
 - moroc clementines
 - stubby olive oil
