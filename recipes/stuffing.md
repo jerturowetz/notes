@@ -4,7 +4,7 @@ Made this for 2019 thanksgiving dinner with Wade & Duncan. It was a hit, however
 
 ## Ingredients
 
-- 1 & 1/2 sticks unsalted butter and a bit extra for the baing dish
+- 1 & 1/2 sticks unsalted butter and a bit extra for the baking dish
 - 2 loafs sourdough, torn and dried overnight
 - 2 1/2 cups chopped yellow onions (~1 super big)
 - 1 1/2 cups 1/4-inch slices celery (~ 4 stalks)
