@@ -1,7 +1,15 @@
 # Wishlist
 
+- Boots hats and gloves drying solution for small families
+
+- anothr baby magnetic key
+- new shelf in plates cupboard (and shelf pins plastic 10.5" x 22 3/4" )
+90 degree 2 prong adaptor
 - Spice bottle labels
 - SPice bottles white marker
+- toulet mat
+- bathtub mat
+- lamp for bathroom by washer
 
 ## Home depot
 
