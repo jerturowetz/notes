@@ -1,5 +1,67 @@
 # Jeremy's To-Do List
 
+force majeure
+Tangerine
+Certain Women
+Toni Erdmann
+The Fits
+Paterson
+Somewhere
+Dogtooth
+the master
+Certified Copy
+Under the Skin
+creed
+mustang
+the tribe
+creed
+the assasin
+mustang
+the tribe
+under the skin
+inherent vice
+Leviathan
+Borgman
+Foxtrot
+A Fantastic Woman
+The Ornithologist
+Wolfwalkers
+elle
+A Separation
+a ghost story
+white material
+Melancholia
+i am love
+Private Life
+Beasts of the Southern Wild
+Synonyms
+Kumiko, the Treasure Hunter
+Force Majeure
+Melancholia
+ingrid goes west
+a ghost story
+mother
+personal shopper
+the lure
+super dark times
+lucky
+good time
+the blackcoats daughter
+Columbus
+Marjorie Prime
+Lady Macbeth
+Wormwood
+the mule
+I Am Not a Witch
+Zama
+Love After Love
+Let the Sunshine In
+cold war
+The Souvenir
+Long Day’s Journey Into Night
+Monos
+
+
 - Look into dimmers & smart lights
 - make the house smell good
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
