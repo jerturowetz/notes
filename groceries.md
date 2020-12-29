@@ -1,5 +1,10 @@
 # Groceries
 
+- vanilla
+- laundry detergent
+- bleach
+- Baking poweder
+- Bananas
 - Sliced meats
 - Frozen french fries
 - Oxo small item storage (like nuts and such)

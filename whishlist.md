@@ -1,11 +1,43 @@
 # Wishlist
 
+- store board games in besta
+- bibs
+- bigger biuke pump
+- 4 cup mini food processor
+- ikea stuff asap (besta & skagnassss)
+- baby pyjamas
+- nuts container
+- whole wheat flower container
+ikea pegboard wire holder (like what holds keyboard)
+pegboard clear container x2
+mason jar storage
+child lock for closet in waldos room
+switch broom closet handle with baby room handle?
+
+- tyvek bag for more toys
+- baby closet storage
+- living room closet storage
+
+- label maker
+- large labels for starfrit containers
+- better tape measuer
+- pillow protectors
+- stand mixer research
+- dock!!
+- fancy bath stuff for kate (surf soak etc)
+bins for towels and whatever in  bathroom
+bins for clean sheets and whatever in office closet (or bathroom?)
+2 madesmart bins (bathroom)
+2 husky stackable storage
+2 large ikea plate stackers
+
+
+- latch for outdoor shed door
 - Boots hats and gloves drying solution for small families
 - anothr baby magnetic key
 - new shelf in plates cupboard (and shelf pins plastic 10.5" x 22 3/4" )
 - 90 degree 2 prong adaptor
 - Spice bottle labels
-- SPice bottles white marker
 - toulet mat
 - bathtub mat
 - lamp for bathroom by washer
@@ -21,7 +53,6 @@
 
 ## IKEA
 
-- plate shelf dividers (small x2, large x2)
 - [RISATORP basket x4](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
 - [SMARRA x2](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
 - [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
