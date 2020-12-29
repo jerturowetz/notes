@@ -1,15 +1,14 @@
 # Groceries
 
+- 1% milk
+- rainbow & chocolate sprinkles
 - vanilla
 - laundry detergent
 - bleach
-- Baking poweder
+- Baking powder
 - Bananas
 - Sliced meats
 - Frozen french fries
-- Oxo small item storage (like nuts and such)
-- Oxo cereal storage
-- Oxo rice storage (?)
 
 ## Asian grocery
 

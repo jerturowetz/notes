@@ -1,9 +1,6 @@
 # Jeremy's To-Do List
 
-force majeure
-Tangerine
 Certain Women
-Toni Erdmann
 The Fits
 Paterson
 Somewhere
@@ -61,7 +58,8 @@ The Souvenir
 Long Day’s Journey Into Night
 Monos
 
-
+- repair shed door latch
+- switch broom closet handle with baby room handle?
 - Look into dimmers & smart lights
 - make the house smell good
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)

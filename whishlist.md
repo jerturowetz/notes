@@ -1,47 +1,5 @@
 # Wishlist
 
-- store board games in besta
-- bibs
-- bigger biuke pump
-- 4 cup mini food processor
-- ikea stuff asap (besta & skagnassss)
-- baby pyjamas
-- nuts container
-- whole wheat flower container
-ikea pegboard wire holder (like what holds keyboard)
-pegboard clear container x2
-mason jar storage
-child lock for closet in waldos room
-switch broom closet handle with baby room handle?
-
-- tyvek bag for more toys
-- baby closet storage
-- living room closet storage
-
-- label maker
-- large labels for starfrit containers
-- better tape measuer
-- pillow protectors
-- stand mixer research
-- dock!!
-- fancy bath stuff for kate (surf soak etc)
-bins for towels and whatever in  bathroom
-bins for clean sheets and whatever in office closet (or bathroom?)
-2 madesmart bins (bathroom)
-2 husky stackable storage
-2 large ikea plate stackers
-
-
-- latch for outdoor shed door
-- Boots hats and gloves drying solution for small families
-- anothr baby magnetic key
-- new shelf in plates cupboard (and shelf pins plastic 10.5" x 22 3/4" )
-- 90 degree 2 prong adaptor
-- Spice bottle labels
-- toulet mat
-- bathtub mat
-- lamp for bathroom by washer
-
 ## Home depot
 
 - [Charcoal](https://www.homedepot.ca/product/kingsford-kingsford-original-charcoal-briquettes-bbq-charcoal-for-grilling-7-26-kg/1001357500)
@@ -49,15 +7,32 @@ bins for clean sheets and whatever in office closet (or bathroom?)
 - [hooks for clothing rack](https://www.homedepot.ca/product/everbilt-100-lb-capacity-small-strap-hook-zinc-plated-with-vinyl-coating/1001094114)
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
 - [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
-- 23" drawer rail for kitchen drawer
+- [23" drawer slide](https://www.homedepot.ca/product/richelieu-tri-roller-drawer-slide-kit-22-3-4-in-zinc-and-white/1000401216)
+- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
+- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
 
 ## IKEA
 
-- [RISATORP basket x4](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
-- [SMARRA x2](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- [REJSA box x3](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
 - Raskog grey metal cabinet pins
-- extra shelves & brackets for shelf in bedrooma
+- 2 large ikea plate stackers
+- Desk extension
+
+## Pantry
+
+- Oxo small item storage (like nuts and such)
+- Oxo cereal storage
+- Oxo rice storage (?)
+- Pantry bins
+- More bins or glass jars for pantry (oxo, ikea 365)
+- nuts container
+- whole wheat flower container
+- mason jar storage
+- large labels for starfrit containers
+- label maker & label punch
+- [ikea 365 food storage](https://www.ikea.com/ca/en/p/ikea-365-food-container-with-lid-rectangular-glass-bamboo-s49269068/)
+- [custom labels](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
 
 ## Various
 
@@ -66,42 +41,79 @@ bins for clean sheets and whatever in office closet (or bathroom?)
 
 --
 
-- Pantry bins
-- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Abus outdoor lock](https://www.amazon.ca/180IB-50-Resettable-Combination-Stainless/dp/B004C47NEQ)
+- Bibs:
+  - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
+  - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
+  - [Lictin](https://www.amazon.ca/Lictin-Pcs-Waterproof-Long-sleeved-Bibs/dp/B07Y9M5Y7L)
+
+--
+
+organize from here
+
+--
+
+- [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
+- [carson salad bowl](https://www.crateandbarrel.com/carson-individual-acacia-bowl/s515517)
+- [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
+- [serving bowl](https://www.crateandbarrel.com/wilder-serving-bowl/s317632)
+- [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
+- [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
+- [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
+
+
+- child lock for closet in waldos room
+- 4 cup mini food processor
+- baby pyjamas
+- tyvek bag for more toys
+- pillow protectors
+- latch for outdoor shed door
+- Boots hats and gloves drying solution for small families
+- new shelf in plates cupboard (and shelf pins plastic 10.5" x 22 3/4" )
+- 90 degree 2 prong adaptor
+- Spice bottle labels
+- toilet and bathtub mat
+- 1/2 sheet and full sheet cooling racks
+- Baby lock magnetic keys
+- 4" glass prep bowls
 - 4x5" rug for office
 - dual monitor dock
-- Label punch
 - Cable organizer under ikea desk
-- Winter padlock big numbers
-- office webcam
-- Roomba
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
-- corner cabinet organization (lazy susans and small bins)
-- Wood for trones
-- maison simons diffusers
-- Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
-- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
-- [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
+
+
+
+
+
+
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
+
+
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
 - [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
 - [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
-- [ikea 365 food storage](https://www.ikea.com/ca/en/p/ikea-365-food-container-with-lid-rectangular-glass-bamboo-s49269068/)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+
+--
+
+- Roomba
 - white chalk pen thingy
-- mop bucket or sorts
-- 4" glass prep bowls
+- mop bucket
+- small plunger for bathroom
 - Bathrom drawer divider
-- More bins or glass jars for pantry (oxo, ikea 365)
 - cutlery caddy
-- [backup record holder](http://www.karmadeefa.com/store/vinyl-record-storage-rack)
+- maison simons diffusers
+- Bike pump
+- front bike rack & panniers
+- Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- coffee maker (maybe an exresso)
-- Helmet-compatible replacement for northface (keb touring?)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - T-shirts:
@@ -113,23 +125,18 @@ bins for clean sheets and whatever in office closet (or bathroom?)
 
 ## Projects to be fleshed out
 
+- bathroom cupboard storage (madesmart bins, bins for sheets & towels)
 - Baby closet storage
 - Living room closet storage
-- Paint rooms
-- Shoe storage for front door, front closet and rear door
-- Mat runner for back door, cut to fit
-- storage for inside couch
 - IDASEN storage
-
-## Sporting goods stuff
-
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- HxC winter boots (Oboz are always sold out)
-- warmer ski gloves
-- Ski shell pants
-- [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
-- [Front bike rack](https://www.primeauvelo.com/en/journey-dlx-lowrider-front-rack-22171-0011625.html)
-- [Bike pannier](https://www.twowheelgear.com/collections/panniers/products/pannier-backpack-convertible-lite-and-plus?variant=31656254963772)
+- Besta board game storage
+- corner cabinet organization (lazy susans and small bins)
+- Wood for trones
+- Shoe storage for front door, front closet and rear door
+- Paint rooms
+- Mat runner for back door, cut to fit
+- lamp(2) & hook(s) for bathroom by washer
+- Backyard toy storage
 
 ## Music gear
 
