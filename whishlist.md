@@ -12,6 +12,7 @@
 
 ## Pantry (to orgnaize)
 
+- storage for rags in pantry
 - Oxo small item storage (like nuts and such)
 - Oxo cereal storage
 - Oxo rice storage (?)
