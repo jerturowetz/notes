@@ -33,6 +33,7 @@
 
 --
 
+- anti skid pads
 - [Childproof door handle lock](https://www.amazon.ca/Safety-1st-French-Style-Handle/dp/B0009EXOGE#customerReviews)
 - [Abus outdoor lock](https://www.amazon.ca/180IB-50-Resettable-Combination-Stainless/dp/B004C47NEQ)
 - Bibs:

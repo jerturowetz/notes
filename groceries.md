@@ -1,13 +1,10 @@
 # Groceries
 
-- 1% milk
-- rainbow & chocolate sprinkles
+- milks
+- grilled cheese bread
+- bananas
+- sliced meats
 - vanilla
-- laundry detergent
-- bleach
-- Baking powder
-- Bananas
-- Sliced meats
 - Frozen french fries
 
 ## Asian grocery
@@ -16,5 +13,6 @@
 
 ## Pharmacy
 
-- muscle and body tylonol
+- muscle and body tylonolq
 - kids tylonol
+- multi colored tums
