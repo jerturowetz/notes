@@ -8,19 +8,11 @@
 - [hook for bike tires](https://www.homedepot.ca/product/fuller-4-inch-multi-purpose-hook-with-25-lb-capacity/1001159390)
 - [Shovel clip](https://www.homedepot.ca/product/fuller-7-8-inch-spring-loaded-storage-grips-2-pack-/1001159394)
 - [23" drawer slide](https://www.homedepot.ca/product/richelieu-tri-roller-drawer-slide-kit-22-3-4-in-zinc-and-white/1000401216)
-- [Sure lock toilet brush](https://www.homedepot.ca/product/umbra-umbra-flex-sure-lock-toilet-brush-white/1001547298)
 - [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
 
-## IKEA
+## Pantry (to orgnaize)
 
-- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-- Raskog grey metal cabinet pins
-- 2 large ikea plate stackers
-- Desk extension
-
-## Pantry
-
+- storage for rags in pantry
 - Oxo small item storage (like nuts and such)
 - Oxo cereal storage
 - Oxo rice storage (?)
@@ -41,67 +33,43 @@
 
 --
 
+- [Childproof door handle lock](https://www.amazon.ca/Safety-1st-French-Style-Handle/dp/B0009EXOGE#customerReviews)
 - [Abus outdoor lock](https://www.amazon.ca/180IB-50-Resettable-Combination-Stainless/dp/B004C47NEQ)
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
   - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
   - [Lictin](https://www.amazon.ca/Lictin-Pcs-Waterproof-Long-sleeved-Bibs/dp/B07Y9M5Y7L)
-
---
-
-organize from here
-
---
-
-- [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
-- [carson salad bowl](https://www.crateandbarrel.com/carson-individual-acacia-bowl/s515517)
-- [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
-- [serving bowl](https://www.crateandbarrel.com/wilder-serving-bowl/s317632)
-- [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
-- [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-- [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-
-
-- child lock for closet in waldos room
-- 4 cup mini food processor
+- Crate & Barrel:
+  - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
+  - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
+  - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
+  - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
 - baby pyjamas
-- tyvek bag for more toys
-- pillow protectors
-- latch for outdoor shed door
-- Boots hats and gloves drying solution for small families
 - new shelf in plates cupboard (and shelf pins plastic 10.5" x 22 3/4" )
-- 90 degree 2 prong adaptor
 - Spice bottle labels
-- toilet and bathtub mat
-- 1/2 sheet and full sheet cooling racks
+- toilet brush
 - Baby lock magnetic keys
 - 4" glass prep bowls
 - 4x5" rug for office
 - dual monitor dock
 - Cable organizer under ikea desk
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
-
-
-
-
-
-
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
-
-
+- pillow protectors
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
 - [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
 - [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
+- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
 
 --
 
+- 1/2 sheet and full sheet cooling racks
+- 4 cup mini food processor
 - Roomba
 - white chalk pen thingy
-- mop bucket
 - small plunger for bathroom
 - Bathrom drawer divider
 - cutlery caddy
@@ -123,6 +91,13 @@ organize from here
   - Joe Robinet merch
   - Gulfer shirt (just drive by the Jeean talon market)
 
+## IKEA
+
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- Raskog grey metal cabinet pins
+- 2 large ikea plate stackers
+
 ## Projects to be fleshed out
 
 - bathroom cupboard storage (madesmart bins, bins for sheets & towels)
@@ -137,6 +112,8 @@ organize from here
 - Mat runner for back door, cut to fit
 - lamp(2) & hook(s) for bathroom by washer
 - Backyard toy storage
+- Boots hats and gloves drying solution for small families
+- toilet and bathtub mat
 
 ## Music gear
 
