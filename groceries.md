@@ -1,7 +1,5 @@
 # Groceries
 
-- milks
-- grilled cheese bread
 - bananas
 - sliced meats
 - vanilla
@@ -13,6 +11,6 @@
 
 ## Pharmacy
 
-- muscle and body tylonolq
+- muscle and body tylonol
 - kids tylonol
 - multi colored tums
