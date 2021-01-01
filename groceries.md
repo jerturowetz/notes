@@ -12,6 +12,8 @@
 
 ## Pharmacy
 
+- advil
+- allergy meds
 - muscle and body tylonol
 - kids tylonol
 - multi colored tums
