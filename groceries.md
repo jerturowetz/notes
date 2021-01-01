@@ -1,5 +1,7 @@
 # Groceries
 
+- Pears
+- Strawberries
 - bananas
 - sliced meats
 - vanilla
