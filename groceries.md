@@ -1,5 +1,6 @@
 # Groceries
 
+- peaches
 - bananas
 - sliced meats
 - vanilla
