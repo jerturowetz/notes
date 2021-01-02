@@ -41,6 +41,9 @@
 - storage for rags in pantry
 - [custom labels for starfrit containers](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
 
+
+
+
 ## Various
 
 - gift for james parents
@@ -78,11 +81,8 @@
 
 --
 
-- 1/2 sheet and full sheet cooling racks
 - 4 cup mini food processor
 - Roomba
-- white chalk pen thingy
-- small plunger for bathroom
 - Bathrom drawer divider
 - cutlery caddy
 - maison simons diffusers
