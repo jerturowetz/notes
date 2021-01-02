@@ -17,6 +17,18 @@
 - [23" drawer slide](https://www.homedepot.ca/product/richelieu-tri-roller-drawer-slide-kit-22-3-4-in-zinc-and-white/1000401216)
 - [milwaukee bits storage](https://www.homedepot.ca/product/milwaukee-tool-packout-10-compartment-low-profile-small-parts-organizer/1001242094)
 
+## IKEA
+
+- [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
+- [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
+- bathroom basket
+- Raskog grey metal cabinet pins
+- 2 large ikea plate stackers
+- white basket for kitchen
+
 ## Pantry
 
 - [whole wheat flower container](https://www.amazon.ca/Starfrit-094385-002-0000-ProKeeper-Plastic-Container/dp/B07DMQY6KT)
@@ -26,6 +38,8 @@
   - [8x10x5" bin](https://www.amazon.ca/InterDesign-Kitchen-Organizer-Refrigerator-Cabinet-10/dp/B00CS8DT00/142-7259261-6180728?psc=1)
   - [8x14x6" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B00A17UK0C?psc=1)
   - [5x11x5" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Organizer-Condiment/dp/B009L3LVNW/142-7259261-6180728?psc=1)
+- storage for rags in pantry
+- [custom labels for starfrit containers](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
 
 ## Various
 
@@ -34,13 +48,7 @@
 
 --
 
-from herer
-
---
-
 - [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
-- [custom labels for starfrit containers](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
-- [Abus outdoor lock](https://www.amazon.ca/180IB-50-Resettable-Combination-Stainless/dp/B004C47NEQ)
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
   - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
@@ -50,12 +58,10 @@ from herer
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-- baby pyjamas
-- storage for rags in pantry
 - [anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - Spice bottle labels
-- toilet brush
+- baby pyjamas
 - Baby lock magnetic keys
 - 4" glass prep bowls
 - 4x5" rug for office
@@ -66,8 +72,6 @@ from herer
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
-- [Fridge produce keepers](https://www.amazon.ca/OXO-11139900G-Good-Grips-GreenSaver/dp/B00TO8X0EC)
-- [Fridge crisper inserts](https://www.amazon.ca/OXO-Good-Grips-GreenSaver-Crisper/dp/B00TO8X0LU)
 - [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 - [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
 - [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
@@ -99,18 +103,6 @@ from herer
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
-
-## IKEA
-
-- [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
-- [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
-- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-- [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
-- bathroom basket
-- Raskog grey metal cabinet pins
-- 2 large ikea plate stackers
-- white basket for kitchen
 
 ## Projects to be fleshed out
 
