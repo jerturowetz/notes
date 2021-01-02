@@ -7,6 +7,7 @@
 
 ## Home depot
 
+- [Non slip scvrew on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)
 - [melamine shelf for plates (10.5" x 22 3/4")](https://www.homedepot.ca/product/alexandria-moulding-1-1-16-inch-x-10-1-2-inch-x-36-inch-unfinished-oak-stair-tread-2-4-mm-veneer-/1000147545)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-3-16-in-5-mm-polycarbonate-shelf-pin-white/1000401285)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-1-4-in-6-35-mm-plastic-shelf-pin-white/1000401281)
@@ -47,10 +48,7 @@
 
 --
 
-- [Cheese paper](https://www.amazon.ca/Formaticum-Cheese-Adhesive-Package-14-Inch/dp/B002I47P40)
 - [90 degreee plug adaptors](https://www.amazon.ca/FIRMERST-1875W-Flat-Extension-Black/dp/B078X85TJN)
-- storage for rags in pantry (maison simons?)
-- [Anti skid for baby stool]
 - [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
 - [clip on label holders](https://www.amazon.ca/Talented-Kitchen-Organization-Solution-Removable/dp/B082Q3P4NR/142-7259261-6180728)
 - [chalk markers](https://www.amazon.ca/White-Chalk-Markers-Chalkboard-Blackboard/dp/B00VKI4BDI)
@@ -67,6 +65,7 @@
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 - baby pyjamas
+- storage for rags in pantry (maison simons?)
 - Baby lock magnetic keys
 - 4" glass prep bowls
 - 4x5" rug for office
@@ -92,6 +91,8 @@
 - front bike rack & panniers
 - saw horse
 - Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
+- [Vertical coat rack (gloves & hats)](https://www.cb2.ca/barker-matte-black-vertical-wall-mounted-coat-rack/s348793)
+- [lantern hook](https://www.crateandbarrel.com/archer-wall-mounted-lantern-hook/s445852)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)

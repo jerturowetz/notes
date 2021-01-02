@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Grab logitech universal adapter from work
 - measure out kitchen stuff in quarts/L:
   - pancake mix 905g
   - granola 900g
