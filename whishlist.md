@@ -3,11 +3,11 @@
 ## Canadian tire
 
 - Dual track brackets: 9"x2, 11"x2
-- [melamine shelf for plates (10.5" x 22 3/4")](https://www.canadiantire.ca/en/pdp/melamine-shelf-10-x-24-in-0680624p.html#srp)
 - [Wilton muffin tin](https://www.canadiantire.ca/en/pdp/wilton-gourmet-choice-muffin-pan-12-cup-0420517p.html)
 
 ## Home depot
 
+- [melamine shelf for plates (10.5" x 22 3/4")](https://www.homedepot.ca/product/alexandria-moulding-1-1-16-inch-x-10-1-2-inch-x-36-inch-unfinished-oak-stair-tread-2-4-mm-veneer-/1000147545)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-3-16-in-5-mm-polycarbonate-shelf-pin-white/1000401285)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-1-4-in-6-35-mm-plastic-shelf-pin-white/1000401281)
 - [Charcoal](https://www.homedepot.ca/product/kingsford-kingsford-original-charcoal-briquettes-bbq-charcoal-for-grilling-7-26-kg/1001357500)
