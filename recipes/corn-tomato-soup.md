@@ -1,8 +1,10 @@
 # Recipie: Corn & tomato soup
 
+## Serves: Family of 4
+
 ## Ingredients
 
-- 5 fresh ripe tomatoes, halved
+- 6 fresh ripe tomatoes, halved
 - 1 large onion, quartered
 - 5 cloves garlic, peeled
 - 3 tsp olive oil
