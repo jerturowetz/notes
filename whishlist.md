@@ -51,6 +51,7 @@
 
 --
 
+- [Anti skid for baby stool]
 - [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)

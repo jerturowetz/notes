@@ -2,6 +2,7 @@
 
 - Pears
 - Strawberries
+- peaches
 - bananas
 - sliced meats
 - vanilla
@@ -13,6 +14,8 @@
 
 ## Pharmacy
 
+- advil
+- allergy meds
 - muscle and body tylonol
 - kids tylonol
 - multi colored tums
