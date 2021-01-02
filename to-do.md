@@ -1,5 +1,13 @@
 # Jeremy's To-Do List
 
+- measure out kitchen stuff in quarts/L:
+  - pancake mix 905g
+  - granola 900g
+  - breakfast cereal 800g
+  - all bran 500g
+  - sticky rick 2.25 kg
+  - hor choc 1.7kg
+  - basmati 1.81kg
 - repair shed door latch
 - Look into dimmers & smart lights
 - make the house smell good

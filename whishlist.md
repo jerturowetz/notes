@@ -4,6 +4,7 @@
 
 - Dual track brackets: 9"x2, 11"x2
 - [melamine shelf for plates (10.5" x 22 3/4")](https://www.canadiantire.ca/en/pdp/melamine-shelf-10-x-24-in-0680624p.html#srp)
+- [Wilton muffin tin](https://www.canadiantire.ca/en/pdp/wilton-gourmet-choice-muffin-pan-12-cup-0420517p.html)
 
 ## Home depot
 
@@ -24,13 +25,12 @@
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
 - [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
 - [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
-- bathroom basket
 - Raskog grey metal cabinet pins
-- 2 large ikea plate stackers
 - white basket for kitchen
 
 ## Pantry
 
+- [14" cheese drawer bin](https://www.amazon.ca/Madesmart-Junk-Drawer-Organizer-Granite/dp/B0109TGL4U)
 - [whole wheat flower container](https://www.amazon.ca/Starfrit-094385-002-0000-ProKeeper-Plastic-Container/dp/B07DMQY6KT)
 - [label punch](https://www.amazon.ca/DYMO-12966-Mechanical-Embosser-Tape/dp/B0000AQOD3/142-7259261-6180728?psc=1)
 - [label tape](https://www.amazon.ca/Embossing-Compatible-Plastic-Organizer-DYM12966/dp/B07PWBMZKS/142-7259261-6180728?psc=1)
@@ -38,11 +38,7 @@
   - [8x10x5" bin](https://www.amazon.ca/InterDesign-Kitchen-Organizer-Refrigerator-Cabinet-10/dp/B00CS8DT00/142-7259261-6180728?psc=1)
   - [8x14x6" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B00A17UK0C?psc=1)
   - [5x11x5" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Organizer-Condiment/dp/B009L3LVNW/142-7259261-6180728?psc=1)
-- storage for rags in pantry
 - [custom labels for starfrit containers](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
-
-
-
 
 ## Various
 
@@ -51,8 +47,13 @@
 
 --
 
+- [Cheese paper](https://www.amazon.ca/Formaticum-Cheese-Adhesive-Package-14-Inch/dp/B002I47P40)
+- [90 degreee plug adaptors](https://www.amazon.ca/FIRMERST-1875W-Flat-Extension-Black/dp/B078X85TJN)
+- storage for rags in pantry (maison simons?)
 - [Anti skid for baby stool]
 - [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
+- [clip on label holders](https://www.amazon.ca/Talented-Kitchen-Organization-Solution-Removable/dp/B082Q3P4NR/142-7259261-6180728)
+- [chalk markers](https://www.amazon.ca/White-Chalk-Markers-Chalkboard-Blackboard/dp/B00VKI4BDI)
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
   - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
@@ -64,7 +65,7 @@
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
 - [anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
-- Spice bottle labels
+- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 - baby pyjamas
 - Baby lock magnetic keys
 - 4" glass prep bowls
@@ -89,6 +90,7 @@
 - maison simons diffusers
 - Bike pump
 - front bike rack & panniers
+- saw horse
 - Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
 - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
 - [Cool art](https://www.concealed-art.com/nes-art)
