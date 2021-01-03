@@ -1,5 +1,8 @@
 # Wishlist
 
+molle belt
+wire lock pins
+
 ## Home depot
 
 - [Non slip screw on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)
