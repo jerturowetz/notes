@@ -1,5 +1,9 @@
 # Wishlist
 
+hole punch
+fire extinguisher
+binderd for family files
+
 ## Canadian tire
 
 - Dual track brackets: 9"x2, 11"x2
