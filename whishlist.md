@@ -4,11 +4,6 @@ hole punch
 fire extinguisher
 binderd for family files
 
-## Canadian tire
-
-- Dual track brackets: 9"x2, 11"x2
-- [Wilton muffin tin](https://www.canadiantire.ca/en/pdp/wilton-gourmet-choice-muffin-pan-12-cup-0420517p.html)
-
 ## Home depot
 
 - [Non slip scvrew on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)

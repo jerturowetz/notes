@@ -1,19 +1,18 @@
 # Groceries
 
 - Pears
-- Strawberries
+- Strawberries, blueberries, cherries (?)
 - peaches
 - bananas
 - SPinach for freezing
 - sliced meats
 - Bread
-- English muffins
-- Bacon
+- English muffins or whatever
 - Meats?
+- Bacon
 - coconut water x3
 - vanilla
-- 3.25% milk
-- plain greek yogurt
+- both greek yogurt
 - Frozen french fries
 - frozen blueberries, strawberries, fruit blend
 
