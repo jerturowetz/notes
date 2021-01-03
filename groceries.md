@@ -1,20 +1,22 @@
 # Groceries
 
-- Pears
-- Strawberries, blueberries, cherries (?)
-- peaches
-- bananas
-- SPinach for freezing
-- sliced meats
-- Bread
-- English muffins or whatever
-- Meats?
-- Bacon
-- coconut water x3
-- vanilla
-- both greek yogurt
-- Frozen french fries
-- frozen blueberries, strawberries, fruit blend
+## Meal plan
+
+- ahrimp & roast carrots/broccoli
+- chk breasts & broccoli
+- butgers
+- talapoa & roast carrits
+- tortellini
+- chk drunstucks
+- poke
+
+
+
+## Provigo
+
+- canned corn
+- sesame seeds
+- frozen edame
 
 ## Asian grocery
 
