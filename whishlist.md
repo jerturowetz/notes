@@ -1,12 +1,8 @@
 # Wishlist
 
-hole punch
-fire extinguisher
-binderd for family files
-
 ## Home depot
 
-- [Non slip scvrew on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)
+- [Non slip screw on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)
 - [melamine shelf for plates (10.5" x 22 3/4")](https://www.homedepot.ca/product/alexandria-moulding-1-1-16-inch-x-10-1-2-inch-x-36-inch-unfinished-oak-stair-tread-2-4-mm-veneer-/1000147545)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-3-16-in-5-mm-polycarbonate-shelf-pin-white/1000401285)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-1-4-in-6-35-mm-plastic-shelf-pin-white/1000401281)
@@ -64,6 +60,9 @@ binderd for family files
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 - baby pyjamas
+- hole punch
+- fire extinguisher
+- binderd for family files
 - storage for rags in pantry (maison simons?)
 - Baby lock magnetic keys
 - 4" glass prep bowls
