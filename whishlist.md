@@ -1,10 +1,8 @@
 # Wishlist
 
-molle belt
-wire lock pins
-
 ## Home depot
 
+- [Threadlocker](https://www.homedepot.ca/product/permatex-blue-removable-strength-threadlocker/1000418665)
 - [Non slip screw on bumpers](https://www.homedepot.ca/product/everbilt-7-8-inch-rubber-screw-on-bumpers-4-per-pack-/1000100248)
 - [melamine shelf for plates (10.5" x 22 3/4")](https://www.homedepot.ca/product/alexandria-moulding-1-1-16-inch-x-10-1-2-inch-x-36-inch-unfinished-oak-stair-tread-2-4-mm-veneer-/1000147545)
 - [shelf pins](https://www.homedepot.ca/product/richelieu--pack-of-8-3-16-in-5-mm-polycarbonate-shelf-pin-white/1000401285)
@@ -46,6 +44,8 @@ wire lock pins
 
 --
 
+- [Multimeter](https://www.amazon.com/Klein-Tools-69149-Electrical-Non-Contact/dp/B00J9Q5FCE?c=ts&ts_id=14244471)
+- [Over sholder belt for sled pulling](https://www.amazon.ca/Fairwin-Tactical-Military-Heavy-Duty-Quick-Release/dp/B07RN3W8NX)
 - [90 degreee plug adaptors](https://www.amazon.ca/FIRMERST-1875W-Flat-Extension-Black/dp/B078X85TJN)
 - [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
 - [clip on label holders](https://www.amazon.ca/Talented-Kitchen-Organization-Solution-Removable/dp/B082Q3P4NR/142-7259261-6180728)
@@ -101,6 +101,7 @@ wire lock pins
 - [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
+- [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)

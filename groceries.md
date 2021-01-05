@@ -1,19 +1,8 @@
 # Groceries
 
-## Meal plan
-
-- ahrimp & roast carrots/broccoli
-- chk breasts & broccoli
-- butgers
-- talapoa & roast carrits
-- tortellini
-- chk drunstucks
-- poke
-
-
-
 ## Provigo
 
+- 1% milk
 - canned corn
 - sesame seeds
 - frozen edame
