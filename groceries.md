@@ -2,19 +2,11 @@
 
 ## Provigo
 
-- 1% milk
-- canned corn
-- sesame seeds
+- coffee
+- potato
 - frozen edame
-
-## Asian grocery
-
-- Dark soy sauce
+- soy sauce
 
 ## Pharmacy
 
-- advil
 - allergy meds
-- muscle and body tylonol
-- kids tylonol
-- multi colored tums
