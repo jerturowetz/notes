@@ -1,5 +1,9 @@
 # Wishlist
 
+tent footprint
+tent fast and light body
+
+
 ## IKEA
 
 - [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
