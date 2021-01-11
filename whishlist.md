@@ -10,17 +10,11 @@
 - Raskog grey metal cabinet pins
 - white basket for kitchen
 
-## Pantry
+## Simons
 
-- [14" cheese drawer bin](https://www.amazon.ca/Madesmart-Junk-Drawer-Organizer-Granite/dp/B0109TGL4U)
-- [whole wheat flower container](https://www.amazon.ca/Starfrit-094385-002-0000-ProKeeper-Plastic-Container/dp/B07DMQY6KT)
-- [label punch](https://www.amazon.ca/DYMO-12966-Mechanical-Embosser-Tape/dp/B0000AQOD3/142-7259261-6180728?psc=1)
-- [label tape](https://www.amazon.ca/Embossing-Compatible-Plastic-Organizer-DYM12966/dp/B07PWBMZKS/142-7259261-6180728?psc=1)
-- choose bins:
-  - [8x10x5" bin](https://www.amazon.ca/InterDesign-Kitchen-Organizer-Refrigerator-Cabinet-10/dp/B00CS8DT00/142-7259261-6180728?psc=1)
-  - [8x14x6" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Storage-Organizer/dp/B00A17UK0C?psc=1)
-  - [5x11x5" bin](https://www.amazon.ca/InterDesign-Refrigerator-Freezer-Organizer-Condiment/dp/B009L3LVNW/142-7259261-6180728?psc=1)
-- [custom labels for starfrit containers](https://www.etsy.com/ca/listing/842966160/custom-vinyl-spice-jar-labels-20-font)
+- maison simons diffusers
+- storage for rags in pantry (maison simons?)
+- Pillows (Simons bianca made in montreal, comes with pillow protector)
 
 ## Various
 
@@ -29,89 +23,48 @@
 
 --
 
-- [Multimeter](https://www.amazon.com/Klein-Tools-69149-Electrical-Non-Contact/dp/B00J9Q5FCE?c=ts&ts_id=14244471)
+- baby pyjamas
 - [Over sholder belt for sled pulling](https://www.amazon.ca/Fairwin-Tactical-Military-Heavy-Duty-Quick-Release/dp/B07RN3W8NX)
-- [90 degreee plug adaptors](https://www.amazon.ca/FIRMERST-1875W-Flat-Extension-Black/dp/B078X85TJN)
-- [anti skid pads for SÖDERHAMN](https://www.amazon.ca/Scotch-SP940-NA-Gripping-1-5-Inch-Diameter/dp/B00V7UD8ZQ)
-- [clip on label holders](https://www.amazon.ca/Talented-Kitchen-Organization-Solution-Removable/dp/B082Q3P4NR/142-7259261-6180728)
-- [chalk markers](https://www.amazon.ca/White-Chalk-Markers-Chalkboard-Blackboard/dp/B00VKI4BDI)
+- [anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
+
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
   - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
   - [Lictin](https://www.amazon.ca/Lictin-Pcs-Waterproof-Long-sleeved-Bibs/dp/B07Y9M5Y7L)
+
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+
+- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
+
+--
+
+- Wood for trones
+- waterhog green tree mat
+- fire extinguisher
+- Roomba
+- Bike pump
+- front bike rack & panniers
+- $200 Angelo, Andrew, Joe gifts
+- $100 Fer sher
+- [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
+- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
+- [Cool art](https://www.concealed-art.com/nes-art)
+- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
+- [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
 - Crate & Barrel:
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-- [anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
-- [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
-- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
-- baby pyjamas
-- hole punch
-- fire extinguisher
-- binderd for family files
-- storage for rags in pantry (maison simons?)
-- Baby lock magnetic keys
-- 4" glass prep bowls
-- 4x5" rug for office
-- dual monitor dock
-- Cable organizer under ikea desk
-- Pillows (Simons bianca made in montreal, comes with pillow protector)
-- pillow protectors
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Giro isode helmet light](https://www.amazon.ca/GIRO-Sport-Vent-Light-Black/dp/B0859KZSB6)
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
-- [Baby buff](https://www.altitude-sports.com/products/buff-baby-buff-llll-30158)
-- [flat plug for office](https://www.amazon.ca/GE-Designer-Extension-Tangle-Free-42385/dp/B07JQ4F8W9)
-
---
-
-- 4 cup mini food processor
-- Roomba
-- Bathrom drawer divider
-- cutlery caddy
-- maison simons diffusers
-- Bike pump
-- front bike rack & panniers
-- saw horse
-- Christmas tree mat (waterhog/weathertec?) and ring (rattan/wicker?)
-- [Vertical coat rack (gloves & hats)](https://www.cb2.ca/barker-matte-black-vertical-wall-mounted-coat-rack/s348793)
-- [lantern hook](https://www.crateandbarrel.com/archer-wall-mounted-lantern-hook/s445852)
-- [CBC clothes](https://retrokid.ca/collections/cbc-retro)
-- [Cool art](https://www.concealed-art.com/nes-art)
-- [Side-Facing Plug for Apple Adapters](https://tenonedesign.com/blockhead.php)
-- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
-- [WindRiver Odyssey Waterproof Duck Boots (10)](https://www.marks.com/en/windriver-mens-odyssey-waterproof-duck-boots-103219.html)
-- $200 Angelo, Andrew, Joe gifts
-- $100 Fer sher
-- [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
+  - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
-
-## Projects to be fleshed out
-
-- bathroom cupboard storage (madesmart bins, bins for sheets & towels)
-- Baby closet storage
-- Living room closet storage
-- IDASEN storage
-- Besta board game storage
-- corner cabinet organization (lazy susans and small bins)
-- Wood for trones
-- Shoe storage for front door, front closet and rear door
-- Paint rooms
-- Mat runner for back door, cut to fit
-- lamp(2) & hook(s) for bathroom by washer
-- Backyard toy storage
-- Boots hats and gloves drying solution for small families
-- toilet and bathtub mat
-- fron of house bin for recycling
 
 ## Music gear
 

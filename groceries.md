@@ -3,6 +3,10 @@
 pizza dough
 smoked salmon
 
+- coffee
+- potato
+- frozen edame
+- soy sauce
 
 ## Pharmacy
 
