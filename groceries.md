@@ -1,12 +1,11 @@
 # Groceries
 
-pizza dough
-smoked salmon
-
 - coffee
 - potato
 - frozen edame
-- soy sauce
+- 1% milk
+- mayo
+- strawberries
 
 ## Pharmacy
 
