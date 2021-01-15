@@ -1,5 +1,10 @@
 # Canoe trip gear list
 
+
+tent footprint
+tent fast and light body
+
+
 - Thermarest neo air
 - Thermarest neo air xtherm
 - firesteel

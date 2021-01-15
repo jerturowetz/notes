@@ -1,19 +1,18 @@
 # Groceries
 
-- coffee
 - potato
-- frozen edame
-- salted butter
-- mayo
 - strawberries
-
-granola
-cascade pods
-dawn
-vanilla yogurt
-
+- cascade pods
+- dawn
+- granola
+- Mayo
+- Regular mustard
+- Peanut butter
+- coffee
+- Salted butter
+- vanilla yogurt
 
 ## Pharmacy
 
 - allergy meds
-- multi colored tums
+- toothpaste
