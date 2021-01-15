@@ -6,6 +6,8 @@ tent fast and light body
 
 ## IKEA
 
+sockerbit bins for camping stuff
+
 - [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
 - [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
