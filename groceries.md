@@ -3,9 +3,15 @@
 - coffee
 - potato
 - frozen edame
-- 1% milk
+- salted butter
 - mayo
 - strawberries
+
+granola
+cascade pods
+dawn
+vanilla yogurt
+
 
 ## Pharmacy
 
