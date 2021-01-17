@@ -1,5 +1,10 @@
 # Groceries
 
+- meat for dinner
+- bread
+
+--
+
 - potato
 - strawberries, blueberries
 - pears, green apples
@@ -16,7 +21,6 @@
 - coffee
 - Salted butter
 - vanilla yogurt x2
-- bread
 
 ## Pharmacy
 
