@@ -16,7 +16,6 @@
 - coffee
 - Salted butter
 - vanilla yogurt x2
-
 - bread
 
 ## Pharmacy
