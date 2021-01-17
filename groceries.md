@@ -1,8 +1,13 @@
 # Groceries
 
+- meat for dinner
+- bread
+
+--
+
 - potato
 - strawberries, blueberries
-- peaches and pears
+- pears, green apples
 - lemon
 - red pepper
 - brussel
@@ -16,9 +21,7 @@
 - coffee
 - Salted butter
 - vanilla yogurt x2
-- bread
 
 ## Pharmacy
 
 - allergy meds
-- toothpaste
