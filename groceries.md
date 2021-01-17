@@ -1,27 +1,15 @@
 # Groceries
 
-- meat for dinner
-- bread
-
---
-
 - potato
-- strawberries, blueberries
-- pears, green apples
-- lemon
-- red pepper
-- brussel
-- coconut water
 - cascade pods
 - dawn
-- granola
 - honey
-- Mayo
-- Peanut butter
 - coffee
 - Salted butter
-- vanilla yogurt x2
+- garlic
+- ice cream
 
 ## Pharmacy
 
 - allergy meds
+- Outdoor salt
