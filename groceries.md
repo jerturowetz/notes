@@ -2,7 +2,7 @@
 
 - potato
 - strawberries, blueberries
-- peaches and pears
+- pears, green apples
 - lemon
 - red pepper
 - brussel
@@ -21,4 +21,3 @@
 ## Pharmacy
 
 - allergy meds
-- toothpaste
