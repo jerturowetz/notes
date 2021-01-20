@@ -1,5 +1,9 @@
 # Wishlist
 
+sonos one sl (like a few of them?)
+probably better than the audioenginbe a2+
+
+
 
 rog zephrus g14 2060max-q
 
