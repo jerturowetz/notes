@@ -1,11 +1,12 @@
 # Wishlist
 
 
+rog zephrus g14 2060max-q
+
 [Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
 [White dual monito mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
 
-
-waldos closet rails 
+waldos closet rails
 60x27"
 saw
 saw horse
