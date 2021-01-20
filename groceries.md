@@ -1,14 +1,15 @@
 # Groceries
 
-- 1% milk
+- 3% milk
 - potato
+- Salmon
+- Coffee
+
 - cascade pods
 - dawn
 - honey
-- coffee
 - Salted butter
 - garlic
-- ice cream
 - N/A beer
 - coke zero
 
