@@ -1,5 +1,9 @@
 # Wishlist
 
+sonos one sl (like a few of them?)
+probably better than the audioenginbe a2+
+
+
 
 [Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
 [White dual monito mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
