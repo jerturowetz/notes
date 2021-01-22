@@ -16,6 +16,13 @@ saw
 saw horse
 
 
+[hook maybe for floor pillow](https://www.zonemaison.com/fr/products/salle_de_bain/collections_murales/slip/23072-NOIR-MAT/crochet-noir-mat)
+
+
+BRANDUR from ikea (paint it white)
+[hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
+[hooks idea for pickler triangle](https://themodernshop.com/products/contemporary-coat-hook-by-urbancase)
+[moar hook](https://www.eq3.com/ca/en/product/cjv5ezl8s057b0190bvwf9uy9/living/entryway/shelves-hooks/joggle-single-hook)
 
 ## IKEA
 
