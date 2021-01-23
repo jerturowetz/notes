@@ -1,6 +1,16 @@
 
 # Groceries
 
+- 1% milk
+- garlic
+- broccoli or other green side
+- potato
+- Salmon
+- Coffee
+- N/A beer
+
+--
+
 - strawberries, blueberries
 - plums
 - Pears
