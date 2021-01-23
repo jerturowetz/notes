@@ -1,26 +1,31 @@
 
 # Groceries
 
-- 1% milk
 - garlic
 - broccoli or other green side
-- potato
-- Salmon
-- Coffee
-- N/A beer
-
---
-
+- Tomatoes
+- Baby carrots
 - strawberries, blueberries
 - plums
 - Pears
 - bananas
 - cascade pods
+- large ziplock
 - dawn
 - honey
+- stubby olive oil
+- BBQ sauce
+- powdered sugar
+- Eggs
+- 1% milk
+- Vanilla Yohurt
 - Salted butter
 - coke zero
-- na beer
+- N/A beer
+
+--
+
+Pizza dough
 
 ## Pharmacy
 
