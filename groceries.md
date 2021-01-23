@@ -1,7 +1,7 @@
 
 # Groceries
 
-- 3% milk
+- 1% milk
 - garlic
 - broccoli or other green side
 - potato
