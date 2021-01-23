@@ -61,7 +61,6 @@ sockerbit bins for camping stuff
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 
-- [Extra fridge door shelf](https://www.reliableparts.ca/product/inv_15152029)
 
 --
 
