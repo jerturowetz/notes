@@ -1,25 +1,16 @@
 
 # Groceries
 
-- 3% milk
-- garlic
-- broccoli or other green side
-- potato
-- Salmon
-- Coffee
-- N/A beer
-
---
-
 - strawberries, blueberries
 - plums
 - Pears
-- Spinach
+- bananas
 - cascade pods
 - dawn
 - honey
 - Salted butter
 - coke zero
+- na beer
 
 ## Pharmacy
 
