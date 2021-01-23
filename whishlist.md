@@ -1,11 +1,6 @@
 # Wishlist
 
 sonos one sl (like a few of them?)
-probably better than the audioenginbe a2+
-
-
-
-rog zephrus g14 2060max-q
 
 [Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
 [White dual monito mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
@@ -15,10 +10,7 @@ waldos closet rails
 saw
 saw horse
 
-
 [hook maybe for floor pillow](https://www.zonemaison.com/fr/products/salle_de_bain/collections_murales/slip/23072-NOIR-MAT/crochet-noir-mat)
-
-
 BRANDUR from ikea (paint it white)
 [hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
 [hooks idea for pickler triangle](https://themodernshop.com/products/contemporary-coat-hook-by-urbancase)
