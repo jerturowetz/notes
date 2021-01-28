@@ -1,26 +1,8 @@
 # Wishlist
 
 - Whatever is in the amazon cart
-- [Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
-- [White dual monitor mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
-- camera stand
-- usb dongle
-- waldos closet rails (60" x 27", 15" depth right, 24" depth left)
 - baby pyjamas
-
-- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
-
-
-[hook maybe for floor pillow](https://www.zonemaison.com/fr/products/salle_de_bain/collections_murales/slip/23072-NOIR-MAT/crochet-noir-mat)
-[hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
-[hooks idea for pickler triangle](https://themodernshop.com/products/contemporary-coat-hook-by-urbancase)
-[moar hook](https://www.eq3.com/ca/en/product/cjv5ezl8s057b0190bvwf9uy9/living/entryway/shelves-hooks/joggle-single-hook)
-[anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
-
-- Bibs:
-  - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
-  - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
-  - [Lictin](https://www.amazon.ca/Lictin-Pcs-Waterproof-Long-sleeved-Bibs/dp/B07Y9M5Y7L)
+- [hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
 
 ## Simons
 
@@ -50,8 +32,14 @@
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 
+## Waldo closet shelves
+
+waldos closet rails are 60" x 27"
+15" depth right, 24" depth left
+
 ## Other
 
+- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 - Wood for trones
 - Waterhog green tree mat
 - Fire extinguisher
