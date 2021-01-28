@@ -12,15 +12,16 @@
 
 ## IKEA
 
-- BRANDUR from ikea (paint it white)
-- sockerbit bins for camping stuff x6 open, 2 long closed
+- SVALNÄS stuff
+- Raskog grey metal cabinet pins
+- [One more RISATORP](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
+- [BRANDUR rail for pickler triangle (painted white)](https://www.ikea.com/ca/en/p/brandur-rail-with-4-hooks-in-outdoor-black-10402624/)
 - [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
 - [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-- [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
-- Raskog grey metal cabinet pins
-- Another white basket for kitchen
+- Trip gear closet:
+  - [SOCKERBIT small open bin x4](https://www.ikea.com/ca/en/p/sockerbit-box-white-50316182/)
+  - [SOCKERBIT small bin x2](https://www.ikea.com/ca/en/p/sockerbit-box-with-lid-white-60316068/)
 
 ## Various
 
