@@ -1,71 +1,68 @@
 # Wishlist
 
-sonos one sl (like a few of them?)
+- Whatever is in the amazon cart
+- [Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
+- [White dual monitor mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
+- camera stand
+- usb dongle
+- waldos closet rails (60" x 27", 15" depth right, 24" depth left)
+- baby pyjamas
 
-[Desk cable organizer](https://www.amazon.ca/Monoprice-Under-Desk-Cable-Tray/dp/B07H48SY8G)
-[White dual monito mount](https://www.amazon.ca/VIVO-Monitor-Bolt-Through-Adjustable-STAND-V002W/dp/B083G6P7WH)
+- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 
-waldos closet rails
-60x27"
-saw
-saw horse
 
-BRANDUR from ikea (paint it white)
 [hook maybe for floor pillow](https://www.zonemaison.com/fr/products/salle_de_bain/collections_murales/slip/23072-NOIR-MAT/crochet-noir-mat)
 [hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
 [hooks idea for pickler triangle](https://themodernshop.com/products/contemporary-coat-hook-by-urbancase)
 [moar hook](https://www.eq3.com/ca/en/product/cjv5ezl8s057b0190bvwf9uy9/living/entryway/shelves-hooks/joggle-single-hook)
-
-## IKEA
-
-sockerbit bins for camping stuff
-
-- [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
-- [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
-- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
-- [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
-- Raskog grey metal cabinet pins
-- white basket for kitchen
-
-## Simons
-
-- maison simons diffusers
-- storage for rags in pantry (maison simons?)
-- Pillows (Simons bianca made in montreal, comes with pillow protector)
-
-## Various
-
-- gift for james parents
-- gift for Bart and Danielle
-
---
-
-- baby pyjamas
-- [Over sholder belt for sled pulling](https://www.amazon.ca/Fairwin-Tactical-Military-Heavy-Duty-Quick-Release/dp/B07RN3W8NX)
-- [anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
+[anti slip pad for backyard](https://www.amazon.ca/Stair-Treads-Non-Slip-Outdoor-Tape/dp/B07VM8K9G9/142-7259261-6180728)
 
 - Bibs:
   - [ZENBÉBÉ](https://www.amazon.ca/ZENB%C3%89B%C3%89-Baby-Bib-Boys-Girls/dp/B08HKK78PT)
   - [Bumkins](https://www.amazon.ca/Bumkins-Waterproof-Sleeved-Hearts-Months/dp/B079G1LN65)
   - [Lictin](https://www.amazon.ca/Lictin-Pcs-Waterproof-Long-sleeved-Bibs/dp/B07Y9M5Y7L)
 
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+## Simons
 
+- maison simons diffusers
+- storage for rags in pantry
+- Pillows (Simons bianca made in montreal, comes with pillow protector)
 
---
+## IKEA
 
-- Wood for trones
-- waterhog green tree mat
-- fire extinguisher
-- Roomba
-- Bike pump
-- front bike rack & panniers
-- $200 Angelo, Andrew, Joe gifts
-- $100 Fer sher
+- BRANDUR from ikea (paint it white)
+- sockerbit bins for camping stuff x6 open, 2 long closed
+- [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
+- [Besta drawer rails](https://www.ikea.com/us/en/p/besta-drawer-runner-soft-closing-40348715/)
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [Other REJSA box](https://www.ikea.com/ca/en/p/rejsa-box-gray-green-metal-60457789/)
+- [Bathroom hooks](https://www.ikea.com/ca/en/p/tisken-hook-with-suction-cup-white-70381275/)
+- Raskog grey metal cabinet pins
+- Another white basket for kitchen
+
+## Various
+
+- gift for james parents
+- gift for Bart and Danielle
+
+## Depending on YouCopia
+
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
+
+## Other
+
+- Wood for trones
+- Waterhog green tree mat
+- Fire extinguisher
+- Roomba
+- Bike pump
+- Front bike rack & panniers
+- Sonos One (SL?) x2
+- $200 Angelo, Andrew, Joe gifts
+- $100 Fer sher
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
