@@ -1,20 +1,8 @@
 # Wishlist
 
-starfrit powdered sugarcontainer is too small
-same for sugar container
-spatula
-little camera stand
-
-
-
-905 g is pancake mix,
-3 cereal containers
-door stop
-small nuts container x many (are the ikea ones stackable? if so whatstheir width?  get a bin)
-
 - Whatever is in the amazon cart
 - baby pyjamas
-- [hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
+- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 
 ## Simons
 
@@ -35,9 +23,15 @@ small nuts container x many (are the ikea ones stackable? if so whatstheir width
   - [SOCKERBIT small open bin x4](https://www.ikea.com/ca/en/p/sockerbit-box-white-50316182/)
   - [SOCKERBIT small bin x2](https://www.ikea.com/ca/en/p/sockerbit-box-with-lid-white-60316068/)
 
+## Waldo closet shelves
+
+waldos closet rails are 60" x 27"
+15" depth right, 24" depth left
+Home depot cut shop is open!
+
 ## Various
 
-- gift for james parents
+- gift for James parents
 - gift for Bart and Danielle
 
 ## Depending on YouCopia
@@ -45,18 +39,14 @@ small nuts container x many (are the ikea ones stackable? if so whatstheir width
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 
-## Waldo closet shelves
-
-waldos closet rails are 60" x 27"
-15" depth right, 24" depth left
-
 ## Other
 
-- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
+- containers for cereal (3), pancake mix & a better container for powdered sugar
 - Wood for trones
 - Waterhog green tree mat
 - Fire extinguisher
 - Roomba
+- Door jammer
 - Bike pump
 - Front bike rack & panniers
 - Sonos One (SL?) x2
