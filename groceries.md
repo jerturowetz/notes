@@ -23,14 +23,16 @@ fajitas
 - other side vegetables
 - dry mozarella
 - wet mozarella
-- Bread
+- $7 on country harvest bread & d'italiano bread
 - Rolls or bagels
 - meat
 - bacon
 - tomato sauce
 - small can coconut milk
 - chicken stock
-- pizza sauce
+- pizza sauce (a few)
+- $12 of general mills cereals (is that a lot of cheerios?) OR
+- $10 on kellogg cereal (is that a lot of raisin bran?)
 - coffee
 - veg oil
 - granola
@@ -38,8 +40,8 @@ fajitas
 - cookies
 - na beer
 - baby milk (not rotten)
-- salted butter
-- vanilla & plain yogurt
+- salted butter (no name)
+- vanilla & plain yogurt ($12 liberte)
 
 --
 
