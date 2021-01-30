@@ -2,6 +2,8 @@
 
 starfrit powdered sugarcontainer is too small
 same for sugar container
+spatula
+little camera stand
 
 
 

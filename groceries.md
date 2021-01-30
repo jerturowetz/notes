@@ -3,42 +3,48 @@
 
 ## Meal plan?
 
-Poke
+Poke1
 Pizza
 salmon
 ribs
 fried chicken
 fajitas
 
-- garlic
-- gignger
-- onion
-- bacon
+
+- spinach
 - strawberries
 - green apples
-- tomato sauce
+- bananas
+- mandarins
+- garlic
+- ginger
+- onion
+- basil
+- other side vegetables
+- dry mozarella
+- wet mozarella
 - Bread
-- green leaf
 - Rolls or bagels
+- meat
+- bacon
+- tomato sauce
+- small can coconut milk
+- chicken stock
+- pizza sauce
+- coffee
+- veg oil
+- granola
 - chips
 - cookies
 - na beer
-- salted butter
-- coffee
-- meat
-- side veg
-- vanilla & plain yogurt
-- granola
-- bananas
-- mandarins
-- veg oil
 - baby milk (not rotten)
-- dry mozarella
-- pizza sauce
+- salted butter
+- vanilla & plain yogurt
 
 --
 
 Poke salmon
+Pizza dough
 
 ## Pharmacy
 
