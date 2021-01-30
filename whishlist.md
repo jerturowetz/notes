@@ -38,6 +38,16 @@ waldos closet rails are 60" x 27"
 15" depth right, 24" depth left
 Home depot cut shop is open!
 
+3 or 4 each side
+waldo shelves 16"deep x about 27"
+waldo shelves 20"deep x about 27"
+
+cut 4'x8' plywood in half on the short side to make 2, 2'x8' peices
+then cut 8' into 16" and 20" shelves
+
+peice of scrap insulation for cutting on
+makita 18v circular saw
+
 ## Various
 
 - gift for James parents
