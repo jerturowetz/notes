@@ -36,6 +36,7 @@ fajitas
 - coffee
 - veg oil
 - granola
+- unsweetened applesauce
 - chips
 - cookies
 - na beer
