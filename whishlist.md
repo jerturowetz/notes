@@ -1,5 +1,15 @@
 # Wishlist
 
+starfrit powdered sugarcontainer is too small
+same for sugar container
+
+
+
+905 g is pancake mix,
+3 cereal containers
+door stop
+small nuts container x many (are the ikea ones stackable? if so whatstheir width?  get a bin)
+
 - Whatever is in the amazon cart
 - baby pyjamas
 - [hooks idea for pickler triangle](https://themodernshop.com/products/butterflies-hook-by-vita-copenhagen)
