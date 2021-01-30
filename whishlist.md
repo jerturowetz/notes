@@ -13,8 +13,11 @@
 
 ## IKEA
 
-- SVALNÄS stuff
-- Raskog grey metal cabinet pins
+- Pegboard:
+  - [Scissors holder](https://www.ikea.com/ca/en/p/skadis-tool-holder-gray-90335876/)
+  - [SKADIS clips](https://www.ikea.com/ca/en/p/skadis-clip-white-00321614/)
+  - [Letter holder](https://www.ikea.com/ca/en/p/skadis-letter-holder-white-40320815/)
+  - [container](https://www.ikea.com/ca/en/p/skadis-container-white-20320798/)
 - [One more RISATORP](https://www.ikea.com/ca/en/p/risatorp-wire-basket-white-90281618/)
 - [BRANDUR rail for pickler triangle (painted white)](https://www.ikea.com/ca/en/p/brandur-rail-with-4-hooks-in-outdoor-black-10402624/)
 - [hook for floor pillow](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
@@ -23,6 +26,11 @@
 - Trip gear closet:
   - [SOCKERBIT small open bin x4](https://www.ikea.com/ca/en/p/sockerbit-box-white-50316182/)
   - [SOCKERBIT small bin x2](https://www.ikea.com/ca/en/p/sockerbit-box-with-lid-white-60316068/)
+- Raskog grey metal cabinet pins
+- SVALNÄS
+  - [upright](https://www.ikea.com/ca/en/p/svalnaes-wall-upright-bamboo-10322849/)
+  - [61cm shallow shelf]
+  - [61cm deep shelf]
 
 ## Waldo closet shelves
 
