@@ -1,9 +1,14 @@
 # Wishlist
 
-- nick cage mug for sam
 - Whatever is in the amazon cart
 - baby pyjamas
 - [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
+
+## Waldo closet shelves
+
+- $200 Canadian tire <60" rails & >15" brackets
+- Home depo 4'x8' plywood: cut in half on the short side to make 2, 2'x8' peices, then cut into 16' & 20' shleves
+- Home depot mkita 18v sander
 
 ## Simons
 
@@ -31,22 +36,6 @@
   - [upright](https://www.ikea.com/ca/en/p/svalnaes-wall-upright-bamboo-10322849/)
   - [61cm shallow shelf]
   - [61cm deep shelf]
-
-## Waldo closet shelves
-
-waldos closet rails are 60" x 27"
-15" depth right, 24" depth left
-Home depot cut shop is open!
-
-3 or 4 each side
-waldo shelves 16"deep x about 27"
-waldo shelves 20"deep x about 27"
-
-cut 4'x8' plywood in half on the short side to make 2, 2'x8' peices
-then cut 8' into 16" and 20" shelves
-
-peice of scrap insulation for cutting on
-makita 18v circular saw
 
 ## Various
 
