@@ -1,6 +1,5 @@
 # Groceries
 
-- ginger
 - meat
 
 ## Odessa
