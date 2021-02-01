@@ -6,9 +6,10 @@
 
 ## Waldo closet shelves
 
-- $200 Canadian tire <60" rails & >15" brackets
-- Home depo 4'x8' plywood: cut in half on the short side to make 2, 2'x8' peices, then cut into 16' & 20' shleves
+- Shallow side: $100 Canadian tire <60" rails x2 & >15" brackets x8
+- need 16" ish x 24" shelves x4
 - Home depot mkita 18v sander
+- Deep side: 28.5" wide x 24" deep and some slats to hold it up
 
 ## Simons
 
@@ -50,7 +51,7 @@
 ## Other
 
 - containers for cereal (3), pancake mix & a better container for powdered sugar
-- Wood for trones
+- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height
 - Waterhog green tree mat
 - Fire extinguisher
 - Roomba
