@@ -1,6 +1,13 @@
 # Groceries
 
+- strawberries
+- Bluebnerries
 - meat
+- whole chk
+- sliced meat
+- Yellow cheese
+- syrop
+- Outdoor salt
 
 ## Odessa
 
@@ -12,12 +19,6 @@
 - Pizza dough
 - pastas
 - pasta sauce
-
-## Pharmacy
-
-- allergy meds
-- Outdoor salt
-- soap
 
 ## Spice store
 
