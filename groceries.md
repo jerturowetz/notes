@@ -5,7 +5,16 @@
 - Yellow cheese
 - syrop
 - Outdoor salt
-- granola
+- pc granola
+- deli meat
+- frozen blueberries, mango mix
+- ground beef, chicken to freeze
+- ice cream
+- pc spinach
+- pc muahrooms
+- asparagus
+- raisin bran
+- pringles
 
 ## Maison des pates
 
