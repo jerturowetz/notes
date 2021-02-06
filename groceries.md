@@ -1,10 +1,15 @@
 # Groceries
 
+- bananas
+- garlic
+- white flour
+- sunflour oil
+- apple sauce
 - meat
 - whole chk
 - Yellow cheese
 - syrop
-- Outdoor salt
+- vanilla
 - pc granola
 - deli meat
 - frozen blueberries, mango mix
@@ -15,12 +20,6 @@
 - asparagus
 - raisin bran
 - pringles
-
-## Maison des pates
-
-- Pizza dough
-- pastas
-- pasta sauce
 
 ## Spice store
 

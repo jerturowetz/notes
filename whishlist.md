@@ -1,7 +1,6 @@
 # Wishlist
 
 - Whatever is in the amazon cart
-- baby pyjamas
 - [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 
 ## Waldo closet shelves
@@ -33,6 +32,7 @@
   - [SOCKERBIT small open bin x4](https://www.ikea.com/ca/en/p/sockerbit-box-white-50316182/)
   - [SOCKERBIT small bin x2](https://www.ikea.com/ca/en/p/sockerbit-box-with-lid-white-60316068/)
 - Raskog grey metal cabinet pins
+- chair pillows for those i destroyed
 - SVALNÄS
   - [upright](https://www.ikea.com/ca/en/p/svalnaes-wall-upright-bamboo-10322849/)
   - [61cm shallow shelf]

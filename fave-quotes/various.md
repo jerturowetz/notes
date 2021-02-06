@@ -77,5 +77,4 @@ Jacob Weisberg, Facebook had addicted us and sold our eyeballs to advertisers. I
 > Do you have cocaine?  No?  Well I don't want to see Kung Fu Panda then!
 > – Pat
 
-
- Dr. Romero : Do you think God stays in heaven because he too lives in fear of what he's created?
+Dr. Romero : Do you think God stays in heaven because he too lives in fear of what he's created?
