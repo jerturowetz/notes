@@ -2,6 +2,7 @@
 
 - rad dad shirt for marc
 - i want my hat back
+- Wicker bins the size of madesmart bins
 - Whatever is in the amazon cart
 - [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 
