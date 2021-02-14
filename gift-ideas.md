@@ -58,6 +58,7 @@
 
 ## Waldo
 
+- [anything coco village](https://ca.cocovillage.com/collections/play)
 - Schrade Uncle Henry (great first knife beater)
 - [First guitar](https://loogguitars.ca/)
 - [mark mat set](https://www.thepepinshop.com/collections/storage-utility/products/mark-mat-set-jungle-3-markers)
