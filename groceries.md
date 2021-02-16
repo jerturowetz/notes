@@ -3,7 +3,9 @@
 - Strawberries
 - little tomatoes
 - Hard tomato
-- arugula
+- Soy sauce
+- Rice viniger
+- sesame oil
 - Parchment paper
 - Large aluminum foil
 
