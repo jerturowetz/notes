@@ -8,6 +8,8 @@
 - sesame oil
 - Parchment paper
 - Large aluminum foil
+- vanilla yogurt
+- coconut water
 
 ## Maison de roties
 
