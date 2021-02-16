@@ -14,27 +14,28 @@ I'd recommend 2, maybe 3 storage containers for peace of mind:
 
 I use the [ridgid system (because it's cheap and sturdy)](https://www.homedepot.ca/en/home/brands/ridgid/tools/tool-storage/tool-boxes.html/1009956.html.html), but it's very, very bulky and doesn't provide as good orbnaization as the slimmer/slightly more expensive [Millwaukee stuff](https://www.homedepot.ca/product/milwaukee-tool-packout-22-inch-tool-box-l/1001242092).
 
-A few tips: A bin works better than just putting your buly items on a closet shelf because you can drag it from room to room as you work on projects. Those little cases for drill bits take up a lot of space so either get a toolbox to accomodate them or store them in the bin with your drills. Boxes that clip together arent necessary but makes moving stuff from room to room easier; however, because you're a bit smaller, a bunch of boxes clamped together might be too bulky to carry. In that case, lighter seperate items might be best or a system that has a bin with wheels if you want the whole system to be joinable.
+A few tips: A bin works better than just putting your bulky items on a closet shelf because you can drag it from room to room as you work on projects. Those little cases for drill bits take up a lot of space so either get a toolbox to accomodate them or store them in the bin with your drills. Boxes that clip together arent necessary but makes moving stuff around easier; however, because you're a bit smaller, a bunch of boxes clamped together might be too bulky to carry. In that case, lighter seperate items might be best or a system that has a bin with wheels if you want the whole system to be joinable.
 
 ## Big stuff
 
 Bigger items I haven't been able to live without
 
-A small step stool
-A small vaccum
+A small, folding step stool or step ladder: you wanna be able to reach up above curtain rods, over door frames and ceeiling mounted lights.
+A small vaccum: A shop vac is great as you shouldnt be vaccuming up drywall dust with a normal vaccum (that is very bad for the vaccum).
 
-## Important power tools
+## The most important power tool
 
-Pick a system and stick with it! Batteries are expensive so it helps to only get 1 charger and use a consistent battery system so that your tools are all compatible with each other. An 18v (not 12v) system guarantees more power and are generally more robustly built tools (if a bit heavier). I use the [18v Makita line](), but the Dewalt & Milwaukee lines are similar and about as good.
+- Power drill(s): if you're only getting one drill, get a hammer drill so that you can take on brick & concrete if you need to. They are heavier though, so a lightweight drill and a heavier hammer drill are a nice combo to have.
 
-Power drill
-Multitool (super useful for electrical or cutting mouldings without killing yourself)
+More and more tools today are battery powered which is very convenient, but batteries can get expensive, so it helps to buy all your battery-powered tools from the same family so you can use the same batteries for all your tools. I use the [18v Makita line](https://www.makitatools.com/lxtadvantage), but the Dewalt & Milwaukee lines are similar and are as good.
 
 ## Power tools for specific use cases
 
-Saw
-Sander
+- Random orbital sander (really nice if you're gonna make your own shelves or need to strip and patch holes)
+- Multitool (useful for cutting electrical box spaces or cutting mouldings)
+- Circular saw (this is a dangerous tool so only buy one if youre gonna practice often, otherwise just get your wood cut at Home depot, it's cheap. f you do buy a circular saw, go with corded, not battery powered, you'll save $150).
 
+if you buy a circular saw you'll probably also want to buy an insulation panel to cut on top of.
 
 ## Hand tools
 
