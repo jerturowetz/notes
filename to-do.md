@@ -21,6 +21,13 @@
 - [Chateau du cirque](https://www.chateau-cirque.com/)
 - [Take Kate to a dance show](https://www.quebecdanse.org/)
 
+## 2020 Taxes
+
+- can weget docs for rrsp before the march 30 deadline?
+- tax credit from working from home?
+- personal rrsp docs?
+- vrsp docs?
+
 ## Musician's insurance
 
 - Organize list of items (serail #s)

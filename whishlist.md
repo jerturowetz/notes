@@ -1,22 +1,17 @@
 # Wishlist
 
-- rad dad shirt for marc
-- i want my hat back
-- Wicker bins the size of madesmart bins
 - Whatever is in the amazon cart
 - [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
+- [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
+- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 
 ## Waldo closet shelves
 
-- Shallow side: $100 Canadian tire <60" rails x2 & >15" brackets x8
-- need 16" ish x 24" shelves x4
-- Home depot mkita 18v sander
-- Deep side: 28.5" wide x 24" deep and some slats to hold it up
+- Canadian tire <60" rails x2 & >15" brackets x8
 
 ## Simons
 
 - maison simons diffusers
-- storage for rags in pantry
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
 
 ## IKEA
@@ -46,20 +41,16 @@
 - gift for James parents
 - gift for Bart and Danielle
 
-## Depending on YouCopia
-
-- [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
-- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
-
 ## Other
 
+- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
+- rad dad shirt for marc
+- i want my hat back
 - containers for cereal (3), pancake mix & a better container for powdered sugar
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height
 - Waterhog green tree mat
 - Fire extinguisher
 - Roomba
-- Door jammer
-- Bike pump
 - Front bike rack & panniers
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
