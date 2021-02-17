@@ -1,7 +1,6 @@
 # Wishlist
 
 - Whatever is in the amazon cart
-- [Dock](https://www.amazon.ca/gp/product/B07R754DBK?psc=1)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
 
