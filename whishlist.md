@@ -1,12 +1,7 @@
 # Wishlist
 
-- Whatever is in the amazon cart
+- Whatever is in the amazon cart (bins and stuff)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
-- [Spice bottle labels](https://www.amazon.ca/Talented-Kitchen/b?node=14338751011)
-
-## Waldo closet shelves
-
-- Canadian tire <60" rails x2 & >15" brackets x8
 
 ## Simons
 
