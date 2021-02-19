@@ -1,15 +1,9 @@
 # Groceries
 
-- Strawberries, bluebnerries
-- Bananas
 - Oranges
 - Kale
-- Spinach
-- little tomatoes
-- Hard tomato
-- Soy sauce
+- Large garbage bags
 - Rice viniger
-- sesame oil
 - Parchment paper
 - Large aluminum foil
 - Both yogurts
