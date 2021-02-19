@@ -1,6 +1,10 @@
 # Groceries
 
-- Strawberries
+- Strawberries, bluebnerries
+- Bananas
+- Oranges
+- Kale
+- Spinach
 - little tomatoes
 - Hard tomato
 - Soy sauce
@@ -8,12 +12,8 @@
 - sesame oil
 - Parchment paper
 - Large aluminum foil
-- vanilla yogurt
-- coconut water
-
-## Maison de roties
-
-- whatever else
+- Both yogurts
+- Coconut water
 
 ## Spice store
 
