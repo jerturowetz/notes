@@ -1,10 +1,16 @@
 # Wishlist
 
-ikea stool non slip 1/2"
+- ikea stool non slip 1/2"
+- besta non slip circles
+- black garbage bags
+- white metal paint
+
+
+
+
+
 brita
 hemnes 8drawer dresser for babies room (63", 19" deep)
-
-
 couch 112" wide
 
 - Whatever is in the amazon cart (bins and stuff)
