@@ -1,13 +1,19 @@
 # Groceries
 
 - Oranges
+- peaches
 - Kale
 - Large garbage bags
+- coconut water
 - Rice viniger
+- dijon
+- sambal
 - Parchment paper
 - Large aluminum foil
+- granola
 - Both yogurts
-- Coconut water
+- baby milk
+- na beer
 
 ## Spice store
 
