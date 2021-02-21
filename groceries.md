@@ -4,8 +4,8 @@
 - Oranges
 - peaches
 - Kale
-- Large garbage bags
 - coconut water
+- compost bags
 - Rice viniger
 - Grapeseed oil
 - dijon
@@ -13,9 +13,7 @@
 - Parchment paper
 - Large aluminum foil
 - granola
-- Both yogurts
 - baby milk
-- na beer
 
 ## Spice store
 
