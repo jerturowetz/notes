@@ -2,17 +2,7 @@
 
 - ikea stool non slip 1/2"
 - besta non slip circles
-- black garbage bags
-- white metal paint
-
-
-
-
-
-brita
-hemnes 8drawer dresser for babies room (63", 19" deep)
-couch 112" wide
-
+- brita
 - Whatever is in the amazon cart (bins and stuff)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 
