@@ -1,5 +1,14 @@
 # Wishlist
 
+## Ikea
+
+- [skubb x2](https://www.ikea.com/ca/en/p/skubb-box-set-of-6-white-00428549/)
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- [Hemnes dresser](https://www.ikea.com/ca/en/p/hemnes-8-drawer-dresser-white-stain-00318598/)
+- [Raskog grey metal cabinet pins](https://www.ikeaddict.com/ikeapedia/en/Product/70213866/gb-en/raskog-wall-cabinet-dark-grey-glass/Entry/)
+
+--
+
 - ikea stool non slip 1/2"
 - besta non slip circles
 - brita

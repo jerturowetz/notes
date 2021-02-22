@@ -1,8 +1,7 @@
 # Groceries
 
 - strawberries, bluberries
-- Oranges
-- peaches
+- peaches, pears
 - Kale
 - coconut water
 - Parchment paper
