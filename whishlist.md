@@ -11,15 +11,6 @@
 - maison simons diffusers
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
 
-## IKEA
-
-- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- Raskog grey metal cabinet pins
-- chair pillows for those i destroyed
-- SVALNÄS
-  - [61cm shallow shelf]
-  - [61cm deep shelf]
-
 ## Various
 
 - gift for James parents
@@ -57,6 +48,15 @@
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
+
+## IKEA
+
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- Raskog grey metal cabinet pins
+- Norna chair pillows for those i destroyed
+- SVALNÄS
+  - [61cm shallow shelf]
+  - [61cm deep shelf]
 
 ## Music gear
 
