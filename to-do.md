@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- Downgrade last pass
 - front of house bin for recycling
 - Backyard toy storage
 - Grab logitech universal adapter from work
