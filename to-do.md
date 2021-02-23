@@ -4,7 +4,6 @@
 - front of house bin for recycling
 - Backyard toy storage
 - Grab logitech universal adapter from work
-- repair shed door latch
 - make the house smell good
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - Electricity install outside
