@@ -52,7 +52,6 @@
 ## IKEA
 
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- Raskog grey metal cabinet pins
 - Norna chair pillows for those i destroyed
 - SVALNÄS
   - [61cm shallow shelf]
