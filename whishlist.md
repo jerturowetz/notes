@@ -1,5 +1,15 @@
 # Wishlist
 
+
+Guitar hooks for the wall
+Three taller ikea otters
+
+
+
+
+3 can tire bins (28L)
+1 can tire bin 66L
+
 - ikea stool non slip 1/2"
 - besta non slip circles
 - brita

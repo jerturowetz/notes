@@ -12,11 +12,9 @@
 - Wet & dry mozarella
 - Sandwich meats
 - Peproni
-- Bread
 - coconut water
 - Med freezer bags
 - Parchment paper
-- Eggs
 - N/A beer
 
 ## Pasta store
