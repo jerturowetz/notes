@@ -1,15 +1,13 @@
 # Wishlist
 
+- Jam space upgrades:
+  - Moar guitar hooks for the wall
+  - Three taller ivar ladders
+  - shelf for above work bench
 
-Guitar hooks for the wall
-Three taller ikea otters
-
-
-
-
-3 can tire bins (28L)
-1 can tire bin 66L
-
+- Wlado's closet
+  - 3 can tire bins (28L)
+  - 1 can tire bin 66L
 - ikea stool non slip 1/2"
 - besta non slip circles
 - brita
@@ -29,6 +27,7 @@ Three taller ikea otters
 ## Other
 
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
+- 2+ madesmart bins
 - rad dad shirt for marc
 - i want my hat back
 - containers for cereal (3), pancake mix & a better container for powdered sugar
