@@ -1,27 +1,23 @@
 # Groceries
 
-- strawberries, bluberries
 - peaches, pears
-- Bananas
 - Green apples
 - Hard tomatoe
 - Potatoe
+- Carrots
 - Kale
 - Bocconcini
-- cheddar
-- Wet & dry mozarella
+- Wet mozarella
 - Sandwich meats
 - Peproni
-- Bread
+- Rolls
+- Meats (like chk, pork butt, burgers)
 - coconut water
-- Med freezer bags
 - Parchment paper
-- Eggs
 - N/A beer
 
 ## Pasta store
 
-- Lasagne
 - Pizza dough
 
 ## Spice store
