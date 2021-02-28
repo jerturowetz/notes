@@ -1,18 +1,21 @@
 # Wishlist
 
 - Jam space upgrades:
-  - Moar guitar hooks for the wall
-  - Three taller ivar ladders
-  - shelf for above work bench
+  - [Moar guitar hooks for the wall](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
+  - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
+  - [6 20" deep shelf brackets](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
+  - plywood sheet cut to 4'x2' slats
 
 - Wlado's closet
   - 3 can tire bins (28L)
   - 1 can tire bin 66L
+- raouls IKEA stuff
 - ikea stool non slip 1/2"
 - besta non slip circles
 - brita
 - Whatever is in the amazon cart (bins and stuff)
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
+- National treasure mug for Travis
 
 ## Simons
 
