@@ -29,6 +29,7 @@
 
 ## Other
 
+- Refrigerator Toe Grille
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - 2+ madesmart bins
 - rad dad shirt for marc
