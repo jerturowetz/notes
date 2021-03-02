@@ -14,6 +14,7 @@
 - besta non slip circles
 - brita
 - Whatever is in the amazon cart (bins and stuff)
+- slim bins for pantry
 - [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
 - National treasure mug for Travis
 
