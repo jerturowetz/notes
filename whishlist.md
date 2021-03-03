@@ -22,7 +22,6 @@
 ## IKEA
 
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- Norna chair pillows for those i destroyed
 - raouls IKEA stuff
 - Replacement lights for kitchen
 - SVALNÄS

@@ -18,7 +18,7 @@
 - Roast beef
 - Pepperoni
 - Bread
-- Rolls
+- Sausage buns
 - Meat for freezing
   - chicken thighs (both kinds)
   - Pork butt
