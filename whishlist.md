@@ -1,5 +1,8 @@
 # Wishlist
 
+- wooden brakets for waldos room (shelf depth 8")
+- leapord print duckt tape
+
 - Jam space upgrades:
   - [Moar guitar hooks for the wall](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
