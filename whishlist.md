@@ -1,5 +1,10 @@
 # Wishlist
 
+jeans
+dryer
+groceries
+
+
 - wooden brakets for waldos room (shelf depth 8")
 - leapord print duckt tape
 
