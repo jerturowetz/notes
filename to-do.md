@@ -1,5 +1,9 @@
 # Jeremy's To-Do List
 
+- Wlaod time
+  - jeans
+  - dryer
+  - groceries
 - Downgrade last pass
 - front of house bin for recycling
 - Backyard toy storage

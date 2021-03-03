@@ -1,50 +1,53 @@
 # Wishlist
 
-jeans
-dryer
-groceries
+- Home depot:
+  - 1x2 or 1x1 for making brakets (8" depth shelves)
+  - wood glue
+  - [packout small parts organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550?rrec=true)
+  - [right angled attachment](https://www.homedepot.ca/product/dewalt-12-inch-right-angle-flex-shaft/1001010226)
 
+--
 
-- wooden brakets for waldos room (shelf depth 8")
-- leapord print duckt tape
-
+- can tire dual track for other closets
+- [Sterilite bins: 17L, 28L, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
+- Whatever is in the amazon cart (pantry bins, non slip pads)
+- Monitor arm
+- National treasure mug for Travis
 - Jam space upgrades:
-  - [Moar guitar hooks for the wall](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
+  - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
-  - [6 20" deep shelf brackets](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
+  - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
 
-- Wlado's closet
-  - 3 can tire bins (28L)
-  - 1 can tire bin 66L
+## IKEA
+
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- Norna chair pillows for those i destroyed
 - raouls IKEA stuff
-- ikea stool non slip 1/2"
-- besta non slip circles
-- brita
-- Whatever is in the amazon cart (bins and stuff)
-- slim bins for pantry
-- [More small spice bottles](https://www.amazon.ca/Bekith-Straight-Airtight-Plastic-Smooth/dp/B07KPBYZ5V)
-- National treasure mug for Travis
+- Replacement lights for kitchen
+- SVALNÄS
+  - [61cm shallow shelf]
+  - [61cm deep shelf]
 
 ## Simons
 
 - maison simons diffusers
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
 
-## Various
-
-- gift for James parents
-- gift for Bart and Danielle
-
 ## Other
 
+- nuts containers (2cups, 1 cup) the oxo mini tall
+- gift for James parents
+- gift for Bart and Danielle
+- leapord print duct tape
+- brita
 - Refrigerator Toe Grille
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - 2+ madesmart bins
 - rad dad shirt for marc
 - i want my hat back
 - containers for cereal (3), pancake mix & a better container for powdered sugar
-- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height
+- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Waterhog green tree mat
 - Fire extinguisher
 - Roomba
@@ -70,14 +73,6 @@ groceries
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
-
-## IKEA
-
-- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
-- Norna chair pillows for those i destroyed
-- SVALNÄS
-  - [61cm shallow shelf]
-  - [61cm deep shelf]
 
 ## Music gear
 
