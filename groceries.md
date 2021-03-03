@@ -1,32 +1,47 @@
 # Groceries
 
 - Strawberries, blueberries
-- peaches, pears
+- Pears
 - Green apples
-- green leaf
-- green sides
-- Mini carrots
-- Hard tomatoe
-- Potatoe
-- Carrots
-- Kale
-- daikon
+- Green leaf (kale?)
+- Daikon
+- Orange carrots
+- Peppers
+- Hard tomat
+- Potatos
+- Spinach for freezing
+- Brussel sprouts
+- Bok choy
 - Bocconcini
 - Wet mozarella
-- cheddar x2
-- Sandwich meats
+- Cheddar x2
+- Roast beef
 - Pepperoni
+- Bread
 - Rolls
-- bread
-- eng muffins
-- mayo
-- applesauce
-- plain pasta sauce
-- Meats (like chk, pork butt, burgers)
-- coconut water
+- Meat for freezing
+  - chicken thighs (both kinds)
+  - Pork butt
+  - whole chk for frying
+  - Ground beef
+  - shrimp?
+- Coconut water
+- Applesauce
+- Granola
+- Mayo
+- Plain pasta sauce
+- Spaghetti
 - Parchment paper
 - N/A beer
 - vanilla yogurt
+- frozen tropicl mix
+- frozen fries
+
+## Fish store
+
+- Frozen shrimp/scallops
+- Poke salmon
+- Wakame
 
 ## Pasta store
 
