@@ -1,11 +1,7 @@
 # Wishlist
 
-- Flat 3 prong white ext cable
-
-28l bin x 4
-66l bin x1
-ahorter bin x2
-
+- Flat 3 prong white ext cable for waldo heart lamp
+- [Sterilite bins: 17L, 28Lx3, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
 - Home depot:
   - 1x2 or 1x1 for making brakets (8" depth shelves)
   - wood glue
@@ -14,8 +10,7 @@ ahorter bin x2
 
 --
 
-- can tire dual track for other closets
-- [Sterilite bins: 17L, 28L, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
+- Can tire dual track for other closets
 - Whatever is in the amazon cart (pantry bins, non slip pads)
 - Monitor arm
 - National treasure mug for Travis
