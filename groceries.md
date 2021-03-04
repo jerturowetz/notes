@@ -1,24 +1,11 @@
 # Groceries
 
-- Strawberries, blueberries
-- Pears
-- Green apples
-- Green leaf (kale?)
 - Daikon
-- Orange carrots
-- Peppers
-- Hard tomat
-- Potatos
-- Spinach for freezing
-- Brussel sprouts
-- Bok choy
-- Bocconcini
 - Wet mozarella
 - Cheddar x2
 - Roast beef
 - Pepperoni
 - Bread
-- Sausage buns
 - Meat for freezing
   - chicken thighs (both kinds)
   - Pork butt

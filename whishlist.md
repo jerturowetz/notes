@@ -1,5 +1,11 @@
 # Wishlist
 
+- Flat 3 prong white ext cable
+
+28l bin x 4
+66l bin x1
+ahorter bin x2
+
 - Home depot:
   - 1x2 or 1x1 for making brakets (8" depth shelves)
   - wood glue
