@@ -1,5 +1,6 @@
 # Groceries
 
+- bananas
 - Daikon
 - Wet mozarella
 - Cheddar x2
@@ -15,12 +16,14 @@
 - Coconut water
 - Applesauce
 - Granola
+- paper towels
 - Mayo
 - Plain pasta sauce
 - Spaghetti
 - Parchment paper
 - N/A beer
 - vanilla yogurt
+- salted and unsalted butter
 - frozen tropicl mix
 - frozen fries
 

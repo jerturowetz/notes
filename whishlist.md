@@ -1,12 +1,21 @@
 # Wishlist
 
+10"deep x 10" wide bins for spice cabinet
+
+sweet paprika
+
+turkish oregano
+granulated garlic
+onion glakes
+tumeric
+pam
+ 
+
+
 - Flat 3 prong white ext cable for waldo heart lamp
 - [Sterilite bins: 17L, 28Lx3, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
 - Home depot:
-  - 1x2 or 1x1 for making brakets (8" depth shelves)
-  - wood glue
   - [packout small parts organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550?rrec=true)
-  - [right angled attachment](https://www.homedepot.ca/product/dewalt-12-inch-right-angle-flex-shaft/1001010226)
 
 --
 

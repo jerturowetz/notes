@@ -1,5 +1,7 @@
 # Jeremy's To-Do List
 
+- sell sander
+- sell dell laptop
 - Wlaod time
   - jeans
   - dryer
