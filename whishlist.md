@@ -1,21 +1,16 @@
 # Wishlist
 
-10"deep x 10" wide bins for spice cabinet
+very short 2 prong ext for my bedroom
+very short 2 prong ext for behind hemnes (like 5ft max)
+8ft or so 3 prong ext for hert light
 
-sweet paprika
 
-turkish oregano
-granulated garlic
-onion glakes
-tumeric
-pam
- 
-
+kitchen spice area:
+VARIERA ?
+10"deep x 10" wide x4" max bins for spice cabinet top
 
 - Flat 3 prong white ext cable for waldo heart lamp
 - [Sterilite bins: 17L, 28Lx3, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
-- Home depot:
-  - [packout small parts organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550?rrec=true)
 
 --
 

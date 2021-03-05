@@ -17,6 +17,7 @@
 - Applesauce
 - Granola
 - paper towels
+- pam
 - Mayo
 - Plain pasta sauce
 - Spaghetti
@@ -41,3 +42,8 @@
 
 - Garam masala
 - Cumin
+- sweet paprika
+- turkish oregano
+- granulated garlic
+- onion glakes
+- tumeric
