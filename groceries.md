@@ -2,10 +2,8 @@
 
 - bananas
 - Daikon
-- Wet mozarella
 - Cheddar x2
 - Roast beef
-- Pepperoni
 - Bread
 - Meat for freezing
   - chicken thighs (both kinds)
@@ -25,7 +23,7 @@
 - powdered sugar
 - Parchment paper
 - N/A beer
-- vanilla yogurt
+- vanilla yogurt x2
 - salted and unsalted butter
 - frozen tropicl mix
 - frozen fries
@@ -35,10 +33,6 @@
 - Frozen shrimp/scallops
 - Poke salmon
 - Wakame
-
-## Pasta store
-
-- Pizza dough
 
 ## Spice store
 
