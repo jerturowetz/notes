@@ -1,21 +1,8 @@
 # Wishlist
 
-very short 2 prong ext for my bedroom
-very short 2 prong ext for behind hemnes (like 5ft max)
-8ft or so 3 prong ext for hert light
-
-
-kitchen spice area:
-VARIERA ?
-10"deep x 10" wide x4" max bins for spice cabinet top
-
-- Flat 3 prong white ext cable for waldo heart lamp
+- 8ft or so 3 prong ext for heart light
 - [Sterilite bins: 17L, 28Lx3, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
-
---
-
-- Can tire dual track for other closets
-- Whatever is in the amazon cart (pantry bins, non slip pads)
+- Whatever else is in the amazon cart (pantry bins, non slip pads)
 - Monitor arm
 - National treasure mug for Travis
 - Jam space upgrades:
@@ -26,9 +13,12 @@ VARIERA ?
 
 ## IKEA
 
+- [Small VARIERA for spice areax2](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+- [SAXBORGA box](https://www.ikea.com/ca/en/p/saxborga-storage-box-with-mirrored-lid-plastic-cork-80391882/)
+- [SAXBORGA trays](https://www.ikea.com/ca/en/p/saxborga-tray-set-of-2-cork-00391881/)
+- [other tray](https://www.ikea.com/ca/en/p/skogsviken-tray-black-90473486/)
 - [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
 - raouls IKEA stuff
-- Replacement lights for kitchen
 - SVALNÄS
   - [61cm shallow shelf]
   - [61cm deep shelf]
@@ -40,6 +30,8 @@ VARIERA ?
 
 ## Other
 
+- offset spatula
+- battery powered vacuum
 - nuts containers (2cups, 1 cup) the oxo mini tall
 - gift for James parents
 - gift for Bart and Danielle
