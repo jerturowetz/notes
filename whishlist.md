@@ -1,8 +1,8 @@
 # Wishlist
 
-- 8ft or so 3 prong ext for heart light
 - [Sterilite bins: 17L, 28Lx3, 66L](https://www.canadiantire.ca/en/pdp/sterilite-ultra-latch-tote-clear-1420953p.html#srp)
-- Whatever else is in the amazon cart (pantry bins, non slip pads)
+- 8ft or so 3 prong ext for heart light
+- Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen)
 - Monitor arm
 - National treasure mug for Travis
 - Jam space upgrades:
