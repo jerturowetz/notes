@@ -13,7 +13,7 @@
 
 ## IKEA
 
-- [Small VARIERA for spice areax2](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+- [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
 - [SAXBORGA box](https://www.ikea.com/ca/en/p/saxborga-storage-box-with-mirrored-lid-plastic-cork-80391882/)
 - [SAXBORGA trays](https://www.ikea.com/ca/en/p/saxborga-tray-set-of-2-cork-00391881/)
 - [other tray](https://www.ikea.com/ca/en/p/skogsviken-tray-black-90473486/)
@@ -30,7 +30,6 @@
 
 ## Other
 
-- offset spatula
 - battery powered vacuum
 - nuts containers (2cups, 1 cup) the oxo mini tall
 - gift for James parents
