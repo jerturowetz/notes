@@ -21,6 +21,8 @@
 - Mayo
 - Plain pasta sauce
 - Spaghetti
+- fine sugar
+- powdered sugar
 - Parchment paper
 - N/A beer
 - vanilla yogurt
