@@ -1,41 +1,12 @@
 # Groceries
 
-- syrop
-- pancake mix
-- bananas
-- blueberries
-- Daikon
-- Cheddar x2
-- Roast beef
-- Bread
-- Meat for freezing
-  - chicken thighs (both kinds)
-  - Pork butt
-  - whole chk for frying
-  - Ground beef
-  - shrimp?
-- Coconut water
-- Applesauce
-- Granola
+- sliced Roast beef
+- pork shoulder
 - paper towels
-- pam
-- Mayo
-- Plain pasta sauce
-- Spaghetti
-- fine sugar
-- powdered sugar
-- Parchment paper
-- N/A beer
-- vanilla yogurt x2
-- salted and unsalted butter
-- frozen tropicl mix
-- frozen fries
 
-## Fish store
+## Maison du Rotis
 
-- Frozen shrimp/scallops
-- Poke salmon
-- Wakame
+- skin on thighs
 
 ## Spice store
 
