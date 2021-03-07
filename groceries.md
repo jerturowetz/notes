@@ -1,6 +1,9 @@
 # Groceries
 
+- syrop
+- pancake mix
 - bananas
+- blueberries
 - Daikon
 - Cheddar x2
 - Roast beef
