@@ -12,6 +12,7 @@
 
 ## IKEA
 
+- Billy
 - Skubbs x2
 - [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
 - [SAXBORGA box](https://www.ikea.com/ca/en/p/saxborga-storage-box-with-mirrored-lid-plastic-cork-80391882/)
