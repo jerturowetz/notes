@@ -11,6 +11,15 @@
 
 - skin on thighs
 
+## Chinese grocery
+
+- Dumplings
+
+## Pharmacy
+
+- toothpaste
+- baby nightlne lotion
+
 ## Spice store
 
 - Garam masala
@@ -20,6 +29,3 @@
 - granulated garlic
 - onion glakes
 - tumeric
-
-
-dunplings
