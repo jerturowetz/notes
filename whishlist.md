@@ -20,6 +20,18 @@ baby nightlne lotion
 
 ## IKEA
 
+- Billy
+- Skubbs x2
+- [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+- [SAXBORGA box](https://www.ikea.com/ca/en/p/saxborga-storage-box-with-mirrored-lid-plastic-cork-80391882/)
+- [SAXBORGA trays](https://www.ikea.com/ca/en/p/saxborga-tray-set-of-2-cork-00391881/)
+- [other tray](https://www.ikea.com/ca/en/p/skogsviken-tray-black-90473486/)
+- [SMARRA for bedroom](https://www.ikea.com/ca/en/p/smarra-box-with-lid-natural-90348063/)
+- raoul:
+  - [OMLOPP 24" light x2](https://www.ikea.com/ca/en/p/omlopp-led-countertop-light-white-00430364/)
+  - [OMLOPP LED SPOTLIGHT x8](https://www.ikea.com/ca/en/p/omlopp-led-spotlight-white-60435721/)
+  - [Ansluta x2](https://www.ikea.com/ca/en/p/ansluta-led-driver-with-cord-white-90405845/)
+
 - SVALNÄS
   - [61cm shallow shelf]
   - [61cm deep shelf]
