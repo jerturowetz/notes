@@ -1,5 +1,6 @@
 # Groceries
 
+- bread
 - eggs
 - sliced yellow cheese
 - sliced Roast beef
