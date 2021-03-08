@@ -1,7 +1,6 @@
 # Wishlist
 
 - [Makita work light](https://www.amazon.ca/Makita-DML806-14-4-18V-Flashlight/dp/B010SV3PX4/)
-- [Knee pads](https://www.homedepot.ca/product/makita-light-duty-knee-pads/1000718162)
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
 - Monitor arm
 - National treasure mug for Travis
