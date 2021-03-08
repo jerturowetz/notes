@@ -4,6 +4,7 @@
 
 ## Kate
 
+- aesop purifying facial exfoliant paste
 - additional misters
 - fancy bath stuff (surf soak)
 - [Porcelain bottle vase](https://foekjefleur.com/product/porcelain-bottle-vase-1-dark-blue/)
