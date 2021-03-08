@@ -1,8 +1,11 @@
 # Groceries
 
+- eggs
+- sliced yellow cheese
 - sliced Roast beef
 - pork shoulder
 - paper towels
+- regular olive oil
 
 ## Maison du Rotis
 
@@ -17,3 +20,6 @@
 - granulated garlic
 - onion glakes
 - tumeric
+
+
+dunplings
