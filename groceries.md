@@ -19,12 +19,6 @@
 
 - Dumplings
 
-## Pharmacy
-
-- toothpaste
-- baby nighttime lotion
-- tempra
-
 ## Spice store
 
 - Garam masala
