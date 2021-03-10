@@ -1,5 +1,7 @@
 # Groceries
 
+- strawberries
+- ketchup
 - bread
 - eggs
 - sliced yellow cheese
@@ -19,7 +21,7 @@
 ## Pharmacy
 
 - toothpaste
-- baby nightlne lotion
+- baby nighttime lotion
 
 ## Spice store
 
