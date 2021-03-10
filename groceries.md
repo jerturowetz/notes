@@ -1,5 +1,6 @@
 # Groceries
 
+- frozen edamr
 - strawberries
 - ketchup
 - bread
@@ -22,6 +23,7 @@
 
 - toothpaste
 - baby nighttime lotion
+- tempra
 
 ## Spice store
 
