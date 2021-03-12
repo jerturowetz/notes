@@ -1,5 +1,6 @@
 # Wishlist
 
+- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
 - [Makita work light](https://www.amazon.ca/Makita-DML806-14-4-18V-Flashlight/dp/B010SV3PX4/)
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
 - Monitor arm
@@ -12,9 +13,13 @@
 
 ## IKEA
 
-- [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+- [ANSLUTA power supply](https://www.ikea.com/ca/en/p/ansluta-power-supply-cord-30121411/)
+- [ANSLUTA Intermediate connection](https://www.ikea.com/ca/en/p/ansluta-intermediate-connection-cord-60119925/)
+- [TRÅDFRI 30w x2](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-60342661/)
 - [OMLOPP 18" light x2](https://www.ikea.com/ca/en/p/omlopp-led-countertop-light-white-40430362/)
-- [Ansluta x2](https://www.ikea.com/ca/en/p/ansluta-led-driver-with-cord-white-90405845/)
+- [BERGENES phone holder](https://www.ikea.com/ca/en/p/bergenes-holder-for-mobile-phone-tablet-bamboo-10457999/)
+- [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
+- [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
 
 ## Simons
 
@@ -24,7 +29,6 @@
 ## Other
 
 - battery powered vacuum
-- nuts containers (2cups, 1 cup) the oxo mini tall
 - gift for James parents
 - gift for Bart and Danielle
 - leapord print duct tape

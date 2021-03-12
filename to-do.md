@@ -2,10 +2,6 @@
 
 - sell sander
 - sell dell laptop
-- Wlaod time
-  - jeans
-  - dryer
-  - groceries
 - Downgrade last pass
 - front of house bin for recycling
 - Backyard toy storage
@@ -14,11 +10,8 @@
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - Electricity install outside
 - Apholster chair
-- Paint rooms
 - Dryer apt (max 30" wide x 24" deep)
 - IKEA battery drop off
-- [Build a shoe rack ?](https://www.youtube.com/watch?v=EWs8dlkZrtQ)
-- Fix lazy susan
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Last thank you cards
 - Pick up drums chez Mike M
