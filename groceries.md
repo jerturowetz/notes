@@ -1,12 +1,24 @@
 # Groceries
 
-- frozen edame
 - no 2 coffee filters
+- soy sauce
+- bahn mi bread
+
+--
+
+- 1% milk
+
+--
+
+- method laundry refill
+- hoisin sauce
+- pickles
+- honey
+- cookies
+- Perrier
 - diet gingerale
 - n/a beer
-- 1% milk
-- method laundry refill
-- cookies
+- frozen edame
 
 ## Maison du Rotis
 
