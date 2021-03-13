@@ -5,6 +5,8 @@
 - diet gingerale
 - n/a beer
 - 1% milk
+- method laundry refill
+- cookies
 
 ## Maison du Rotis
 
