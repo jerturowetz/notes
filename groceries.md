@@ -1,6 +1,10 @@
 # Groceries
 
-- frozen edamr
+- frozen edame
+- no 2 coffee filters
+- diet gingerale
+- n/a beer
+- 1% milk
 
 ## Maison du Rotis
 
@@ -9,7 +13,3 @@
 ## Chinese grocery
 
 - Dumplings
-
-## Spice store
-
-- Spices
