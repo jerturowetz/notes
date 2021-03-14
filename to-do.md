@@ -1,8 +1,6 @@
 # Jeremy's To-Do List
 
-- sell sander
 - sell dell laptop
-- Downgrade last pass
 - front of house bin for recycling
 - Backyard toy storage
 - Grab logitech universal adapter from work

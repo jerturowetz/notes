@@ -1,5 +1,6 @@
 # Groceries
 
+- banane
 - method laundry refill
 - pickles
 - honey
