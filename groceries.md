@@ -1,10 +1,5 @@
 # Groceries
 
-- no 2 coffee filters
-- 1% milk
-
---
-
 - method laundry refill
 - pickles
 - honey
