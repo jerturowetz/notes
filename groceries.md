@@ -1,17 +1,11 @@
 # Groceries
 
 - no 2 coffee filters
-- soy sauce
-- bahn mi bread
-
---
-
 - 1% milk
 
 --
 
 - method laundry refill
-- hoisin sauce
 - pickles
 - honey
 - cookies
