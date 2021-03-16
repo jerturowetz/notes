@@ -7,6 +7,10 @@ robot vaccum
 
 small battery powered lamp for bathroom
 
+lights for waldos closet
+chalk marker and bck stickers for waldos closet
+shelves for office closet (3 rails) 70" max, 16" deep is fine
+
 
 
 - [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
