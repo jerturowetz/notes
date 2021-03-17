@@ -9,6 +9,7 @@
 - diet gingerale
 - n/a beer
 - frozen edame
+- Office snacks
 
 ## Maison du Rotis
 
