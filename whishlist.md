@@ -9,18 +9,28 @@
 - Monitor arm
 - National treasure mug for Travis
 - shelves for office closet (3 rails) 70" max, 16" deep is fine
+- [Noma work light](https://www.canadiantire.ca/en/pdp/noma-500w-portable-halogen-work-lightgen-floodlight-0524080p.html#srp)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
 
+## Trip gear asap
+
+- [Car camping light](https://www.canadiantire.ca/en/pdp/motomaster-100-lumen-2w-cob-worklight-0379919p.html#srp)
+- Tent
+- Sleeping pads for the4 whole family
+- Sleeping bags for the whole family
+
 ## Honme depot
 
 - [PACKOUT Small Parts Organizer x2](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- Packout M toolbox
+- Packout tote?
+- Packout M toolbox?
 - Packout M parts organizer
 - key rings & key id tab
+- [Work light]
 
 ## IKEA
 
