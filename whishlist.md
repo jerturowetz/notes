@@ -1,30 +1,26 @@
 # Wishlist
 
-- [12x18 frame x2](https://www.amazon.ca/MCS-Industries-63789-Woodgrain-Gallery/dp/B08179KW34/)
-- 8x10 frame for racoon
-
-key rings & key id tab
-packout to replace ridgid (can use ridgid bin for pain?)
-vaccum
-robot vaccum
-small battery powered lamp for bathroom
-
-lights for waldos closet
-chalk marker and bck stickers for waldos closet
-shelves for office closet (3 rails) 70" max, 16" deep is fine
-
-
-
-- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [Makita work light](https://www.amazon.ca/Makita-DML806-14-4-18V-Flashlight/dp/B010SV3PX4/)
+- 12x18 thin white frame
+- chalk marker and bck stickers for waldos closet
+- small battery powered lamp for bathroom (ikea?)
+- lights for waldos closet
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
+- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Monitor arm
 - National treasure mug for Travis
+- shelves for office closet (3 rails) 70" max, 16" deep is fine
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
+
+## Honme depot
+
+- [PACKOUT Small Parts Organizer x2](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
+- Packout M toolbox
+- Packout M parts organizer
+- key rings & key id tab
 
 ## IKEA
 
@@ -44,12 +40,12 @@ shelves for office closet (3 rails) 70" max, 16" deep is fine
 ## Other
 
 - battery powered vacuum
+- Roomba
 - gift for James parents
 - gift for Bart and Danielle
 - leapord print duct tape
 - brita
 - Refrigerator Toe Grille
-- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - 2+ madesmart bins
 - rad dad shirt for marc
 - i want my hat back
@@ -57,7 +53,6 @@ shelves for office closet (3 rails) 70" max, 16" deep is fine
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Waterhog green tree mat
 - Fire extinguisher
-- Roomba
 - Front bike rack & panniers
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
