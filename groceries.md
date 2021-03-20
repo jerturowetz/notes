@@ -1,15 +1,27 @@
 # Groceries
 
-- blueberries
-- strawberries
+- baby carrots
+- green leaf
 - bananas
-- apples
 - peaches
+- pears
+- red peppers
+- broccoli
+- ginger
+- garlic
+- carrots
+- emmental
+- wet & dry mozerella
 - bread
 - bagels
+- burger buns
 - Office snacks (cliff bars)
 - method laundry refill
+- rice vinegar
+- olive oil
 - pickles
+- rasin bran and/or cheerios
+- coffee
 - honey
 - Jam
 - cookies
@@ -18,8 +30,22 @@
 - diet gingerale
 - n/a beer
 - eggs
-- milk (both)
+- bacon
+- yogourt
+- cereal bins (1 tester)
 - frozen edame
+- frozen fries
+
+## Pates fraiche
+
+Pizza dough
+pastas
+pasta sauce
+basil
+
+## Fish store
+
+- salmonx2
 
 ## Maison du Rotis
 
