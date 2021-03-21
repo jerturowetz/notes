@@ -1,55 +1,27 @@
 # Groceries
 
-- baby carrots
-- green leaf
-- bananas
+- meat for meals
 - peaches
-- pears
-- red peppers
-- broccoli
-- ginger
-- garlic
-- carrots
-- emmental
-- wet & dry mozerella
-- bread
-- bagels
-- burger buns
 - Office snacks (cliff bars)
-- method laundry refill
-- rice vinegar
-- olive oil
-- pickles
-- rasin bran and/or cheerios
-- coffee
-- honey
-- Jam
-- cookies
 - kit kats
-- Perrier
-- diet gingerale
-- n/a beer
-- eggs
-- bacon
-- yogourt
-- cereal bins (1 tester)
-- frozen edame
-- frozen fries
+- oxo cereal container x2
 
 ## Pates fraiche
 
-Pizza dough
-pastas
-pasta sauce
-basil
+- Pizza dough
+- pastas
+- pasta sauce
+- basil
 
 ## Fish store
 
-- salmonx2
+- salmon for poke
+- smoked salmon
 
 ## Maison du Rotis
 
 - skin on thighs
+- fancy bacon
 
 ## Chinese grocery
 
