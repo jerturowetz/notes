@@ -1,35 +1,27 @@
 # Wishlist
 
-brown packing tape
-key ringsp
-packout to replace ridgid (can use ridgid bin for pain?)
-vaccum
-robot vaccum
-
-small battery powered lamp for bathroom
-
-lights for waldos closet
-chalk marker and bck stickers for waldos closet
-shelves for office closet (3 rails) 70" max, 16" deep is fine
-
-
-ikea front mat
-
-
-
-- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [Makita work light](https://www.amazon.ca/Makita-DML806-14-4-18V-Flashlight/dp/B010SV3PX4/)
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
-- Monitor arm
-- National treasure mug for Travis
+
+- small battery powered lamp for bathroom
+- lights for waldos closet
+
+- shelves for office closet (3 rails) 70" max, 16" deep is fine
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
 
+## Home depot
+
+- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
+- [Packout tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
+- [Key rings](https://www.homedepot.ca/product/the-hillman-group-1-inch-split-key-rings/1000167182)
+
 ## IKEA
 
+- [SKARPÖ](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-white-70234185/)
 - [ANSLUTA power supply](https://www.ikea.com/ca/en/p/ansluta-power-supply-cord-30121411/)
 - [ANSLUTA Intermediate connection](https://www.ikea.com/ca/en/p/ansluta-intermediate-connection-cord-60119925/)
 - [TRÅDFRI 30w x2](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-60342661/)
@@ -37,11 +29,7 @@ ikea front mat
 - [BERGENES phone holder](https://www.ikea.com/ca/en/p/bergenes-holder-for-mobile-phone-tablet-bamboo-10457999/)
 - [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
 - [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
-
-
-
-
-
+- [Door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
 
 ## Simons
 
@@ -50,6 +38,9 @@ ikea front mat
 
 ## Other
 
+- Monitor arm
+- National treasure mug for Travis
+- Roomba
 - battery powered vacuum
 - gift for James parents
 - gift for Bart and Danielle
@@ -64,7 +55,6 @@ ikea front mat
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Waterhog green tree mat
 - Fire extinguisher
-- Roomba
 - Front bike rack & panniers
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
