@@ -1,6 +1,5 @@
 # Groceries
 
-- meat for meals
 - peaches
 - Office snacks (cliff bars)
 - kit kats
@@ -26,3 +25,4 @@
 ## Chinese grocery
 
 - Dumplings
+- Noodles

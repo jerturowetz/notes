@@ -38,6 +38,11 @@ ikea front mat
 - [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
 - [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
 
+
+
+
+
+
 ## Simons
 
 - maison simons diffusers
@@ -55,7 +60,7 @@ ikea front mat
 - 2+ madesmart bins
 - rad dad shirt for marc
 - i want my hat back
-- containers for cereal (3), pancake mix & a better container for powdered sugar
+- containers for pancake mix & a better container for powdered sugar
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Waterhog green tree mat
 - Fire extinguisher
