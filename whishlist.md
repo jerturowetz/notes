@@ -1,9 +1,6 @@
 # Wishlist
 
 - shelves for office closet (3 rails) 70" max, 16" deep is fine
-
-drawer is 18 1/2 x 91/4"
-
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
@@ -13,9 +10,8 @@ drawer is 18 1/2 x 91/4"
 
 ## Home depot
 
-- [right angled plug](https://www.homedepot.ca/product/leviton-easy-wire-angle-plug-white/1000106886#)
 - [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [PACKOUTPACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
 - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
 - [Key rings](https://www.homedepot.ca/product/the-hillman-group-1-inch-split-key-rings/1000167182)
 
