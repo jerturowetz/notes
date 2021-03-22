@@ -1,11 +1,10 @@
 # Wishlist
 
-- Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
-
-- small battery powered lamp for bathroom
-- lights for waldos closet
-
 - shelves for office closet (3 rails) 70" max, 16" deep is fine
+
+drawer is 18 1/2 x 91/4"
+
+- Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
@@ -14,22 +13,32 @@
 
 ## Home depot
 
+- [right angled plug](https://www.homedepot.ca/product/leviton-easy-wire-angle-plug-white/1000106886#)
 - [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [Packout tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+- [PACKOUTPACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
 - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
 - [Key rings](https://www.homedepot.ca/product/the-hillman-group-1-inch-split-key-rings/1000167182)
 
 ## IKEA
 
-- [SKARPÖ](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-white-70234185/)
-- [ANSLUTA power supply](https://www.ikea.com/ca/en/p/ansluta-power-supply-cord-30121411/)
-- [ANSLUTA Intermediate connection](https://www.ikea.com/ca/en/p/ansluta-intermediate-connection-cord-60119925/)
-- [TRÅDFRI 30w x2](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-60342661/)
-- [OMLOPP 18" light x2](https://www.ikea.com/ca/en/p/omlopp-led-countertop-light-white-40430362/)
-- [BERGENES phone holder](https://www.ikea.com/ca/en/p/bergenes-holder-for-mobile-phone-tablet-bamboo-10457999/)
-- [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
-- [Small VARIERA for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
-- [Door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
+- Kitchen accessories:
+  - [VARIERA plastic bin x3](https://www.ikea.com/ca/en/p/variera-box-green-10471047/)
+  - [VARIERA shelf rack for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+  - [VARIERA small wooden box](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+- Home organization:
+  - [BERGENES phone holder](https://www.ikea.com/ca/en/p/bergenes-holder-for-mobile-phone-tablet-bamboo-10457999/)
+  - [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
+- Rugs:
+  - [Door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
+- Lighting:
+  - [ANSLUTA power cable](https://www.ikea.com/ca/en/p/ansluta-power-supply-cord-30121411/)
+  - [TRÅDFRI 10w](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-10356189/)
+  - [ANSLUTA Intermediate connection](https://www.ikea.com/ca/en/p/ansluta-intermediate-connection-cord-60119925/)
+  - [TRÅDFRI 30w](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-60342661/)
+  - [OMLOPP 18" light x3](https://www.ikea.com/ca/en/p/omlopp-led-countertop-light-white-40430362/)
+  - [ANSLUTA power for spots](https://www.ikea.com/ca/en/p/ansluta-led-driver-with-cord-white-90405845/)
+- Floor:
+  - [00-03 SKARPÖ x2](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-white-70234185/)
 
 ## Simons
 
@@ -38,6 +47,8 @@
 
 ## Other
 
+- small battery powered lamp for bathroom
+- lights for waldos closet
 - Monitor arm
 - National treasure mug for Travis
 - Roomba
