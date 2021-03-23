@@ -1,7 +1,9 @@
 # Groceries
 
+- Peperroni
 - peaches
 - Office snacks (cliff bars)
+- corn starch
 - oxo cereal container x2
 - charcoal
 
