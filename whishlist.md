@@ -14,10 +14,6 @@
 - [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
 - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
 
-## IKEA
-
-- [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
-
 ## Simons
 
 - maison simons diffusers
@@ -25,6 +21,7 @@
 
 ## Other
 
+- [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - small battery powered lamp for bathroom
 - lights for waldos closet
 - Monitor arm
