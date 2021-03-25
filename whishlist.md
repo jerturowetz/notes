@@ -13,28 +13,13 @@
 - [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
 - [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
 - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
-- [Key rings](https://www.homedepot.ca/product/the-hillman-group-1-inch-split-key-rings/1000167182)
 
 ## IKEA
 
-- Kitchen accessories:
-  - [VARIERA plastic bin x3](https://www.ikea.com/ca/en/p/variera-box-green-10471047/)
-  - [VARIERA shelf rack for spice area](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
-  - [VARIERA small wooden box](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
-- Home organization:
-  - [BERGENES phone holder](https://www.ikea.com/ca/en/p/bergenes-holder-for-mobile-phone-tablet-bamboo-10457999/)
-  - [BJÄRNUM hooks x3](https://www.ikea.com/ca/en/p/bjaernum-hook-aluminum-40152591/)
-- Rugs:
-  - [Door mat](https://www.ikea.com/ca/en/p/trampa-door-mat-natural-20052187/)
-- Lighting:
-  - [ANSLUTA power cable](https://www.ikea.com/ca/en/p/ansluta-power-supply-cord-30121411/)
-  - [TRÅDFRI 10w](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-10356189/)
-  - [ANSLUTA Intermediate connection](https://www.ikea.com/ca/en/p/ansluta-intermediate-connection-cord-60119925/)
-  - [TRÅDFRI 30w](https://www.ikea.com/ca/en/p/tradfri-driver-for-wireless-control-gray-60342661/)
-  - [OMLOPP 18" light x3](https://www.ikea.com/ca/en/p/omlopp-led-countertop-light-white-40430362/)
-  - [ANSLUTA power for spots](https://www.ikea.com/ca/en/p/ansluta-led-driver-with-cord-white-90405845/)
 - Floor:
   - [00-03 SKARPÖ x2](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-white-70234185/)
+  
+  - 10-50 coat hook for hayat
 
 ## Simons
 

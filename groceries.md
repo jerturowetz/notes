@@ -2,8 +2,6 @@
 
 - peaches
 - Office snacks (cliff bars)
-- regular tinfoil
-- kit kats
 - oxo cereal container x2
 - charcoal
 
