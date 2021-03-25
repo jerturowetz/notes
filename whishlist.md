@@ -16,10 +16,7 @@
 
 ## IKEA
 
-- Floor:
-  - [00-03 SKARPÖ x2](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-white-70234185/)
-  
-  - 10-50 coat hook for hayat
+- [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 
 ## Simons
 
