@@ -1,5 +1,10 @@
 # Wishlist
 
+Strap lock for stroller
+Strap lock for bicycle
+
+
+
 - shelves for office closet (3 rails) 70" max, 16" deep is fine
 - Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
 - Jam space upgrades:
