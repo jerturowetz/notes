@@ -1,8 +1,9 @@
 # Wishlist
 
-Strap lock for stroller
-Strap lock for bicycle
+- Strap lock for stroller
+- Strap lock for bicycle
 
+- [Makita battery poweres circular saw](https://www.homedepot.ca/product/makita-7-25-inch-dual-battery-36v-circular-saw-tool-only-/1000792885)
 
 
 - shelves for office closet (3 rails) 70" max, 16" deep is fine
