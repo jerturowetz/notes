@@ -1,7 +1,12 @@
 # Groceries
 
+- bread
 - Peperroni
 - peaches
+- bananas
+- oranges
+- blueberries/strawberries
+- cheerios
 - Office snacks (cliff bars)
 - corn starch
 - oxo cereal container x2
@@ -28,3 +33,10 @@
 
 - Dumplings
 - Noodles
+
+## Spices
+
+- onion flakes
+- garlic powder
+- cardamom
+- turkish oregano
