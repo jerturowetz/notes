@@ -33,4 +33,5 @@
 
 - onion flakes
 - cardamom
-- turkish oregano
+- fennel seeds
+- Szechuan Peppercorns
