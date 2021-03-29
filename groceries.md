@@ -1,11 +1,11 @@
 # Groceries
 
-- bread
-- Peperroni
 - peaches
-- bananas
 - oranges
 - blueberries/strawberries
+- fancy bacon
+- sandwich meats
+- Peperroni
 - cheerios
 - Office snacks (cliff bars)
 - corn starch
@@ -15,19 +15,14 @@
 ## Pates fraiche
 
 - Pizza dough
-- pastas
+- fresh pasta
 - pasta sauce
 - basil
 
 ## Fish store
 
 - salmon for poke
-- smoked salmon
-
-## Maison du Rotis
-
-- skin on thighs
-- fancy bacon
+- scallops
 
 ## Chinese grocery
 
@@ -37,6 +32,5 @@
 ## Spices
 
 - onion flakes
-- garlic powder
 - cardamom
 - turkish oregano

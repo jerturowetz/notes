@@ -1,5 +1,12 @@
 # Wishlist
 
+shop vac
+small hose nozzle
+bucket
+brabantia
+slightly less small funnel
+
+
 - Strap lock for stroller
 - Strap lock for bicycle
 
