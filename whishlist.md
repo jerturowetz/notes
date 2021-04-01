@@ -1,29 +1,20 @@
 # Wishlist
 
-laser level
-
-shop vac
-brabantia
-slightly less small funnel
-
-
-- Strap lock for stroller
-- Strap lock for bicycle
-
-half sheet rack
-PD powerbank for google pixel 4
-colored chalk
+- shelves for office closet (3 rails) 70" max, 16" deep is fine
+- laser level
 
 - [Makita battery poweres circular saw](https://www.homedepot.ca/product/makita-7-25-inch-dual-battery-36v-circular-saw-tool-only-/1000792885)
-
-
-- shelves for office closet (3 rails) 70" max, 16" deep is fine
-- Whatever else is in the amazon cart (pantry bins, non slip pads, posca pen, power strip)
+- brabantia
+- Pantry bins for cans
+- slightly less small funnel
+- Stroller wire lock
+- PD powerbank for google pixel 4
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
+  - Another amp stand?
 
 ## Home depot
 
@@ -44,6 +35,8 @@ colored chalk
 - Monitor arm
 - National treasure mug for Travis
 - Roomba
+- colored chalk
+- shop vac (milwaukee, makita)
 - battery powered vacuum
 - gift for James parents
 - gift for Bart and Danielle
