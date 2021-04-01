@@ -1,8 +1,8 @@
 # Wishlist
 
+laser level
+
 shop vac
-small hose nozzle
-bucket
 brabantia
 slightly less small funnel
 
@@ -10,8 +10,8 @@ slightly less small funnel
 - Strap lock for stroller
 - Strap lock for bicycle
 
+half sheet rack
 PD powerbank for google pixel 4
-small shop vac?
 colored chalk
 
 - [Makita battery poweres circular saw](https://www.homedepot.ca/product/makita-7-25-inch-dual-battery-36v-circular-saw-tool-only-/1000792885)
