@@ -1,5 +1,6 @@
 # Wishlist
 
+- Pillows
 - Circular saw(s) ?
 - Brabantia
 - Pantry bins for cans
