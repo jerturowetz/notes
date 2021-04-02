@@ -1,8 +1,15 @@
 # Wishlist
 
+- laser level stand
+- work lamp
+- diaper genie refills
+- Brabantia
+- house smeller nicers
+
+--
+
 - Pillows
 - Circular saw(s) ?
-- Brabantia
 - Pantry bins for cans
 - slightly less small funnel
 - Stroller wire lock

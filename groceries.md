@@ -1,36 +1,18 @@
 # Groceries
 
-- peaches, pears, 3 apples
-- oranges
-- mini carrots
 - rasperries, blackberries
-- Basil
-- fancy bacon
+- arugula
+- lemon
 - Dry mozarella
-- Cheddar
-- Emmental
-- Peperroni
-- english muffins and/or fancy Kim bread
-- Mayo
-- corn starch
-- N/A beer
-- Diet gingerqale
-- Vanilla yogurt
-- 1% milk
-- Ice cream and/or Popsicles
-
-## Pates fraiche
-
-- Pizza dough
-- Cheese angnilotti for 3
-- Scicilian or whatever pasta sauce
-
-## Fish store
-
-- salmon for poke
+- good tomatoes
+- bavette
+- pesto
 
 --
 
+- bananas
+- peaches
+- Basil
 - Daikon
 - bocconcinni or Moz buffala
 - sandwich meats
@@ -41,17 +23,25 @@
 - barkeepers friend
 - compost bags
 - toilet paper
-- Pork butt
+- Poke butt
+- whatever meat
+- Spaghettinni or thin noodle
+- Rotini
+- corn starch
 - Deli mustard
-- pesto
 - kd
 - basmati
 - cheerios
 - oxo cereal container x2
 - charcoal
+- N/A beer
+- Diet gingerqale
+- Popsicles
 
 ## Fish shop
 
+- salmon for poke
+- wakame
 - scallops
 
 ## Chinese grocery
