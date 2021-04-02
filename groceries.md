@@ -4,16 +4,36 @@
 - oranges
 - mini carrots
 - rasperries, blackberries
-- Daikon
 - Basil
 - fancy bacon
-- bocconcinni or Moz buffala
 - Dry mozarella
 - Cheddar
 - Emmental
-- sandwich meats
 - Peperroni
-- english muffins
+- english muffins and/or fancy Kim bread
+- Mayo
+- corn starch
+- N/A beer
+- Diet gingerqale
+- Vanilla yogurt
+- 1% milk
+- Ice cream and/or Popsicles
+
+## Pates fraiche
+
+- Pizza dough
+- Cheese angnilotti for 3
+- Scicilian or whatever pasta sauce
+
+## Fish store
+
+- salmon for poke
+
+--
+
+- Daikon
+- bocconcinni or Moz buffala
+- sandwich meats
 - rolls
 - Organic granola
 - Coconut water
@@ -21,43 +41,17 @@
 - barkeepers friend
 - compost bags
 - toilet paper
-
---
-
 - Pork butt
-
---
-
-- Mayo
 - Deli mustard
 - pesto
 - kd
 - basmati
 - cheerios
-- corn starch
 - oxo cereal container x2
 - charcoal
-- N/A beer
-- Diet gingerqale
 
---
+## Fish shop
 
-- Vanilla yogurt
-- 1% milk
-- Ice cream
-- Popsicles
-
-## Pates fraiche
-
-- Pizza dough
-- fresh pasta
-- pasta sauce for pizza
-- Other pasta sauce
-- basil
-
-## Fish store
-
-- salmon for poke
 - scallops
 
 ## Chinese grocery
