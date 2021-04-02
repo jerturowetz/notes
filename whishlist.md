@@ -1,14 +1,11 @@
 # Wishlist
 
-- shelves for office closet (3 rails) 70" max, 16" deep is fine
-- laser level
-
-- [Makita battery poweres circular saw](https://www.homedepot.ca/product/makita-7-25-inch-dual-battery-36v-circular-saw-tool-only-/1000792885)
-- brabantia
+- Circular saw(s) ?
+- Brabantia
 - Pantry bins for cans
 - slightly less small funnel
 - Stroller wire lock
-- PD powerbank for google pixel 4
+- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
@@ -30,6 +27,7 @@
 ## Other
 
 - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+- PD powerbank for google pixel 4
 - small battery powered lamp for bathroom
 - lights for waldos closet
 - Monitor arm
@@ -43,7 +41,6 @@
 - leapord print duct tape
 - brita
 - Refrigerator Toe Grille
-- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - 2+ madesmart bins
 - rad dad shirt for marc
 - i want my hat back
