@@ -9,35 +9,21 @@ Sun dinner: Pork, carrots, muffins, brussel sprouts, other meat?
 
 ## Val mont
 
-- strawberries, rasperries, blackberries
-- bananas
 - peaches
 - Basil
-- red pepper x2
-- snother side for dinner (brussel?)
-- arugula
-- lemon
-- good tomatoes
 - Daikon
-- sandwich meats/entree meats
-- eggs
-- baguette
-- apple cioder vinaigar
-- crackers, cheese
 - Corn starch
-- pesto
 - N/A beer
 - Diet gingerqale
 
 ## Maison du Roti
 
-- steaks
-- Other meat for sunday dinner
 - Pork butt
 - whatever meat for the week
 
 --
 
+- coffee
 - sliced yellow cheese
 - rolls
 - Organic granola
