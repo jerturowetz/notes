@@ -1,18 +1,17 @@
 # Wishlist
 
-- laser level stand
-- work lamp
+- Circular saw
+- combination square
 - diaper genie refills
 - Brabantia
-- house smeller nicers
-
---
-
-- Pillows
-- Circular saw(s) ?
+- spatula
+- glass bowls
+- trowel kit
+- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Pantry bins for cans
 - slightly less small funnel
-- Stroller wire lock
+- Stroller lock
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
@@ -29,12 +28,15 @@
 
 ## Simons
 
-- maison simons diffusers
+- Maison simons diffusers
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
 
 ## Other
 
 - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+- VARIERA deep metal shelf divider x2
+- mini food processor
+- FELCO 4 One-hand pruning shear
 - PD powerbank for google pixel 4
 - small battery powered lamp for bathroom
 - lights for waldos closet
@@ -46,7 +48,6 @@
 - battery powered vacuum
 - gift for James parents
 - gift for Bart and Danielle
-- leapord print duct tape
 - brita
 - Refrigerator Toe Grille
 - 2+ madesmart bins
@@ -60,12 +61,11 @@
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
-- Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
 - Crate & Barrel:
+  - replacement plate
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
@@ -80,27 +80,6 @@
   - Gulfer shirt (just drive by the Jeean talon market)
 
 ## Music gear
-
-### Mics
-
-- Audio Technica 4040 (Room)
-- AEA N8 (room)
-- Shure Beta 98AD (snare bottom - frees up a 57)
-- Angled '57
-- Electro-Voice RE20 (guitar)
-- Sennheiser e906 (guitar)
-- AKG D112
-
-### DIs
-
-- Acoustic guitar DI
-- Radial Key Largo
-- JDI stereo (for active bass)
-- JDV stereo (for passive bass)
-- Palmer PDI-09 for guitar DI (after FX) x2
-- Radial ProAV1 or Whirlwind pcDI
-- Radial JISO for running BAL into iPhone
-- Some guitar DI for re-amp
 
 ### Crashes
 
@@ -118,6 +97,27 @@
 - 24" K Light Ride
 - 22" K dark medium ride
 - 22" A Medium Ride
+
+### DIs
+
+- Acoustic guitar DI
+- Radial Key Largo
+- JDI stereo (for active bass)
+- JDV stereo (for passive bass)
+- Palmer PDI-09 for guitar DI (after FX) x2
+- Radial ProAV1 or Whirlwind pcDI
+- Radial JISO for running BAL into iPhone
+- Some guitar DI for re-amp
+
+### Mics
+
+- Audio Technica 4040 (Room)
+- AEA N8 (room)
+- Shure Beta 98AD (snare bottom - frees up a 57)
+- Angled '57
+- Electro-Voice RE20 (guitar)
+- Sennheiser e906 (guitar)
+- AKG D112
 
 ### Various & workbench stuff
 

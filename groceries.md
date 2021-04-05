@@ -1,29 +1,5 @@
 # Groceries
 
-## Meal Plan
-
-Sat lunch: omnivore
-Sat dinner: Steak, bok choy, baguesste, red peppers
-Sun lunch: very light?
-Sun dinner: Pork, carrots, muffins, brussel sprouts, other meat?
-
-## Val mont
-
-- peaches
-- Basil
-- Daikon
-- Corn starch
-- N/A beer
-- Diet gingerqale
-
-## Maison du Roti
-
-- Pork butt
-- whatever meat for the week
-
---
-
-- coffee
 - sliced yellow cheese
 - rolls
 - Organic granola
@@ -31,15 +7,26 @@ Sun dinner: Pork, carrots, muffins, brussel sprouts, other meat?
 - Office snacks (cliff bars)
 - barkeepers friend
 - compost bags
-- toilet paper
 - Spaghettinni or thin noodle
 - Deli mustard
 - kd
 - basmati
+- Pork butt
+- apple cider vin
+- peaches
+- Daikon
+- Corn starch
+- N/A beer
+- Diet gingerqale
 - cheerios
 - oxo cereal container x2
 - charcoal
 - Popsicles
+
+## Maison du Roti
+
+- Short ribs?
+- whatever meat for the week
 
 ## Fish shop
 
