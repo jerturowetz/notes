@@ -1,5 +1,11 @@
 # Jeremy's To-Do List
 
+- Baby plan to do:
+  - pack bag
+  - keys to Rara
+  - house tours
+  - carseat/stroller walkthrough
+  - give daycare photos and names of our people
 - addictive drumming 2 for yamin
 - sell dell laptop
 - front of house bin for recycling
