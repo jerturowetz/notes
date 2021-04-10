@@ -1,7 +1,10 @@
 # Groceries
 
-- peaches
+- peaches, plums, apples
+- strawberries, blueberries
 - daikon
+- baby carrots
+- cheddar
 - Pork butt
 - barkeepers friend
 - Fiber safe bleach
