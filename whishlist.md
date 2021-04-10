@@ -1,5 +1,10 @@
 # Wishlist
 
+- anopther ikea phone holder
+- 6 1/2" circ saw
+- build saw guide
+- eero repeater
+- sonos onme
 - drum skins (Remo Controlled Sounds)
 - shelves for office c'oset (3 16" moints / 34.5-40" wide)
 - Circular saw

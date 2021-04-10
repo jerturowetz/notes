@@ -1,10 +1,14 @@
 # Jeremy's To-Do List
 
+- Unito laptop stand #2
+- Baby plan to do:
+  - keys to Rara
+  - house tours
+  - carseat/stroller walkthrough
 - addictive drumming 2 for yamin
 - sell dell laptop
 - front of house bin for recycling
 - Backyard toy storage
-- Grab logitech universal adapter from work
 - make the house smell good
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - Electricity install outside
