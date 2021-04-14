@@ -1,17 +1,12 @@
 # Groceries
 
 - Salmon
-- peaches, plums, apples, pears
+- peaches, plums
 - strawberries, blueberries
-- daikon
-- baby carrots
-- green leaf
-- green sides
-- carrots
+- big carrots
 - Sandwich meat
 - Fancy bacon
 - emmental
-- cheddar
 - Pork butt
 - Other meats?? (think chicken)
 - barkeepers friend
