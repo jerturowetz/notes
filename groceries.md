@@ -1,5 +1,13 @@
 # Groceries
 
+- brocollini
+- chk thighs with skin
+- sake
+- mirin
+- pizza sauce
+- moz
+- bacon/peperroni
+
 - Salmon
 - peaches, plums
 - strawberries, blueberries
