@@ -1,32 +1,28 @@
 # Groceries
 
-- Vanilla Greek yoghurt
-- Number two coffee filters
-- peaches, plums
-- strawberries
 - brocollini
-- chk thighs with skin
-- sake
-- mirin
-- pizza sauce
-- moz
-- bacon/peperroni
-
 - Salmon
 - peaches, plums
 - strawberries, blueberries
 - big carrots
+- dry mozerella
 - Sandwich meat
 - Fancy bacon
+- peperroni
 - emmental
 - Pork butt
+- chk thighs with skin
 - Other meats?? (think chicken)
 - barkeepers friend
 - Fiber safe bleach
 - apple cider vin
 - Corn starch
+- #2 coffee filters
 - mayo
+- pizza sauce
+
 - pickles
+- Mirin
 - sticky rice
 - bbq sauce
 - ketchup
@@ -37,6 +33,10 @@
 - N/A beer
 - oxo cereal container?
 - Popsicles
+
+## SAQ
+
+- Sake
 
 ## Maison du Roti
 
