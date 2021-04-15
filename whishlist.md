@@ -1,5 +1,7 @@
 # Wishlist
 
+- bike front rack
+- chalk
 - anopther ikea phone holder
 - 6 1/2" circ saw
 - build saw guide
