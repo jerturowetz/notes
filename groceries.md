@@ -1,10 +1,9 @@
 # Groceries
 
-- peaches, plums, apples
-- strawberries, blueberries
-- daikon
-- baby carrots
-- cheddar
+- Vanilla Greek yoghurt
+- Number two coffee filters
+- peaches, plums
+- strawberries
 - Pork butt
 - barkeepers friend
 - Fiber safe bleach
