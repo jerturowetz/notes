@@ -20,18 +20,17 @@
 - #2 coffee filters
 - mayo
 - pizza sauce
-
 - pickles
 - Mirin
 - sticky rice
 - bbq sauce
 - ketchup
-- Bacon
+- regular Bacon
 - Salted & unsalted butter
 - Vanilla yogurt
 - sliced yellow cheese
 - N/A beer
-- oxo cereal container?
+- oxo cereal container x2
 - Popsicles
 
 ## SAQ

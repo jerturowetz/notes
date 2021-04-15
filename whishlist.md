@@ -1,17 +1,13 @@
 # Wishlist
 
-- bike front rack
-- chalk
+- Dryer apt (max 30" wide x 24" deep)
+- bike mud guards
+- bike rain gloves
 - anopther ikea phone holder
 - 6 1/2" circ saw
-- build saw guide
-- eero repeater
-- sonos onme
 - drum skins (Remo Controlled Sounds)
 - shelves for office c'oset (3 16" moints / 34.5-40" wide)
-- Circular saw
 - combination square
-- diaper genie refills
 - Brabantia
 - spatula
 - glass bowls
@@ -19,7 +15,6 @@
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Pantry bins for cans
-- slightly less small funnel
 - Stroller lock
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Jam space upgrades:
@@ -43,6 +38,8 @@
 ## Other
 
 - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+- slightly less small funnel
+
 - VARIERA deep metal shelf divider x2
 - mini food processor
 - FELCO 4 One-hand pruning shear
@@ -54,8 +51,8 @@
 - Roomba
 - colored chalk
 - shop vac (milwaukee, makita)
-- battery powered vacuum
-- gift for James parents
+- battery powered dyson
+- gift for James parents (mom number: 514-974-8473)
 - gift for Bart and Danielle
 - brita
 - Refrigerator Toe Grille
@@ -64,7 +61,6 @@
 - i want my hat back
 - containers for pancake mix & a better container for powdered sugar
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- Waterhog green tree mat
 - Fire extinguisher
 - Front bike rack & panniers
 - Sonos One (SL?) x2
@@ -74,7 +70,7 @@
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
 - Crate & Barrel:
-  - replacement plate
+  - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
