@@ -1,9 +1,11 @@
 # Wishlist
 
+- Bike upgrades:
+  - lightweight mudguards for winter
+  - gears all fucky
+  - rain treatment
 - Dryer apt (max 30" wide x 24" deep)
-- bike mud guards
 - bike rain gloves
-- anopther ikea phone holder
 - 6 1/2" circ saw
 - drum skins (Remo Controlled Sounds)
 - shelves for office c'oset (3 16" moints / 34.5-40" wide)
