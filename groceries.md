@@ -1,49 +1,38 @@
-# Groceries
+# Food
 
-- cream cheese
-- brocollini
+## Meal plan
+
+roast chk
+pork chops
+steak
+chk thighs
+
+## Groceries
+
 - Salmon
-- peaches, plums
+- peaches
 - blueberries
-- big carrots
-- dry mozerella
-- Sandwich meat
-- Fancy bacon
-- peperroni
-- emmental
-- Pork butt
-- chk thighs with skin
-- Other meats?? (think chicken)
+- broccolini
+- meat for freezing
 - barkeepers friend
 - Fiber safe bleach
-- apple cider vin
-- Corn starch
-- #2 coffee filters
-- mayo
-- pizza sauce
-- pickles
-- Mirin
-- sticky rice
 - bbq sauce
 - ketchup
-- regular Bacon
-- Salted & unsalted butter
-- Vanilla yogurt
-- sliced yellow cheese
-- N/A beer
 - oxo cereal container x2
-- Popsicles
 
 ## SAQ
 
 - Sake
 
+## maison de pates
+
+- pastas
+- lasagna
+
 ## Maison du Roti
 
 - Short ribs?
-- Pork chops?
 - Bavette?
-- whatever meat for the week
 
 ## Chinese grocery
 
@@ -52,7 +41,7 @@
 
 ## Odessa
 
-- Salmon for poke
+- Salmon
 - wakame
 - scallops/shrimp
 
