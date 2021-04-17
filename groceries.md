@@ -1,23 +1,18 @@
 # Food
 
-## Meal plan
-
-roast chk
-pork chops
-steak
-chk thighs
-
 ## Groceries
 
 - Salmon
 - peaches
 - blueberries
 - broccolini
-- meat for freezing
 - barkeepers friend
 - Fiber safe bleach
 - bbq sauce
 - ketchup
+- case of perrier
+- fancy cola
+- prepared food?
 - oxo cereal container x2
 
 ## SAQ
@@ -32,7 +27,6 @@ chk thighs
 ## Maison du Roti
 
 - Short ribs?
-- Bavette?
 
 ## Chinese grocery
 
