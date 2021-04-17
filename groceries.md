@@ -1,14 +1,10 @@
 # Groceries
 
-- frozen blueberries
-- cream cheese?
-- smoked salmon
-- bagels
-
+- cream cheese
 - brocollini
 - Salmon
 - peaches, plums
-- strawberries, blueberries
+- blueberries
 - big carrots
 - dry mozerella
 - Sandwich meat
