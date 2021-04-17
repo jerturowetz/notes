@@ -1,5 +1,10 @@
 # Groceries
 
+- frozen blueberries
+- cream cheese?
+- smoked salmon
+- bagels
+
 - brocollini
 - Salmon
 - peaches, plums
