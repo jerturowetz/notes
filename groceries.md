@@ -12,6 +12,7 @@
 - ketchup
 - case of perrier
 - fancy cola
+- Milk x2
 - prepared food?
 - oxo cereal container x2
 
