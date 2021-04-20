@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- car rebtal cancellation policy july-aug
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - build saw guide
 - Unito laptop stand #2
