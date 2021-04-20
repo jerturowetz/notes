@@ -1,5 +1,14 @@
 # Wishlist
 
+Home depot
+small bag of gravel
+wood for shelves
+61/2 saw
+trowel shovel thingy
+
+
+
+
 - Bike upgrades:
   - lightweight mudguards for winter
   - gears all fucky
@@ -13,7 +22,6 @@
 - Brabantia
 - spatula
 - glass bowls
-- trowel kit
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Pantry bins for cans
