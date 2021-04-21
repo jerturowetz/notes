@@ -1,6 +1,8 @@
 # Food
 
 ## Groceries
+soy sauce
+ginger
 
 - Salmon
 - peaches
