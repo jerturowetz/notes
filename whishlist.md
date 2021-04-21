@@ -1,27 +1,21 @@
 # Wishlist
 
-Home depot
-small bag of gravel
-wood for shelves
-61/2 saw
-trowel shovel thingy
 
+## Home depot
 
+- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
+- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
+- [small bag of gravel](https://www.homedepot.ca/product/appalache-valley-anti-slip-gravel-18kg/1000664497)
+- trowel shovel thingy
+- shelves for office c'oset (3 16" moints / 34.5-40" wide)
 
+--
 
-- Bike upgrades:
-  - lightweight mudguards for winter
-  - gears all fucky
-  - rain treatment
 - Dryer apt (max 30" wide x 24" deep)
 - bike rain gloves
-- 6 1/2" circ saw
 - drum skins (Remo Controlled Sounds)
-- shelves for office c'oset (3 16" moints / 34.5-40" wide)
-- combination square
 - Brabantia
-- spatula
-- glass bowls
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Pantry bins for cans
@@ -34,12 +28,6 @@ trowel shovel thingy
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
 
-## Home depot
-
-- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
-- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
-
 ## Simons
 
 - Maison simons diffusers
@@ -47,9 +35,12 @@ trowel shovel thingy
 
 ## Other
 
+- hex bolt set, better druill bits
+- variable speed impact driver?
+- Bike pump
 - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - slightly less small funnel
-
+- glass bowls
 - VARIERA deep metal shelf divider x2
 - mini food processor
 - FELCO 4 One-hand pruning shear
