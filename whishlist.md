@@ -1,24 +1,12 @@
 # Wishlist
 
-
-## Home depot
-
-- [PACKOUT Small Parts Organizer](https://www.homedepot.ca/product/milwaukee-tool-packout-5-compartment-small-parts-organizer/1001110550)
-- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
-- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
-- [small bag of gravel](https://www.homedepot.ca/product/appalache-valley-anti-slip-gravel-18kg/1000664497)
-- trowel shovel thingy
-- shelves for office c'oset (3 16" moints / 34.5-40" wide)
-
---
-
+- [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - bike rain gloves
 - drum skins (Remo Controlled Sounds)
 - Brabantia
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- Pantry bins for cans
 - Stroller lock
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Jam space upgrades:
@@ -28,6 +16,12 @@
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
 
+## Home depot
+
+- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
+- shelves for office closet (3 16" mounts / 34.5-40" wide)
+
 ## Simons
 
 - Maison simons diffusers
@@ -36,7 +30,7 @@
 ## Other
 
 - hex bolt set, better druill bits
-- variable speed impact driver?
+- Makita variable speed impact driver
 - Bike pump
 - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
 - slightly less small funnel
