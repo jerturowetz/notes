@@ -1,6 +1,5 @@
 # Canoe trip gear list
 
-
 tent footprint
 tent fast and light body
 northmen finnish slplitting axe
