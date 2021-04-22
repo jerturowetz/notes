@@ -4,6 +4,7 @@
 - blueberries, strawberries
 - barkeepers friend
 - Fiber safe bleach
+- Coffee
 - case of perrier
 - prepared food?
 - oxo cereal container x2
