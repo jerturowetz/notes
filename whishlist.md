@@ -1,5 +1,13 @@
 # Wishlist
 
+- **Home depot**
+  - various wire nuts
+  - [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
+  - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
+  - shelves for office closet 4'x4' cut into 3 x 16" slats (like 3/4")
+
+--
+
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - bike rain gloves
@@ -15,12 +23,6 @@
   - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
-
-## Home depot
-
-- [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
-- [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
-- shelves for office closet (3 16" mounts / 34.5-40" wide)
 
 ## Simons
 
@@ -78,6 +80,17 @@
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
+
+## Tool stuff
+
+- 6" bit extender
+- better bits set
+- seperate socket set
+- common sockets to keep in tool bag (with adaptors): 3/8", 7/16", 1/2", 9/16"
+- [telescoping mirror](https://www.amazon.ca/General-Tools-92560-Telescoping-Rectangular/dp/B018JR62P2)
+- Circuit Breaker Lockouts
+- headlamp
+- drill bits
 
 ## Music gear
 

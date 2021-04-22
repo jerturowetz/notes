@@ -1,9 +1,7 @@
-# Food
+# Groceries
 
-## Groceries
-
-- ginger
-- blueberries
+- Ginger
+- blueberries, strawberries
 - barkeepers friend
 - Fiber safe bleach
 - case of perrier
