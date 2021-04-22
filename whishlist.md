@@ -1,13 +1,14 @@
 # Wishlist
 
 - **Home depot**
-  - various wire nuts
-  - [PACKOUT tote](https://www.homedepot.ca/product/milwaukee-tool-15-inch-packout-tote/1001300908)
   - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
   - shelves for office closet 4'x4' cut into 3 x 16" slats (like 3/4")
 
 --
 
+- jeans
+- sneaked
+- vidda pro pants
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - bike rain gloves
