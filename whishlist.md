@@ -1,18 +1,12 @@
 # Wishlist
 
-- **Home depot**
-  - [Brown packing tape](https://www.homedepot.ca/product/duck-brand-ez-tear-paper-tape-tan-1-88-inch-x-25-yd-/1001384344)
-  - shelves for office closet 4'x4' cut into 3 x 16" slats (like 3/4")
-
---
-
-- jeans
-- sneaked
-- vidda pro pants
+- Canadian tire 16" brackets x3
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
-- bike rain gloves
-- drum skins (Remo Controlled Sounds)
+- Bike rain gloves
+- Fire extinguisher
+- Front bike rack & panniers
+- Drum skins (Remo Controlled Sounds)
 - Brabantia
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
@@ -32,41 +26,30 @@
 
 ## Other
 
-- hex bolt set, better druill bits
-- Makita variable speed impact driver
+- Pillows
 - Bike pump
-- [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
-- slightly less small funnel
-- glass bowls
-- VARIERA deep metal shelf divider x2
-- mini food processor
-- FELCO 4 One-hand pruning shear
-- PD powerbank for google pixel 4
-- small battery powered lamp for bathroom
-- lights for waldos closet
+- Mini food processor
+- Small battery powered lamp for bathroom
 - Monitor arm
 - National treasure mug for Travis
 - Roomba
-- colored chalk
-- shop vac (milwaukee, makita)
-- battery powered dyson
-- gift for James parents (mom number: 514-974-8473)
-- gift for Bart and Danielle
-- brita
-- Refrigerator Toe Grille
-- 2+ madesmart bins
-- rad dad shirt for marc
-- i want my hat back
-- containers for pancake mix & a better container for powdered sugar
+- Dyson
+- Gift for James parents (mom number: 514-974-8473)
+- Gift for Bart and Danielle
+- Brita
+- Refrigerator toe grille
+- Rad dad shirt for marc
+- Containers for pancake mix & a better container for powdered sugar
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- Fire extinguisher
-- Front bike rack & panniers
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
+- Ikea:
+  - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
+  - VARIERA deep metal shelf divider x2
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
@@ -82,16 +65,12 @@
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
 
-## Tool stuff
+## Tools
 
-- 6" bit extender
-- better bits set
-- seperate socket set
-- common sockets to keep in tool bag (with adaptors): 3/8", 7/16", 1/2", 9/16"
-- [telescoping mirror](https://www.amazon.ca/General-Tools-92560-Telescoping-Rectangular/dp/B018JR62P2)
-- Circuit Breaker Lockouts
-- headlamp
-- drill bits
+- Shop vac (milwaukee, makita)
+- Better bits
+- Socket set
+- Circuit Breaker lockouts
 
 ## Music gear
 
