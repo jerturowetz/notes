@@ -1,5 +1,15 @@
 # Wishlist
 
+jeans
+thinner socks
+light snakers
+
+counter sink bits
+wood for flowr box top
+black garbage bags
+gardenia glives
+pliable hose and nozzle and mount
+
 
 summer paladiums
 

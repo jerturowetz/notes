@@ -1,5 +1,7 @@
 # Groceries
 
+charcoal
+
 
 Milk
 Baby snack bars
