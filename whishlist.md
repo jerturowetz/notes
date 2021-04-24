@@ -1,18 +1,22 @@
 # Wishlist
 
-combination squate
-thin piwce of scrap wood
-label maker
+
+summer paladiums
 
 another bag of rocks
 
-small bag for electrical
+metal punch
+
+calipers
+combination square
+thin piwce of scrap wood
+label maker
 linesman pliers
-long acrewsriver
 drill wall mounst
 
+bin ideas:
+large tool box for saw etc?
 packout bin? or tool box?
-
 packout bits holder
 packout 1/2 bits holder (anchors)
 packout 1/2 low profile bits holder (anchors)
@@ -20,14 +24,13 @@ packout 1/2 low profile bits holder (anchors)
 
 
 work light
-bring home small flashligjt from jap space?
-
 clip on pencil sharpener
 some way to store loose bits
 store ataples
 clip on eraser holder 
 ratchet bit set
 hex bit set
+packout bun insert mods
 
 
 - Canadian tire 16" brackets x3
