@@ -1,21 +1,12 @@
 # Wishlist
 
-jeans
-thinner socks
-light snakers
-
 counter sink bits
-wood for flowr box top
-black garbage bags
-gardenia glives
+wood for flower box top
+gardenia gloves
 pliable hose and nozzle and mount
+[metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
 
 
-summer paladiums
-
-another bag of rocks
-
-metal punch
 
 calipers
 combination square
@@ -37,7 +28,7 @@ work light
 clip on pencil sharpener
 some way to store loose bits
 store ataples
-clip on eraser holder 
+clip on eraser holder
 ratchet bit set
 hex bit set
 packout bun insert mods
@@ -69,6 +60,11 @@ packout bun insert mods
 
 ## Other
 
+- Clothes:
+  - jeans
+  - thinner socks
+  - light snakers
+  - summer paladiums
 - Pillows
 - Bike pump
 - Mini food processor

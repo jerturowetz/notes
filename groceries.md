@@ -1,6 +1,7 @@
 # Groceries
 
 charcoal
+black garbage bags
 
 
 Milk
