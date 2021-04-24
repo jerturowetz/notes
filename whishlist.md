@@ -1,5 +1,35 @@
 # Wishlist
 
+combination squate
+thin piwce of scrap wood
+label maker
+
+another bag of rocks
+
+small bag for electrical
+linesman pliers
+long acrewsriver
+drill wall mounst
+
+packout bin? or tool box?
+
+packout bits holder
+packout 1/2 bits holder (anchors)
+packout 1/2 low profile bits holder (anchors)
+
+
+
+work light
+bring home small flashligjt from jap space?
+
+clip on pencil sharpener
+some way to store loose bits
+store ataples
+clip on eraser holder 
+ratchet bit set
+hex bit set
+
+
 - Canadian tire 16" brackets x3
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
