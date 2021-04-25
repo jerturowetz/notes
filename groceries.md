@@ -1,36 +1,29 @@
 # Groceries
 
-charcoal
-black garbage bags
-
-
-Milk
-Baby snack bars
-?
-Daddy snack bars
-Cookies
-Granola
-Granola?
-No granola
-Cheddar cheese
-Pancake mix
-All purpose flour
-Paper towels
-fegetable oil
-sandwich stuff
-pickles
-meat for terryaki
-eggs
-cocnut water
-
-- Ginger
 - blueberries, strawberries
 - bananes
 - oranges
+- peaches
+- Ginger
 - cheddar
+- sandwich stuff
+- bread
+- cocnut water
 - barkeepers friend
 - Fiber safe bleach
+- black garbage bags
+- meat for terryaki
+- other meat?
+- Paper towels
+- Daddy snack bars
+- Cookies
 - Coffee
+- pickles
+- Pancake mix
+- All purpose flour
+- vegetable oil
+- eggs
+- bacon
 - case of perrier
 - N/A beer
 - prepared food?
@@ -40,10 +33,6 @@ cocnut water
 
 - pastas
 - lasagna
-
-## Maison du Roti
-
-- Short ribs?
 
 ## Chinese grocery
 
