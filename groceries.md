@@ -5,6 +5,9 @@
 - oranges
 - peaches
 - Ginger
+- Baby carrots
+- Regular carrots
+- Potatoes
 - cheddar
 - sandwich stuff
 - bread

@@ -1,19 +1,24 @@
 # Wishlist
 
+[Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
+[Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
+Metal straight edge
+Square
+
+
+
+
+Outdoor deck screws
+#4 drill bit
 counter sink bits
 wood for flower box top
 gardenia gloves
 pliable hose and nozzle and mount
-[metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
-
-
-
-calipers
-combination square
-thin piwce of scrap wood
 label maker
-linesman pliers
-drill wall mounst
+clip on eraser holder
+
+
+
 
 bin ideas:
 large tool box for saw etc?
@@ -21,20 +26,9 @@ packout bin? or tool box?
 packout bits holder
 packout 1/2 bits holder (anchors)
 packout 1/2 low profile bits holder (anchors)
-
-
-
-work light
-clip on pencil sharpener
-some way to store loose bits
-store ataples
-clip on eraser holder
-ratchet bit set
-hex bit set
 packout bun insert mods
 
 
-- Canadian tire 16" brackets x3
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - Bike rain gloves
@@ -44,8 +38,7 @@ packout bun insert mods
 - Brabantia
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- Stroller lock
-- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
+- [Stroller lock](https://www.amazon.ca/Combinations-Anti-Theft-Bicycle-Pocket-Orange/dp/B085Y4FV3F/)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
@@ -65,6 +58,7 @@ packout bun insert mods
   - thinner socks
   - light snakers
   - summer paladiums
+- Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Pillows
 - Bike pump
 - Mini food processor
