@@ -1,48 +1,37 @@
 # Groceries
 
-- blueberries, strawberries
-- bananes
-- oranges
-- peaches
+- wakame
 - Ginger
 - Baby carrots
 - Regular carrots
-- Potatoes
 - cheddar
 - sandwich stuff
 - bread
+- pizza sauce
+- Coffee
+- Pancake mix
+- All purpose flour
+- pc choc bar
+- case of perrier
+- N/A beer
+- pc ice cream
+
+--
+
 - cocnut water
 - barkeepers friend
 - Fiber safe bleach
-- black garbage bags
-- meat for terryaki
-- other meat?
-- Coffee
+- heavy duty garbage bags
 - pickles
-- Pancake mix
-- All purpose flour
 - vegetable oil
 - bacon
-- case of perrier
-- N/A beer
 - prepared food?
 - oxo cereal container x2
-
-## maison de pates
-
-- pastas
-- lasagna
 
 ## Chinese grocery
 
 - Dumplings
 - Noodles
-
-## Odessa
-
-- Salmon
-- wakame
-- scallops/shrimp
 
 ## Spices
 
