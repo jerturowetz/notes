@@ -1,23 +1,8 @@
 # Groceries
 
-- wakame
-- Ginger
-- Baby carrots
-- Regular carrots
-- cheddar
-- sandwich stuff
-- bread
-- pizza sauce
-- Coffee
 - Pancake mix
-- All purpose flour
-- pc choc bar
-- case of perrier
-- N/A beer
-- pc ice cream
-
---
-
+- ginger
+- garlic
 - cocnut water
 - barkeepers friend
 - Fiber safe bleach
