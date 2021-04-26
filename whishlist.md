@@ -12,15 +12,10 @@
 - better bits set
 - pliable hose (25'-35') and nozzle and mount
 - wood for flower box top
-
-bin ideas:
-  large tool box for saw etc?
-  packout bin? or tool box?
-  packout bits holder
-  packout 1/2 bits holder (anchors)
-  packout 1/2 low profile bits holder (anchors)
-  packout bun insert mods
-
+- [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
+- [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
+- Packout normal bits holder
+- Fuse locks
 - label maker
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
@@ -53,6 +48,7 @@ bin ideas:
   - summer paladiums
 - Wicker bins the size of madesmart bins (bathroom) (maybe simons?)
 - Pillows
+- Brad nailer & 22" packout box
 - Bike pump
 - Mini food processor
 - Small battery powered lamp for bathroom
