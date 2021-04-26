@@ -1,14 +1,14 @@
 # Groceries
 
-- Pancake mix
 - ginger
 - garlic
 - cocnut water
 - barkeepers friend
 - Fiber safe bleach
 - heavy duty garbage bags
-- pickles
 - vegetable oil
+- Pancake mix
+- Coffee
 - bacon
 - prepared food?
 - oxo cereal container x2
