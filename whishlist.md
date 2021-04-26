@@ -1,34 +1,27 @@
 # Wishlist
 
-[Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
-[Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
-Metal straight edge
-Square
-
-
-
-
-Outdoor deck screws
-#4 drill bit
-counter sink bits
-wood for flower box top
-gardenia gloves
-pliable hose and nozzle and mount
-label maker
-clip on eraser holder
-
-
-
+- [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
+- [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
+- [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)
+- 12" combination square
+- various wood screws (starting at 2")
+- clip on eraser holder
+- combination square
+- flat square
+- counter sink bits
+- better bits set
+- pliable hose (25'-35') and nozzle and mount
+- wood for flower box top
 
 bin ideas:
-large tool box for saw etc?
-packout bin? or tool box?
-packout bits holder
-packout 1/2 bits holder (anchors)
-packout 1/2 low profile bits holder (anchors)
-packout bun insert mods
+  large tool box for saw etc?
+  packout bin? or tool box?
+  packout bits holder
+  packout 1/2 bits holder (anchors)
+  packout 1/2 low profile bits holder (anchors)
+  packout bun insert mods
 
-
+- label maker
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - Bike rain gloves
