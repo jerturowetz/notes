@@ -1,23 +1,25 @@
 # Wishlist
 
-- [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
-- [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
-- [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)
-- 12" combination square
-- various wood screws (starting at 2")
-- clip on eraser holder
-- combination square
-- flat square
-- counter sink bits
-- better bits set
-- pliable hose (25'-35') and nozzle and mount
-- wood for flower box top
-- [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
-- [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
-- Packout normal bits holder
-- Fuse locks
-- label maker
-- [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
+- Home depot:
+  - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
+  - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
+  - Packout normal bits holder
+  - [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
+  - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
+  - [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)\
+  - 12" combination square
+  - various wood screws (starting at 2")
+  - clip on eraser holder
+  - counter sink bits
+  - better bits set
+  - pliable hose (25'-35') and nozzle and mount
+  - Wood for flower box top
+  - Fuse locks
+  - label maker
+  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
+
+--
+
 - Dryer apt (max 30" wide x 24" deep)
 - Bike rain gloves
 - Fire extinguisher

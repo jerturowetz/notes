@@ -5,10 +5,10 @@
 - [Order from mama ouy](https://www.instagram.com/mama.ouy/)
 - build saw guide
 - addictive drumming 2 for yamin
-- sell dell laptop
-- front of house bin for recycling
+- Sell dell laptop
+- Front of house bin for recycling
 - Backyard toy storage
-- make the house smell good
+- Make the house smell good
 - Electricity install outside
 - Apholster chair
 - IKEA battery drop off
