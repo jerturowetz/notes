@@ -1,5 +1,12 @@
 # Wishlist
 
+both short and ling usbc cables
+usb plug socket with pd
+whisk
+flat patula
+
+
+
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
   - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
