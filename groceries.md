@@ -1,30 +1,12 @@
 # Groceries
 
-- spinach for freezing
-- ginger
-- garlic
-- bread
-- bagels or muffins
 - cocnut water
-- Apple sauce
 - barkeepers friend
-- Fiber safe bleach
-- heavy duty garbage bags
 - toilet paper
 - kleenex
-- vegetable oil
-- Pancake mix
-- maple syrop
-- Coffee
-- Crackers
-- bacon
-- 1% milk
-- vanilla yogurt
+- heavy duty garbage bags
 - frozen tropical fruits
-- prepared food?
 - oxo cereal container x2
-- whisk
-- spatula
 
 ## Pasta store
 
