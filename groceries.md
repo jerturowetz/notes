@@ -16,6 +16,7 @@
 - Pancake mix
 - maple syrop
 - Coffee
+- Crackers
 - bacon
 - 1% milk
 - vanilla yogurt
