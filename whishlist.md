@@ -4,8 +4,7 @@ both short and ling usbc cables
 usb plug socket with pd
 whisk
 flat patula
-
-
+shoes
 
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
@@ -27,8 +26,9 @@ flat patula
 
 --
 
+- MEC:
+  - Bike rain gloves
 - Dryer apt (max 30" wide x 24" deep)
-- Bike rain gloves
 - Fire extinguisher
 - Front bike rack & panniers
 - Drum skins (Remo Controlled Sounds)
