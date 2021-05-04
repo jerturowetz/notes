@@ -1,8 +1,9 @@
 # Groceries
 
-- cocnut water
+- coconut water
 - barkeepers friend
 - toilet paper
+- paper towels
 - kleenex
 - heavy duty garbage bags
 - frozen tropical fruits
