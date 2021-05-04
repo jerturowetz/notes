@@ -8,6 +8,7 @@
 - heavy duty garbage bags
 - frozen tropical fruits
 - oxo cereal container x2
+- ultra flexible spatula
 
 ## Pasta store
 

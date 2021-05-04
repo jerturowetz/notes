@@ -1,33 +1,24 @@
 # Wishlist
 
-both short and ling usbc cables
-usb plug socket with pd
-whisk
-flat patula
-shoes
-
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
-  - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
-  - Packout normal bits holder
+  - [Packout normal bits holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
   - [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
   - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
-  - [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)\
-  - 12" combination square
+  - [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)
   - various wood screws (starting at 2")
-  - clip on eraser holder
   - counter sink bits
-  - better bits set
   - pliable hose (25'-35') and nozzle and mount
-  - Wood for flower box top
-  - Fuse locks
-  - label maker
   - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
+  - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
 
 --
 
 - MEC:
   - Bike rain gloves
+  - other things?
+- label maker
+- Wood for flower box top
 - Dryer apt (max 30" wide x 24" deep)
 - Fire extinguisher
 - Front bike rack & panniers
@@ -51,6 +42,7 @@ shoes
 ## Other
 
 - Clothes:
+  - shoes
   - jeans
   - thinner socks
   - light snakers
@@ -68,6 +60,7 @@ shoes
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
 - Brita
+- larger mortar and pestle
 - Refrigerator toe grille
 - Rad dad shirt for marc
 - Containers for pancake mix & a better container for powdered sugar
