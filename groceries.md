@@ -7,6 +7,12 @@
 - paper towels
 - kleenex
 - heavy duty garbage bags
+
+
+- honey
+- mayo
+- sesame oil
+
 - Eggs
 - 3.25% milk
 - frozen tropical fruits
