@@ -1,7 +1,8 @@
 # Wishlist
 
-
-
+Des serres: cutting mat
+Sephora: paddle brush
+annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
