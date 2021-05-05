@@ -1,7 +1,8 @@
 # Wishlist
 
-
-
+Des serres: cutting mat
+Sephora: paddle brush
+annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
@@ -74,6 +75,7 @@
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
+- [Pencil sharpener](https://laywines.com/products/blackwing-one-step-long-point-sharpener-black?_pos=1&_sid=14a262676&_ss=r)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Northern toboggan hat](https://northerntoboggan.com/products/toboggan-trucker-hat)
