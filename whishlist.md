@@ -1,5 +1,8 @@
 # Wishlist
 
+
+
+
 - Home depot:
   - [Packout Bin](https://www.homedepot.ca/product/milwaukee-tool-packout-18-6-inch-50-lb-capacity-tool-storage-crate-bin/1001515066)
   - [Packout normal bits holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
@@ -41,6 +44,8 @@
 
 ## Other
 
+- rain coat
+- rain boots
 - Clothes:
   - shoes
   - jeans
