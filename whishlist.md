@@ -20,6 +20,7 @@
 - MEC:
   - Bike rain gloves
   - other things?
+- ikea chair flet things
 - label maker
 - Wood for flower box top
 - Dryer apt (max 30" wide x 24" deep)
