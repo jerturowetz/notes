@@ -1,5 +1,9 @@
 # Wishlist
 
+matress protextor
+pillows
+
+
 Des serres: cutting mat
 Sephora: paddle brush
 annex vintage: paddle brush, Compagnie de Provence Hand Cream
