@@ -1,50 +1,38 @@
 # rpgs
 
-Doom & Destiny Advanced
-Eternium
-Exiled Kingdoms
-Evoland
-soul blazer
+9th dawn 2
+andor's trail
 anodyne
-oceanhorn
-ff whatever
-kings quest
-the quest
-star traders: frontiers
-genshin impact
 another eden
 arcane quest legends
 banner saga
-titan quest
 battle chasers: nightwar
-transistor
-eternium
-exiled kingdoms
-grimvalor
-oceanhorn
-oceanhorn 2
-planescape: torment
-vampire’s fall: origins
-final fantasy 1-9
-dragon quest series
-earthbound(mother series)
-golden sun trilogy
-valkyrie profile: lenneth
-wayward souls
-knights of the old republic
-banner saga
-genshin impact
-the wuest
-9th dawn 2
-doom and destiny
 battleheart
-exiled kingdoms
-andor's trail
-tales of ilyria
-ffix
-the world ends with you: solo remix
-dungeon rushers
-death road to canada
 cultist simulator
+death road to canada
+doom and destiny
+dragon quest
+dungeon rushers
+eternium
+Evoland
+exiled kingdoms
+final fantasy 1-9
+genshin impact
+golden sun trilogy
+grimvalor
+kings quest
+knights of penn and papet
+knights of the old republic
+oceanhorn
+planescape: torment
 runescape
-knights of pennand papet
+soul blazer
+star traders: frontiers
+tales of ilyria
+the quest
+the world ends with you: solo remix
+titan quest
+transistor
+valkyrie profile: lenneth
+vampire’s fall: origins
+wayward souls
