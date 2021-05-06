@@ -1,41 +1,50 @@
-# RPGs
+# rpgs
 
-Chrono Trigger
-
-Final Fantasy 1-9
-
-Dragon Quest Series
-
-Earthbound(Mother Series)
-
-Golden Sun Trilogy
-Valkyrie Profile: Lenneth
-
-Wayward Souls
-
-Knights of the Old Republic
-
+Doom & Destiny Advanced
+Eternium
+Exiled Kingdoms
+Evoland
+soul blazer
+anodyne
+oceanhorn
+ff whatever
+kings quest
+the quest
+star traders: frontiers
+genshin impact
+another eden
+arcane quest legends
 banner saga
-Genshin Impact
+titan quest
+battle chasers: nightwar
+transistor
+eternium
+exiled kingdoms
+grimvalor
+oceanhorn
+oceanhorn 2
+planescape: torment
+vampire’s fall: origins
+final fantasy 1-9
+dragon quest series
+earthbound(mother series)
+golden sun trilogy
+valkyrie profile: lenneth
+wayward souls
+knights of the old republic
+banner saga
+genshin impact
 the wuest
 9th dawn 2
-
-Doom and Destiny
-BattleHeart
-Exiled Kingdoms
-
-Andor's Trail
-Tales of Ilyria
-
+doom and destiny
+battleheart
+exiled kingdoms
+andor's trail
+tales of ilyria
 ffix
-
-The World Ends with You: Solo Remix
-
+the world ends with you: solo remix
 dungeon rushers
-
 death road to canada
-
-Cultist Simulator
-
+cultist simulator
 runescape
 knights of pennand papet

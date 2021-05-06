@@ -2,8 +2,6 @@
 
 - baby urine tests
 - Dad Jewish: 514-340-8222 Room 21450
-- [Order from mama ouy](https://www.instagram.com/mama.ouy/)
-- build saw guide
 - addictive drumming 2 for yamin
 - Sell dell laptop
 - Front of house bin for recycling
