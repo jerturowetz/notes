@@ -1,8 +1,9 @@
 # Wishlist
 
+brown packing tape
 matress protextor
 pillows
-
+base layer from mec
 
 Des serres: cutting mat
 Sephora: paddle brush
