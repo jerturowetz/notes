@@ -1,5 +1,7 @@
 # Wishlist
 
+annex vintage: paddle brush, Compagnie de Provence Hand Cream
+
 small box for waldo memories
 binders with sleeved pockets
 another ikea green bin
@@ -8,11 +10,6 @@ matress protextor
 pillows
 shelves for front closet
 base layer from mec
-
-
-Des serres: cutting mat
-Sephora: paddle brush
-annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
 --
 
@@ -27,7 +24,6 @@ annex vintage: paddle brush, Compagnie de Provence Hand Cream
 - Home depot:
   - [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
   - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
-  - [2' Metal straight edge](https://www.homedepot.ca/product/empire-48-in-aluminum-straight-edge/1000812861)
   - pliable hose (25'-35') and nozzle and mount
   - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
   - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
@@ -76,6 +72,8 @@ annex vintage: paddle brush, Compagnie de Provence Hand Cream
   - [Another VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
   - VARIERA deep metal shelf divider x2
   - ikea chair foot felts
+  - Magazine files (for green bins in idasen)
+  - 2 boxes](https://www.ikea.com/ca/en/p/hyvens-storage-box-with-lid-gray-green-white-paper-40457479/)
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
