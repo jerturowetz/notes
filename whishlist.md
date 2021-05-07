@@ -2,6 +2,7 @@
 
 matress protextor
 pillows
+shelves for front closet
 
 
 Des serres: cutting mat
