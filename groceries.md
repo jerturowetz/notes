@@ -1,5 +1,7 @@
 # Groceries
 
+- strawberries
+- blueberries
 - Sandwich meat
 - coconut water
 - barkeepers friend
@@ -7,14 +9,11 @@
 - paper towels
 - kleenex
 - heavy duty garbage bags
-
-
 - honey
 - mayo
 - sesame oil
-
-- Eggs
-- 3.25% milk
+- Eggs x2
+- 1% milk
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula

@@ -3,13 +3,12 @@
 small box for waldo memories
 binders with sleeved pockets
 another ikea green bin
-
 brown packing tape
 matress protextor
 pillows
 shelves for front closet
-
 base layer from mec
+
 
 Des serres: cutting mat
 Sephora: paddle brush
