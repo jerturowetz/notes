@@ -1,5 +1,7 @@
 # Groceries
 
+- banans
+- oranges
 - strawberries
 - blueberries
 - Sandwich meat
@@ -12,6 +14,7 @@
 - mayo
 - sesame oil
 - 1% milk
+- eggs
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula
