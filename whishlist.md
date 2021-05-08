@@ -1,26 +1,20 @@
 # Wishlist
 
+canadian tire ic e cube tray (for repiars)
+
+
+
+
 annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
-small box for waldo memories
-binders with sleeved pockets
-another ikea green bin
-brown packing tape
-matress protextor
-pillows
-shelves for front closet
-base layer from mec
-
---
-
-- [Stroller lock](https://www.amazon.ca/Combinations-Anti-Theft-Bicycle-Pocket-Orange/dp/B085Y4FV3F/)
-- Brabantia
+- shelves for front closet
+- Brabantia Bo touch bin, 2x 30L
 - Wood for flower box top
 - Dryer apt (max 30" wide x 24" deep)
 - Fire extinguisher
 - MEC:
   - Bike rain gloves
-  - other things?
+  - base layer
 - Home depot:
   - [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
   - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
@@ -30,11 +24,13 @@ base layer from mec
 
 ## Simons
 
+- https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160
 - Maison simons diffusers
 - Pillows (Simons bianca made in montreal, comes with pillow protector)
 
 ## Other
 
+- binders with sleeved pockets
 - rain coat
 - rain boots
 - Clothes:
@@ -48,6 +44,7 @@ base layer from mec
 - Monitor arm
 - National treasure mug for Travis
 - Roomba
+- callipers
 - Dyson
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
@@ -65,7 +62,7 @@ base layer from mec
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [Three taller ivar ladders](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
-  - [20" deep shelf brackets x6](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
+  - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
 - Ikea:
@@ -73,7 +70,8 @@ base layer from mec
   - VARIERA deep metal shelf divider x2
   - ikea chair foot felts
   - Magazine files (for green bins in idasen)
-  - 2 boxes](https://www.ikea.com/ca/en/p/hyvens-storage-box-with-lid-gray-green-white-paper-40457479/)
+  - small box for waldo memories
+  - [2 boxes](https://www.ikea.com/ca/en/p/hyvens-storage-box-with-lid-gray-green-white-paper-40457479/)
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
@@ -152,3 +150,4 @@ base layer from mec
 - Primacoustic CrashGuard 421 x2
 - Primacoustic SplashGuard x2
 - Photography studio sandbags
+- keyboard stool
