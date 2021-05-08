@@ -1,13 +1,11 @@
 # Wishlist
 
-canadian tire ic e cube tray (for repiars)
-
 annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
+- Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Brabantia Bo touch bin, 2x 30L
 - Wood for flower box top
-- Dryer apt (max 30" wide x 24" deep)
 - Fire extinguisher
 - MEC:
   - Bike rain gloves
@@ -20,9 +18,10 @@ annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
 ## Simons
 
-- https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160
+- [Pillows](https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160)
+- pillow protectors (4)
+- mattress protector
 - Maison simons diffusers
-- Pillows (Simons bianca made in montreal, comes with pillow protector)
 
 ## Other
 
