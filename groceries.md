@@ -20,6 +20,7 @@
 - fantastic
 - kleenex
 - heavy duty garbage bags
+- capers
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula
