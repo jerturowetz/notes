@@ -1,20 +1,19 @@
 # Groceries
 
-- banans
-- oranges
-- strawberries
-- blueberries
-- Sandwich meat
-- coconut water
-- barkeepers friend
+- DIAPERS
 - toilet paper
 - paper towels
-- kleenex
-- heavy duty garbage bags
 - mayo
 - sesame oil
 - 1% milk
 - eggs
+
+--
+
+- coconut water
+- barkeepers friend
+- kleenex
+- heavy duty garbage bags
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula
@@ -32,4 +31,3 @@
 ## Spices
 
 - onion flakes
-- cardamom

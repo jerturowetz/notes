@@ -2,9 +2,6 @@
 
 canadian tire ic e cube tray (for repiars)
 
-
-
-
 annex vintage: paddle brush, Compagnie de Provence Hand Cream
 
 - shelves for front closet
@@ -20,7 +17,6 @@ annex vintage: paddle brush, Compagnie de Provence Hand Cream
   - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
   - pliable hose (25'-35') and nozzle and mount
   - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
-  - [Packout compact tool box for saw](https://www.homedepot.ca/product/milwaukee-tool-packout-10-inch-hard-tool-box/1001528466)
 
 ## Simons
 
