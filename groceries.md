@@ -1,5 +1,9 @@
 # Groceries
 
+- green leaf
+- havarti/swiss
+- emmental
+- cheddar
 - DIAPERS
 - toilet paper
 - paper towels
@@ -12,6 +16,8 @@
 
 - coconut water
 - barkeepers friend
+- clorox cleaner
+- fantastic
 - kleenex
 - heavy duty garbage bags
 - frozen tropical fruits
