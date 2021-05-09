@@ -1,16 +1,14 @@
 # Groceries
 
-- green leaf
-- havarti/swiss
 - emmental
 - cheddar
-- DIAPERS
 - toilet paper
 - paper towels
-- mayo
 - sesame oil
-- 1% milk
 - eggs
+
+- granola bars
+- yellow mustard
 
 --
 
