@@ -1,7 +1,5 @@
 # Wishlist
 
-annex vintage: paddle brush, Compagnie de Provence Hand Cream
-
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Brabantia Bo touch bin, 2x 30L
