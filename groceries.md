@@ -6,7 +6,6 @@
 - paper towels
 - sesame oil
 - eggs
-
 - granola bars
 - yellow mustard
 
