@@ -2,7 +2,6 @@
 
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
-- Brabantia Bo touch bin, 2x 30L
 - Wood for flower box top
 - Fire extinguisher
 - MEC:
@@ -20,6 +19,7 @@
 
 ## Other
 
+- Brabantia Bo touch bin, 2x 30L
 - binders with sleeved pockets
 - rain coat
 - rain boots
