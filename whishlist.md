@@ -17,9 +17,6 @@
 ## Simons
 
 - [Pillows](https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160)
-- pillow protectors (4)
-- mattress protector
-- Maison simons diffusers
 
 ## Other
 
