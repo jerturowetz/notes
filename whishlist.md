@@ -1,5 +1,8 @@
 # Wishlist
 
+simons le germain hotels bamboo rayon quilted pillow protextor
+
+
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
