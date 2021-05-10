@@ -1,5 +1,6 @@
 # Wishlist
 
+- wipes container
 - Mixer clean:
   - deoxit d5 contact cleaner
   - lemon wipes
