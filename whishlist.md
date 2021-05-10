@@ -7,18 +7,14 @@
   - deoxit fader lube
   - compressed air thing
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
+- MEC:
+  - Bike rain gloves
+  - base layer
+- [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
 - Fire extinguisher
-- MEC:
-  - Bike rain gloves
-  - base layer
-- Home depot:
-  - [Metal punch](https://www.homedepot.ca/product/dynamic-tools-automatic-centre-punch-5-inch-long/1001552126)
-  - [Pencil sharperner](https://www.homedepot.ca/product/c-h-hanson-pencil-crayon-sharpener/1000116394)
-  - pliable hose (25'-35') and nozzle and mount
-  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 
 ## Simons
 
