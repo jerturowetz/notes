@@ -1,16 +1,15 @@
 # Wishlist
 
-
-
-
-deoxit d5 contact cleaner
-isoprppyl alchohol
-multipurpose cleaner
-lemon wipes
-toothpicks
-deoxit fader lube
-compressed air thing
-
+- Mixer clean:
+  - deoxit d5 contact cleaner
+  - isoprppyl alchohol
+  - multipurpose cleaner
+  - lemon wipes
+  - toothpicks
+  - deoxit fader lube
+  - compressed air thing
+  - brushes
+  - containers for screws
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
@@ -27,6 +26,8 @@ compressed air thing
 ## Simons
 
 - [Pillows](https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160)
+- [Quilted pillow protector](https://www.simons.ca/en/bedroom/pillows-pillow-covers/quilted-pillow-protector--1505-5192160)
+
 
 ## Other
 
