@@ -1,5 +1,9 @@
 # Groceries
 
+- strawberries
+- blueberries
+- peaches
+- pears
 - emmental
 - cheddar
 - toilet paper
@@ -24,8 +28,9 @@
 
 ## Pasta store
 
-- Lasagne
+- pizza dough
 - Pasta noodles
+- tomato sauce
 
 ## Chinese grocery
 
