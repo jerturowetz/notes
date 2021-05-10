@@ -25,9 +25,9 @@
 
 ## Simons
 
+- Fig home scent
 - [Pillows](https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160)
 - [Quilted pillow protector](https://www.simons.ca/en/bedroom/pillows-pillow-covers/quilted-pillow-protector--1505-5192160)
-
 
 ## Other
 
@@ -60,6 +60,7 @@
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - Frame for shark lady: (16 3/4"x15", 16"x18 1/2: with mat)
+- Griddle
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
