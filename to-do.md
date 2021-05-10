@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- call simons re pillows
 - baby urine tests
 - Dad Jewish: 514-340-8222 Room 21450
 - addictive drumming 2 for yamin
