@@ -1,6 +1,15 @@
 # Gift Ideas
 
 - [puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
+- Matador stuff:
+  - Ultraight travel towel
+  - Packable beach towel
+  - Packable Towel Poncho
+  - Waterproof Travel Canisters
+  - Pocket Blanket
+  - Pocket Blanket Mini
+  - Packable Tote
+  - Waterproof Toiletry Case
 
 ## Kate
 

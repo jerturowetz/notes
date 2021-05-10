@@ -1,5 +1,16 @@
 # Wishlist
 
+
+
+
+deoxit d5 contact cleaner
+isoprppyl alchohol
+multipurpose cleaner
+lemon wipes
+toothpicks
+deoxit fader lube
+compressed air thing
+
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
