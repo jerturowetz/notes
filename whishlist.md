@@ -2,14 +2,11 @@
 
 - Mixer clean:
   - deoxit d5 contact cleaner
-  - isoprppyl alchohol
-  - multipurpose cleaner
   - lemon wipes
   - toothpicks
   - deoxit fader lube
   - compressed air thing
-  - brushes
-  - containers for screws
+  - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
@@ -32,21 +29,13 @@
 ## Other
 
 - Brabantia Bo touch bin, 2x 30L
-- binders with sleeved pockets
-- rain coat
-- rain boots
-- Clothes:
-  - shoes
-  - jeans
-  - thinner socks
-  - light snakers
-  - summer paladiums
-- label maker
+- jeans
+- thinner socks
+- light snakers
 - Mini food processor
 - Monitor arm
 - National treasure mug for Travis
 - Roomba
-- callipers
 - Dyson
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
