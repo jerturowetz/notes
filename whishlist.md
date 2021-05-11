@@ -4,33 +4,28 @@
 
 - waldo PJs
 - breast pillow cover
-- dolce bianca sheets set
-- breast pillow cover
 - wipes container
+
 - Mixer clean:
   - deoxit d5 contact cleaner
   - lemon wipes
   - toothpicks
   - deoxit fader lube
-  - compressed air thing
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
+
 - MEC:
   - Bike rain gloves
   - base layer
+
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Dryer apt (max 30" wide x 24" deep)
 - shelves for front closet
 - Wood for flower box top
 - Fire extinguisher
 
-## Simons
-
-- Fig home scent
-- [Pillows](https://www.simons.ca/en/bedroom/pillows-pillow-covers/natural-bia-pillow-adjustable-support--9441-3201160)
-- [Quilted pillow protector](https://www.simons.ca/en/bedroom/pillows-pillow-covers/quilted-pillow-protector--1505-5192160)
-
 ## Other
 
+- dolce bianca sheets set
 - Brabantia Bo touch bin, 2x 30L
 - jeans
 - thinner socks
