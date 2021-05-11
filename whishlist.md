@@ -26,6 +26,7 @@
 ## Other
 
 - dolce bianca sheets set
+- slumber cloud sheet set
 - Brabantia Bo touch bin, 2x 30L
 - jeans
 - thinner socks
