@@ -1,6 +1,10 @@
 # Wishlist
 
+- moubting board for charger = 7x16
+
 - waldo PJs
+- breast pillow cover
+- dolce bianca sheets set
 - breast pillow cover
 - wipes container
 - Mixer clean:

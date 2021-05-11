@@ -1,21 +1,18 @@
 # Groceries
 
-butter
-peanut butter
-
 rolls
-ribs
 
 - strawberries
 - blueberries
 - peaches
 - pears
 - emmental
-- cheddar
 - toilet paper
 - paper towels
-- sesame oil
+- peanut butter
 - eggs
+- baby milk
+- butter
 - granola bars
 - yellow mustard
 
