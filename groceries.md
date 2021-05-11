@@ -1,5 +1,11 @@
 # Groceries
 
+butter
+peanut butter
+
+rolls
+ribs
+
 - strawberries
 - blueberries
 - peaches
