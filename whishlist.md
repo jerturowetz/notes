@@ -1,5 +1,7 @@
 # Wishlist
 
+moubting board for charger = 7x16
+
 - breast pillow cover 
 - wipes container
 - Mixer clean:
