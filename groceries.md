@@ -1,14 +1,11 @@
 # Groceries
 
-rolls
-
+- pampers #6
 - strawberries
 - blueberries
 - peaches
 - pears
 - emmental
-- toilet paper
-- paper towels
 - peanut butter
 - eggs
 - baby milk
@@ -20,11 +17,9 @@ rolls
 
 - coconut water
 - barkeepers friend
-- clorox cleaner
 - fantastic
 - kleenex
 - heavy duty garbage bags
-- capers
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula
