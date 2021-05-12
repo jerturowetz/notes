@@ -3,12 +3,9 @@
 - moubting board for charger = 7x16
 
 - waldo PJs
-- breast pillow cover
 - wipes container
-
 - Mixer clean:
   - deoxit d5 contact cleaner
-  - lemon wipes
   - toothpicks
   - deoxit fader lube
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
@@ -33,6 +30,9 @@
 - light snakers
 - Mini food processor
 - Monitor arm
+- Oven mitts
+- Leather gloves for barbecue
+- Kodiak gloves for me
 - National treasure mug for Travis
 - Roomba
 - Dyson
