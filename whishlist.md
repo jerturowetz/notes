@@ -1,25 +1,19 @@
 # Wishlist
 
+camping:
+pack pillows
+mec travel games
+camp chairs (helinox?)
+msr tent footprint
+new tent
+skeeping pads
+chaos neck merino (light)
+
+
 ## IIKEA
 
-- [SKARPÖ | floor: 17/44](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-dark-beige-80453078/)
-- [Ivar ladder | floor: 25/34](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
+- [SKARPÖ beige | floor: 17/44](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-dark-beige-80453078/)
 - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
-
-- **Kitchen access:**
-  - [VARIERA wooden box for pantry](https://www.ikea.com/ca/en/p/variera-box-with-handle-bamboo-90226052/)
-  - [VARIERA deep metal shelf divider x2](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-60136623/)
-
-- **Rugs:**
-  - [STOPP FILT rug underlay](https://www.ikea.com/ca/en/p/stopp-filt-rug-underlay-with-anti-slip-90132261/)
-
-- **Home organization:**
-  - small box for Gus memories
-  - small box for headphones
-  - Small box for chargers etc (plan black)
-  - [Maybe Hyvens](https://www.ikea.com/ca/en/p/hyvens-storage-box-with-lid-gray-green-white-paper-40457479/)
-  - Angled plastic bin for trip gear x2
-  - plastic box for tyrip gear
 
 ## Other priority
 
@@ -30,9 +24,7 @@
   - toothpicks
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 
-- MEC:
-  - Bike rain gloves
-  - base layer
+
 
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
@@ -42,8 +34,14 @@
 - Wood for flower box top
 - Fire extinguisher
 
+ikea:
+ivar big ladders
+hyvens (shoes)
+circular box for geadphones
+
 ## Other
 
+- base layer (helly hanson, mec?)
 - dolce bianca sheets set
 - slumber cloud sheet set
 - jeans
