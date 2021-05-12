@@ -1,9 +1,6 @@
 # Wishlist
 
-- moubting board for charger = 7x16
-
 - waldo PJs
-- wipes container
 - Mixer clean:
   - deoxit d5 contact cleaner
   - toothpicks
