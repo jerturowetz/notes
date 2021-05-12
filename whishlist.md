@@ -1,14 +1,9 @@
 # Wishlist
 
-- ikea couch storage
-- moubting board for charger = 7x16
 - waldo PJs
-- breast pillow cover
-- wipes container
 
 - Mixer clean:
   - deoxit d5 contact cleaner
-  - lemon wipes
   - toothpicks
   - deoxit fader lube
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
