@@ -1,7 +1,7 @@
 # Wishlist
 
+- ikea couch storage
 - moubting board for charger = 7x16
-
 - waldo PJs
 - breast pillow cover
 - wipes container
