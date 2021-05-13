@@ -13,6 +13,14 @@ northmen finnish slplitting axe
 - Morakniv Bushcraft Knife, Black
 - [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
 
+camping:
+pack pillows
+mec travel games
+camp chairs (helinox?)
+msr tent footprint
+new tent
+skeeping pads
+chaos neck merino (light)
 hestra gloves
 $150 [Spyderco native 5 salt full serrated](https://www.bladehq.com/item--Spyderco-Native-5-Salt-Lockback--92692)
 Opinel #8 for mess kit

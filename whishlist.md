@@ -1,43 +1,18 @@
 # Wishlist
 
-camping:
-pack pillows
-mec travel games
-camp chairs (helinox?)
-msr tent footprint
-new tent
-skeeping pads
-chaos neck merino (light)
-
-
-## IIKEA
-
-- [SKARPÖ beige | floor: 17/44](https://www.ikea.com/ca/en/p/skarpoe-armchair-outdoor-dark-beige-80453078/)
-- [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
-
-## Other priority
-
-- waldo PJs
 - Mixer clean:
   - deoxit d5 contact cleaner
   - deoxit fader lube
   - toothpicks
   - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
-
-
-
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Brabantia Bo touch bin, 2x 30L
+- waldo PJs
 - Dryer apt (max 30" wide x 24" deep)
 - Shelves for front closet
 - Wood for flower box top
 - Fire extinguisher
-
-ikea:
-ivar big ladders
-hyvens (shoes)
-circular box for geadphones
 
 ## Other
 
@@ -86,6 +61,9 @@ circular box for geadphones
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
+- IKEA:
+  - Lare IVAR ladders
+  - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
 
 ## Music gear
 

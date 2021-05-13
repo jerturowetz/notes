@@ -2,15 +2,11 @@
 
 - call simons re pillows
 - baby urine tests
-- Dad Jewish: 514-340-8222 Room 21450
-- addictive drumming 2 for yamin
 - Sell dell laptop
 - Front of house bin for recycling
 - Backyard toy storage
-- Make the house smell good
 - Electricity install outside
 - Apholster chair
-- IKEA battery drop off
 - Dr Remi Cote sent me to Dr Louis Denis, have ref - pressure guichet d'accès en santé mentale (CLSC?)
 - Last thank you cards
 - Pick up drums chez Mike M
