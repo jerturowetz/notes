@@ -4,6 +4,7 @@
 - barkeepers friend
 - kleenex
 - heavy duty garbage bags
+- Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 - frozen tropical fruits
 - oxo cereal container x2
 - ultra flexible spatula
