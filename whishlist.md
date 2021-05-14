@@ -1,10 +1,8 @@
 # Wishlist
 
-waldo PJs
-Label maker
-
-
-
+- waldo PJs & socks (carters)
+- Label maker
+- [Mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
 - Mixer clean:
   - deoxit d5 contact cleaner
   - deoxit fader lube
@@ -13,7 +11,6 @@ Label maker
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Brabantia Bo touch bin, 2x 30L
-- waldo PJs
 - Dryer apt (max 30" wide x 24" deep)
 - Shelves for front closet
 - Wood for flower box top
