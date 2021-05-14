@@ -1,5 +1,10 @@
 # Wishlist
 
+waldo PJs
+Label maker
+
+
+
 - Mixer clean:
   - deoxit d5 contact cleaner
   - deoxit fader lube
