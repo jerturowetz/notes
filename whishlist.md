@@ -1,5 +1,9 @@
 # Wishlist
 
+- Stuff for tarp:
+  - Another loop to mount to side of ceeling
+  - tightner thingy
+
 - Mixer clean:
   - deoxit d5 contact cleaner
   - deoxit fader lube
