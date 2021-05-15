@@ -1,5 +1,13 @@
 # Groceries
 
+- white wine (pinot G)
+
+- bread
+- Kale
+- crutons
+
+--
+
 - coconut water
 - barkeepers friend
 - kleenex
