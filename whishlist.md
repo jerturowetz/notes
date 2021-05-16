@@ -1,5 +1,24 @@
 # Wishlist
 
+bird feeders
+bird water stuff
+
+
+mec:
+pillows
+another 8l compression stuff sack
+15l event compression dry sack
+2x10L stuff sacks (not compression)
+knife for me
+saw
+
+sleeping system:
+
+
+
+
+
+- water bottle (s)
 - Stuff for tarp:
   - Another loop to mount to side of ceeling
   - tightner thingy

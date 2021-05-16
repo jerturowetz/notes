@@ -1,15 +1,8 @@
 # Groceries
 
-- white wine (pinot G)
-
-- bread
-- Kale
-- crutons
-
---
-
 - coconut water
 - barkeepers friend
+- laundry soap
 - kleenex
 - heavy duty garbage bags
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
