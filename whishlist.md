@@ -22,7 +22,9 @@ sleeping system:
 - Stuff for tarp:
   - Another loop to mount to side of ceeling
   - tightner thingy
-
+- canadian tire:
+  - backyard broom
+  - wire for front chair
 - waldo PJs & socks (carters)
 - Label maker
 - [Mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
