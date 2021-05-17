@@ -1,40 +1,42 @@
-big ziplock party mix
-big ziplock peanut m&m's
-big ziplock cliff bars
-peperoni
-chos bars
-energy gel
-little protein snacks
+# Trip food
 
-lunch:
-block cheese
-flatbread
-salami/meat
+[Ideas here](https://www.greenbelly.co/pages/backpacking-food-ideas)
 
-oatmeal packs
+## Snacks
 
-pro bar
-jiff cup
-trail butter
+- party mix
+- peanut m&m's
+- cliff bar
+- chaos bar
+- pro bar
+- jiff cups
+- trail butter
+- bobos bar
+- peperoni
+- energy gel
+- complete cookie
+- greenbelly bar
+- rxbar
+- emergen-c packs
+- green superfood powder
 
-bobos bar
+## lunch
 
-complete cookie
-greenbelly bar
-alpine start instant coffee
-chicken creation packet and 1  cup couscous
-siracha packets
-rxbar
+- block cheese
+- flatbread
+- salami/meat
 
-emergen-c packs
-green superfood powder
+## Breakfast
 
-knorr sides
-seaweed
+- oatmeal packs
+- ibstant coffee
+- alpine start instant coffee
 
-no mess smores: sugar cones + cho chips + mini marshmellows + aluminum foil
+## Meals
 
-food
-ibstant coffee
-chocolate milk mix
-smores gear
+- chicken creation packet and 1 cup couscous
+- siracha packets
+- knorr sides
+- seaweed
+- chocolate milk mix
+- smores gear
