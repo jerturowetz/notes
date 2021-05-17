@@ -2,12 +2,12 @@
 
 ## Learn
 
-- we went here with bigger is better: https://www.sepaq.com/rf/mas/index.dot?language_id=1
-- Check out Lat de poisson blanc here: https://poissonblanc.ca/en/. Morgane went there and it looks lovely
+- [we went here with bigger is better](https://www.sepaq.com/rf/mas/index.dot?language_id=1)
+- [Check out Lat de poisson blanc here](https://poissonblanc.ca/en/). Morgane went there and it looks lovely
 - sharpen axe & machete
 - $500 FQCK (Fédération québécoise du canot et du kayak) lifetime membership
-- make roap kits https://www.youtube.com/watch?v=h_Av_751ysI
-- camp stitching https://www.youtube.com/watch?v=fAV8lfI_6jM&feature=emb_title
+- [camp stitching](https://www.youtube.com/watch?v=fAV8lfI_6jM&feature=emb_title)
+- [make roap kits](https://www.youtube.com/watch?v=h_Av_751ysI)
 - How to pack food (cold soak, dried meals eg backpakers panrty, knor rice side)
 - how to hang a bear bag
 - skippy container for cold soaked meals
