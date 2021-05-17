@@ -18,6 +18,11 @@ sleeping system:
 
 
 
+Permanent white marker for labelling stuff sacks
+
+
+
+
 - water bottle (s)
 - Stuff for tarp:
   - Another loop to mount to side of ceeling
