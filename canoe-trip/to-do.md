@@ -1,5 +1,7 @@
 # H&T: To-do
 
+share itinerrary and maps with loved one
+
 ## Learn
 
 - [we went here with bigger is better](https://www.sepaq.com/rf/mas/index.dot?language_id=1)
