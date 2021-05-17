@@ -472,3 +472,21 @@ Important -­‐ instructors must be aware of any medication brought on trip. Al
 
 Optional Items
 □	Camera (not a cell-­‐phone or iPod), a good book, cards, a small waist-­‐pack to carry your personal items you may need during the day such as sunscreen, camera. Toiletries like deodorant and shampoo can be brought but will stay at base-­‐camp.
+
+
+hyperlitemountaingear 2400 SOUTHWEST 40L pack
+1 person tent
+
+sleep system:
+sleeping bag liner
+pillows (Klymit Pillow X)
+sleeping bag
+
+platypus collapsible bottles
+sawyer squeeze
+
+hat scarf (neckwarmer) gloves
+hicking shoues
+sunglassses (Barkley)
+zipaway hiking pants
+Merino Wool Socks
