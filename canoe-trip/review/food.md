@@ -19,6 +19,7 @@
 - rxbar
 - emergen-c packs
 - green superfood powder
+- trail mix (gorp)
 
 ## lunch
 

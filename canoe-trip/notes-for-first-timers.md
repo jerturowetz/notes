@@ -16,7 +16,6 @@
 
 ## Clothing
 
-
 Notes: stay away from blue
 no cotton (cotton t-shirts for example) and no jeans - this shit gets wet and drys slow
 pack a bathing suit but don't plan on wearing it during the canoing
@@ -37,8 +36,6 @@ _______ 2 pairs glasses or contact lenses (if needed): If you wear contact lense
 difficulty cleaning them in the field it is suggested that you bring glasses instead. Please bring an
 eyeglass safety strap for your glasses.
 
-
-
 ## Mosquitoes
 
 Mosquitoes are worst in June, and pretty bad in general. It’s difficult to eliminate this nuisance, but it can be minimized. Here are some recommendations:
@@ -57,3 +54,16 @@ Mosquitoes are worst in June, and pretty bad in general. It’s difficult to eli
   The most effective remedies are calamine lotion and a paste of bicarbonate soda and water. I like afterbite.
 - **Avoid using scented shampoo and soap,**
   Don't bring any with.
+
+
+--
+
+When packing, keep in mind that all of your personal items must be compact. If you need help, your guide will help you pack all your gear in your dry bag.
+
+Whenever possible please try to bring clothing made from wool, synthetic fibers or polyester blends as opposed to cotton. Wool and synthetic fibers are more durable and keep you warmer when wet.
+
+Do not bring the following:
+■	Extra food of any kind – odorous items invite insects and critters into cabins/tents and may cause life-­‐threatening harm to those with food allergies.
+■	When packing, please keep any highly odorous items away from your clothing
+■	NO video games, cell phones, computers, iPods, knives etc.
+■	Alcohol, cigarettes and non-­‐prescription drugs are not permitted—you will be sent home if you possess any of these items.

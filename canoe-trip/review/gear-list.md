@@ -312,3 +312,163 @@ Camp Lantern
 - Vinyl Patch and Contact Cement
 - Fiberglass Repair Kit
 - Epoxy Adhesive
+
+
+
+
+nitecore nu25 headlamp with bungee modification
+
+could use a pair of s/M dry bags
+what about tent?
+
+make a car camping mess kit packing list
+bear cannister/food containers
+
+
+need 2+ matador soap case (to replace those I took)
+1 matador S pack blanket
+1 matador L pack blanket
+
+feild sewing kit
+
+pan scaper
+tarp/table cloth
+bug nesting
+
+
+for car camping nesting kit:
+better plates/bowls
+better cups
+better pots/pans
+cast iron for camping?
+better/packable spatulas & cooking utensils
+
+
+
+iodine tablets
+packed duct tape
+leather fire gloves
+fire starters
+
+
+water bottles
+
+Trip itinerary left w/ friend + under car seat
+water filter
+backup water treatment
+treatmenttarp
+stove and fuel
+
+car camping propane stove
+
+
+
+--
+
+
+packing list
+
+water bottles
+water treatment tabs
+water filter
+treatmenttarp
+sleep system
+stove and fuel
+cookset & utensils
+dishes bowls and cups
+fire starter
+lanters
+lines ropes etc
+itinerrary
+
+
+first aid supplies
+toiletries kit (bio soaps, sunscreen)
+trowel
+tiolet paper
+flashlight (s)
+insect repellant
+headnet (optional)
+hand sanitizer
+repair kit
+
+maps and charts
+map bag
+compass
+knife/multi tool
+sunglasses
+camera
+hat
+binoculars
+
+
+saw
+hiking poles
+rainwear
+sleeping bag
+sleeping pad
+sandals/camp shoes
+
+hikcing shoes
+bandana
+
+canoe extras:
+pdf/whistle
+paddle
+knee pad,kneeling pad
+flares
+pump/bailer
+throw bag
+sponge
+
+clothes:
+???
+wool hat
+moisture wicking t-shirt
+moisture wicking underear
+shorts & convertible pants
+shirt (long sleeved)
+fleece or wool jacket/sweater
+fleece pants
+long underwear
+synthetic cgloves
+socks
+
+
+
+
+
+□	30-­‐35 litre dry bag.  This rubberized waterproof bag will hold ALL personal items on trip. Please avoid dry bags that have straps. Your dry bag will fit into a larger camp pack provided by the camp with 2 or 3 other students’ dry bags. Please note: if you are having trouble packing all your gear into your dry bag, no need to worry. Simply bring all of your gear in your duffel bag to camp and your instructors will help you pack.
+□	1 durable water bottle, 1 liter capacity (screw-­‐top is best, available at most outdoor stores)
+□	4 pairs of underwear (more or less, you decide)
+□	1 pair of long underwear (tops and bottoms, synthetic fiber or polyester blend, not cotton)
+□	3 pairs of warm wool or synthetic socks (not cotton). *1 more for trips 4 days and longer*
+□	1 pair of shorts (light weight & durable)
+□	2 long sleeve shirts (synthetic fiber or polyester blend, try to avoid cotton if possible)
+□	3 t-­‐shirts (at least 1 non-­‐cotton-­‐polypro)
+□	2 pairs of pants (proper fitting, lightweight and durable. Try to avoid jeans/cords (one pair is
+O.K. for traveling to and from camp but they cannot be worn on trip) Jeans are heavy and difficult to dry. Again, wool, synthetic fiber or a polyester blend is best.
+□	1 whistle.  (“Fox 40” pea-­‐less type recommended as they work when wet)
+□	1 swimsuit and 1 hat with brim to protect you from the sun.
+□	1 wool or fleece winter hat (toque) & 1-­‐2 sets of gloves or mitts.
+□	1 cotton bandana and 1 small shammy towel if you have one. (Full sized towels are too big and do not dry.)
+□	1 heavy wool sweater or fleece jacket (fleece is better as it dries faster)
+□	1 set of rain gear (jacket and pants, no ponchos please, breathable fabrics like Gore-­‐Tex)
+□	1 pair of ‘dry shoes’ (these shoes will be worn at the end of the day) Must be close-­‐toed,
+not “Croc’s or Birkenstocks.”
+□	1 pair ‘wet shoes’ (these shoes will be worn throughout the day while on trip. They will be getting wet and possibly muddy. Please bring shoes that you don’t mind getting wet and dirty, but ones that will also give you ample support while portaging—worn hiking boots/shoes or runners are ideal.)
+Please note: Teva’s, Keens or sandals of any kind are dangerous on trip, especially when portaging. They will not be accepted as suitable footwear for this trip.
+□	1 pair UV rated sunglasses with case. (Beware, glasses could get damaged if not stored properly)
+□	Sun block (waterproof SPF 30 recommended) Bug repellant is optional, but typically not needed in the fall—only spring and summer trips really required bug spray!
+□	Toothbrush, small bottle of hand sanitizer and any personal medications.
+Important -­‐ instructors must be aware of any medication brought on trip. All medication must also be listed on your medical form.
+□	1 flashlight or headlamp with extra batteries. (Headlamp is ideal.)
+
+□	1 compact sleeping bag (rated for 0oC or lower). Synthetic is better than full “down” on water based trips. No cotton bags, as they are not compact and will not dry. If you only have a down sleeping bag—that is OK!
+□	Compact Therma-­‐rest or foam sleeping pad.  (To lay sleeping bag on top of in tent – provides extra comfort as well as an insolating layer from the ground—which is important.)
+□	Logbook/journal and 2-­‐3 pens or pencils in a zip-­‐lock bag.
+□	1-­‐2 large “ziplock” sealable plastic bag for waterproofing small items.
+□	2 large garbage bags (to seal your personal belongings when you leave camp)
+
+Optional Items
+□	Camera (not a cell-­‐phone or iPod), a good book, cards, a small waist-­‐pack to carry your personal items you may need during the day such as sunscreen, camera. Toiletries like deodorant and shampoo can be brought but will stay at base-­‐camp.

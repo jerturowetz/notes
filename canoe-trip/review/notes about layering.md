@@ -1,0 +1,11 @@
+# NOTES TO HELP YOU WITH SELECTING PROPER CLOTHING
+
+DO YOUR BEST TO BORROW APPROPRIATE CLOTHING FROM FRIENDS—THERE IS NO NEED TO GO OUT AND BUY A LOT OF GEAR FOR A SHORT TRIP!
+•	Leave your cotton at home: No sweatshirts. No sweat pants! No cotton socks. No need for cotton t-­‐shirts, unless you want it wear it over a wicking layer. It will not help keep you warm.
+•	Wool is good: Wool is a great natural insulator, even when wet. Pants, shirts, sweaters and jackets made of wool have traditionally been used for outdoor wear because of their insulating value. The downside to wool is that it is slow to dry and can be heavy and bulky.
+•	Synthetic Fleece or Pile: Fleece is quick drying, remains warm even when wet and is only half the weight of wool. Jackets, vests and pants are available in fleece in a variety of thicknesses for different conditions. Although most fleece has no wind blocking and should be paired with an outer shell in breezy conditions.
+•	Head Protection: In warm conditions, hats provide protection from both the rain and the sun. In cold conditions, they also help keep you warm. (Up to 75 percent of all body heat lost is lost through the head). Even if it seems like the weather for your trip is looking warm, pack a winter hat just in case. It can be chilly at night and in the mornings.
+•	Hand Protection: Paddlers' hands take a lot of abuse from wind, weather and waves. To protect yours, keep them as dry as possible. Wearing gloves not only protects hands from the elements but also can prevent blisters, especially in newer paddlers who may tend to have a tighter grip on their paddle.
+•	Waterproof/Breathable Layers: these provide reliable waterproof protection and good breath-­‐ability. They perform well in a wide range of weather conditions, keeping rain, spray and splashes at bay all day. At the same time they let your sweat and allow body heat to escape to help keep you dry and comfortable.
+
+•	Layering: Just as with any sport, you will be more comfortable when paddling if you dress in layers that can be added or removed as conditions change. Wearing an inner wicking layer followed by insulation and an outer wind-­‐ and water-­‐ protection layer is standard practice for staying comfortable and protected from the elements.
