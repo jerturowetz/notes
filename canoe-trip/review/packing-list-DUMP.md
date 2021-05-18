@@ -1,5 +1,36 @@
 # Canoe trip gear list
 
+better tent stakes
+msr groundhog
+
+katadyne befree filter &  bottle
+darn tough socks
+
+
+exped meta mat duo is cool and insane - https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-mattress/exped-megamat-duo-10
+
+big agnes doublewide bag
+drybag for food
+dry bag for trash
+dog poop bags for garbage
+Petacc Pet Training Bag Silicone Dog Training Pouch
+
+sleeping bag
+sleeping bag liner
+
+mec:
+pillows
+another 8l compression stuff sack
+15l event compression dry sack
+2x10L stuff sacks (not compression)
+knife for me
+saw
+
+toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
+floss
+
+
+
 tent footprint
 tent fast and light body
 northmen finnish slplitting axe

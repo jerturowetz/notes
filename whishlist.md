@@ -1,5 +1,6 @@
 # Wishlist
 
+
 bird feeders
 bird water stuff
 
@@ -8,25 +9,23 @@ big red handle spatula
 better aplle corer
 
 
-mec:
-pillows
-another 8l compression stuff sack
-15l event compression dry sack
-2x10L stuff sacks (not compression)
-knife for me
-saw
 
-sleeping system:
-
-
-
-
-
-Permanent white marker for labelling stuff sacks
+- Matador stuff:
+  - Ultraight travel towel
+  - Packable beach towel
+  - Packable Towel Poncho
+  - Waterproof Travel Canisters
+  - Pocket Blanket
+  - Pocket Blanket Mini
+  - Packable Tote
+  - Waterproof Toiletry Case
 
 
 
 
+
+- Permanent white marker for labelling stuff sacks
+- Black chalk marker
 - water bottle (s)
 - Stuff for tarp:
   - Another loop to mount to side of ceeling

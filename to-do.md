@@ -1,5 +1,7 @@
 # Jeremy's To-Do List
 
+- hang tarp
+- digitize kates vhs tapes
 - call simons re pillows
 - baby urine tests
 - Sell dell laptop

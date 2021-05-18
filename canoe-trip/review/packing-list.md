@@ -1,28 +1,22 @@
 # H&T: Individual packing guide
 
-Sleeping Bag / Quilts
-Note: All the bags here are for 4-season but not extreme conditions (20°F / -7°C) - while the Katabatic has a higher temp rating, it performs well at 20°F
+- Sleep system:
+  - Sleeping bag (Katabatic, Mountain Hardware, Zpacks)
+  - Sleeping pad (Term-a-rest, Nemo)
+  - Camp pillow
+  - Sleeping bag liner
 
-  * $460 Katabatic Gear Palisade (quilt) -The best quilt!  2014 editor's choice at Outdoor Gear lab.
-  * $405 Katabatic Gear Chisos (quilt) - just like the one above but rated for warmer weather
-  * $200 Mountain Hardwear Ultralamina 15 - Best synthetic bag (when getting wet is a consideration)
-  * $200 Kelty Cosmic Down 20 (unizex bag) -Best bang for the buck
-  * $390 ZPacks™ 900 Fill Power Down Sleeping Bag (quilt)
+- $460 Katabatic Gear Palisade (quilt) -The best quilt!  2014 editor's choice at Outdoor Gear lab.
+- $405 Katabatic Gear Chisos (quilt) - just like the one above but rated for warmer weather
+- $200 Mountain Hardwear Ultralamina 15 - Best synthetic bag (when getting wet is a consideration)
+- $390 ZPacks™ 900 Fill Power Down Sleeping Bag (quilt)
 
 
-Sleeping pad
-Note: There are major differences between closed cell, self-inflating and air core.  Feel free to pick my brain.
-Note: The Therm-a-Rest  NeoAir-X pads are the best but a bit noisey, the Nemo or NeoAir Camper are good alternatives but bulkier and not 4 season
+- $129 Nemo Astro Insulated Lite 20R (air core, 72" x 20") -My top pick for air core, also not so noisey
 
-  * $200 Therm-a-Rest NeoAir Xtherm (air core, R is 72" x 20" ) -If you're ever gonna do winter this is the pad to get
-  * $160 Therm-a-Rest NeoAir XLite (air core, R is 72" x 20") -Lighter and a little less expensive than the one above
-  * $129 Nemo Astro Insulated Lite 20R (air core, 72" x 20") -My top pick for air core, also not so noisey
-  * $120 Therm-a-Rest NeoAir Camper (air core, L is 77" x 25") -best comfort mattress but only consider size Large, other sizes make no sense
-  * $70 Therm-a-Rest Trail Lite (self-inflating) -self inflating pads are great too but bulkier
-  * $45 Therm-a-Rest Z Lite Sol (closed cell) -Best bang for the buck
-  * $10 Closed-cell foam sheet
-
-* Want to use your pad for sleeping on floors in dorms / road trips and the like?  The NeoAir Camper is the best combo of durability & comfort, and couples will love how you can grab a kit to join two of them together.
+termarest pad couplers
+https://seatosummitusa.com/collections/camping-pillows
+https://katabaticgear.com/collections/elite-quilts/products/palisade-ultralight-quilt?variant=33282521104429
 
 
 Compression sacks
