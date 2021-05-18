@@ -1,5 +1,11 @@
 # Groceries
 
+- crackers
+- sliced yellow cheese
+- cheddar
+- N/A beer
+- coke
+- fancy lemonade
 - coconut water
 - barkeepers friend
 - laundry soap
