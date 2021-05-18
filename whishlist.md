@@ -1,5 +1,7 @@
 # Wishlist
 
+chain, ceeling hook, loop for hanging planter
+
 hose bucket
 better hose
 
@@ -21,9 +23,6 @@ better aplle corer
   - Pocket Blanket Mini
   - Packable Tote
   - Waterproof Toiletry Case
-
-
-
 
 
 - Permanent white marker for labelling stuff sacks
