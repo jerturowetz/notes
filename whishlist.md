@@ -1,5 +1,7 @@
 # Wishlist
 
+hose bucket
+better hose
 
 bird feeders
 bird water stuff

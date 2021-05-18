@@ -1,15 +1,5 @@
 # Groceries
 
-- proscuitto
-- orange
-- strawberries
-- blueberries
-- green apples
-- peaches/plums
-- 1% milk
-
---
-
 - coconut water
 - barkeepers friend
 - laundry soap
