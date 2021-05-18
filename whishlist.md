@@ -1,6 +1,21 @@
 # Wishlist
 
+
+- Stuff for tarp:
+  - Another loop to mount to side of ceeling
+  - tightner thingy
+- canadian tire:
+  - backyard broom
+  - wire for front chair
+
+
+
+
 chain, ceeling hook, loop for hanging planter
+
+POSCA white paint pen
+white fabric marker or sharpie oil based
+
 
 hose bucket
 better hose
@@ -25,23 +40,14 @@ better aplle corer
   - Waterproof Toiletry Case
 
 
-- Permanent white marker for labelling stuff sacks
-- Black chalk marker
-- water bottle (s)
-- Stuff for tarp:
-  - Another loop to mount to side of ceeling
-  - tightner thingy
-- canadian tire:
-  - backyard broom
-  - wire for front chair
+- water bottle(s)
 - waldo PJs & socks (carters)
-- Label maker
+- Label maker refills
 - [Mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
 - Mixer clean:
   - deoxit d5 contact cleaner
   - deoxit fader lube
   - toothpicks
-  - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Brabantia Bo touch bin, 2x 30L
@@ -75,6 +81,7 @@ better aplle corer
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
+- [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
