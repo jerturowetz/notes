@@ -1,8 +1,19 @@
 # Groceries
 
+- proscuitto
+- orange
+- strawberries
+- blueberries
+- green apples
+- peaches/plums
+- 1% milk
+
+--
+
 - coconut water
 - barkeepers friend
 - laundry soap
+- cascade pods
 - kleenex
 - heavy duty garbage bags
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
