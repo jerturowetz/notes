@@ -1,33 +1,18 @@
 # Wishlist
 
-
-- Stuff for tarp:
-  - Another loop to mount to side of ceeling
-  - tightner thingy
-- canadian tire:
-  - backyard broom
-  - wire for front chair
-
-
-
-
-chain, ceeling hook, loop for hanging planter
-
+hook, chain & loop for hanging planters
 POSCA white paint pen
 white fabric marker or sharpie oil based
-
-
 hose bucket
 better hose
-
-bird feeders
 bird water stuff
-
 vcr off marketplace
 big red handle spatula
 better aplle corer
-
-
+ikea another hanging planter
+ikea another balcony planter
+home depot fake green thihg
+bike wall mount
 
 - Matador stuff:
   - Ultraight travel towel
