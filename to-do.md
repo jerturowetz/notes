@@ -1,5 +1,8 @@
 # Jeremy's To-Do List
 
+- Reserve culinaire
+  - DCG7 HHC3 9H2A 6FD3
+  - 93BA G8HF GCEH EHB4
 - hang tarp
 - digitize kates vhs tapes
 - call simons re pillows
