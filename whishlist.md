@@ -1,5 +1,6 @@
 # Wishlist
 
+white aocks
 hook, chain & loop for hanging planters
 POSCA white paint pen
 white fabric marker or sharpie oil based

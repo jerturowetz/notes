@@ -1,5 +1,6 @@
 # Groceries
 
+- bacon
 - crackers
 - sliced yellow cheese
 - cheddar
