@@ -1,5 +1,33 @@
 # Groceries
 
+
+blueberries
+strawberris
+peaches/plums
+red & green apples
+baby carrots
+oranges
+arugula
+na beer
+sandwich meat
+break sausagsa
+cheddar
+aliced yellow cheese
+both butter
+eggs
+coconut water
+lemon
+coffee
+meat f or dinner
+
+shreddies
+cookies
+granola bars
+ketchup
+
+
+
+
 - bacon
 - crackers
 - sliced yellow cheese
