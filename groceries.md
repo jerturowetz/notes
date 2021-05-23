@@ -5,6 +5,7 @@
 - pork shoulder
 - coconut water
 - barkeepers friend
+- fiber safe bleach
 - kleenex
 - heavy duty garbage bags
 - oxo cereal container x2

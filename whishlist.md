@@ -1,5 +1,7 @@
 # Wishlist
 
+
+ikea 2 plastic bins (like for aprons) for laundry closet and a riser
 ultralight bike rainbgear 
 hh coat atyle rain gear 
 white aocks
