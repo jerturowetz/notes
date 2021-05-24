@@ -2,10 +2,12 @@
 
 - oranges
 - daikon
+- bread
 - coconut water
 - barkeepers friend
 - kleenex
 - heavy duty garbage bags
+- jam
 - oxo cereal container x2
 - ultra flexible spatula
 - N/A beer
