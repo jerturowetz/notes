@@ -34,13 +34,22 @@
 
 ## Clothes
 
-- ultralight bike rainbgear
-- hh coat atyle rain gear
-- base layer (helly hanson, mec?)
+- Zpacks of EE rain wear
+- City rain coat: (TECH TRENCH 3L, stutterheim)
+
+
+- Pocket knife
+- Xtratuf rain boots
+- Myabe another hXC rain boot, like mucboot or kamik
+- Toms shoes
+- Native shoes
+- base layer (helly hanson, patagonia, nike?)
 - jeans
 - thinner socks
 - light snakers
 - Kodiak gloves
+- Ghost Whisperer Hooded Down jacket
+- [Mens alpaca fleece hoodie](https://appalachiangearcompany.com/collections/100-all-paca/products/mens-all-paca-fleece-hoodie)
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
