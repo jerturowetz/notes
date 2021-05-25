@@ -1,24 +1,8 @@
 # Wishlist
 
-milk bags
-rubber frisbee
-ikea 2 plastic bins (like for aprons) for laundry closet and a riser
-ultralight bike rainbgear 
-hh coat atyle rain gear 
-white aocks
-hook, chain & loop for hanging planters
-POSCA white paint pen
-white fabric marker or sharpie oil based
-hose bucket
-better hose
-bird water stuff
-vcr off marketplace
-big red handle spatula
-better aplle corer
-ikea another hanging planter
-ikea another balcony planter
-home depot fake green thihg
-bike wall mount
+- 3-4 quality binders for green bins
+- madela milk bags
+- chain and rings for hanging planters
 
 - Matador stuff:
   - Ultraight travel towel
@@ -30,14 +14,13 @@ bike wall mount
   - Packable Tote
   - Waterproof Toiletry Case
 
+- Bike wall mount
+- Pillows
 - water bottle(s)
+- POSCA white paint pen
 - waldo PJs & socks (carters)
 - Label maker refills
 - [Mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
-- Mixer clean:
-  - deoxit d5 contact cleaner
-  - deoxit fader lube
-  - toothpicks
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
 - Brabantia Bo touch bin, 2x 30L
@@ -45,10 +28,13 @@ bike wall mount
 - Shelves for front closet
 - Wood for flower box top
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
+- Ikea BITTERGURKA planter (marketplace)
 - Fire extinguisher
 
 ## Clothes
 
+- ultralight bike rainbgear
+- hh coat atyle rain gear
 - base layer (helly hanson, mec?)
 - jeans
 - thinner socks
@@ -65,6 +51,13 @@ bike wall mount
 
 ## Other
 
+- flexible firsbee
+- velcro pads and ball
+- big red handle spatula
+- better apple corer
+- better hose
+- hose bucket
+- bird water feeder
 - dolce bianca or slumber cloud sheet set (both?)
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - Mini food processor
@@ -81,7 +74,6 @@ bike wall mount
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
-- [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Jam space upgrades:
@@ -96,8 +88,12 @@ bike wall mount
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
 - IKEA:
-  - Large IVAR ladders x3
+  - [VARIERA box x2 (laundry closet)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
+  - [VARIERA short shelf riser (laundry closet)](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+  - [Large IVAR ladders x3](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
+  - [VITLÖK flower box](https://www.ikea.com/ca/en/p/vitloek-flower-box-with-holder-indoor-outdoor-beige-10475795/)
+  - [VITLÖK flower pot](https://www.ikea.com/ca/en/p/vitloek-plant-pot-with-holder-indoor-outdoor-beige-10475762/)
 
 ## Music gear
 
@@ -163,3 +159,8 @@ bike wall mount
 - Primacoustic SplashGuard x2
 - Photography studio sandbags
 - keyboard stool
+- Mixer clean:
+  - deoxit d5 contact cleaner
+  - deoxit fader lube
+  - toothpicks
+  - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
