@@ -1,5 +1,11 @@
 # Wishlist
 
+milk bags
+rubber frisbee
+ikea 2 plastic bins (like for aprons) for laundry closet and a riser
+ultralight bike rainbgear 
+hh coat atyle rain gear 
+white aocks
 hook, chain & loop for hanging planters
 POSCA white paint pen
 white fabric marker or sharpie oil based
