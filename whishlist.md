@@ -24,7 +24,6 @@ bike wall mount
   - Packable Tote
   - Waterproof Toiletry Case
 
-
 - water bottle(s)
 - waldo PJs & socks (carters)
 - Label maker refills
@@ -39,21 +38,32 @@ bike wall mount
 - Dryer apt (max 30" wide x 24" deep)
 - Shelves for front closet
 - Wood for flower box top
+- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Fire extinguisher
 
-## Other
+## Clothes
 
 - base layer (helly hanson, mec?)
-- dolce bianca sheets set
-- slumber cloud sheet set
 - jeans
 - thinner socks
 - light snakers
+- Kodiak gloves
+- T-shirts:
+  - [Solids t-shirt](https://solids.bandcamp.com/merch)
+  - [Good t-shirts](https://us.kowtowclothing.com/)
+  - [Paperole shirts](https://www.paperole.com/)
+  - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
+  - Joe Robinet merch
+  - sloan tshirt
+  - Gulfer shirt (just drive by the Jeean talon market)
+
+## Other
+
+- dolce bianca or slumber cloud sheet set (both?)
+- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - Mini food processor
 - Monitor arm
-- Oven mitts
 - Leather gloves for barbecue
-- Kodiak gloves for me
 - National treasure mug for Travis
 - Roomba
 - Dyson
@@ -62,13 +72,11 @@ bike wall mount
 - Brita
 - Refrigerator toe grille
 - Rad dad shirt for marc
-- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - Sonos One (SL?) x2
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - [datavac](https://www.amazon.ca/Metrovac-Datavac-Electric-Duster-Alternative/dp/B008ORVV36/)
 - [Cool art](https://www.concealed-art.com/nes-art)
-- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
@@ -81,16 +89,8 @@ bike wall mount
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-- T-shirts:
-  - [Solids t-shirt](https://solids.bandcamp.com/merch)
-  - [Good t-shirts](https://us.kowtowclothing.com/)
-  - [Paperole shirts](https://www.paperole.com/)
-  - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
-  - Joe Robinet merch
-  - sloan tshirt
-  - Gulfer shirt (just drive by the Jeean talon market)
 - IKEA:
-  - Lare IVAR ladders
+  - Large IVAR ladders x3
   - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
 
 ## Music gear
