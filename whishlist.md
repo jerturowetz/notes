@@ -1,9 +1,29 @@
 # Wishlist
 
-- 3-4 quality binders for green bins
-- madela milk bags
-- chain and rings for hanging planters
-
+- Pillows
+- water bottle(s)
+- Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
+- Ikea BITTERGURKA planter (marketplace)
+- Fire extinguisher
+- Brabantia Bo touch bin, 2x 30L
+- Dryer apt (max 30" wide x 24" deep)
+- Shelves for front closet
+- Amazon:
+  - 3-4 quality binders for green bins
+  - madela milk bags
+  - Bike wall mount
+  - POSCA white paint pen
+  - waldo PJs & socks (carters)
+  - Label maker refills
+- Simons:
+  - 1 normal pillow protector
+  - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
+  - Plastic/bamboo cuops and plates for waldo/outside
+- Home depot:
+  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
+  - chain and rings for hanging planters
+  - Gear for aircraft cable
+  - Wood for flower box top
 - Matador stuff:
   - Ultraight travel towel
   - Packable beach towel
@@ -13,23 +33,6 @@
   - Pocket Blanket Mini
   - Packable Tote
   - Waterproof Toiletry Case
-
-- Bike wall mount
-- Pillows
-- water bottle(s)
-- POSCA white paint pen
-- waldo PJs & socks (carters)
-- Label maker refills
-- [Mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
-- Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
-- [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
-- Brabantia Bo touch bin, 2x 30L
-- Dryer apt (max 30" wide x 24" deep)
-- Shelves for front closet
-- Wood for flower box top
-- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- Ikea BITTERGURKA planter (marketplace)
-- Fire extinguisher
 
 ## Clothes
 
@@ -51,6 +54,7 @@
 
 ## Other
 
+- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - flexible firsbee
 - velcro pads and ball
 - big red handle spatula
