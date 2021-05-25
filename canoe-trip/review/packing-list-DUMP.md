@@ -2,24 +2,31 @@
 
 better tent stakes
 msr groundhog
-
+https://www.backcountry.com/msr-groundhog-tent-stake-kit?s=a&avad=269061_b21c40be9&utm_medium=Influencer&utm_source=www.youtube.com%2Fuser%2Fdbecker789&utm_campaign=Custom+Link&utm_term=influencer
 katadyne befree filter &  bottle
 darn tough socks
-
+Snow Peak Hot Lips
+https://www.gossamergear.com/collections/shelters-sleeping-pads/products/twinn-tarp?variant=30496350540
 
 exped meta mat duo is cool and insane - https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-mattress/exped-megamat-duo-10
 
+garmin inreach mini
+https://www.gossamergear.com/collections/accessories/products/thinlight-foam-pad?variant=30497164620
+
+another buff (light)
 big agnes doublewide bag
 drybag for food
 dry bag for trash
 dog poop bags for garbage
 Petacc Pet Training Bag Silicone Dog Training Pouch
-
+https://appalachiangearcompany.com/collections/mens/products/mens-all-paca-fleece-hoodie?variant=29355746328660
 sleeping bag
 sleeping bag liner
 
 LuminAID Solar Inflatable Lanterns
 Fire Starter
+20% Picaridin Insect Repellent
+[Smokeless fire starters](https://www.amazon.com/gp/product/B005NGMJLY/)
 
 mec:
 pillows
@@ -29,12 +36,13 @@ another 8l compression stuff sack
 knife for me
 saw
 
+https://www.adventurealan.com/couples-ultralight-backpacking-gear/
+
+
 toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
 floss
 Bellows Collapsible Fire Tool
-
-
-tent footprint
+Tyvek Ground Sheet Tent
 tent fast and light body
 northmen finnish slplitting axe
 
