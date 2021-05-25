@@ -1,7 +1,5 @@
 # Wishlist
 
-- Pillows
-- water bottle(s)
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - Ikea BITTERGURKA planter (marketplace)
 - Fire extinguisher
@@ -54,6 +52,7 @@
 
 ## Other
 
+- Pillows
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - flexible firsbee
 - velcro pads and ball
