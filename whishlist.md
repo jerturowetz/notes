@@ -20,7 +20,7 @@
 - Home depot:
   - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
   - chain and rings for hanging planters
-  - Gear for aircraft cable
+  - swaging tool + Ferrules for aircraft cable
   - Wood for flower box top
 - Matador stuff:
   - Ultraight travel towel
@@ -36,8 +36,7 @@
 
 - Zpacks of EE rain wear
 - City rain coat: (TECH TRENCH 3L, stutterheim)
-
-
+- Liner gloves
 - Pocket knife
 - Xtratuf rain boots
 - Myabe another hXC rain boot, like mucboot or kamik

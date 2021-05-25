@@ -18,6 +18,9 @@ Petacc Pet Training Bag Silicone Dog Training Pouch
 sleeping bag
 sleeping bag liner
 
+LuminAID Solar Inflatable Lanterns
+Fire Starter
+
 mec:
 pillows
 another 8l compression stuff sack
@@ -28,7 +31,7 @@ saw
 
 toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
 floss
-
+Bellows Collapsible Fire Tool
 
 
 tent footprint
