@@ -1,5 +1,8 @@
 # Groceries
 
+method hand soap
+april
+
 - oranges
 - daikon
 - bread
