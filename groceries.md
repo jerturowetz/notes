@@ -1,27 +1,20 @@
 # Groceries
 
-Bananas
-Strawberries
-Blueberries
-Oranges
-Carrots
-Cheedar/emmental
-Bagels/sandwich rolls
-#2 coffee filters
-Coffee
-
---
-
+- strawberries
 - oranges
 - daikon
+- Carrots
 - bread
+- Emmental
 - coconut water
 - barkeepers friend
 - kleenex
 - heavy duty garbage bags
 - Dijon mustard
+- Coffee
 - oxo cereal container x2
 - ultra flexible spatula
+- 1% Milk
 - N/A beer
 - coke
 - perrier
