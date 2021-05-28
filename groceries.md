@@ -1,5 +1,10 @@
 # Groceries
 
+method hand soap
+april
+#2 coffee filters
+
+
 - oranges
 - daikon
 - bread
