@@ -1,9 +1,16 @@
 # Groceries
 
-method hand soap
-april
+Bananas
+Strawberries
+Blueberries
+Oranges
+Carrots
+Cheedar/emmental
+Bagels/sandwich rolls
 #2 coffee filters
+Coffee
 
+--
 
 - oranges
 - daikon
@@ -12,7 +19,7 @@ april
 - barkeepers friend
 - kleenex
 - heavy duty garbage bags
-- jam
+- Dijon mustard
 - oxo cereal container x2
 - ultra flexible spatula
 - N/A beer
@@ -22,6 +29,7 @@ april
 - frozen tropical fruits
 - method hand soap
 - advil
+- tylonol cough & cold
 
 ## Chinese grocery
 
