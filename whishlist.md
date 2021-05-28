@@ -1,5 +1,6 @@
 # Wishlist
 
+- industrial air freshener for shed
 - [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
 - Therm-a-Rest Compressible Pillow

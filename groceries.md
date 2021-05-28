@@ -1,8 +1,5 @@
 # Groceries
 
-method hand soap
-april
-
 - oranges
 - daikon
 - bread
@@ -18,6 +15,8 @@ april
 - perrier
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 - frozen tropical fruits
+- method hand soap
+- advil
 
 ## Chinese grocery
 
