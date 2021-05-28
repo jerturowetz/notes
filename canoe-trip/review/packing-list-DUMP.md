@@ -8,7 +8,18 @@ darn tough socks
 Snow Peak Hot Lips
 https://www.gossamergear.com/collections/shelters-sleeping-pads/products/twinn-tarp?variant=30496350540
 
+Doublewide sleeping bag (Sierra Designs Backcountry Bed Duo, Big agnes system, Thermarest system)
+
 exped meta mat duo is cool and insane - https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-mattress/exped-megamat-duo-10
+
+
+Car camping sleep system:
+0 degree doublewide sleeping bag
+sleeping pad to match
+it doesn really go down below 7degrees at Lav between june-august
+
+
+
 
 garmin inreach mini
 https://www.gossamergear.com/collections/accessories/products/thinlight-foam-pad?variant=30497164620
