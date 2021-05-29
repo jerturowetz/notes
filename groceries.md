@@ -1,11 +1,15 @@
 # Groceries
 
+meat for the week & sides
+
+- smoked salmon
 - strawberries
 - oranges
 - daikon
 - Carrots
-- bread
+- green leaf
 - Emmental
+- bread
 - coconut water
 - barkeepers friend
 - kleenex
@@ -15,6 +19,9 @@
 - oxo cereal container x2
 - ultra flexible spatula
 - 1% Milk
+- Eggs
+- Vanilla & reg yogurt
+- Charcoal
 - N/A beer
 - coke
 - perrier
@@ -23,6 +30,11 @@
 - method hand soap
 - advil
 - tylonol cough & cold
+
+## Pasta atore
+
+- Noodles
+- Scicilian sauce
 
 ## Chinese grocery
 
