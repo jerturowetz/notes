@@ -1,15 +1,7 @@
 # Groceries
 
-meat for the week & sides
+- vegetarian bbq?
 
-vegetarian bbq
-
-- bacon
-- break sausage
-- bread
-- rolls/muffins
-
-- smoked salmon
 - strawberries, blueberrie
 - bananas
 - apples
@@ -17,8 +9,12 @@ vegetarian bbq
 - daikon
 - Carrots
 - green leaf
+- Cheddar
 - Emmental
 - bread
+- rolls/muffins
+- meat for the week & sides
+- breakfast sausage
 - coconut water
 - barkeepers friend
 - kleenex
@@ -29,6 +25,7 @@ vegetarian bbq
 - ultra flexible spatula
 - Eggs
 - Vanilla & reg yogurt
+- bacon
 - Charcoal
 - N/A beer
 - coke
