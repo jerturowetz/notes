@@ -2,8 +2,17 @@
 
 meat for the week & sides
 
+vegetarian bbq
+
+- bacon
+- break sausage
+- bread
+- rolls/muffins
+
 - smoked salmon
-- strawberries
+- strawberries, blueberrie
+- bananas
+- apples
 - oranges
 - daikon
 - Carrots
@@ -18,7 +27,6 @@ meat for the week & sides
 - Coffee
 - oxo cereal container x2
 - ultra flexible spatula
-- 1% Milk
 - Eggs
 - Vanilla & reg yogurt
 - Charcoal

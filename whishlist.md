@@ -1,5 +1,15 @@
 # Wishlist
 
+hubba hubba nx 2 person footprint
+
+Gloria Lechner
+rozzee
+sandy &leanord
+lorna
+maureen
+??? who else
+
+
 - anothrt ikea swuid
 - industrial air freshener for shed
 - [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
