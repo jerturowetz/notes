@@ -2,12 +2,17 @@
 
 hubba hubba nx 2 person footprint
 
-Gloria Lechner
-rozzee
+Gloria Lechner 514-726-5399
 sandy &leanord
 lorna
 maureen
 ??? who else
+
+called
+roz
+joyce
+riva
+
 
 
 - anothrt ikea swuid

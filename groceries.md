@@ -2,18 +2,11 @@
 
 - vegetarian bbq?
 
-- strawberries, blueberrie
-- bananas
+- blueberrie
 - apples
-- oranges
 - daikon
 - Carrots
-- green leaf
-- Cheddar
 - Emmental
-- bread
-- rolls/muffins
-- meat for the week & sides
 - breakfast sausage
 - coconut water
 - barkeepers friend
@@ -23,9 +16,7 @@
 - Coffee
 - oxo cereal container x2
 - ultra flexible spatula
-- Eggs
-- Vanilla & reg yogurt
-- bacon
+- Vanilla yogurt
 - Charcoal
 - N/A beer
 - coke
@@ -34,7 +25,7 @@
 - frozen tropical fruits
 - method hand soap
 - advil
-- tylonol cough & cold
+- claratin
 
 ## Pasta atore
 
