@@ -13,9 +13,9 @@ roz
 joyce
 riva
 
+waldo ahorts
 
 
-- anothrt ikea swuid
 - industrial air freshener for shed
 - [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
@@ -24,7 +24,6 @@ riva
 - Fire extinguisher
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)
-- Shelves for front closet
 - Amazon:
   - thinner socks
   - 3-4 quality binders for green bins
@@ -33,7 +32,6 @@ riva
   - POSCA white paint pen
   - waldo PJs & socks (carters)
   - Label maker refills
-  - [Toaks UL pot](https://www.amazon.com/gp/product/B00CYA26BU/)
 - Simons:
   - 1 normal pillow protector
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
@@ -75,12 +73,11 @@ riva
 
 ## Other
 
-- white fabric markert
+- white fabric marker
 - 8qt/12qt pot
 - Pillows
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - flexible firsbee
-- velcro pads and ball
 - big red handle spatula
 - better apple corer
 - better hose
@@ -90,7 +87,7 @@ riva
 - [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
 - Mini food processor
 - Monitor arm
-- Leather gloves for barbecue
+- Leather gloves for barbecue/gardening
 - National treasure mug for Travis
 - Roomba
 - Dyson
