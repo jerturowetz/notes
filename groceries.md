@@ -1,10 +1,7 @@
 # Groceries
 
-- vegetarian bbq?
-
 - blueberrie
 - apples
-- daikon
 - Carrots
 - Emmental
 - breakfast sausage
@@ -13,13 +10,13 @@
 - kleenex
 - heavy duty garbage bags
 - Dijon mustard
+- rice vinegar
 - Coffee
 - oxo cereal container x2
 - ultra flexible spatula
 - Vanilla yogurt
 - Charcoal
 - N/A beer
-- coke
 - perrier
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 - frozen tropical fruits
