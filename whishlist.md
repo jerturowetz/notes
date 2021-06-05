@@ -1,5 +1,12 @@
 # Wishlist
 
+
+blog building is nearly there will launxh somethong over the weekend. this comes with the del
+nav building
+performance bugs
+cloudflare optimizations
+
+
 hubba hubba nx 2 person footprint
 
 Gloria Lechner 514-726-5399
