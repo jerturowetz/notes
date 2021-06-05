@@ -1,7 +1,6 @@
 
 # Groceries
 
-- 30L garbage bags
 - Emmental
 - breakfast sausage
 - coconut water
@@ -15,9 +14,13 @@
 - Charcoal
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 - frozen tropical fruits
+
+## Phammaprix
+
 - method hand soap
 - advil
 - claratin
+- 30L garbage bags
 
 ## Pasta atore
 
