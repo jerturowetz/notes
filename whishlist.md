@@ -1,13 +1,11 @@
 # Wishlist
 
+- brabantia garbage bags
+- madela milk bags
+- Bike wall mount
+- swaging tool + Ferrules for aircraft cable
 
-blog building is nearly there will launxh somethong over the weekend. this comes with the del
-nav building
-performance bugs
-cloudflare optimizations
-
-
-hubba hubba nx 2 person footprint
+--
 
 Gloria Lechner 514-726-5399
 sandy &leanord
@@ -15,51 +13,14 @@ lorna
 maureen
 ??? who else
 
-called
+called:
 roz
 joyce
 riva
 
-waldo ahorts
-
-
-- industrial air freshener for shed
-- [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
-- $350 exped megamat duo 10 (w/ sheet & extra electric pump)
-- Therm-a-Rest Compressible Pillow
-- Tent footprint
-- Fire extinguisher
-- Brabantia Bo touch bin, 2x 30L
-- Dryer apt (max 30" wide x 24" deep)
-- Amazon:
-  - thinner socks
-  - 3-4 quality binders for green bins
-  - madela milk bags
-  - Bike wall mount
-  - POSCA white paint pen
-  - waldo PJs & socks (carters)
-  - Label maker refills
-- Simons:
-  - 1 normal pillow protector
-  - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
-  - Plastic/bamboo cuops and plates for waldo/outside
-- Home depot:
-  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
-  - chain and rings for hanging planters
-  - swaging tool + Ferrules for aircraft cable
-  - Wood for flower box top
-- Matador stuff:
-  - Ultraight travel towel
-  - Packable beach towel
-  - Packable Towel Poncho
-  - Waterproof Travel Canisters
-  - Pocket Blanket
-  - Pocket Blanket Mini
-  - Packable Tote
-  - Waterproof Toiletry Case
-
 ## Clothes
 
+- white socks
 - EE VISP rain wear
 - Pocket knife
 - Xtratuf rain boots
@@ -80,6 +41,30 @@ waldo ahorts
 
 ## Other
 
+- $350 exped megamat duo 10 (w/ sheet & extra electric pump)
+- Therm-a-Rest Compressible Pillow
+- hubba hubba nx 2 person footprint
+- Fire extinguisher
+- Brabantia Bo touch bin, 2x 30L
+- Dryer apt (max 30" wide x 24" deep)
+- Label maker refills
+- Simons:
+  - 1 normal pillow protector
+  - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
+  - Plastic/bamboo cuops and plates for waldo/outside
+- Home depot:
+  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
+  - chain and rings for hanging planters
+  - Wood for flower box top
+- Matador stuff:
+  - Ultraight travel towel
+  - Packable beach towel
+  - Packable Towel Poncho
+  - Waterproof Travel Canisters
+  - Pocket Blanket
+  - Pocket Blanket Mini
+  - Packable Tote
+  - Waterproof Toiletry Case
 - white fabric marker
 - 8qt/12qt pot
 - Pillows

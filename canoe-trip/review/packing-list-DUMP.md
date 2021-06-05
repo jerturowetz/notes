@@ -19,6 +19,7 @@ sleeping pad to match
 it doesn really go down below 7degrees at Lav between june-august
 
 
+- [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
 
 
 garmin inreach mini

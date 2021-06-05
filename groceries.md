@@ -1,6 +1,7 @@
 
 # Groceries
 
+- 30L garbage bags
 - Emmental
 - breakfast sausage
 - coconut water
