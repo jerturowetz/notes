@@ -1,6 +1,7 @@
 
 # Groceries
 
+- short olive oil
 - Emmental
 - breakfast sausage
 - coconut water
