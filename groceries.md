@@ -1,7 +1,7 @@
 
 # Groceries
 
-- short olive oil
+
 - Emmental
 - breakfast sausage
 - coconut water
@@ -9,6 +9,8 @@
 - kleenex
 - heavy duty garbage bags
 - vegetable oil
+- pickled beets
+- short olive oil
 - shreddies
 - oxo cereal container x2
 - ultra flexible spatula
