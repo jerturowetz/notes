@@ -1,6 +1,7 @@
 
 # Groceries
 
+- 1% milk
 - Emmental
 - breakfast sausage
 - coconut water
