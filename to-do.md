@@ -5,8 +5,6 @@
   - 93BA G8HF GCEH EHB4
 - hang tarp
 - digitize kates vhs tapes
-- call simons re pillows
-- baby urine tests
 - Sell dell laptop
 - Front of house bin for recycling
 - Backyard toy storage
