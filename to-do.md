@@ -1,5 +1,13 @@
 # Jeremy's To-Do List
 
+- Thank yous:
+  - Gloria Lechner 514-726-5399
+  - sandy &leanord
+  - lorna
+  - maureen
+  - nancy (no gift but thanks)
+  - ??? who else
+  - called: roz, joyce, riva
 - Reserve culinaire
   - DCG7 HHC3 9H2A 6FD3
   - 93BA G8HF GCEH EHB4

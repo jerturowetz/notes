@@ -1,25 +1,7 @@
 # Wishlist
 
-- brabantia garbage bags
+- [canon ae1 lens cover](https://www.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - madela milk bags
-- Bike wall mount
-- swaging tool + Ferrules for aircraft cable
-
-canon ae1 lens cover
-inglesia baby chair replacement pad
-
---
-
-Gloria Lechner 514-726-5399
-sandy &leanord
-lorna
-maureen
-??? who else
-
-called:
-roz
-joyce
-riva
 
 ## Clothes
 
