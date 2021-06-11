@@ -1,11 +1,19 @@
 
 # Groceries
 
+- baby carrots
+- regular carrots
+- strawberries
+- blueberries
+- bread
+- rolls/english muffins
+- baby milk
+- eggs
+- granola
+- parchment paper
 - Emmental
 - coconut water
 - barkeepers friend
-- oxo cereal container x2
-- ultra flexible spatula
 - Charcoal bricks
 - Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 
