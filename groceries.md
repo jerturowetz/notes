@@ -1,6 +1,9 @@
 
 # Groceries
 
+- both milk
+- #6 diapers
+
 - salted & unslated butter
 - vegan mayo
 - vanilla
@@ -13,7 +16,6 @@
 - peaches
 - bread
 - rolls/english muffins
-- baby milk
 - eggs
 - granola
 - parchment paper
