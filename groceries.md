@@ -1,6 +1,9 @@
 
 # Groceries
 
+- salted & unslated butter
+- vegan mayo
+- vanilla
 - baby carrots
 - regular carrots
 - peppers
