@@ -1,20 +1,14 @@
 
 # Groceries
 
-- both milk
-- #6 diapers
-
 - salted & unslated butter
 - vegan mayo
 - vanilla
 - baby carrots
-- regular carrots
 - peppers
 - strawberries
 - blueberries
-- bananas
-- peaches
-- bread
+- peaches, red apples
 - rolls/english muffins
 - eggs
 - granola
