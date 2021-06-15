@@ -13,6 +13,8 @@
 - granola
 - hanitant soup
 - bread
+- N/A beer
+- Sausage buns
 - salted & unslated butter
 - vegan mayo
 - vanilla
@@ -20,7 +22,7 @@
 - peppers
 - strawberries
 - blueberries
-- peaches, red apples
+- peaches, apples
 - rolls/english muffins
 - eggs
 - granola
