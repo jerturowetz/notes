@@ -1,6 +1,13 @@
 
 # Groceries
 
+- cheerios
+- hot dog buns
+- hoisin sauce
+- granola bars
+- granola
+- hanitant soup
+- bread
 - salted & unslated butter
 - vegan mayo
 - vanilla
