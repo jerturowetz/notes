@@ -1,6 +1,11 @@
 
 # Groceries
 
+- bananas
+- bacon
+- break sausage
+- chk to freeze
+- pork shoulder to freeze
 - cheerios
 - hot dog buns
 - hoisin sauce
