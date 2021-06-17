@@ -2,37 +2,33 @@
 # Groceries
 
 - bananas
-- bacon
-- break sausage
-- chk to freeze
-- pork shoulder to freeze
-- cheerios
-- hot dog buns
-- hoisin sauce
-- granola bars
-- granola
-- hanitant soup
-- bread
-- N/A beer
-- Sausage buns
-- salted & unslated butter
-- vegan mayo
-- vanilla
 - baby carrots
 - peppers
 - strawberries
 - blueberries
 - peaches, apples
+- spinach
+- Emmental/provolone slices
+- Sausage buns
+- bread
 - rolls/english muffins
-- eggs
-- granola
-- parchment paper
-- paper towels
-- Emmental
+- chk to freeze
+- pork shoulder to freeze
+- bacon
+- break sausage
 - coconut water
 - barkeepers friend
+- paper towels
+- granola
+- cheerios
+- hoisin sauce
+- vegan mayo
+- vanilla
+- parchment paper
+- salted & unslated butter
+- eggs
+- N/A beer
 - Charcoal bricks
-- Nature valley "Lunch Box" chocolate chip granola bars (high fiber)
 
 ## Phammaprix
 
