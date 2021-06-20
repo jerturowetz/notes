@@ -1,5 +1,12 @@
 # Wishlist
 
+canadian tire fixed loop
+paper bags
+
+packout bin dividers
+
+- 2 madesmart bins
+- But really the frame for the shark lady
 - [canon ae1 lens cover](https://www.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - madela milk bags
 
