@@ -1,11 +1,6 @@
 # Wishlist
 
-canadian tire fixed loop
-paper bags
-
-packout bin dividers
-
-- 2 madesmart bins
+- madesmart bins
 - But really the frame for the shark lady
 packout bin dividers
 
@@ -14,17 +9,13 @@ Milwaukee Tool PACKOUT 22-inch Rolling Tool Box
 packout regular full size bits holder (screws)
 packout 1/2 size low profile bits holder (ferrules)
 
-
-
-label maker
+label maker refill
 
 husky click bin
 https://www.homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012
 
 
-
-
-- [canon ae1 lens cover](https://www.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
+- [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - madela milk bags
 
 ## Clothes
