@@ -1,20 +1,14 @@
 # Wishlist
 
-- madesmart bins
-- But really the frame for the shark lady
-packout bin dividers
-
-small carabbiner x2
 Milwaukee Tool PACKOUT 22-inch Rolling Tool Box
 packout regular full size bits holder (screws)
 packout 1/2 size low profile bits holder (ferrules)
 
-label maker refill
+--
 
-husky click bin
-https://www.homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/1000752012
-
-
+- madesmart bins
+- But really the frame for the shark lady
+- packout bin dividers
 - [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - madela milk bags
 
@@ -51,11 +45,7 @@ https://www.homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/10007
 - Simons:
   - 1 normal pillow protector
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
-  - Plastic/bamboo cuops and plates for waldo/outside
-- Home depot:
-  - [6 1/2" circ saw DHS680Z](https://www.rona.ca/en/cordless-circular-saw-6-1-2-18-v-11975400)
-  - chain and rings for hanging planters
-  - Wood for flower box top
+  - Pillows
 - Matador stuff:
   - Ultraight travel towel
   - Packable beach towel
@@ -65,13 +55,11 @@ https://www.homedepot.ca/product/husky-12-inch-stackable-click-bin-in-grey/10007
   - Pocket Blanket Mini
   - Packable Tote
   - Waterproof Toiletry Case
+- Wood for flower box top
 - white fabric marker
 - 8qt/12qt pot
-- Pillows
 - Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- flexible firsbee
 - big red handle spatula
-- better apple corer
 - better hose
 - hose bucket
 - bird water feeder
