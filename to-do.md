@@ -2,7 +2,7 @@
 
 - Thank yous:
   - Gloria Lechner 514-726-5399
-  - sandy &leanord
+  - sandy & leanord
   - lorna
   - maureen
   - nancy (no gift but thanks)
