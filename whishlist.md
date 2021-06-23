@@ -11,7 +11,6 @@
 - Pocket knife
 - Xtratuf rain boots
 - Myabe another hXC rain boot, like mucboot or kamik
-- Toms shoes
 - Base layer (helly hanson, patagonia, nike?)
 - Jeans
 - Kodiak gloves
