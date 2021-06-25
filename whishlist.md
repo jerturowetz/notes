@@ -4,9 +4,26 @@
 [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
 [Reaming pen](https://www.homedepot.ca/product/milwaukee-tool-reaming-pen/1001385645)
 
+- madela milk bags
+- $350 exped megamat duo 10 (w/ sheet & extra electric pump)
+- Therm-a-Rest Compressible Pillow
+- hubba hubba nx 2 person footprint
+
+- Label maker refills
+- packout bin dividers
+- [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
+- Sonos One (SL?) x2
+- white socks
+- Leather gloves for barbecue/gardening
+- National treasure mug for Travis
+- Mini food processor
+- big red handle spatula
+- whisk
+
+
+
 ## Clothes
 
-- white socks
 - EE VISP rain wear
 - Pocket knife
 - Xtratuf rain boots
@@ -26,16 +43,34 @@
 
 ## Other
 
-- madela milk bags
-- $350 exped megamat duo 10 (w/ sheet & extra electric pump)
-- Therm-a-Rest Compressible Pillow
-- hubba hubba nx 2 person footprint
 - Fire extinguisher
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)
-- Label maker refills
-- packout bin dividers
-- [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
+- Wood for flower box top
+- 8qt/12qt pot
+- Wood for trones 40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
+- better hose
+- hose bucket
+- Monitor arm
+- Roomba
+- Dyson
+- Gift for James parents (mom number: 514-974-8473)
+- Gift for Bart and Danielle
+- Refrigerator toe grille
+- Rad dad shirt for marc
+- $200 Angelo, Andrew, Joe gifts
+- $100 Fer sher
+- dolce bianca or slumber cloud sheet set (both?)
+- Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
+- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
+- [Cool art](https://www.concealed-art.com/nes-art)
+
+
+- Jam space upgrades:
+  - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
+  - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
+  - plywood sheet cut to 4'x2' slats
+  - Another amp stand?
 - Simons:
   - 1 normal pillow protector
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
@@ -49,38 +84,6 @@
   - Pocket Blanket Mini
   - Packable Tote
   - Waterproof Toiletry Case
-- Wood for flower box top
-- white fabric marker
-- 8qt/12qt pot
-- Wood for trones  40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- big red handle spatula
-- better hose
-- hose bucket
-- bird water feeder
-- dolce bianca or slumber cloud sheet set (both?)
-- [Pillow covers](https://deijistudios.com/collections/linen-duvet-sets)
-- Mini food processor
-- Monitor arm
-- Leather gloves for barbecue/gardening
-- National treasure mug for Travis
-- Roomba
-- Dyson
-- Gift for James parents (mom number: 514-974-8473)
-- Gift for Bart and Danielle
-- Brita
-- Refrigerator toe grille
-- Rad dad shirt for marc
-- Sonos One (SL?) x2
-- $200 Angelo, Andrew, Joe gifts
-- $100 Fer sher
-- [Cool art](https://www.concealed-art.com/nes-art)
-- Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
-- [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- Jam space upgrades:
-  - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
-  - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
-  - plywood sheet cut to 4'x2' slats
-  - Another amp stand?
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
