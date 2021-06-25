@@ -1,24 +1,36 @@
 # Wishlist
 
-[Packout 22in tool box](https://www.homedepot.ca/product/milwaukee-tool-packout-22-inch-tool-box-l/1001242092)
-[Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
-[Reaming pen](https://www.homedepot.ca/product/milwaukee-tool-reaming-pen/1001385645)
-
-- madela milk bags
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
 - Therm-a-Rest Compressible Pillow
 - hubba hubba nx 2 person footprint
 
+
+
 - Label maker refills
 - packout bin dividers
-- [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - Sonos One (SL?) x2
-- white socks
 - Leather gloves for barbecue/gardening
-- National treasure mug for Travis
-- Mini food processor
 - big red handle spatula
 - whisk
+
+
+
+
+
+Amazon
+[recyclbags](https://www.amazon.ca/dp/B00BMBR8I8/ref=sns_myd_detail_page)
+- madela milk bags
+- white socks
+
+
+Home depot
+Packout 22in tool box or bin
+[Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
+[Reaming pen](https://www.homedepot.ca/product/milwaukee-tool-reaming-pen/1001385645)
+
+
+
+
 
 
 
@@ -27,11 +39,7 @@
 - EE VISP rain wear
 - Pocket knife
 - Xtratuf rain boots
-- Myabe another hXC rain boot, like mucboot or kamik
-- Base layer (helly hanson, patagonia, nike?)
 - Jeans
-- Kodiak gloves
-- Ghost Whisperer Hooded Down jacket
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -51,21 +59,21 @@
 - Wood for trones 40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
 - better hose
 - hose bucket
-- Monitor arm
 - Roomba
 - Dyson
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
 - Refrigerator toe grille
+- Mini food processor
 - Rad dad shirt for marc
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
+- National treasure mug for Travis
 - dolce bianca or slumber cloud sheet set (both?)
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
-
-
+- [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
