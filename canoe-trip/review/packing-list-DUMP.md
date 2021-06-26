@@ -67,6 +67,12 @@ northmen finnish slplitting axe
 - Morakniv Bushcraft Knife, Black
 - [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
 
+
+
+spyderco salt
+spyderco rescure knife
+
+
 camping:
 pack pillows
 mec travel games

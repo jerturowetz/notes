@@ -1,37 +1,22 @@
 # Wishlist
 
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
-- Therm-a-Rest Compressible Pillow
-- hubba hubba nx 2 person footprint
-
-
-
-- Label maker refills
 - packout bin dividers
-- Sonos One (SL?) x2
 - Leather gloves for barbecue/gardening
-- big red handle spatula
-- whisk
-
-
-
-
-
-Amazon
-[recyclbags](https://www.amazon.ca/dp/B00BMBR8I8/ref=sns_myd_detail_page)
-- madela milk bags
-- white socks
-
 
 Home depot
 Packout 22in tool box or bin
 [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
-[Reaming pen](https://www.homedepot.ca/product/milwaukee-tool-reaming-pen/1001385645)
 
-
-
-
-
+MEC
+- Therm-a-Rest Compressible Pillow (Small & Med)
+- Mec deluxe pillow
+- MSR universal footprint (hubba hubba nx 2 ) https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint?colour=RED00
+- Boreal 21 Saw
+- Agawa Canyon Cordura Sheath
+FLip knife
+batoning knife
+cooking knife
 
 
 ## Clothes
@@ -65,6 +50,7 @@ Packout 22in tool box or bin
 - Gift for Bart and Danielle
 - Refrigerator toe grille
 - Mini food processor
+- Sonos One (SL?) x2
 - Rad dad shirt for marc
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
