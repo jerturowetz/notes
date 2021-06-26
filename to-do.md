@@ -1,5 +1,8 @@
 # Jeremy's To-Do List
 
+- hang tarp
+- bring in kates bike
+- check out what to do about cocovillage helmet
 - Thank yous:
   - sandy & leanord
   - nancy (no gift but thanks)
