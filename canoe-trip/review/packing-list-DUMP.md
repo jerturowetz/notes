@@ -67,6 +67,8 @@ northmen finnish slplitting axe
 - Morakniv Bushcraft Knife, Black
 - [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
 
+- nrs neko blunt & gerber river shorty
+- KastKing Fillet Knife (cooking)
 
 
 spyderco salt

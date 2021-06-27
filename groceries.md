@@ -1,6 +1,14 @@
 
 # Groceries
 
+- carrots
+- green beans
+- strawberries
+- bananas
+- oranges
+- both milk
+- bread
+- sadwich bread
 - coffee
 - eggs
 - unsalted butter

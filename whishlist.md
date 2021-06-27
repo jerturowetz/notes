@@ -3,6 +3,18 @@
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
 - packout bin dividers
 - Leather gloves for barbecue/gardening
+- Morakniv Bushcraft Survival Fixed Blade
+- condor bush lore https://www.bladehq.com/item--Condor-Bushlore-Knife-Fixed-Blade-w--11206
+- reel steel https://www.bladehq.com/item--Real-Steel-Bushcraft-III-Fixed--95337
+
+
+
+flip blade?
+
+somethig for camp kitchen?
+- gerber ziltch, Gerber Affinity
+
+
 
 Home depot
 Packout 22in tool box or bin
@@ -14,9 +26,6 @@ MEC
 - MSR universal footprint (hubba hubba nx 2 ) https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint?colour=RED00
 - Boreal 21 Saw
 - Agawa Canyon Cordura Sheath
-FLip knife
-batoning knife
-cooking knife
 
 
 ## Clothes
