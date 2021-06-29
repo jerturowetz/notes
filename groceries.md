@@ -1,6 +1,7 @@
 
 # Groceries
 
+- dinner stuff
 - carrots
 - green beans
 - strawberries
