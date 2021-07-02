@@ -1,5 +1,9 @@
 # Wishlist
 
+bike pump
+fischer price
+bongos
+Pack towel holder
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
 - packout bin dividers
 - Leather gloves for barbecue/gardening
