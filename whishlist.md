@@ -1,36 +1,22 @@
 # Wishlist
 
-bike pump
-fischer price
-bongos
-Pack towel holder
+- cotton balls w/vasolinefofr fire making
+- fire steel
 - $350 exped megamat duo 10 (w/ sheet & extra electric pump)
-- packout bin dividers
-- Leather gloves for barbecue/gardening
-- Morakniv Bushcraft Survival Fixed Blade
-- condor bush lore https://www.bladehq.com/item--Condor-Bushlore-Knife-Fixed-Blade-w--11206
-- reel steel https://www.bladehq.com/item--Real-Steel-Bushcraft-III-Fixed--95337
-
-
-
-flip blade?
-
-somethig for camp kitchen?
-- gerber ziltch, Gerber Affinity
-
-
-
-Home depot
-Packout 22in tool box or bin
-[Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
-
-MEC
-- Therm-a-Rest Compressible Pillow (Small & Med)
-- Mec deluxe pillow
-- MSR universal footprint (hubba hubba nx 2 ) https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint?colour=RED00
-- Boreal 21 Saw
-- Agawa Canyon Cordura Sheath
-
+- Home depot
+  Packout 22in tool box or bin
+  [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
+- MEC:
+  - Therm-a-Rest Compressible Pillow (Small & Med)
+  - Mec deluxe pillow
+  - [MSR universal footprint (hubba hubba nx 2 )](https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint?colour=RED00)
+  - Boreal 21 Saw
+  - Agawa Canyon Cordura Sheath
+- Blade HQ:
+  - CRKT Burnley Squid
+  - Olight I3T EOS
+  - CRKT Folts Minimalist
+  - ESEE Izula-II
 
 ## Clothes
 
@@ -49,6 +35,12 @@ MEC
 
 ## Other
 
+- bike pump
+- fischer price stuff
+- bongos
+- Pack towel holders
+- packout bin dividers
+- Leather gloves for barbecue/gardening
 - Fire extinguisher
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)

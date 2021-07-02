@@ -1,5 +1,6 @@
 # Canoe trip gear list
 
+Esee 4 or 6
 better tent stakes
 msr groundhog
 https://www.backcountry.com/msr-groundhog-tent-stake-kit?s=a&avad=269061_b21c40be9&utm_medium=Influencer&utm_source=www.youtube.com%2Fuser%2Fdbecker789&utm_campaign=Custom+Link&utm_term=influencer
@@ -11,16 +12,17 @@ https://www.gossamergear.com/collections/shelters-sleeping-pads/products/twinn-t
 Doublewide sleeping bag (Sierra Designs Backcountry Bed Duo, Big agnes system, Thermarest system)
 
 exped meta mat duo is cool and insane - https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-mattress/exped-megamat-duo-10
-
+[like nicest spyderco chefs knife](https://www.bladehq.com/item--Spyderco-SpydieChef-Frame-Lock--36436)
 
 Car camping sleep system:
 0 degree doublewide sleeping bag
 sleeping pad to match
 it doesn really go down below 7degrees at Lav between june-august
-
+spyderco salt 2 for camp kitchen
 
 - [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
 
+- condor bush lore https://www.bladehq.com/item--Condor-Bushlore-Knife-Fixed-Blade-w--11206
 
 garmin inreach mini
 https://www.gossamergear.com/collections/accessories/products/thinlight-foam-pad?variant=30497164620
@@ -50,6 +52,8 @@ saw
 
 https://www.adventurealan.com/couples-ultralight-backpacking-gear/
 
+companion pocket knife like a esee izula or a spyderco endura 4
+spyderco delica for slicing !!
 
 toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
 floss
@@ -73,6 +77,28 @@ northmen finnish slplitting axe
 
 spyderco salt
 spyderco rescure knife
+
+Morakniv Bushcraft Survival Fixed Blade
+For me, like I REALLY WANT THIS: Benchmade altitude (get artemis carry sheath)
+Need some type of PDF blade
+maybe a spyderco rescue knife
+
+Ontario rat 7 or esee 6
+20" bushcraft axe ?
+White River M1 Backpacker (i think this would be a perfect personal knife), maybe a benchmade pukko
+Mora bushcraft
+
+Spare Knives:
+Vicorinox Cadet Alox (for kate?)
+Vicorinox super tinker or compact (mdekit)
+Olight baton 3 (rechargable eh, good if society falls apart)
+ESSE Junglas (machete)
+
+LIKE PROBABLY NOT NECESS:
+Spyderco Native 5 Salt (canoe camping general use, boating)
+Bradford Knives Guardian3 3D Black Micarta (boot sheath?)
+Kizer Vanguard Mini Sheepdog Green Micarta (tough sheepsfoot city EDC, think boxes at office)
+Benchmade Mini Bugout (city EDC)
 
 
 camping:
