@@ -17,6 +17,14 @@
   - Olight I3T EOS
   - CRKT Folts Minimalist
   - ESEE Izula-II
+- Matador:
+  - [Soap case][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
+  - [Blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
+  - [Cannisters](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-100ml)
+  - [Tall cannister](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-small)
+  - [Toothbrush caps](https://matadorup.com/collections/accessories/products/toothbrush-caps)
+
+
 
 ## Clothes
 
