@@ -2,20 +2,12 @@
 # Groceries
 
 - dinner stuff
-- carrots
-- green beans
-- strawberries
-- bananas
-- oranges
-- both milk
 - bread
 - sadwich bread
-- coffee
-- eggs
-- unsalted butter
-- vanilla yogurt
+- english muffins
+- fancy jam
+- peanut butter
 - N/A beer
-- Charcoal bricks
 
 ## Phammaprix
 
