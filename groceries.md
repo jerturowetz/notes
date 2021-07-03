@@ -4,8 +4,12 @@
 - dinner stuff
 - bread
 - sadwich bread
-- english muffins
+- english muffinseerios/shreddies
 - fancy jam
+- penne
+- pesto
+- granola
+- ch
 - peanut butter
 - N/A beer
 
