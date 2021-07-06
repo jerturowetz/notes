@@ -4,7 +4,8 @@
 - dinner stuff
 - bread
 - sadwich bread
-- english muffinseerios/shreddies
+- english muffins
+- cheerios/shreddies
 - fancy jam
 - penne
 - pesto
@@ -16,6 +17,7 @@
 ## Phammaprix
 
 - Baby soap: Cetaphil
+- baby tylonol
 
 ## Pasta atore
 
