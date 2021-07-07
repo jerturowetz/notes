@@ -1,5 +1,11 @@
 # Canoe trip gear list
 
+hidden woodsmen tinder bag (used for tinder/food)
+thermarest neo air xtherm
+9x9 sil nylon tarp
+[Signal panel(for sitting when wet and collecting wood shavings)](https://thehiddenwoodsmen.com/product/signal-panel/)
+marmot down sleeping bag for sping camping
+$500 exped megamat duo 10 (w/ sheet & extra electric pump)
 Esee 4 or 6
 better tent stakes
 msr groundhog
@@ -8,25 +14,20 @@ katadyne befree filter &  bottle
 darn tough socks
 Snow Peak Hot Lips
 https://www.gossamergear.com/collections/shelters-sleeping-pads/products/twinn-tarp?variant=30496350540
-
 Doublewide sleeping bag (Sierra Designs Backcountry Bed Duo, Big agnes system, Thermarest system)
-
 exped meta mat duo is cool and insane - https://www.outdoorgearlab.com/reviews/camping-and-hiking/camping-mattress/exped-megamat-duo-10
 [like nicest spyderco chefs knife](https://www.bladehq.com/item--Spyderco-SpydieChef-Frame-Lock--36436)
-
 Car camping sleep system:
 0 degree doublewide sleeping bag
 sleeping pad to match
 it doesn really go down below 7degrees at Lav between june-august
 spyderco salt 2 for camp kitchen
-
-- [tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
-
-- condor bush lore https://www.bladehq.com/item--Condor-Bushlore-Knife-Fixed-Blade-w--11206
-
+[tiny pump](https://www.amazon.com/gp/product/B08D5RBJPB/)
+condor bush lore https://www.bladehq.com/item--Condor-Bushlore-Knife-Fixed-Blade-w--11206
+wool blanket
+Pendleton Yakima Camp Thick Warm Wool Indoor Outdoor Striped Throw Blanket
 garmin inreach mini
 https://www.gossamergear.com/collections/accessories/products/thinlight-foam-pad?variant=30497164620
-
 another buff (light)
 big agnes doublewide bag
 drybag for food
@@ -36,72 +37,50 @@ Petacc Pet Training Bag Silicone Dog Training Pouch
 https://appalachiangearcompany.com/collections/mens/products/mens-all-paca-fleece-hoodie?variant=29355746328660
 sleeping bag
 sleeping bag liner
-
 LuminAID Solar Inflatable Lanterns
 Fire Starter
 20% Picaridin Insect Repellent
 [Smokeless fire starters](https://www.amazon.com/gp/product/B005NGMJLY/)
-
-mec:
-pillows
 another 8l compression stuff sack
 15l event compression dry sack
 2x10L stuff sacks (not compression)
 knife for me
 saw
-
 https://www.adventurealan.com/couples-ultralight-backpacking-gear/
-
 companion pocket knife like a esee izula or a spyderco endura 4
 spyderco delica for slicing !!
-
 toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
 floss
 Bellows Collapsible Fire Tool
 Tyvek Ground Sheet Tent
 tent fast and light body
 northmen finnish slplitting axe
-
-- Thermarest neo air
-- Thermarest neo air xtherm
-- firesteel
-- [Gränsfors Outdoor Axe](https://www.gransforsbruk.com/en/product/gransfors-outdoor-axe/)
-- Agawa Canyon Boreal 21
-- Silky Gomboy Folding Saw
-- Morakniv Bushcraft Knife, Black
-- [adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
-
-- nrs neko blunt & gerber river shorty
-- KastKing Fillet Knife (cooking)
-
-
+Thermarest neo air
+Thermarest neo air xtherm
+[Gränsfors Outdoor Axe](https://www.gransforsbruk.com/en/product/gransfors-outdoor-axe/)
+Silky Gomboy Folding Saw
+Morakniv Bushcraft Knife, Black
+[adveturesworn explorer](https://www.adventuresworn.com/products/explorer)
+nrs neko blunt & gerber river shorty
+KastKing Fillet Knife (cooking)
 spyderco salt
 spyderco rescure knife
-
 Morakniv Bushcraft Survival Fixed Blade
 For me, like I REALLY WANT THIS: Benchmade altitude (get artemis carry sheath)
 Need some type of PDF blade
 maybe a spyderco rescue knife
-
 Ontario rat 7 or esee 6
 20" bushcraft axe ?
 White River M1 Backpacker (i think this would be a perfect personal knife), maybe a benchmade pukko
 Mora bushcraft
-
-Spare Knives:
+better machete
 Vicorinox Cadet Alox (for kate?)
 Vicorinox super tinker or compact (mdekit)
 Olight baton 3 (rechargable eh, good if society falls apart)
-ESSE Junglas (machete)
-
-LIKE PROBABLY NOT NECESS:
 Spyderco Native 5 Salt (canoe camping general use, boating)
 Bradford Knives Guardian3 3D Black Micarta (boot sheath?)
 Kizer Vanguard Mini Sheepdog Green Micarta (tough sheepsfoot city EDC, think boxes at office)
 Benchmade Mini Bugout (city EDC)
-
-
-camping:
 pack pillows
 mec travel games
 camp chairs (helinox?)
@@ -137,25 +116,17 @@ https://www.amazon.com/gp/product/B005BV87WQ/ref=as_li_tl?ie=UTF8&tag=darwionthe
 - small serrated knife
 - collapsible version of bug alumibum tin (for keepinng food warm)
 - [Ultralight trowel](http://www.thetentlab.com/Deuce/DeuceofSpadespage.html)
-
 good car camping kit (for feeling group of 8)
-
-- 4qt pot
-- 12" cast iron
-- other pan
-
-- tent footprint
-- big water jug with spout
-- abrasive scrub pads
+12" cast iron
+other pan
+tent footprint
+big water jug with spout
+abrasive scrub pads
 Rags for mess kit (paper towel alternative)
 mosquito coils
 large camp kitchen bin
 cheap leather gardening gloves
-
-
-- Life Jacket with quick release & pockets
-
-
+Life Jacket with quick release & pockets
 (Spyderco Ladybug)
 $30-40 Gerber River Shorty, NRS Pilot or Co-Pilot (PDF knife)
 $120 Ontario RAT 7 Survival Knife or Buck Selkirk (Big Knife)
@@ -344,8 +315,6 @@ sailing needle
 #36 Tarred Bankline (twisted, not braided)
 Pro throw bags w/ Glowsticks
 
-## Camp gear
-
 - Fire starters
 - Toilet paper
 - First aid kit
@@ -369,21 +338,22 @@ tongs
 spatula
 cook spoon
 campsuds
-- washing bin or sea to summit kitchen sink
+washing bin or sea to summit kitchen sink
 tiny cloth to pack with eating gear
 salt pepper shaker or pill case for spices
-- Eating system
-  - Titanium mugs or plastic bowls. Should match the food prep plan.
-  - Insulated coffe mugs (yeti?)
-  - Cold soak containers (if necessary)
-  - titanium Sporks (dont break)
-  - Knifes
 zpacks food bag, ursack or bear container
 camp saw (silky gomboy 240)
 axe
 Heavy Duty Aluminum Foil
 tarp
 Camp Lantern
+
+- Eating system
+  - Titanium mugs or plastic bowls. Should match the food prep plan.
+  - Insulated coffe mugs (yeti?)
+  - Cold soak containers (if necessary)
+  - titanium Sporks (dont break)
+  - Knifes
 
 ## Thwart Bag (Granite Gear / CSS)
 
@@ -401,61 +371,31 @@ Camp Lantern
 - Fiberglass Repair Kit
 - Epoxy Adhesive
 
-
-
-
 nitecore nu25 headlamp with bungee modification
-
 could use a pair of s/M dry bags
-what about tent?
-
 make a car camping mess kit packing list
 bear cannister/food containers
-
-
-need 2+ matador soap case (to replace those I took)
-1 matador S pack blanket
-1 matador L pack blanket
-
 feild sewing kit
-
 pan scaper
 tarp/table cloth
 bug nesting
-
-
 for car camping nesting kit:
 better plates/bowls
 better cups
 better pots/pans
 cast iron for camping?
 better/packable spatulas & cooking utensils
-
-
-
 iodine tablets
 packed duct tape
 leather fire gloves
 fire starters
-
-
 water bottles
-
 Trip itinerary left w/ friend + under car seat
 water filter
 backup water treatment
 treatmenttarp
 stove and fuel
-
 car camping propane stove
-
-
-
---
-
-
-packing list
-
 water bottles
 water treatment tabs
 water filter
@@ -468,8 +408,6 @@ fire starter
 lanters
 lines ropes etc
 itinerrary
-
-
 first aid supplies
 toiletries kit (bio soaps, sunscreen)
 trowel
@@ -479,7 +417,6 @@ insect repellant
 headnet (optional)
 hand sanitizer
 repair kit
-
 maps and charts
 map bag
 compass
@@ -488,8 +425,6 @@ sunglasses
 camera
 hat
 binoculars
-
-
 saw
 hiking poles
 rainwear
@@ -509,7 +444,6 @@ pump/bailer
 throw bag
 sponge
 
-clothes:
 ???
 wool hat
 moisture wicking t-shirt
@@ -521,10 +455,6 @@ fleece pants
 long underwear
 synthetic cgloves
 socks
-
-
-
-
 
 □	30-­‐35 litre dry bag.  This rubberized waterproof bag will hold ALL personal items on trip. Please avoid dry bags that have straps. Your dry bag will fit into a larger camp pack provided by the camp with 2 or 3 other students’ dry bags. Please note: if you are having trouble packing all your gear into your dry bag, no need to worry. Simply bring all of your gear in your duffel bag to camp and your instructors will help you pack.
 □	1 durable water bottle, 1 liter capacity (screw-­‐top is best, available at most outdoor stores)
@@ -561,18 +491,14 @@ Important -­‐ instructors must be aware of any medication brought on trip. Al
 Optional Items
 □	Camera (not a cell-­‐phone or iPod), a good book, cards, a small waist-­‐pack to carry your personal items you may need during the day such as sunscreen, camera. Toiletries like deodorant and shampoo can be brought but will stay at base-­‐camp.
 
-
 hyperlitemountaingear 2400 SOUTHWEST 40L pack
 1 person tent
-
 sleep system:
 sleeping bag liner
 pillows (Klymit Pillow X)
 sleeping bag
-
 platypus collapsible bottles
 sawyer squeeze
-
 hat scarf (neckwarmer) gloves
 hicking shoues
 sunglassses (Barkley)

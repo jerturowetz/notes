@@ -1,35 +1,47 @@
 # Wishlist
 
-- cotton balls w/vasolinefofr fire making
-- fire steel
-- $350 exped megamat duo 10 (w/ sheet & extra electric pump)
-- Home depot
-  Packout 22in tool box or bin
-  [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
+
+
+- Amazon:
+  - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
+  - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
+  - [3 in one oil](https://www.amazon.ca/3-IN-ONE-Multi-Purpose-Oil-3-OZ/dp/B0002JN5PG)
+  - [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
+
 - MEC:
-  - Therm-a-Rest Compressible Pillow (Small & Med)
-  - Mec deluxe pillow
-  - [MSR universal footprint (hubba hubba nx 2 )](https://www.mec.ca/en/product/5064-109/Universal-2-Regular-Footprint?colour=RED00)
-  - Boreal 21 Saw
-  - Agawa Canyon Cordura Sheath
+  - Boreal 21 Saw, sheath and spare blade
+  - 2 person sleeping pad
+
+- Home depot:
+  - [8" bastard file](https://www.homedepot.ca/product/nicholson-file-with-handle-mill-bastard-10-/1000102985)
+  - Stainless steel 3/8" lock washers
+
+--
+
+- EATING UTENSILS
+- small saw
+- [Light my fire](https://www.amazon.ca/Light-Fire-Swedish-FireSteel-Emergency/dp/B00440VIYY/)
+- OR OTHER fire steel/fero rod
+- Leather gloves for barbecue/gardening
+- Therm-a-Rest Compressible Pillow (Small & Med)
+- Mec deluxe pillow
 - Blade HQ:
   - CRKT Burnley Squid
   - Olight I3T EOS
   - CRKT Folts Minimalist
   - ESEE Izula-II
-- Matador:
-  - [Soap case][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
-  - [Blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
-  - [Cannisters](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-100ml)
-  - [Tall cannister](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-small)
-  - [Toothbrush caps](https://matadorup.com/collections/accessories/products/toothbrush-caps)
 
 
 
-## Clothes
 
+Bark River Aurora Scandi
+
+## Other
+
+- Home depot
+  - Packout 22in tool box or bin
+  - [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
 - EE VISP rain wear
-- Pocket knife
 - Xtratuf rain boots
 - Jeans
 - T-shirts:
@@ -40,15 +52,12 @@
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
-
-## Other
-
+- Audioengine A2+
 - bike pump
 - fischer price stuff
 - bongos
 - Pack towel holders
 - packout bin dividers
-- Leather gloves for barbecue/gardening
 - Fire extinguisher
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)
@@ -83,6 +92,11 @@
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
   - Pillows
 - Matador stuff:
+  - [Soap case][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
+  - [Blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
+  - [Cannisters](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-100ml)
+  - [Tall cannister](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-small)
+  - [Toothbrush caps](https://matadorup.com/collections/accessories/products/toothbrush-caps)
   - Ultraight travel towel
   - Packable beach towel
   - Packable Towel Poncho
