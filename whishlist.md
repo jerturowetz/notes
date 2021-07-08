@@ -1,25 +1,39 @@
 # Wishlist
 
+[Sharpening stone](https://www.mec.ca/en/product/6000-810/Axe-Stone?colour=NOC02)
+Silky gomboy
+Boreal 21 Saw, sheath and spare blade
+2 person sleeping pad
+some type of stuff sack for the tent
+maybe tarp?
+
+
+
+Chairs to try
+Big Agnes Skyline UL
+Helinox Chair Zero
+Big Agnes Skyline UL Stool
+
+
+
+- Home depot:
+  - [8" bastard file](https://www.homedepot.ca/product/nicholson-file-with-handle-mill-bastard-10-/1000102985)
+  - Stainless steel 3/8" lock washers
+
+
 - Amazon:
   - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
   - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
   - [3 in one oil](https://www.amazon.ca/3-IN-ONE-Multi-Purpose-Oil-3-OZ/dp/B0002JN5PG)
   - [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
 
-- MEC:
-  - Boreal 21 Saw, sheath and spare blade
-  - 2 person sleeping pad
 
-- Home depot:
-  - [8" bastard file](https://www.homedepot.ca/product/nicholson-file-with-handle-mill-bastard-10-/1000102985)
-  - Stainless steel 3/8" lock washers
+
 
 --
 
 - EATING UTENSILS
 - small saw
-- [Light my fire](https://www.amazon.ca/Light-Fire-Swedish-FireSteel-Emergency/dp/B00440VIYY/)
-- OR OTHER fire steel/fero rod
 - Leather gloves for barbecue/gardening
 - Therm-a-Rest Compressible Pillow (Small & Med)
 - Mec deluxe pillow
@@ -30,9 +44,16 @@
   - CRKT Folts Minimalist
   - ESEE Izula-II
 
+
+
+
+
+
+
+
+
 ## Other
 
-- [Pocket t-shirt](https://pochesetfils.com/pages/homme)
 - Home depot
   - Packout 22in tool box or bin
   - [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
@@ -44,6 +65,7 @@
   - [Good t-shirts](https://us.kowtowclothing.com/)
   - [Paperole shirts](https://www.paperole.com/)
   - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
+  - [Pocket t-shirt](https://pochesetfils.com/pages/homme)
   - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)

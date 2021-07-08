@@ -1,5 +1,7 @@
 # Canoe trip gear list
 
+Joe robinet fishing gear
+Pocket bellows
 https://www.crkt.com/eat-n-tool.html
 RynoSkin bug protection
 hidden woodsmen tinder bag (used for tinder/food)
@@ -40,7 +42,6 @@ https://appalachiangearcompany.com/collections/mens/products/mens-all-paca-fleec
 sleeping bag
 sleeping bag liner
 LuminAID Solar Inflatable Lanterns
-Fire Starter
 20% Picaridin Insect Repellent
 [Smokeless fire starters](https://www.amazon.com/gp/product/B005NGMJLY/)
 another 8l compression stuff sack
@@ -53,7 +54,6 @@ companion pocket knife like a esee izula or a spyderco endura 4
 spyderco delica for slicing !!
 toothbrush and toothpaste, soap, toilet paper, deodorant, and wet wipes.
 floss
-Bellows Collapsible Fire Tool
 Tyvek Ground Sheet Tent
 tent fast and light body
 northmen finnish slplitting axe
@@ -303,7 +303,6 @@ _______ Lightweight Pile/Wool Pants or synthetic pants - (ex. Polartec 100)
 - Whistles & wrist coils for everyone
 - spare Buff CoolNet® UV+ Neckwear
 - Spare flashlist (Fenix Flashlights E05 & spare alkaline batteries)
-- Leather glovbes for handling logs/fire
 - Spare water bottles/bladders (1L smartwater bottles/nalgenes)
 - Group water filter
 - Water tablets (MSR Aquatabs)
@@ -317,7 +316,6 @@ sailing needle
 #36 Tarred Bankline (twisted, not braided)
 Pro throw bags w/ Glowsticks
 
-- Fire starters
 - Toilet paper
 - First aid kit
 - tent, tent footprint, tent stakes & small towels (luightload towel)
@@ -390,7 +388,6 @@ better/packable spatulas & cooking utensils
 iodine tablets
 packed duct tape
 leather fire gloves
-fire starters
 water bottles
 Trip itinerary left w/ friend + under car seat
 water filter
@@ -406,7 +403,7 @@ sleep system
 stove and fuel
 cookset & utensils
 dishes bowls and cups
-fire starter
+esse fire steel because you can store fire starters
 lanters
 lines ropes etc
 itinerrary
