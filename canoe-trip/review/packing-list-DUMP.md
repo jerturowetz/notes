@@ -1,5 +1,7 @@
 # Canoe trip gear list
 
+https://www.crkt.com/eat-n-tool.html
+RynoSkin bug protection
 hidden woodsmen tinder bag (used for tinder/food)
 thermarest neo air xtherm
 9x9 sil nylon tarp

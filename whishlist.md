@@ -1,7 +1,5 @@
 # Wishlist
 
-
-
 - Amazon:
   - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
   - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
@@ -25,19 +23,16 @@
 - Leather gloves for barbecue/gardening
 - Therm-a-Rest Compressible Pillow (Small & Med)
 - Mec deluxe pillow
+
 - Blade HQ:
   - CRKT Burnley Squid
   - Olight I3T EOS
   - CRKT Folts Minimalist
   - ESEE Izula-II
 
-
-
-
-Bark River Aurora Scandi
-
 ## Other
 
+- [Pocket t-shirt](https://pochesetfils.com/pages/homme)
 - Home depot
   - Packout 22in tool box or bin
   - [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
