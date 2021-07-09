@@ -1,5 +1,9 @@
 # Wishlist
 
+better car camping sleep ayatems(aheets for double mattress)
+large stuff sacks for irganizing (like 30l)
+overall just improve the car cam kitchen (pot, bigger pan, tarp, better utensils)
+stuff sack system/dry sacks for sleeping bags n tent
 - Stainless steel 3/8" lock washers
 - Amazon:
   - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
