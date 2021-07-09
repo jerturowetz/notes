@@ -1,5 +1,14 @@
 # Wishlist
 
+scrubbies cloths like what we use at the sink
+bio dish soap and container
+small bottles for:
+ketchup
+mustard
+eggs
+olive oil
+
+
 - Blade HQ:
   - CRKT Burnley Squid
   - CRKT Folts Minimalistp

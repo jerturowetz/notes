@@ -1,6 +1,11 @@
 
 # Groceries
 
+- peanut butter
+- ketchup
+- Granola
+- bacon
+- green leaf
 - dinner stuff
 - bread
 - sadwich bread
