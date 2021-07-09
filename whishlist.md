@@ -1,18 +1,20 @@
 # Wishlist
 
-- Stainless steel 3/8" lock washers
-- Amazon:
-  - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
-  - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
-  - [3 in one oil](https://www.amazon.ca/3-IN-ONE-Multi-Purpose-Oil-3-OZ/dp/B0002JN5PG)
-  - [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
 - Blade HQ:
   - CRKT Burnley Squid
-  - Olight I3T EOS
   - CRKT Folts Minimalistp
+
+- Stainless steel 3/8" lock washers
+- [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
+- [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
+
+
 - Home depot
   - Packout 22in tool box or bin
   - [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
+
+
+
 - EE VISP rain wear
 - Xtratuf rain boots
 - Jeans
@@ -55,15 +57,25 @@
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [Cool art](https://www.concealed-art.com/nes-art)
 - [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
+
+
+
+
+
+
+
+
 - Jam space upgrades:
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
+
 - Simons:
   - 1 normal pillow protector
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
   - Pillows
+
 - Matador stuff:
   - [Soap case][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
   - [Blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
@@ -78,12 +90,14 @@
   - Pocket Blanket Mini
   - Packable Tote
   - Waterproof Toiletry Case
+
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
+
 - IKEA:
   - [VARIERA box x2 (laundry closet)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
   - [VARIERA short shelf riser (laundry closet)](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)

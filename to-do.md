@@ -1,7 +1,6 @@
 # Jeremy's To-Do List
 
-- hang tarp
-- bring in kates bike
+- Hang tarp
 - check out what to do about cocovillage helmet
 - Thank yous:
   - sandy & leanord
@@ -10,7 +9,6 @@
 - Reserve culinaire
   - DCG7 HHC3 9H2A 6FD3
   - 93BA G8HF GCEH EHB4
-- hang tarp
 - digitize kates vhs tapes
 - Sell dell laptop
 - Front of house bin for recycling
