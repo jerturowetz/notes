@@ -1,5 +1,8 @@
 # Canoe trip gear list
 
+MiiR Pourigami Review
+For car camping: Planetary Design French Press
+double sheets for large air mattress (flannel?)
 Joe robinet fishing gear
 Pocket bellows
 https://www.crkt.com/eat-n-tool.html
