@@ -1,9 +1,52 @@
 # Wishlist
 
+Top ways to reduce space for car camping:
+better sleep ststem (sheets better bags)
+better camp kitch: stackable cuops and dedicated oans, better bins, large collapsible water jugs.
+compress tent?
+better cooler/food storage situation (bottles fir ketchup, pb, etc)
+
+bug repellant refill
+
+clothes for adults: personsl bags
+shared bag for kids clothes
+bag for water (towels, toys, floatiea)
+shared laundry bag
+
+clothesline
+shammy for tent
+better mess: how to stay organized
+if i could combine mess kit and water kit that might help, with some type of smaller bin inside for washing or stacked bins to split the kit in 2 (or 3)
+car canping kitchen, stay organized
+
+user friendly canping stove 
+inflation device for air pad
+12" cast iron
+plates
+pot scraper
+cleaning bin
+replace camp kitcheb bin with something bigger
+aomething to haul wood
+*how to collect wood*
+how to clean stuff for a camp kitchen (scrubbies, water bin, what? scraprr, dish soap, where to spill it, gow to dry?)
+
+figure out the tent vestibule
+mora sheath
+nescafe instant coffee
+plates
+how to balance a lig for chopping
+how to collect good firewood
+twig stoves
+safety orange pacifier
+microfiber for tent 
+
 better car camping sleep ayatems(aheets for double mattress)
 large stuff sacks for irganizing (like 30l)
 overall just improve the car cam kitchen (pot, bigger pan, tarp, better utensils)
 stuff sack system/dry sacks for sleeping bags n tent
+
+
+
 - Stainless steel 3/8" lock washers
 - Amazon:
   - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
