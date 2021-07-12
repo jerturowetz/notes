@@ -65,7 +65,3 @@ Though we'll have camp water bags, it's essential to have a personal water bottl
   * $20 Klean Kanteen Original 27
   * $7-10 Any Nalgene Wide Mouth
   * $0 Plastic pop or Gatorade Bottle
-
-## Trip leader extras
-
-[Camp kitchen checklist](https://www.rei.com/learn/expert-advice/camp-kitchen-checklist.html)

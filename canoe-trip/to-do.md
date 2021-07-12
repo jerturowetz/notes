@@ -15,6 +15,7 @@ share itinerrary and maps with loved one
 - skippy container for cold soaked meals
 - Find a field guide for Northern Quebec (birds fish etc)
 - How to make a paracord painter for my canoe paddle
+- how to trap and snare
 - How to fish, how to clean fish
 - Knots
 - Some way to make coffee
