@@ -1,5 +1,7 @@
 # Wishlist
 
+https://www.amazon.ca/Soundcore-Wireless-Customized-Waterproof-Bluetooth/dp/B08KDZ2NZX
+
 Top ways to reduce space for car camping:
 better sleep ststem (sheets better bags)
 better camp kitch: stackable cuops and dedicated oans, better bins, large collapsible water jugs.
@@ -19,7 +21,7 @@ better mess: how to stay organized
 if i could combine mess kit and water kit that might help, with some type of smaller bin inside for washing or stacked bins to split the kit in 2 (or 3)
 car canping kitchen, stay organized
 
-user friendly canping stove 
+user friendly canping stove
 inflation device for air pad
 12" cast iron
 plates
@@ -38,7 +40,7 @@ how to balance a lig for chopping
 how to collect good firewood
 twig stoves
 safety orange pacifier
-microfiber for tent 
+microfiber for tent
 
 better car camping sleep ayatems(aheets for double mattress)
 large stuff sacks for irganizing (like 30l)
