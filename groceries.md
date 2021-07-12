@@ -1,19 +1,30 @@
 
 # Groceries
 
-- peanut butter
-- ketchup
+- Dinner stuff
+- Muffin ingredients
+
+--
+
+- Blueberries, strawberries
+- Apples, peaches
+- Bananas
+- Baby carrots
+- Regular carrots
+- Green leaf
+- Green beans
+- Bahn mi rolls
+- English muffins
+- Paper towels
 - Granola
-- bacon
-- green leaf
-- dinner stuff
-- bread
-- sadwich bread
-- english muffins
-- cheerios/taisin bram
-- fancy jam
-- pesto
-- peanut butter
+- Cheerios or raisin bran
+- Peanut butter
+- Jam
+- Pesto
+- Whole pepper
+- Bacon
+- 3.25% milk
+- Salted butter
 - N/A beer
 
 ## Phammaprix

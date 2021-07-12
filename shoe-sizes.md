@@ -7,3 +7,8 @@
 - Adidias casual sneakers: 10 _(might be perfect or a touch too big, maybe a 9.5 is better? might be playing with fire)_
 - Timberland winter boots: 9 - too small
 - Palladium boots: ??? - perfect
+
+## Stuff I'd like to try on
+
+- Extra tuf
+- Bogs

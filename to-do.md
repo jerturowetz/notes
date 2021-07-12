@@ -1,7 +1,7 @@
 # Jeremy's To-Do List
 
 - Hang tarp
-- check out what to do about cocovillage helmet
+- check out what to do about coco village helmet
 - Thank yous:
   - sandy & leanord
   - nancy (no gift but thanks)
