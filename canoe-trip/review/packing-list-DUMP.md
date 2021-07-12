@@ -1,5 +1,96 @@
 # Canoe trip gear list
 
+Lets start with car camping gear to make life easier.
+
+--
+
+scrubbies cloths like what we use at the sink
+bio dish soap and container
+small bottles for:
+ketchup
+mustard
+eggs
+olive oil
+- Amazon:
+  - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
+  - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
+  - [3 in one oil](https://www.amazon.ca/3-IN-ONE-Multi-Purpose-Oil-3-OZ/dp/B0002JN5PG)
+  - [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
+- [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
+- Stainless steel 3/8" lock washers
+- [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
+Top ways to reduce space for car camping:
+better sleep ststem (sheets better bags)
+better camp kitch: stackable cuops and dedicated oans, better bins, large collapsible water jugs.
+compress tent?
+better cooler/food storage situation (bottles fir ketchup, pb, etc)
+bug repellant refill
+clothes for adults: personsl bags
+shared bag for kids clothes
+bag for water (towels, toys, floatiea)
+shared laundry bag
+clothesline
+shammy for tent
+better mess: how to stay organized
+if i could combine mess kit and water kit that might help, with some type of smaller bin inside for washing or stacked bins to split the kit in 2 (or 3)
+car canping kitchen, stay organized
+user friendly canping stove
+inflation device for air pad
+12" cast iron
+plates
+pot scraper
+cleaning bin
+replace camp kitcheb bin with something bigger
+aomething to haul wood
+*how to collect wood*
+how to clean stuff for a camp kitchen (scrubbies, water bin, what? scraprr, dish soap, where to spill it, gow to dry?)
+figure out the tent vestibule
+mora sheath
+nescafe instant coffee
+plates
+how to balance a lig for chopping
+how to collect good firewood
+twig stoves
+safety orange pacifier
+microfiber for tent
+better car camping sleep ayatems(aheets for double mattress)
+large stuff sacks for irganizing (like 30l)
+overall just improve the car cam kitchen (pot, bigger pan, tarp, better utensils)
+stuff sack system/dry sacks for sleeping bags n tent
+Mattress Air Pump
+[Petzl CORE batteries](https://www.mec.ca/en/product/5051-144/ACCU-Core-Rechargeable-Battery)
+[Black Diamond Apollo lantern](https://www.outdoorgearlab.com/reviews/camping-and-hiking/lantern/black-diamond-apollo)
+[Petz Bindi](https://www.mec.ca/en/product/5056-140/Bindi-Headlamp)
+Gossamer gear 1/8" pad !!!!
+big sky pillow
+thermarest xlite vs newmo tensor
+termareest repair kit
+https://www.outdoorgearlab.com/reviews/camping-and-hiking/ultralight-backpack/gossamer-gear-mariposa
+BAHCO Laplander saw
+larger silky saw?
+petzl core battery
+An actual canoe pack for me
+silky gomboy 240 sheath
+Gossamer gear backpack
+Westcott Sewing Titanium Bonded Fine Cut Scissors, 2.5" (13867)
+dr bronners soap
+bamboo childrens tothbrush
+matches mini bic lighters
+leukotape
+small plastic bag of pills
+anti diaherra pills
+largeneedle and Gutermann 27090038 Extra Strong Thread 110 Yards-Black
+cuben repair tape
+tenatios tape flex tape
+small compass/thermometer combo
+https://www.youtube.com/watch?v=DTOv8o6UBrA
+toaks pot(s)
+[wood spoon](https://www.handmaderecycled.com/)
+
+probably want a synthetic jacket (nunatak, enlightened equipment) becuase down >< rain>
+planetarydesign Basecamp 48oz. French Press
+planetarydesign BruTrek Table Top French Presses – Grab Bag
+
 MiiR Pourigami Review
 For car camping: Planetary Design French Press
 double sheets for large air mattress (flannel?)
