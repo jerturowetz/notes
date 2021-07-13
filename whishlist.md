@@ -1,5 +1,10 @@
 # Wishlist
 
+light buff
+head net
+camp games
+
+
 https://www.amazon.ca/Soundcore-Wireless-Customized-Waterproof-Bluetooth/dp/B08KDZ2NZX
 
 Top ways to reduce space for car camping:
