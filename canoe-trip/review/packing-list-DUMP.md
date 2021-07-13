@@ -4,8 +4,10 @@ Lets start with car camping gear to make life easier.
 
 --
 
+[Esbit tabs](https://www.mec.ca/en/product/5046-832/Solid-Fuel-Tablets-12-x-14g)
+QiWiz Big Dig camping trowel
+TentLab Deuce of Spades 2 Trowel
 [Camp kitchen checklist](https://www.rei.com/learn/expert-advice/camp-kitchen-checklist.html)
-
 Sea to Summit Ultra-Sil Compression Dry Sack
 scrubbies cloths like what we use at the sink
 bio dish soap and container
