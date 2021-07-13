@@ -1,90 +1,6 @@
 # Wishlist
 
-light buff
-head net
-camp games
-
-
-https://www.amazon.ca/Soundcore-Wireless-Customized-Waterproof-Bluetooth/dp/B08KDZ2NZX
-
-Top ways to reduce space for car camping:
-better sleep ststem (sheets better bags)
-better camp kitch: stackable cuops and dedicated oans, better bins, large collapsible water jugs.
-compress tent?
-better cooler/food storage situation (bottles fir ketchup, pb, etc)
-
-bug repellant refill
-
-clothes for adults: personsl bags
-shared bag for kids clothes
-bag for water (towels, toys, floatiea)
-shared laundry bag
-
-clothesline
-shammy for tent
-better mess: how to stay organized
-if i could combine mess kit and water kit that might help, with some type of smaller bin inside for washing or stacked bins to split the kit in 2 (or 3)
-car canping kitchen, stay organized
-
-user friendly canping stove
-inflation device for air pad
-12" cast iron
-plates
-pot scraper
-cleaning bin
-replace camp kitcheb bin with something bigger
-aomething to haul wood
-*how to collect wood*
-how to clean stuff for a camp kitchen (scrubbies, water bin, what? scraprr, dish soap, where to spill it, gow to dry?)
-
-figure out the tent vestibule
-mora sheath
-nescafe instant coffee
-plates
-how to balance a lig for chopping
-how to collect good firewood
-twig stoves
-safety orange pacifier
-microfiber for tent
-
-better car camping sleep ayatems(aheets for double mattress)
-large stuff sacks for irganizing (like 30l)
-overall just improve the car cam kitchen (pot, bigger pan, tarp, better utensils)
-stuff sack system/dry sacks for sleeping bags n tent
-
-
-
-- Stainless steel 3/8" lock washers
-- Amazon:
-  - [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
-  - [Lansky Dual Grit Sharpener](https://www.amazon.ca/Lansky-Dual-Grit-Sharpener-LPUCK/dp/B000B8FW0Y/)
-  - [3 in one oil](https://www.amazon.ca/3-IN-ONE-Multi-Purpose-Oil-3-OZ/dp/B0002JN5PG)
-  - [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
-scrubbies cloths like what we use at the sink
-bio dish soap and container
-small bottles for:
-ketchup
-mustard
-eggs
-olive oil
-
-
-- Blade HQ:
-  - CRKT Burnley Squid
-  - CRKT Folts Minimalistp
-
-- Stainless steel 3/8" lock washers
-- [MSR universal footprint (hubba hubba nx 2 )](https://www.amazon.ca/MSR-Universal-2-Person-Tent-Footprint/dp/B07L5RKQ22?th=1&psc=1)
-- [File card](https://www.amazon.ca/Nicholson-File-Card-Brush-Pack/dp/B001KVM2H2/)
-
-
-- Home depot
-  - Packout 22in tool box or bin
-  - [Packout small parts holder](https://www.homedepot.ca/product/milwaukee-tool-packout-11-compartment-small-parts-organizer/1001109996)
-
-
-
-- EE VISP rain wear
+- Rain wear (ee visp?, Arc'teryx Zeta SL, maybe light and heavy options)
 - Xtratuf rain boots
 - Jeans
 - T-shirts:
@@ -93,73 +9,50 @@ olive oil
   - [Paperole shirts](https://www.paperole.com/)
   - [CBC clothes](https://retrokid.ca/collections/cbc-retro)
   - [Pocket t-shirt](https://pochesetfils.com/pages/homme)
-  - Joe Robinet merch
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
 - Audioengine A2+
-- bike pump
-- fischer price stuff
-- bongos
-- Pack towel holders
-- packout bin dividers
-- Fire extinguisher
+- Bongos
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)
-- Wood for flower box top
-- 8qt/12qt pot
-- Wood for trones 40 1/4", 20 1/8" (x4) | 6 1/4" depth, 3/4" height (also add waldos room)
-- better hose
-- hose bucket
+- Bluetooth earbuds
+- Bike pump
+- Fire extinguisher
 - Roomba
 - Dyson
+- PD Anker power bank
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
 - Refrigerator toe grille
-- Mini food processor
-- Sonos One (SL?) x2
 - Rad dad shirt for marc
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - National treasure mug for Travis
-- dolce bianca or slumber cloud sheet set (both?)
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
-- [Cool art](https://www.concealed-art.com/nes-art)
 - [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
-
-
-
-
-
-
-
-
+- Matador stuff:
+  - [Soap case x2][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
+  - [Another pocket blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
+  - [Cannisters](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-100ml)
+  - [Tall cannister](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-small)
+  - [Toothbrush caps](https://matadorup.com/collections/accessories/products/toothbrush-caps)
+  - [Nanodry packable shower towel](https://matadorup.com/collections/travel-towels/products/nanodry-shower-towel-large)
+  - [Cool bag Matador seg42](https://matadorup.com/collections/packable-bags/products/seg42-travel-pack)
 - Jam space upgrades:
+  - [Large IVAR ladders x3](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
   - [Moar guitar hooks](https://www.amazon.ca/Guitar-Ohuhu-Electric-Acoustic-Ukulele/dp/B07ZCJ2XD2/)
   - [20" deep shelf brackets x9](https://www.homedepot.ca/product/everbilt-20-inch-heavy-duty-bracket-in-white/1000676069)
   - plywood sheet cut to 4'x2' slats
   - Another amp stand?
-
 - Simons:
-  - 1 normal pillow protector
   - [Terry mattress protector](https://www.simons.ca/en/bedroom/mattress-covers/terry-mattress-protector--9963-8122140?catId=6801&colourId=10)
+  - 1 normal pillow protector
   - Pillows
-
-- Matador stuff:
-  - [Soap case][https://matadorup.com/collections/accessories/products/flatpak-soap-bar-case?variant=32070484033649]
-  - [Blanket](https://matadorup.com/collections/accessories/products/pocket-blanket)
-  - [Cannisters](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-100ml)
-  - [Tall cannister](https://matadorup.com/collections/accessories/products/waterproof-travel-canister-small)
-  - [Toothbrush caps](https://matadorup.com/collections/accessories/products/toothbrush-caps)
-  - Ultraight travel towel
-  - Packable beach towel
-  - Packable Towel Poncho
-  - Waterproof Travel Canisters
-  - Pocket Blanket
-  - Pocket Blanket Mini
-  - Packable Tote
-  - Waterproof Toiletry Case
-
+- IKEA:
+  - [VARIERA box x2 (laundry closet)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
+  - [VARIERA short shelf riser (laundry closet)](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
+  - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
 - Crate & Barrel:
   - replacement plates
   - [replacement pasta bowl](https://www.crateandbarrel.com/marin-matte-black-low-pasta-bowl/s467282)
@@ -167,13 +60,12 @@ olive oil
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
 
-- IKEA:
-  - [VARIERA box x2 (laundry closet)](https://www.ikea.com/ca/en/p/variera-box-black-80471044/)
-  - [VARIERA short shelf riser (laundry closet)](https://www.ikea.com/ca/en/p/variera-shelf-insert-white-80136622/)
-  - [Large IVAR ladders x3](https://www.ikea.com/ca/en/p/ivar-side-unit-87489409/)
-  - [FIXA chair foot felts | floor: 81/02](https://www.ikea.com/ca/en/p/fixa-stick-on-floor-protectors-set-of-20-gray-00431151/)
-  - [VITLÖK flower box](https://www.ikea.com/ca/en/p/vitloek-flower-box-with-holder-indoor-outdoor-beige-10475795/)
-  - [VITLÖK flower pot](https://www.ikea.com/ca/en/p/vitloek-plant-pot-with-holder-indoor-outdoor-beige-10475762/)
+## For New B trip
+
+- [PD car charger](https://www.amazon.ca/Charger-INIU-All-Metal-Adapter-Samsung/dp/B08VNWF24S/)
+- [USB-c cables](https://www.amazon.ca/JianHan-Charging-Samsung-MacBook-Charger/dp/B08R7BSVZK/)
+- Maybe some new clothes? T-shirts, white socks, jeans
+- Maybe some shoes? (Native shoes, flip flops, light trail runners)
 
 ## Music gear
 
