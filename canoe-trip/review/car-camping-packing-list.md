@@ -18,4 +18,9 @@
 
 ### Sleep system
 
+- Sleeping bag (Katabatic, Mountain Hardware, Zpacks)
+- Sleeping pad (Term-a-rest, Nemo)
+- Camp pillow
+- Sleeping bag liner
+
 ### Clothes

@@ -6,7 +6,7 @@ Lets start with car camping gear to make life easier.
 
 [Camp kitchen checklist](https://www.rei.com/learn/expert-advice/camp-kitchen-checklist.html)
 
-
+Sea to Summit Ultra-Sil Compression Dry Sack
 scrubbies cloths like what we use at the sink
 bio dish soap and container
 small bottles for:
