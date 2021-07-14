@@ -4,6 +4,12 @@ Lets start with car camping gear to make life easier.
 
 --
 
+firebox nano
+Extra food
+Bear cannister
+Bear spray
+Castille bar soap in a tin
+[bidet cap](https://www.amazon.com/LEOKE-Portable-Handheld-Different-Personal/dp/B07MH48WHX/)
 [Esbit tabs](https://www.mec.ca/en/product/5046-832/Solid-Fuel-Tablets-12-x-14g)
 QiWiz Big Dig camping trowel
 TentLab Deuce of Spades 2 Trowel

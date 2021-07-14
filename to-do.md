@@ -1,5 +1,6 @@
 # Jeremy's To-Do List
 
+- CMA donation cmamardi7@gmail.com answer 777
 - Hang tarp
 - check out what to do about coco village helmet
 - Thank yous:
