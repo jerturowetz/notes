@@ -1,29 +1,34 @@
-
 # Groceries
 
-- Dinner stuff
+- Dinner stuff (ideas: bbq chicken thighs, pork shoulder, stir fry)
 - Muffin ingredients
 
 --
 
+- Minced pork
+- Frozen shrimp (if affordable)
 - Blueberries, strawberries
 - Apples, peaches
-- Bananas
+- Bananas (?maybe)
 - Baby carrots
 - Regular carrots
+- Garlic
+- Ginger
+- cherry tomatoes
+- italian tomatoes (I wanna make salsa)
 - Green leaf
 - Green beans
-- Bahn mi rolls
-- English muffins
+- Bread, Wraps, Bahn mi rolls
 - Paper towels
 - Granola
-- Cheerios or raisin bran
+- Breakfast cereal (can use 2)
 - Peanut butter
 - Jam
 - Pesto
 - Whole pepper
 - Bacon
 - 3.25% milk
+- Vanilla yogurt
 - Salted butter
 - N/A beer
 

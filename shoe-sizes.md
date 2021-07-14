@@ -10,5 +10,5 @@
 
 ## Stuff I'd like to try on
 
-- Extra tuf
+- Extra tuff
 - Bogs

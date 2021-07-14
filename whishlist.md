@@ -28,6 +28,7 @@
 - $200 Angelo, Andrew, Joe gifts
 - $100 Fer sher
 - National treasure mug for Travis
+- Man U mug for Sam
 - Frame for shark lady: (16 3/4" x 15", 16" x 18 1/2: with mat)
 - [Frame for belgrade map (approx 23.5" x 16.5")](https://www.arttoframe.com/23x15-Satin-White-Frame-picture-frame/FRBW26074?page_type=E)
 - [canon ae1 lens cover](https://wwwl.ebay.ca/itm/402819162597?hash=item5dc9e4a1e5:g:-WEAAOSwjsZcp4Zk)
