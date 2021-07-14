@@ -1,8 +1,17 @@
 # Wishlist
 
+- For New B trip:
+  - [PD car charger](https://www.amazon.ca/Charger-INIU-All-Metal-Adapter-Samsung/dp/B08VNWF24S/)
+  - [USB-c cables](https://www.amazon.ca/JianHan-Charging-Samsung-MacBook-Charger/dp/B08R7BSVZK/)
+  - Maybe some new clothes? T-shirts, white socks, jeans
+  - Maybe some shoes? (Native shoes, flip flops, light trail runners)
+  - Rain gear? Packable OR stuff maybe
+
+--
+
 - Rain wear (ee visp?, Arc'teryx Zeta SL, maybe light and heavy options)
 - Xtratuf rain boots
-- Jeans
+- PD Anker power bank
 - T-shirts:
   - [Solids t-shirt](https://solids.bandcamp.com/merch)
   - [Good t-shirts](https://us.kowtowclothing.com/)
@@ -11,16 +20,15 @@
   - [Pocket t-shirt](https://pochesetfils.com/pages/homme)
   - sloan tshirt
   - Gulfer shirt (just drive by the Jeean talon market)
+- Bike pump
 - Audioengine A2+
 - Bongos
 - Brabantia Bo touch bin, 2x 30L
 - Dryer apt (max 30" wide x 24" deep)
 - Bluetooth earbuds
-- Bike pump
 - Fire extinguisher
 - Roomba
 - Dyson
-- PD Anker power bank
 - Gift for James parents (mom number: 514-974-8473)
 - Gift for Bart and Danielle
 - Refrigerator toe grille
@@ -60,13 +68,6 @@
   - [serving bowl](https://www.crateandbarrel.com/oven-to-table-serving-bowl-with-trivet/s441270)
   - [serving thingy](https://www.crateandbarrel.com/oven-to-table-two-part-dish-with-trivet/s244757)
   - [medium serving bowl](https://www.crateandbarrel.com/carson-medium-acacia-serving-bowl/s515602)
-
-## For New B trip
-
-- [PD car charger](https://www.amazon.ca/Charger-INIU-All-Metal-Adapter-Samsung/dp/B08VNWF24S/)
-- [USB-c cables](https://www.amazon.ca/JianHan-Charging-Samsung-MacBook-Charger/dp/B08R7BSVZK/)
-- Maybe some new clothes? T-shirts, white socks, jeans
-- Maybe some shoes? (Native shoes, flip flops, light trail runners)
 
 ## Music gear
 
