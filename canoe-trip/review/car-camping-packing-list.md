@@ -50,6 +50,10 @@ Contact lenses are difficult to clean on a trip, if you need them, it is suggest
   - toothbrush
   - travel toothpaste
   - bio degradable soap
+  
+optional
+
+Camera (not a cell-­‐phone or iPod), a good book, cards, if not bringing a pack, a small waist-­‐pack to carry your personal itesm is usedul
 
 ### Clothes
 
@@ -61,10 +65,14 @@ fleece sweater and cap and gloves
 - Try not to bring too much clothing. Canoes have limited space so we have to stay within these constraints. You don't need a fresh outfit every day, just day clothes and comfortable night clothes. See the packing list for examples.
 canoe gloves
 Sun hat or baseball cap
-Wool or fleece cap
-Canoe gloves
+Wool or fleece cap, baclava, buff
+wvening gloves
 Booties
 Waterproof/Breathable Layers
+hicking shoues
+sunglassses (Barkley)
+zipaway hiking pants
+Merino Wool Socks
 
 ## Do not bring any of the following
 

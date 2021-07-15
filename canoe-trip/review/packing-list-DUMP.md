@@ -4,9 +4,11 @@ Lets start with car camping gear to make life easier.
 
 --
 
+waterproof cards
+beach toys/shovels
 firebox nano
 Extra food
-Bear cannister
+Bear food cannister
 Bear spray
 Castille bar soap in a tin
 [bidet cap](https://www.amazon.com/LEOKE-Portable-Handheld-Different-Personal/dp/B07MH48WHX/)
@@ -585,26 +587,16 @@ Please note: Teva’s, Keens or sandals of any kind are dangerous on trip, espec
 □	Toothbrush, small bottle of hand sanitizer and any personal medications.
 Important -­‐ instructors must be aware of any medication brought on trip. All medication must also be listed on your medical form.
 □	1 flashlight or headlamp with extra batteries. (Headlamp is ideal.)
-
+Logbook/journal and 2-­‐3 pens or pencils in a zip-­‐lock bag.
 □	1 compact sleeping bag (rated for 0oC or lower). Synthetic is better than full “down” on water based trips. No cotton bags, as they are not compact and will not dry. If you only have a down sleeping bag—that is OK!
 □	Compact Therma-­‐rest or foam sleeping pad.  (To lay sleeping bag on top of in tent – provides extra comfort as well as an insolating layer from the ground—which is important.)
-□	Logbook/journal and 2-­‐3 pens or pencils in a zip-­‐lock bag.
+□	
 □	1-­‐2 large “ziplock” sealable plastic bag for waterproofing small items.
 □	2 large garbage bags (to seal your personal belongings when you leave camp)
 
-Optional Items
-□	Camera (not a cell-­‐phone or iPod), a good book, cards, a small waist-­‐pack to carry your personal items you may need during the day such as sunscreen, camera. Toiletries like deodorant and shampoo can be brought but will stay at base-­‐camp.
 
-hyperlitemountaingear 2400 SOUTHWEST 40L pack
-1 person tent
-sleep system:
-sleeping bag liner
-pillows (Klymit Pillow X)
-sleeping bag
+oh shit bag: 
+
+Klymit Pillow X
 platypus collapsible bottles
 sawyer squeeze
-hat scarf (neckwarmer) gloves
-hicking shoues
-sunglassses (Barkley)
-zipaway hiking pants
-Merino Wool Socks
