@@ -9,6 +9,7 @@
 
 --
 
+- Give'r gloves
 - Rain wear (ee visp?, Arc'teryx Zeta SL, maybe light and heavy options)
 - Xtratuf rain boots
 - PD Anker power bank
