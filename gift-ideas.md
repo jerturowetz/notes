@@ -1,5 +1,7 @@
 # Gift Ideas
 
+- [Kate sweatshirt](https://feministtrash.com/products/feminist-killjoy-unisex-sweatshirt)
+- [persdonalized book](https://hoorayheroes.com/personalized-books/family)
 - [puzzle](https://happyvalleyshop.com/collections/new-created-desc/products/cavallini-co-vintage-puzzle-house-plants-1000-piece-jigsaw)
 - Matador stuff
 

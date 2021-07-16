@@ -1,6 +1,8 @@
 
 # Canoe trip packing list
 
+- [How to pack a backpack](https://www.youtube.com/watch?v=J1UZvwPnA_o)
+
 ## Shared
 
 - Water purification
@@ -50,7 +52,7 @@ Contact lenses are difficult to clean on a trip, if you need them, it is suggest
   - toothbrush
   - travel toothpaste
   - bio degradable soap
-  
+
 optional
 
 Camera (not a cell-­‐phone or iPod), a good book, cards, if not bringing a pack, a small waist-­‐pack to carry your personal itesm is usedul

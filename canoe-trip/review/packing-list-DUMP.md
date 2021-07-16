@@ -4,6 +4,13 @@ Lets start with car camping gear to make life easier.
 
 --
 
+more cast iron for cammping
+camp kitchen upgrades:
+cast iron no handle?
+meta water bottle
+better grill
+grill brush
+https://trewgear.com/products/superlight-nuyarn-merino-pocket-t
 waterproof cards
 beach toys/shovels
 firebox nano
@@ -590,12 +597,12 @@ Important -­‐ instructors must be aware of any medication brought on trip. Al
 Logbook/journal and 2-­‐3 pens or pencils in a zip-­‐lock bag.
 □	1 compact sleeping bag (rated for 0oC or lower). Synthetic is better than full “down” on water based trips. No cotton bags, as they are not compact and will not dry. If you only have a down sleeping bag—that is OK!
 □	Compact Therma-­‐rest or foam sleeping pad.  (To lay sleeping bag on top of in tent – provides extra comfort as well as an insolating layer from the ground—which is important.)
-□	
+□
 □	1-­‐2 large “ziplock” sealable plastic bag for waterproofing small items.
 □	2 large garbage bags (to seal your personal belongings when you leave camp)
 
 
-oh shit bag: 
+oh shit bag:
 
 Klymit Pillow X
 platypus collapsible bottles

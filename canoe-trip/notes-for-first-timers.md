@@ -29,6 +29,8 @@ Pack a bathing suit but don't plan on wearing it during the canoing. It will get
 
 In general, your clothes should be breathable but robust. We're looking for protection from bugs, wind, rain & rocks and the ability to tear down layers quick to stay cool on hot days. Oh, and stay away from blue, for some reason mosquitos like blue.
 
+[Why Cotton Kills, A Technical Explanation](https://gizmodo.com/why-cotton-kills-a-technical-explanation-1688286083)
+
 ### Clothing: layering
 
 Throughout the day you will need to layer up and layer down as conditions and activity levels change in order to stay comfortable.
