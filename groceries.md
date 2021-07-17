@@ -21,6 +21,9 @@
 - flour
 - Whole pepper
 - N/A beer
+- laundry detergebt
+- bleach
+- resolve stain remover
 
 ## Phammaprix
 
