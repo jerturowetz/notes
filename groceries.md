@@ -4,19 +4,10 @@
 
 --
 
+- emmental, cheddar
+- salmon for poke
 - english muffins
-- cheddar, emmental
-- shrimp
-- Sliced sandwich meat
-- Blueberries, strawberries
-- Apples, peaches
-- Regular carrots
-- green side
-
---
-
 - more minced pork
-- pesto
 - soy sauce
 - campells soups
 - yellow mustard
