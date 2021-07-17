@@ -4,15 +4,31 @@
 
 --
 
+- english muffins
+- cheddar, emmental
+- shrimp
 - Sliced sandwich meat
-- Minced pork
 - Blueberries, strawberries
 - Apples, peaches
 - Regular carrots
-- Pesto
+- green side
+
+--
+
+- more minced pork
+- pesto
+- soy sauce
+- campells soups
+- yellow mustard
+- deli mustard
+- old style mustard
+- honey
+- mirin
+- penne
+- tagliatelli
+- pancake mix
+- flour
 - Whole pepper
-- Bacon
-- 1% milk
 - N/A beer
 
 ## Phammaprix
@@ -23,3 +39,14 @@
 
 - Dumplings
 - Noodles
+
+## spices
+
+- onion flakes
+- zaatar thyme
+- sweet paprkia
+- chille guajillo
+- chille pasilla
+- cinnamon sticks (like 10)
+- turkish oregano
+- dried chilles (not ancho negro)
