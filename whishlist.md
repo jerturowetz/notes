@@ -1,5 +1,6 @@
 # Wishlist
 
+ant traps
 https://www.aquaquest.ca/collections/old-logo-clearance/products/mariner-backpack?variant=38084398514327
 
 - For New B trip:
