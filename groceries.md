@@ -34,6 +34,9 @@
 ## Phammaprix
 
 - Baby soap: Cetaphil
+- D batteries
+- claratin
+- Advil
 
 ## Chinese grocery
 
