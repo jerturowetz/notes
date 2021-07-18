@@ -4,6 +4,8 @@
 
 --
 
+- mayo
+- bread
 - emmental, cheddar
 - salmon for poke
 - english muffins
@@ -24,6 +26,7 @@
 - laundry detergebt
 - bleach
 - resolve stain remover
+- toilet paper
 
 ## Phammaprix
 
