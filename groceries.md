@@ -4,6 +4,11 @@
 
 --
 
+- granola
+- coffee
+- cereal for work
+- green leaf
+- apples, plums
 - mayo
 - bread
 - emmental, cheddar
